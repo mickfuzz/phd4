@@ -7,10 +7,11 @@ zotero:
   csl-style: harvard # pre-fill the style
   layout: post
   categories: misc
-  title: 3M game making
+  title: Game Making Pedagogy using a Three M Framework
 ...
 
-# Game Making Pedagogy using a Three M Framework
+## Game Making Pedagogy using a Three M Framework
+
 ## Notes
 
 Be bold move your model to as near the front as you can.
