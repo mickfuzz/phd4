@@ -263,7 +263,7 @@ I kept a journal and recorded sessions to identify learning tensions that blocke
 
 The first step was to try to address issues of being unsure what to do next or jumping around from one thing to another without completing them. I printed out a large scale map of the different kinds of game pattern missions represented as different islands. When learners selected their next mission, they moved their counter onto that spot. Thus learners had to be intentional about their next steps. They also kept a track of the missions that they had completed by tracing a trail as they progressed. Having a physical map in my family setting this process was particularly useful to help the parents encourage goal setting and progressing from one task to another rather than getting stuck in a loop of asset design.
 
-![map of learning design]({{site.url}}/Pictures/maps_2000.png)
+![map of learning design]({{site.github.url}}/Pictures/maps_2000.png)
 
 
 In addition this chaotic, colourful and visual representation served to encourage peer knowledge of what other people were up to, build a sense of community and to encourage reflection as each design patter was completed.  
