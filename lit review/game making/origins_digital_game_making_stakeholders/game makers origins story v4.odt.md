@@ -1,0 +1,153 @@
+Game Making Origins Stories===========================
+
+Introduction------------
+
+This writing traces the foundations and various influence of currentlandscape of games and education.
+
+In a review of research on the outcomes of game based learning Connollynotes the diversity of aims and approachesConnollyet al., 2012).
+
+These include
+
+-   *Computing background -- more behaviourist, Games based Learning --    Prensky - *-   *Game playing as literacy - Gee and more*-   *Game playing as experience -- Educational background, de Freitas --    Elements here of the learning around the game -- is there much of    difference to the above? *-   *Game Making for Educational purposes -- linked to the above really    but draws in constructionists school*-   *Game making for its own sake -- professional, juul, greg c, jesse    schell, *-   *Gamification of learning / Playful learning, lee sheldon*
+
+\
+
+Framing Terms
+
+Framing (rather than defining -- seeMayer,2012)) terms and how and who uses them can help bring to the foregrounddifferent schools and the assumptions behind them.
+
+-   Serious Games -- game based learning?-   Stealth Learning - various-   Hard Fun -- constructionist / tinkering /-   Affinity Groups / Cultures -- literacy-   Micro worlds -- Computing specialists-   Digital Game Based Learning -- Prensky -- who are his advocates and    critics-   Epistemic Games -- Shaffer and how this differs from Serious Games\    \
+
+Formats / Technololgy , Purpose / Culture, Ecology
+
+We can use the three lenses above to examine different threads ofGame-Based Learning
+
+A review outlines purposes as games for entertainment, a games forlearning or a serious gamesConnollyet al., 2012). Two later terms often used synonymously by some but noteindustry simulation origins of SG. A later review reinforced thesynonymous use of the terms and subsequently disregarded as distinctionBoyleet al., 2016). This left two remaining categories, entertainment gamesand games for learning.
+
+Eck in a review of DGBL divides approaches up into three areas; studentsbuild games from scratch, bespoke learning games designed byprofessionals and COTS commercial of the shelf games integrated intoclassroomsEck,2006).
+
+However it is of value to can look at the serious games and games forlearning terms as different frames. The former of which has a higherpropensity to be simulation based. De Freitas in her introduction notesthe longer history of simulations and asks are simulations games. DeFreitas contends that while they have different histories, roles andfeedback mechanisms they are starting to converveFreitasand Maharg, 2011, p. 3).
+
+Overview of Context and Issues of DGBL--------------------------------------
+
+Goals of DGBL
+
+A model advanced in a review of motivation cited three main areas oftargeted learning and behavioural outcomes for educational games, skillbased, cognitive (declarative, procedural, strategic), and affectiveGarriset al., 2002). Connolly adopts this and extends it with additionalcognitive outcomes from other frameworks.
+
+Categories used were as follows: knowledge acquisition/contentunderstanding, perceptual and cognitive skills, motor skills,physiological outcomes, affective and motivational outcomes, behaviourchange, soft skills and social outcomes.
+
+Debates surrounding DGBL
+
+Here we'll focus on some of the debate in this field as a way ofexposing tensions and different motivations in the field.
+
+Sigurdardottir,2012) Highlights various debates in DGBL; age as a factor for DGBLparticipants, is play motivating or not ( can be sidestepped easily) &use of COTS or bespoke learning games.
+
+Jenkins sees a faultline between motivations of game designers on theexperience of play with the educators concern for 'representing content'Freitasand Maharg, 2011, p. xxiv). Whilst not coming at this from a simplistic,dualistic viewpoint he notes the difficulty of translating the openended aims of good commercial games to a school environment whereeducational games start with prescribed aims and objectives. The dangerbeing that the play is crushed out of the games.
+
+Motivation
+
+PrenskyPrensky,2005, 2001) - nade the DGBL term popular, enthusiast and advocate, thiswas needed at the time.
+
+Critique of Prensky, was a bit over the top, digital natives as types oflearners, not so much. And Stealth Learning critiqueWhitton,2008, 2007).
+
+COTS or bespoke
+
+Educational games face practical problems of the cost and developmenttime of the computer games that they compete againstWhittonand Hollins, 2008). This results in limitations of the end product interms of productions values and negative perceptions of learnersJenkins,2002).
+
+Modding is an alternative to be exploreddeFreitas, 2007).
+
+Learning in COTS games is advocated especially in the context of complexgames that require a significant investment in player time. One exampleis outlined by Stewart of the use of strategy, media creation and mathsin 'crafting' practices in MMORGSFreitasand Maharg, 2011, p. 111). Stewart terms this learning Stealth Learningand describes it an unintended learning which is hard to quantify orpredict.
+
+One issue of this kind of stealth learning is the difficulty oftranslating this to formal environments. In more formal environmentswith where a presribed learning outcome is often a prerequisit of aexams or curriculum based approach, a close matching of the potential ofthe digital game and the desired learning outcome is desirable tomaximise learning efficiencyWhitton,2009).
+
+We can also compare this use of the term stealth learning to the morequestionable use of it in in other contexts as a games as a sugar pillto trick learners into ingesting prescribed educational contentPrensky,2005).
+
+Serious Games as Simulations----------------------------
+
+From its industry training origins Serious Games have a tendency towardssimulations including health care, military, national policy budgetingDjaoutiet al., 2011; Michael and Chen, 2005; Sawyer and Smith, 2008).
+
+This study looks at the methodologies for measuring effectiveness andnotes a huge diversity in approachMayer,2012).
+
+There is a tendency to over evangelise the effectiveness of thisapproach. In a report by the Serious Games Incitative they marvel thatat the same time as the emergence of many wicked or messy problems thesolution comes in "paradoxically in a package that could hardly havelooked neater"Tucker,2012, p. 2). Tucker here champions games as interactive systems whichmirror the systems of policy decision making. SGI game Budget Hero is anexample of this. The goal here is normally to leverage governmentfunding on key issues to create games based on medium of attention formillenials argument.
+
+It is easy to be sceptical of commercial market based drive. But thereare many contextual factors that can't be ignored that presentopportunities beyond commercial exploitation including the appropriationof hardware or market mechanics for other purposesSawyerand Smith, 2008).
+
+Digital Game Based Learning as Curriculum Training--------------------------------------------------
+
+The sugar pill of data retention prenskyPrensky,2005). The Holy Grail -- making dull learning more exciting.
+
+Education / Literacy Focus - Game playing as experience-------------------------------------------------------
+
+This school of approach is inspired by early work by Gee and Jenkins.This is wides in scope extending beyond explicitly educational games toenbrace wider ecologies and practices of game playing and modding.
+
+Social cultural aspects of experience, teacher seen as orchestratinglearning experience, first chapter ofFreitasand Maharg, 2011)
+
+There is an attraction of large complex learning environments fornaturalistic, wholistic educational researchersTaylor,2009). This approach is quite fluffy and certainly doesn't suitmeasurable outcomes
+
+Then Whitton / Mosely - potential of games in learning as a widerapplication, especially in HE and a playful approach. Here understandingthe mechanism of the game, are of value, and kind of cracking of thecode. Seeing the value in the game process, and making an informedchoice about games being the most effective way of learning thatspecific material.
+
+Game Makers-----------
+
+Adult preparation for making computer games
+
+There is a distinction between AAA games and more indy game makingcourses. The first would have a more vocational, industry focusedapproach learning a particular tool chain or industry definedspecialism, while the second approach can take a step back and explorewider concepts of game making that transcend particular mediums.
+
+In terms of adult learning, we can look at game making courses to giveget a sense of what the foundational concepts are.
+
+MIT game making course gives overview of key texts that have acommonality to most areas. This would be Salen & Juul,
+
+Also work of Jesse Schell.
+
+This has influenced makers of educational packages to teach game makingtechniques. Gamestar Mechanic as an example, also developed by Salen
+
+Some courses draw on resources of a have a more cultural slant. Somemore practical tools embracing past game theory and present practice ofprofessional game makers. The widening out of the study of video gametheory has lead to a renaissance in game theory in general.
+
+While most adult courses a primary objective of making real games,(evenif making trash games, indy games), there is a wider set of objectivesfor game making programs for activities for young people.
+
+Young people's computer game making activities
+
+I've covered motivations in other writing (do a summary),
+
+Here overlap with the maker movements and diy approaches and alsostraight-forward computing agenda
+
+-   Engineering and design processes-   Understanding of game systems and mechanics-   Programming skills & computational thinking practices
+
+Conferences and Organisations ------------------------------
+
+There's a good list of these in the back of Serious Games book.
+
+Education Arcade - https://education.mit.edu/
+
+Games for Change -- g4c.org
+
+Digital Games Research Association <http://www.digra.org/>
+
+Simulation and Gaming Conference\https://link.springer.com/book/10.1007/978-3-319-91902-7
+
+Interservice/ Industry Training, Simulation and Education Conference(I/ITSEC)\Have a serious games award section -\<http://www.iitsec.org/get-involved/serious-games>\<http://sgschallenge.com/2017-sgsc-finalists-and-winners/>\
+
+Journals--------
+
+Collated List
+
+<https://games.commons.gc.cuny.edu/games-scholarship/journals/>
+
+Highlights
+
+Games and Culture (PR) <http://gac.sagepub.com/>
+
+Simulation and Gaming: An Interdisciplinary Journal of Theory, Practiceand Research (PR) <http://sag.sagepub.com/>
+
+International Journal of Games-Based Learning (PR)<http://www.igi-global.com/bookstore/titledetails.aspx?titleid=41019>
+
+Journal of Virtual Worlds Research (PR, OA)\<http://www.jvwresearch.org/>
+
+\UK
+
+Notes on useful reviews-----------------------
+
+Review of serious game making design approachesÁvila-Pesántezet al., 2017).
+
+Review of game based learning Boyle et al., 2016). ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
