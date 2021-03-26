@@ -8,7 +8,6 @@ zotero:
   layout: post
   categories: misc
   title: 3M game making
-  date: 2021-03-26
 ...
 
 # Game Making Pedagogy using a Three M Framework
