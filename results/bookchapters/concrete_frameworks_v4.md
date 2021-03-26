@@ -35,8 +35,8 @@ For more detailed overview - See local doc
   - Design approaches - creative spiral - using design patterns
 
 ### notes / ideas
-    -  downplay PBL - up play design approaches (and patterns)
-    - include associated challenges in part two
+-  downplay PBL - up play design approaches (and patterns)
+- include associated challenges in part two
 
 ### Additions -
 
