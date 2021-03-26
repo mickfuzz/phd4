@@ -8,9 +8,8 @@ zotero:
 
   layout: post
   title: Front Page
-  date: 2021-03-26
 ...
 
 # Welcome
 
-Welcome to the front page of my PhD writing repository. Some of my recent works are as follows. 
+Welcome to the front page of my PhD writing repository. Some of my recent works are as follows.
