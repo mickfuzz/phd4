@@ -216,13 +216,11 @@ Then we quickly asked learners to **Modify** a broken game with very simple chan
 
 In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
 
-
-
 The 3M process has evolved with the aim that it is accessible to parents, teachers and learners. Part of that accessibility is the playful, game like approach to it. I was inspired by a session by one of my PhD supervisors Nicola Whitton who created a game to help people learn about game concepts. In a similar way this game making model involves game techniques of missions, maps and playful methods to help with the engagement, immersion and navigation of our game making learners.
 
 My design focuses on making games to learning the craft of coding, to build meta-cognitive skills (especially goal setting and reflection) and to explore some systems concepts. You may have other goals which you need to steer your learners towards. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs.
-<CHECK THIS LATER TO MAKE SURE I DO>
 
+CHECK THIS LATER TO MAKE SURE I DO
 
 ### Missions (using Game Patterns and secret side-missions)
 
