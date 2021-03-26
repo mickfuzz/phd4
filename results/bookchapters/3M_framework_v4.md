@@ -249,7 +249,7 @@ Thus, the core of my learning design is the use of game design patterns as a rel
 
 I found that result of this approach is a kind of creative chaos. It resolved tensions around groups getting stuck. But provided another tension around how much guidance to give learners in the code examples provided. For my group of novice coders I chose to provide almost complete code help. This was because I was looking to follow the Use Modify and Create pattern. This design helps build familiarity with code and the code environment.
 
-< More perhaps on Use Modify Create - quick missions, choose patterns, take it further >  
+ <!-- More perhaps on Use Modify Create - quick missions, choose patterns, take it further    -->
 
 One of the things game designs are good at are heling learner navigation, this brings us to the next M - maps
 
