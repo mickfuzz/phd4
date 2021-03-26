@@ -7,10 +7,10 @@ zotero:
   csl-style: harvard # pre-fill the style
 
   layout: post
-  title: Blogging Like a Hacker
+  title: Front Page
   date: 2021-03-26
 ...
 
-# phd_writing
+# Welcome
 
-A place for my phd writing
+Welcome to the front page of my PhD writing repository. Some of my recent works are as follows. 

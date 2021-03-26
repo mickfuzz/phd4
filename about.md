@@ -5,12 +5,11 @@ zotero:
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
-
   layout: post
-  title: Blogging Like a Hacker
+  title: A place for my phd writing
   date: 2021-03-26
 ...
 
-# phd_writing
+# About this writing site
 
 A place for my phd writing
