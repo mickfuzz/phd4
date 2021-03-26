@@ -1,4 +1,5 @@
 theme: minima
+site.url: https://mickfuzz.github.io/phd4/
 header_pages:
  - about.md
  - index.md
