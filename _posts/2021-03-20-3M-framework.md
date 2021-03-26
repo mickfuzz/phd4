@@ -137,7 +137,7 @@ Project-based game making is inherently collaborative, involves creative design 
 Studies [@baytak_case_2010] including my own show the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
 
 More research is needed as may studies focused on observations of collaborative skills in passing rather than the core element. For the broader perspective the potential to develop such skills is exciting, however even from a narrow perspective of delivering the computing curriculum, collaboration can be used not as the end goal but a useful educational approach in itself.
-<- HOW SO?>
+HOW SO?
 
 <!-- In a previous chapter I examined the use of design frameworks to help create computing projects. One of the stages of the framework way sharing creations as a way to progressively improving designs. This incentive to revisit and revise work is valuable as a way to reinforce concepts and practices.
 
@@ -248,7 +248,7 @@ Thus, the core of my learning design is the use of game design patterns as a rel
 
 <!-- My Missions existed on different levels. Some linked to game mechanics -some to more systems thinking - some to do with engagement, social learning and reflection. -->
 
-<INSERT GRAPHIC HERE of the missions>
+INSERT GRAPHIC HERE of the missions
 
 I found that result of this approach is a kind of creative chaos. It resolved tensions around groups getting stuck. But provided another tension around how much guidance to give learners in the code examples provided. For my group of novice coders I chose to provide almost complete code help. This was because I was looking to follow the Use Modify and Create pattern. This design helps build familiarity with code and the code environment.
 
