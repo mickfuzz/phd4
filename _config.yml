@@ -5,3 +5,6 @@ header_pages:
  - index.md
 title: PhD Writing - Game Making with Families
 description: A git approach to writing a phd
+
+# publishing information 
+# pandoc -s -o 3M_framework.odt --lua-filter=../pandoctest/zotero.lua --filter=pandoc-citeproc  2021-03-20-3M-framework.md
