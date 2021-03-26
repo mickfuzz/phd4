@@ -376,7 +376,7 @@ This is borne out by Kafai and Peppler - can't find this - who say ""the diversi
 ### Time considerations and classroom culture
 
 Project-based approaches are often explored in after-school clubs or other informal settings, as the time needed to run authentic projects is often scarce due to competing curriculum demands. However they are successfully integrated into core school activities by many educators. Some of the ways to overcome this are explore in previous chapter.
-<Cross reference other chapter>
+CROSS REFERENCE OTHER CHAPTERS
 
 ### Starting a community from scratch
 
@@ -389,10 +389,6 @@ At times I felt these community building activities took away from coding and pr
 However I leave this to you as educators to resolve.
 
 And don't forget one last ingredients raw enthusiasm.
-
-
-
-
 
 ## Tensions (perhaps move some into 3M)(and into blog posts if not)
 
