@@ -6,7 +6,9 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
   layout: post
-
+  categories: misc
+  title: 3M game making
+  date: 2021-03-26
 ...
 
 # Game Making Pedagogy using a Three M Framework
