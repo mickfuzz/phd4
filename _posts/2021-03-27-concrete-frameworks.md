@@ -35,6 +35,7 @@ For more detailed overview - See local doc
   - Design approaches - creative spiral - using design patterns
 
 ### notes / ideas
+- in PRIMM quick read - they draw on SCT socio cultural theory - add this to the chapter and link to game making
 -  downplay PBL - up play design approaches (and patterns)
 - include associated challenges in part two
 
@@ -123,7 +124,7 @@ The model is expressed as a cycle as kind of learning experience here is circula
 <When to bring in Transfer? >
 <When to bring in semantic wave theory >
 
-#### Definitions of CT, concrete and abstract
+#### Definitions of Computational Thinking
 
 We can use this distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking  One is Jeanette Wing's original take. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing_computational_nodate]. The essence is abstract away concepts and principles from the context. This approach suits a formal exam approach. Many learning resources designed to support the computing curriculum present this principle as for key pillars; decomposition, pattern recognition, abstraction algorithmic thinking[@bbc_bitesize_introduction_nodate].
 
@@ -137,11 +138,11 @@ This wider and process driven definition of CT has been used and adapted by many
 
 <!-- (The review finds that) this is a really useful document to help teachers and researchers understand what to look for and what they can design their programming sessions to facilitate. If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This map of the concepts and skills that learners can develop while doing computing projects may certainly be useful but you can't argue that this definition Computational Thinking is unique. Certainly from an academic perspective we need to ask what is special about Computational Thinking. -->
 
-If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete.
-
 A fair deal of analysis has been done about the relative merits of different definitions of CT. From my perspective I feel that from an academic perspective Wing's definition does a good job of describing what is most unique about Computational Thinking compared to other frameworks. The way it looks at the special ways abstraction is done in computer science is convincing. There is a lot of overlap with Design Thinking in Brennan and Resnick's approach.
 
-However, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
+If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition.
+
+Thus, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
 
 <!-- The process CT has been taught - which is covered in another chapter - there are some really innovative and accessible ways that are proposed. Unplugged, concept mapping and others.... -->
 
@@ -160,7 +161,7 @@ We have explored that Computational Thinking is a contested term. But if people 
 Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
 
 This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to leverage the benefits of social learning.
-[peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
+[Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
 
 Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
 An example is ...
@@ -201,24 +202,39 @@ To counter act this danger there has been good recent work by NCCE. Educators ne
 
 For example, among their [*12principles for teachingcomputing*](https://blog.teachcomputing.org/how-we-teach-computing/)aimed at teachers from the National Centre for Computing Education are ways to counter these difficulties. Some of the tactics used in the area of computing education include surfing the semantic wave and an approach called expansive framing.   
 
-UNPLUGGED activities
-A quick summary
+What these theories have in common is an attempt to address the tricky issue of transfer. What the next section asks is do we need to know about transfer to learn to code?
 
+**PRIMM**
+
+PRIMM stands for Predict, Run, Investigate, Modify and Make. This has been promoted extensively in resources pitched at teachers in recently years. It has been extended from a more open framework Use, Modify and Create.
+
+For a good summary of this approach see articles in Hello World.
+
+
+**Unplugged activities**
+Unplugged are activities carried out away from the computer that aim to illustrate computing concepts.
+
+Unplugged activities often use very familiar non-school are able to draw on learners' understanding of their own concrete experiences.
+
+
+**Semantic Waves and Leading with Concepts**
+Two concepts in the teach computing principles are lead with concepts and Unplug, Unpack and Repack  
+recently these ideas have been supported with the theory of semantic waves.
+https://www.sciencedirect.com/science/article/pii/S0898589812000678?casa_token=RuwU1cIzhKsAAAAA:jrF4jxMX_fdKu4wN2npJfslXsqpgkzWpKlGat0Tp4Syn4EoukLA2ZGvLUINOOx2TUXhPrQu7
 
 SEMANTIC WAVE approach - leading with concepts.
 The process of working to integrate
 the approach has the advantage of
 
-EXPANSIVE FRAMING
+How different from experiential learning - more general? see paper above
+
+**Expansive Framing**
 Another similar approach to the semantic wave is that of expansive framing. The core idea of this approach is to meet similar abstract concepts in different
 
-What these theories have in common is an attempt to address the tricky issue of transfer. What the next section asks is do we need to know about transfer to learn to code?
 
-PRIMM
 
-This has been promoted extensively in resources pitched at teachers in recently years. It has been extended from a more open framework Use, Modify and Create.
 
-For a good summary of this approach see articles in Hello World.
+
 
 
 ## Summary of the alternatives / the rest of the chapter

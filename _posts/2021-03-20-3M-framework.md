@@ -106,6 +106,8 @@ In previous chapter the inclusive possibilities of creative computing projects w
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
+We have already met this tactic in other parts of this book in the form of Unplugged activities which often draw on concrete, home based activities or understandings. 
+
 The term Funds of Knowledge came out of work in Latino communities in the US where home cultures, skills and traditions were invisible in the school cultures resulting in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. The concept of funds of knowledge is draw on Gutiérrez [-@gutierrez_syncretic_2011] in the promotion of a concept of creating third space, neither home life, nor a traditional classroom. This kind of third space is perfect to create new kinds of working relationships between students and with teachers as facilitators.
 
 There is a related stream of UK based research by Sonia Livingstone that examines family cultures and the role of digital media including video games which echoes some of the findings of the NLT that playing video games and conversations about video games can bring families together.  
