@@ -81,9 +81,10 @@ Later in this chapter I will outline several approaches to inclusive pedagogy. B
 
 As explored elsewhere in this collection, the issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such, a social and cultural approach to understanding and incorporating the learning experience of pupils in a wider ecosystem beyond school is vital.
 
+<!-- Something about UDL principles and concrete approaches?  -->
+
 Tactics to achieve inclusive aims through a project and design-based approaches and are explored further in the latter part of this chapter. In the next section we look at one of the ways educators have tried to make computing engaging to a diverse set of learners.
 
-<!-- Something about UDL principles and concrete approaches?  -->
 
 
 #### A Note on Making Computing Engaging
