@@ -83,6 +83,9 @@ As explored elsewhere in this collection, the issue of alienation from the cultu
 
 Tactics to achieve inclusive aims through a project and design-based approaches and are explored further in the latter part of this chapter. In the next section we look at one of the ways educators have tried to make computing engaging to a diverse set of learners.
 
+<!-- Something about UDL principles and concrete approaches?  -->
+
+
 #### A Note on Making Computing Engaging
 
 Embracing the challenge of making computing projects broadly accessible and engaging and has something that many individuals and organisations both funded and enthusiast have engaged with. University and industry partner programs have created a diversity of computing materials and computing environments designed to aid novice programmers. Teachers themselves have been a tremendous source in the sharing of knowledge, materials and approaches to respond to the challenge.
@@ -182,40 +185,35 @@ In fact many studies that look at how coders learn focus not on overarching comp
 
 I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning.
 
-<!--
-In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
+<!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
 
 
-#### CT and transfer
+<!-- #### CT and transfer
+
 Mark Guzdial was an early advocate of Computational Thinking and wrote about the possibility of this kind of cross over enthusiastically - find and contextualise - However his enthusiasm has changed in focus he has moved towards a more concrete idea of what Computational Thinking . Has he lost the faith - what's happening here?
 
-The key to this idea is transfer which is a tricky concept to prove when it comes to situations like this. As Mark says, you can't prove a negative, but the evidence for CT being transferred to other areas is weak. There is a school of thinking in educational research which argues that learning how to do something like coding is entangled up in particular situations. So even though CT processes may be at work they are tacit and would be of little use in other situations.
+The key to this idea is transfer which is a tricky concept to prove when it comes to situations like this. As Mark says, you can't prove a negative, but the evidence for CT being transferred to other areas is weak.
+
+There is a school of thinking in educational research which argues that learning how to do something like coding is entangled up in particular situations. So even though CT processes may be at work they are tacit and would be of little use in other situations. -->
+
+#### Making Abstract Ideas more Concrete and Transferable
 
 
-#### Concretising Abstract Ideas
 
-One of the most widely read pieces of research on computing education in the UK was the After the Reboot report from the RSA. This published an alarming but understandable concern from teachers who worried about the academic, abstract nature of higher order Computational Thinking concepts and that they were not easily grasped by students with SEND.
+To counter act this danger there has been good recent work by NCCE. Educators need to balance the promise of transfer with the difficulties associated with the more abstract nature of the concepts. For example, among their [*12principles for teachingcomputing*](https://blog.teachcomputing.org/how-we-teach-computing/)aimed at teachers from the National Centre for Computing Education are ways to counter these difficulties.
 
-Teacher have been using accessible and often fun ways to do it through unplugged computing activities. However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
+<!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
-To counter act this danger there has been good recent work by NCCE. Educators need to balance the promise of transfer with the difficulties associated with the more abstract nature of the concepts.
+What these theories have in common is an attempt to address the tricky issue of understanding complex and abstract concepts.
 
-For example, among their [*12principles for teachingcomputing*](https://blog.teachcomputing.org/how-we-teach-computing/)aimed at teachers from the National Centre for Computing Education are ways to counter these difficulties. Some of the tactics used in the area of computing education include surfing the semantic wave and an approach called expansive framing.   
-
-What these theories have in common is an attempt to address the tricky issue of transfer. What the next section asks is do we need to know about transfer to learn to code?
-
-**PRIMM**
-
-PRIMM stands for Predict, Run, Investigate, Modify and Make. This has been promoted extensively in resources pitched at teachers in recently years. It has been extended from a more open framework Use, Modify and Create.
-
-For a good summary of this approach see articles in Hello World.
-
+What the next section asks is do we need to know about transfer to learn to code?
 
 **Unplugged activities**
 Unplugged are activities carried out away from the computer that aim to illustrate computing concepts.
 
 Unplugged activities often use very familiar non-school are able to draw on learners' understanding of their own concrete experiences.
 
+However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
 
 **Semantic Waves and Leading with Concepts**
 Two concepts in the teach computing principles are lead with concepts and Unplug, Unpack and Repack  
@@ -230,6 +228,12 @@ How different from experiential learning - more general? see paper above
 
 **Expansive Framing**
 Another similar approach to the semantic wave is that of expansive framing. The core idea of this approach is to meet similar abstract concepts in different
+
+**PRIMM**
+
+PRIMM stands for Predict, Run, Investigate, Modify and Make. This has been promoted extensively in resources pitched at teachers in recently years. It has been extended from a more open framework Use, Modify and Create.
+
+For a good summary of this approach see articles in Hello World.
 
 
 
