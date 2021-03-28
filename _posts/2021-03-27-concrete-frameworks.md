@@ -240,10 +240,11 @@ Another similar approach to the semantic wave is that of expansive framing. The 
 
 **PRIMM**
 
-PRIMM stands for Predict, Run, Investigate, Modify and Make. This has been promoted extensively in resources pitched at teachers in recently years. It has been extended from a more open framework Use, Modify and Create.
+PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.  
 
-For a good summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
+<!-- It taps on a predict to UMC -->
 
+For a more detailed summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
 
 ## Summary of the alternatives / the rest of the chapter
 
@@ -259,6 +260,10 @@ In a previous section we looked at UDL. UDL is useful as a set of principles how
 
 <!-- So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them. -->
 
+REWRITE THIS
+The perhaps the most challenging and fundamental is the guideline to provide options for individual choice and autonomy. We explore this in more depth in the next section.
+
+Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
 
 There are however other areas that are very similar to UDL that are have more research linked to computing education.
 
@@ -271,40 +276,54 @@ In the next section let's look at two promising areas that of design approaches 
 
 <!-- Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan. However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible. -->
 
-
-<!--
-MOVE TO PBL?
+<!-- MOVE TO PBL?
 This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
 
 ![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
 
 <!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
 
-The perhaps the most challenging and fundamental is the guideline to provide options for individual choice and autonomy. We explore this in more depth in the next section.
 
-Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
+### Iterative Design Approaches
+
+Iterative design involves coming back to reflect on the results of creative goals revise
+It has been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
+
+A full review is beyond what we have time for here but in simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
+
+Like reflective cycles the process is iterative in that testing and revision of the  prototype design can be repeated until the result is suitable.  
+
+Brennan and Resnick's broader definition of CT includes design processes.
+
+<!-- Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. -->
+<!-- Those principles are drawn from work creating and observing the use of Scratch as a program for novice coders. -->
+
+<!-- Tools too?  -->
+
+One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface.
+
+<!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
+
+In more recent works he has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explictly values the process over any particular content.
+
+![](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
+
+Imagine - Create - Play - Share - Reflect - Imagine
+
+<!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
 
 
-### Design Approaches
-
-Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his commitment to a more hands-on approach in his interpretation of CT earlier. Those principles are drawn from work creating and observing the use of Scratch as a program for novice coders. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface. There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc.
-
-In more recent works he has been promoting [*the five stage creativecycle*](https://medium.com/@mres/ten-tips-for-cultivating-creativity-fe79e7ebb83e).
-
-![](./Pictures/10000000000001F8000001E37980DF8728F1411B.png){width="5.25in"height="5.0311in"}
-
-Imagine -
-
-There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book.
-
-
-<!-- Use Modify Create framework -
+<!-- Use Modify Create framework - covered in another one.
 
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
 
 In **Modify** learners progress to working on real projects but one created by others.
 
 Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch. -->
+
+#### Coding as Craft and Studio Approaches (drop move craft)
+
+A particular niche of design approaches has been described as Studio Approaches
 
 The process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something has been well described using a framework called Studio Thinking - the 8different habits of mind were arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
 
@@ -319,46 +338,15 @@ Other STEM focused researchers have drawn on the process that emerged from art e
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter.
 
-We can start to see large similarities between Design Thinking, creative spiral, UMC and Studio thinking. What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
+We can start to see large similarities between Design Thinking, creative spiral and Studio thinking. What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
 
-This craft approach and the underlying pattern of the Use Modify Create guidance will be familiar to most professional and hobbyist coders. It is rare in today's coding environment to start anything really from scratch. The first stage will be to research what code frameworks will help your job and what already written modules can be incorporated .Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear. It's often a dirty job but this is the reality of coding today.
+This craft approach and the underlying pattern of the Use Modify Create guidance will be familiar to most professional and hobbyist coders.
 
-
-## Quick Sketch on Projects in Computing
-
-- Engagement
-- Hands on use of tools
-  - Maker fairs and movement
-  - tools that are pitched to learners interests
-- Studio approaches
-- (may be move?) Quick read on Observation to assess progress - https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf and linked to here - https://blog.teachcomputing.org/tag/quickread/
+It is rare in today's coding environment to start anything really from scratch. The first stage will be to research what code frameworks will help your job and what already written modules can be incorporated .Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear. It's often a dirty job but this is the reality of coding today.
 
 
-This section has been a quick introductory sketch of some of the benefits of a project based approach. In a later section I look at frameworks and other studies that support a project-based approach.
 
-
-### The Potential of Project Based Learning
-
-In the next section I'll cover the potential of project based learning and how this can create inclusive educational approaches. As you will see there are strong parallels with UDL especially in promoting choice and authenticity.
-
-Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
-
-As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
-
-As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
-
-![](./Pictures/10000000000004B000000604C4D19211EDEC1B8E.png){width="3.2035in"height="3.3957in"}
-
-  -------------------------- ---------------------------  **PBL Terms**              **Definition / Examples**  Challenging Problem          Authenticity               Real Life Relevance  Student Voice and Choice     Public Project               Critique and Revision        Reflection                   Sustained Inquiry            -------------------------- ---------------------------
-
-Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digitalmaking and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
-
-#### More about challenges and benefits of PBL
-
-But a bit more about project based learning - and how to design it in a computing situation.
-
-
-## Design Patterns as an educational tool
+#### Design Patterns as an educational tool
 
 My own efforts in this area centre around the use of design patterns. My own journey in computing has very much been as a modifier of code. You could say my motto was - keep coding crap - now that is not strictly true, but what is true is that I managed to create a lot of useful websites with code that was very far from elegant representation of Computational Thinking concepts. They did a useful job and every one improved my skills along the way.
 
@@ -373,6 +361,43 @@ The advantage of DP as a way of teaching and learning coding is that they are of
 The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection.
 
 
+### Projects and Project Based Learning
+
+- Engagement
+- Hands on use of tools
+  - Maker fairs and movement
+  - tools that are pitched to learners interests
+- Studio approaches
+
+
+One of the 12 teach computing principles in projects.
+
+In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects.
+
+Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
+
+As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
+
+As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
+
+
+**PBL Terms**
+
+Challenging Problem
+Authenticity
+Real Life Relevance
+Student Voice and Choice
+Public Project
+Critique and Revision
+Reflection
+Sustained Inquiry
+
+Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digital making and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
+
+#### More about challenges and benefits of PBL
+
+But a bit more about project based learning - and how to design it in a computing situation.
+
 
 ## Creatively Overcoming Limitations In Context
 
@@ -380,15 +405,27 @@ All of the approaches above have research to support the benefits of the approac
 
 But there are challenges of exam focus, time poverty, and lack of PBL delivery skills that are among factors hindering take up. This section looks at tips and strategies that have been used by other educators and researchers to overcome these barriers.
 
+### Time factors - sustaining the effort
+
+Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures.  
+
+I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are sidelined to cover compulsory curriculum material that has no relevance to the learners.  
+
 Resnick advises double lessons and whole terms devoted to projects. This may not be possible in exam focused classes but may be possible in some situations especially in KS2.
 
-For example, cross-curricular projects may free up more time by linking. Kafai was successful in gaining more time linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
+For example, cross-curricular projects may free up more time by linking. Kafai was successful in gaining more time linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum. Science is a common way to explore cross over. Very successful project used computational patterns as a navigational base scalable game design.
 
-Science is a common way to explore cross over. Very successful project used computational patterns as a navigational base scalable game design.
-
-I am lucky  to have been able to experiment with this as part of EdLab project - I have worked with drama practitioners to explore issues of computing ethics through coding and writing in role.
+<!-- I am lucky  to have been able to experiment with this as part of EdLab project - I have worked with drama practitioners to explore issues of computing ethics through coding and writing in role. -->
 
 Many teachers will add in projects to the end of a series of work to reinforce concept in a practical context and that is certainly better than nothing, but it is likely to reduce effectiveness.
+
+### Are they learning?
+
+Socio cultural here?
+
+Quick read on Observation to assess progress - https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf and linked to here - https://blog.teachcomputing.org/tag/quickread/
+
+### Meeting in the Middle (perhaps ditch as covered in middle section?)
 
 Meeting in the Middle - tactics to bring together approaches. The student that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. Other student may favour more concrete approaches and jump right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
 
