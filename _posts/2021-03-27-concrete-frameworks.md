@@ -77,14 +77,29 @@ Whereas the diversity of materials and end goals of projects are readily visible
 
 #### A Note on Inclusion
 
-Later in this chapter I will outline several approaches to inclusive pedagogy. But before we go on it is important to mention that here I am using definition of inclusion focused on broad understandings of participation. Research around inclusion has widened from having a chief focus on SEN issues to including barriers of culture and other exclusionary elements of school discourse. Thus Black-Hawkins and colleagues find the term participation useful and propose to explore of issues of inclusive pedagogies using a participation framework (Black-Hawkins et al., 2008).
+Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘a process of increasing participation and decreasing exclusion from the culture, community and curricula of mainstream schools’ (Booth et al., 2000).
+[find exact citation]
 
-As explored elsewhere in this collection, the issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such, a social and cultural approach to understanding and incorporating the learning experience of pupils in a wider ecosystem beyond school is vital.
+Relevant educational research has widened from having a chief focus on SEN issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008].
 
-<!-- Something about UDL principles and concrete approaches?  -->
+<!-- Thus Black-Hawkins and colleagues find the term participation useful and propose to explore of issues of inclusive pedagogies using a participation framework  -->
 
-Tactics to achieve inclusive aims through a project and design-based approaches and are explored further in the latter part of this chapter. In the next section we look at one of the ways educators have tried to make computing engaging to a diverse set of learners.
+<!-- Is participation needed here? perhaps drop? -->
 
+The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such, a social and cultural approach to understanding and incorporating the learning experience of pupils in a wider ecosystem beyond school is vital.
+
+<!-- Socio cultural here? or drop? -->
+
+<!-- The next section deals with inclusive pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
+
+An important guiding principle of inclusive pedagogy is to move away from a view that most students learn well and other need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable.
+
+Instead, inclusive pedagogy promotes the design of learning experiences so that all learners start to develop abstract concepts from concrete examples, can choose their own learning tasks (and thus levels of challenge) and bring their own experience and cultural understandings into their work.
+(Good citation needed?)
+
+<!-- Concrete fading here?  -->
+
+These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. UDL, design-based approaches and the value of projects and are explored further in the latter part of this chapter. In the next section we look at one of the ways educators have tried to make computing engaging to a diverse set of learners.
 
 
 #### A Note on Making Computing Engaging
