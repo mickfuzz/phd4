@@ -35,9 +35,12 @@ For more detailed overview - See local doc
   - Design approaches - creative spiral - using design patterns
 
 ### notes / ideas
+- order of the concrete / abstract and inclusion section - prehaps swap?
+
 - in PRIMM quick read - they draw on SCT socio cultural theory - add this to the chapter and link to game making
 -  downplay PBL - up play design approaches (and patterns)
 - include associated challenges in part two
+
 
 ### Additions -
 
@@ -77,14 +80,7 @@ Whereas the diversity of materials and end goals of projects are readily visible
 
 #### A Note on Inclusion
 
-Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘a process of increasing participation and decreasing exclusion from the culture, community and curricula of mainstream schools’ (Booth et al., 2000).
-[find exact citation]
-
-Relevant educational research has widened from having a chief focus on SEN issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008].
-
-<!-- Thus Black-Hawkins and colleagues find the term participation useful and propose to explore of issues of inclusive pedagogies using a participation framework  -->
-
-<!-- Is participation needed here? perhaps drop? -->
+Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008].
 
 The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such, a social and cultural approach to understanding and incorporating the learning experience of pupils in a wider ecosystem beyond school is vital.
 
@@ -94,13 +90,12 @@ The issue of alienation from the culture of computing in schools can be an issue
 
 An important guiding principle of inclusive pedagogy is to move away from a view that most students learn well and other need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable.
 
-Instead, inclusive pedagogy promotes the design of learning experiences so that all learners start to develop abstract concepts from concrete examples, can choose their own learning tasks (and thus levels of challenge) and bring their own experience and cultural understandings into their work.
+Instead, inclusive pedagogy promotes the design of learning experiences so that all learners start to develop abstract concepts from concrete examples, can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment  and bring their own experience and cultural understandings into their work.
 (Good citation needed?)
 
 <!-- Concrete fading here?  -->
 
 These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. UDL, design-based approaches and the value of projects and are explored further in the latter part of this chapter. In the next section we look at one of the ways educators have tried to make computing engaging to a diverse set of learners.
-
 
 #### A Note on Making Computing Engaging
 
@@ -147,21 +142,24 @@ The model is expressed as a cycle as kind of learning experience here is circula
 
 We can use this distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking  One is Jeanette Wing's original take. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing_computational_nodate]. The essence is abstract away concepts and principles from the context. This approach suits a formal exam approach. Many learning resources designed to support the computing curriculum present this principle as for key pillars; decomposition, pattern recognition, abstraction algorithmic thinking[@bbc_bitesize_introduction_nodate].
 
-Another widely used definition of CT by Brennan and Resnick -@brennan_new_2012was developed in response to the question ""How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". They take a situated approach to mapping the potential learning dimensions of working with others creating computing projects. The resulting map they create includes computational concepts, computational practices and computational perspectives. This framework based on observation of learners in action is more concrete and more accessible to teachers and learners as they can more easily recognise their own practice.
+Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to the question ""How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". They take a situated approach to mapping the potential learning dimensions of working with others creating computing projects. The resulting map they create includes computational concepts, computational practices and computational perspectives. This framework based on observation of learners in action is more concrete and more accessible to teachers and learners as they can more easily recognise their own practice.
 
 ![](./Pictures/10000000000003C00000021C64E41F1D23F592FA.png)
-Diagram of Computational Thinking by Resnick and Brennan - Diagram created by Mick Chesterman
-
+Computational Thinking model by Resnick and Brennan - Diagram created by Mick Chesterman
 
 This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach.
 
 <!-- (The review finds that) this is a really useful document to help teachers and researchers understand what to look for and what they can design their programming sessions to facilitate. If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This map of the concepts and skills that learners can develop while doing computing projects may certainly be useful but you can't argue that this definition Computational Thinking is unique. Certainly from an academic perspective we need to ask what is special about Computational Thinking. -->
 
-A fair deal of analysis has been done about the relative merits of different definitions of CT. From my perspective I feel that from an academic perspective Wing's definition does a good job of describing what is most unique about Computational Thinking compared to other frameworks. The way it looks at the special ways abstraction is done in computer science is convincing. There is a lot of overlap with Design Thinking in Brennan and Resnick's approach.
+Much analysis has been done about the relative merits of different definitions of CT. From my perspective I feel that from an academic perspective Wing's definition does a good job of describing what is most unique about Computational Thinking compared to other frameworks. The way it looks at the special ways abstraction is done in computer science is convincing. There is a lot of overlap with Design Thinking in Brennan and Resnick's approach.
+[so what?]
 
 If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition.
 
 Thus, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
+
+
+
 
 <!-- The process CT has been taught - which is covered in another chapter - there are some really innovative and accessible ways that are proposed. Unplugged, concept mapping and others.... -->
 
@@ -249,12 +247,7 @@ Another similar approach to the semantic wave is that of expansive framing. The 
 
 PRIMM stands for Predict, Run, Investigate, Modify and Make. This has been promoted extensively in resources pitched at teachers in recently years. It has been extended from a more open framework Use, Modify and Create.
 
-For a good summary of this approach see articles in Hello World.
-
-
-
-
-
+For a good summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
 
 
 ## Summary of the alternatives / the rest of the chapter
