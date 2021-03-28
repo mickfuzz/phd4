@@ -158,6 +158,9 @@ If we return to our general understanding of what abstract and concrete mean, we
 
 Thus, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
 
+
+
+
 <!-- The process CT has been taught - which is covered in another chapter - there are some really innovative and accessible ways that are proposed. Unplugged, concept mapping and others.... -->
 
 <!-- Another take on CT critiques Wing from the other angle. According to Denner and Tendre -@tedre_long_2016, Wing's view of CT over eggs the possibility of transfer to other areas beyond what is shown in the research and has a too narrow view of CT. -->
@@ -253,32 +256,25 @@ For a good summary of this approach see quick read pedagogy article. http://tiny
 
 The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
 
-Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting.
-
-In a previous section we looked at UDL. UDL is useful as a set of principles however there is less research available of application in specific settings.
-
-<!-- So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them. -->
-
-
-There are however other areas that are very similar to UDL that are have more research linked to computing education.
-
-In the next section let's look at two promising areas that of design approaches and project-based learning.
+Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting. Later in this chapter, I cover two promising areas that of design approaches and project-based learning. First however we return to UDL...
+MORE DETAILS WHY - SIGNPOSTING
 
 <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
 
-<!--
-### UDL as Learning Framework -->
 
-<!-- Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan. However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible. -->
+### UDL as Learning Framework
 
+Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan.
 
-<!--
-MOVE TO PBL?
-This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
+However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible.
+
+So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them.
+
+This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines.
 
 ![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
 
-<!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
+This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach.
 
 The perhaps the most challenging and fundamental is the guideline to provide options for individual choice and autonomy. We explore this in more depth in the next section.
 
