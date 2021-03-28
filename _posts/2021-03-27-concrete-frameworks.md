@@ -212,8 +212,6 @@ There is a school of thinking in educational research which argues that learning
 
 #### Making Abstract Ideas more Concrete and Transferable
 
-
-
 To counter act this danger there has been good recent work by NCCE. Educators need to balance the promise of transfer with the difficulties associated with the more abstract nature of the concepts. For example, among their [*12principles for teachingcomputing*](https://blog.teachcomputing.org/how-we-teach-computing/)aimed at teachers from the National Centre for Computing Education are ways to counter these difficulties.
 
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
@@ -252,16 +250,36 @@ For a good summary of this approach see quick read pedagogy article. http://tiny
 
 ## Summary of the alternatives / the rest of the chapter
 
-There is also danger that an abstract approach to Computational Thinking, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches.
+<!-- This needs editing down and turning down the volume -->
 
-These concerns are addressed in the 12 principles. Some of these support leading with abstract, others concrete, and tactics for bridging the gaps (semantic wave).
+<!-- There is also danger that an abstract approach to Computational Thinking, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
 
-I do want to challenge a couple of the principles as a way of introducing the next section. Firstly that of leading with concepts first. While this approach may suit some students, I propose that it does not suit others. Also while a concepts, abstract ideas first is well provided for in mainstream STEM education, alternative frameworks and approaches are available to us as computing educators if we want to facilitate a more creative approach.
+The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
 
-So while the concepts-first strategy has its issues, it is well supported and new techniques informed by research are emerging. What is less explored, at least in the UK context, are pedagogies and frameworks that support the creative processes involved in making computing projects work.
+Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting. Later in this chapter, I cover two promising areas that of design approaches and project-based learning. First however we return to UDL...
+MORE DETAILS WHY - SIGNPOSTING
 
 <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
-For the rest of this chapter, I cover three main areas; design approaches, project approaches and inclusive pedagogies.
+
+
+### UDL as Learning Framework
+
+Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan.
+
+However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible.
+
+So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them.
+
+This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines.
+
+![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
+
+This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach.
+
+The perhaps the most challenging and fundamental is the guideline to provide options for individual choice and autonomy. We explore this in more depth in the next section.
+
+Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
+
 
 ### Design Approaches
 
@@ -313,6 +331,7 @@ The advantage of DP as a way of teaching and learning coding is that they are of
 The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection.
 
 
+
 ## Quick Sketch on Projects in Computing
 
 - Engagement
@@ -324,7 +343,6 @@ The limits of time prevent me from describing the use of design patterns in grea
 
 
 This section has been a quick introductory sketch of some of the benefits of a project based approach. In a later section I look at frameworks and other studies that support a project-based approach.
-
 
 
 ### The Potential of Project Based Learning
@@ -346,25 +364,6 @@ Computing education is an excellent vehicle for a project-based approach to lear
 #### More about challenges and benefits of PBL
 
 But a bit more about project based learning - and how to design it in a computing situation.
-
-### UDL as Learning Framework
-
-Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan.
-
-However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible.
-
-So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them.
-
-This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines.
-
-![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png){width="6.5in"height="5.278in"}
-
-This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach.
-
-The perhaps the most challenging and fundamental is the guideline to provide options for individual choice and autonomy. We explore this in more depth in the next section.
-
-Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
-
 
 
 ## Creatively Overcoming Limitations In Context
