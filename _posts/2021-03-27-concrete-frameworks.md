@@ -134,9 +134,9 @@ These kinds of abstract concepts and and concrete experiences of them are part o
 ![kolb](./Pictures/learning-kolb.jpg)
 
 The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
-
+<!--
 <When to bring in Transfer? >
-<When to bring in semantic wave theory >
+<When to bring in semantic wave theory > -->
 
 #### Definitions of Computational Thinking
 
@@ -155,7 +155,7 @@ Much analysis has been done about the relative merits of different definitions o
 
 This agenda has been championed by education ministers Nick Gibbs and Michael Gove. A good example can be found in a speech by Nick Gibb at a launch of a collection of essays _The Question of Knowledge_ (http://tiny.cc/gibbsknowledge). I suspect most educators would find this oppositional setting of knowledge against skills unconvincing. If we return to Kobl's experiential cycle, it is through application of knowledge in concrete contexts that skills develop and understandings of knowledge deepen. Ironically in the foreword of the publication in question, references the importance of Young's concept of powerful knowledge which is knowledge put into practice in a concrete context, and putting the knowledge into practice will involve developing practical skills.
 
-Thus frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful. 
+Thus frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful.
 
 If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition.
 
