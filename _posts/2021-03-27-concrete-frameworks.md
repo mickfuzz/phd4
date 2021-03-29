@@ -361,30 +361,22 @@ Design patterns are solutions to problems or common scenarios in design areas. T
 The advantage of DP as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
 
 As Educators DPs provide certain advantages.
-As a bridge between abstract concept and concrete inplementations
+As a bridge between abstract concept and concrete implementations
 As a way to join and navigate participation in a community of coders.
-
-The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection.
 
 #### Similarities of design approaches
 
 We can start to see large similarities between different strands of design approaches.
 
-What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
+The craft approach and design patterns approach will be familiar to most professional and hobbyist coders.
 
-#### linking with professional environment
-
-This craft approach and design patterns approach will be familiar to most professional and hobbyist coders.
-
-It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch.
-
-Instead for most
-
-The first stage will be to mess around with the tools, and then  
-to research what code frameworks will help your job and what already written modules can be incorporated. Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear.
+It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for most coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear.
 
 This links back to PRIMM and the underlying approach of Use Modify Create, which is explored in more detail in a case study involving game making in another chapter in this collection.
 
+The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection.
+
+What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
 
 ### Projects and Project Based Learning
 
@@ -393,7 +385,6 @@ This links back to PRIMM and the underlying approach of Use Modify Create, which
   - Maker fairs and movement
   - tools that are pitched to learners interests
 - Studio approaches
-
 
 One of the 12 teach computing principles in projects.
 
@@ -404,7 +395,6 @@ Project-based learning is a wide set of approaches and put simply can be seen as
 As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
 
 As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
-
 
 **PBL Terms**
 
