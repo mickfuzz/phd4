@@ -444,10 +444,10 @@ We can draw on socio cultural approaches to research to do this. Rather than con
 
 Quick read on Observation to assess progress - https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf and linked to here - https://blog.teachcomputing.org/tag/quickread/
 
-### Meeting in the Middle (perhaps ditch as covered in middle section?)
+<!-- ### Meeting in the Middle (perhaps ditch as covered in middle section?)
 
 Meeting in the Middle - tactics to bring together approaches. The student that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. Other student may favour more concrete approaches and jump right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
 
 PBL and UDL would promote not Concepts First, but Choice First, either a concrete exploration, which allows students to meet the concepts in a practical setting first.
 
-I explore the idea of a strategy to 'meet in the middle' allowing students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
+I explore the idea of a strategy to 'meet in the middle' allowing students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection. -->
