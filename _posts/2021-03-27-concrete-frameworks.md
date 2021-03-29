@@ -364,6 +364,11 @@ As Educators DPs provide certain advantages.
 As a bridge between abstract concept and concrete implementations
 As a way to join and navigate participation in a community of coders.
 
+#### Case Study - Computational Patterns
+
+Look at Scalable Game Design - and the use of computational patterns.
+
+
 #### Similarities of design approaches
 
 We can start to see large similarities between different strands of design approaches.
