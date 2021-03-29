@@ -1,5 +1,4 @@
 ---
-# all the regular stuff you have here
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
@@ -56,7 +55,9 @@ For more detailed overview - See local doc
 One of the interesting aspects of computing as a subject is the variety of different ways it can be taught. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
 
 <!-- not sure about hands on here
-no-one really wants to teach in a hands off way -->
+no-one really wants to teach in a hands off way
+this is part of the 12 principles
+-->
 
 ### Context of Teaching Computing in the UK
 
@@ -272,6 +273,12 @@ There are however other areas that are very similar to UDL that are have more re
 
 In the next section let's look at two promising areas that of design approaches and project-based learning.
 
+### Design Approaches
+
+Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
+
+In the following section I explore certain design approaches including - iterative design, studio thinking and the use of design patterns.
+
 <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
 
 <!--
@@ -290,7 +297,6 @@ This sounds chaotic and at times that is an experience that observers comment on
 ### Iterative Design Approaches
 
 Iterative design involves coming back to reflect on the results of creative goals revise
-It has been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
 
 A full review is beyond what we have time for here but in simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
 
@@ -314,8 +320,6 @@ In more recent works he has been promoting [*a five stage creative cycle http://
 Imagine - Create - Play - Share - Reflect - Imagine
 
 <!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
-
-
 <!-- Use Modify Create framework - covered in another one.
 
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
@@ -324,11 +328,14 @@ In **Modify** learners progress to working on real projects but one created by o
 
 Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch. -->
 
-#### Coding as Craft and Studio Approaches (drop move craft)
+#### Studio Thinking
 
-A particular niche of design approaches has been described as Studio Approaches
+Research of on the design approaches in artistic archetecture studios has described them as Studio Thinking and described as 8 studio habits of mind.
+A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
 
-The process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something has been well described using a framework called Studio Thinking - the 8different habits of mind were arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
+Too large to describe in detail but perhaps
+Take highlights...
+Importance of craft approaches for examples involves the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
 
 ![](./Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
 
@@ -341,27 +348,42 @@ Other STEM focused researchers have drawn on the process that emerged from art e
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter.
 
-We can start to see large similarities between Design Thinking, creative spiral and Studio thinking. What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
-
-This craft approach and the underlying pattern of the Use Modify Create guidance will be familiar to most professional and hobbyist coders.
-
-It is rare in today's coding environment to start anything really from scratch. The first stage will be to research what code frameworks will help your job and what already written modules can be incorporated .Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear. It's often a dirty job but this is the reality of coding today.
-
-
 
 #### Design Patterns as an educational tool
 
-My own efforts in this area centre around the use of design patterns. My own journey in computing has very much been as a modifier of code. You could say my motto was - keep coding crap - now that is not strictly true, but what is true is that I managed to create a lot of useful websites with code that was very far from elegant representation of Computational Thinking concepts. They did a useful job and every one improved my skills along the way.
+My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing.
 
-I am not trying to say everyone should learn how to code in this way. However, it is a valid way that has been seen to suit many novices.
+When I trained in computing at Master level, to upgrade my craft,
+one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to help an object oriented approach.
 
-This recalls early writing in the field of studying how young people learn how to code which celebrates the power of this kind of concrete approach as an alternative to teaching coding starting with first principles.
-
-As I retrained in computing in a proper way, one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to help an object oriented approach.
+Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
 
 The advantage of DP as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
 
+As Educators DPs provide certain advantages.
+As a bridge between abstract concept and concrete inplementations
+As a way to join and navigate participation in a community of coders.
+
 The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection.
+
+#### Similarities of design approaches
+
+We can start to see large similarities between different strands of design approaches.
+
+What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
+
+#### linking with professional environment
+
+This craft approach and design patterns approach will be familiar to most professional and hobbyist coders.
+
+It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch.
+
+Instead for most
+
+The first stage will be to mess around with the tools, and then  
+to research what code frameworks will help your job and what already written modules can be incorporated. Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear.
+
+This links back to PRIMM and the underlying approach of Use Modify Create, which is explored in more detail in a case study involving game making in another chapter in this collection.
 
 
 ### Projects and Project Based Learning
