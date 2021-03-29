@@ -368,6 +368,15 @@ As a way to join and navigate participation in a community of coders.
 
 Look at Scalable Game Design - and the use of computational patterns.
 
+The rational is a limitation of the utility of more abstract concepts of CT, but a desire to leverage the power of the coding environment for other transferrable concepts.
+
+In the case of SGD these patterns were and those present in games which could also be applied to science simulation.
+
+This brings up a question of what patterns to choose. Many are present in coding communities, in response to similar needs especially in multimedia applications.
+Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
+RE-READ SGD work
+
+
 
 #### Similarities of design approaches
 
