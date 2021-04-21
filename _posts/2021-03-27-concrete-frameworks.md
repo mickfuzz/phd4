@@ -48,7 +48,8 @@ For more detailed overview - See local doc
 - Invite question - what exactly is abstract?
 - Then on to Papert - pluralism - they get there if you let them experiment or the design of the tools / experience leads them there.   
 - some kind of resolution of concrete and abstract concepts
-
+- there is abstraction at every level , young kids grouping red toys, abstract, analyse and sythesise by grouping - this doesn't have to be taught explicitly
+- the essential tension of teachers trying to be inclusive but having to respond to a curriculum. 
 
 ## Introduction
 

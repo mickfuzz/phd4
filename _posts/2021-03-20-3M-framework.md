@@ -106,7 +106,7 @@ In previous chapter the inclusive possibilities of creative computing projects w
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
-We have already met this tactic in other parts of this book in the form of Unplugged activities which often draw on concrete, home based activities or understandings. 
+We have already met this tactic in other parts of this book in the form of Unplugged activities which often draw on concrete, home based activities or understandings.
 
 The term Funds of Knowledge came out of work in Latino communities in the US where home cultures, skills and traditions were invisible in the school cultures resulting in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. The concept of funds of knowledge is draw on Gutiérrez [-@gutierrez_syncretic_2011] in the promotion of a concept of creating third space, neither home life, nor a traditional classroom. This kind of third space is perfect to create new kinds of working relationships between students and with teachers as facilitators.
 
@@ -120,10 +120,12 @@ More research is needed on ways to draw out attitudes and knowledge of game cult
 
 The concepts of a third space normally happens outside of the school environment, thus the challenge exists how to create such a third space within the classroom. Suggestions now, and the methods part of the 3M framework (drama process).
 
-To allow students to bring their own home funds on knowledge into their work teachers can adopt the following techniques.
+To allow students to bring their own home funds on knowledge into their work teachers can adopt two main ways.
+REWORD TO PUT THE CONCEPTS FIRST - TWO TYPES OF FOK  
 
 -   Allow students to base their coding projects on well known game tropes or genres.
 -   Allow for choice over the narrative of the game and the characters to allow for student choice
+
 <!-- Any up to date literature on participation in game cultures? -->
 
 <!-- The concept of funds on knowledge or Discourses was explored and promoted by Gee in the well respected book What Video Games have to Teach us about Learning and Literacy. The perspective there was on DIY and home communities and the potential for X -->
