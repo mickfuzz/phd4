@@ -135,7 +135,7 @@ THIS BIT ON KOLB IS PERHAPS OVERKILL?
 
 These kinds of abstract concepts and and concrete experiences of them are part of a learning model called experiential learning which was make popular by Kolb.
 
-![kolb](./Pictures/learning-kolb.jpg)
+![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg)
 
 The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
 <!--
