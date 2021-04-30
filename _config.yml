@@ -1,10 +1,12 @@
 theme: minima
-site.url: https://mickfuzz.github.io/phd4/
+# site.url: https://mickfuzz.github.io/phd4/
 header_pages:
  - about.md
  - index.md
 title: PhD Writing - Game Making with Families
 description: A git approach to writing a phd
 
-# publishing information 
+url: https://mickfuzz.github.io
+baseurl: /phd4
+# publishing information
 # pandoc -s -o 3M_framework.odt --lua-filter=../pandoctest/zotero.lua --filter=pandoc-citeproc  2021-03-20-3M-framework.md

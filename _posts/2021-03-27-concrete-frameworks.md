@@ -108,7 +108,8 @@ A quick search the web for creative computing shows a tremendous diversity of ac
 
 Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.  
 
-However while this train is enticing it is not always clear how to get on board. As pedagogies are less explored. Signposting?
+However while this train is enticing it is not always clear how to get on board. As pedagogies are less explored.
+Signposting?
 
 <!--A quick search of the web will bring up countless blogs, twitter posts and online groups and individuals sharing exciting tools and creations.  -->
 
@@ -126,11 +127,11 @@ However there are also dangers of adopting teaching in a abstract way. For examp
 
 There are also dangers associated with learning things in a concrete way as well. If you learned you coding by teaching yourself or just picking it up for other people then you may be able to complete tasks but not be able to explain what you have done to other people, or may really struggle to recognise similar patterns in other computing contexts. This kind of knowledge is sometimes called embodied skills.
 
-Interestingly, one of the critical voices who challenged the idea that abstract approaches were a higher form of knowledge was Seymour Papert whose work on creative computing at MIT created a legacy that includes the work on the Scratch programming tool. Together with Sherry Turkle they talk about valuing concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that some of the hard approaches and formal language can be off putting to certain learners and especially girls.
+Interestingly, one critical voice challenging the idea that abstract approaches were a higher form of knowledge was Seymour Papert whose work on creative computing at MIT created a legacy that includes the work on the Scratch programming tool. Together with Sherry Turkle they talk about valuing concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that some of the hard approaches and formal language can be off putting to certain learners and especially girls.
 
-The danger of the abstract is to devaluing more bottom up approach to coding which has been popularly expressed as a craft approach, getting close to the materials. An approach which has a lot of value in many professions and has been behind many scientific break-throughs.    
+The danger of the abstract is to devaluing more bottom up approach to coding which has been popularly expressed as a craft approach, getting close to the materials. An approach which has a lot of value in many professions and has been behind many scientific break-throughs. For someone like myself, who taught themselves how to code, it is really encouraging to read this.
 
-For someone like myself, self taught, it is liberating reading.
+THIS BIT ON KOLB IS PERHAPS OVERKILL?
 
 These kinds of abstract concepts and and concrete experiences of them are part of a learning model called experiential learning which was make popular by Kolb.
 
@@ -138,7 +139,7 @@ These kinds of abstract concepts and and concrete experiences of them are part o
 
 The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
 <!--
-When to bring in Transfer? 
+When to bring in Transfer?
 When to bring in semantic wave theory  -->
 
 #### Definitions of Computational Thinking
@@ -298,7 +299,7 @@ This sounds chaotic and at times that is an experience that observers comment on
 
 ### Iterative Design Approaches
 
-Iterative design involves coming back to reflect on the results of creative goals revise
+Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results.
 
 A full review is beyond what we have time for here but in simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
 
@@ -321,7 +322,8 @@ In more recent works he has been promoting [*a five stage creative cycle http://
 
 Imagine - Create - Play - Share - Reflect - Imagine
 
-<!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
+There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book.
+
 <!-- Use Modify Create framework - covered in another one.
 
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
@@ -335,9 +337,7 @@ Progressing to the **Create** stage - is not an immediate process. As novices pi
 Research of on the design approaches in artistic archetecture studios has described them as Studio Thinking and described as 8 studio habits of mind.
 A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
 
-Too large to describe in detail but perhaps
-Take highlights...
-Importance of craft approaches for examples involves the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
+Too large to describe in detail but it is useful to look at some of the key aspects. These include the importance of craft approaches, the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
 
 ![](./Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
 
