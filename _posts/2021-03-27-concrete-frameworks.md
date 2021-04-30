@@ -108,10 +108,11 @@ A quick search the web for creative computing shows a tremendous diversity of ac
 
 Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.  
 
-However while this train is enticing it is not always clear how to get on board. As pedagogies are less explored.
-Signposting?
+However while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to get best approach these opportunities from an educational point of view.
 
-<!--A quick search of the web will bring up countless blogs, twitter posts and online groups and individuals sharing exciting tools and creations.  -->
+SIGNPOSTING (but not too much)?
+To help address this chapter will cover some design and project based approaches to help
+Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of  
 
 ### Computational Thinking, the Abstract and Concrete
 
@@ -120,7 +121,6 @@ Signposting?
 When reading about different approaches to teaching computing you are likely to meet the terms concrete and abstract. As these are such foundational terms, and because they are often used without introduction, lets define them quickly. In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract.
 
 There is another everyday usage which hints that abstract knowledge are harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete.
-
 In everyday language to grok something is a concrete understanding. In traditional conceptions of education  abstract knowledge is of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge.
 
 However there are also dangers of adopting teaching in a abstract way. For example, learners may not make a connection to a real situation and then can only recall rather than apply the knowledge. This is termed inert knowledge. For example in computing terms you may be able to give a definition of what a function is in a coding language but not be able to write one.
@@ -133,14 +133,14 @@ The danger of the abstract is to devaluing more bottom up approach to coding whi
 
 THIS BIT ON KOLB IS PERHAPS OVERKILL?
 
-These kinds of abstract concepts and and concrete experiences of them are part of a learning model called experiential learning which was make popular by Kolb.
+These kinds of abstract concepts and concrete experiences of them are part of a learning model called experiential learning which was make popular by Kolb.
 
+<!-- Image done in a way that works on github pages  -->
 ![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg)
 
 The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
-<!--
-When to bring in Transfer?
-When to bring in semantic wave theory  -->
+
+<!-- When to bring in Transfer? When to bring in semantic wave theory  -->
 
 #### Definitions of Computational Thinking
 
@@ -159,17 +159,17 @@ Much analysis has been done about the relative merits of different definitions o
 
 This agenda has been championed by education ministers Nick Gibbs and Michael Gove. A good example can be found in a speech by Nick Gibb at a launch of a collection of essays _The Question of Knowledge_ (http://tiny.cc/gibbsknowledge). I suspect most educators would find this oppositional setting of knowledge against skills unconvincing. If we return to Kobl's experiential cycle, it is through application of knowledge in concrete contexts that skills develop and understandings of knowledge deepen. Ironically in the foreword of the publication in question, references the importance of Young's concept of powerful knowledge which is knowledge put into practice in a concrete context, and putting the knowledge into practice will involve developing practical skills.
 
-Thus frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful.
+SINGPOSTING - Given this, educational practices and frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful. Also, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
 
-If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition.
-
-Thus, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
+<!-- If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition. -->
 
 <!-- The process CT has been taught - which is covered in another chapter - there are some really innovative and accessible ways that are proposed. Unplugged, concept mapping and others.... -->
 
 <!-- Another take on CT critiques Wing from the other angle. According to Denner and Tendre -@tedre_long_2016, Wing's view of CT over eggs the possibility of transfer to other areas beyond what is shown in the research and has a too narrow view of CT. -->
 
 ## Practical Tactics for teaching CT
+
+IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE ITS TOO MUCH 
 
 In practical terms, as CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them. In this middle section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
 
@@ -181,9 +181,9 @@ We have explored that Computational Thinking is a contested term. But if people 
 
 Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
 
-This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to leverage the benefits of social learning.
-[Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
+This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
 
+[Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
 Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
 An example is ...
 
