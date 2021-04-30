@@ -49,7 +49,7 @@ For more detailed overview - See local doc
 - Then on to Papert - pluralism - they get there if you let them experiment or the design of the tools / experience leads them there.   
 - some kind of resolution of concrete and abstract concepts
 - there is abstraction at every level , young kids grouping red toys, abstract, analyse and sythesise by grouping - this doesn't have to be taught explicitly
-- the essential tension of teachers trying to be inclusive but having to respond to a curriculum. 
+- the essential tension of teachers trying to be inclusive but having to respond to a curriculum.
 
 ## Introduction
 
@@ -60,7 +60,7 @@ no-one really wants to teach in a hands off way
 this is part of the 12 principles
 -->
 
-### Context of Teaching Computing in the UK
+<!-- ### Context of Teaching Computing in the UK -->
 
 Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
 
@@ -68,7 +68,8 @@ Computational Thinking started to gain wider attention when the academic and com
 
 I will use the lens of projects to examine creativity in computing.   -->
 
-The start of this chapter outlines some of the theory and practice of applying an inclusive approach to computing projects, specifically the benefits of a hands-ons/project based approach. I then look at different interpretations of Computational Thinking from a critical perspective to contrast the concepts-first approach to other more concrete approaches like project-based learning.
+The start of this chapter outlines some of the theory and practice of applying an inclusive approach to computing projects, specifically the benefits of a project based approach. I then look at different interpretations of Computational Thinking from a critical perspective to contrast the concepts-first approach to other more concrete approaches like project-based learning.
+(not sure about that last sentence)
 
 <!-- In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
@@ -80,7 +81,7 @@ Whereas the diversity of materials and end goals of projects are readily visible
 
 <!-- ## Coding well is well hard - hard to learn- hard to teach. Choosing suitable coding projects for novices is hard to get right. They may be too hard or too boring. [removed extra]  -->
 
-#### A Note on Inclusion
+#### Inclusion and Participation
 
 Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008].
 
@@ -137,8 +138,8 @@ These kinds of abstract concepts and and concrete experiences of them are part o
 
 The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
 <!--
-<When to bring in Transfer? >
-<When to bring in semantic wave theory > -->
+When to bring in Transfer? 
+When to bring in semantic wave theory  -->
 
 #### Definitions of Computational Thinking
 
