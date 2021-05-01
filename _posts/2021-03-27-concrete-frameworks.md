@@ -173,14 +173,32 @@ IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE ITS TOO MUCH
 
 In practical terms, as more abstract CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them.
 
-As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
-SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
+In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years.
 
-THEN FROM THIS MORE ON THE GENERAL CONDITIONS IN THE CLASSROOM NEEDED TO MAKE THIS HAPPEN
+The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
+
+The questions which address CT and programming are in the format of small coding challenges carried out on paper. Questions in a this  written exam format have to be atomised to test a particular part of the curriculum. They have very little in the way of context and the ability for students to apply design and debugging skills or follow their own interests.
+
+This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment.
+It is a hard challenge. - 
+One of the things that
+
+<!-- SOME MORE OF THIS  ?-->
+
+
+<!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
+AN EXAMPLE ?-->
+
+As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
+
+<!-- SOME MORE ON THE GENERAL CONDITIONS IN THE CLASSROOM NEEDED TO MAKE THIS HAPPEN? -->
+
+In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail.
 
 In this section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
 
-In the final section I take a more idealistic and inclusive pedagogical approach in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail.
+This includes  conditions / tactics  - concepts first - unpack and repack within the confines of the duration of your lesson.
+
 
 ### Coding - coding is the not same as CT - but it's a good place to develop it
 
@@ -196,7 +214,9 @@ An example is ...
 
 Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
 
-The is a tension here between giving learners the freedom to persue their concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
+<!-- Move this up to intro? -->
+
+The is a tension here between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
 
 This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
 
