@@ -169,9 +169,16 @@ SINGPOSTING - Given this, educational practices and frameworks which support lea
 
 ## Practical Tactics for teaching CT
 
-IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE ITS TOO MUCH 
+IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE ITS TOO MUCH
 
-In practical terms, as CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them. In this middle section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
+In practical terms, as more abstract CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them.
+
+As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
+SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
+
+THEN FROM THIS MORE ON THE GENERAL CONDITIONS IN THE CLASSROOM NEEDED TO MAKE THIS HAPPEN
+
+In this section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
 
 In the final section I take a more idealistic and inclusive pedagogical approach in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail.
 
@@ -227,7 +234,7 @@ What the next section asks is do we need to know about transfer to learn to code
 **Unplugged activities**
 Unplugged are activities carried out away from the computer that aim to illustrate computing concepts.
 
-Unplugged activities often use very familiar non-school are able to draw on learners' understanding of their own concrete experiences.
+Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences.
 
 However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
 
