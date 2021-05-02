@@ -127,9 +127,13 @@ However there are also dangers of adopting teaching in a abstract way. For examp
 
 There are also dangers associated with learning things in a concrete way as well. If you learned you coding by teaching yourself or just picking it up for other people then you may be able to complete tasks but not be able to explain what you have done to other people, or may really struggle to recognise similar patterns in other computing contexts. This kind of knowledge is sometimes called embodied skills.
 
-Interestingly, one critical voice challenging the idea that abstract approaches were a higher form of knowledge was Seymour Papert whose work on creative computing at MIT created a legacy that includes the work on the Scratch programming tool. Together with Sherry Turkle they talk about valuing concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that some of the hard approaches and formal language can be off putting to certain learners and especially girls.
+Interestingly, one critical voice challenging the idea that abstract approaches were a higher form of knowledge was Seymour Papert whose work on creative computing at MIT created a legacy that includes the work on the Scratch programming tool. Papert and Turkle [-@papert_epistemological_1990] talk about revaluing concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that some of the hard approaches and formal language can be off putting to certain learners and especially girls.
 
 The danger of the abstract is to devaluing more bottom up approach to coding which has been popularly expressed as a craft approach, getting close to the materials. An approach which has a lot of value in many professions and has been behind many scientific break-throughs. For someone like myself, who taught themselves how to code, it is really encouraging to read this.
+
+In this light, the process of finding solutions to coding issues.
+
+They give the example of a young coder who is
 
 THIS BIT ON KOLB IS PERHAPS OVERKILL?
 
@@ -169,7 +173,9 @@ SINGPOSTING - Given this, educational practices and frameworks which support lea
 
 ## Practical Tactics for teaching CT
 
-IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE ITS TOO MUCH
+<!-- Why CT here - what is the denfition? is it coding/  -->
+
+<!-- IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE IT'S TOO MUCH - keep in but revalue later -->
 
 In practical terms, as more abstract CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them.
 
@@ -179,12 +185,12 @@ The removal of course work from exams due to widespread sharing of worked exampl
 
 The questions which address CT and programming are in the format of small coding challenges carried out on paper. Questions in a this  written exam format have to be atomised to test a particular part of the curriculum. They have very little in the way of context and the ability for students to apply design and debugging skills or follow their own interests.
 
-This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment.
-It is a hard challenge. - 
-One of the things that
+This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
 
-<!-- SOME MORE OF THIS  ?-->
+You could argue that the skills required to answer these questions are quite different from coding in a real life setting. For example, patching, adapted to existing practices.
 
+One of the things that teachers have to resolve is the trade off between teaching to the test, leading with concepts and the engagement potential of student working on their own projects.
+<!-- SOME MORE OF THIS move from later on ?-->
 
 <!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
 AN EXAMPLE ?-->
@@ -202,11 +208,21 @@ This includes  conditions / tactics  - concepts first - unpack and repack within
 
 ### Coding - coding is the not same as CT - but it's a good place to develop it
 
-We have explored that Computational Thinking is a contested term. But if people can't agree on what it is, there is general agreement that computational thinking is not just computer coding. I as I became I learned how to become a proficient coder without explicitly being taught the more abstract CT concepts.
+<!-- THIS SECTION CAN BE REDUCED A LOT - not abstract CT vs applied - but strategies for deepening and making experience more concrete -->
 
-Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
+We have explored that Computational Thinking is a contested term. While there is a general agreement  that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
+
+<!-- I as I became I learned how to become a proficient coder without explicitly being taught the more abstract CT concepts. Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed. -->
+
+As we have seen GCSE exams include a paper which tests application of coding concepts in a paper based format.
+
+Tension of Real Life coding and the time it takes to learn via real projects and the needs of formal written answers.
 
 This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
+
+To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process.
+
+*Peer Programming*
 
 [Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
 Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
