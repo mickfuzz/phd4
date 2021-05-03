@@ -129,13 +129,20 @@ There are also dangers associated with learning things in a concrete way as well
 
 Interestingly, one critical voice challenging the idea that abstract approaches were a higher form of knowledge was Seymour Papert whose work on creative computing at MIT created a legacy that includes the work on the Scratch programming tool. Papert and Turkle [-@papert_epistemological_1990] talk about revaluing concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that some of the hard approaches and formal language can be off putting to certain learners and especially girls.
 
-The danger of the abstract is to devaluing more bottom up approach to coding which has been popularly expressed as a craft approach, getting close to the materials. An approach which has a lot of value in many professions and has been behind many scientific break-throughs. For someone like myself, who taught themselves how to code, it is really encouraging to read this.
+In this light, the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time."
+MORE ON BRICOLAGE?
 
-In this light, the process of finding solutions to coding issues.
+They give the example of a young coder Lisa, who is aware of a more formal way to approach the kinds of programming tasks she is undertaking, but maintains that way doesn't work for her. As she continues her journey as a coder this frequent message that she is doing things the wrong way demotivates her enthusiasm around coding. The more abstract concepts are thinking tools that are only useful to the learner if they match with her experiences. Forcing the learner towards them in this example is counter productive as it invalidates her experience and progress.
 
-They give the example of a young coder who is
+The authors outline that the danger of leading with the abstract is to devalue a more bottom up approach to coding which has been popularly expressed as a craft approach, getting close to the materials. An approach which has a lot of value in many professions and has been behind many scientific break-throughs. For someone like myself, who taught themselves how to code, it is really encouraging to read this.
 
-THIS BIT ON KOLB IS PERHAPS OVERKILL?
+The debate of the utility of testing using more formal abstract measures of success has been going on for many years. The IQ test is a good example which has been criticised for being culturally biased in favour of more Western understandings of intelligence which favour formal logical and abstract elements and ignore other measures of emotional, cultural and practical intelligence.
+
+However, while this valuing of concrete approaches was and remains to be an important antidote to the status quo, it is potentially unhelpful to express concrete and abstract as two paths that never meet. After all abstract concepts can be useful. The danger is when the abstract concepts chosen by educators or included in the curriculum are not seemingly useful to learners. That will make disengagement much more likely to happen.  
+
+THE NEXT ON KOLB IS PERHAPS OVERKILL / OR NOT HELPFUL AS TOO COGNITIVE? BUT SOCIO CULTURAL NEEDS TO HAPPEN SOMEWHERE....HOW ABOUT A SOCIO CULTURAL TAKE ON A CONCEPT AS A CULTURAL TOOL USEFUL TO A COMMUNITY  - AT SOME POINT IN THIS CHAPTER THE FUNDAMENTAL PROBLEM OF AN ABSTRACTED SCHOOL / ASSESSMENT CULTURE NEEDS TO BE OUTLINED.
+
+There are approaches which value both. Indeed fundamental educational theory sees the learning process as a cycle which alternates between concrete experience and the process of using more abstract concepts to help organise and make connections with wider bodies on knowledge.
 
 These kinds of abstract concepts and concrete experiences of them are part of a learning model called experiential learning which was make popular by Kolb.
 
@@ -143,6 +150,15 @@ These kinds of abstract concepts and concrete experiences of them are part of a 
 ![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg)
 
 The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
+
+A more fundamental challenge to the utility of teaching to an abstract test are the underlying assumptions of social cultural school of thought. This school based around the foundations of the work of Vygotsky, holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially.
+
+This forms a fundamental challenge to the usefulness of teaching cognitive processes for transfer, one that challenges so many of schools normal ways of doing things that it is difficult to know where to begin reform.
+
+It also creates a problem for Computing teachers aiming for  good exam results of their students. If students are unlikely to be able to transfer the computing skills they have picked up from undertaking creative projects, then it is logical to teach to the test as this will be the cultural context that they need to perform in.
+Of course this has long term detrimental effects, as then students may not be able to transfer such book knowledge into practical experience after school.     
+
+As with many other subjects, teachers are being asked to do both, in this case this process of being pulled in different directions seems very clear. The difference between book computing and RL computing is stark. (any citations?)
 
 <!-- When to bring in Transfer? When to bring in semantic wave theory  -->
 
@@ -182,6 +198,9 @@ In practical terms, as more abstract CT concepts are part of our computing curri
 In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years.
 
 The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
+
+In practical terms at GCSE level most exam questions test the more applied definitions of CT. Particularly the process of reproducing algorithms on paper exam anwsers.
+This process is both applied and artificial.  
 
 The questions which address CT and programming are in the format of small coding challenges carried out on paper. Questions in a this  written exam format have to be atomised to test a particular part of the curriculum. They have very little in the way of context and the ability for students to apply design and debugging skills or follow their own interests.
 
