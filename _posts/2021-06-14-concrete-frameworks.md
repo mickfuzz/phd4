@@ -1,4 +1,4 @@
----
+activated---
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
@@ -23,6 +23,7 @@ For more detailed overview - See local doc
 - Concrete and Abstract terms defined in relation to learning
 ### Part two - Computational Thinking, the Abstract and Concrete
 - Concrete and Abstract learning approaches
+- The Issue of Transfer
 - CT explored - Wing and Resnick - wider - narrower - abstract / concrete
 - Coding is not CT - but a good medium
 ### Part Three - Tactics for teaching Computing in the Classroom
@@ -117,9 +118,8 @@ Other web-based or software activities include game making, meme creation, hobby
 
 However while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to get best approach these opportunities from an educational point of view.
 
-SIGNPOSTING (but not too much)?
-To help address this chapter will cover some design and project based approaches to help
-Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of  
+<!-- SIGNPOSTING (but not too much)?
+To help address this chapter will cover some design and project based approaches to help.  Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of   -->
 
 ### Computational Thinking, the Abstract and Concrete
 
@@ -148,27 +148,34 @@ The debate of the desirability of testing using more formal abstract measures of
 
 However, while this valuing of concrete approaches is important, it is potentially unhelpful to express concrete and abstract as two paths that never meet. Abstract concepts are useful after all. The danger is when the abstract concepts chosen by educators or included in the curriculum are don't seem relevant to learners, leading to their disengagement.  
 
-THE NEXT ON KOLB IS PERHAPS OVERKILL / OR NOT HELPFUL AS TOO COGNITIVE? BUT SOCIO CULTURAL NEEDS TO HAPPEN SOMEWHERE....HOW ABOUT A SOCIO CULTURAL TAKE ON A CONCEPT AS A CULTURAL TOOL USEFUL TO A COMMUNITY  - AT SOME POINT IN THIS CHAPTER THE FUNDAMENTAL PROBLEM OF AN ABSTRACTED SCHOOL / ASSESSMENT CULTURE NEEDS TO BE OUTLINED.
+<!-- THE NEXT ON KOLB IS PERHAPS OVERKILL / OR NOT HELPFUL AS TOO COGNITIVE? BUT SOCIO CULTURAL NEEDS TO HAPPEN SOMEWHERE....HOW ABOUT A SOCIO CULTURAL TAKE ON A CONCEPT AS A CULTURAL TOOL USEFUL TO A COMMUNITY  - AT SOME POINT IN THIS CHAPTER THE FUNDAMENTAL PROBLEM OF AN ABSTRACTED SCHOOL / ASSESSMENT CULTURE NEEDS TO BE OUTLINED. -->
 
-There are approaches which value both. Indeed fundamental educational theory sees the learning process as a cycle which alternates between concrete experience and the process of using more abstract concepts to help organise and make connections with wider bodies on knowledge.
 
-These kinds of abstract concepts and concrete experiences of them are part of a learning model called experiential learning which was make popular by Kolb.
+
+Many educational approaches value both abstract and concrete knowledge and experience as parts of an ongoing process which alternates between the two poles to help organise and make connections with wider bodies on knowledge. For example the theory of experiential learning which was make popular by Kolb and socio cultural approaches based on the ideas of Vygotsky. Kolb's model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice. The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially.
+
+<!-- Perhaps move this section to the start of part four about project based approaches
+or revise to be practical to the teacher -->
+
+<!-- This forms a fundamental challenge to the usefulness of teaching cognitive processes for transfer, one that challenges so many of schools normal ways of doing things that it is difficult to know where to begin reform. -->
 
 <!-- Image done in a way that works on github pages  -->
 ![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg)
 
-The model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
+#### The Issue of Transfer
 
-A more fundamental challenge to the utility of teaching to an abstract test are the underlying assumptions of social cultural school of thought. This school based around the foundations of the work of Vygotsky, holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially.
+The implications of thinking socially are that our mind is motivated and activated by the context of the problems that we meet. While it would be great if we could transfer the knowledge we gain in one area to another or to be able to apply an abstract idea to a more specific problem, researchers from the socio-cultural perspective are very critical of this idea.
 
-This forms a fundamental challenge to the usefulness of teaching cognitive processes for transfer, one that challenges so many of schools normal ways of doing things that it is difficult to know where to begin reform.
+This problem of transfer creates a problem for Computing teachers. If they are aiming for good exam results of their students. If students are unlikely to be able to transfer the computing skills they have picked up from undertaking creative projects, then it is logical to teach to the test as this will be the cultural context that they need to perform in. Of course this may have long term detrimental effects, as then students will not be able to transfer the exam knowledge into practical experience after school.     
 
-It also creates a problem for Computing teachers aiming for  good exam results of their students. If students are unlikely to be able to transfer the computing skills they have picked up from undertaking creative projects, then it is logical to teach to the test as this will be the cultural context that they need to perform in.
-Of course this has long term detrimental effects, as then students may not be able to transfer such book knowledge into practical experience after school.     
+The difference between exam-focused computing and real life coding and computing is ....
+ (find citations / example )
 
-As with many other subjects, teachers are being asked to do both, in this case this process of being pulled in different directions seems very clear. The difference between book computing and RL computing is stark. (any citations?)
+As with many other subjects, teachers are being asked to both teach to the particular requirements of exams and to build more transferrable skills. In this case this process of being pulled in different directions seems particularly noticeable.
 
-<!-- When to bring in Transfer? When to bring in semantic wave theory  -->
+
+
+<!-- Sign posting - tactics -   semantic wave theory  -->
 
 #### Definitions of Computational Thinking
 
@@ -195,10 +202,7 @@ SINGPOSTING - Given this, educational practices and frameworks which support lea
 
 <!-- Another take on CT critiques Wing from the other angle. According to Denner and Tendre -@tedre_long_2016, Wing's view of CT over eggs the possibility of transfer to other areas beyond what is shown in the research and has a too narrow view of CT. -->
 
-
-
 ### Coding - coding is the not same as CT - but it's a good place to develop it
-
 
 We have explored that Computational Thinking is a contested term. While there is a general agreement  that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
 
@@ -328,7 +332,7 @@ PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model
 
 For a more detailed summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
 
-## Summary of the alternatives / the rest of the chapter
+## Part four - In Context / Project Approaches
 
 <!-- This needs editing down and turning down the volume -->
 
