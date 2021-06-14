@@ -53,7 +53,7 @@ For more detailed overview - See local doc
 
 ## Introduction
 
-One of the interesting aspects of computing as a subject is the variety of different ways it can be taught. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
+Computing as a subject lends itself to being taught in a multitude of ways. That's one of the things that makes it fascinating. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
 
 <!-- not sure about hands on here
 no-one really wants to teach in a hands off way
@@ -61,8 +61,7 @@ this is part of the 12 principles
 -->
 
 <!-- ### Context of Teaching Computing in the UK -->
-
-Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
+The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
 
 <!-- I do not suggest the concepts of Computational Thinking and Creativity are in opposition to each other. However, for the first part of this chapter I am going to explore both concepts from an academic perspective as a way of finding useful tensions and variety in the way computing teaching is being approached and promoted.
 
