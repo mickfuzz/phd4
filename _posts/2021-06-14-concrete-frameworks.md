@@ -148,13 +148,10 @@ The debate of the desirability of testing using more formal abstract measures of
 
 However, while this valuing of concrete approaches is important, it is potentially unhelpful to express concrete and abstract as two paths that never meet. Abstract concepts are useful after all. The danger is when the abstract concepts chosen by educators or included in the curriculum are don't seem relevant to learners, leading to their disengagement.  
 
-<!-- THE NEXT ON KOLB IS PERHAPS OVERKILL / OR NOT HELPFUL AS TOO COGNITIVE? BUT SOCIO CULTURAL NEEDS TO HAPPEN SOMEWHERE....HOW ABOUT A SOCIO CULTURAL TAKE ON A CONCEPT AS A CULTURAL TOOL USEFUL TO A COMMUNITY  - AT SOME POINT IN THIS CHAPTER THE FUNDAMENTAL PROBLEM OF AN ABSTRACTED SCHOOL / ASSESSMENT CULTURE NEEDS TO BE OUTLINED. -->
-
-
 
 Many educational approaches value both abstract and concrete knowledge and experience as parts of an ongoing process which alternates between the two poles to help organise and make connections with wider bodies on knowledge. For example the theory of experiential learning which was make popular by Kolb and socio cultural approaches based on the ideas of Vygotsky. Kolb's model is expressed as a cycle as kind of learning experience here is circular in nature. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice. The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially.
 
-<!-- Perhaps move this section to the start of part four about project based approaches
+<!-- Perhaps add to this element to the start of part four about project based approaches
 or revise to be practical to the teacher -->
 
 <!-- This forms a fundamental challenge to the usefulness of teaching cognitive processes for transfer, one that challenges so many of schools normal ways of doing things that it is difficult to know where to begin reform. -->
@@ -173,9 +170,17 @@ The difference between exam-focused computing and real life coding and computing
 
 As with many other subjects, teachers are being asked to both teach to the particular requirements of exams and to build more transferrable skills. In this case this process of being pulled in different directions seems particularly noticeable.
 
+<!-- Sign posting - tactics -   semantic wave theory
+and more out of school tatctics.  -->
 
+<!-- #### CT and transfer
 
-<!-- Sign posting - tactics -   semantic wave theory  -->
+Mark Guzdial was an early advocate of Computational Thinking and wrote about the possibility of this kind of cross over enthusiastically - find and contextualise - However his enthusiasm has changed in focus he has moved towards a more concrete idea of what Computational Thinking . Has he lost the faith - what's happening here?
+
+The key to this idea is transfer which is a tricky concept to prove when it comes to situations like this. As Mark says, you can't prove a negative, but the evidence for CT being transferred to other areas is weak.
+
+There is a school of thinking in educational research which argues that learning how to do something like coding is entangled up in particular situations. So even though CT processes may be at work they are tacit and would be of little use in other situations. -->
+
 
 #### Definitions of Computational Thinking
 
@@ -212,9 +217,7 @@ Coding may not be the same as computational thinking but it is part of the compu
 
 There is a tension between the skills required of Real Life coding and the time it takes to learn via real projects and the more abstract knowledge needed to answer more formal exam questions. In GCSE exams include a paper which tests application of coding concepts in a paper based format. Which aims to strike a balance.
 
-
 This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
-
 
 
 ### Part Three - Tactics for teaching Computing in the Classroom
@@ -227,6 +230,10 @@ This section gives tips and examples pitched at a typical classrooom computing e
 
 In practical terms, as more abstract CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them.
 
+<!-- Is this really true?
+if so what do we mean by abstract - knowledge - processess? how close the exam should this be?
+-->
+
 In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years.
 
 The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
@@ -237,60 +244,24 @@ The questions which address CT and programming are in the format of small coding
 
 This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
 
-You could argue that the skills required to answer these questions are quite different from coding in a real life setting. For example, patching, adapted to existing practices.
-
-One of the things that teachers have to resolve is the trade off between teaching to the test, leading with concepts and the engagement potential of student working on their own projects.
-
+<!-- Move this part later -->
 
 
 As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
 
 <!-- SOME MORE ON THE GENERAL CONDITIONS IN THE CLASSROOM NEEDED TO MAKE THIS HAPPEN? -->
 
-In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail.
+Drill and test - analysing code - predictions - then go on to other tactics.
+
+<!--
+Sign posting - do this elsewhere
+In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail. -->
 
 In this section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
 
 This includes  conditions / tactics  - concepts first - unpack and repack within the confines of the duration of your lesson.
 
-
-
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process.
-
-*Peer Programming*
-
-[Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
-Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
-An example is ...
-
-Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
-
-<!-- Move this up to intro? -->
-
-The is a tension here between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
-
-This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
-
-https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf
-
-In fact many studies that look at how coders learn focus not on overarching computational ideas but how they pick up the nuts and bolts of how computing projects are put together from a community they are a part of. Some researchers call this a craft approach to coding and it has strong links with another line of research on Studio ways of learning called Studio thinking.
-
-<!-- When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources. -->
-
-<!-- Find a place for this -->
-
-I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning.
-
-<!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
-
-
-<!-- #### CT and transfer
-
-Mark Guzdial was an early advocate of Computational Thinking and wrote about the possibility of this kind of cross over enthusiastically - find and contextualise - However his enthusiasm has changed in focus he has moved towards a more concrete idea of what Computational Thinking . Has he lost the faith - what's happening here?
-
-The key to this idea is transfer which is a tricky concept to prove when it comes to situations like this. As Mark says, you can't prove a negative, but the evidence for CT being transferred to other areas is weak.
-
-There is a school of thinking in educational research which argues that learning how to do something like coding is entangled up in particular situations. So even though CT processes may be at work they are tacit and would be of little use in other situations. -->
 
 #### Making Abstract Ideas more Concrete and Transferable
 
@@ -332,17 +303,54 @@ PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model
 
 For a more detailed summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
 
+
+
+*Peer Programming*
+
+[Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
+Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
+An example is ...
+
+Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
+
+<!-- Move this up to intro? -->
+
+The is a tension here between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
+
+This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
+
+https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf
+
+In fact many studies that look at how coders learn focus not on overarching computational ideas but how they pick up the nuts and bolts of how computing projects are put together from a community they are a part of. Some researchers call this a craft approach to coding and it has strong links with another line of research on Studio ways of learning called Studio thinking.
+
+<!-- When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources. -->
+
+<!-- Find a place for this -->
+
+I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning.
+
+<!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
+
+
+
+
 ## Part four - In Context / Project Approaches
 
 <!-- This needs editing down and turning down the volume -->
 
-<!-- There is also danger that an abstract approach to Computational Thinking, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
+
+
+You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example, patching, adapted to existing practices. One of the things that teachers have to resolve is the trade off between teaching to the test, leading with concepts and the engagement potential of student working on their own projects.
 
 The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
 
+There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches.
+
+<!-- is this about observation? -->
+
 Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting.
 
-In a previous section we looked at UDL. UDL is useful as a set of principles however there is less research available of application in specific settings.
+In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles.   UDL is useful as a set of principles however there is less research available of application in specific settings.
 
 <!-- So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them. -->
 
