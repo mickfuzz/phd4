@@ -5,15 +5,10 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
 ...
-## Keeping it Real -- Inclusive frameworks to support computing projects
 
-**See main points of Conference Talk**
+# Keeping it Real -- Inclusive frameworks to support computing projects
 
-[*https://docs.google.com/document/d/1VkCHWVu-Qoc7ShY7YomfaN9IZTaXrk7h0E-s8VDcjp8/edit\#*](https://docs.google.com/document/d/1VkCHWVu-Qoc7ShY7YomfaN9IZTaXrk7h0E-s8VDcjp8/edit#)
-
-For more detailed overview - See local doc
-
-## Summary
+## Outline
 
 ### Part one - Intro, context and terms
 - Introduction & Context
@@ -26,23 +21,27 @@ For more detailed overview - See local doc
 - The Issue of Transfer
 - CT explored - Wing and Resnick - wider - narrower - abstract / concrete
 - Coding is not CT - but a good medium
+
 ### Part Three - Tactics for teaching Computing in the Classroom
-  - about exam context
-  - tactics for teaching Coding
-  - problem of transfer - Guzdial
-  - expansive framing
-  - semantic wave - presented and applied as concepts first often - can be either but danger of flatlining - how to avoid that in tinkering projects?
-  - peer programming
-  - limitations of concepts first approach as a link to the next section
-### Part four - project based approaches
-- Alternative models suiting bottom up  / concrete approaches
-  - UDL universal design for learning.
-  - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
-  - Design approaches - creative spiral - using design patterns
+- gcse exam context
+- tactics for teaching Coding
+- expansive framing
+- semantic wave - presented and applied as concepts first often - can be either but danger of flatlining - how to avoid that in tinkering projects?
+- peer programming
+- limitations of concepts first approach as a link to the next section
+
+### Part Four - Alternative, Authentic Approaches
+- Intro to alternative models suiting bottom up  / concrete approaches
+- UDL universal design for learning.
+- Design approaches -
+  - creative spiral / iterative
+  - studio thinking
+  - using design patterns
+- PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
+
 
 ### notes / ideas
 - order of the concrete / abstract and inclusion section - prehaps swap?
-
 - in PRIMM quick read - they draw on SCT socio cultural theory - add this to the chapter and link to game making
 -  downplay PBL - up play design approaches (and patterns)
 - include associated challenges in part two
@@ -207,9 +206,13 @@ SINGPOSTING - Given this, educational practices and frameworks which support lea
 
 <!-- Another take on CT critiques Wing from the other angle. According to Denner and Tendre -@tedre_long_2016, Wing's view of CT over eggs the possibility of transfer to other areas beyond what is shown in the research and has a too narrow view of CT. -->
 
-### Coding - coding is the not same as CT - but it's a good place to develop it
+### Coding is not Computational Thinking
 
-We have explored that Computational Thinking is a contested term. While there is a general agreement  that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
+<!--  is this section really needed?
+Refer back to transfer?
+Integrate into another? -->
+
+We have explored that Computational Thinking is a contested term. While there is a general agreement that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
 
 <!-- I as I became I learned how to become a proficient coder without explicitly being taught the more abstract CT concepts.  -->
 
@@ -219,6 +222,7 @@ There is a tension between the skills required of Real Life coding and the time 
 
 This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
 
+<!-- Refer back to transfer? -->
 
 ### Part Three - Tactics for teaching Computing in the Classroom
 
@@ -228,13 +232,8 @@ This section gives tips and examples pitched at a typical classrooom computing e
 
 #### GCSE exam context
 
-In practical terms, as more abstract CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them.
+In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years. In practical terms, as abstract concepts are a part of our computing curriculum as educators we need to share tactics to help our learners develop them.
 
-<!-- Is this really true?
-if so what do we mean by abstract - knowledge - processess? how close the exam should this be?
--->
-
-In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years.
 
 The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
 
@@ -245,7 +244,6 @@ The questions which address CT and programming are in the format of small coding
 This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
 
 <!-- Move this part later -->
-
 
 As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
 
@@ -281,6 +279,7 @@ Unplugged activities often use very familiar non-school examples and draw on lea
 **Semantic Waves and Leading with Concepts**
 Two concepts in the teach computing principles are lead with concepts and Unplug, Unpack and Repack  
 recently these ideas have been supported with the theory of semantic waves.
+
 https://www.sciencedirect.com/science/article/pii/S0898589812000678?casa_token=RuwU1cIzhKsAAAAA:jrF4jxMX_fdKu4wN2npJfslXsqpgkzWpKlGat0Tp4Syn4EoukLA2ZGvLUINOOx2TUXhPrQu7
 
 SEMANTIC WAVE approach - leading with concepts.
@@ -299,27 +298,37 @@ A particular example of this technique has been used to increase the effectivene
 
 PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.  
 
-<!-- It taps on a predict to UMC -->
+It is a modification of Use Modify Create which is well suited to the classroom as the process of leading with prediction narrows the focus of the class, thus allowing a larger set of learners to unpack and repack the same set of concepts in a restricted time scale.
 
-For a more detailed summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
+- For a more detailed summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
+- To find out more about Use Modify Create - see chapter x on game making.
+
+
+**Peer Programming**
 
 
 
-*Peer Programming*
+Peer programming is one aspect of social learning but there are others
+associated with being part of a wider community of learners.
 
-[Peer programming quick read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf)
-Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
-An example is ...
+An of peer programming is as an aid to learning coding is outlined in Kafai and ? - fractions - FIND CASE STUDY -
 
 Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
 
-<!-- Move this up to intro? -->
+http://tiny.cc/pairprogramming
 
-The is a tension here between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
+
+**Summary / Transition**
+
+This section has draw on resources provided by NCCE on the website teach computing. They often have a focus on techniques that work well in a classroom settings and help prepare for exam like questions.
+
+As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
+
+Before we move on to the final section, there are other techniques outlined in these quick reads which support learner-led learning approaches.
 
 This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
 
-https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf
+http://tiny.cc/observingstudents
 
 In fact many studies that look at how coders learn focus not on overarching computational ideas but how they pick up the nuts and bolts of how computing projects are put together from a community they are a part of. Some researchers call this a craft approach to coding and it has strong links with another line of research on Studio ways of learning called Studio thinking.
 
@@ -331,26 +340,22 @@ I argue that mixing up the already abstract / technical terminology of coding wi
 
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
 
+## Part Four - Alternative, Authentic Approaches
 
+You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example in a real setting coders will often be working within existing projects, patching and  remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
 
-
-## Part four - In Context / Project Approaches
-
-<!-- This needs editing down and turning down the volume -->
-
-
-
-You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example, patching, adapted to existing practices. One of the things that teachers have to resolve is the trade off between teaching to the test, leading with concepts and the engagement potential of student working on their own projects.
+As discussed teachers must resolve the trade off between leading concepts tested in exams and the engagement potential of student working on their own projects.
 
 The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
 
 There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches.
-
 <!-- is this about observation? -->
 
 Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting.
 
-In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles.   UDL is useful as a set of principles however there is less research available of application in specific settings.
+### UDL revisited
+
+In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings.
 
 <!-- So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them. -->
 
@@ -384,7 +389,7 @@ This sounds chaotic and at times that is an experience that observers comment on
 <!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
 
 
-### Iterative Design Approaches
+#### Iterative Design Approaches
 
 Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results.
 
@@ -545,7 +550,6 @@ But how can we observe and measure this?
 We can draw on socio cultural approaches to research to do this. Rather than controlled, formal tests which
 
 
-Quick read on Observation to assess progress - https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+10+-+Observations.pdf and linked to here - https://blog.teachcomputing.org/tag/quickread/
 
 <!-- ### Meeting in the Middle (perhaps ditch as covered in middle section?)
 
