@@ -35,7 +35,7 @@ For more detailed overview - See local doc
   - limitations of concepts first approach as a link to the next section
 ### Part four - project based approaches
 - Alternative models suiting bottom up  / concrete approaches
-  - UDL universal design for learning.  
+  - UDL universal design for learning.
   - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
   - Design approaches - creative spiral - using design patterns
 
@@ -74,15 +74,17 @@ The promotion of Computational Thinking has been a key factor in the presentatio
 I will use the lens of projects to examine creativity in computing.   -->
 
 The start of this chapter outlines some of the theory and practice of applying an inclusive approach to computing projects, specifically the benefits of a project based approach. I then look at different interpretations of Computational Thinking from a critical perspective to contrast the concepts-first approach to other more concrete approaches like project-based learning.
-(not sure about that last sentence)
+(not sure about the terms or even the whole approach of the last sentence)
 
 <!-- In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
 <!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
 
-Whereas the diversity of materials and end goals of projects are readily visible for teachers and family members enthusiastic to help, the best way to help learners learn, or effective pedagogies to support the coding and computing process are less visible and less exchanged.
+Whereas the diversity of materials and end goals of computing projects are readily visible for teachers and family members enthusiastic to help, the best way to help learners learn, or effective pedagogies to support the coding and computing process are less visible and less exchanged.
 
-<!-- Other chapters in this book deal with the strategies like PRIMM and Unplugged computing to communicate the more abstract concepts of computational thinking suited to classroom teaching.  -->
+<!-- Give an example to support the above  -->
+
+<!-- DO Other chapters in this book deal with the strategies like PRIMM and Unplugged computing to communicate the more abstract concepts of computational thinking suited to classroom teaching.?  -->
 
 <!-- ## Coding well is well hard - hard to learn- hard to teach. Choosing suitable coding projects for novices is hard to get right. They may be too hard or too boring. [removed extra]  -->
 
@@ -121,7 +123,7 @@ Before doing that we will look at some foundational terms that you will meet and
 
 ### Computational Thinking, the Abstract and Concrete
 
-#### Concrete and Abstract
+#### Concrete and Abstract learning approaches
 
 When reading about different approaches to teaching computing you are likely to meet the terms concrete and abstract. As these are such foundational terms, and because they are often used without introduction, lets define them quickly. In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract.
 
@@ -134,16 +136,17 @@ There are also dangers associated with learning things in a concrete way as well
 
 Interestingly, one critical voice challenging the idea that abstract approaches were a higher form of knowledge was Seymour Papert whose work on creative computing at MIT created a legacy that includes the work on the Scratch programming tool. Papert and Turkle [-@papert_epistemological_1990] talk about revaluing concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that some of the hard approaches and formal language can be off putting to certain learners and especially girls.
 
-In this light, the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time."
-MORE ON BRICOLAGE?
+In this light, the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom up (concrete) coders take this approach.
 
-They give the example of a young coder Lisa, who is aware of a more formal way to approach the kinds of programming tasks she is undertaking, but maintains that way doesn't work for her. As she continues her journey as a coder this frequent message that she is doing things the wrong way demotivates her enthusiasm around coding. The more abstract concepts are thinking tools that are only useful to the learner if they match with her experiences. Forcing the learner towards them in this example is counter productive as it invalidates her experience and progress.
+<!-- MORE ON BRICOLAGE AT THIS POINT? -->
 
-The authors outline that the danger of leading with the abstract is to devalue a more bottom up approach to coding which has been popularly expressed as a craft approach, getting close to the materials. An approach which has a lot of value in many professions and has been behind many scientific break-throughs. For someone like myself, who taught themselves how to code, it is really encouraging to read this.
+To clarify this Papert and Turkle give the example of a young coder Lisa, who is aware of a more formal way to approach the kinds of programming tasks she is undertaking, but maintains that way doesn't work for her. As she continues her journey as a coder this frequent message that she is doing things the wrong way demotivates her enthusiasm around coding. The more abstract concepts are thinking tools that are only useful to the learner if they match with her experiences. Forcing the learner towards them in this example is counter productive as it invalidates her experience and progress.
 
-The debate of the utility of testing using more formal abstract measures of success has been going on for many years. The IQ test is a good example which has been criticised for being culturally biased in favour of more Western understandings of intelligence which favour formal logical and abstract elements and ignore other measures of emotional, cultural and practical intelligence.
+The authors outline that the danger of leading with the abstract is to devalue this bottom up approach to coding. This way of coding has also been called a craft approach, getting close to the materials. It is an way of doing things that has been shown to have a lot of value in many professions. It has been behind many scientific break-throughs (LATOUR CITATIONS?). For someone like myself, who taught themselves how to code in this concrete ways, it is really encouraging to know about this perspective.
 
-However, while this valuing of concrete approaches was and remains to be an important antidote to the status quo, it is potentially unhelpful to express concrete and abstract as two paths that never meet. After all abstract concepts can be useful. The danger is when the abstract concepts chosen by educators or included in the curriculum are not seemingly useful to learners. That will make disengagement much more likely to happen.  
+The debate of the desirability of testing using more formal abstract measures of success has been going on for many years. The IQ test is a good example which has been criticised for being culturally biased in favour of more Western understandings of intelligence which favour formal logical and abstract elements and ignore other measures of emotional, cultural and practical intelligence.
+
+However, while this valuing of concrete approaches is important, it is potentially unhelpful to express concrete and abstract as two paths that never meet. Abstract concepts are useful after all. The danger is when the abstract concepts chosen by educators or included in the curriculum are don't seem relevant to learners, leading to their disengagement.  
 
 THE NEXT ON KOLB IS PERHAPS OVERKILL / OR NOT HELPFUL AS TOO COGNITIVE? BUT SOCIO CULTURAL NEEDS TO HAPPEN SOMEWHERE....HOW ABOUT A SOCIO CULTURAL TAKE ON A CONCEPT AS A CULTURAL TOOL USEFUL TO A COMMUNITY  - AT SOME POINT IN THIS CHAPTER THE FUNDAMENTAL PROBLEM OF AN ABSTRACTED SCHOOL / ASSESSMENT CULTURE NEEDS TO BE OUTLINED.
 
@@ -192,11 +195,31 @@ SINGPOSTING - Given this, educational practices and frameworks which support lea
 
 <!-- Another take on CT critiques Wing from the other angle. According to Denner and Tendre -@tedre_long_2016, Wing's view of CT over eggs the possibility of transfer to other areas beyond what is shown in the research and has a too narrow view of CT. -->
 
-## Practical Tactics for teaching CT
 
-<!-- Why CT here - what is the denfition? is it coding/  -->
 
-<!-- IS THIS A TOTALLY DIFFERENT CHAPTER? - FEELS LIKE IT'S TOO MUCH - keep in but revalue later -->
+### Coding - coding is the not same as CT - but it's a good place to develop it
+
+
+We have explored that Computational Thinking is a contested term. While there is a general agreement  that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
+
+<!-- I as I became I learned how to become a proficient coder without explicitly being taught the more abstract CT concepts.  -->
+
+Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
+
+There is a tension between the skills required of Real Life coding and the time it takes to learn via real projects and the more abstract knowledge needed to answer more formal exam questions. In GCSE exams include a paper which tests application of coding concepts in a paper based format. Which aims to strike a balance.
+
+
+This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
+
+
+
+### Part Three - Tactics for teaching Computing in the Classroom
+
+<!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
+AN EXAMPLE ?-->
+This section gives tips and examples pitched at a typical classrooom computing environment. The following section examines wider project based approaches which are more challenging to integrate but which provide particular benefits to the learner.
+
+#### GCSE exam context
 
 In practical terms, as more abstract CT concepts are part of our computing curriculum as educators we need to share tactics to help our learners develop them.
 
@@ -204,8 +227,7 @@ In a very real sense the contents of GCSE exams determine a lot of what happens 
 
 The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
 
-In practical terms at GCSE level most exam questions test the more applied definitions of CT. Particularly the process of reproducing algorithms on paper exam answers.
-This process is both applied and artificial.  
+In practical terms at GCSE level most exam questions test the more applied definitions of CT. Particularly the process of reproducing algorithms on paper exam answers. This process is both applied and artificial.  
 
 The questions which address CT and programming are in the format of small coding challenges carried out on paper. Questions in a this  written exam format have to be atomised to test a particular part of the curriculum. They have very little in the way of context and the ability for students to apply design and debugging skills or follow their own interests.
 
@@ -214,10 +236,8 @@ This passes another challenge on to teachers, how to prepare students for these 
 You could argue that the skills required to answer these questions are quite different from coding in a real life setting. For example, patching, adapted to existing practices.
 
 One of the things that teachers have to resolve is the trade off between teaching to the test, leading with concepts and the engagement potential of student working on their own projects.
-<!-- SOME MORE OF THIS move from later on ?-->
 
-<!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
-AN EXAMPLE ?-->
+
 
 As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
 
@@ -230,19 +250,6 @@ In this section we look at some of the practical tactics for teaching some of th
 This includes  conditions / tactics  - concepts first - unpack and repack within the confines of the duration of your lesson.
 
 
-### Coding - coding is the not same as CT - but it's a good place to develop it
-
-<!-- THIS SECTION CAN BE REDUCED A LOT - not abstract CT vs applied - but strategies for deepening and making experience more concrete -->
-
-We have explored that Computational Thinking is a contested term. While there is a general agreement  that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
-
-<!-- I as I became I learned how to become a proficient coder without explicitly being taught the more abstract CT concepts. Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed. -->
-
-As we have seen GCSE exams include a paper which tests application of coding concepts in a paper based format.
-
-Tension of Real Life coding and the time it takes to learn via real projects and the needs of formal written answers.
-
-This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
 
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process.
 
@@ -310,7 +317,8 @@ How different from experiential learning - more general? see paper above
 **Expansive Framing**
 Another similar approach to the semantic wave is that of expansive framing. The core idea of this approach is to meet similar abstract concepts in different contexts.
 
-A particular example of this technique has been used to increase the effectiveness of unplugged approach. 
+A particular example of this technique has been used to increase the effectiveness of unplugged approach by Lee and Vincent using an context of weaving as well as physical activities before exploring such ideas in a context of coding. The idea be
+
 
 **PRIMM**
 
