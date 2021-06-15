@@ -532,29 +532,34 @@ But there are challenges of exam focus, time poverty, and lack of PBL delivery s
 
 Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures.  
 
-I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are sidelined to cover compulsory curriculum material that has no relevance to the learners.  
+I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are side-lined to cover compulsory curriculum material that have less personal relevance to the learners.  
 
 Resnick advises double lessons and whole terms devoted to projects. This may not be possible in exam focused classes but may be possible in some situations especially in KS2.
 
-For example, cross-curricular projects may free up more time by linking. Kafai was successful in gaining more time linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum. Science is a common way to explore cross over. Very successful project used computational patterns as a navigational base scalable game design.
+For example, cross-curricular projects may free up more time by linking. As explored above Kafai was successful in gaining more time linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum. Science is a common way to explore cross over. As we saw the successful Scalable Game Design project used computational patterns and their overlap with science simulations as a base.
 
 <!-- I am lucky  to have been able to experiment with this as part of EdLab project - I have worked with drama practitioners to explore issues of computing ethics through coding and writing in role. -->
 
 Many teachers will add in projects to the end of a series of work to reinforce concept in a practical context and that is certainly better than nothing, but it is likely to reduce effectiveness.
 
-### Are they learning? Observing Community Interaction
+### Meeting in the Middle - A learner choice approach to semantic density
 
-Any learning of complex processes doesn't happen in a vacuum. One of the techniques we have examined in this chapter is the value of creating a learning community to support creative production. In
+I explore my own experiences teaching coding practice and concepts through coding games together in  another chapter in this collection. My own approach is very much led by the interests and preferences of learners. I initially struggled to resolve the dilemma of learners sticking with certain areas of concrete practice without exploring some of the rich. They might  
 
-But how can we observe and measure this?
-We can draw on socio cultural approaches to research to do this. Rather than controlled, formal tests which
-
-
-
-<!-- ### Meeting in the Middle (perhaps ditch as covered in middle section?)
-
-Meeting in the Middle - tactics to bring together approaches. The student that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. Other student may favour more concrete approaches and jump right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
+The student that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. Other student may favour more concrete approaches and jump right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
 
 PBL and UDL would promote not Concepts First, but Choice First, either a concrete exploration, which allows students to meet the concepts in a practical setting first.
 
-I explore the idea of a strategy to 'meet in the middle' allowing students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection. -->
+I explore the idea of a strategy to 'meet in the middle' allowing students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
+
+### Conclusion - Supporting the Development of Learning Communities
+
+In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders to support creative projects. We can draw on some of the rich research that is available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
+
+We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches, there are new resources from NCCE that draw on socio-cultural research on PBL, observation, pair programming AND
+
+<!-- But how can we observe and measure this? THIS IS PARTLY COVERED ABOVE VIA THE OBSERVATION QUICK READ MOVE IT HERE? -->
+
+If you are like me and are a supporter of the more authentic coding practices in schools then we can only hope that some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices.
+
+<!-- Where possible t We can draw on socio cultural approaches to research to do this. Rather than controlled, formal tests which -->
