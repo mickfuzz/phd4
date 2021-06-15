@@ -379,9 +379,7 @@ This sounds chaotic and at times that is an experience that observers comment on
 
 #### Iterative Design Approaches
 
-Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results.
-
-A full review is beyond what we have time for here but in simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
+Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
 
 Like reflective cycles the process is iterative in that testing and revision of the  prototype design can be repeated until the result is suitable.  
 
