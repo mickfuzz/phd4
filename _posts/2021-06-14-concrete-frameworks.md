@@ -32,12 +32,14 @@ zotero:
 
 ### Part Four - Alternative, Authentic Approaches
 - Intro to alternative models suiting bottom up  / concrete approaches
-- UDL universal design for learning.
 - Design approaches -
   - creative spiral / iterative
   - studio thinking
   - using design patterns
 - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
+- UDL universal design for learning.
+
+### Part Five - Conclusion
 
 
 ### notes / ideas
@@ -353,20 +355,6 @@ There is also danger that this abstract approach to algorithms, while containing
 
 Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting.
 
-### UDL revisited
-
-In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings.
-
-<!-- So an alternative is available in the form of designing the learning experience in a way that allows learners to choose the level that is most appropriate for them. Dom says... student often choose the level that is appropriate for them. -->
-
-REWRITE THIS
-The perhaps the most challenging and fundamental is the guideline to provide options for individual choice and autonomy. We explore this in more depth in the next section.
-
-Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
-
-There are however other areas that are very similar to UDL that are have more research linked to computing education.
-
-In the next section let's look at two promising areas that of design approaches and project-based learning.
 
 ### Design Approaches
 
@@ -442,44 +430,39 @@ Other STEM focused researchers have drawn on the process that emerged from art e
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter.
 
-
 #### Design Patterns as an educational tool
 
-My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing.
-
-When I trained in computing at Master level, to upgrade my craft,
-one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to help an object oriented approach.
-
-Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
+When I retrained in computing at Master level one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to support an object oriented approach. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
 
 The advantage of DP as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
 
-As Educators DPs provide certain advantages.
-As a bridge between abstract concept and concrete implementations
+<!-- My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing. -->
+
+For educators the use of Design Patterns to support learners develop coding proficiency provides certain advantages. As a bridge between abstract concept and concrete implementations
 As a way to join and navigate participation in a community of coders.
 
 #### Case Study - Computational Patterns
 
 There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of X. In this study over x students made games.
 
-The project was developed in partnership with teachers and modified an original goal of teaching a more traditional view of transferable Computational Thinking to one of Computational Patterns. This move was in response to a key piece of feedback from teachers who were slightly mystified by the abstract definitions of CT but felt that they understood the underlying usefulness. One expressed it in the following way. "I'm not sure what Ct is but being able to apply knowledge from one area to say science simulations would be useful"  
+The project was developed in partnership with teachers and modified an original goal of teaching a more traditional view of transferable Computational Thinking to one of Computational Patterns. This move was in response to a key piece of feedback from teachers who were slightly mystified by the abstract definitions of CT but felt that they understood their expectation of the underlying usefulness. One expressed that they would like to be able to have the following expectation of students. "Now that you can make Space Invaders, can you also make a science simulation." [@repenning_scalable_2010, p. 4]
 
-In the case of SGD these patterns were and those present in games which could also be applied to science simulation. Examples include hill climbing, etc, etc, 
+INSErt Details of the programme - SIZE ETC
 
-With out going into details about the technical elements of the patterns they could be expressed in code but also as a concept that could be applied in other settings.
+In the case of SGD these patterns were and those present in games which could also be applied to science simulation. Examples include hill climbing, collision and transportation. Without going into details about the technical elements of the patterns they could be expressed in code but also as a concept that could be applied in other settings.
 
-This brings up a question of what patterns to choose. Many are present in coding communities, in response to similar needs especially in multimedia applications.
+This brings up a question of what patterns to choose. This study pragmatically chose to work in a cross curricular way linking computing and science. The questionable promise of transfer drove the patterns chosen. However, in coding communities, other design patterns emerge. For example in website or the design of multimedia applications a particular set of problems with tried and tested solutions will exist.
+In a review of research to go with the report After the Reboot, Waite proposed that other studies which explore the utility and promise of patterns to learn coding are needed. CITATIION.
 
 In my case study on a 3M game making framework, I argue that this element of transfer is not essential, that learning to code via applying and analysing game specific design patterns that have little application outside of game is still a useful process in developing authentic coding practices.
-
 
 <!-- Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
 RE-READ SGD work -->
 
-The rational is a limitation of the utility of more abstract concepts of CT, but a desire to leverage the power of the coding environment for other transferrable concepts.
 
+#### Similarities / Summary of Design Approaches
 
-#### Similarities of design approaches
+<!-- This should probably be merged / dropped given the short length of section -->
 
 We can start to see large similarities between different strands of design approaches.
 
@@ -489,7 +472,7 @@ It is rare in today's coding environment to approach a coding project using a to
 
 This links back to PRIMM and the underlying approach of Use Modify Create, which is explored in more detail in a case study involving game making in another chapter in this collection.
 
-The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection.
+<!-- The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection. -->
 
 What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
 
@@ -527,6 +510,23 @@ Computing education is an excellent vehicle for a project-based approach to lear
 #### More about challenges and benefits of PBL
 
 But a bit more about project based learning - and how to design it in a computing situation.
+
+
+### UDL revisited
+
+In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings. Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom, it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their abilities.
+
+The process of in the form of designing a learning experience in a way that allows learners to choose the level that is most appropriate for them.
+
+<!-- Dom says... student often choose the level that is appropriate for them.
+FIND SOURCE FOR THIS -->
+
+There are areas of overlap of the mechanics of UDL and PBL.
+
+As previously explored the guideline to provide options for individual choice and autonomy can be challenging in a classroom environment. EXPLAIN WHY.
+
+Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
+
 
 
 ## Creatively Overcoming Limitations In Context
