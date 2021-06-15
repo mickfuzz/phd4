@@ -494,7 +494,7 @@ What they have in common - that is distinct from more traditional classroom appr
   - tools that are pitched to learners interests
 - Studio approaches
 
-One of the 12 teach computing principles in projects.
+PBL is of the 12 teach computing principles.
 
 In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects.
 
@@ -552,8 +552,9 @@ PBL and UDL would promote not Concepts First, but Choice First. The choice of th
 
 A tactic to bridge this potential disconnect is have two tracks of learning - one concepts first - and one choice first and to plan for learners that to 'meet in the middle' where their abstract teacher teacher-led learning connects with their project-based concrete explorations. The role of the teacher to help the learners make those connections.
 
-In the classroom there is an additional challenge for teachers to observe and measure learner progress. How can this be done without it being overwhelming? In the last section we looked at different observations techniques outlined in the NCCE quick read. In PBL the more closely aligned technique is that of supporting learners to monitor and document their own progress. Teachers can support that proces by helping learners to map their activities and  
+In the classroom there is an additional challenge for teachers to observe and measure learner progress. How can this be done without it being overwhelming? In the last section we looked at different observations techniques outlined in the NCCE quick read. In PBL the more closely aligned technique is that of supporting learners to monitor and document their own progress. Teachers can support that process by helping learners to map their activities and  
 
+The process of planning a course of learning in this way may seem daunting. It is certainly a very different approach. It is worth restating that the advantages are not only in the engagement of students but also that the process is in line with the principles of Universal Design for Learning. By providing a variety of possible activities and choice, a tangible, sharable outcome
 
 I explore this strategy that allows students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
 
