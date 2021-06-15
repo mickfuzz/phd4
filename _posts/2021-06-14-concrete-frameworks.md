@@ -460,16 +460,23 @@ As a way to join and navigate participation in a community of coders.
 
 #### Case Study - Computational Patterns
 
-Look at Scalable Game Design - and the use of computational patterns.
+There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of X. In this study over x students made games.
 
-The rational is a limitation of the utility of more abstract concepts of CT, but a desire to leverage the power of the coding environment for other transferrable concepts.
+The project was developed in partnership with teachers and modified an original goal of teaching a more traditional view of transferable Computational Thinking to one of Computational Patterns. This move was in response to a key piece of feedback from teachers who were slightly mystified by the abstract definitions of CT but felt that they understood the underlying usefulness. One expressed it in the following way. "I'm not sure what Ct is but being able to apply knowledge from one area to say science simulations would be useful"  
 
-In the case of SGD these patterns were and those present in games which could also be applied to science simulation.
+In the case of SGD these patterns were and those present in games which could also be applied to science simulation. Examples include hill climbing, etc, etc, 
+
+With out going into details about the technical elements of the patterns they could be expressed in code but also as a concept that could be applied in other settings.
 
 This brings up a question of what patterns to choose. Many are present in coding communities, in response to similar needs especially in multimedia applications.
-Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
-RE-READ SGD work
 
+In my case study on a 3M game making framework, I argue that this element of transfer is not essential, that learning to code via applying and analysing game specific design patterns that have little application outside of game is still a useful process in developing authentic coding practices.
+
+
+<!-- Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
+RE-READ SGD work -->
+
+The rational is a limitation of the utility of more abstract concepts of CT, but a desire to leverage the power of the coding environment for other transferrable concepts.
 
 
 #### Similarities of design approaches
