@@ -548,17 +548,22 @@ I explore my own experiences teaching coding practice and concepts through codin
 
 The student that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. Other student may favour more concrete approaches and jump right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
 
-PBL and UDL would promote not Concepts First, but Choice First, either a concrete exploration, which allows students to meet the concepts in a practical setting first.
+PBL and UDL would promote not Concepts First, but Choice First. The choice of the student maybe to understand underlying theory before engaging in hands-on coding or perhaps the opposite, a concrete exploration, which allows students to meet the concepts in a practical setting first.
 
-I explore the idea of a strategy to 'meet in the middle' allowing students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
+A tactic to bridge this potential disconnect is have two tracks of learning - one concepts first - and one choice first and to plan for learners that to 'meet in the middle' where their abstract teacher teacher-led learning connects with their project-based concrete explorations. The role of the teacher to help the learners make those connections.
+
+In the classroom there is an additional challenge for teachers to observe and measure learner progress. How can this be done without it being overwhelming? In the last section we looked at different observations techniques outlined in the NCCE quick read. In PBL the more closely aligned technique is that of supporting learners to monitor and document their own progress. Teachers can support that proces by helping learners to map their activities and  
+
+
+I explore this strategy that allows students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
 
 ### Conclusion - Supporting the Development of Learning Communities
 
 In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders to support creative projects. We can draw on some of the rich research that is available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
 
-We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches, there are new resources from NCCE that draw on socio-cultural research on PBL, observation, pair programming AND
+We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches, there are new resources from NCCE that draw on socio-cultural research on PBL, observation, pair programming AND ??. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment.
 
-<!-- But how can we observe and measure this? THIS IS PARTLY COVERED ABOVE VIA THE OBSERVATION QUICK READ MOVE IT HERE? -->
+
 
 If you are like me and are a supporter of the more authentic coding practices in schools then we can only hope that some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices.
 
