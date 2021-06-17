@@ -226,101 +226,98 @@ This would then justify devoting more time to applied coding projects especially
 
 <!-- Refer back to transfer? -->
 
-### Part Three - Tactics for teaching Computing in the Classroom
+## Part Three - Tactics for teaching Computing in the Classroom
 
 <!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
 AN EXAMPLE ?-->
 This section gives tips and examples pitched at a typical classrooom computing environment. The following section examines wider project based approaches which are more challenging to integrate but which provide particular benefits to the learner.
 
-#### GCSE exam context
+### The context of GCSE exams papers
 
 In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years. In practical terms, as abstract concepts are a part of our computing curriculum as educators we need to share tactics to help our learners develop them.
 
+The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However the end results are a slightly frustrating mix of trying to be applied and authentic, and yet strangely artificial as the coding problems are fragmented and written on paper rather than in a real code environment.  
 
-The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
-
-In practical terms at GCSE level most exam questions test the more applied definitions of CT. Particularly the process of reproducing algorithms on paper exam answers. This process is both applied and artificial.  
-
-The questions which address CT and programming are in the format of small coding challenges carried out on paper. Questions in a this  written exam format have to be atomised to test a particular part of the curriculum. They have very little in the way of context and the ability for students to apply design and debugging skills or follow their own interests.
-
-This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
-
-<!-- Move this part later -->
-
-As an example we can examine the kinds of questions make up the computational thinking, algorithms and programming exam papers. The written and timed format make it necessary for students to demonstrate and explain fundamental building blocks and approaches from first principles.
+The questions which address CT and programming in the format of small coding challenges have to be broken into small fragments to be able test a particular part of the curriculum. By necessity, the challenges include little in the way of context. There is little or no potential for students to apply design and debugging skills or follow their own interests. This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
 
 <!-- SOME MORE ON THE GENERAL CONDITIONS IN THE CLASSROOM NEEDED TO MAKE THIS HAPPEN? -->
-
+<!-- Let's examine some of the needs of the Computing classroom to best prepare students for the kinds of questions they are likely to meet in GCSE papers.
 Drill and test - analysing code - predictions - then go on to other tactics.
-
+ -->
 <!--
 Sign posting - do this elsewhere
 In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail. -->
 
-In this section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
+In the following section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.
 
-This includes  conditions / tactics  - concepts first - unpack and repack within the confines of the duration of your lesson.
+This includes (summary) ...
 
-To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process.
+<!--
+To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process. -->
 
-#### Making Abstract Ideas more Concrete and Transferable
+### 12 Principles for Teaching Computing
 
-To counter act this danger there has been good recent work by NCCE. Educators need to balance the promise of transfer with the difficulties associated with the more abstract nature of the concepts. For example, among their [*12principles for teachingcomputing*](https://blog.teachcomputing.org/how-we-teach-computing/)aimed at teachers from the National Centre for Computing Education are ways to counter these difficulties.
+To counter act the challenges addressed in the last section the NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising some of the diverse and sometimes seemingly contradictory opportunities and requirements, they have provided a set [*12 principles for teaching computing*](https://blog.teachcomputing.org/how-we-teach-computing/) aimed at mainstream teachers.
 
+INCLUDE BETTER SUMMARY OF THESE PRINCIPLES IF NOT INCLUDED IN ANOTHER CHAPTER
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
-What these theories have in common is an attempt to address the tricky issue of understanding complex and abstract concepts.
+What these theories have in common is an attempt to address the tricky issue of understanding complex and abstract concepts. The principles also help us to be aware of to balance the promise of transfer with the difficulties associated with the more abstract nature of the concepts.
 
-What the next section asks is do we need to know about transfer to learn to code?
+### Specific techniques
 
-**Unplugged activities**
+#### Unplugged activities
 Unplugged are activities carried out away from the computer that aim to illustrate computing concepts.
 
 Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
 
-**Semantic Waves and Leading with Concepts**
-Two concepts in the teach computing principles are lead with concepts and Unplug, Unpack and Repack  
-recently these ideas have been supported with the theory of semantic waves.
+#### Semantic Waves and Leading with Concepts
+Two concepts in the teach computing principles are _lead with concepts_ and _Unplug, Unpack and Repack_. These principles have been explored with the theory of semantic waves.
+http://tiny.cc/semantic-waves
 
-https://www.sciencedirect.com/science/article/pii/S0898589812000678?casa_token=RuwU1cIzhKsAAAAA:jrF4jxMX_fdKu4wN2npJfslXsqpgkzWpKlGat0Tp4Syn4EoukLA2ZGvLUINOOx2TUXhPrQu7
+![](./Pictures/swaves.jpg)
+![semantic waves]({{ site.baseurl }}/Pictures/swaves.jpg)
 
-SEMANTIC WAVE approach - leading with concepts.
-The process of working to integrate
-the approach has the advantage of
+The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete. In some ways the concept can be seen as simplification of Kolb's experiential learning cycle. Instead of cycling through four dimensions - learners oscillate between the two.
 
-How different from experiential learning - more general? see paper above
+This concept of semantic waves can help us map a process of students working to integrate abstract concepts into practice or working knowledge. It can also act as an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience.
 
-**Expansive Framing**
+Diagrams or examples explaining semantic waves usually start with the process beginning with the abstract or with high semantic density. This suggest that this is the optimal. However the underlying research does not say that it is important where you start.
+
+<!-- Challenge by Papert - valuing the concrete - how much is this in opposition - and what is the practical resolution by teachers needing to teach to the test? -->
+
+Leading with concepts has the advantage of being specific about the target subject matter being taught. As this is process familiar to classroom practice and preparing for testing. However, there are disadvantages as it is out of step with project based approaches as we will explore in a later section of this chapter.
+
+#### Expansive Framing
 Another similar approach to the semantic wave is that of expansive framing. The core idea of this approach is to meet similar abstract concepts in different contexts.
 
 A particular example of this technique has been used to increase the effectiveness of unplugged approach by Lee and Vincent using an context of weaving as well as physical activities before exploring such ideas in a context of coding. The idea be
 
 
-**PRIMM**
+#### PRIMM
 
-PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.  
+PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.  PRIMM is a modification of Use Modify Create framework which was developed to represent the learning process of learners engaging with extensive computing projects like game design, designing simulations and robotics projects. I write in more detail about the Use Modify Create framework in another chapter in this collection on game making.
 
-It is a modification of Use Modify Create which is well suited to the classroom as the process of leading with prediction narrows the focus of the class, thus allowing a larger set of learners to unpack and repack the same set of concepts in a restricted time scale.
+The key modification PRIMM makes is in it's starting point of students reading and predicting code results. It aligns with the NCCE principle of _concepts first_. This engagement with the motivation of the code allows teachers to focus on the target computing concept of the lesson. It allows them to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as the process of leading with prediction narrows the focus of the class, thus allowing a larger set of learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams.
 
-- For a more detailed summary of this approach see quick read pedagogy article. http://tiny.cc/primmqr
-- To find out more about Use Modify Create - see chapter x on game making.
-
-
-**Peer Programming**
+For a more detailed summary of the PRIMM approach see this quick read pedagogy article. http://tiny.cc/primmqr
 
 
+#### Pair Programming
 
-Peer programming is one aspect of social learning but there are others
-associated with being part of a wider community of learners.
+Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
 
-An of peer programming is as an aid to learning coding is outlined in Kafai and ? - fractions - FIND CASE STUDY -
-
-Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
+Werner et al study (see quick read) - POSSIBLE CASE STUDY -
 
 http://tiny.cc/pairprogramming
 
+One of the key values of pair programming is to start to develop different roles involved in coding. The process of modeling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of
 
-**Summary / Transition**
+This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings) and is explored in the final section.
+
+ Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
+
+### Summary of section
 
 This section has draw on resources provided by NCCE on the website teach computing. They often have a focus on techniques that work well in a classroom settings and help prepare for exam like questions.
 
@@ -344,11 +341,11 @@ I argue that mixing up the already abstract / technical terminology of coding wi
 
 ## Part Four - Alternative, Authentic Approaches
 
-You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example in a real setting coders will often be working within existing projects, patching and  remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
+You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example in a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
 
 As discussed teachers must resolve the trade off between leading concepts tested in exams and the engagement potential of student working on their own projects.
 
-The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
+We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
 
 There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches.
 <!-- is this about observation? -->
@@ -379,40 +376,28 @@ This sounds chaotic and at times that is an experience that observers comment on
 
 #### Iterative Design Approaches
 
-Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
+Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. Like reflective cycles the process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved.  
 
-Like reflective cycles the process is iterative in that testing and revision of the  prototype design can be repeated until the result is suitable.  
+Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface.
 
-Brennan and Resnick's broader definition of CT includes design processes.
-
-<!-- Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. -->
-<!-- Those principles are drawn from work creating and observing the use of Scratch as a program for novice coders. -->
-
-<!-- Tools too?  -->
-
-One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface.
-
+<!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-In more recent works he has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explictly values the process over any particular content.
+In more recent works Resnick has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explicitly values the process over any particular content.
 
 ![](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
+Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine
 
-Imagine - Create - Play - Share - Reflect - Imagine
-
-There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book.
+<!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
 
 <!-- Use Modify Create framework - covered in another one.
-
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
-
 In **Modify** learners progress to working on real projects but one created by others.
-
 Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch. -->
 
 #### Studio Thinking
 
-Research of on the design approaches in artistic archetecture studios has described them as Studio Thinking and described as 8 studio habits of mind.
+Research of on the design approaches in artistic architecture studios has described them as Studio Thinking and described as 8 studio habits of mind.
 A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
 
 Too large to describe in detail but it is useful to look at some of the key aspects. These include the importance of craft approaches, the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
@@ -439,13 +424,16 @@ The advantage of DP as a way of teaching and learning coding is that they are of
 For educators the use of Design Patterns to support learners develop coding proficiency provides certain advantages. As a bridge between abstract concept and concrete implementations
 As a way to join and navigate participation in a community of coders.
 
+A similar principle to Design Patterns is presented for the classroom in the form of the concept of worked examples. A quick read is available here -
+http://tiny.cc/worked-examples
+
 #### Case Study - Computational Patterns
 
 There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of X. In this study over x students made games.
 
 The project was developed in partnership with teachers and modified an original goal of teaching a more traditional view of transferable Computational Thinking to one of Computational Patterns. This move was in response to a key piece of feedback from teachers who were slightly mystified by the abstract definitions of CT but felt that they understood their expectation of the underlying usefulness. One expressed that they would like to be able to have the following expectation of students. "Now that you can make Space Invaders, can you also make a science simulation." [@repenning_scalable_2010, p. 4]
 
-INSErt Details of the programme - SIZE ETC
+INSERT Details of the programme - SIZE ETC
 
 In the case of SGD these patterns were and those present in games which could also be applied to science simulation. Examples include hill climbing, collision and transportation. Without going into details about the technical elements of the patterns they could be expressed in code but also as a concept that could be applied in other settings.
 
@@ -457,22 +445,6 @@ In my case study on a 3M game making framework, I argue that this element of tra
 <!-- Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
 RE-READ SGD work -->
 
-
-#### Similarities / Summary of Design Approaches
-
-<!-- This should probably be merged / dropped given the short length of section -->
-
-We can start to see large similarities between different strands of design approaches.
-
-The craft approach and design patterns approach will be familiar to most professional and hobbyist coders.
-
-It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for most coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear.
-
-This links back to PRIMM and the underlying approach of Use Modify Create, which is explored in more detail in a case study involving game making in another chapter in this collection.
-
-<!-- The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection. -->
-
-What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
 
 ### Projects and Project Based Learning
 
@@ -526,6 +498,20 @@ As previously explored the guideline to provide options for individual choice an
 Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
 
 
+###  Summary of Design, Project, Authentic Approaches
+
+<!-- This should probably be merged / dropped given the short length of section -->
+
+We can start to see large similarities between different strands of design and project approaches. The craft approach and design patterns approach will be familiar to most professional and hobbyist coders.
+
+It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for most coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear.
+
+This links back to PRIMM and the underlying approach of Use Modify Create, which is explored in more detail in a case study involving game making in another chapter in this collection.
+
+<!-- The limits of time prevent me from describing the use of design patterns in great detail but this is explored in more depth in another chapter in this collection. -->
+
+What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
+
 
 ## Creatively Overcoming Limitations In Context
 
@@ -569,7 +555,7 @@ In much of the research surrounding motivation, participation and peer learning 
 
 We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches, there are new resources from NCCE that draw on socio-cultural research on PBL, observation, pair programming AND ??. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment.
 
-
+WHAT'S MISSING IS MORE HELP ON DEVELOPING COMMUNITIES - WE CAN TURN TO X - TO HELP?
 
 If you are like me and are a supporter of the more authentic coding practices in schools then we can only hope that some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices.
 
