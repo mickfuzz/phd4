@@ -35,7 +35,7 @@ For more detailed overview - See local doc
   - limitations of concepts first approach as a link to the next section
 ### Part four - project based approaches
 - Alternative models suiting bottom up  / concrete approaches
-  - UDL universal design for learning.  
+  - UDL universal design for learning.
   - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
   - Design approaches - creative spiral - using design patterns
 
@@ -52,7 +52,7 @@ For more detailed overview - See local doc
 - Kolb as PBL friendly - no starting point - suited to ongoing reflective cycle approach
 - But need help to navigate the process - think of design Patterns
 - Invite question - what exactly is abstract?
-- Then on to Papert - pluralism - they get there if you let them experiment or the design of the tools / experience leads them there.   
+- Then on to Papert - pluralism - they get there if you let them experiment or the design of the tools / experience leads them there.
 - some kind of resolution of concrete and abstract concepts
 - there is abstraction at every level , young kids grouping red toys, abstract, analyse and sythesise by grouping - this doesn't have to be taught explicitly
 - the essential tension of teachers trying to be inclusive but having to respond to a curriculum.
@@ -111,13 +111,13 @@ Embracing the challenge of making computing projects broadly accessible and enga
 
 A quick search the web for creative computing shows a tremendous diversity of activities and mediums designed to engage the home and hobby interests of young people. Physical examples include fashion and textiles based computing, robotics, colourful lighting displays and programming lego constructions. Beyond the value of working with home interests as a way of increasing participation and inclusion there is also outreach value is in the visual, tangible and touchable nature of the materials. They look and feel like fun and exciting objects to engage with.
 
-Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.  
+Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.
 
 However while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to get best approach these opportunities from an educational point of view.
 
 SIGNPOSTING (but not too much)?
 To help address this chapter will cover some design and project based approaches to help
-Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of  
+Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of
 
 ### Computational Thinking, the Abstract and Concrete
 
@@ -143,7 +143,7 @@ The authors outline that the danger of leading with the abstract is to devalue a
 
 The debate of the utility of testing using more formal abstract measures of success has been going on for many years. The IQ test is a good example which has been criticised for being culturally biased in favour of more Western understandings of intelligence which favour formal logical and abstract elements and ignore other measures of emotional, cultural and practical intelligence.
 
-However, while this valuing of concrete approaches was and remains to be an important antidote to the status quo, it is potentially unhelpful to express concrete and abstract as two paths that never meet. After all abstract concepts can be useful. The danger is when the abstract concepts chosen by educators or included in the curriculum are not seemingly useful to learners. That will make disengagement much more likely to happen.  
+However, while this valuing of concrete approaches was and remains to be an important antidote to the status quo, it is potentially unhelpful to express concrete and abstract as two paths that never meet. After all abstract concepts can be useful. The danger is when the abstract concepts chosen by educators or included in the curriculum are not seemingly useful to learners. That will make disengagement much more likely to happen.
 
 THE NEXT ON KOLB IS PERHAPS OVERKILL / OR NOT HELPFUL AS TOO COGNITIVE? BUT SOCIO CULTURAL NEEDS TO HAPPEN SOMEWHERE....HOW ABOUT A SOCIO CULTURAL TAKE ON A CONCEPT AS A CULTURAL TOOL USEFUL TO A COMMUNITY  - AT SOME POINT IN THIS CHAPTER THE FUNDAMENTAL PROBLEM OF AN ABSTRACTED SCHOOL / ASSESSMENT CULTURE NEEDS TO BE OUTLINED.
 
@@ -161,7 +161,7 @@ A more fundamental challenge to the utility of teaching to an abstract test are 
 This forms a fundamental challenge to the usefulness of teaching cognitive processes for transfer, one that challenges so many of schools normal ways of doing things that it is difficult to know where to begin reform.
 
 It also creates a problem for Computing teachers aiming for  good exam results of their students. If students are unlikely to be able to transfer the computing skills they have picked up from undertaking creative projects, then it is logical to teach to the test as this will be the cultural context that they need to perform in.
-Of course this has long term detrimental effects, as then students may not be able to transfer such book knowledge into practical experience after school.     
+Of course this has long term detrimental effects, as then students may not be able to transfer such book knowledge into practical experience after school.
 
 As with many other subjects, teachers are being asked to do both, in this case this process of being pulled in different directions seems very clear. The difference between book computing and RL computing is stark. (any citations?)
 
@@ -184,7 +184,7 @@ Much analysis has been done about the relative merits of different definitions o
 
 This agenda has been championed by education ministers Nick Gibbs and Michael Gove. A good example can be found in a speech by Nick Gibb at a launch of a collection of essays _The Question of Knowledge_ (http://tiny.cc/gibbsknowledge). I suspect most educators would find this oppositional setting of knowledge against skills unconvincing. If we return to Kobl's experiential cycle, it is through application of knowledge in concrete contexts that skills develop and understandings of knowledge deepen. Ironically in the foreword of the publication in question, references the importance of Young's concept of powerful knowledge which is knowledge put into practice in a concrete context, and putting the knowledge into practice will involve developing practical skills.
 
-SINGPOSTING - Given this, educational practices and frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful. Also, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
+SINGPOSTING - Given this, educational practices and frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful. Also, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.
 
 <!-- If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition. -->
 
@@ -205,7 +205,7 @@ In a very real sense the contents of GCSE exams determine a lot of what happens 
 The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting.
 
 In practical terms at GCSE level most exam questions test the more applied definitions of CT. Particularly the process of reproducing algorithms on paper exam answers.
-This process is both applied and artificial.  
+This process is both applied and artificial.
 
 The questions which address CT and programming are in the format of small coding challenges carried out on paper. Questions in a this  written exam format have to be atomised to test a particular part of the curriculum. They have very little in the way of context and the ability for students to apply design and debugging skills or follow their own interests.
 
@@ -225,7 +225,7 @@ As an example we can examine the kinds of questions make up the computational th
 
 In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail.
 
-In this section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.  
+In this section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.
 
 This includes  conditions / tactics  - concepts first - unpack and repack within the confines of the duration of your lesson.
 
@@ -297,7 +297,7 @@ Unplugged are activities carried out away from the computer that aim to illustra
 Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
 
 **Semantic Waves and Leading with Concepts**
-Two concepts in the teach computing principles are lead with concepts and Unplug, Unpack and Repack  
+Two concepts in the teach computing principles are lead with concepts and Unplug, Unpack and Repack
 recently these ideas have been supported with the theory of semantic waves.
 https://www.sciencedirect.com/science/article/pii/S0898589812000678?casa_token=RuwU1cIzhKsAAAAA:jrF4jxMX_fdKu4wN2npJfslXsqpgkzWpKlGat0Tp4Syn4EoukLA2ZGvLUINOOx2TUXhPrQu7
 
@@ -310,11 +310,11 @@ How different from experiential learning - more general? see paper above
 **Expansive Framing**
 Another similar approach to the semantic wave is that of expansive framing. The core idea of this approach is to meet similar abstract concepts in different contexts.
 
-A particular example of this technique has been used to increase the effectiveness of unplugged approach. 
+A particular example of this technique has been used to increase the effectiveness of unplugged approach.
 
 **PRIMM**
 
-PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.  
+PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.
 
 <!-- It taps on a predict to UMC -->
 
@@ -326,7 +326,7 @@ For a more detailed summary of this approach see quick read pedagogy article. ht
 
 <!-- There is also danger that an abstract approach to Computational Thinking, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
 
-The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
+The 12 principles promote both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.
 
 Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting.
 
@@ -370,7 +370,7 @@ Iterative design involves coming back to reflect on the outcomes of creative goa
 
 A full review is beyond what we have time for here but in simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection.
 
-Like reflective cycles the process is iterative in that testing and revision of the  prototype design can be repeated until the result is suitable.  
+Like reflective cycles the process is iterative in that testing and revision of the  prototype design can be repeated until the result is suitable.
 
 Brennan and Resnick's broader definition of CT includes design processes.
 
@@ -505,9 +505,9 @@ But there are challenges of exam focus, time poverty, and lack of PBL delivery s
 
 ### Time factors - sustaining the effort
 
-Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures.  
+Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures.
 
-I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are sidelined to cover compulsory curriculum material that has no relevance to the learners.  
+I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are sidelined to cover compulsory curriculum material that has no relevance to the learners.
 
 Resnick advises double lessons and whole terms devoted to projects. This may not be possible in exam focused classes but may be possible in some situations especially in KS2.
 
