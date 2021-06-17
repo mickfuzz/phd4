@@ -305,17 +305,15 @@ For a more detailed summary of the PRIMM approach see this quick read pedagogy a
 
 #### Pair Programming
 
-Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners.
+Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners. One of the key values of pair programming is to start to develop different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
 
-Werner et al study (see quick read) - POSSIBLE CASE STUDY -
-
-http://tiny.cc/pairprogramming
-
-One of the key values of pair programming is to start to develop different roles involved in coding. The process of modeling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of
+The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding.
 
 This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings) and is explored in the final section.
 
- Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where .....
+POSSIBLE CASE STUDY - Werner et al study (see quick read) -
+
+<!-- Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where ..... -->
 
 ### Summary of section
 
