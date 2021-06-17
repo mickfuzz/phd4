@@ -41,7 +41,7 @@ zotero:
 
 ### Part Five - Conclusion
 
-
+<!--
 ### notes / ideas
 - order of the concrete / abstract and inclusion section - prehaps swap?
 - in PRIMM quick read - they draw on SCT socio cultural theory - add this to the chapter and link to game making
@@ -57,7 +57,7 @@ zotero:
 - Then on to Papert - pluralism - they get there if you let them experiment or the design of the tools / experience leads them there.   
 - some kind of resolution of concrete and abstract concepts
 - there is abstraction at every level , young kids grouping red toys, abstract, analyse and sythesise by grouping - this doesn't have to be taught explicitly
-- the essential tension of teachers trying to be inclusive but having to respond to a curriculum.
+- the essential tension of teachers trying to be inclusive but having to respond to a curriculum. -->
 
 ## Introduction
 
@@ -157,7 +157,8 @@ or revise to be practical to the teacher -->
 
 <!-- This forms a fundamental challenge to the usefulness of teaching cognitive processes for transfer, one that challenges so many of schools normal ways of doing things that it is difficult to know where to begin reform. -->
 
-<!-- Image done in a way that works on github pages  -->
+<!-- Image done in a way that works on github pages AND in word docs -->
+![](./Pictures/learning-kolb.jpg)
 ![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg)
 
 #### The Issue of Transfer
@@ -190,6 +191,8 @@ We can use this distinction between concrete and abstract to examine the differe
 Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to the question ""How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". They take a situated approach to mapping the potential learning dimensions of working with others creating computing projects. The resulting map they create includes computational concepts, computational practices and computational perspectives. This framework based on observation of learners in action is more concrete and more accessible to teachers and learners as they can more easily recognise their own practice.
 
 ![](./Pictures/10000000000003C00000021C64E41F1D23F592FA.png)
+![CT]({{ site.baseurl }}/Pictures/10000000000003C00000021C64E41F1D23F592FA.png)
+
 Computational Thinking model by Resnick and Brennan - Diagram created by Mick Chesterman
 
 This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach.
@@ -220,9 +223,9 @@ We have explored that Computational Thinking is a contested term. While there is
 
 Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
 
-There is a tension between the skills required of Real Life coding and the time it takes to learn via real projects and the more abstract knowledge needed to answer more formal exam questions. In GCSE exams include a paper which tests application of coding concepts in a paper based format. Which aims to strike a balance.
+However while there is a technical distinction, in practical terms as the process of computing is learned through coding projects, for the purposes of this chapter the terms coding and computing are used quite freely.
 
-This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
+There is a tension between the skills required of Real Life coding and the time it takes to learn via real projects and the more abstract knowledge needed to answer more formal exam questions. In GCSE exams include a paper which tests application of coding concepts in a paper based format. Which aims to strike a balance. This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
 
 <!-- Refer back to transfer? -->
 
@@ -248,9 +251,7 @@ Drill and test - analysing code - predictions - then go on to other tactics.
 Sign posting - do this elsewhere
 In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail. -->
 
-In the following section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a class room setting.
-
-This includes (summary) ...
+In the following section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a classroom setting.
 
 <!--
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process. -->
@@ -312,28 +313,32 @@ The process of modelling and breaking down a process that is often difficult to 
 This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings) and is explored in the final section.
 
 POSSIBLE CASE STUDY - Werner et al study (see quick read) -
+This research showed the value of pair programming to build confidence and provide a social coding environment that was welcoming to girls without excluding boys.
 
-<!-- Not all young people have access to that kind of motivation and community but there are educational projects which are designed to replicate this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where ..... -->
 
 ### Summary of section
 
 This section has draw on resources provided by NCCE on the website teach computing. They often have a focus on techniques that work well in a classroom settings and help prepare for exam like questions.
 
-As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum.
 
-Before we move on to the final section, there are other techniques outlined in these quick reads which support learner-led learning approaches.
+As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
+Quick read on observation - http://tiny.cc/observingstudents
 
-This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
+Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning.
 
-http://tiny.cc/observingstudents
+In an ideal situation teachers are able to introduce concepts and then give student suitable tools, inspiration and to sustain their motivation as they solve real computing tasks. However this sets the bar high for many classrooms. Not all schools can provide this kind of motivation and support within a classroom environment. To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT.....
 
-In fact many studies that look at how coders learn focus not on overarching computational ideas but how they pick up the nuts and bolts of how computing projects are put together from a community they are a part of. Some researchers call this a craft approach to coding and it has strong links with another line of research on Studio ways of learning called Studio thinking.
+
+
 
 <!-- When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources. -->
 
-<!-- Find a place for this -->
+<!-- Find a place for this OR PERHAPS JUST DROP - HAVE DISCUSSION IS CT REALLY PRESENT IN UK
+CONTEXT ANYMORE? -->
 
-I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning.
+<!--
+I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
+
 
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
 
@@ -345,10 +350,11 @@ As discussed teachers must resolve the trade off between leading concepts tested
 
 We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
 
-There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches.
-<!-- is this about observation? -->
+<!-- There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
 
-Less explored in the UK research context, are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting.
+We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities call this a craft approach to coding. There are also parallels with artistic Studio-based learning.
+
+These are pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section.
 
 
 ### Design Approaches
@@ -368,6 +374,7 @@ In the following section I explore certain design approaches including - iterati
 This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
 
 ![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
+![semantic waves]({{ site.baseurl }}/Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
 
 <!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
 
@@ -383,7 +390,10 @@ Michel Resnick was instrumental in the Scratch development team and a pioneer of
 
 In more recent works Resnick has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explicitly values the process over any particular content.
 
-![](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
+![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
+![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
+
+
 Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine
 
 <!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
@@ -401,6 +411,7 @@ A framework was arrived at though ethnographic observation, and each of these ha
 Too large to describe in detail but it is useful to look at some of the key aspects. These include the importance of craft approaches, the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
 
 ![](./Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
+![studio thinking]({{ site.baseurl }}/Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
 
 Other STEM focused researchers have drawn on the process that emerged from art education community of practice in a studio and have proposed it as a good learning process for STEM. Sawyer argues for a reduced formulation of studio practice in STEM outlining the following aspects.
 
