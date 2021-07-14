@@ -6,7 +6,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 ...
 
-# Keeping it Real -- Inclusive frameworks to support computing projects
+# Abstract and Concrete Frameworks to Support Inclusion in Computing
 
 ## Outline
 
@@ -54,10 +54,6 @@ zotero:
 
 Computing as a subject lends itself to being taught in a multitude of ways. That's one of the things that makes it fascinating. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
 
-<!-- not sure about hands on here
-no-one really wants to teach in a hands off way
-this is part of the 12 principles
--->
 
 <!-- ### Context of Teaching Computing in the UK -->
 The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
