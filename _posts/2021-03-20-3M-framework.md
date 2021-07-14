@@ -33,6 +33,12 @@ Outro
 
 - Overcoming Challenges of classroom application
 
+## Concepts Summary
+
+ - funds of knowledge
+ - use modify create
+ - 
+
 ## Intro
 In a previous chapter in this collection I outlined the opportunities of a project based approach to learning computing and in particular the craft of coding. In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of PBL and UDL.
 

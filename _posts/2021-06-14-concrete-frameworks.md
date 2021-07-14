@@ -27,7 +27,7 @@ zotero:
 - tactics for teaching Coding
 - expansive framing
 - semantic wave - presented and applied as concepts first often - can be either but danger of flatlining - how to avoid that in tinkering projects?
-- peer programming
+- pair / peer programming
 - limitations of concepts first approach as a link to the next section
 
 ### Part Four - Alternative, Authentic Approaches
