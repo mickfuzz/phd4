@@ -27,19 +27,10 @@ zotero:
 - tactics for teaching Coding
 - expansive framing
 - semantic wave - presented and applied as concepts first often - can be either but danger of flatlining - how to avoid that in tinkering projects?
-- peer programming
+- pair / peer programming
 - limitations of concepts first approach as a link to the next section
 
-### Part Four - Alternative, Authentic Approaches
-- Intro to alternative models suiting bottom up  / concrete approaches
-- Design approaches -
-  - creative spiral / iterative
-  - studio thinking
-  - using design patterns
-- PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
-- UDL universal design for learning.
-
-### Part Five - Conclusion
+###  Conclusion
 
 <!--
 ### notes / ideas
