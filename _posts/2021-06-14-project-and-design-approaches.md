@@ -34,7 +34,11 @@ I argue that mixing up the already abstract / technical terminology of coding wi
 
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
 
-## Part Four - Alternative, Authentic Approaches
+## Introduction
+
+In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code.
+
+We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. In this chapter we explore some of the strategies that can be used to address these factors. 
 
 You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example in a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
 
