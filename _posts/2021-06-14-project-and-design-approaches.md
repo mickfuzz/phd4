@@ -10,9 +10,6 @@ zotero:
 
 ## Outline
 
-
-
-### Part Four - Alternative, Authentic Approaches
 - Intro to alternative models suiting bottom up  / concrete approaches
 - Design approaches -
   - creative spiral / iterative
@@ -22,12 +19,6 @@ zotero:
 - UDL universal design for learning.
 
 
-
-<!-- When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources. -->
-
-<!-- Find a place for this OR PERHAPS JUST DROP - HAVE DISCUSSION IS CT REALLY PRESENT IN UK
-CONTEXT ANYMORE? -->
-
 <!--
 I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
 
@@ -36,23 +27,29 @@ I argue that mixing up the already abstract / technical terminology of coding wi
 
 ## Introduction
 
-In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code.
+In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. In this chapter we explore some of the strategies that can be used to address these factors.
 
-We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. In this chapter we explore some of the strategies that can be used to address these factors. 
+In a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
 
-You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example in a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
+While GCSE questions outlined in the previous chapter attempt to include some elements of peer practices by including tests of code reading and analysis.
+The process of preparing for these exam questions develops skills and practices that are quite different from coding in a real life setting. As discussed in a previous chapter computing teachers face face a challenge to resolve the trade off between leading concepts tested in exams and the engagement potential of student working on their own projects.
 
-As discussed teachers must resolve the trade off between leading concepts tested in exams and the engagement potential of student working on their own projects.
-
-We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
+We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_, the resources provided, perhaps because they are targeted at the classroom, often lead with more formal learning approaches.   
 
 <!-- There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
 
+The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences.
+
+This potential is also promoted by government programmes. To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT.....
+
+### My Introduction to Craft Approaches
+
+When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
+
+This process of a kind of messy apprenticeship is not unusual.
+
+
 We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities call this a craft approach to coding. There are also parallels with artistic Studio-based learning. Educators also try to replicate some of the benefits within more formal settings using a process called project-based learning.
-
-The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences that I argue that it is worth the effort required.  
-
-<!-- To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT..... -->
 
 ### Design Approaches
 
