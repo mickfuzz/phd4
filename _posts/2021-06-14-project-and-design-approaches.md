@@ -1,4 +1,4 @@
-activated---
+---
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
