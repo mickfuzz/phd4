@@ -6,7 +6,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: misc
-title: Game Making Pedagogy using a Three M Framework
+title: Abstract and Concrete Approaches to Computing
 ---
 
 # Abstract and Concrete Frameworks to Support Inclusion in Computing
@@ -19,6 +19,7 @@ title: Game Making Pedagogy using a Three M Framework
   <!-- - Context, coding not ICT, new curriculum - quick sketch of CT,    -->
 - A note on making computing engaging
 - Concrete and Abstract terms defined in relation to learning
+
 ### Part two - Computational Thinking, the Abstract and Concrete
 - Concrete and Abstract learning approaches
 - The Issue of Transfer
@@ -329,114 +330,3 @@ I argue that mixing up the already abstract / technical terminology of coding wi
 
 
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
-
-## Part Four - Alternative, Authentic Approaches
-
-You could argue that the skills required to answer the GCSE questions outlined in the previous section are quite different from coding in a real life setting. For example in a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
-
-As discussed teachers must resolve the trade off between leading concepts tested in exams and the engagement potential of student working on their own projects.
-
-We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_ , the resources provided, perhaps because they are targeted at school, supporting more formal learning approaches.   
-
-<!-- There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
-
-We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities call this a craft approach to coding. There are also parallels with artistic Studio-based learning. Educators also try to replicate some of the benefits within more formal settings using a process called project-based learning.
-
-The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences that I argue that it is worth the effort required.  
-
-<!-- To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT..... -->
-
-### Design Approaches
-
-Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
-In the following section I explore certain design approaches including - iterative design, studio thinking and the use of design patterns.
-
-<!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
-
-<!-- ### UDL as Learning Framework -->
-
-<!-- Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan. However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible. -->
-
-<!-- MOVE TO PBL?
-This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
-
-![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
-![deign]({{ site.baseurl }}/Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
-
-<!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
-
-
-#### Iterative Design Approaches
-
-Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. Like reflective cycles the process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved.  
-
-Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface.
-
-<!-- Tools too - Design processes need appropriate tools  -->
-<!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
-
-In more recent works Resnick has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explicitly values the process over any particular content.
-
-![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
-![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
-
-
-Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine
-
-<!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
-
-<!-- Use Modify Create framework - covered in another one.
-In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
-In **Modify** learners progress to working on real projects but one created by others.
-Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch. -->
-
-#### Studio Thinking
-
-Research of on the design approaches in artistic architecture studios has described them as Studio Thinking and described as 8 studio habits of mind.
-A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
-
-Too large to describe in detail but it is useful to look at some of the key aspects. These include the importance of craft approaches, the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
-
-![](./Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
-![studio thinking]({{ site.baseurl }}/Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
-
-Other STEM focused researchers have drawn on the process that emerged from art education community of practice in a studio and have proposed it as a good learning process for STEM. Sawyer argues for a reduced formulation of studio practice in STEM outlining the following aspects.
-
--   Complex, authentic, real-world projects
--   Guided problem solving
--   Curriculum design
--   Externalization and reflection
-
-He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter.
-
-#### Design Patterns as an educational tool
-
-When I retrained in computing at Master level one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to support an object oriented approach. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
-
-The advantage of DP as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
-
-<!-- My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing. -->
-
-For educators the use of Design Patterns to support learners develop coding proficiency provides certain advantages. As a bridge between abstract concept and concrete implementations
-As a way to join and navigate participation in a community of coders.
-
-A similar principle to Design Patterns is presented for the classroom in the form of the concept of worked examples. A quick read is available here -
-http://tiny.cc/worked-examples
-
-#### Case Study - Computational Patterns
-
-There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of X. In this study over x students made games.
-
-The project was developed in partnership with teachers and modified an original goal of teaching a more traditional view of transferable Computational Thinking to one of Computational Patterns. This move was in response to a key piece of feedback from teachers who were slightly mystified by the abstract definitions of CT but felt that they understood their expectation of the underlying usefulness. One expressed that they would like to be able to have the following expectation of students. "Now that you can make Space Invaders, can you also make a science simulation." [@repenning_scalable_2010, p. 4]
-
-INSERT Details of the programme - SIZE ETC
-
-In the case of SGD these patterns were and those present in games which could also be applied to science simulation. Examples include hill climbing, collision and transportation. Without going into details about the technical elements of the patterns they could be expressed in code but also as a concept that could be applied in other settings.
-
-This brings up a question of what patterns to choose. This study pragmatically chose to work in a cross curricular way linking computing and science. The questionable promise of transfer drove the patterns chosen. However, in coding communities, other design patterns emerge. For example in website or the design of multimedia applications a particular set of problems with tried and tested solutions will exist.
-In a review of research to go with the report After the Reboot, Waite proposed that other studies which explore the utility and promise of patterns to learn coding are needed. CITATIION.
-
-In my case study on a 3M game making framework, I argue that this element of transfer is not essential, that learning to code via applying and analysing game specific design patterns that have little application outside of game is still a useful process in developing authentic coding practices.
-
-<!-- Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
-RE-READ SGD work -->

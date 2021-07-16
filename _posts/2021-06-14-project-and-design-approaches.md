@@ -4,7 +4,10 @@ zotero:
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
-...
+layout: post
+categories: misc
+title: Project and Design Approaches in Computing
+---
 
 # Project and Design Approaches in Computing
 
