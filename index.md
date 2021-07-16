@@ -11,3 +11,5 @@ title: Front Page
 ## Welcome
 
 Welcome to the front page of my PhD writing repository. Some of my recent works are as follows.
+
+Most of the following are for upcoming book chapters.
