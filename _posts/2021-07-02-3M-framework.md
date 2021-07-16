@@ -12,35 +12,37 @@ title: Game Making Pedagogy using a Three M Framework
 
 # Game Making Pedagogy using a Three M Framework
 
-## Notes
+<!-- ## Notes
 
 Be bold move your model to as near the front as you can.
 Justify this - all useful and practical advice to teachers - and publishing on new site -
 
-Section on tensions is too long - instead perhaps a summary of tools choice tensions, limits of the classroom and new opportunities. - so move some to 3m as justification and some to limits / tensions
+Section on tensions is too long - instead perhaps a summary of tools choice tensions, limits of the classroom and new opportunities. - so move some to 3m as justification and some to limits / tensions -->
 
 
 ## Summary
 
-- Context
+- Introduction / Context
 
-Three main elements
--  Benefits of game making & what's unique about gaming
--  3M Framework in relation to the above
--  Tensions involved in my study and research
-  - tools
-Outro
+- Main Sections
 
+  - Benefits of game making & what's unique about gaming
+  - Game Making Tools Summary
+  - 3M Framework in relation to the above
+  - Tensions involved in my study and research
 - Overcoming Challenges of classroom application
+
 
 ## Concepts Summary
 
+some of the pedagogy / concepts in this chapter
+
  - funds of knowledge
  - use modify create
- -
+
 
 ## Intro
-In a previous chapter in this collection I outlined the opportunities of a project based approach to learning computing and in particular the craft of coding. In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of PBL and UDL.
+In a previous chapter in this collection I outlined the opportunities of a project based approach to learning computing and in particular the craft of coding. In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based learning and Universal Design for Learning (UDL).
 
 I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games.
 
@@ -65,7 +67,9 @@ While the focus of this research was to support the computing curriculum, it is 
 
 In this writing I use the term learning design instead of pedagogy. I do this because I feel that term is more accessible and because it is a specific implementation of several underlying pedagogic principles.
 
-### Research on benefits (and uniqueness) of Game Making (merge with above?)
+### Research on benefits (and uniqueness) of Game Making
+
+<!-- (merge with above?) -->
 
 <!-- This section uses two other main sources beyond the review by Waite as part of the After the Reboot report. First is one by Kafai and Burke, another is that of Earp and colleagues who looked at the use of game making to build 21st Century skills.  -->
 
@@ -127,7 +131,8 @@ More research is needed on ways to draw out attitudes and knowledge of game cult
 The concepts of a third space normally happens outside of the school environment, thus the challenge exists how to create such a third space within the classroom. Suggestions now, and the methods part of the 3M framework (drama process).
 
 To allow students to bring their own home funds on knowledge into their work teachers can adopt two main ways.
-REWORD TO PUT THE CONCEPTS FIRST - TWO TYPES OF FOK  
+
+<!-- REWORD TO PUT THE CONCEPTS FIRST - TWO TYPES OF FOK   -->
 
 -   Allow students to base their coding projects on well known game tropes or genres.
 -   Allow for choice over the narrative of the game and the characters to allow for student choice
