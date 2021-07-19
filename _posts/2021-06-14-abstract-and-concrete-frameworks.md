@@ -63,17 +63,19 @@ Computing as a subject lends itself to being taught in a multitude of ways. That
 The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
 
 <!-- I do not suggest the concepts of Computational Thinking and Creativity are in opposition to each other. However, for the first part of this chapter I am going to explore both concepts from an academic perspective as a way of finding useful tensions and variety in the way computing teaching is being approached and promoted.
-
 I will use the lens of projects to examine creativity in computing.   -->
 
-The start of this chapter outlines some of the theory and practice of applying an inclusive approach to computing projects, specifically the benefits of a project based approach. I then look at different interpretations of Computational Thinking from a critical perspective to contrast the concepts-first approach to other more concrete approaches like project-based learning.
-(not sure about the terms or even the whole approach of the last sentence)
+NEED TO REJIG THIS - MORE THEORY BASED
 
-<!-- In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
+This chapter outlines some of the theory and practice of applying an inclusive approach to computing projects. The concepts of abstract and concrete approaches to computing are examined.   
 
-<!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
+It then looks at different interpretations of Computational Thinking from a critical perspective and analyse different interpretations .
 
-Whereas the diversity of materials and end goals of computing projects are readily visible for teachers and family members enthusiastic to help, the best way to help learners learn, or effective pedagogies to support the coding and computing process are less visible and less exchanged.
+<!-- (not sure about the terms or even the whole approach of the last sentence) -->
+
+Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made.
+
+
 
 <!-- Give an example to support the above  -->
 
@@ -166,8 +168,7 @@ As with many other subjects, teachers are being asked to both teach to the parti
 <!-- Sign posting - tactics -   semantic wave theory
 and more out of school tatctics.  -->
 
-<!-- #### CT and transfer
-
+<!--
 Mark Guzdial was an early advocate of Computational Thinking and wrote about the possibility of this kind of cross over enthusiastically - find and contextualise - However his enthusiasm has changed in focus he has moved towards a more concrete idea of what Computational Thinking . Has he lost the faith - what's happening here?
 
 The key to this idea is transfer which is a tricky concept to prove when it comes to situations like this. As Mark says, you can't prove a negative, but the evidence for CT being transferred to other areas is weak.
@@ -220,11 +221,19 @@ There is a tension between the skills required of Real Life coding and the time 
 
 <!-- Refer back to transfer? -->
 
+<!-- Make link to Project based approaches ? -->
+<!--  -->
+
 ## Part Three - Tactics for teaching Computing in the Classroom
 
 <!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
 AN EXAMPLE ?-->
-This section gives tips and examples pitched at a typical classrooom computing environment. The following section examines wider project based approaches which are more challenging to integrate but which provide particular benefits to the learner.
+
+This section gives tips and examples pitched at a typical classrooom computing environment.
+
+In another chapter I examine wider project based approaches which are more challenging to integrate into a classroom environment but which provide particular benefits to the learner.
+
+First of all we look at the impact of GCSE exams and the computing curriculum on how teachers approach the subject.
 
 ### The context of GCSE exams papers
 
@@ -232,7 +241,18 @@ In a very real sense the contents of GCSE exams determine a lot of what happens 
 
 The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However the end results are a slightly frustrating mix of trying to be applied and authentic, and yet strangely artificial as the coding problems are fragmented and written on paper rather than in a real code environment.  
 
-The questions which address CT and programming in the format of small coding challenges have to be broken into small fragments to be able test a particular part of the curriculum. By necessity, the challenges include little in the way of context. There is little or no potential for students to apply design and debugging skills or follow their own interests. This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
+The questions which address CT and programming in the format of small coding challenges have to be broken into small fragments to be able test a particular part of the curriculum. By necessity, the challenges include little in the way of context.
+
+There is little or no potential for students to show design or authentic debugging skills in the fragmented, paper based questions.
+
+This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
+
+In essence teachers face a familiar problem of how much they should "teach to the test". The phrase has been demonised as it implies a passive learning on the part of the pupils, cramming knowledge. You may say, surely this is just the nature of paper based exams. Yes they are formal and dry but that is a by product of making them fair.
+
+However, teaching to the test and staying in a mostly decontextualised examples has potential negative impacts on inclusion and student engagement. If teachers train students efficiently for the test they will be less likely to engage in authentic projects in which they can follow their own interests.
+
+<!-- https://www-tandfonline-com.mmu.idm.oclc.org/doi/full/10.1080/14703297.2018.1564882?casa_token=5gdmHSGX8BwAAAAA%3ANAyJjDXRrGZPqN2yJzqp_0zw_-U1hpZejAu3j8zBM1Gw6AvybVyroc7m_LUDzuaz-h6w6w6tzII -->
+
 
 <!-- SOME MORE ON THE GENERAL CONDITIONS IN THE CLASSROOM NEEDED TO MAKE THIS HAPPEN? -->
 <!-- Let's examine some of the needs of the Computing classroom to best prepare students for the kinds of questions they are likely to meet in GCSE papers.
@@ -248,6 +268,8 @@ In the following section we look at some of the practical tactics for teaching s
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process. -->
 
 ### 12 Principles for Teaching Computing
+
+This section draws on resources provided by NCCE on the website teach computing. They often have a focus on techniques that work well in a classroom settings and help prepare for exam like questions.
 
 To counter act the challenges addressed in the last section the NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising some of the diverse and sometimes seemingly contradictory opportunities and requirements, they have provided a set [*12 principles for teaching computing*](https://blog.teachcomputing.org/how-we-teach-computing/) aimed at mainstream teachers.
 
@@ -309,7 +331,7 @@ This research showed the value of pair programming to build confidence and provi
 
 ### Summary of section
 
-This section has draw on resources provided by NCCE on the website teach computing. They often have a focus on techniques that work well in a classroom settings and help prepare for exam like questions.
+
 
 
 As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
@@ -320,13 +342,14 @@ Techniques to help teacher observation and assessment of what student are comple
 In an ideal situation teachers are able to introduce concepts and then give student suitable tools, inspiration and to sustain their motivation as they solve real computing tasks. However this sets the bar high for many classrooms. While not all schools can provide this kind of motivation and support within an everyday computing classroom environment, many of them find ways of bringing the value project and design approaches to their students. I explore some of these tactics and associated benefits in more depth in the next section.    
 
 
-<!-- When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources. -->
+LINK TO NEXT CHAPTER
 
-<!-- Find a place for this OR PERHAPS JUST DROP - HAVE DISCUSSION IS CT REALLY PRESENT IN UK
-CONTEXT ANYMORE? -->
+To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach.
+
+
+<!-- When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources. -->
 
 <!--
 I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
-
 
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
