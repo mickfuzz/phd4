@@ -188,21 +188,6 @@ Computing education is an excellent vehicle for a project-based approach to lear
 But a bit more about project based learning - and how to design it in a computing situation.
 
 
-### UDL revisited
-
-In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings. Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom, it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their abilities.
-
-The process of in the form of designing a learning experience in a way that allows learners to choose the level that is most appropriate for them.
-
-<!-- Dom says... student often choose the level that is appropriate for them.
-FIND SOURCE FOR THIS -->
-
-There are areas of overlap of the mechanics of UDL and PBL.
-
-As previously explored the guideline to provide options for individual choice and autonomy can be challenging in a classroom environment. EXPLAIN WHY.
-
-Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
-
 
 ###  Summary of Design, Project, Authentic Approaches
 

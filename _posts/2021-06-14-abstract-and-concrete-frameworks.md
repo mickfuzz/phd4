@@ -75,8 +75,6 @@ It then looks at different interpretations of Computational Thinking from a crit
 
 Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made.
 
-
-
 <!-- Give an example to support the above  -->
 
 <!-- DO Other chapters in this book deal with the strategies like PRIMM and Unplugged computing to communicate the more abstract concepts of computational thinking suited to classroom teaching.?  -->
@@ -100,9 +98,15 @@ Instead, inclusive pedagogy promotes the design of learning experiences so that 
 
 <!-- Concrete fading here?  -->
 
-These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. UDL, design-based approaches and the value of projects and are explored further in another chapter on project-based approaches. In the next section we look at one of the ways educators have tried to make computing engaging to a diverse set of learners.
+These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. The fundamentals of UDL and how they can be applied in a computing context are explored in the final section of this chapter.  
+
+One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
 
 #### A Note on Making Computing Engaging
+
+<!-- Increase this section with a case study
+link to game making - hello world magasine - maker spaces -
+examples on walls of classrooms -->
 
 Embracing the challenge of making computing projects broadly accessible and engaging and has something that many individuals and organisations both funded and enthusiast have engaged with. University and industry partner programs have created a diversity of computing materials and computing environments designed to aid novice programmers. Teachers themselves have been a tremendous source in the sharing of knowledge, materials and approaches to respond to the challenge.
 
@@ -327,6 +331,26 @@ This process of using building an identity of coding with the help of peers is k
 
 POSSIBLE CASE STUDY - Werner et al study (see quick read) -
 This research showed the value of pair programming to build confidence and provide a social coding environment that was welcoming to girls without excluding boys.
+
+
+
+#### Universal Design for Learning
+<!-- ### UDL revisited -->
+
+In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings. Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom, it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their abilities.
+
+The process of in the form of designing a learning experience in a way that allows learners to choose the level that is most appropriate for them.
+
+<!-- Dom says... student often choose the level that is appropriate for them.
+FIND SOURCE FOR THIS -->
+
+There are areas of overlap of the mechanics of UDL and PBL.
+
+As previously explored the guideline to provide options for individual choice and autonomy can be challenging in a classroom environment. EXPLAIN WHY.
+
+Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
+
+UDL, design-based approaches and the value of projects and are explored further in another chapter on project-based approaches
 
 
 ### Summary of section
