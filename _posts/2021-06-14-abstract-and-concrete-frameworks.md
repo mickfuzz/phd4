@@ -16,7 +16,8 @@ title: Abstract and Concrete Approaches to Computing
 ### Part one - Intro, context and terms
 - Introduction & Context
   -   Inclusion - define and how relevant to abstract / Concrete
-  <!-- - Context, coding not ICT, new curriculum - quick sketch of CT,    -->
+  <!-- - Context, coding not ICT, new curriculum -
+  quick sketch of CT, NEEDS ADDING?   -->
 - A note on making computing engaging
 - Concrete and Abstract terms defined in relation to learning
 
@@ -195,7 +196,7 @@ There is a school of thinking in educational research which argues that learning
 
 We can use this distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking  One is Jeanette Wing's original take. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing_computational_nodate]. The essence is abstract away concepts and principles from the context. This approach suits a formal exam approach. Many learning resources designed to support the computing curriculum present this principle as for key pillars; decomposition, pattern recognition, abstraction algorithmic thinking[@bbc_bitesize_introduction_nodate].
 
-Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to the question ""How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". They take a situated approach to mapping the potential learning dimensions of working with others creating computing projects. The resulting map they create includes computational concepts, computational practices and computational perspectives. This framework based on observation of learners in action is more concrete and more accessible to teachers and learners as they can more easily recognise their own practice.
+Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to the question How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". They take a situated approach to mapping the potential learning dimensions of working with others creating computing projects. The resulting map they create includes computational concepts, computational practices and computational perspectives. This framework based on observation of learners in action is more concrete and more accessible to teachers and learners as they can more easily recognise their own practice.
 
 ![](./Pictures/10000000000003C00000021C64E41F1D23F592FA.png)
 ![CT]({{ site.baseurl }}/Pictures/10000000000003C00000021C64E41F1D23F592FA.png)
@@ -352,7 +353,8 @@ In a previous section we looked at the foundations of inclusive pedagogies and U
 
 The process of in the form of designing a learning experience in a way that allows learners to choose the level that is most appropriate for them.
 
-<!-- Dom says... student often choose the level that is appropriate for them.
+<!-- Dom says...
+student often choose the level that is appropriate for them.
 FIND SOURCE FOR THIS -->
 
 There are areas of overlap of the mechanics of UDL and PBL.
@@ -361,7 +363,9 @@ As previously explored the guideline to provide options for individual choice an
 
 Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
 
-UDL, design-based approaches and the value of projects and are explored further in another chapter on project-based approaches
+<!--
+Perhaps not - finish it off here
+UDL, design-based approaches and the value of projects and are explored further in another chapter on project-based approaches -->
 
 
 ### Summary of section
@@ -376,7 +380,7 @@ In an ideal situation teachers are able to introduce concepts and then give stud
 
 LINK TO INCLUSIVE EDUCATION
 
-This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education. It has looked at the challenges and dangers of leading with abstract ideas. We can see the characteristics of UDL and the challenges that the principles pose for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions. 
+This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education. It has looked at the challenges and dangers of leading with abstract ideas. We can see the characteristics of UDL and the challenges that the principles pose for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions.
 
 
 LINK TO NEXT CHAPTER
