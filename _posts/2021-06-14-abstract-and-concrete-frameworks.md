@@ -376,9 +376,7 @@ In an ideal situation teachers are able to introduce concepts and then give stud
 
 LINK TO INCLUSIVE EDUCATION
 
-This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education.
-It has looked at the challenges and dangers of leading with abstract ideas.
-We can see the characteristics of UDL and the challenges that the principles pose for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions. 
+This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education. It has looked at the challenges and dangers of leading with abstract ideas. We can see the characteristics of UDL and the challenges that the principles pose for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions. 
 
 
 LINK TO NEXT CHAPTER
