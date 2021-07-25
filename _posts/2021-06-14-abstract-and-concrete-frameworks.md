@@ -87,14 +87,18 @@ Later in this chapter I will outline several approaches to support inclusive ped
 
 The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such, a social and cultural approach to understanding and incorporating the learning experience of pupils in a wider ecosystem beyond school is vital.
 
-<!-- Socio cultural here? or drop? -->
 
 <!-- The next section deals with inclusive pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
 
 An important guiding principle of inclusive pedagogy is to move away from a view that most students learn well and other need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable.
 
 Instead, inclusive pedagogy promotes the design of learning experiences so that all learners start to develop abstract concepts from concrete examples, can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment  and bring their own experience and cultural understandings into their work.
-(Good citation needed?)
+
+<!-- (Good citation or example needed?)
+- first part of inclusion is here
+- then a section on UDL Later
+- finally Conclusion makes claims to favour leading without concepts - concrete fading
+ -->
 
 <!-- Concrete fading here?  -->
 
@@ -115,6 +119,13 @@ A quick search the web for creative computing shows a tremendous diversity of ac
 Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.  
 
 However while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to get best approach these opportunities from an educational point of view.
+
+<!-- Break out box on creative computing examples?
+- Scratch
+- Game Making
+- Physical computing
+-->
+
 
 <!-- SIGNPOSTING (but not too much)?
 To help address this chapter will cover some design and project based approaches to help.  Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of   -->
@@ -355,15 +366,19 @@ UDL, design-based approaches and the value of projects and are explored further 
 
 ### Summary of section
 
-
-
-
 As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. This tension could potentially be addressed by a technique promoted by NCCE - that of using observational techniques in the classroom to assess user progress.
 Quick read on observation - http://tiny.cc/observingstudents
 
 Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning.
 
 In an ideal situation teachers are able to introduce concepts and then give student suitable tools, inspiration and to sustain their motivation as they solve real computing tasks. However this sets the bar high for many classrooms. While not all schools can provide this kind of motivation and support within an everyday computing classroom environment, many of them find ways of bringing the value project and design approaches to their students. I explore some of these tactics and associated benefits in more depth in the next section.    
+
+
+LINK TO INCLUSIVE EDUCATION
+
+This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education.
+It has looked at the challenges and dangers of leading with abstract ideas.
+We can see the characteristics of UDL and the challenges that the principles pose for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions. 
 
 
 LINK TO NEXT CHAPTER

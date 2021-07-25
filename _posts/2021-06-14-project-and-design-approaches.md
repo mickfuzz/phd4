@@ -45,9 +45,15 @@ The pedagogies and frameworks that support the creative processes involved in un
 
 This potential is also promoted by government programmes. To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT.....
 
+<!-- Socio cultural theory here?
+the importance of community as culture
+ -->
+
 <!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
 
 ### My Introduction to Craft Approaches
+
+
 
 When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
 
