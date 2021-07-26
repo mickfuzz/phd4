@@ -17,7 +17,7 @@ title: Abstract and Concrete Approaches to Computing
 - Introduction & Context
   -   Inclusion - define and how relevant to abstract / Concrete
   <!-- - Context, coding not ICT, new curriculum -
-  quick sketch of CT, NEEDS ADDING?   -->
+  quick sketch of CT, NEEDS ADDING?  -->
 - A note on making computing engaging
 - Concrete and Abstract terms defined in relation to learning
 
