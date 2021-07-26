@@ -57,53 +57,46 @@ title: Abstract and Concrete Approaches to Computing
 
 ## Introduction
 
-Computing as a subject lends itself to being taught in a multitude of ways. That's one of the things that makes it fascinating. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
+In the UK, computing and computational devices are all around us. Computing as a subject can draw on this diversity and can be applied and taught in a multitude of ways. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
 
 
 <!-- ### Context of Teaching Computing in the UK -->
 The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
 
+This chapter looks at different definitions of Computational Thinking and their implications for teaching computing in inclusive ways. In particular we took at the concepts of abstract and concrete approaches to computing and how they inform recent advice to engage students. To do this I will be summarising some of the theory and practice of applying inclusive approaches to computing projects.
+
 <!-- I do not suggest the concepts of Computational Thinking and Creativity are in opposition to each other. However, for the first part of this chapter I am going to explore both concepts from an academic perspective as a way of finding useful tensions and variety in the way computing teaching is being approached and promoted.
 I will use the lens of projects to examine creativity in computing.   -->
-
-NEED TO REJIG THIS - MORE THEORY BASED
-
-This chapter outlines some of the theory and practice of applying an inclusive approach to computing projects. The concepts of abstract and concrete approaches to computing are examined.   
-
-It then looks at different interpretations of Computational Thinking from a critical perspective and analyse different interpretations .
 
 <!-- (not sure about the terms or even the whole approach of the last sentence) -->
 
 Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made.
 
 <!-- Give an example to support the above  -->
-
 <!-- DO Other chapters in this book deal with the strategies like PRIMM and Unplugged computing to communicate the more abstract concepts of computational thinking suited to classroom teaching.?  -->
 
 <!-- ## Coding well is well hard - hard to learn- hard to teach. Choosing suitable coding projects for novices is hard to get right. They may be too hard or too boring. [removed extra]  -->
 
 #### Inclusion and Participation
 
-Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008].
+Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN and disability issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such bringing the out of school interests and experiences of pupils into the classroom is vital. More broadly, more recent definitions of inclusive education include a social justice element. To be inclusive schools and teachers must identify barriers to progression and work to help student overcome them.
 
-The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such, a social and cultural approach to understanding and incorporating the learning experience of pupils in a wider ecosystem beyond school is vital.
-
+<!-- Make the above paragraph less wordy -->
 
 <!-- The next section deals with inclusive pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
 
-An important guiding principle of inclusive pedagogy is to move away from a view that most students learn well and other need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable.
+One emerging principle of inclusive pedagogy is to move away from a view that most students learn well and that others need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable. Instead, we should design learning experiences so that all learners can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment and bring their own experience and cultural understandings into their work.
 
-Instead, inclusive pedagogy promotes the design of learning experiences so that all learners start to develop abstract concepts from concrete examples, can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment  and bring their own experience and cultural understandings into their work.
+<!-- Make the above paragraph clearer - perhaps find citation -->
+
+These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. How UDL can be applied in a computing context is covered in the final section of this chapter. However, many of the principles of the UDL framework will be be ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas.
 
 <!-- (Good citation or example needed?)
 - first part of inclusion is here
 - then a section on UDL Later
 - finally Conclusion makes claims to favour leading without concepts - concrete fading
  -->
-
 <!-- Concrete fading here?  -->
-
-These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. The fundamentals of UDL and how they can be applied in a computing context are explored in the final section of this chapter.  
 
 One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
 
@@ -137,8 +130,7 @@ To help address this chapter will cover some design and project based approaches
 
 When reading about different approaches to teaching computing you are likely to meet the terms concrete and abstract. As these are such foundational terms, and because they are often used without introduction, lets define them quickly. In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract.
 
-There is another everyday usage which hints that abstract knowledge are harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete.
-In everyday language to grok something is a concrete understanding. In traditional conceptions of education  abstract knowledge is of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge.
+There is another everyday usage which hints that abstract knowledge are harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete. In everyday language to grok something is a concrete understanding. In traditional conceptions of education  abstract knowledge is of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge.
 
 However there are also dangers of adopting teaching in a abstract way. For example, learners may not make a connection to a real situation and then can only recall rather than apply the knowledge. This is termed inert knowledge. For example in computing terms you may be able to give a definition of what a function is in a coding language but not be able to write one.
 
