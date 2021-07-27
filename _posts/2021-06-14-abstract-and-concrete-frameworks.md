@@ -337,14 +337,15 @@ POSSIBLE CASE STUDY - Werner et al study (see quick read) -
 This research showed the value of pair programming to build confidence and provide a social coding environment that was welcoming to girls without excluding boys.
 
 
-
 #### Universal Design for Learning
 
 In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings.
 
 UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The key ideas emerged from the arena of designing computer aided instruction have been revised to into a framework that applies to diverse teaching and learning settings.  According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
 
-INSERT GRAPHIC HERE
+![udl](./Pictures/udl1.png)
+![udl]({{ site.baseurl }}/Pictures/udl1.png)
+
 
 Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability -  it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their individual abilities and learning strategies.
 
