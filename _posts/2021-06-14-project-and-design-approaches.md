@@ -24,8 +24,6 @@ title: Project and Design Approaches in Computing
 
 <!--
 I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
-
-
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
 
 ## Introduction
@@ -43,22 +41,33 @@ We have looked at some of the 12 principles and quick reads promoted by the NCCE
 
 The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences.
 
-This potential is also promoted by government programmes. To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT.....
+To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. Often this kind of activity happens at home with enthusiastic family members taking young people to maker fairs, community coding activities and accessing resources such as YouTube videos or via specialist online forums. This kind of hobbyist forums and communication have been documented as being significant in the evolution of the home computer and Silicon Valley culture.
+https://en.wikipedia.org/wiki/Homebrew_Computer_Club
+
+However, this kind of computer enthusiast community is not the most accessible to a wide variety of audience. How then to widen this out?  
+
+To address this, these approaches are also promoted by government and corporate sponsored programmes like the Coolest Project and Coder Dojo and Code Clubs.
+Coder Dojos are monthly events run by volunteers often at the weekend. They often focus on creative, engaging computing. I have volunteered at some events and interviewed other volunteers. I have been impressed at the dedication and inventiveness of volunteers. While some tables will use existing resources to support Scratch, others will try out new and experimental work around hacking Minecraft, creating games with code engines and new technologies of physical computing. Often volunteers will bring their own children, and use them as guides to help them evaluate their project ideas to make sure they are engaging and achievable for the target audience.
+
+The Coolest Project is a project the Raspberry Pi Foundation which also runs Code Clubs in Schools and Coder Dojos which are often weekend family focused events.
+
+It addresses one issue with monthly Coder Dojos. My observations and interviews with volunteers at Dojos showed that there is a difficulty in maintaining project interest from one month to the next.
+
+These projects allow students to approach computing with a different attitude and tackle problems in a radically different way to much of classroom teaching. Apart from the greater amount of time dedicated to hands-on coding and related physical computing challenges, the opportunities for authentic practices. These include; designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to work to fine tune the desired result.
 
 <!-- Socio cultural theory here?
 the importance of community as culture
+
+And SINGPOSTING to the rest of the chapter
  -->
 
 <!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
 
 ### My Introduction to Craft Approaches
 
-
-
 When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
 
-This process of a kind of messy apprenticeship is not unusual.
-
+This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual. According to a recent Stack Overflow survey most developers are either fully are partly self-taught.
 
 We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities call this a craft approach to coding. There are also parallels with artistic Studio-based learning. Educators also try to replicate some of the benefits within more formal settings using a process called project-based learning.
 
