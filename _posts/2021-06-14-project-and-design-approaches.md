@@ -38,17 +38,16 @@ While GCSE questions outlined in the previous chapter attempt to include some el
 
 The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences. Perhaps most significant is the potential for project and design based approaches to engage and sustain a diversity of learners in computing.
 
-
 <!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
 
-In this chapter we explore some of the strategies that can be used to support the delivery of project based approaches.
+In this chapter we explore some of the strategies that can be used to support the delivery of design and project based approaches. Before we do this I want to describe one aspect that is important to these approaches, that of community.
 
-<!-- Intro to the importance of communities -->
+## The Power of Communities
 
-To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. Often this kind of activity happens at home with enthusiastic family members taking young people to maker fairs, community coding activities and accessing resources such as YouTube videos or via specialist online forums. This kind of hobbyist forums and communication have been documented as being significant in the evolution of the home computer and Silicon Valley culture.
+A project based approach to learning coding and computing is often something that is supported by families and emerges from the home environment. For example enthusiastic family members taking young people to maker fairs, community coding activities. They may buy creative computing kits or access resources such as YouTube videos or via specialist online forums. This kind of hobbyist forums and communication have been documented as being significant in the evolution of the home computer and Silicon Valley culture.
 https://en.wikipedia.org/wiki/Homebrew_Computer_Club
 
-However, this kind of computer enthusiast community is not the most accessible to a wide variety of audience. How then to widen this out?  
+However, this kind of computer enthusiast community is not the most accessible to a wide variety of audience. As educators striving for more inclusive and equal approaches, we should ask how then to widen out this experience?  
 
 Code Clubs on a small scale allow you to create an after school community. MORE
 Resources are supplies. Originally independent but now part of Raspberry Pi Foundation.
@@ -63,9 +62,10 @@ It addresses one issue with monthly Coder Dojos. My observations and interviews 
 These projects allow students to approach computing with a different attitude and tackle problems in a radically different way to much of classroom teaching. Apart from the greater amount of time dedicated to hands-on coding and related physical computing challenges, the opportunities for authentic practices. These include; designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to work to fine tune the desired result.
 
 While the RPI foundation have created and collected an impressive collection of resources - we should really appreciate the work of volunteers and teachers volunteering out of class time to create the opportunities to code creatively.
-This is in line with socio-cultural understandings of how learning happening. 
 
-MORE ON THIS
+This is in line with socio-cultural understandings of how learning happening. Community in this context not only provides support in creative process but also motivates participation in the first place.
+
+MORE ON THIS - CASE STUDY OF SCRATCH? DRAW ON KAFAI AND GAME MAKING COMMMUNITIES
 
 <!-- Socio cultural theory here?
 the importance of community as culture
@@ -73,7 +73,17 @@ the importance of community as culture
 And SINGPOSTING to the rest of the chapter
  -->
 
+ <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
 
+ <!-- ### UDL as Learning Framework -->
+
+ <!-- MOVE TO PBL?
+
+ COMMUNITY OF LEARNERS
+
+ This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
+
+ <!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
 
 ### My Introduction to Craft Approaches
 
@@ -86,21 +96,10 @@ We have already looked at pair programming which can build confidence and suppor
 ### Design Approaches
 
 Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
+
 In the following section I explore certain design approaches including - iterative design, studio thinking and the use of design patterns.
 
-<!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
 
-<!-- ### UDL as Learning Framework -->
-
-<!-- Misconception of many new teachers that to address the learning needs of SEND pupils they will need to create an alternative lesson plan. However, new understandings represented in concepts of neurodiversity indicate that everyone has limitations and strengths in different areas, so everyone has special or particular needs. Does this mean a teacher would need 30 lesson plans. Clearly this is impossible. -->
-
-<!-- MOVE TO PBL?
-This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
-
-![](./Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
-![deign]({{ site.baseurl }}/Pictures/10000201000003AB000002FA7741B2C2B1FB6101.png)
-
-<!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
 
 
 #### Iterative Design Approaches
@@ -129,13 +128,23 @@ Progressing to the **Create** stage - is not an immediate process. As novices pi
 
 #### Studio Thinking
 
-Research of on the design approaches in artistic architecture studios has described them as Studio Thinking and described as 8 studio habits of mind.
-A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
+Research of on the design approaches in artistic architecture studios has described them as Studio Thinking and described as 8 studio habits of mind. A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
 
-Too large to describe in detail but it is useful to look at some of the key aspects. These include the importance of craft approaches, the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
+Too large to describe in detail (see illustration / table for details) but it is useful to look at some of the key aspects. These include the importance of craft approaches, the process of learning to use the production tools, familiarising yourself with the materials and hands on reality of creating something.
 
-![](./Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
-![studio thinking]({{ site.baseurl }}/Pictures/10000000000001E7000002826528E0BA8C1E0F11.jpg)
+![](./Pictures/studiothinking.png)
+![studio thinking]({{ site.baseurl }}/Pictures/studiothinking.png)
+
+<!-- Image from below
+
+and good summary of use in schools below.
+
+Narey, M. (Ed.), 2009. Making meaning: constructing multimodal perspectives of language, literacy, and learning through arts-based early childhood education, Educating the Young Child. Springer, New York, NY.
+
+Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of art and design [WWW Document]. undefined. URL /paper/Learning-how-to-create%3A-Toward-a-learning-sciences-Sawyer/1bbb67c532198cd6e664e848926e44fe44f1f1bb (accessed 12.28.20).
+
+-->
+
 
 Other STEM focused researchers have drawn on the process that emerged from art education community of practice in a studio and have proposed it as a good learning process for STEM. Sawyer argues for a reduced formulation of studio practice in STEM outlining the following aspects.
 
