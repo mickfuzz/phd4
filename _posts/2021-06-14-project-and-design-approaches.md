@@ -100,8 +100,6 @@ Design approaches have been adopted widely in software production, creative indu
 In the following section I explore certain design approaches including - iterative design, studio thinking and the use of design patterns.
 
 
-
-
 #### Iterative Design Approaches
 
 Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. Like reflective cycles the process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved.  
@@ -119,14 +117,14 @@ In more recent works Resnick has been promoting [*a five stage creative cycle ht
 
 Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine
 
-<!-- There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book. -->
+There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book.
 
 <!-- Use Modify Create framework - covered in another one.
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
 In **Modify** learners progress to working on real projects but one created by others.
 Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch. -->
-
-#### Studio Thinking
+<!--
+#### Studio Thinking PERHAPS DROP? TOO SIMILAR TO PBL AND UDL
 
 Research of on the design approaches in artistic architecture studios has described them as Studio Thinking and described as 8 studio habits of mind. A framework was arrived at though ethnographic observation, and each of these habits was supported by teachers through stages of lecture/demonstration, hands on making, and critique/reflection.
 
@@ -146,7 +144,6 @@ Sheridan, K., 2009. Studio thinking in early childhood, in: Making Meaning. Spri
 
 Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of art and design [WWW Document]. undefined. URL /paper/Learning-how-to-create%3A-Toward-a-learning-sciences-Sawyer/1bbb67c532198cd6e664e848926e44fe44f1f1bb (accessed 12.28.20).
 
--->
 
 
 Other STEM focused researchers have drawn on the process that emerged from art education community of practice in a studio and have proposed it as a good learning process for STEM. Sawyer argues for a reduced formulation of studio practice in STEM outlining the following aspects.
@@ -156,7 +153,7 @@ Other STEM focused researchers have drawn on the process that emerged from art e
 -   Curriculum design
 -   Externalization and reflection
 
-He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter.
+He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
 
 #### Design Patterns as an educational tool
 
