@@ -50,6 +50,9 @@ https://en.wikipedia.org/wiki/Homebrew_Computer_Club
 
 However, this kind of computer enthusiast community is not the most accessible to a wide variety of audience. How then to widen this out?  
 
+Code Clubs on a small scale allow you to create an after school community. MORE
+Resources are supplies. Originally independent but now part of Raspberry Pi Foundation.
+
 To address this, these approaches are also promoted by government and corporate sponsored programmes like the Coolest Project and Coder Dojo and Code Clubs.
 Coder Dojos are monthly events run by volunteers often at the weekend. They often focus on creative, engaging computing. I have volunteered at some events and interviewed other volunteers. I have been impressed at the dedication and inventiveness of volunteers. While some tables will use existing resources to support Scratch, others will try out new and experimental work around hacking Minecraft, creating games with code engines and new technologies of physical computing. Often volunteers will bring their own children, and use them as guides to help them evaluate their project ideas to make sure they are engaging and achievable for the target audience.
 
@@ -58,6 +61,11 @@ The Coolest Project is a project the Raspberry Pi Foundation which also runs Cod
 It addresses one issue with monthly Coder Dojos. My observations and interviews with volunteers at Dojos showed that there is a difficulty in maintaining project interest from one month to the next.
 
 These projects allow students to approach computing with a different attitude and tackle problems in a radically different way to much of classroom teaching. Apart from the greater amount of time dedicated to hands-on coding and related physical computing challenges, the opportunities for authentic practices. These include; designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to work to fine tune the desired result.
+
+While the RPI foundation have created and collected an impressive collection of resources - we should really appreciate the work of volunteers and teachers volunteering out of class time to create the opportunities to code creatively.
+This is in line with socio-cultural understandings of how learning happening. 
+
+MORE ON THIS
 
 <!-- Socio cultural theory here?
 the importance of community as culture
