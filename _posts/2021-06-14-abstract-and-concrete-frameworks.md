@@ -348,6 +348,14 @@ INSERT GRAPHIC HERE
 
 Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability -  it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their individual abilities and learning strategies.
 
+These strategies are sometimes presented in a way that highlights the technical elements of accessibility and assistive learning technologies, for example text in different sizes, the presentation of materials in accessible ways online and in the classroom. However, beyond representation, approaches for engagement and expression lend themselves to more radical learning techniques.
+
+<!-- Some say similar to Freire / Bruner
+https://accessibility.uncg.edu/wp-content/uploads/2019/02/UDL-Engagment_For-Website.pdf -->
+
+<!-- examples of strategies - perhaps in clude as short link?
+https://goalbookapp.com/toolkit/v/strategies  -->
+
 In terms of choice of student activity teachers will be familiar with the practice of differentiation. UDL practice is similar but places more power in the hands of learners to choose the path that is most appropriate for them.
 
 <!-- Dom says...
@@ -356,7 +364,7 @@ FIND SOURCE FOR THIS -->
 
 Clearly the UDL guidelines to provide options for individual choice and autonomy in these three key areas of representation, expression and engagement can be challenging in a classroom environment. Given the time pressures on most secondary teachers you may be forgiven for feeling resistant to the level of preparation needed. UDL is similar in many ways to project based approaches and in another chapter we look at tactics to resolve some of the practical difficulties of adopting these techniques in schools.
 
-Another challenge is the importance given in UDL to the authenticity and personal relevance and value of learning experiences. We have already explored the classroom tension between starting a class with concepts which prioritises building more abstract knowledge, and leading with concrete activities as a way to maximise student engagement. UDL principles lead with engagement encouraging the teacher to set class goals that are relevant to the  
+Another challenge is the importance given in UDL to the authenticity and personal relevance and value of learning experiences. We have already explored the classroom tension between starting a class with concepts which prioritises building more abstract knowledge, and leading with concrete activities as a way to maximise student engagement. UDL principles lead with engagement encouraging the teacher to set class goals that are relevant to the learners and encourage them to discover and record them themselves. INCLUDE DISCOVERY LEARNING?
 
 Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations.
 

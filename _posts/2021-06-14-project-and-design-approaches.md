@@ -253,7 +253,7 @@ I explore this strategy that allows students to experience both the more abstrac
 In a previous chapter we covered the fundamentals of UDL (Universal Design for Learning). There are clear similarities between the concrete / hands on approach of project based work and the UDL framework. Share tactics that teachers can draw on to make their approach more inclusive are;
 
 While this chapter recognises the
-As this point recap on signifiance for inclusion
+At this point recap on significance for inclusion
 
 ### Conclusion - Supporting the Development of Learning Communities
 
