@@ -339,21 +339,26 @@ This research showed the value of pair programming to build confidence and provi
 
 
 #### Universal Design for Learning
-<!-- ### UDL revisited -->
 
-In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings. Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom, it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their abilities.
+In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings.
 
-The process of in the form of designing a learning experience in a way that allows learners to choose the level that is most appropriate for them.
+UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The key ideas emerged from the arena of designing computer aided instruction have been revised to into a framework that applies to diverse teaching and learning settings.  According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
+
+INSERT GRAPHIC HERE
+
+Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability -  it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their individual abilities and learning strategies.
+
+In terms of choice of student activity teachers will be familiar with the practice of differentiation. UDL practice is similar but places more power in the hands of learners to choose the path that is most appropriate for them.
 
 <!-- Dom says...
 student often choose the level that is appropriate for them.
 FIND SOURCE FOR THIS -->
 
-There are areas of overlap of the mechanics of UDL and PBL.
+Clearly the UDL guidelines to provide options for individual choice and autonomy in these three key areas of representation, expression and engagement can be challenging in a classroom environment. Given the time pressures on most secondary teachers you may be forgiven for feeling resistant to the level of preparation needed. UDL is similar in many ways to project based approaches and in another chapter we look at tactics to resolve some of the practical difficulties of adopting these techniques in schools.
 
-As previously explored the guideline to provide options for individual choice and autonomy can be challenging in a classroom environment. EXPLAIN WHY.
+Another challenge is the importance given in UDL to the authenticity and personal relevance and value of learning experiences. We have already explored the classroom tension between starting a class with concepts which prioritises building more abstract knowledge, and leading with concrete activities as a way to maximise student engagement. UDL principles lead with engagement encouraging the teacher to set class goals that are relevant to the  
 
-Another is authenticity and personal relevance and value. This could be one of the biggest challenges to a concepts first approach.
+Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations.
 
 <!--
 Perhaps not - finish it off here

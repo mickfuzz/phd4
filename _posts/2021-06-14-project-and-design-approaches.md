@@ -19,7 +19,7 @@ title: Project and Design Approaches in Computing
   - studio thinking
   - using design patterns
 - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
-- UDL universal design for learning.
+- Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion
 
 
 <!--
@@ -30,18 +30,22 @@ I argue that mixing up the already abstract / technical terminology of coding wi
 
 ## Introduction
 
-In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. In this chapter we explore some of the strategies that can be used to address these factors.
+In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_, the resources provided, perhaps because they are targeted at the classroom, often lead with more formal learning approaches.
 
 In a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
 
-While GCSE questions outlined in the previous chapter attempt to include some elements of peer practices by including tests of code reading and analysis.
-The process of preparing for these exam questions develops skills and practices that are quite different from coding in a real life setting. As discussed in a previous chapter computing teachers face face a challenge to resolve the trade off between leading concepts tested in exams and the engagement potential of student working on their own projects.
-
-We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_, the resources provided, perhaps because they are targeted at the classroom, often lead with more formal learning approaches.   
+While GCSE questions outlined in the previous chapter attempt to include some elements of peer practices by including tests of code reading and analysis, preparing for these exam questions develops skills and practices that are quite different from coding in a real life setting. Because of this computing teachers face a significant challenge to both teach concepts to be reproduced in exam contexts and to unleash the potential of student working on their own projects.    
 
 <!-- There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
 
-The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences.
+The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences. Perhaps most significant is the potential for project and design based approaches to engage and sustain a diversity of learners in computing.
+
+
+<!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
+
+In this chapter we explore some of the strategies that can be used to support the delivery of project based approaches.
+
+<!-- Intro to the importance of communities -->
 
 This potential is also promoted by government programmes. To address this there are educational projects which are designed to allow for this kind of project based approach to learning coding and computing. This is visible in maker fairs, online videos and communities and initiatives like the Coolest Project where MORE ON COOLEST PROJECT.....
 
@@ -49,11 +53,9 @@ This potential is also promoted by government programmes. To address this there 
 the importance of community as culture
  -->
 
-<!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
+
 
 ### My Introduction to Craft Approaches
-
-
 
 When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
 
