@@ -248,6 +248,13 @@ The process of planning a course of learning in this way may seem daunting. It i
 
 I explore this strategy that allows students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
 
+### Significance of Project and Design approaches for Inclusion
+
+In a previous chapter we covered the fundamentals of UDL (Universal Design for Learning). There are clear similarities between the concrete / hands on approach of project based work and the UDL framework. Share tactics that teachers can draw on to make their approach more inclusive are;
+
+While this chapter recognises the
+As this point recap on signifiance for inclusion
+
 ### Conclusion - Supporting the Development of Learning Communities
 
 In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders to support creative projects. We can draw on some of the rich research that is available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
