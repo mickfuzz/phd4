@@ -91,7 +91,7 @@ We have already looked at pair programming which can build confidence and suppor
 
 When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
 
-The process was sometimes slow involving a lot of trial and error. At times it felt like I was spending a long time getting to know the tools and processes rather than do any complex coding. However every time I got something wrong I was learning something. Later I was able to pass on that knowledge to others perhaps struggling in similar ways. Whereas arts and crafts studios support this way of learning (Studio Thinking and Methods have been well researched), I don't think we value this process enough in the area of digital skills. 
+The process was sometimes slow involving a lot of trial and error. At times it felt like I was spending a long time getting to know the tools and processes rather than do any complex coding. However every time I got something wrong I was learning something. Later I was able to pass on that knowledge to others perhaps struggling in similar ways. Whereas arts and crafts studios support this way of learning (Studio Thinking and Methods have been well researched), I don't think we value this process enough in the area of digital skills.
 
 This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual. According to a recent Stack Overflow survey most developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
@@ -104,10 +104,13 @@ LINK CRAFT TO STUDIO BRIEFLY
 
 ### Design Approaches
 
-Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
+#### Designing for Others
 
-In the following section I explore certain design approaches including - iterative design, studio thinking and the use of design patterns.
+Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. If you are an educator the experience of seeing students motivated by producing something for a real or even imagined audience may be familiar. If students are able to share their created digital work with peers then the process of revising based on feedback from others can be extremely valuable to sustain interest.  
 
+The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designingin something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the end user. However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical issues of design take precedence.
+
+In the following section I explore certain design approaches including - iterative design and the use of design patterns.
 
 #### Iterative Design Approaches
 
@@ -122,7 +125,6 @@ In more recent works Resnick has been promoting [*a five stage creative cycle ht
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
-
 
 Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine
 
