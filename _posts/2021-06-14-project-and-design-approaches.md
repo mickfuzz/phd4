@@ -21,7 +21,6 @@ title: Project and Design Approaches in Computing
 - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
 - Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion
 
-
 <!--
 I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
 <!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
@@ -78,9 +77,7 @@ And SINGPOSTING to the rest of the chapter
  <!-- ### UDL as Learning Framework -->
 
  <!-- MOVE TO PBL?
-
  COMMUNITY OF LEARNERS
-
  This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
 
  <!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
@@ -96,7 +93,6 @@ The process was sometimes slow involving a lot of trial and error. At times it f
 This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual. According to a recent Stack Overflow survey most developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
 Educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning.
-
 
 There are also parallels with artistic Studio-based learning.
 
@@ -125,10 +121,24 @@ In more recent works Resnick has been promoting [*a five stage creative cycle ht
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
+_Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
-Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine
+In line with the social theme of this chapter, the start and end of the cycle with Imagine as well as the Share stage requires or benefits from participation in some kind of creative community.
 
-There are some parallels and some differences between the framework above and another called Use Modify Create. This pattern is becoming increasingly popular in the computing education sector in the UK. I cover this in context of game making in another chapter in this book.
+SCRATCH AND COMMMUNITY
+
+#### Use Modify Create
+
+There are some parallels and some differences between the framework above and another called Use Modify Create  (http://tiny.cc/usemodifycreate) [@lee_computational_2011].  This pattern is becoming increasingly popular in the computing education sector in the UK.
+LINK TO PRIMM
+
+This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts. I will explain the three stage model with reference to my own design.
+
+In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
+
+Then we quickly asked learners to **Modify** a broken game with very simple changes which they could choose from a set of printed cards. These small changes to variables or swapping out media assets with their own builds confidence, gives a greater sense of ownership over the project and is a fun and challenging experience.
+
+In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
 
 <!-- Use Modify Create framework - covered in another one.
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
@@ -236,7 +246,7 @@ But a bit more about project based learning - and how to design it in a computin
 
 
 
-###  Summary of Design, Project, Authentic Approaches
+##  Summary of Design, Project, Authentic Approaches
 
 <!-- This should probably be merged / dropped given the short length of section -->
 
