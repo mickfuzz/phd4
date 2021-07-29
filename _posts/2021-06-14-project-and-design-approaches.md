@@ -14,12 +14,14 @@ title: Project and Design Approaches in Computing
 ## Outline
 
 - Intro to alternative models suiting bottom up  / concrete approaches
+- community value
+- craft approaches
 - Design approaches -
   - creative spiral / iterative
-  - studio thinking
+  <!-- - studio thinking -->
   - using design patterns
 - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
-- Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion
+<!-- - Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion -->
 
 <!--
 I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
@@ -92,9 +94,7 @@ The process was sometimes slow involving a lot of trial and error. At times it f
 
 This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual. According to a recent Stack Overflow survey most developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
-Educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning.
-
-There are also parallels with artistic Studio-based learning.
+Educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning. There are also parallels with artistic Studio-based learning.
 
 LINK CRAFT TO STUDIO BRIEFLY
 
@@ -104,9 +104,14 @@ LINK CRAFT TO STUDIO BRIEFLY
 
 Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. If you are an educator the experience of seeing students motivated by producing something for a real or even imagined audience may be familiar. If students are able to share their created digital work with peers then the process of revising based on feedback from others can be extremely valuable to sustain interest.  
 
-The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designingin something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the end user. However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical issues of design take precedence.
+The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designingin something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the end user.
 
-In the following section I explore certain design approaches including - iterative design and the use of design patterns.
+However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical and entrepreneurial aspects of design are highlighted. While these kinds of projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios.
+For some suitable resources see INSERT SHORT LINK   
+
+Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes.
+
+In the following sections I explore certain design approaches including - iterative design and the use of design patterns.
 
 #### Iterative Design Approaches
 
@@ -117,15 +122,33 @@ Michel Resnick was instrumental in the Scratch development team and a pioneer of
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-In more recent works Resnick has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explicitly values the process over any particular content.
+In more recent works Resnick has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiral) http://tiny.cc/creativespiral with tips for both parents and teachers to create a fertile environment for creativity. It explicitly values the process over any particular content.
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
-In line with the social theme of this chapter, the start and end of the cycle with Imagine as well as the Share stage requires or benefits from participation in some kind of creative community.
+MORE ON THE TIPS AND DETAIL OF THE MODEL
+WHY SIGNIFICANT TO COMPUTING?
 
-SCRATCH AND COMMMUNITY
+
+In line with the social theme of this chapter, the start and end of the cycle with Imagine as well as the Share stage requires or benefits from participation in some kind of creative community. Indeed, where Scratch as a project excels is in the user community.
+
+As educators using Scratch as a classroom tool it is easy to overlook this aspect but we do so at the potential detriment to our students.
+
+It now has a total of x users and y projects, with up to z number of active users every month.
+
+When you are learning to code or create digital work, the challenge of maintaining and sustaining interest and the creative process is huge. It's one thing to be inspired by your interests to start a project, but such projects are often tricky. It's easy to get stuck. If young creators can connect with others to share and get feedback on their work it can really help to sustain the kind of repeated effort and revisions to existing work that build mastery.
+
+There is a great variety of forms of engagement with this kind of online community. You may just play others games, or just comment. You may use it to create your own projects but not engage in the more social elements of the creative process. You may like a smaller section of the community become extremely active in creating and collaborating with others on many projects.
+
+MORE ON COMMUNITY - DIFFERENT CARTELS OF CREATORS
+
+The process of keeping the community up and running and safe for young people is significant and requires a lot of resources. The benefits are worth it. This really is an educational community and a success to be celebrated.
+
+One of the benefits of the success of the community is that it has become an extremely rich source of inspiration for young creators. A simple search of the site for projects like games, creative greeting cards, storytelling projects and pretty much any digital product you can imagine will yield multitude of results.
+
+By default there is a remix button on every project allowing views to alter it and make it their own.
 
 #### Use Modify Create
 
