@@ -94,9 +94,10 @@ The process was sometimes slow involving a lot of trial and error. At times it f
 
 This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual. According to a recent Stack Overflow survey most developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
-Educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning. There are also parallels with artistic Studio-based learning.
+Educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning.
 
-LINK CRAFT TO STUDIO BRIEFLY
+There are also parallels with artistic Studio-based learning.
+LINK CRAFT TO STUDIO BRIEFLY ? OR DROP?
 
 ### Design Approaches
 
@@ -109,7 +110,9 @@ The area of design studies is wide and there is a long history in involving user
 However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical and entrepreneurial aspects of design are highlighted. While these kinds of projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios.
 For some suitable resources see INSERT SHORT LINK   
 
-Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes.
+When applying this approach Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes.
+
+<!-- Insert a personal example - can be in depth with drama practitioners or just superficial -->
 
 In the following sections I explore certain design approaches including - iterative design and the use of design patterns.
 
@@ -142,7 +145,9 @@ When you are learning to code or create digital work, the challenge of maintaini
 
 There is a great variety of forms of engagement with this kind of online community. You may just play others games, or just comment. You may use it to create your own projects but not engage in the more social elements of the creative process. You may like a smaller section of the community become extremely active in creating and collaborating with others on many projects.
 
-MORE ON COMMUNITY - DIFFERENT CARTELS OF CREATORS
+For a good summary of some of the potential and depth of collaboration of this community the researchers Resnick, Roque and Rusk have described this in detail see - tiny.cc -https://web.media.mit.edu/~mres/papers/Mass-Collaboration-chapter.pdf. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicing real production procesess carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators. One of the challenges identified by the researchers was how to replicate this in the wider community. 
+
+LINK TO SOCIO CULTURAL APPROACHES. (AND CONSTRUCTIONISM)
 
 The process of keeping the community up and running and safe for young people is significant and requires a lot of resources. The benefits are worth it. This really is an educational community and a success to be celebrated.
 
