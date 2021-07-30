@@ -135,17 +135,21 @@ MORE ON THE TIPS AND DETAIL OF THE MODEL
 WHY SIGNIFICANT TO COMPUTING?
 
 
-In line with the social theme of this chapter, the start and end of the cycle with Imagine as well as the Share stage requires or benefits from participation in some kind of creative community. Indeed, where Scratch as a project excels is in the user community.
+In line with the social theme of this chapter, the start and end of the cycle with Imagine as well as the Share stage requires or benefits from participation in some kind of creative community.
 
-As educators using Scratch as a classroom tool it is easy to overlook this aspect but we do so at the potential detriment to our students.
+CREATIVE COMPUTING AS A TERM
 
+Indeed, where Scratch as a project excels is in the user community.
+
+INSERT
 It now has a total of x users and y projects, with up to z number of active users every month.
+As educators using Scratch and similar tools in the classroom it is easy to overlook this aspect in favour of a more individual progress understanding computing concepts. However, if but we do so at the potential detriment to our students.
 
 When you are learning to code or create digital work, the challenge of maintaining and sustaining interest and the creative process is huge. It's one thing to be inspired by your interests to start a project, but such projects are often tricky. It's easy to get stuck. If young creators can connect with others to share and get feedback on their work it can really help to sustain the kind of repeated effort and revisions to existing work that build mastery.
 
 There is a great variety of forms of engagement with this kind of online community. You may just play others games, or just comment. You may use it to create your own projects but not engage in the more social elements of the creative process. You may like a smaller section of the community become extremely active in creating and collaborating with others on many projects.
 
-For a good summary of some of the potential and depth of collaboration of this community the researchers Resnick, Roque and Rusk have described this in detail see - tiny.cc -https://web.media.mit.edu/~mres/papers/Mass-Collaboration-chapter.pdf. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicing real production procesess carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators. One of the challenges identified by the researchers was how to replicate this in the wider community. 
+For a good summary of some of the potential and depth of collaboration of this community the researchers Resnick, Roque and Rusk have described this in detail see - tiny.cc -https://web.media.mit.edu/~mres/papers/Mass-Collaboration-chapter.pdf. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicing real production procesess carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators. One of the challenges identified by the researchers was how to replicate this in the wider community of Scratch users and beyond that young people who had not yet engaged with creative computing. One of the researchers Ricarosa Roque went on to develop a
 
 LINK TO SOCIO CULTURAL APPROACHES. (AND CONSTRUCTIONISM)
 
