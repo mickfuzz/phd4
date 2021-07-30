@@ -219,13 +219,7 @@ RE-READ SGD work -->
 
 ### Projects and Project Based Learning
 
-- Engagement
-- Hands on use of tools
-  - Maker fairs and movement
-  - tools that are pitched to learners interests
-- Studio approaches
-
-PBL is of the 12 teach computing principles.
+In the previous chapter we looked at the  12 teach computing principles. Project-based learning  (PBL) is of the.
 
 In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects.
 
