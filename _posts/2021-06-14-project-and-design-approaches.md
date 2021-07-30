@@ -239,15 +239,15 @@ We have already covered some of the most likely locations for PBL to happen at t
 As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
 
 
-### PBL in more detail
+### A summary of the elements of Project Based Learning  
+
+PBL is in line with some of the other socio-cultural approaches to learning that have been outlined in this chapter and others in this book. Because of this many of the concepts will be familiar
 
 As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
 
 ![creative spiral](./Pictures/pbl_gold.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/pbl_gold.png)
-_Buck Institute; Gold Standard PBL elements_
-
-**PBL Terms**
+_Buck Institute; Gold Standard PBL elements - available under CC-BY-NC-ND licence_
 
 Challenging Problem
 Authenticity
@@ -258,7 +258,13 @@ Critique and Revision
 Reflection
 Sustained Inquiry
 
+This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
+
+
+### Computing and PBL
+
 Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digital making and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
+
 
 #### More about challenges and benefits of PBL
 
