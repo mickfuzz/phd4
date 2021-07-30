@@ -231,9 +231,21 @@ In the next section I'll cover the potential of project-based learning (PBL) and
 
 Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
 
+
+### Where Project Based Learning Happens
+
+We have already covered some of the most likely locations for PBL to happen at the start of this chapter.  
+
 As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
 
+
+### PBL in more detail
+
 As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
+
+![creative spiral](./Pictures/pbl_gold.png)
+![creative spiral]({{ site.baseurl }}/Pictures/pbl_gold.png)
+_Buck Institute; Gold Standard PBL elements_
 
 **PBL Terms**
 
@@ -252,7 +264,10 @@ Computing education is an excellent vehicle for a project-based approach to lear
 
 But a bit more about project based learning - and how to design it in a computing situation.
 
+### Further Resources on PBL
+For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny.cc/pbl-summary
 
+For broader web based resources and case studies in blog post and video form, the Edutopia website is a good source - https://www.edutopia.org/project-based-learning
 
 ##  Summary of Design, Project, Authentic Approaches
 
