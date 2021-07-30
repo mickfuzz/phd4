@@ -14,16 +14,16 @@ title: Project and Design Approaches in Computing
 ## Outline
 
 - Intro to alternative models suiting bottom up  / concrete approaches
+- community value
+- craft approaches
 - Design approaches -
   - creative spiral / iterative
-  - studio thinking
+  <!-- - studio thinking -->
   - using design patterns
 - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
-- Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion
+<!-- - Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion -->
 
-<!--
-I argue that mixing up the already abstract / technical terminology of coding with the even more abstract computational thinking concepts increases the difficulty for learners to keep a track of their learning. -->
-<!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects.   -->
+
 
 ## Introduction
 
@@ -60,50 +60,47 @@ It addresses one issue with monthly Coder Dojos. My observations and interviews 
 
 These projects allow students to approach computing with a different attitude and tackle problems in a radically different way to much of classroom teaching. Apart from the greater amount of time dedicated to hands-on coding and related physical computing challenges, the opportunities for authentic practices. These include; designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to work to fine tune the desired result.
 
-While the RPI foundation have created and collected an impressive collection of resources - we should really appreciate the work of volunteers and teachers volunteering out of class time to create the opportunities to code creatively.
+While the RPI foundation have created and collected an impressive collection of resources - we should really appreciate the work of volunteers and teachers volunteering out of class time to create the opportunities to code creatively. This is more than about the creation of stand alone resources, it is about creating authentic goals for learners and setting up systems involving adults, teen helpers and sometimes in the case of Coder Dojo young family members to support the skills and sustain the interest of learners.
 
-This is in line with socio-cultural understandings of how learning happening. Community in this context not only provides support in creative process but also motivates participation in the first place.
+This is in line with socio-cultural understandings of how learning happening. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
-MORE ON THIS - CASE STUDY OF SCRATCH? DRAW ON KAFAI AND GAME MAKING COMMMUNITIES
 
-<!-- Socio cultural theory here?
-the importance of community as culture
 
+<!--
 And SINGPOSTING to the rest of the chapter
  -->
 
  <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
-
  <!-- ### UDL as Learning Framework -->
 
- <!-- MOVE TO PBL?
- COMMUNITY OF LEARNERS
- This sounds chaotic and at times that is an experience that observers comment on when observing a learning community in full swing. However the process of designing for learners to allow this has guidance in place in UDL guidelines. -->
+### My Introduction to Craft / Studio Approaches
 
- <!-- This seems complicated and for many of us used to a three part lesson plan with set learning outcomes it certainly requires a shift in approach. -->
-
-### My Introduction to Craft Approaches
-
-We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities call this a craft approach to coding.
+We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities and even the programmers themselves call this a craft approach to coding.
 
 When I learned coding it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
 
-The process was sometimes slow involving a lot of trial and error. At times it felt like I was spending a long time getting to know the tools and processes rather than do any complex coding. However every time I got something wrong I was learning something. Later I was able to pass on that knowledge to others perhaps struggling in similar ways. Whereas arts and crafts studios support this way of learning (Studio Thinking and Methods have been well researched), I don't think we value this process enough in the area of digital skills.
+The process was sometimes slow involving a lot of trial and error. At times it felt like I was spending a long time getting to know the tools and processes rather than do any complex coding. However every time I got something wrong and had to either get help from others or work it out myself I was learning something. Later I was able to pass on that knowledge to others perhaps struggling in similar ways.
 
-This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual. According to a recent Stack Overflow survey most developers are either fully are partly self-taught with only about half having undertaking formal computing training.
+Arts and crafts studios value and support this way of learning. For example Studio Thinking and Methods have been well researched and the process of doing a foundation arts year explicitly allows a long period of experimentation and building familiarity with tools of the trade. This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual in professional practice. According to a recent Stack Overflow survey most industry developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
-Educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning.
-
-There are also parallels with artistic Studio-based learning.
-
-LINK CRAFT TO STUDIO BRIEFLY
+Clearly there are challenges in replicating this kinds of learning within the practical limitations of a school and its culture. However, educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning. Both of these approaches have been applied extensively for computing both inside and outside of schools. In this chapter I focus on the positive opportunities provided by these approaches rather than the practical challenges.
 
 ### Design Approaches
 
-Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research.
+#### Designing for Others
 
-In the following section I explore certain design approaches including - iterative design, studio thinking and the use of design patterns.
+Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. If you are an educator the experience of seeing students motivated by producing something for a real or even imagined audience may be familiar. If students are able to share their created digital work with peers then the process of revising based on feedback from others can be extremely valuable to sustain interest.  
 
+The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designing in something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the end user.
+
+However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical and entrepreneurial aspects of design are highlighted. While these kinds of projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios.
+For some suitable resources see INSERT SHORT LINK   
+
+When applying this approach Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes.
+
+<!-- Insert a personal example - can be in depth with drama practitioners or just superficial -->
+
+In the following sections I explore certain design approaches including - iterative design and the use of design patterns.
 
 #### Iterative Design Approaches
 
@@ -114,20 +111,34 @@ Michel Resnick was instrumental in the Scratch development team and a pioneer of
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-In more recent works Resnick has been promoting [*a five stage creative cycle http://tiny.cc/creativespiral*](http://tiny.cc/creativespiralv) with tips for both parents and teachers to create a fertile environment for creativity. It explicitly values the process over any particular content.
+In more recent works Resnick has been promoting a five stage creative cycle with tips for both parents and teachers to create a fertile environment for creativity. See http://tiny.cc/creativespiral.
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
-In line with the social theme of this chapter, the start and end of the cycle with Imagine as well as the Share stage requires or benefits from participation in some kind of creative community. 
+The model, based on design approaches, applies not just for computing or robotics but it did emerge from this area of education by Resnick, Natalie Rusk and other researchers at an after school project called the Computer Clubhouse. The idea of a spiral which deepens understanding and improves the end results is popular both in education in the form of Bruner's spiral curriculum and in the software and other design industries, most notably in the guise of Design Thinking. Rusk and others see the foundation for the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and  deepening understanding through reflection -@rusk_new_2008. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners.
 
-SCRATCH AND COMMMUNITY
+As mentioned, the creative spiral model is an accessible way to communicate tips and techniques to teachers and parents to support this process. In line with the social theme of this chapter, many of these tips require participation in some kind of community be it in real life or online. Indeed, where Scratch as a project excels is in the user community. There are over 75 million users of the site who have created 80 million projects. Activity has only increased over lockdown in 2020 and 2021 with over 20 million user comments in March 2021.
+
+As educators using Scratch and similar tools in the classroom it is easy to overlook this aspect in favour of a more individual progress understanding computing concepts. However, if but we do so at the potential detriment to our students. When you are learning to code or create digital work, the challenge of maintaining and sustaining interest and the creative process is huge. It's one thing to be inspired by your interests to start a project, but such projects are often tricky. It's easy to get stuck. If young creators can connect with others to share and get feedback on their work it can really help to sustain the kind of repeated effort and revisions to existing work that build mastery.
+
+There is a great variety of forms of engagement with this kind of online community. You may just play others games, or just comment. You may use it to create your own projects but not engage in the more social elements of the creative process. You may like a smaller section of the community become extremely active in creating and collaborating with others on many projects.
+
+For a good summary of some of the potential and depth of collaboration of this community the researchers Resnick, Roque and Rusk have described this in detail see - http://tiny.cc/scratch-community. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicing real production procesess carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators. One of the challenges identified by the researchers was how to replicate this in the wider community of Scratch users and beyond that young people who had not yet engaged with design-based computing. One of the researchers Ricarosa Roque went on to develop other programmes which involved online exhibitions and competitions and off-line family-based programme to engage under-represented groups.
+http://familycreativelearning.org/
+
+The process of keeping the community up and running and safe for young people is significant and requires a lot of resources. The benefits are worth it. This really is an educational community and a success to be celebrated. One of the benefits of the success of the community is that it has become an extremely rich source of inspiration for young creators. A simple search of the site for projects like games, creative greeting cards, storytelling projects and pretty much any digital product you can imagine will yield multitude of results.
+
+What these projects and features have in common is that they create communities which support the different stages creative spiral. The importance of creating and facilitating different forms of participation in communities and for that community to function a motivating factor and reflective tool for young producers is key to the socio-cultural and constructionist schools of educational research. This line of thinking can be traced back to to Papert's early focus on objects to think with and creating shareable concrete artefacts.
+
+In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create.
 
 #### Use Modify Create
 
-There are some parallels and some differences between the framework above and another called Use Modify Create  (http://tiny.cc/usemodifycreate) [@lee_computational_2011].  This pattern is becoming increasingly popular in the computing education sector in the UK.
-LINK TO PRIMM
+There are some parallels and some differences between Use Modify Create and the PRIMM framework described in a previous chapter (http://tiny.cc/usemodifycreate) [@lee_computational_2011]. Both have become increasingly popular in the computing education sector in the UK.
+
+THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY
 
 This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts. I will explain the three stage model with reference to my own design.
 
@@ -208,23 +219,29 @@ RE-READ SGD work -->
 
 ### Projects and Project Based Learning
 
-- Engagement
-- Hands on use of tools
-  - Maker fairs and movement
-  - tools that are pitched to learners interests
-- Studio approaches
-
-PBL is of the 12 teach computing principles.
+In the previous chapter we looked at the  12 teach computing principles. Project-based learning  (PBL) is of the.
 
 In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects.
 
 Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
 
+
+### Where Project Based Learning Happens
+
+We have already covered some of the most likely locations for PBL to happen at the start of this chapter.  
+
 As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
+
+
+### A summary of the elements of Project Based Learning  
+
+PBL is in line with some of the other socio-cultural approaches to learning that have been outlined in this chapter and others in this book. Because of this many of the concepts will be familiar
 
 As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
 
-**PBL Terms**
+![creative spiral](./Pictures/pbl_gold.png)
+![creative spiral]({{ site.baseurl }}/Pictures/pbl_gold.png)
+_Buck Institute; Gold Standard PBL elements - available under CC-BY-NC-ND licence_
 
 Challenging Problem
 Authenticity
@@ -235,13 +252,22 @@ Critique and Revision
 Reflection
 Sustained Inquiry
 
+This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
+
+
+### Computing and PBL
+
 Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digital making and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
+
 
 #### More about challenges and benefits of PBL
 
 But a bit more about project based learning - and how to design it in a computing situation.
 
+### Further Resources on PBL
+For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny.cc/pbl-summary
 
+For broader web based resources and case studies in blog post and video form, the Edutopia website is a good source - https://www.edutopia.org/project-based-learning
 
 ##  Summary of Design, Project, Authentic Approaches
 
