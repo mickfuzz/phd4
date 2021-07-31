@@ -244,16 +244,19 @@ In the last section we look out one learning design and how that aimed to overco
 
 While the potential benefits of game making are striking many challenges exist. Later in the final section of this chapter I explore some tensions and limitations more generally. In this section I look at a design that aims to address key challenges and tensions. The 3M game making model - (made up of Missions, Maps and Methods) - that I now share with you is the result of a trial and error process evolved over several years working with families to make games together. I have also tested it out in a local Primary school.
 
-While I hope this summary of the tools is useful the following sections are to do with a learning design that can be applied using any of the tools above. In truth The evolution of the process has been both trial and error and collaborative from working with families, to volunteers from PGCE computing course. It has happened at the same time as my own research on design and project approaches.
 
-One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way. Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
+While I hope this summary of the tools is useful the following sections are to do with a learning design that can be applied using any of the tools above. In truth The evolution of the process has been both trial and error and collaborative from working with families, to volunteers from PGCE computing course. It has happened at the same time as my own research on design and project approaches.
 
 The 3M process has evolved with the aim that it is accessible to parents, teachers and learners. Part of that accessibility is the playful, game like approach to it. I was inspired by a session by one of my PhD supervisors Nicola Whitton who created a game to help people learn about game concepts. In a similar way this game making model involves game techniques of missions, maps and playful methods to help with the engagement, immersion and navigation of our game making learners. My design focuses on making games to learning the craft of coding, to build meta-cognitive skills (especially goal setting and reflection) and to explore some systems concepts. You may have other goals which you need to steer your learners towards. FOR EXAMPLE?
 
 In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs.
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
 
+#### 3M Model in a nutshell
 
+Learners start by playing and remixing a broken and incomplete (half baked) game.
+
+One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way. Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
 
 
 ### Missions (using Game Patterns and secret side-missions)
