@@ -258,11 +258,6 @@ Learners start by playing and remixing a broken and incomplete (half baked) game
 
 One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way. Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
 
-
-### Missions (using Game Patterns and secret side-missions)
-
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience.
-
 <!-- The main mission supported by a narrative device of Aliens coming to earth to judge our games.  -->
 
 Due to the challenging nature of coding a game from first principles, I have adopted a common approach of starting with a templated game to remix. This choice leads to a tension in design; given this templated starting point, how much freedom of choice do learners have over the game they create. A tension being, if you provide too much choice then you may struggle to support learners as they get stuck with a huge variety of diverse problems.
@@ -270,6 +265,10 @@ Due to the challenging nature of coding a game from first principles, I have ado
 <!-- Should I make this above bit into a story - learners getting stuck - an evolution -->
 
 To help resolve this tension we can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds for example player accept that they don't have choice over their starting point.
+
+### Missions (using Game Patterns and secret side-missions)
+
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience.
 
 #### Design Patterns as Missions
 
