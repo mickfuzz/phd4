@@ -226,7 +226,21 @@ It was very authentic, a factor which is judged to be good for motivational fact
 
 I did resolve this issue of tool complexity by using the new MakeCode Arcade tool. Like scratch this is self contained in asset creation. Unlike Scratch it is very limited in terms of what can be created.
 
+
+**Focus on tools and inclusion**
+
+There is a tension balancing simplicity of game making Tools and the flexibility of the product created.
+
+As computing teachers it is likely that one of our core aims will be building familiarity and fluency of use of code constructs.
+
+
 ### About the 3M Game Making Model
+
+<!-- You would think from the glowing potential of game making from the reviews of the literature that this would be a normal part of computing education, and well supported in terms of how to teach it.
+
+Of course, real life is more complicated than that. Rather than there being one pedagogy that maximises the potential of using game making in the classroom, it is important to recognise the diversity of objectives of both teachers and learners in the process of making games.
+
+In the last section we look out one learning design and how that aimed to overcome those tensions. But in this section rather than trying to solve problems -- I am highlighting them and you can draw your own conclusions. -->
 
 While the potential benefits of game making are striking many challenges exist. Later in the final section of this chapter I explore some tensions and limitations more generally. In this section I look at a design that aims to address key challenges and tensions. The 3M game making model - (made up of Missions, Maps and Methods) - that I now share with you is the result of a trial and error process evolved over several years working with families to make games together. I have also tested it out in a local Primary school.
 
@@ -238,6 +252,9 @@ The 3M process has evolved with the aim that it is accessible to parents, teache
 
 In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs.
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
+
+
+
 
 ### Missions (using Game Patterns and secret side-missions)
 
@@ -402,11 +419,7 @@ For example, one which I asked trainee teachers to devise also worked well. With
 THIS SECTION MAY NEED TO BE INCORPORATED IN THE PREVIOUS ONE - OR BE MUCH CLEARER HOW IT IS SEPARATE.
 
 
-<!-- You would think from the glowing potential of game making from the reviews of the literature that this would be a normal part of computing education, and well supported in terms of how to teach it.
 
-Of course, real life is more complicated than that. Rather than there being one pedagogy that maximises the potential of using game making in the classroom, it is important to recognise the diversity of objectives of both teachers and learners in the process of making games.
-
-In the last section we look out one learning design and how that aimed to overcome those tensions. But in this section rather than trying to solve problems -- I am highlighting them and you can draw your own conclusions. -->
 
 This sections acknowledges the complexity and diversity of classroom situations and the challenges of project-based game making within the constraints of the curriculum.
 
@@ -444,13 +457,6 @@ And don't forget one last ingredients raw enthusiasm.
 
 ## Tensions (perhaps move some into 3M)(and into blog posts if not)
 
-Focus on affordances of tools to build towards model and with inclusion in mind. ()
-
-### Tension balancing simplicity of game making Tools and the flexibility of the product created.
-
-<!-- Needs editing down massively -->
-
-There are several good options for game making depending on what your aims are. As computing teachers it is likely that one of our core aims will be building familiarity and fluency of use of code constructs.
 
  <!-- PyGame  -->
 
