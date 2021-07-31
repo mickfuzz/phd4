@@ -245,6 +245,7 @@ PBL is in line with some of the other socio-cultural approaches to learning that
 
 - Challenging Problem - the focus of the project should be a relatable problem statement
 - Sustained Inquiry - adequate time must be allocated and the ability the come back to projects to revise them is important
+- Student Voice and Choice - giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy
 - Authenticity -  Real life Relevance helps get student engagement and buy in
 - Reflection -
 - Public Project -
@@ -254,7 +255,7 @@ This break down is part of a summary of design elements of effective PBL by the 
 
 To deepen our understanding, this section will select some of these elements for closer evaluation in a computing context.
 
-- Student Voice and Choice - giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy
+
 
 
 It is noticeable that while there are chances for student experimentation, this process is very far from what some people would call pure discovery learning. Building the ability as a teacher to switch between students operating freely and being guided in revision and critique is often unfamiliar to teachers. Having resources to help this process is vital.
