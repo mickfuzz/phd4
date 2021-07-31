@@ -60,10 +60,15 @@ LINK TO PREVIOUS CHAPTER AND SECTION ON INFORMAL SETTINGS?
 In this writing I use the term learning design instead of pedagogy. I do this because I feel that term is more accessible and because it is a specific implementation of several underlying pedagogic principles.
 
 ### Research on the Benefits and Uniqueness of Game Making
+
+PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURES -
+
 <!-- change section title - as not really  -->
 <!-- (merge with above?) -->
 
 <!-- Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making. -->
+
+
 
 In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Kafai and Burke created a review of the educational potential of game making - [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). Their review outlined broad areas of game making knowledge for individual learners. Namely, to support coding and computing, to help learn content from other subject areas and to promote meta-cognition - students learning about their own learning. The review also explores social and cultural elements of game making.
 
@@ -73,9 +78,15 @@ We previous saw that Waite's review for RSA also highlighted the importance of s
 
 Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage and a mastery approach, supporting reflection and encouraging self regulation and structured guidance for goal setting.
 
+
+
+#### Games to explore systems
+
+GSM section  
+
 <!-- A cultural-social approach to education values the importance of mediation, cultural artefacts, and the joint emergence of new tools and practices. The kind of research to study a coding work environment, communities of practice, and communities of learners has advantages as it allows; -->
 
-The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research; experience of Games in the Family home as what is know as a fund of knowlegde, the potential to build social and 21st century skills, inclusive and motivating approaches via authentic projects.
+The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research; experience of Games in the Family home as what is know as a fund of knowledge, the potential to build social and 21st century skills, inclusive and motivating approaches via authentic projects.
 
 <!-- Kafai and Burke explore these dimensions in their review of research. Kafai and Peppler make links to areas of professional competencies arguing that technical, creative and critical practices of working with new media. The widening of scope beyond purely technical practices of coding and information technology practices. -->
 
@@ -199,12 +210,24 @@ The drawbacks of this approach is the potential complexity of using real web tec
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 _Screenshot of MakeCode Arcade with code and game side by side_
 
-<!--
-The use of phaser for my first attempts was interesting as the process involved a new tool set for me. The combination of a code playground, js framework, external tools to create art Piskel and
+
+
+### Resolving Tensions around Tools
+
+One way of exploring what works and what doesn't in a community of learners is to look at tensions that emerge in the learning process.
+
+This section explores tensions in my learning design. It is included as some of the issues that emerged may be useful to you when making decisions about approprate tools to use in your game making.
+
+
+The use of phaser for my first attempts was interesting as the process involved a new tool set for me. We used a combination of a code playground, js framework, external tools to create art Piskel and another web based tool to create audio sound effects. This created a large amount of choice and a very rich learning landscape.
+
+There were benefits in that the process of moving assets from one online space, onto the hard drive as a file and then uploading to the code playground was a chllenging but achievable task which really built digital literacy skills.
+
+However it was so complex and diverse that group understanding of what was happening was negatively impacted. At times, there was peer learning - at time not as they were using different tools.
 
 It was very authentic, a factor which is judged to be good for motivational factors, However my initial idea of participants participating in and gaining from being part of a community of professional and hobbyist javascript game makers did not seem realistic for this project.
 
-I did resolve this issue of tool complexity by using the new MakeCode Arcade tool. Like scratch -->
+I did resolve this issue of tool complexity by using the new MakeCode Arcade tool. Like scratch this is self contained in asset creation. Unlike Scratch it is very limited in terms of what can be created. 
 
 ### About the 3M Game Making Model
 
@@ -315,7 +338,7 @@ This is the approach adopted in an interesting research program which looked at 
 
 While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/
 
-I created an online map of the different learning dimensions that learners were most likely to pick up through game making. 
+I created an online map of the different learning dimensions that learners were most likely to pick up through game making.
 
 #### Navigating Learning Dimensions
 
