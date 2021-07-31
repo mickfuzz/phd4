@@ -235,24 +235,30 @@ As PBL has been adopted by higher education and become the focus of academic stu
 
 ### A summary of the elements of Project Based Learning  
 
-PBL is in line with some of the other socio-cultural approaches to learning that have been outlined in this chapter and others in this book. Because of this many of the concepts will be familiar
-
-As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to break down what the categories mean.
+As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements.
 
 ![creative spiral](./Pictures/pbl_gold.png)
-![creative spiral]({{ site.baseurl }}/Pictures/pbl_gold.png)
+![creative spiral]({{ site.baseurl }}//_posts/Pictures/pbl_gold.png)
 _Buck Institute; Gold Standard PBL elements - available under CC-BY-NC-ND licence_
 
-Challenging Problem
-Authenticity
-Real Life Relevance
-Student Voice and Choice
-Public Project
-Critique and Revision
-Reflection
-Sustained Inquiry
+PBL is in line with some of the other socio-cultural approaches to learning that have been outlined in this chapter and others in this book. Because of this many of the concepts will be familiar from our exploration of UDL and design-based approaches.
+
+- Challenging Problem - the focus of the project should be a relatable problem statement
+- Sustained Inquiry - adequate time must be allocated and the ability the come back to projects to revise them is important
+- Authenticity -  Real life Relevance helps get student engagement and buy in
+- Reflection -
+- Public Project -
+- Critique and Revision -
 
 This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
+
+To deepen our understanding, this section will select some of these elements for closer evaluation in a computing context.
+
+- Student Voice and Choice - giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy
+
+
+It is noticeable that while there are chances for student experimentation, this process is very far from what some people would call pure discovery learning. Building the ability as a teacher to switch between students operating freely and being guided in revision and critique is often unfamiliar to teachers. Having resources to help this process is vital.
+
 
 
 ### Computing and PBL
