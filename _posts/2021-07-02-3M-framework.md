@@ -67,27 +67,32 @@ PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURE
 
 <!-- Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making. -->
 
-In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Kafai and Burke created a review of the educational potential of game making - [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned wiht school curriculums. They include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
+In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned wiht school curriculums. They include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
 
 Beyond this personal dimension of learning, the review also studied the characteristics and benefits of social and cultural elements of game making. The value of communities and culture in computing projects are covered in another chapter in this book. This chapter explores them in more detail using game making as an example.
 
-MORE ON THE PERSONAL ELEMENTS - SOCIAL - CULTURAL - USE THIS AS A STRUCTURE FOR FOLLOWING SECTIONS?
-JUSTIFY THE SELECTION THAT I GO ON TO COVER - LINKED TO PROJECT BASED APPRAOCHES
+In the review the section on cultural dimensions covers not only the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience, but also some of the significant challenges to overcoming exclusion from cultures of gaming and computing. It pays particular attention to issues of gender and race.  
 
 <!-- Move the examples below into the relevant section - or include them as a summary to keep the inclusion focus?  -->
 
 Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
-We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender. ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
+We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
+ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
 
-### PERSONAL - Coding and CT
+### PERSONAL -
 
-Case study of computational patterns in last chapter?
+#### Coding and CT
 
-A study by Adams and Webster -@adams_what_2012indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively. 
+A study by Adams and Webster -@adams_what_2012indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
+Design patterns are an important factor in learning to code in a professinal community.
+The use of games to explore computational patterns is explored as a case study in another chapter
+OR INCLUDE IT HERE?
 
-### PERSONAL - Games to explore systems
+There are extensive studies on game making to learn other subjects which are covered in the review. A key one carried out the Kafai one of the authours. This is a potential way to overcome limits in time devoted to computing and to deepen understanding of subject matter. To truly understand a subject you can try to teach it.
+
+#### Games to explore systems
 
 GSM section  
 
