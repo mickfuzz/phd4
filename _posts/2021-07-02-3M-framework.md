@@ -120,6 +120,10 @@ To allow students to bring their own home funds on knowledge into their work tea
 -   Allow students to base their coding projects on well known game tropes or genres.
 -   Allow for choice over the narrative of the game and the characters to allow for student choice
 
+
+GENDER - STILL AN ISSUE EVEN THOUGH SITUATION IN TERMS OF NUMBERS PLAYING HAS CHANGED - STILL POTENTIALLY A HANG OVER IN TERMS OF "NOT MY THING FEELING"-RECOMMENDATION TO BE SENSITIVE TO GENDER ISSUES AND PERCEPTION
+
+
 <!-- Any up to date literature on participation in game cultures? -->
 
 <!-- The concept of funds on knowledge or Discourses was explored and promoted by Gee in the well respected book What Video Games have to Teach us about Learning and Literacy. The perspective there was on DIY and home communities and the potential for X -->
