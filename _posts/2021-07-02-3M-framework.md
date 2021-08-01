@@ -59,7 +59,7 @@ LINK TO PREVIOUS CHAPTER AND SECTION ON INFORMAL SETTINGS?
 
 In this writing I use the term learning design instead of pedagogy. I do this because I feel that term is more accessible and because it is a specific implementation of several underlying pedagogic principles.
 
-### Research on the Benefits and Uniqueness of Game Making
+## Research on the Benefits and Uniqueness of Game Making
 
 PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURES -
 
@@ -68,19 +68,23 @@ PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURE
 
 <!-- Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making. -->
 
-
-
 In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Kafai and Burke created a review of the educational potential of game making - [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). Their review outlined broad areas of game making knowledge for individual learners. Namely, to support coding and computing, to help learn content from other subject areas and to promote meta-cognition - students learning about their own learning. The review also explores social and cultural elements of game making.
+
+MORE ON THE PERSONAL ELEMENTS - SOCIAL - CULTURAL - USE THIS AS A STRUCTURE FOR FOLLOWING SECTIONS?
+JUSTIFY THE SELECTION THAT I GO ON TO COVER - LINKED TO PROJECT BASED APPRAOCHES
 
 The importance of communities and culture to increase participation and inclusion in a computing education are covered in another chapter in this book, however it is worth mentioning the particular potential of games to connect to home interests and as a very suitable object to share with others. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
 We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender. ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
 
-Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage and a mastery approach, supporting reflection and encouraging self regulation and structured guidance for goal setting.
 
 
+### PERSONAL - Coding and CT
 
-#### Games to explore systems
+Case study of computational patterns in last chapter?
+
+
+### PERSONAL - Games to explore systems
 
 GSM section  
 
@@ -92,7 +96,7 @@ The following section examines the particular potential of game making in the fo
 
 <!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
 
-### Family Game Experience as a Fund of knowledge
+### CULTURAL - Family Game Experience as an inclusive Fund of Knowledge a
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
@@ -125,9 +129,17 @@ My study began with Home Educators both parents and children asking us to help t
 
 <!-- Include only if relevant to inclusion -->
 
-### Developing Social and 21st Century Skills
+### CULTURAL - Games as a vehicle for exploring a comlex cultural worlds
 
-Project-based game making is inherently collaborative, involves creative design and problem solving. This is a good base for the development of 21st Century skills as potential benefits. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
+Game for change
+need for cultural exploration
+Games a vehicle for other things
+
+### SOCIAL - Developing Social and 21st Century Skills
+
+LINK BETWEEN AGENDAR OF 21c SKILLS AND PROJECTS AS A WAY TO DEVELOP THEM
+
+Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage and a mastery approach, supporting reflection and encouraging self regulation and structured guidance for goal setting. This is a good base for the development of 21st Century skills as potential benefits. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
 
 Studies [@baytak_case_2010] including my own show the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
 
@@ -146,7 +158,10 @@ The social nature of game making can be activated in other ways. In a later sect
  But which had this as a core focus of the research. The exception being peer programming and reviewing each others games.
 -->
 
-### Authentic projects creating real results
+**Authentic projects creating real results**
+THIS MAY BE SOCIAL RATHER THAN CULTURAL - IN FACT WHAT IS THE DIFFERENCE REALLY
+
+<!-- For these sections - lead the sections to benefits / skills in particular -  characteristics follow -  -->
 
 An important concept in both project and inclusive approaches to education is to make projects as authentic as possible to increase learner motivation. For game making this authenticity or realness applies not only to the tangible, shareable nature of resulting game created but also a link to the real world of game design.
 
