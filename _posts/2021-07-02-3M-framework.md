@@ -94,31 +94,50 @@ The use of games to explore computational patterns is explored as a case study i
 In games design patterns were considered in relation to computation thinking in a study by Werner and colleagues [-@denner_using_2014].
 They put design patterns under game mechanics in a hierarchy of complexity.
 
-Game mechanics are also a key part of considering and understanding games as systems which is explored in the next section. 
+Game mechanics are also a key part of considering and understanding games as systems a topic which is explored in the next section.
 
 <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 -->
 <!-- OR INCLUDE IT HERE? -->
 
 #### Games to explore systems
 
-GSM section  
+Katie Salen-Tekinbas is an academic specialising in game studies. She was also a lead in the design of software called Game Star Mechanic and a New York high school - Quest to Learn - which incorporates game design into it's curriculum and who's guiding educational principle is game-based learning. https://www.q2l.org/about/
 
 
 <!-- A cultural-social approach to education values the importance of mediation, cultural artefacts, and the joint emergence of new tools and practices. The kind of research to study a coding work environment, communities of practice, and communities of learners has advantages as it allows; -->
 
 <!-- Kafai and Burke explore these dimensions in their review of research. Kafai and Peppler make links to areas of professional competencies arguing that technical, creative and critical practices of working with new media. The widening of scope beyond purely technical practices of coding and information technology practices. -->
 
-<!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
+
 
 #### Games to study other subjects
+
 There are extensive studies on game making to learn other subjects which are covered in the review. A key one carried out the Kafai one of the authors. Cross-curricular projects are a potential way to overcome limits in time devoted to computing. Many teachers will attest that to truly understand a subject you can should try to teach it. Tasking students with making games that teach a key piece of the curriculum is one way of encouraging deepen understanding of subject matter.
 
 
 ### SOCIAL - Developing Social and 21st Century Skills
 
-LINK BETWEEN AGENDA OF 21c SKILLS AND PROJECTS AS A WAY TO DEVELOP THEM
+In the previous section we looked at knowledge or curriculum based subjects. In this section we cover more social or so-called soft skills that game making has the potential to develop in students.
 
-Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage and a mastery approach, supporting reflection and encouraging self regulation and structured guidance for goal setting. This is a good base for the development of 21st Century skills as potential benefits. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
+<!-- LINK BETWEEN AGENDA OF 21c SKILLS AND PROJECTS AS A WAY TO DEVELOP THEM -->
+
+Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised.
+
+<!-- The following is ambitious and a bit clunky - what to do with it?  -->
+
+These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
+
+What is notable about the these potential benefits is how closely they align with a concept which has been circulating for some time but which
+
+ 21st Century skills as potential benefits.
+https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14674/EIR_I023-I024_21st_Century_Skills_FINAL.pdf?sequence=467
+
+<!-- Not sure what this adds
+perhaps rethink this and start with context of 21st C skills
+then clear, consise examples from review
+-->
+
+ The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
 
 Studies [@baytak_case_2010] including my own show the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
 
@@ -139,7 +158,13 @@ The social nature of game making can be activated in other ways. In a later sect
 
 ### CULTURAL
 
-As mentioned in Kafai's review the researchers used this section primarily to explore elements of inclusion and potential cultural barriers to gaming. While this is an important approach this section aims to explore more positive aspects to include participants in game making and the potential for game making as a vehicle to explore cultural issues in themselves.
+The distinction between social and cultural element is a bit fuzzy. Making games can be used as a way to explore complex cultural and social issues. In Kafai's review of cultural dimensions focused primarily to explore elements of inclusion and potential cultural barriers to gaming. It also detailed methods and case studies that used cultural considerations to include participants in game making activities.
+
+#### CULTURAL - Games as a vehicle for exploring a complex cultural worlds
+
+- Games for change - systemic
+- a good vehicle for need for cultural exploration - race, sex, social issues - already talked about systems in less cultural ways
+- Games a vehicle for other subjects - like other media projects too (in personal learning?)
 
 #### CULTURAL -Inclusion
 
@@ -184,11 +209,7 @@ To allow students to bring their own home funds on knowledge into their work tea
 My study began with Home Educators both parents and children asking us to help them to make the most of the kids interest in MineCraft and similar creative computer games. How could skills like coding and other skills be learned while young people were making something that appealed to them? -->
 
 <!-- Include only if relevant to inclusion -->
-#### CULTURAL - Games as a vehicle for exploring a comlex cultural worlds
 
-- Games for change - systemic
-- a good vehicle for need for cultural exploration - race, sex, social issues - already talked about systems in less cultural ways
-- Games a vehicle for other subjects - like other media projects too (in personal learning?)
 
 #### Authentic projects creating real results
 
@@ -291,6 +312,9 @@ As computing teachers it is likely that one of our core aims will be building fa
 Of course, real life is more complicated than that. Rather than there being one pedagogy that maximises the potential of using game making in the classroom, it is important to recognise the diversity of objectives of both teachers and learners in the process of making games.
 
 In the last section we look out one learning design and how that aimed to overcome those tensions. But in this section rather than trying to solve problems -- I am highlighting them and you can draw your own conclusions. -->
+
+<!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
+
 
 While the potential benefits of game making are striking many challenges exist. Later in the final section of this chapter I explore some tensions and limitations more generally. In this section I look at a design that aims to address key challenges and tensions. The 3M game making model - (made up of Missions, Maps and Methods) - that I now share with you is the result of a trial and error process evolved over several years working with families to make games together. I have also tested it out in a local Primary school.
 
