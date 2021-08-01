@@ -131,13 +131,13 @@ My study began with Home Educators both parents and children asking us to help t
 
 ### CULTURAL - Games as a vehicle for exploring a comlex cultural worlds
 
-Game for change
-need for cultural exploration
-Games a vehicle for other things
+- Games for change - systemic
+- a good vehicle for need for cultural exploration - race, sex, social issues - already talked about systems in less cultural ways
+- Games a vehicle for other subjects -like other media projects too (in personal learning?)
 
 ### SOCIAL - Developing Social and 21st Century Skills
 
-LINK BETWEEN AGENDAR OF 21c SKILLS AND PROJECTS AS A WAY TO DEVELOP THEM
+LINK BETWEEN AGENDA OF 21c SKILLS AND PROJECTS AS A WAY TO DEVELOP THEM
 
 Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage and a mastery approach, supporting reflection and encouraging self regulation and structured guidance for goal setting. This is a good base for the development of 21st Century skills as potential benefits. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
 
