@@ -75,77 +75,44 @@ In the review the section on cultural dimensions covers not only the potential t
 
 <!-- Move the examples below into the relevant section - or include them as a summary to keep the inclusion focus?  -->
 
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
-We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
-ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
+
+
+The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research; experience of Games in the Family home as what is know as a fund of knowledge, the potential to build social and 21st century skills, inclusive and motivating approaches via authentic projects.
 
 ### PERSONAL -
 
 #### Coding and CT
 
+While some game making tools use a specialised graphical interface, many game making tools involve working with code directly. This allows students to practice the mechanics and core structures of coding and a more applied definition of computational thinking.
+
 A study by Adams and Webster -@adams_what_2012indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
-Design patterns are an important factor in learning to code in a professinal community.
-The use of games to explore computational patterns is explored as a case study in another chapter
-OR INCLUDE IT HERE?
+Design patterns are an important factor in learning to code in a professional community.
+The use of games to explore computational patterns is explored as a case study in another chapter.
 
-There are extensive studies on game making to learn other subjects which are covered in the review. A key one carried out the Kafai one of the authours. This is a potential way to overcome limits in time devoted to computing and to deepen understanding of subject matter. To truly understand a subject you can try to teach it.
+In games design patterns were considered in relation to computation thinking in a study by Werner and colleagues [-@denner_using_2014].
+They put design patterns under game mechanics in a hierarchy of complexity.
+
+Game mechanics are also a key part of considering and understanding games as systems which is explored in the next section. 
+
+<!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 -->
+<!-- OR INCLUDE IT HERE? -->
 
 #### Games to explore systems
 
 GSM section  
 
-<!-- A cultural-social approach to education values the importance of mediation, cultural artefacts, and the joint emergence of new tools and practices. The kind of research to study a coding work environment, communities of practice, and communities of learners has advantages as it allows; -->
 
-The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research; experience of Games in the Family home as what is know as a fund of knowledge, the potential to build social and 21st century skills, inclusive and motivating approaches via authentic projects.
+<!-- A cultural-social approach to education values the importance of mediation, cultural artefacts, and the joint emergence of new tools and practices. The kind of research to study a coding work environment, communities of practice, and communities of learners has advantages as it allows; -->
 
 <!-- Kafai and Burke explore these dimensions in their review of research. Kafai and Peppler make links to areas of professional competencies arguing that technical, creative and critical practices of working with new media. The widening of scope beyond purely technical practices of coding and information technology practices. -->
 
 <!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
 
-### CULTURAL - Family Game Experience as an inclusive Fund of Knowledge a
+#### Games to study other subjects
+There are extensive studies on game making to learn other subjects which are covered in the review. A key one carried out the Kafai one of the authors. Cross-curricular projects are a potential way to overcome limits in time devoted to computing. Many teachers will attest that to truly understand a subject you can should try to teach it. Tasking students with making games that teach a key piece of the curriculum is one way of encouraging deepen understanding of subject matter.
 
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
-
-We have already met this tactic in other parts of this book in the form of Unplugged activities which often draw on concrete, home based activities or understandings.
-
-The term Funds of Knowledge came out of work in Latino communities in the US where home cultures, skills and traditions were invisible in the school cultures resulting in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. The concept of funds of knowledge is draw on Gutiérrez [-@gutierrez_syncretic_2011] in the promotion of a concept of creating third space, neither home life, nor a traditional classroom. This kind of third space is perfect to create new kinds of working relationships between students and with teachers as facilitators.
-
-There is a related stream of UK based research by Sonia Livingstone that examines family cultures and the role of digital media including video games which echoes some of the findings of the NLT that playing video games and conversations about video games can bring families together.  
-
-Thus this process is this useful not only for an inclusive approach it is also good for navigating computing projects too.
-
-<!-- move to 3M Design patters are a recognisable fund of known -->
-
-More research is needed on ways to draw out attitudes and knowledge of game cultures and to make this as accessible as possible. see later. (missions? methods?)
-
-The concepts of a third space normally happens outside of the school environment, thus the challenge exists how to create such a third space within the classroom. Suggestions now, and the methods part of the 3M framework (drama process).
-
-To allow students to bring their own home funds on knowledge into their work teachers can adopt two main ways.
-<!-- REWORD TO PUT THE CONCEPTS FIRST - TWO TYPES OF FOK   -->
-
--   Allow students to base their coding projects on well known game tropes or genres.
--   Allow for choice over the narrative of the game and the characters to allow for student choice
-
-
-GENDER - STILL AN ISSUE EVEN THOUGH SITUATION IN TERMS OF NUMBERS PLAYING HAS CHANGED - STILL POTENTIALLY A HANG OVER IN TERMS OF "NOT MY THING FEELING"-RECOMMENDATION TO BE SENSITIVE TO GENDER ISSUES AND PERCEPTION
-
-
-<!-- Any up to date literature on participation in game cultures? -->
-
-<!-- The concept of funds on knowledge or Discourses was explored and promoted by Gee in the well respected book What Video Games have to Teach us about Learning and Literacy. The perspective there was on DIY and home communities and the potential for X -->
-
-<!-- Move this to Missions?
-My study began with Home Educators both parents and children asking us to help them to make the most of the kids interest in MineCraft and similar creative computer games. How could skills like coding and other skills be learned while young people were making something that appealed to them? -->
-
-<!-- Include only if relevant to inclusion -->
-
-### CULTURAL - Games as a vehicle for exploring a comlex cultural worlds
-
-- Games for change - systemic
-- a good vehicle for need for cultural exploration - race, sex, social issues - already talked about systems in less cultural ways
-- Games a vehicle for other subjects -like other media projects too (in personal learning?)
 
 ### SOCIAL - Developing Social and 21st Century Skills
 
@@ -170,7 +137,61 @@ The social nature of game making can be activated in other ways. In a later sect
  But which had this as a core focus of the research. The exception being peer programming and reviewing each others games.
 -->
 
-**Authentic projects creating real results**
+### CULTURAL
+
+As mentioned in Kafai's review the researchers used this section primarily to explore elements of inclusion and potential cultural barriers to gaming. While this is an important approach this section aims to explore more positive aspects to include participants in game making and the potential for game making as a vehicle to explore cultural issues in themselves.
+
+#### CULTURAL -Inclusion
+
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+
+We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
+ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
+
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
+
+GENDER - STILL AN ISSUE EVEN THOUGH SITUATION IN TERMS OF NUMBERS PLAYING HAS CHANGED - STILL POTENTIALLY A HANG OVER IN TERMS OF "NOT MY THING FEELING"-RECOMMENDATION TO BE SENSITIVE TO GENDER ISSUES AND PERCEPTION
+
+
+#### CULTURAL - Family Game Experience as an inclusive Fund of Knowledge
+
+Knowledge of a games and gaming culture is sometimes drawn upon by teachers as a concrete example of a coding concepts. A very common examples is that of explaining if-then code constructs. For example, if Pac-Man touches a ghost then a player life is lost.  We have already met the tactic of using concrete examples to ilustrate in other parts of this book. However there is something special about drawing on home or out-of-school experience of young people.
+
+The term Funds of Knowledge came out of work in Latino communities in the US where home cultures, skills and traditions were invisible in the school cultures resulting in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. The concept of funds of knowledge is draw on Gutiérrez [-@gutierrez_syncretic_2011] in the promotion of a concept of creating third space, neither home life, nor a traditional classroom. This kind of third space is perfect to create new kinds of working relationships between students and with teachers as facilitators.
+
+There is a related stream of UK based research by Sonia Livingstone that examines family cultures and the role of digital media including video games which echoes some of the findings of the NLT that playing video games and conversations about video games can bring families together.  
+
+Thus this process is this useful not only for an inclusive approach it is also good for navigating computing projects too.
+
+<!-- move to 3M Design patters are a recognisable fund of known -->
+
+More research is needed on ways to draw out attitudes and knowledge of game cultures and to make this as accessible as possible. see later. (missions? methods?)
+
+The concepts of a third space normally happens outside of the school environment, thus the challenge exists how to create such a third space within the classroom. Suggestions now, and the methods part of the 3M framework (drama process).
+
+To allow students to bring their own home funds on knowledge into their work teachers can adopt two main ways.
+<!-- REWORD TO PUT THE CONCEPTS FIRST - TWO TYPES OF FOK   -->
+
+-   Allow students to base their coding projects on well known game tropes or genres.
+-   Allow for choice over the narrative of the game and the characters to allow for student choice
+
+
+<!-- Any up to date literature on participation in game cultures? -->
+
+<!-- The concept of funds on knowledge or Discourses was explored and promoted by Gee in the well respected book What Video Games have to Teach us about Learning and Literacy. The perspective there was on DIY and home communities and the potential for X -->
+
+<!-- Move this to Missions?
+My study began with Home Educators both parents and children asking us to help them to make the most of the kids interest in MineCraft and similar creative computer games. How could skills like coding and other skills be learned while young people were making something that appealed to them? -->
+
+<!-- Include only if relevant to inclusion -->
+#### CULTURAL - Games as a vehicle for exploring a comlex cultural worlds
+
+- Games for change - systemic
+- a good vehicle for need for cultural exploration - race, sex, social issues - already talked about systems in less cultural ways
+- Games a vehicle for other subjects - like other media projects too (in personal learning?)
+
+#### Authentic projects creating real results
+
 THIS MAY BE SOCIAL RATHER THAN CULTURAL - IN FACT WHAT IS THE DIFFERENCE REALLY
 
 <!-- For these sections - lead the sections to benefits / skills in particular -  characteristics follow -  -->
@@ -192,6 +213,8 @@ https://www.edutopia.org/blog/authentic-project-based-learning-john-larmer
 
 It may not be possible to create a technically commercial advanced game but other audiences exist. For example, so-called Indy Games are made by enthusiasts and often released at low cost or for free on the internet. They often appeal to a retro game aesthetic and are thus easier and quicker to make. Highlighting this movement can reduce student dissatisfaction at not being able to code something like a 3D racing game immediately.
 As another way to increase authenticity schools sometimes enter online game making competitions or wider creative competitions like the Coolest Project. You may be able to add authenticity in a similar way by providing a frame for your game making.
+
+
 
 ## An Overview of some Game Coding Tools
 
