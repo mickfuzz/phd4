@@ -82,17 +82,13 @@ The following section examines the particular potential of game making in the fo
 
 ### PERSONAL -
 
-#### Coding and CT
+#### Coding and Computing Practices
 
-While some game making tools use a specialised graphical interface, many game making tools involve working with code directly. This allows students to practice the mechanics and core structures of coding and a more applied definition of computational thinking.
-
-A study by Adams and Webster -@adams_what_2012indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
+The main learning objective of making games in educational setting is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many game making tools involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
 Design patterns are an important factor in learning to code in a professional community.
 The use of games to explore computational patterns is explored as a case study in another chapter.
-
-In games design patterns were considered in relation to computation thinking in a study by Werner and colleagues [-@denner_using_2014].
-They put design patterns under game mechanics in a hierarchy of complexity.
+In their analysis of computational thinking in relation to game making, Werner and colleagues [-@denner_using_2014] examined design patterns and game mechanics as well as more straight forward coding constructs.
 
 Game mechanics are also a key part of considering and understanding games as systems a topic which is explored in the next section.
 
