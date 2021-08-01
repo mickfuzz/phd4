@@ -14,11 +14,7 @@ title: Game Making Pedagogy using a Three M Framework
 
 <!-- ## Notes
 
-Be bold move your model to as near the front as you can.
-Justify this - all useful and practical advice to teachers - and publishing on new site -
-
 Section on tensions is too long - instead perhaps a summary of tools choice tensions, limits of the classroom and new opportunities. - so move some to 3m as justification and some to limits / tensions -->
-
 
 ## Summary
 
@@ -35,9 +31,12 @@ Section on tensions is too long - instead perhaps a summary of tools choice tens
 
 ## Concepts Summary
 
-some of the pedagogy / concepts in this chapter
+pedagogy / concepts in this chapter
 
  - funds of knowledge
+ - socio cultural approaches
+ - systems thinking
+ - game player types - from Richard Bartle
 
 ## Intro
 In a previous chapter in this collection I outlined the opportunities of a project based approach to learning computing and in particular the craft of coding. In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based learning and Universal Design for Learning (UDL). In this way it acts as an extended case study illustrate some of the design principles in practice.
@@ -68,20 +67,24 @@ PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURE
 
 <!-- Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making. -->
 
-In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Kafai and Burke created a review of the educational potential of game making - [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). Their review outlined broad areas of game making knowledge for individual learners. Namely, to support coding and computing, to help learn content from other subject areas and to promote meta-cognition - students learning about their own learning. The review also explores social and cultural elements of game making.
+In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Kafai and Burke created a review of the educational potential of game making - [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned wiht school curriculums. They include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
+
+Beyond this personal dimension of learning, the review also studied the characteristics and benefits of social and cultural elements of game making. The value of communities and culture in computing projects are covered in another chapter in this book. This chapter explores them in more detail using game making as an example.
 
 MORE ON THE PERSONAL ELEMENTS - SOCIAL - CULTURAL - USE THIS AS A STRUCTURE FOR FOLLOWING SECTIONS?
 JUSTIFY THE SELECTION THAT I GO ON TO COVER - LINKED TO PROJECT BASED APPRAOCHES
 
-The importance of communities and culture to increase participation and inclusion in a computing education are covered in another chapter in this book, however it is worth mentioning the particular potential of games to connect to home interests and as a very suitable object to share with others. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+<!-- Move the examples below into the relevant section - or include them as a summary to keep the inclusion focus?  -->
+
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
 We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender. ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
-
-
 
 ### PERSONAL - Coding and CT
 
 Case study of computational patterns in last chapter?
+
+A study by Adams and Webster -@adams_what_2012indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively. 
 
 
 ### PERSONAL - Games to explore systems
