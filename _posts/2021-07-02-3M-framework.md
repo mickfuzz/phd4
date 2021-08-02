@@ -67,19 +67,21 @@ PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURE
 
 <!-- Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making. -->
 
-In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned with school curriculums. They include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
+In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned with school curriculums. The kind of socially oriented skills needed to complete projects take place in design activities are often described in educational circle as 21st Century Skills. Cultural dimensions covers the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience and tactics overcome exclusion from cultures of gaming and computing.
 
-Beyond this personal dimension of learning, the review also studied the characteristics and benefits of social and cultural elements of game making. It is significant that social and cultural dimensions are included. The learning activities that happen in these dimensions may not be directly concerned with curriculum knowledge but are seen as vital in a socio-cultural understanding where learning takes place and is driven by participation in a community.
+<!-- Personal dimensions include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
+
+Beyond this personal dimension of learning, the review also studied the characteristics and benefits of social and cultural elements of game making. It is significant that social and cultural dimensions are included. The learning activities that happen in these dimensions may not be directly concerned with curriculum knowledge but are seen as vital in a socio-cultural understanding where learning takes place and is driven by participation in a community. The kind of socially oriented skills needed to complete projects take place in design activities are often described in educational circle as 21st Century Skills.  -->
 
 <!-- (perhaps mention 21st C skills? - and something about communities of game makers ) -->
 <!-- The value of communities and culture in computing projects are covered in another chapter in this book. This chapter explores them in more detail using game making as an example -->
 
-In the review the section on cultural dimensions covers not only the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience, but also some of the significant challenges to overcoming exclusion from cultures of gaming and computing. It pays particular attention to issues of gender and race.  
+<!-- In the review the section on cultural dimensions covers not only the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience, but also some of the significant challenges to overcoming exclusion from cultures of gaming and computing. It pays particular attention to issues of gender and race.   -->
 <!-- This is perhaps not needed if into to that section below? -->
 
 <!-- Move the examples below into the relevant section - or include them as a summary to keep the inclusion focus?  -->
 
-The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research;
+<!-- The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research; -->
 
 <!--
 this list is now outdated - but is a list needed - just get on with it
@@ -131,7 +133,7 @@ These include; more learner choice in projects increases motivation, authentic a
 
 What is notable about the these potential benefits is how closely they align with a concept which has been circulating for some time but which
 
- 21st Century skills as potential benefits.
+21st Century skills as potential benefits.
 https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14674/EIR_I023-I024_21st_Century_Skills_FINAL.pdf?sequence=467
 
 <!-- Not sure what this adds
@@ -139,7 +141,7 @@ perhaps rethink this and start with context of 21st C skills
 then clear, consise examples from review
 -->
 
- The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
+The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
 
 Studies [@baytak_case_2010] including my own show the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
 
