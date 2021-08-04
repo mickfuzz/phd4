@@ -21,11 +21,9 @@ Section on tensions is too long - instead perhaps a summary of tools choice tens
 - Introduction / Context
 
 - Main Sections
-
   - Benefits of game making & what's unique about gaming
   - Game Making Tools Summary
   - 3M Framework in relation to the above
-  - Tensions involved in my study and research
 - Overcoming Challenges of classroom application
 
 
@@ -319,9 +317,7 @@ In the last section we look out one learning design and how that aimed to overco
 
 <!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
 
-
 While the potential benefits of game making are striking many challenges exist. Later in the final section of this chapter I explore some tensions and limitations more generally. In this section I look at a design that aims to address key challenges and tensions. The 3M game making model - (made up of Missions, Maps and Methods) - that I now share with you is the result of a trial and error process evolved over several years working with families to make games together. I have also tested it out in a local Primary school.
-
 
 While I hope this summary of the tools is useful the following sections are to do with a learning design that can be applied using any of the tools above. In truth The evolution of the process has been both trial and error and collaborative from working with families, to volunteers from PGCE computing course. It has happened at the same time as my own research on design and project approaches.
 
@@ -335,6 +331,10 @@ In my description of the 3M model below, I draw on project based learning and de
 Learners start by playing and remixing a broken and incomplete (half baked) game.
 
 One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way. Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
+
+This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others.
+
+Rather than remixing from an existing community of games however I wanted to try another approach - that of using a Half Baked game. A concept was introduced to the field by Kynigos who describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it.
 
 <!-- The main mission supported by a narrative device of Aliens coming to earth to judge our games.  -->
 
@@ -370,6 +370,17 @@ I found that result of this approach is a kind of creative chaos. It resolved te
  ![patterns as text](./Pictures/sample_pattern.png)
  ![patterns as text]({{ site.baseurl }}/Pictures/sample_pattern.png)
  _Sample Game Design Pattern_
+
+ **Analysing Broken / Half-Baked games**
+
+ Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I quickly adopted the use of a template to help them to get to grips with coding
+
+ The framework provided the following advantages, a working example of code syntax, and a structure of variables and functions already working together.  The combination of working with it, gaffer taping bits on to it, and then playing a game to analyse the core line by line.
+
+ One participant wrote "that was a great moment - when after struggling to add text on to the code, we played the code matching game. We realised how much we had actually picked up that process".
+
+ Adding onto the template had helped the participant to read and understand code.
+
 
 #### Game Maker Types and Missions
 
@@ -498,9 +509,6 @@ For example, one which I asked trainee teachers to devise also worked well. With
 ## Challenges - and how they may link to a classroom setting
 THIS SECTION MAY NEED TO BE INCORPORATED IN THE PREVIOUS ONE - OR BE MUCH CLEARER HOW IT IS SEPARATE.
 
-
-
-
 This sections acknowledges the complexity and diversity of classroom situations and the challenges of project-based game making within the constraints of the curriculum.
 
 <!-- As such this section uses data drawn from the wider research -- I also cross reference this with my own observations from my game making studies. -->
@@ -535,27 +543,8 @@ However I leave this to you as educators to resolve.
 
 And don't forget one last ingredients raw enthusiasm.
 
-## Tensions (perhaps move some into 3M)(and into blog posts if not)
 
 
- <!-- PyGame  -->
-
-### Tensions around starting code from scratch or from a template
-
-Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I quickly adopted the use of a template to help them to get to grips with coding
-
-The framework provided the following advantages, a working example of code syntax, and a structure of variables and functions already working together.
-The combination of working with it, gaffer taping bits on to it, and then playing a game to analyse the core line by line.
-
-One participant wrote "that was a great moment - when after struggling to add text on to the code, we played the code matching game. We realised how much we had actually picked up that process".
-
-Adding onto the template had helped the participant to read and understand code.
-
-This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others.
-
-This is foundational to the Use Modify Create framework and also forms an important part of the Scratch community.
-
-Without an existing community of games however I wanted to try another approach - that of using a Half Baked game. A concept was introduced to the field by Kynigos who describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it.
 
 
 
