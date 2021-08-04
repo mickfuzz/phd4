@@ -13,13 +13,14 @@ title: Project and Design Approaches in Computing
 
 ## Outline
 
-- Intro to alternative models suiting bottom up  / concrete approaches
-- community value
-- craft approaches
+- Intro to chapter - alternative models suiting bottom up  / concrete approaches
+- power of communities - value of community participation - socio cultural approaches to education
+- craft approaches -
 - Design approaches -
   - creative spiral / iterative
   <!-- - studio thinking -->
   - using design patterns
+  - case study on design patterns  - Scalable Game design
 - PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
 <!-- - Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion -->
 
@@ -64,8 +65,6 @@ While the RPI foundation have created and collected an impressive collection of 
 
 This is in line with socio-cultural understandings of how learning happening. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
-
-
 <!--
 And SINGPOSTING to the rest of the chapter
  -->
@@ -73,7 +72,7 @@ And SINGPOSTING to the rest of the chapter
  <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
  <!-- ### UDL as Learning Framework -->
 
-### My Introduction to Craft / Studio Approaches
+### My Introduction to Craft & Studio Approaches
 
 We have already looked at pair programming which can build confidence and support to girls in the learning coding process. The value of Pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities and even the programmers themselves call this a craft approach to coding.
 
@@ -84,6 +83,8 @@ The process was sometimes slow involving a lot of trial and error. At times it f
 Arts and crafts studios value and support this way of learning. For example Studio Thinking and Methods have been well researched and the process of doing a foundation arts year explicitly allows a long period of experimentation and building familiarity with tools of the trade. This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual in professional practice. According to a recent Stack Overflow survey most industry developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
 Clearly there are challenges in replicating this kinds of learning within the practical limitations of a school and its culture. However, educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning. Both of these approaches have been applied extensively for computing both inside and outside of schools. In this chapter I focus on the positive opportunities provided by these approaches rather than the practical challenges.
+
+If this approach resonates with you and you want to read more about Studio Thinking and how it can be applied in schools there are excellent resources here -  https://www.studiothinking.org
 
 ### Design Approaches
 
@@ -249,7 +250,7 @@ PBL is in line with some of the other socio-cultural approaches to learning that
 - Authenticity -  Real life Relevance helps get student engagement and buy in
 - Reflection - this refers to self-reflection which may be informal at times but guided by class processes, learning journals
 - Public Project - the creation of a shareable object or even that helps learners focus and to design for others and act as a focus for discussion as a learning community
-- Critique and Revision - ideally this can involve outside experts or input beyond the class teacher, it brings a new refreshing perspective. 
+- Critique and Revision - ideally this can involve outside experts or input beyond the class teacher, it brings a new refreshing perspective.
 
 This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
 
