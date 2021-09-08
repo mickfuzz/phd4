@@ -11,4 +11,4 @@ date: 2021-03-26
 
 ## About this writing site
 
-A place for my phd writing
+A place for my phd writing - and related blog posts. 
