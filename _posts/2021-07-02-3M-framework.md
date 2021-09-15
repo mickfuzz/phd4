@@ -18,6 +18,9 @@ Section on tensions is too long - instead perhaps a summary of tools choice tens
 
 ## Summary
 
+PLEASE NOTE THIS IS IN DRAFT FORMAT ONLY - NOT READY FOR DETAILED FEEDBACK
+BUT HAPPY TO CHAT ABOUT BIG PICTURE.
+
 - Introduction / Context
 
 - Main Sections
@@ -537,15 +540,7 @@ Finally, one of the most challenging but rewarding aspects of making games toget
 
 In all the programs I ran only one parent and one student had experience of coding. This process of starting up such a community from scratch is challenging. In the previous sections I have shared my tips to help build a small game making community. These include encouraging peer sharing with diversity of learner paths, narratives and activities to encourage group reflection, starting activities which build a team spirit.
 
-At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up.
-
-However I leave this to you as educators to resolve.
-
-And don't forget one last ingredients raw enthusiasm.
-
-
-
-
+At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up. However I leave this to you as educators to resolve. And don't forget one last ingredients raw enthusiasm.
 
 
 ## Concusion - Over coming challenges and looking to the future
