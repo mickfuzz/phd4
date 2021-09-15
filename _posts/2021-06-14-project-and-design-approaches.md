@@ -228,23 +228,11 @@ RE-READ SGD work -->
 
 ### Projects and Project Based Learning
 
-In the previous chapter we looked at the  12 teach computing principles. Project-based learning  (PBL) is of the.
+Project-based learning (PBL) is of the 12 teach computing principles advocated by NCCE. In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects. Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
 
-In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects.
+Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digital making and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
 
-Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
-
-
-### Where Project Based Learning Happens
-
-We have already covered some of the most likely locations for PBL to happen at the start of this chapter.  
-
-As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways.
-
-
-### A summary of the elements of Project Based Learning  
-
-As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements.
+As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways. As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements.
 
 ![creative spiral](./Pictures/pbl_gold.png)
 ![creative spiral]({{ site.baseurl }}//_posts/Pictures/pbl_gold.png)
@@ -262,20 +250,32 @@ PBL is in line with some of the other socio-cultural approaches to learning that
 
 This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
 
-To deepen our understanding, this section will select some of these elements for closer evaluation in a computing context.
+####  PBL Stages and Support Resources
+
+This section outlines the typical stages of PBL and how to adapt it to a computing context.
+
+Based on this break down
+https://www.edutopia.org/project-based-learning-guide-implementation
+
+- Start with the Essential Question
+- Design a Plan for the Project
+- Create a Schedule
+- Monitor the Students and the Progress of the Project
+- Assess the Outcome
+- Evaluate the Experience
+
 
 It is noticeable that while there are chances for student experimentation, this process is very far from what some people would call pure discovery learning. Building the ability as a teacher to switch between students operating freely and being guided in revision and critique is often unfamiliar to teachers. Having resources to help this process is vital.
 
-
-
-### Computing and PBL
-
-Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digital making and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
-
+ADD DETAIL TO THIS Section
 
 #### More about challenges and benefits of PBL
 
-But a bit more about project based learning - and how to design it in a computing situation.
+This section outlines the some of the challenges to implementing PBL.
+
+Based on this blog post.
+https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html
+
 
 ### Further Resources on PBL
 For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny  .cc/pbl-summary
@@ -297,7 +297,7 @@ This links back to PRIMM and the underlying approach of Use Modify Create, which
 What they have in common - that is distinct from more traditional classroom approaches - is a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set.
 
 
-## Creatively Overcoming Limitations In Context
+## Creatively Overcoming Limitations
 
 All of the approaches above have research to support the benefits of the approach and in a context of inclusive pedagogies we can make a strong case for teachers to adopt them in computing education as a suitable candidate for project based, inclusive approaches.
 
@@ -317,12 +317,20 @@ For example, cross-curricular projects may free up more time by linking. As expl
 
 Many teachers will add in projects to the end of a series of work to reinforce concept in a practical context and that is certainly better than nothing, but it is likely to reduce effectiveness.
 
+### Significance of Project and Design approaches for Inclusion
+
+In a previous chapter we covered the fundamentals of UDL (Universal Design for Learning). There are clear similarities between the concrete, hands-on approach of project based work and elements of the UDL framework. As teachers we can highlight importance of creating inclusive classroom environments as a way to advocate for allocating time and resources for project-based learning.
+
+Some tactics that computing teachers can draw on to make their approach more inclusive via project are already used intuitively by teachers. It is reassuring that research supports some of the following tactics;
+
+- Physical Computing - makes the computing experience tangible and shareable
+- Game Making - can build on existing knowledge of game structure
+- Media Projects in Scratch - draws on home interests and importance of designing for an audience
+
+
 ### Meeting in the Middle - A learner choice approach to semantic density
 
-I explore my own experiences teaching coding practice and concepts through coding games together in  another chapter in this collection. My own approach is very much led by the interests and preferences of learners. Some students stuck with certain areas of concrete practice. They were happy to tinker away, adding features, and changing certain parts without fully knowing what the code did. I would highlight some of the underlying coding concepts for the code then were working on as they met it.
-Others wanted to know what they were dealing with from the start.
-
-To start with I struggled being pulled in different directions. To resolve this, I created activities and resources to support these different kinds of approaches.  
+I explore my own experiences teaching coding practice and concepts through coding games together in  another chapter in this collection. My own approach is very much led by the interests and preferences of learners. Some students stuck with certain areas of concrete practice. They were happy to tinker away, adding features, and changing certain parts without fully knowing what the code did. I would highlight some of the underlying coding concepts for the code then were working on as they met it. Others wanted to know details of those concepts from the start. Initially, I struggled being pulled in different directions. To resolve this, I created activities and resources to support these different kinds of approaches.  
 
 The students that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. In short, following a step-by-step tutorial. Other student who favoured more concrete approaches and jumping right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
 
@@ -330,25 +338,14 @@ PBL and UDL would promote not Concepts First, but Choice First. The choice of th
 
 A tactic to bridge this potential disconnect is have two tracks of learning - one concepts first - and one choice first and to plan for learners that to 'meet in the middle' where their abstract teacher teacher-led learning connects with their project-based concrete explorations. The role of the teacher to help the learners make those connections.
 
-In the classroom there is an additional challenge for teachers to observe and measure learner progress. How can this be done without it being overwhelming? In the last section we looked at different observations techniques outlined in the NCCE quick read. In PBL the more closely aligned technique is that of supporting learners to monitor and document their own progress. Teachers can support that process by helping learners to map their activities and  
+In the classroom there is an additional challenge for teachers to observe and measure learner progress. How can this be done without it being overwhelming? In another chapter we looked at different observations techniques outlined in the NCCE quick read. In PBL the more closely aligned technique is that of supporting learners to monitor and document their own progress. Teachers can support that process by helping learners to map their activities and reflect on the progress they are making.
 
-The process of planning a course of learning in this way may seem daunting. It is certainly a very different approach. It is worth restating that the advantages are not only in the engagement of students but also that the process is in line with the principles of Universal Design for Learning. By providing a variety of possible activities and choice, a tangible, sharable outcome
+The process of planning a course of project based learning may seem daunting. It is certainly a very different approach. It is worth restating that the advantages are not only in the engagement of students but also that the process is in line with the principles of Universal Design for Learning and will therefore benefit many of your learners greatly. If you want more details on how PBL can be put into practice in a computing setting, in another chapter I explore the process of planning and coding a project in the context of game making in another chapter in this collection.
 
-I explore this strategy that allows students to experience both the more abstract concepts entangled in the process of planning and coding a project in the context of game making in another chapter in this collection.
-
-### Significance of Project and Design approaches for Inclusion
-
-In a previous chapter we covered the fundamentals of UDL (Universal Design for Learning). There are clear similarities between the concrete / hands on approach of project based work and the UDL framework. Share tactics that teachers can draw on to make their approach more inclusive are;
-
-While this chapter recognises the
-At this point recap on significance for inclusion
-
-### Conclusion - Supporting the Development of Learning Communities
+## Conclusion - Supporting the Development of Learning Communities
 
 In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders working on project that are as authentic and linked to their own interests. To help this to happen we can draw on some of the rich research and resources that are available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
 
-We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices.
+We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices. For example, NCCE's work to promote artefact-based questions (ABQs) to assess PBL is very promising.
 
-We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others.  
-
-WHERE TO DO THIS? A final note on how teachers share practice. CAS forums, blogs, twitter etc.
+We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work. Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects.
