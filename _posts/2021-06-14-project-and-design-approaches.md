@@ -95,11 +95,19 @@ Design approaches have been adopted widely in software production, creative indu
 The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designing in something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the end user.
 
 However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical and entrepreneurial aspects of design are highlighted. While these kinds of projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios.
-For some suitable resources see INSERT SHORT LINK   
+For some suitable resources see http://tiny.cc/design_resources
+
+<!-- For some suitable resources see INSERT SHORT LINK  
+https://www.stem.org.uk/resources/community/collection/449826/design-challenges  
+https://www.edutopia.org/topic/design-thinking
+https://www.mantleoftheexpert.com/resources/reading/
+https://www.mantleoftheexpert.com/resources/contexts/
+
+-->
 
 When applying this approach Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes.
 
-<!-- Insert a personal example - can be in depth with drama practitioners or just superficial -->
+[Insert a personal example - can be in depth with drama practitioners or just superficial??]
 
 In the following sections I explore certain design approaches including - iterative design and the use of design patterns.
 
@@ -270,7 +278,7 @@ Computing education is an excellent vehicle for a project-based approach to lear
 But a bit more about project based learning - and how to design it in a computing situation.
 
 ### Further Resources on PBL
-For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny.cc/pbl-summary
+For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny  .cc/pbl-summary
 
 For broader web based resources and case studies in blog post and video form, the Edutopia website is a good source - https://www.edutopia.org/project-based-learning
 
@@ -301,7 +309,7 @@ Central to both iterative design approaches and PBL is the idea of coming back t
 
 I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are side-lined to cover compulsory curriculum material that have less personal relevance to the learners.  
 
-Resnick advises double lessons and whole terms devoted to projects. This may not be possible in exam focused classes but may be possible in some situations especially in KS2.
+Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. While this may not be possible in year groups more focused on upcoming exams, it but may be possible in some situations especially in KS2.
 
 For example, cross-curricular projects may free up more time by linking. As explored above Kafai was successful in gaining more time linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum. Science is a common way to explore cross over. As we saw the successful Scalable Game Design project used computational patterns and their overlap with science simulations as a base.
 
@@ -311,9 +319,12 @@ Many teachers will add in projects to the end of a series of work to reinforce c
 
 ### Meeting in the Middle - A learner choice approach to semantic density
 
-I explore my own experiences teaching coding practice and concepts through coding games together in  another chapter in this collection. My own approach is very much led by the interests and preferences of learners. I initially struggled to resolve the dilemma of learners sticking with certain areas of concrete practice without exploring some of the rich. They might  
+I explore my own experiences teaching coding practice and concepts through coding games together in  another chapter in this collection. My own approach is very much led by the interests and preferences of learners. Some students stuck with certain areas of concrete practice. They were happy to tinker away, adding features, and changing certain parts without fully knowing what the code did. I would highlight some of the underlying coding concepts for the code then were working on as they met it.
+Others wanted to know what they were dealing with from the start.
 
-The student that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. Other student may favour more concrete approaches and jump right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
+To start with I struggled being pulled in different directions. To resolve this, I created activities and resources to support these different kinds of approaches.  
+
+The students that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. In short, following a step-by-step tutorial. Other student who favoured more concrete approaches and jumping right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
 
 PBL and UDL would promote not Concepts First, but Choice First. The choice of the student maybe to understand underlying theory before engaging in hands-on coding or perhaps the opposite, a concrete exploration, which allows students to meet the concepts in a practical setting first.
 
@@ -334,12 +345,10 @@ At this point recap on significance for inclusion
 
 ### Conclusion - Supporting the Development of Learning Communities
 
-In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders to support creative projects. We can draw on some of the rich research that is available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
+In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders working on project that are as authentic and linked to their own interests. To help this to happen we can draw on some of the rich research and resources that are available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
 
-We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches, there are new resources from NCCE that draw on socio-cultural research on PBL, observation, pair programming AND ??. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment.
+We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices.
 
-WHAT'S MISSING IS MORE HELP ON DEVELOPING COMMUNITIES - WE CAN TURN TO X - TO HELP?
+We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others.  
 
-If you are like me and are a supporter of the more authentic coding practices in schools then we can only hope that some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices.
-
-<!-- Where possible t We can draw on socio cultural approaches to research to do this. Rather than controlled, formal tests which -->
+WHERE TO DO THIS? A final note on how teachers share practice. CAS forums, blogs, twitter etc.
