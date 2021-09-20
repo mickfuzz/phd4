@@ -24,7 +24,12 @@ BUT HAPPY TO CHAT ABOUT BIG PICTURE.
 - Introduction / Context
 
 - Main Sections
-  - Benefits of game making & what's unique about gaming
+  - Intro
+    - signposting
+    - context in UK
+      - (add in livingstone, pipeline to games industry of report)
+  - (main features?)Benefits of game making & what's unique about gaming
+    -
   - Game Making Tools Summary
   - 3M Framework in relation to the above
 - Overcoming Challenges of classroom application
@@ -48,20 +53,25 @@ As a fruit of my own research with families making games together, I share a fra
 
 ### Context Background (UK)
 
-Research on the use of games in education has often focused on game playing and the use of specialist educational games. In the context of computing however the promise if game making especially to develop coding skills is also explore to a lesser but still significant degree.
+Research on computer games has often focused on game playing and the use of specialist educatioa far more promising area that of making computer games.
 
-The RSA report After the Reboot[-@the_royal_society_after_2017] examined classroom practice and updated research after x years since the introduction of a new Computing curriculum in the UK. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level.
+In other parts of this book we have examined the role of the RSA reports Reboot or Shutdown and After the Reboot [-@the_royal_society_shut_2012; @the_royal_society_after_2017] to examine and shape UK computing education ethos practice around the introduction of a new Computing curriculum. Some of the key recommendations of these reports were first proposed in another influential report  called "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone_next_2011. As the title suggests the focus here was not on the overall empowerment of young people but rather on providing the UK games and animation industry with the talent needed to suceed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
-One of the areas of promise they outlined was the use of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research. The areas were the promise of using games for engagement, use of game patterns and involvement in girls in coding and social and cultural aspects of coding [@waite_pedagogy_2017].
+The Next Gen report acknowledges issues around perceptions of computing and ICT as geeky and suggests that the engaging nature of computing activities based around video games. The new curriculum and exams were introduced in 2014 and then reviewed in the report After the Reboot in 2017. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level.
+
+<!-- ADD IN MORE HERE ABOUT THE GAP AND NEED TOA ADDRESS IT.
+  -->
+
+The area of game making as a potentially engaging way to teach computing has not been fully explored. One of the areas of promise outlined in After the Reboot was the use of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research, namely; using games for engagement, use of game patterns and involvement in girls in coding and social and cultural aspects of coding [@waite_pedagogy_2017].
 
 While the focus of this research was to support the computing curriculum, it is worth mentioning that there is a rich stream of computing projects and associated research that happen outside of the classroom. I aim to bring some of the benefits into focus, suggesting that there is scope to bring this into formal environments.
 LINK TO PREVIOUS CHAPTER AND SECTION ON INFORMAL SETTINGS?
 
-In this writing I use the term learning design instead of pedagogy. I do this because I feel that term is more accessible and because it is a specific implementation of several underlying pedagogic principles.
+In this writing I use the term learning design instead of pedagogy as a specific implementation of several underlying pedagogic principles.
 
 ## Research on the Benefits and Uniqueness of Game Making
 
-PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES - JUST MOST SIGNIFICANT FEATURES -
+PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES -
 
 <!-- change section title - as not really  -->
 <!-- (merge with above?) -->
@@ -108,12 +118,9 @@ Game mechanics are also a key part of considering and understanding games as sys
 
 Katie Salen-Tekinbas is an academic specialising in game studies. She was also a lead in the design of software called Game Star Mechanic and a New York high school - Quest to Learn - which incorporates game design into it's curriculum and who's guiding educational principle is game-based learning. https://www.q2l.org/about/
 
-
 <!-- A cultural-social approach to education values the importance of mediation, cultural artefacts, and the joint emergence of new tools and practices. The kind of research to study a coding work environment, communities of practice, and communities of learners has advantages as it allows; -->
 
 <!-- Kafai and Burke explore these dimensions in their review of research. Kafai and Peppler make links to areas of professional competencies arguing that technical, creative and critical practices of working with new media. The widening of scope beyond purely technical practices of coding and information technology practices. -->
-
-
 
 #### Games to study other subjects
 
