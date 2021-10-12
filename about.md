@@ -12,3 +12,5 @@ date: 2021-03-26
 ## About this writing site
 
 A place for my PhD writing - and related blog posts.
+
+For help on Writing using github / gitlab please see my upcoming video tutorials. 
