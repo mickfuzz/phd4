@@ -75,9 +75,7 @@ PERHAPS CHANGE THIS TO MOST SIGNIFICANT FEATURES -
 
 <!-- Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making. -->
 
-In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). What follows is a brief summary of some of the key areas of potential for learners.
-
- <!-- The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned with school curriculums. The kind of socially oriented skills needed to complete projects take place in design activities are often described in educational circle as 21st Century Skills. Cultural dimensions covers the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience and tactics overcome exclusion from cultures of gaming and computing. -->
+In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned with school curriculums. The kind of socially oriented skills needed to complete projects take place in design activities are often described in educational circle as 21st Century Skills. Cultural dimensions covers the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience and tactics overcome exclusion from cultures of gaming and computing.
 
 <!-- Personal dimensions include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
 
@@ -98,20 +96,22 @@ this list is now outdated - but is a list needed - just get on with it
 
  experience of Games in the Family home as what is know as a fund of knowledge, the potential to build social and 21st century skills, inclusive and motivating approaches via authentic projects. -->
 
-**Coding and Computing Practices**
+### PERSONAL -
+
+#### Coding and Computing Practices
 
 The main learning objective of making games in educational setting is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many game making tools involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
-<!-- Design patterns are an important factor in learning to code in a professional community.
+Design patterns are an important factor in learning to code in a professional community.
 The use of games to explore computational patterns is explored as a case study in another chapter.
 In their analysis of computational thinking in relation to game making, Werner and colleagues [-@denner_using_2014] examined design patterns and game mechanics as well as more straight forward coding constructs.
 
-Game mechanics are also a key part of considering and understanding games as systems a topic which is explored in the next section. -->
+Game mechanics are also a key part of considering and understanding games as systems a topic which is explored in the next section.
 
 <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 -->
 <!-- OR INCLUDE IT HERE? -->
 
-**Games to explore systems and systems thinking**
+#### Games to explore systems
 
 Katie Salen-Tekinbas is an academic specialising in game studies. She was also a lead in the design of software called Game Star Mechanic and a New York high school - Quest to Learn - which incorporates game design into it's curriculum and who's guiding educational principle is game-based learning. https://www.q2l.org/about/
 
@@ -119,30 +119,39 @@ Katie Salen-Tekinbas is an academic specialising in game studies. She was also a
 
 <!-- Kafai and Burke explore these dimensions in their review of research. Kafai and Peppler make links to areas of professional competencies arguing that technical, creative and critical practices of working with new media. The widening of scope beyond purely technical practices of coding and information technology practices. -->
 
-**Games to study other subjects**
+#### Games to study other subjects
 
 There are extensive studies on game making to learn other subjects which are covered in the review. A key one carried out the Kafai one of the authors. Cross-curricular projects are a potential way to overcome limits in time devoted to computing. Many teachers will attest that to truly understand a subject you can should try to teach it. Tasking students with making games that teach a key piece of the curriculum is one way of encouraging deepen understanding of subject matter.
 
 
-**Developing Social and 21st Century Skills**
+### SOCIAL - Developing Social and 21st Century Skills
 
-In the previous section we looked at knowledge or curriculum based subjects. In this section we cover more social or so-called soft skills that game making has the potential to develop in students. Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
+In the previous section we looked at knowledge or curriculum based subjects. In this section we cover more social or so-called soft skills that game making has the potential to develop in students.
 
-These potential benefits align closely with a concept Called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment.  
+<!-- LINK BETWEEN AGENDA OF 21c SKILLS AND PROJECTS AS A WAY TO DEVELOP THEM -->
 
-Studies show the potential of making games to create a collaborative classroom community [@baytak_case_2010]. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback. More research is needed as may studies focused on observations of collaborative skills in passing rather than the core element. For the broader perspective the potential to develop such skills is exciting, however even from a narrow perspective of delivering the computing curriculum, collaboration can be used not as the end goal but a useful educational approach in itself.
-HOW SO?
+Game making is inherently project-based making so we can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised.
 
+<!-- The following is ambitious and a bit clunky - what to do with it?  -->
 
-<!-- 21st Century skills and potential benefits.
-https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14674/EIR_I023-I024_21st_Century_Skills_FINAL.pdf?sequence=467 -->
+These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
+
+What is notable about the these potential benefits is how closely they align with a concept which has been circulating for some time but which
+
+21st Century skills as potential benefits.
+https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14674/EIR_I023-I024_21st_Century_Skills_FINAL.pdf?sequence=467
 
 <!-- Not sure what this adds
 perhaps rethink this and start with context of 21st C skills
 then clear, consise examples from review
 -->
 
+The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
 
+Studies [@baytak_case_2010] including my own show the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
+
+More research is needed as may studies focused on observations of collaborative skills in passing rather than the core element. For the broader perspective the potential to develop such skills is exciting, however even from a narrow perspective of delivering the computing curriculum, collaboration can be used not as the end goal but a useful educational approach in itself.
+HOW SO?
 
 <!-- In a previous chapter I examined the use of design frameworks to help create computing projects. One of the stages of the framework way sharing creations as a way to progressively improving designs. This incentive to revisit and revise work is valuable as a way to reinforce concepts and practices.
 
@@ -156,26 +165,24 @@ The social nature of game making can be activated in other ways. In a later sect
  But which had this as a core focus of the research. The exception being peer programming and reviewing each others games.
 -->
 
-<!-- ### CULTURAL
+### CULTURAL
 
-The distinction between social and cultural element is a bit fuzzy. Making games can be used as a way to explore complex cultural and social issues. In Kafai's review of cultural dimensions focused primarily to explore elements of inclusion and potential cultural barriers to gaming. It also detailed methods and case studies that used cultural considerations to include participants in game making activities. -->
+The distinction between social and cultural element is a bit fuzzy. Making games can be used as a way to explore complex cultural and social issues. In Kafai's review of cultural dimensions focused primarily to explore elements of inclusion and potential cultural barriers to gaming. It also detailed methods and case studies that used cultural considerations to include participants in game making activities.
 
-**Games as a vehicle for exploring a complex cultural worlds**
+#### CULTURAL - Games as a vehicle for exploring a complex cultural worlds
 
 - Games for change - systemic
 - a good vehicle for need for cultural exploration - race, sex, social issues - already talked about systems in less cultural ways
 - Games a vehicle for other subjects - like other media projects too (in personal learning?)
 
-**Games and Inclusion**
+#### CULTURAL -Inclusion
 
 Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
-
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
 We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION
 
-However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. There is still reasons to be cautious. 
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
 GENDER - STILL AN ISSUE EVEN THOUGH SITUATION IN TERMS OF NUMBERS PLAYING HAS CHANGED - STILL POTENTIALLY A HANG OVER IN TERMS OF "NOT MY THING FEELING"-RECOMMENDATION TO BE SENSITIVE TO GENDER ISSUES AND PERCEPTION
 

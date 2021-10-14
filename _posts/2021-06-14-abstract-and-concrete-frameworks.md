@@ -89,7 +89,7 @@ One emerging principle of inclusive pedagogy is to move away from a view that mo
 
 <!-- Make the above paragraph clearer - perhaps find citation -->
 
-These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. How UDL can be applied in a computing context is covered in the final section of this chapter. However, many of the principles of the UDL framework will be be ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas.
+These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. How UDL can be applied in a computing context is covered in the final section of this chapter. However, many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas.
 
 <!-- (Good citation or example needed?)
 - first part of inclusion is here
