@@ -160,16 +160,18 @@ However, the research surrounding differences in participation and attitudes to 
 
 ## An Overview of some Game Coding Tools
 
-In my writing in this book I have tried to focus on some non-technical teaching and learning approaches in computing. This is partly to counteract a tendency I have noticed to sometimes focus on new tools, technologies and toys in the world of computing without looking at the underlying learning potential. This can sometimes be unhelpful, especially in the case of kit based learning experiences where everything you need to build a project comes in a box with step-by-step instructions. In this section I will share some of the characteristics of game making tools which hopefully avoid this trap of being too limited in scope. Some game making tools for beginners use a GUI to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
+In this section I outline the key features of selected game making tools. Some game making tools for beginners use a GUI to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
 
 ### Pygame - a python based library for 2D Games
 
 **Pygame** is an add on (code library) for Python that makes game making a bit easier. Python is a good choice for a class that has had experience of coding in that language of for teachers that want to encourage fluency in this language. There are good resources aimed at beginner coders available too. There are some interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation. https://www.raspberrypi.org/blog/tag/pygame/
 There are also good tutorials available on the home page of the project - https://www.pygame.org/wiki/resources
 
-Where is less strong is the ease of setting up your code and game environment. It can be tricky to get started compared to some of the other tools here. There is also less of an active community of
+Where is less strong is the ease of setting up your code and game environment. It can be tricky to get started compared to some of the other tools here. There is also less of an active community of game makers sharing their games online.
 
-<!-- can you code online?  -->
+Normally you would set up a python environment on your desktop, however you can use replit.com or a premium subscription to the educational online code playground trinket - you can code pygames online - https://trinket.io/features/pygame
+https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
+
 
 ### Scratch - a familiar and flexible tool
 
@@ -179,38 +181,48 @@ Where Scratch does stand out is the community element of the website where learn
 
 ### Phaser.js in a Code Playground - an authentic web game making framework
 
-**Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the testbed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
+**Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
 
 ![phaser simple game to edit](./Pictures/phaser_simple.png)
 ![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
 _Screenshot of Phaser in Glitch.com playground with code and game side by side_
 
-The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckly Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
+The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
 
 <!-- - simplicity of tools with future potential - low floor high ceiling wide walls
 - tensions around starting code from scratch or from a template -->
 
 ### P5.play - an arts inspired coding environment
 
-**P5.play** is a an add on to the p5.js javascript framework. P5 is a fun javascript library that is quick to learn and get creative results. Sample projects often involve moving interactive, coloured shapes around and generating patterns. P5 project has become popular not only with artists and designers but increasingly with educators. This is partly due to the ability to use it in code playgrounds with all of the advantages previously discussed in the section Phaser and Glitch. While P5.play is limited to 2D games, it add some useful design patterns like animation support, basic collision detection and help for mouse and keyboard interactions.
+**P5.play** is a an add on to the p5.js javascript framework. P5 is a fun javascript library that is quick to learn and get creative results. Sample projects often involve moving interactive, coloured shapes around and generating patterns. P5 project has become popular not only with artists and designers but increasingly with educators. This is partly due to the ability to use it in code playgrounds with all of the advantages previously discussed in the section Phaser and Glitch.
+
+While the P5.play project is limited to 2D games, it add some useful design patterns like animation support, basic collision detection and help for mouse and keyboard interactions and has some great accessible tutorials. https://molleindustria.github.io/p5.play/
+
 
 ### MakeCode Arcade - specialised block based programming
 
 **MakeCode Arcade** is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.  
 
+Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
+
+
 ![MakeCode](./Pictures/makecode.png)
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 _Screenshot of MakeCode Arcade with code and game side by side_
 
+There some fantastic example games and tutorials at
+https://arcade.makecode.com/
 
 
 ### Tensions around Game Making Tools
 
-One way of exploring what works and what doesn't in a community of learners is to look at tensions that emerge in the learning process. This section explores tensions in my learning design related to use of different game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
+This section explores tensions in my experience of using different game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
+
+I have used scratch, phaser and MakeCode Arcade.
 
 The use of phaser for my first attempts was interesting as the process involved a new tool set for me. We used a combination of a code playground, js framework, external tools to create art Piskel and another web based tool to create audio sound effects. This created a large amount of choice and a very rich learning landscape.
 
-There were benefits in that the process of moving assets from one online space, onto the hard drive as a file and then uploading to the code playground was a chllenging but achievable task which really built digital literacy skills.
+There were benefits in that the process of moving assets from one online space, onto the hard drive as a file and then uploading to the code playground was a challenging but achievable task which really built digital literacy skills.
 
 However it was so complex and diverse that group understanding of what was happening was negatively impacted. At times, there was peer learning - at time not as they were using different tools.
 
