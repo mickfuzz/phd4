@@ -216,20 +216,27 @@ https://arcade.makecode.com/
 
 ### Tensions around Game Making Tools
 
-This section explores tensions in my experience of using different game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
+This section explores tensions that have emerged for myself and learners when  using game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
 
-I have used scratch, phaser and MakeCode Arcade.
+**Asset Creation vs Hands-on Coding**
 
-The use of phaser for my first attempts was interesting as the process involved a new tool set for me. We used a combination of a code playground, js framework, external tools to create art Piskel and another web based tool to create audio sound effects. This created a large amount of choice and a very rich learning landscape.
+With both Scratch and Phaser/Glitch there was a clear tension between time spent creating graphical and sounds assets verses time working on code related to game play and mechanics. Scratch has extensive built in tools to create graphics and sound. With Phaser, in addition to the code playground we used a separate web tool to create art called Piskel and others to create sound effects. Both allow a large amount of choice and a very rich creative landscape. At times it felt students were stuck in asset creation.
 
-There were benefits in that the process of moving assets from one online space, onto the hard drive as a file and then uploading to the code playground was a challenging but achievable task which really built digital literacy skills.
+When using the code playground, the process downloading assets files from one online space and then re-uploading to the code playground served well to build digital literacy skills. However the diversity of activities at times reduced group communication and peer learning surrounding the hands on coding and experimentation with game mechanics.
 
-However it was so complex and diverse that group understanding of what was happening was negatively impacted. At times, there was peer learning - at time not as they were using different tools.
+The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. To This is one way to resolve the issue of the complexity of asset creation.
 
-It was very authentic, a factor which is judged to be good for motivational factors, However my initial idea of participants participating in and gaining from being part of a community of professional and hobbyist javascript game makers did not seem realistic for this project.
+**Tensions related to Community and Choice**
 
-I did resolve this issue of tool complexity by using the new MakeCode Arcade tool. Like scratch this is self contained in asset creation. Unlike Scratch it is very limited in terms of what can be created.
+Phaser is a framework used by professional web game creators. Using this authentic tool was potentially motivating. The online forums are supportive. However, it may not be realistic for young learners to be part of a community of professional game makers. In contrast, research on the value of scratch community to seed ideas, provide inspiration and direct peer support is convincing. The ability for students to choose from different kinds of games that appeal to them, to remix projects and to reuse community assets increases the personal connection students feel to their creations.  
 
+However, much of this research as been from self-directed home learners who are able to dedicate a lot of their free time unlike classroom learners. Time factors may impact your choice of tool and how much you encourage your students to engage with a wider community.
+
+How much choice over you give students about type of game they create and how they design it is also an important learning design factor. You may prioritise engagement over peer learning over specific targets. Alternatively you may wish to maximise the time your students spend on certain learning outcomes, e.g. coding and system design. To do this you it may be effective to then creating your own resources which
+
+If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
+
+There is still the ability for students to make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
 
 **Focus on tools and inclusion**
 
