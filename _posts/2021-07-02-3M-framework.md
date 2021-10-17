@@ -62,7 +62,7 @@ In 2017 the After the Reboot report examined changes in the area of computing ed
 <!-- ADD IN MORE DETAILS FROM REPORT AND OTHER SOURCES
 HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
-The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level.
+The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
 
 <!-- While the focus of this research was to support the delivery of the computing curriculum in schools, it is worth mentioning that there is a rich stream of computing projects and associated research that happen outside of the classroom. In a previous chapter I outlined the advantages and challenge of bringing a project-based approach into the classroom.  -->
 
@@ -76,49 +76,15 @@ The After the Reboot report also had concerning observations. The report found t
 
 In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). What follows is a summary of some of the key areas of potential for learners.
 
- <!-- The review is divided into personal, social and cultural dimensions. The personal dimensions are those most closely aligned with school curriculums. The kind of socially oriented skills needed to complete projects take place in design activities are often described in educational circle as 21st Century Skills. Cultural dimensions covers the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience and tactics overcome exclusion from cultures of gaming and computing. -->
-
-<!-- Personal dimensions include developing coding and computational thinking, to help learn content from other subject areas and to promote meta-cognition (students learning about their own learning).
-
-Beyond this personal dimension of learning, the review also studied the characteristics and benefits of social and cultural elements of game making. It is significant that social and cultural dimensions are included. The learning activities that happen in these dimensions may not be directly concerned with curriculum knowledge but are seen as vital in a socio-cultural understanding where learning takes place and is driven by participation in a community. The kind of socially oriented skills needed to complete projects take place in design activities are often described in educational circle as 21st Century Skills.  -->
-
-<!-- (perhaps mention 21st C skills? - and something about communities of game makers ) -->
-<!-- The value of communities and culture in computing projects are covered in another chapter in this book. This chapter explores them in more detail using game making as an example -->
-
-<!-- In the review the section on cultural dimensions covers not only the potential to develop cultural participation or to leverage cultural understandings for positive gain in the learning experience, but also some of the significant challenges to overcoming exclusion from cultures of gaming and computing. It pays particular attention to issues of gender and race.   -->
-<!-- This is perhaps not needed if into to that section below? -->
-
-<!-- Move the examples below into the relevant section - or include them as a summary to keep the inclusion focus?  -->
-
-<!-- The following section examines the particular potential of game making in the following areas by drawing on relevant areas of educational research; -->
-
-<!--
-this list is now outdated - but is a list needed - just get on with it
-
- experience of Games in the Family home as what is know as a fund of knowledge, the potential to build social and 21st century skills, inclusive and motivating approaches via authentic projects. -->
 
 **Coding and Computing Practices**
 
 The main learning objective of making games in educational setting is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many game making tools involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
-<!-- Design patterns are an important factor in learning to code in a professional community.
-The use of games to explore computational patterns is explored as a case study in another chapter.
-In their analysis of computational thinking in relation to game making, Werner and colleagues [-@denner_using_2014] examined design patterns and game mechanics as well as more straight forward coding constructs.
+Design patterns are an important factor in learning to code in a professional community. The use of games to explore computational patterns is explored as a case study in another chapter. In their analysis of computational thinking in relation to game making, Werner and colleagues [-@denner_using_2014] examined design patterns and game mechanics as well as more straight forward coding constructs.
+The researchers suggest that the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach.
 
-Game mechanics are also a key part of considering and understanding games as systems a topic which is explored in the next section. -->
-
-<!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 -->
-<!-- OR INCLUDE IT HERE? -->
-
-**Games to explore systems and systems thinking**
-
-Katie Salen-Tekinbas is an academic specialising in game studies. She was also a lead in the design of software called Game Star Mechanic and a New York high school - Quest to Learn - which incorporates game design into it's curriculum and who's guiding educational principle is game-based learning. https://www.q2l.org/about/
-
-_Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
-
-<!-- A cultural-social approach to education values the importance of mediation, cultural artefacts, and the joint emergence of new tools and practices. The kind of research to study a coding work environment, communities of practice, and communities of learners has advantages as it allows; -->
-
-<!-- Kafai and Burke explore these dimensions in their review of research. Kafai and Peppler make links to areas of professional competencies arguing that technical, creative and critical practices of working with new media. The widening of scope beyond purely technical practices of coding and information technology practices. -->
+ <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 --> -->
 
 **Games to study other subjects**
 
@@ -127,51 +93,42 @@ There are extensive studies on game making to learn other subjects which are cov
 
 **Developing Social and 21st Century Skills**
 
-WHAT OVERLAP IS THERE WITH OTHER CHAPTERS?
-
 Games are perfect projects. Thus game making suits project-based learning. We can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
-These potential benefits align closely with a concept Called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment.  
+These potential benefits align closely with a concept called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment.  
 
-More tightly focused research on game making and collaboration is needed but the potential to develop such skills is exciting. One Study by Baytak focused on the potential of making games to create a collaborative classroom community [@baytak_case_2010]. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
-ANOTHER EXAMPLE?
+More tightly focused research on game making and collaboration is needed but the potential to develop such skills is exciting. One Study by Baytak [-@baytak_case_2010] focused on the potential of making games to create a collaborative classroom community . Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
 
 
-<!-- 21st Century skills and potential benefits.
-https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14674/EIR_I023-I024_21st_Century_Skills_FINAL.pdf?sequence=467 -->
+**Authentic projects creating real results**
 
-<!-- Not sure what this adds
-perhaps rethink this and start with context of 21st C skills
-then clear, consise examples from review
--->
+An important concept in both project and inclusive approaches to education is to make projects as authentic as possible to increase learner motivation. For game making this authenticity or realness applies both to the tangible, shareable nature of resulting game created and to the domain of professional game design. When learners are designing with someone else in mind, this guides them to shaping their game design effectively. The process of projecting beyond your own experience to an imagined user is a vital design skill that is potentially well developed by making games. As game making is a huge well known industry, learners understand that the resulting knowledge and skills is not inert but authentic thus and can be applied outside of the classroom.
 
-<!-- In a previous chapter I examined the use of design frameworks to help create computing projects. One of the stages of the framework way sharing creations as a way to progressively improving designs. This incentive to revisit and revise work is valuable as a way to reinforce concepts and practices.
+The Buck Institute offer help in increasing authenticity in project-based education based around the following guidance; projects should meet a real need, be relevant to student experience, should be realistic even if using a fictitious scenario and involve processes and tools used by adults. http://tiny.cc/authenticity
 
-The social nature of game making can be activated in other ways. In a later section I propose that there are different kinds of game makers which you may be able to motivate in different ways.
+<!-- https://www.pblworks.org/blog/four-ways-think-about-authenticity-through-lens-gold-standard-pbl-videos -->
+<!-- more on authenticity if not covered in previous chapter
+https://www.edutopia.org/blog/authentic-project-based-learning-john-larmer
  -->
-<!-- move later -->
-<!-- The creation of a game that a peer group will play is a strong motivational factor both within the larger scale of a project but also within the scope of a single lesson. Ending with peer playing and review of games can concentrate minds to get the evolving games to in a playable state.
- -->
-<!-- Include details of reviews or not?
+<!-- Perhaps move this tension later? -->
 
- But which had this as a core focus of the research. The exception being peer programming and reviewing each others games.
--->
+Young people may not be able to create a technically commercial advanced game but other audiences exist. For example, so-called Indy Games or Games for Change are made by enthusiasts and often released at low cost or for free on the internet. They often appeal to a retro game aesthetic and are thus easier and quicker to make. Highlighting this movement can reduce student dissatisfaction at not being able to code something like a 3D racing or shooting game.
 
-<!-- ### CULTURAL
+As another way to increase authenticity schools sometimes enter online game making competitions or wider creative competitions like the Coolest Project. You may be able to add authenticity in a similar way by providing a low pressure competition or another frame for your game making.
 
-The distinction between social and cultural element is a bit fuzzy. Making games can be used as a way to explore complex cultural and social issues. In Kafai's review of cultural dimensions focused primarily to explore elements of inclusion and potential cultural barriers to gaming. It also detailed methods and case studies that used cultural considerations to include participants in game making activities. -->
+**Games to explore systems and systems thinking**
 
+One of the more specialist 21st Century Skills is systems thinking. As the economic and environmental systems around us become more complex, it is vital that we teach young people how to analyse and alter them. Games are in essence rule-based systems. Katie Salen-Tekinbas is an academic specialising in game studies. She was also a lead in the design of software called Game Star Mechanic and a New York high school - Quest to Learn - which incorporates game design into it's curriculum and whose guiding educational principle is game-based learning. https://www.q2l.org/about/
 
-**Games and Inclusion**
+_Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues. The Game for Change network has a main audience of commercial game makers however they also run a game making challenge for young people and support for teachers.   
 
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+One of the recommended strategies is a Game Jam which focuses on real life issues.
 
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
+Resources from the Games for Change network and from the Institute of Play which are aimed at supporting systems thinking through game making SEE THE FOLLOWING LINK - https://gamesforchange.org/studentchallenge/student-resources/
+https://gamesforchange.org/studentchallenge/teachers-resources/
+https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
+https://clalliance.org/institute-of-play/
 
-<!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
-ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
-
-However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing".
 
 **Family Game Experience as an inclusive Fund of Knowledge**
 
@@ -187,47 +144,17 @@ More research is needed on ways to draw out attitudes and knowledge of game cult
 
 It can be seen then that even if student don't consider video game _playing_ to be their thing, that there are other ways for them to bring their interests into game making.
 
-<!-- The concept of funds of knowledge is draw on by Gutiérrez [-@gutierrez_syncretic_2011] when ex ploring the values of _third spaces_ - which are neither home spaces, nor a traditional classroom. This kind of third space is perfect to create new kinds of working relationships between students. Teachers act as facilitators to draw . -->
+**Games and Inclusion**
 
-<!-- There is a related stream of UK based research by Sonia Livingstone that examines family cultures and the role of digital media including video games which echoes some of the findings of the NLT that playing video games and conversations about video games can bring families together.   -->
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
-<!-- Thus this process is this useful not only for an inclusive approach it is also good for navigating computing projects too. -->
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
-<!-- move to 3M Design patters are a recognisable fund of known -->
+<!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
+ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
 
-<!-- The concepts of a third space normally happens outside of the school environment, thus the challenge exists how to create such a third space within the classroom. Suggestions now, and the methods part of the 3M framework (drama process). -->
+However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing".
 
-<!-- Any up to date literature on participation in game cultures? -->
-
-<!-- The concept of funds on knowledge or Discourses was explored and promoted by Gee in the well respected book What Video Games have to Teach us about Learning and Literacy. The perspective there was on DIY and home communities and the potential for X -->
-
-<!-- Move this to Missions?
-My study began with Home Educators both parents and children asking us to help them to make the most of the kids interest in MineCraft and similar creative computer games. How could skills like coding and other skills be learned while young people were making something that appealed to them? -->
-
-<!-- Include only if relevant to inclusion -->
-
-
-**Authentic projects creating real results**
-
-<!-- For these sections - lead the sections to benefits / skills in particular -  characteristics follow -  -->
-
-An important concept in both project and inclusive approaches to education is to make projects as authentic as possible to increase learner motivation. For game making this authenticity or realness applies not only to the tangible, shareable nature of resulting game created but also a link to the real world of game design.
-
-On an immediate level the desire to create a good game for peers as a source of pride and kudos is a good reason to share created games in the class and potentially publicly.
-
-When learners are designing with someone else in mind, this guides them to shaping their game design effectively. The process of projecting beyond your own experience to an imagined user is a vital design skill that is potentially well developed by making games.
-
-As game making is a huge well known industry, learners understand that the resulting knowledge and skills is not inert but authentic thus and can be applied outside of the classroom.
-
-<!-- Perhaps move to a later section -->
-According to BiE authenticity in project-based education comes in different grades. They offer advice on making PBL work seem real-er to students. https://www.pblworks.org/blog/four-ways-think-about-authenticity-through-lens-gold-standard-pbl-videos
-<!-- more on authenticity if not covered in previous chapter
-https://www.edutopia.org/blog/authentic-project-based-learning-john-larmer
- -->
-<!-- Perhaps move this tension later? -->
-
-It may not be possible to create a technically commercial advanced game but other audiences exist. For example, so-called Indy Games are made by enthusiasts and often released at low cost or for free on the internet. They often appeal to a retro game aesthetic and are thus easier and quicker to make. Highlighting this movement can reduce student dissatisfaction at not being able to code something like a 3D racing game immediately.
-As another way to increase authenticity schools sometimes enter online game making competitions or wider creative competitions like the Coolest Project. You may be able to add authenticity in a similar way by providing a frame for your game making.
 
 
 
