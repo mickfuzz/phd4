@@ -238,12 +238,13 @@ If students are working on similar projects. This may also have the effect of in
 
 There is still the ability for students to make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
 
-**Focus on tools and inclusion**
+**Tensions around Inclusion**
 
 There is a tension balancing simplicity of game making Tools and the flexibility of the product created.
 
 As computing teachers it is likely that one of our core aims will be building familiarity and fluency of use of code constructs.
 
+The limits of complexity can be an asset. 
 
 ### About the 3M Game Making Model
 
