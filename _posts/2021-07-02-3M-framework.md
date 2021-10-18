@@ -146,9 +146,9 @@ It can be seen then that even if student don't consider video game _playing_ to 
 
 **Games and Inclusion**
 
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion consider aspects beyond issues of disability. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This shows that while there is a disparity of genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Thus even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
@@ -238,13 +238,13 @@ If students are working on similar projects. This may also have the effect of in
 
 There is still the ability for students to make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
 
-**Tensions around Inclusion**
+**Tensions around Scope of Projects**
 
-There is a tension balancing simplicity of game making Tools and the flexibility of the product created.
+Tools like MakeCode Arcade intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs.
 
-As computing teachers it is likely that one of our core aims will be building familiarity and fluency of use of code constructs.
+Some hobbyist or professional game making tools like GameMaker Studio, Construct or Unity abstract away the hands-on coding of games with graphical interfaces and include structures to help organise game design as it becomes more complex. The scope of choices may be overwhelming. Also, while code can often be accessed behind these menus, the focus is on getting the game done rather than on learning how to code per se.
 
-The limits of complexity can be an asset. 
+Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created.
 
 ### About the 3M Game Making Model
 
@@ -256,13 +256,13 @@ In the last section we look out one learning design and how that aimed to overco
 
 <!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
 
-While the potential benefits of game making are striking many challenges exist. Later in the final section of this chapter I explore some tensions and limitations more generally. In this section I look at a design that aims to address key challenges and tensions. The 3M game making model - (made up of Missions, Maps and Methods) - that I now share with you is the result of a trial and error process evolved over several years working with families to make games together. I have also tested it out in a local Primary school.
+In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
 
-While I hope this summary of the tools is useful the following sections are to do with a learning design that can be applied using any of the tools above. In truth The evolution of the process has been both trial and error and collaborative from working with families, to volunteers from PGCE computing course. It has happened at the same time as my own research on design and project approaches.
+The 3M process has evolved with the aim that it is accessible and inclusive for parents, teachers and young learners. Part of that accessibility is a playful, game-like approach to it. The model incorporates the game techniques of missions, maps and playful methods to help with the engagement, immersion and learner navigation.
 
-The 3M process has evolved with the aim that it is accessible to parents, teachers and learners. Part of that accessibility is the playful, game like approach to it. I was inspired by a session by one of my PhD supervisors Nicola Whitton who created a game to help people learn about game concepts. In a similar way this game making model involves game techniques of missions, maps and playful methods to help with the engagement, immersion and navigation of our game making learners. My design focuses on making games to learning the craft of coding, to build meta-cognitive skills (especially goal setting and reflection) and to explore some systems concepts. You may have other goals which you need to steer your learners towards. FOR EXAMPLE?
+You may have particular curriculum or other learning goals. This iteration of the 3M design focuses on making games to learning the craft of coding, to build meta-cognitive skills (goal setting and reflection) and systems concepts. It could be adapted to highlight other key learning goals.
 
-In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs.
+<!-- In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs. -->
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
 
 #### 3M Model in a nutshell
