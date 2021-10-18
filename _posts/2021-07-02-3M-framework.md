@@ -284,7 +284,9 @@ This choice leads to a tension in design; given this templated starting point, h
 
 <!-- Should I make this above bit into a story - learners getting stuck - an evolution -->
 
-To help resolve this tension we can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds for example player accept that they don't have choice over their starting point.
+How then to resolve this tension best I asked myself?
+
+We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds for example player accept that they don't have choice over their starting point.
 
 Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding.
 
