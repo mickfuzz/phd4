@@ -271,7 +271,7 @@ Many open world games have a concept of a main mission and then optional side mi
 
 **Main Mission - Fix a Half-Baked game**
 
-Learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.
+In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.  
 
 Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
 
