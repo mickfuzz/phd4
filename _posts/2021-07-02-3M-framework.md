@@ -271,30 +271,26 @@ Many open world games have a concept of a main mission and then optional side mi
 
 **Main Mission - Fix a Half-Baked game**
 
-In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.  
-
-Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
-
-This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others.
-
-Rather than remixing from an existing community of games however I wanted to try another approach - that of using a Half Baked game. A concept was introduced to the field by Kynigos who describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it.
+In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.
 
 <!-- The main mission supported by a narrative device of Aliens coming to earth to judge our games.  -->
 
-Due to the challenging nature of coding a game from first principles, I have adopted a common approach of starting with a templated game to remix. This choice leads to a tension in design; given this templated starting point, how much freedom of choice do learners have over the game they create. A tension being, if you provide too much choice then you may struggle to support learners as they get stuck with a huge variety of diverse problems.
+The concept of a Half Baked game was introduced to the field by Kynigos who describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it.
+This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others. Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model in another chapter.
+
+However, a half baked approach is different from remixing of complete games. The incompleteness allows learners to start from the same starting point but to develop the game in their own direction, driven by their own choices.
+
+This choice leads to a tension in design; given this templated starting point, how much freedom of choice do learners have over the game they create. A tension being, if you provide too much choice then you may struggle to support learners as they get stuck with a huge variety of diverse problems.
 
 <!-- Should I make this above bit into a story - learners getting stuck - an evolution -->
 
 To help resolve this tension we can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds for example player accept that they don't have choice over their starting point.
 
-
 Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding.
 
 The framework provided the following advantages, a working example of code syntax, and a structure of variables and functions already working together. For participants, the combination of altering key properties and then cutting an pasting additional code on to it, built code familiarity. After a few weeks we played a matching game which helped to analyse the template code line by line.
 
-One participant wrote "that was a great moment - when after struggling to add text on to the code, after several sessions, we looked again and we realised how much we had actually picked up that process".
-
-Adding onto the template had helped the participant to read and understand code.
+One participant wrote "that was a great moment - when after struggling to add text on to the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
 
 **Design Patterns as Missions to Support Learner Choice**
 
