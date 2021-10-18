@@ -256,26 +256,22 @@ In the last section we look out one learning design and how that aimed to overco
 
 In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
 
-The 3M process has evolved with the aim that it is accessible and inclusive for parents, teachers and young learners. Part of that accessibility is a playful, game-like approach to it. The model incorporates the game techniques of missions, maps and playful methods to help with the engagement, immersion and learner navigation.
+The 3M process has evolved with the aim that it is accessible and inclusive for parents, teachers and young learners. Part of that accessibility is a playful, game-like approach to it. In a nutshell, learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
-You may have particular curriculum or other learning goals. This iteration of the 3M design focuses on making games to learning the craft of coding, to build meta-cognitive skills (goal setting and reflection) and systems concepts. It could be adapted to highlight other key learning goals.
+
+<!-- You may have particular curriculum or other learning goals. This iteration of the 3M design focuses on making games to learning the craft of coding, to build meta-cognitive skills (goal setting and reflection) and systems concepts. It could be adapted to highlight other key learning goals. -->
+
 
 <!-- In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs. -->
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
 
-#### 3M Model in a nutshell
-
-Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
-
 ### Missions (using Game Patterns and secret side-missions)
 
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience.
-
-The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection.
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection.
 
 **Main Mission - Fix a Half-Baked game**
 
-One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way.
+Learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.
 
 Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
 
