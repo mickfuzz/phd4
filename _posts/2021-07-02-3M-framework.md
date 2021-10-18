@@ -238,7 +238,7 @@ If students are working on similar projects. This may also have the effect of in
 
 There is still the ability for students to make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
 
-**Tensions around Scope of Projects**
+**Tensions around Technical Scope of Projects**
 
 Tools like MakeCode Arcade intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs.
 
@@ -414,41 +414,30 @@ Other Methods
     Coding Concepts via step by step tutorials - moved (MEETING IN THE MIDDLE )
     Supporting Debugging -->
 
-#### Fun and Physical Ways linked to Game Making
+**Playful Starter Games and physical activities** - You may love or hate the kind of warm-up games that are common in drama circles. Either way they are good ways to help focus learner's attention and get them ready for new experiences. Making games lends itself well to creating a fun and welcoming classroom environment with links to the learning happening later in the session. In a family learning setting I was able to make the most of this by playing physical warm up games, playing video games on arrival leading to then analysing what made them challenging.
 
-THIS SECTION NEEDS TO BE CLEARER - IS IT ABOUT PHYSICAL TANGIBLE APPROACHES OR NOT? OR DRAMA GAMES / STARTERS? SEPARATE?
+Most computing teachers will be familiar with some of the positive impacts of Unplugged activities.
+
+**Physical Computing and Game Making**
 
 The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners. Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
 
 While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational. For more information on the value of physical computing to increase inclusion you can read this article (RUSK?)
 
-#### Using a Drama Framework / Processes
+**Drama Framework** One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits.
 
-**Drama Starter Games and physical activities** - You may love or hate the kind of warm-up games that are common in drama circles. Either way they are good ways to help focus learner's attention and get them ready for new experiences. Making games lends itself well to creating a fun and welcoming classroom environment with links to the learning happening later in the session. In a family learning setting I was able to make the most of this by playing physical warm up games, playing video games on arrival leading to then analysing what made them challenging.
+I have worked with practitioners of Drama Education department at Manchester Met to work on a several process dramas with families, students and staff. But you don't have to be a trained drama practitioner draw on key techniques to increase learner engagement. I asked trainee teachers to devise a scenario to support a series of sessions. In brief, we used a fiction of making games for a alien race coming to destroy the earth. This helped us;
 
-Most computing teachers will be familiar with some of the positive impacts of Unplugged activities.
-
-**Drama Framework** - One of the methods I have used to increase learner and parent engagement is the.
- used the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project.
-
-There are well researched benefits which allow the rapid construction of a community of learners, which while less authentic than a professional community, can still provide some of the benefits.
-
-I was lucky to be able to work with practitioners of Drama Education department at Manchester Met to work on a several process dramas with families, students and staff.
-
-You don't have to be a drama practitioner to introduce such a fictional  scenario but there are some interesting techniques that we can draw on to make this process more engaging for learners.
-
-For example, one which I asked trainee teachers to devise also worked well. Without the space to go into too much detail here are some of the benefits of using a fictional frame using the example of the fiction of making games for a alien race coming to destroy the earth.  
-
-- We were able to explore issues of gaming cultures, and hostility to them from a naive alien view point.
-- We asking learners to step into a role. "As game designers, we will do Y"
-- Drama creates a jeopardy and a commitment to the process
-- I used the fictional audience as a way to encourage reflection in learners, at the end of each session they shared their games with the alien audience and talked through their design decisions and challenges.
-
+- explore issues of gaming cultures, and hostility to them from a naive alien view point
+- asking learners to step into a role. "As game designers, we will do Y"
+- create a sense of 'jeopardy' increasing their commitment to the process
+- encourage reflection in learners - as they shared their games with the alien audience, they talked through their design decisions and challenges.
 
 ## Challenges - and how they may link to a classroom setting
-THIS SECTION MAY NEED TO BE INCORPORATED IN THE PREVIOUS ONE - OR BE MUCH CLEARER HOW IT IS SEPARATE.
 
-This sections acknowledges the complexity and diversity of classroom situations and the challenges of project-based game making within the constraints of the curriculum.
+MOVE SOME TO THE TENSIONS MIDDLE SECTION - AS THEN IT IS RESOLVED
+MOVE OTHERS TO THE CONCLUSION
+
 
 <!-- As such this section uses data drawn from the wider research -- I also cross reference this with my own observations from my game making studies. -->
 <!--
@@ -479,13 +468,11 @@ In all the programs I ran only one parent and one student had experience of codi
 At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up. However I leave this to you as educators to resolve. And don't forget one last ingredients raw enthusiasm.
 
 
-## Concusion - Over coming challenges and looking to the future
+## Conclusion
 
 <!-- Move some of the above section here
 Upbeat elements -
 Also words of caution
 Acceptance of tensions - hopeful but realistic -->
 
-In this chapter we have looked at game making as one example of the kind of desing and project focused approach explored in other chapters.
-
-It has uncovered particular tensions involved in undertaking this kind of approach in a school setting.
+In this chapter we have looked at game making as one example of the kind of design and project focused approach explored in other chapters. It is important to acknowledges the complexity and diversity of classroom situations and the challenges of project-based game making within the constraints of the curriculum. We have uncovered particular tensions involved in undertaking project-based, educational game making with young people. I hope that the detailed case study of the use of the 3M model to try to resolve some of these tensions may be helpful to adapt game making to your classroom.
