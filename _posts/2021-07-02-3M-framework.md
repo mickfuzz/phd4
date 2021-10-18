@@ -236,8 +236,6 @@ How much choice over you give students about type of game they create and how th
 
 If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
 
-There is still the ability for students to make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
-
 **Tensions around Technical Scope of Projects**
 
 Tools like MakeCode Arcade intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs.
@@ -267,9 +265,19 @@ You may have particular curriculum or other learning goals. This iteration of th
 
 #### 3M Model in a nutshell
 
-Learners start by playing and remixing a broken and incomplete (half baked) game.
+Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
-One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way. Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
+### Missions (using Game Patterns and secret side-missions)
+
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience.
+
+The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection.
+
+**Main Mission - Fix a Half-Baked game**
+
+One of the first design choices that emerged was to start with a common but incomplete template of a 2D platform game which they then adapted to their own designs in an increasingly sophisticated way.
+
+Instinctively I gravitated towards a technique that I would later find to be documented as the Use-Modify-Create model.
 
 This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others.
 
@@ -283,45 +291,42 @@ Due to the challenging nature of coding a game from first principles, I have ado
 
 To help resolve this tension we can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds for example player accept that they don't have choice over their starting point.
 
-### Missions (using Game Patterns and secret side-missions)
 
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience.
+Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding.
 
-#### Design Patterns as Missions
+The framework provided the following advantages, a working example of code syntax, and a structure of variables and functions already working together. For participants, the combination of altering key properties and then cutting an pasting additional code on to it, built code familiarity. After a few weeks we played a matching game which helped to analyse the template code line by line.
+
+One participant wrote "that was a great moment - when after struggling to add text on to the code, after several sessions, we looked again and we realised how much we had actually picked up that process".
+
+Adding onto the template had helped the participant to read and understand code.
+
+**Design Patterns as Missions to Support Learner Choice**
 
 <!-- INSERT IMAGE of incomplete platformer with annotations -->
 
-My Missions existed on different levels. Some linked to game mechanics -some to more systems thinking - some to do with engagement, social learning and reflection.
+Learners started with an incomplete platform game. I asked my family learners what they would like to add to this game. They came up with a list of features that we can describe as game design patterns. By game design patterns here I mean common features that game players would commonly expect from a game. For example moving around the screen, avoiding hazards, collecting coins, jumping on enemies, finding a door or flag to progress to the next level.
 
-In my this design I chose a starting point of an incomplete platform game. I asked my family learners what they would like to add to this game. They came up with a list of features that we can describe as game design patterns. By game design patterns here I mean common features that game players would commonly expect from a game. For example moving around the screen, avoiding hazards, collecting coins, jumping on enemies, finding a door or flag to progress to the next level.
+Game designs patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre.  
 
-Game designs have a solid place in the way that professional coders learn their trade. They are part of the craft approach to coding that we have explored in a previous chapter. The craft in this case involves building a knowledge of patterns that occur
-
-**Supporting Learner Choice**:
-The core of my learning design is the use of game design patterns as a relatable way for student to choose their paths and to structure the support through coding concepts linked to these patterns. You can see how this is in line with some of the concepts of inclusive and project based approaches discussed earlier.
+Supporting learner choice is in line with some of the concepts of inclusive and project based education. The core of my learning design is the use of game design patterns as a relatable way for student to choose their paths and to structure the support through coding concepts linked to these patterns.
 
 ![patterns as missions ](./Pictures/missions_full.png)
 ![patterns as missions ]({{ site.baseurl }}/Pictures/missions_full.png)
 _Diagram of Possible Missions on a Web Page Menu_
 
-I found that result of this approach is a kind of creative chaos. It resolved tensions around groups getting stuck. But provided another tension around how much guidance to give learners in the code examples provided. For my group of novice coders I chose to provide almost complete code help. This was because I was looking to follow the Use Modify and Create pattern. This design helps build familiarity with code and the code environment.
+I found that result of this approach is a kind of creative chaos.
+
+It resolved tensions around groups getting stuck. But provided another tension around how much guidance to give learners in the code examples provided.
+
+For my group of novice coders I chose to provide almost complete code help. This was because I was looking to follow the Use Modify and Create pattern. This design helps build familiarity with code and the code environment.
 
  ![patterns as text](./Pictures/sample_pattern.png)
  ![patterns as text]({{ site.baseurl }}/Pictures/sample_pattern.png)
  _Sample Game Design Pattern_
 
- **Analysing Broken / Half-Baked games**
+ Students can also make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
 
- Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I quickly adopted the use of a template to help them to get to grips with coding
-
- The framework provided the following advantages, a working example of code syntax, and a structure of variables and functions already working together.  The combination of working with it, gaffer taping bits on to it, and then playing a game to analyse the core line by line.
-
- One participant wrote "that was a great moment - when after struggling to add text on to the code, we played the code matching game. We realised how much we had actually picked up that process".
-
- Adding onto the template had helped the participant to read and understand code.
-
-
-#### Game Maker Types and Missions
+**Game Maker Types and Missions**
 
 As digital and online games became more complicated Richard Bartle proposed that players to get different things out of them. He created a test to finds out what kind of game player you are. https://matthewbarr.co.uk/bartle/
 
