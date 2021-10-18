@@ -316,7 +316,7 @@ _Diagram of Possible Missions on a Web Page Menu_
 
 I found that result of this approach is a kind of creative chaos.
 
-It resolved tensions around groups getting stuck. But provided another tension around how much guidance to give learners in the code examples provided.
+It partly resolved tensions around groups getting stuck if they didn't have facilitator support to advance their coding goals. But provided another tension around how much guidance to give learners in the code examples provided.
 
 For my group of novice coders I chose to provide almost complete code help. This was because I was looking to follow the Use Modify and Create pattern. This design helps build familiarity with code and the code environment.
 
