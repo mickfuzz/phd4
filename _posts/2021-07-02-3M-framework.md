@@ -158,7 +158,7 @@ However, the research surrounding differences in participation and attitudes to 
 
 
 
-## An Overview of some Game Coding Tools
+## An Overview of Game Coding Tools
 
 In this section I outline the key features of selected game making tools. Some game making tools for beginners use a GUI to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
 
@@ -278,21 +278,18 @@ In 3M, learners start by playing a familiar but incomplete template of a 2D game
 The concept of a Half Baked game was introduced to the field by Kynigos who describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it.
 This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others. Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model in another chapter.
 
-However, a half baked approach is different from remixing of complete games. The incompleteness allows learners to start from the same starting point but to develop the game in their own direction, driven by their own choices.
+However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from the same starting point but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code bases.
 
-This choice leads to a tension in design; given this templated starting point, how much freedom of choice do learners have over the game they create. A tension being, if you provide too much choice then you may struggle to support learners as they get stuck with a huge variety of diverse problems.
+In early stages, the combination of altering key variables, changing level designs and swapping in assets built code familiarity. After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
+
+However as students still have to add and alter their game, as teachers we must still find a balance between providing too much choice and struggle to support learners as they get stuck with a huge variety of diverse problems and conversely offering not enough choice to be able enthuse learners through their personalisation of the project.
 
 <!-- Should I make this above bit into a story - learners getting stuck - an evolution -->
 
-How then to resolve this tension best I asked myself?
+How then to resolve this tension best? We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have some restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds; for example player accept that they don't have choice over their starting point. The following section outlines the use of a restricted menu of design patterns as a way of help deal with this tension in the 3M model.
 
-We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds for example player accept that they don't have choice over their starting point.
+<!-- Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding. -->
 
-Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding.
-
-The framework provided the following advantages, a working example of code syntax, and a structure of variables and functions already working together. For participants, the combination of altering key properties and then cutting an pasting additional code on to it, built code familiarity. After a few weeks we played a matching game which helped to analyse the template code line by line.
-
-One participant wrote "that was a great moment - when after struggling to add text on to the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
 
 **Design Patterns as Missions to Support Learner Choice**
 
