@@ -183,7 +183,7 @@ Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
 
-#### Design Patterns as an educational tool
+#### Design Patterns as an educational tool -  SHOULD THIS BE REMOVED?
 
 When I retrained in computing at Master level one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to support an object oriented approach. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design. The advantage of design patterns as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
 
@@ -195,7 +195,7 @@ As a way to join and navigate participation in a community of coders. A similar 
 As coders build their understanding of key design patterns
 
 
-#### Case Study - Computational Patterns in the Scalable Game Design project
+#### Case Study - Computational Patterns in the Scalable Game Design project - -  SHOULD THIS BE REMOVED?
 
 There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of Colorado. In an extensive programme where teachers were trained by the University staff to teacher pupils how to make games using software called Agent Sheets. Early pilots were very sucessful and a large number of schools signed up so that after X year, over x students had taken part in the study. Thus, one of the key factors of this case study is the large size of the programme. The fact that it was so broad gives the findings of the research that emerges more weight.
 

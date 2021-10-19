@@ -280,7 +280,10 @@ This is line with a lot of the research indicated that at good way of starting i
 
 However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from the same starting point but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code bases.
 
-In early stages, the combination of altering key variables, changing level designs and swapping in assets built code familiarity. After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
+In early stages, the combination of altering key variables, changing level designs and swapping in assets built code familiarity. With a handful of printed cards each with small alterations With resources directly targetted to make small changes to the code that resulted in big impact on the game being played.
+MORE ON THIS - Bullet points?
+
+After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
 
 However as students still have to add and alter their game, as teachers we must still find a balance between providing too much choice and struggle to support learners as they get stuck with a huge variety of diverse problems and conversely offering not enough choice to be able enthuse learners through their personalisation of the project.
 
@@ -295,27 +298,33 @@ How then to resolve this tension best? We can look at the concept of open world 
 
 <!-- INSERT IMAGE of incomplete platformer with annotations -->
 
-Learners started with an incomplete platform game. I asked my family learners what they would like to add to this game. They came up with a list of features that we can describe as game design patterns. By game design patterns here I mean common features that game players would commonly expect from a game. For example moving around the screen, avoiding hazards, collecting coins, jumping on enemies, finding a door or flag to progress to the next level.
+<!-- After making quick alterations to an incomplete platform game.  -->
 
-Game designs patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre.  
+A standard way to progress from an incomplete game would be to follow a step-by-step tutorial which covered adding new game features in a pre-set order. In the 3M model learners choose the order then implement new features. I asked my family learners what they would like to add to this project.  They came up with a list of features including; moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Design patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre.
 
-Supporting learner choice is in line with some of the concepts of inclusive and project based education. The core of my learning design is the use of game design patterns as a relatable way for student to choose their paths and to structure the support through coding concepts linked to these patterns.
+Game design patterns come in different forms but at the most user-oriented level as illustrated in the examples above they have the advantage of being immediate and concrete to learners. Game design patterns are used as a relatable way for student to choose their paths and to structure  support via coding concepts linked to these patterns.
+DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE?
+
+![patterns as text](./Pictures/sample_pattern.png)
+
+![patterns as text]({{ site.baseurl }}/Pictures/sample_pattern.png)
+  _Sample Game Design Pattern_
+  PERHAPS A MORE CODE ORIENTED DESIGN PATTERN EXAMPLES
+
+When learners choose the pattern they want to work on they can take a physical card on-line help to support them implement the code needed to add the pattern to the game. I originally started off with printed supporting documents but then help learners to transition to online resources. The digital format is particularly useful if learners are copying and pasting code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. But creates another tension around how much guidance to give learners in the code examples provided. How much support you give to this process is up to you. I work with relatively young coders, thus  I chose to provide almost complete code help. This design helps build familiarity with code and the code environment.
 
 ![patterns as missions ](./Pictures/missions_full.png)
 ![patterns as missions ]({{ site.baseurl }}/Pictures/missions_full.png)
 _Diagram of Possible Missions on a Web Page Menu_
 
-I found that result of this approach is a kind of creative chaos.
+CHANGE THIS TO MORE TEXT ORIENTED BREAK DOWN.
 
-It partly resolved tensions around groups getting stuck if they didn't have facilitator support to advance their coding goals. But provided another tension around how much guidance to give learners in the code examples provided.
+In my research providing these limited options but allowing student to choose their own pathway had a immediate positive effect on the motivation and general energy level of the coding classroom. I would describe result of this approach is a kind of creative, productive chaos.
 
-For my group of novice coders I chose to provide almost complete code help. This was because I was looking to follow the Use Modify and Create pattern. This design helps build familiarity with code and the code environment.
+As mentioned the break down involves creating help resources to support a menu of game design patterns. This work is significant but manageable especially if community collaboration between teachers and other educators is involved. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms. The resources I have created for MakeCode and Phaser are free and open source and available online and available at the following URLs.
+Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
+MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
 
- ![patterns as text](./Pictures/sample_pattern.png)
- ![patterns as text]({{ site.baseurl }}/Pictures/sample_pattern.png)
- _Sample Game Design Pattern_
-
- Students can also make the project their own in terms of the narrative and character choices of their game. In terms of game design, design and game feel creativity will still be flexible within your frame.
 
 **Game Maker Types and Missions**
 
