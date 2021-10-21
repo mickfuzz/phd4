@@ -140,16 +140,13 @@ In the Scratch community, by default there is a remix button on every project al
 
 There are some parallels and some differences between Use Modify Create and the PRIMM framework described in a previous chapter (http://tiny.cc/usemodifycreate) [@lee_computational_2011]. Both have become increasingly popular in the computing education sector in the UK.
 
-This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts. I will explain the three stage model with reference to my own design.
-
-
-
-
-
-<!-- Use Modify Create framework - covered in another one.
-In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.
+This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts.
+In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
 In **Modify** learners progress to working on real projects but one created by others.
-Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch. -->
+Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch.
+
+FLESH THIS OUT - DROP DESIGN PATTERNS - GET A CASE STUDY
+
 <!--
 #### Studio Thinking PERHAPS DROP? TOO SIMILAR TO PBL AND UDL
 
@@ -180,7 +177,7 @@ Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
 
-#### Design Patterns as an educational tool -  SHOULD THIS BE REMOVED?
+#### Design Patterns as an educational tool -  SHOULD THIS BE REMOVED MOVED TO 3M?
 
 When I retrained in computing at Master level one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to support an object oriented approach. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design. The advantage of design patterns as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
 
@@ -192,7 +189,7 @@ As a way to join and navigate participation in a community of coders. A similar 
 As coders build their understanding of key design patterns
 
 
-#### Case Study - Computational Patterns in the Scalable Game Design project - -  SHOULD THIS BE REMOVED?
+#### Case Study - Computational Patterns in the Scalable Game Design project - -  SHOULD THIS BE REMOVED? SOME SECTIONS MOVED TO 3M PERHAPS IN CONCLUSION?
 
 There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of Colorado. In an extensive programme where teachers were trained by the University staff to teacher pupils how to make games using software called Agent Sheets. Early pilots were very sucessful and a large number of schools signed up so that after X year, over x students had taken part in the study. Thus, one of the key factors of this case study is the large size of the programme. The fact that it was so broad gives the findings of the research that emerges more weight.
 
