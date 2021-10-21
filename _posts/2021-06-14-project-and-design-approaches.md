@@ -136,18 +136,15 @@ What these projects and features have in common is that they create communities 
 In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create.
 
 #### The Use Modify Create model
+<!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
 
 There are some parallels and some differences between Use Modify Create and the PRIMM framework described in a previous chapter (http://tiny.cc/usemodifycreate) [@lee_computational_2011]. Both have become increasingly popular in the computing education sector in the UK.
 
-<!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
-
 This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts. I will explain the three stage model with reference to my own design.
 
-In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
 
-Then we quickly asked learners to **Modify** a broken game with very simple changes which they could choose from a set of printed cards. These small changes to variables or swapping out media assets with their own builds confidence, gives a greater sense of ownership over the project and is a fun and challenging experience.
 
-In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
+
 
 <!-- Use Modify Create framework - covered in another one.
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts here.

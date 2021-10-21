@@ -267,7 +267,14 @@ The 3M process has evolved with the aim that it is accessible and inclusive for 
 
 ### Missions (using Game Patterns and secret side-missions)
 
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection.
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection. The missions are designed to fit into the Use-Modify-Created model which is explored in another chapter in this collection.
+
+In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
+
+Then we quickly asked learners to **Modify** a broken game with very simple changes which they could choose from a set of printed cards. These small changes to variables or swapping out media assets with their own builds confidence, gives a greater sense of ownership over the project and is a fun and challenging experience.
+
+In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
+
 
 **Main Mission - Fix a Half-Baked game**
 
@@ -324,6 +331,9 @@ In my research providing these limited options but allowing student to choose th
 As mentioned the break down involves creating help resources to support a menu of game design patterns. This work is significant but manageable especially if community collaboration between teachers and other educators is involved. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms. The resources I have created for MakeCode and Phaser are free and open source and available online and available at the following URLs.
 Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
 MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
+
+
+
 
 
 **Game Maker Types and Missions**
