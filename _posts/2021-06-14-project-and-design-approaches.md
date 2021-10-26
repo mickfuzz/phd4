@@ -222,14 +222,8 @@ PBL is in line with some of the other socio-cultural approaches to learning that
 
 This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
 
-#### The challenges and benefits of PBL
 
-This section outlines the some of the challenges to implementing PBL.
-
-Based on this blog post.
-https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html
-
-####  PBL Stages and Support Resources
+###  PBL Stages and Support Resources
 
 It is worth noting that while there are chances for student experimentation, PBL is very far from what some people would call pure discovery learning where learners are given access to resources and left to their own devices. This section outlines the typical stages of PBL and how to adapt it to a computing context.
 
@@ -244,7 +238,7 @@ https://www.edutopia.org/project-based-learning-guide-implementation -->
 
 Building the ability as a teacher to switch between students operating freely and being guided in the process of revision and critique is often unfamiliar to teachers. Having resources to help this process is vital.
 
-## Finding out more about Authentic Approaches
+## Authentic Approaches to Projects
 
 It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for many coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Teachers can support students to develop this kind of pragmatic, authentic approach. For example the PRIMM approach which is explored in another chapter is very helpful to build students ability to read other people's code. Also the Use-Modify-Create model, explored in the chapter on game making in another chapter, is valuable to build familiarity with code environments through small changes that get progressively more ambitious.   
 
@@ -256,33 +250,17 @@ All of the approaches above have research to support the benefits of the approac
 
 But there are challenges of exam focus, lack of adequate time, teachers not having PBL delivery skills that are among factors hindering take up. This section looks at tips and strategies that have been used by other educators and researchers to overcome these barriers.
 
+other linmitations
+Based on this blog post.
+https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html
+
 ### Time factors - sustaining the effort
 
-Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures.  
+Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. While this may not be possible in year groups more focused on upcoming exams, it but may be possible in some situations especially in KS2.
 
-I can only advocate to try to free up the time as it can be frustrating to teachers and learners alike to cover potentially interesting projects only fleetingly. I have witnessed this frustration first hand when personally meaningfully projects are side-lined to cover compulsory curriculum material that have less personal relevance to the learners.  
+For example, cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
 
-Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. While this may not be possible in year groups more focused on upcoming exams, it but may be possible in some situations especially in KS2.
 
-For example, cross-curricular projects may free up more time by linking. As explored above Kafai was successful in gaining more time linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum. Science is a common way to explore cross over. As we saw the successful Scalable Game Design project used computational patterns and their overlap with science simulations as a base.
-
-<!-- I am lucky  to have been able to experiment with this as part of EdLab project - I have worked with drama practitioners to explore issues of computing ethics through coding and writing in role. -->
-
-Many teachers will add in projects to the end of a series of work to reinforce concept in a practical context and that is certainly better than nothing, but it is likely to reduce effectiveness.
-
-### Meeting in the Middle - A learner choice approach to semantic density
-
-I explore my own experiences teaching coding practice and concepts through coding games together in  another chapter in this collection. My own approach is very much led by the interests and preferences of learners. Some students stuck with certain areas of concrete practice. They were happy to tinker away, adding features, and changing certain parts without fully knowing what the code did. I would highlight some of the underlying coding concepts for the code then were working on as they met it. Others wanted to know details of those concepts from the start. Initially, I struggled being pulled in different directions. To resolve this, I created activities and resources to support these different kinds of approaches.  
-
-The students that favour a concept first approach are able to choose that path from the start building up coding knowledge and foundational concepts in a structured way. In short, following a step-by-step tutorial. Other student who favoured more concrete approaches and jumping right in, the learning design then allows teachers to guide their reflection on completed activities that allows connection to the underlying concepts that are a required part of the curriculum.
-
-PBL and UDL would promote not Concepts First, but Choice First. The choice of the student maybe to understand underlying theory before engaging in hands-on coding or perhaps the opposite, a concrete exploration, which allows students to meet the concepts in a practical setting first.
-
-A tactic to bridge this potential disconnect is have two tracks of learning - one concepts first - and one choice first and to plan for learners that to 'meet in the middle' where their abstract teacher teacher-led learning connects with their project-based concrete explorations. The role of the teacher to help the learners make those connections.
-
-In the classroom there is an additional challenge for teachers to observe and measure learner progress. How can this be done without it being overwhelming? In another chapter we looked at different observations techniques outlined in the NCCE quick read. In PBL the more closely aligned technique is that of supporting learners to monitor and document their own progress. Teachers can support that process by helping learners to map their activities and reflect on the progress they are making.
-
-The process of planning a course of project based learning may seem daunting. It is certainly a very different approach. It is worth restating that the advantages are not only in the engagement of students but also that the process is in line with the principles of Universal Design for Learning and will therefore benefit many of your learners greatly. If you want more details on how PBL can be put into practice in a computing setting, in another chapter I explore the process of planning and coding a project in the context of game making in another chapter in this collection.
 
 ### Significance of Project and Design approaches for Inclusion
 
