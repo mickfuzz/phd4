@@ -83,8 +83,7 @@ Design approaches have been adopted widely in software production, creative indu
 
 <!-- Make the above clearer -->
 
-Design projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. When applying this approach Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios.
-For some suitable resources see http://tiny.cc/design_resources
+Design projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. When applying this approach Teachers can choose how much to focus on the more technical or user-focused elements of design depending on the priorities of their curriculum and personal preferences and aptitudes. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios. For some suitable resources see http://tiny.cc/design_resources
 
 In the following sections I explore the use modify create model, design patterns and worked examples and iterative design approaches.
 
@@ -103,7 +102,7 @@ https://www.mantleoftheexpert.com/resources/contexts/
 <!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
 
 There are some parallels and some differences between Use Modify Create and the PRIMM framework described in a previous chapter (http://tiny.cc/usemodifycreate) [@lee_computational_2011]. Both have become increasingly popular in the computing education sector in the UK.
-
+https://dl.acm.org/doi/pdf/10.1145/3372782.3406256?casa_token=cBoF48cWKN0AAAAA:R2ZKcg52OtgVx4D8k545hLnviFgHvjgJg5-DQUP3cfTux1BDj0dDB7lXuC5M3RZfmjXqNUkoD1Y
 This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts.
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
 In **Modify** learners progress to working on real projects but one created by others.
@@ -111,6 +110,11 @@ In **Modify** learners progress to working on real projects but one created by o
 Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch.
 
 FLESH THIS OUT - DROP DESIGN PATTERNS - GET A CASE STUDY
+
+Could ask Phil Bagge or use this case study on Scratch Encore.
+https://dl.acm.org/doi/pdf/10.1145/3372782.3406256?casa_token=cBoF48cWKN0AAAAA:R2ZKcg52OtgVx4D8k545hLnviFgHvjgJg5-DQUP3cfTux1BDj0dDB7lXuC5M3RZfmjXqNUkoD1Y
+
+
 
 <!--
 #### Studio Thinking PERHAPS DROP? TOO SIMILAR TO PBL AND UDL
@@ -154,27 +158,31 @@ For educators the use of Design Patterns to support learners develop coding prof
 
 As coders build their understanding of key design patterns COMPLETE - THEY ALSO TAKE PART IN A COMMUNITY - PERHAPS ADDING THEIR OWN TAKE AND SHARING THIS IN THEIR PEERS.
 
+
+Sign post to following chapter on Game Making using design patterns.
+
 <!-- My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing. -->
 
-
-
-
 ### Iterative Design Techniques
+<!-- In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create. -->
+
 
 Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. Like reflective cycles the process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved.  
 
-Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface.
+<!-- Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface. -->
 
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-In more recent works Resnick has been promoting a five stage creative cycle with tips for both parents and teachers to create a fertile environment for creativity. See http://tiny.cc/creativespiral.
+Mitchel Resnick, a researcher involved in the Scratch project, promotes a five stage creative cycle with tips for both parents and teachers to create a fertile environment for creativity. See http://tiny.cc/creativespiral.
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
-The model, based on design approaches, applies not just for computing or robotics but it did emerge from this area of education by Resnick, Natalie Rusk and other researchers at an after school project called the Computer Clubhouse. The idea of a spiral which deepens understanding and improves the end results is popular both in education in the form of Bruner's spiral curriculum and in the software and other design industries, most notably in the guise of Design Thinking. Rusk and others see the foundation for the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and  deepening understanding through reflection -@rusk_new_2008. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners.
+ The idea of an repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In education Bruner describes it at a spiral curriculum. In software and design industries it is referred to as Design Thinking and Agile approaches.  Rusk and colleagues described the foundations of the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection -@rusk_new_2008. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners.
+
+COMMUNITY
 
 As mentioned, the creative spiral model is an accessible way to communicate tips and techniques to teachers and parents to support this process. In line with the social theme of this chapter, many of these tips require participation in some kind of community be it in real life or online. Indeed, where Scratch as a project excels is in the user community. There are over 75 million users of the site who have created 80 million projects. Activity has only increased over lockdown in 2020 and 2021 with over 20 million user comments in March 2021.
 
@@ -182,16 +190,13 @@ As educators using Scratch and similar tools in the classroom it is easy to over
 
 There is a great variety of forms of engagement with this kind of online community. You may just play others games, or just comment. You may use it to create your own projects but not engage in the more social elements of the creative process. You may like a smaller section of the community become extremely active in creating and collaborating with others on many projects.
 
-For a good summary of some of the potential and depth of collaboration of this community the researchers Resnick, Roque and Rusk have described this in detail see - http://tiny.cc/scratch-community. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicing real production procesess carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators. One of the challenges identified by the researchers was how to replicate this in the wider community of Scratch users and beyond that young people who had not yet engaged with design-based computing. One of the researchers Ricarosa Roque went on to develop other programmes which involved online exhibitions and competitions and off-line family-based programme to engage under-represented groups.
+For a good summary of some of the potential and depth of collaboration of this community the researchers Resnick, Roque and Rusk have described this in detail see - http://tiny.cc/scratch-community. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicking real production processes carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators. One of the challenges identified by the researchers was how to replicate this in the wider community of Scratch users and beyond that young people who had not yet engaged with design-based computing. One of the researchers Ricarosa Roque went on to develop other programmes which involved online exhibitions and competitions and off-line family-based programme to engage under-represented groups.
 http://familycreativelearning.org/
 
 The process of keeping the community up and running and safe for young people is significant and requires a lot of resources. The benefits are worth it. This really is an educational community and a success to be celebrated. One of the benefits of the success of the community is that it has become an extremely rich source of inspiration for young creators. A simple search of the site for projects like games, creative greeting cards, storytelling projects and pretty much any digital product you can imagine will yield multitude of results.
 
-What these projects and features have in common is that they create communities which support the different stages creative spiral. The importance of creating and facilitating different forms of participation in communities and for that community to function a motivating factor and reflective tool for young producers is key to the socio-cultural and constructionist schools of educational research. This line of thinking can be traced back to to Papert's early focus on objects to think with and creating shareable concrete artefacts.
-
-In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create.
-
-
+<!--
+What these projects and features have in common is that they create communities which support the different stages creative spiral. The importance of creating and facilitating different forms of participation in communities and for that community to function a motivating factor and reflective tool for young producers is key to the socio-cultural and constructionist schools of educational research. This line of thinking can be traced back to to Papert's early focus on objects to think with and creating shareable concrete artefacts. -->
 
 ### Projects and Project Based Learning
 
@@ -241,11 +246,7 @@ Building the ability as a teacher to switch between students operating freely an
 
 ## Finding out more about Authentic Approaches
 
-We can start to see large similarities between different strands of design and project approaches. The craft approach and design patterns approach will be familiar to most professional and hobbyist coders.
-
-It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for many coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Once you have worked out where the gaps are then you start coding to start plumbing the pieces together and to patch any of the gaps that appear.
-
-Teachers can support students to develop this kind of pragmatic, authentic approach. For example the PRIMM approach which is explored in another chapter is very helpful to build students ability to read other people's code. Also the Use-Modify-Create model, explored in the chapter on game making in another chapter, is valuable to build familiarity with code environments through small changes that get progressively more ambitious.   
+It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for many coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Teachers can support students to develop this kind of pragmatic, authentic approach. For example the PRIMM approach which is explored in another chapter is very helpful to build students ability to read other people's code. Also the Use-Modify-Create model, explored in the chapter on game making in another chapter, is valuable to build familiarity with code environments through small changes that get progressively more ambitious.   
 
 In summary, what many design and project approaches have in common, and what makes them different from more traditional classroom approaches is their a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set. For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny.cc/pbl-summary. For broader web based resources and case studies in blog post and video form, the Edutopia website is a good source - https://www.edutopia.org/project-based-learning
 
