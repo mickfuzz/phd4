@@ -180,9 +180,9 @@ Mitchel Resnick, a researcher involved in the Scratch project, promotes a five s
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
- The idea of an repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In education Bruner describes it at a spiral curriculum. In software and design industries it is referred to as Design Thinking and Agile approaches.  Rusk and colleagues described the foundations of the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection -@rusk_new_2008. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners.
+The idea of an repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In education Bruner describes it at a spiral curriculum. In software and design industries it is referred to as Design Thinking and Agile approaches.  Rusk and colleagues described the foundations of the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection -@rusk_new_2008. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners.
 
-COMMUNITY
+SCRATCH COMMUNITY CASE STUDY
 
 As mentioned, the creative spiral model is an accessible way to communicate tips and techniques to teachers and parents to support this process. In line with the social theme of this chapter, many of these tips require participation in some kind of community be it in real life or online. Indeed, where Scratch as a project excels is in the user community. There are over 75 million users of the site who have created 80 million projects. Activity has only increased over lockdown in 2020 and 2021 with over 20 million user comments in March 2021.
 
@@ -259,8 +259,6 @@ https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based
 Central to both iterative design approaches and PBL is the idea of coming back to failed experiments, learning from revising them, and reflecting on that process. This takes time. In research surrounding barriers to PBL in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. While this may not be possible in year groups more focused on upcoming exams, it but may be possible in some situations especially in KS2.
 
 For example, cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
-
-
 
 ### Significance of Project and Design approaches for Inclusion
 
