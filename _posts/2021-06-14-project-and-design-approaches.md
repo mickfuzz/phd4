@@ -28,7 +28,7 @@ title: Project and Design Approaches in Computing
 
 In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_, the resources provided, perhaps because they are targeted at the classroom, often lead with more formal learning approaches.
 
-In a real setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
+In a professional setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
 
 While GCSE questions outlined in the previous chapter attempt to include some elements of peer practices by including tests of code reading and analysis, preparing for these exam questions develops skills and practices that are quite different from coding in a real life setting. Because of this computing teachers face a significant challenge to both teach concepts to be reproduced in exam contexts and to unleash the potential of student working on their own projects.    
 
@@ -42,23 +42,28 @@ In this chapter we explore some of the strategies that can be used to support th
 
 ## The Power of Communities
 
-A project based approach to learning coding and computing is often something that is supported by families and emerges from the home environment. For example enthusiastic family members taking young people to maker fairs, community coding activities. They may buy creative computing kits or access resources such as YouTube videos or via specialist online forums. This kind of hobbyist forums and communication have been documented as being significant in the evolution of the home computer and Silicon Valley culture. If you put the name "Homebrew Computing Club" into a search engine you'll find an interesting history.
+A project based approach to learning coding and computing is often something that is supported by families and emerges from the home environment. For example enthusiastic family members taking young people to maker fairs, community coding activities. They may buy creative computing kits or access resources such as YouTube videos or via specialist online forums. This kind of hobbyist forums and communication have been documented as being significant in the evolution of the home computer and Silicon Valley culture. If you put the name "Homebrew Computing Club" into a search engine you will find an interesting history.
 
 However, this kind of computer enthusiast community is not the most accessible to a wide variety of audience. As educators striving for more inclusive and equal approaches, we should ask how then to widen out this experience?  
 
-These approaches are also promoted by government and corporate sponsored programmes like the Coolest Project and Coder Dojo and Code Clubs.
+These approaches are also promoted by state funding and corporate sponsored programmes like the Coolest Project and Coder Dojo and Code Clubs.
 
-**Code Clubs** are designed for out of hours school clubs run by teachers and provide inspiration and resources to help build a lunch-time or after school community. A large number of high quality, colourful and attractive resources are supplied free of charge on their website. [Add website] It was originally independent organisation which now part of Raspberry Pi Foundation.
+**Code Clubs** are designed for out of hours school clubs run by teachers and provide inspiration and resources to help build a lunch-time or after school community. A large number of high quality, colourful and attractive resources are supplied free of charge on their website. [Add website] It was originally an independent organisation which is now part of Raspberry Pi Foundation. https://projects.raspberrypi.org/en/codeclub
 
 **Coder Dojos** are monthly events run by volunteers often at the weekend. They often focus on creative, engaging computing. I have volunteered at some events and interviewed other volunteers. I have been impressed at the dedication and inventiveness of volunteers. While some tables will use existing resources to support Scratch, others will try out new and experimental work around hacking Minecraft, creating games with code engines and new technologies of physical computing. Often volunteers will bring their own children, and use them as guides to help them evaluate their project ideas to make sure they are engaging and achievable for the target audience.
 
 **The Coolest Project** is a project the Raspberry Pi Foundation which also runs Code Clubs in Schools and Coder Dojos which are often weekend family focused events. It addresses one issue with monthly Coder Dojos. My observations and interviews with volunteers at Dojos showed that there is a difficulty in maintaining project interest from one month to the next.
 
-These projects allow students to approach computing with a different attitude and tackle problems in a radically different way to much of classroom teaching. Apart from the greater amount of time dedicated to hands-on coding and related physical computing challenges, the opportunities for authentic practices. These include; designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to work to fine tune the desired result.
+These projects allow students to approach computing with a different attitude and tackle problems in a radically different way to much of classroom teaching. Apart from the greater amount of time dedicated to hands-on coding and related physical computing challenges, the opportunities for authentic practices. These include: designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to fine tune the desired result.
 
 While the Raspberry Pi Foundation have created and collected an impressive collection of resources - it is vital to also appreciate the work of volunteers and teachers volunteering out of class time to create the opportunities to code creatively. This is more than about the creation of stand alone resources, it is about creating authentic goals for learners and setting up systems involving adults, teen helpers and in the case of Coder Dojo other family members to support the skills and sustain the interest of learners.
 
-This is in line with socio-cultural understandings of how learning happening. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
+<!-- Explain this more?  
+how to bring this into the classroom
+most pedagogies are still around behaviourist approaches.
+-->
+
+This is in line with socio-cultural understandings of how learning happens. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
 <!--
 And SINGPOSTING to the rest of the chapter
@@ -69,23 +74,39 @@ And SINGPOSTING to the rest of the chapter
 
 ### My Introduction to Craft & Studio Approaches
 
-In another chapter we looked at pair programming which can build confidence and support to girls in the learning coding process. The value of pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities and even the programmers themselves call this a craft approach to coding.
+In another chapter we looked at pair programming as an inclusive practices to support learning coding. The value of pair programming can also be compared to that of peer programming. Peer programming looks at - among other things - how coders learn partly by pick up the nuts and bolts computing projects from a community they are a part of. This process comes in many flavours and goes by many names. Some researchers into professional coding communities and even the programmers themselves call this a craft approach to coding.
 
-When I learned to code it was to create websites for community music events and environmental and social justice campaigns. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions and finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
+When I learned to code in the early years of the web my motivation was to create websites for community music events and campaigns groups. In learning how to code websites, I also had to learn to use other tools to upload files to a web server and then about server file permissions (a useful gateway to linux computing). Having these projects as my base for learning helped in a few crucial ways. Firstly the real life application was great motivation for me to push past technical barriers, there were also similar projects that I could use as inspiration and copy and modify their code solutions. Finally if I got stuck there was a friendly community of web site creators working on similar non-profit projects who were willing to share their skills and resources.
 
 The process was sometimes slow involving a lot of trial and error. At times it felt like I was spending a long time getting to know the tools and processes rather than do any complex coding. However every time I got something wrong and had to either get help from others or work it out myself I was learning something. Later I was able to pass on that knowledge to others perhaps struggling in similar ways.
 
+ADD IN TO LINK TO CLASSROOM PRACTICE.
+
 Arts and crafts studios value and support this way of learning. For example Studio Thinking and Methods have been well researched and the process of doing a foundation arts year explicitly allows a long period of experimentation and building familiarity with tools of the trade. This process of a kind of messy and unstructured apprenticeship as a way of building digital skills is not unusual in professional practice. According to a recent Stack Overflow survey most industry developers are either fully are partly self-taught with only about half having undertaking formal computing training.
 
-Clearly there are challenges in replicating this kinds of learning within the practical limitations of a school and its culture. However, educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning. Both of these approaches have been applied extensively for computing both inside and outside of schools. In this chapter I focus on the positive opportunities provided by these approaches rather than the practical challenges. If this approach resonates with you and you want to read more about Studio Thinking and how it can be applied in schools there are excellent resources here -  https://www.studiothinking.org
+Clearly there are challenges in replicating this kinds of learning within the practical limitations of a school and its culture. However, educators can replicate some of the benefits of professional and craft approaches within more formal settings using design and project-based learning. Both of these approaches have been applied extensively for computing both inside and outside of schools. In this chapter I focus on the positive opportunities provided by these approaches rather than the practical challenges.
+
+For example, if this approach resonates with you and you want to read more about Studio Thinking and how it can be applied in schools there are excellent resources here - https://www.studiothinking.org An example of an activity is in Task 1 below -
+
+## TASK ONE
+
+Making Studio Habits Visible.
+
+https://www.studiothinking.org/making-studio-habits-visible.html
+
+This resource helps teachers to make visible some of the habits of mind involved in studio thinking by show casing different examples of how it is achieved in the classroom.
+
+As teachers helping to facilitate group learning this process of showcasing not only the final work but also the processes involved in a public and visual way can be a clear sign to your students about the breadth of learning you are looking for.
 
 ## Design Approaches
 
 #### Designing for Others
 
-Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. If you are an educator the experience of seeing students motivated by producing something for a real or even imagined audience may be familiar. If students are able to share their created digital work with peers then the process of revising based on feedback from others can be extremely valuable to sustain interest.  
+Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices have also influenced areas of education and research. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. If students are able to share their created digital work with peers then the process of revising based on feedback from others can be extremely valuable to sustain interest.  
 
-The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designing in something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the end user.
+The area of design studies is wide and there is a long history in involving users and young people in the design of computer products. The process of understanding the audience for the digital product can be extremely time consuming process. In many cases, while students are in theory designing in something for others, be it a game or a website etc, they are making it primarily as a learning experience. In this case technical skills of design may take priority over serious investigation into the requirements of the imagined end user.
+
+<!-- Make the above clearer -->
 
 However other studies or projects have taken the opposite approach, taking care to give time to explore the cultures, needs and expectations of the target audience. In this case ethical and entrepreneurial aspects of design are highlighted. While these kinds of projects allow students to develop important 21st Century Skills of problem solving and appropriately responding to real life contexts, often the time constraints prevent a more in-depth approach to the design process. There are rich resources teachers can draw on from the field of participatory design and co-design which with some adaptation can work well in a school setting. These range from exploring cultural contexts to role playing scenarios.
 For some suitable resources see http://tiny.cc/design_resources
@@ -177,36 +198,22 @@ Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
 
-#### Design Patterns as an educational tool -  SHOULD THIS BE REMOVED MOVED TO 3M?
+#### Worked Examples and Design Patterns as an educational tool
 
-When I retrained in computing at Master level one the most instructive and relatable pieces of coding tuition came in the form of studying design patterns to support an object oriented approach. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design. The advantage of design patterns as a way of teaching and learning coding is that they are often rooted in real life examples of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
+
+For computing student at higher education a key technique is to learn an object oriented approach is via design patterns. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
+
+
+A similar principle to Design Patterns is presented for the classroom in the form of the concept of worked examples. A Quick Read on worked examples is available here - http://tiny.cc/worked-examples . Worked examples show how certain coding concepts or process are used in practice. Showing working code used in a particular context helps students to analyse what makes it work and why it is a suitable solution. Repeated examples allow teachers and students to identify similar patterns that emerge.
+
+The advantage of design patterns and worked examples as a way of teaching and learning coding is that they are often rooted in real life incidences of problems that are often solved in a particular way. This can be described as a concrete implementation of object oriented principles.
+
+For educators the use of Design Patterns to support learners develop coding proficiency provides certain advantages. As a bridge between abstract concept and concrete implementations. As a way to join and navigate participation in a community of coders.
+
+As coders build their understanding of key design patterns COMPLETE - THEY ALSO TAKE PART IN A COMMUNITY - PERHAPS ADDING THEIR OWN TAKE AND SHARING THIS IN THEIR PEERS. 
 
 <!-- My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing. -->
 
-For educators the use of Design Patterns to support learners develop coding proficiency provides certain advantages. As a bridge between abstract concept and concrete implementations
-As a way to join and navigate participation in a community of coders. A similar principle to Design Patterns is presented for the classroom in the form of the concept of worked examples. A Quick Read on worked examples is available here - http://tiny.cc/worked-examples . Worked examples show how certain coding concepts or process are used in practice. Showing working code used in a particular context helps students to analyse what makes it work and why it is a suitable solution. Repeated examples allow teachers and students to identify similar patterns that emerge.
-
-As coders build their understanding of key design patterns
-
-
-#### Case Study - Computational Patterns in the Scalable Game Design project - -  SHOULD THIS BE REMOVED? SOME SECTIONS MOVED TO 3M PERHAPS IN CONCLUSION?
-
-There is one stand out study that uses design patterns extensively to support young people's computing in schools. The project name is Scalable Game Design undertaken by the University of Colorado. In an extensive programme where teachers were trained by the University staff to teacher pupils how to make games using software called Agent Sheets. Early pilots were very sucessful and a large number of schools signed up so that after X year, over x students had taken part in the study. Thus, one of the key factors of this case study is the large size of the programme. The fact that it was so broad gives the findings of the research that emerges more weight.
-
-The project was developed in partnership with teachers. One outcome of this is that the study designers change their an original goal of teaching a narrower take on Computational Thinking to one of Computational Patterns instead. This move was in response to a key piece of feedback from teachers who were confused by the abstract definitions of CT but felt that they understood the underlying usefulness. One expressed that they would like to be able to have the following expectation of students. "Now that you can make Space Invaders, can you also make a science simulation." [@repenning_scalable_2010, p. 4]
-
-Following this lead, the SDG project uncovered Computational Patterns present in games which could also be applied to science simulation. Examples include; hill climbing, collision and transportation. Without going into too much detail, the key feature of these patterns was that they could be expressed in code but also to make a game but also useful as a concept that could be applied in biology, physics or other domains.
-
-This brings up a question of what patterns to choose. This study pragmatically chose to work in a cross curricular way linking computing and science to justify spending more classroom time on the project. Thus, the promise of transfer drove the patterns chosen. In different coding communities and contexts, other design patterns emerge. For example in website or the design of multimedia applications a particular set of problems with tried and tested solutions will exist. In a review of research accompanying the After the Reboot report on UK computing, Waite proposed that other studies which explore the utility and promise of patterns to learn coding are needed. [@the_royal_society_after_2017].
-
-In a UK computing context transfer beyond computing is not essential. As teachers we can use design patterns to help structure how pupils learn how to code.  via applying and analysing game specific design patterns that have little application outside of game is still a useful process in developing authentic coding practices.
-
-If we return to the example of SGD, we can see some of the advantages of using design patterns in to learn code. Key benefits of the approach include increased motivation through creating a personally meaningful and shareable object and a comparatively high degree of accessibility in the process of learning to code INSERT..
-
-In this example, researchers found that while the target learning area was computational patterns, students also benefit from the project based nature of the program. In the next section we explore some benefits and recommendations for delivery project-based learning.  
-
-<!-- Patterns as a concept can be used flexibly - so I need to be careful with claims of the utility of it.
-RE-READ SGD work -->
 
 ### Projects and Project Based Learning
 
