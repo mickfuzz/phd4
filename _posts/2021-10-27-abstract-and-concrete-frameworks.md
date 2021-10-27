@@ -13,7 +13,7 @@ title: Abstract and Concrete Approaches to Computing
 
 ## Outline
 
-### Part one - Intro, context and terms
+### Intro, context and terms
 - Introduction & Context
   -   Inclusion - define and how relevant to abstract / Concrete
   <!-- - Context, coding not ICT, new curriculum -
@@ -21,13 +21,13 @@ title: Abstract and Concrete Approaches to Computing
 - A note on making computing engaging
 - Concrete and Abstract terms defined in relation to learning
 
-### Part two - Computational Thinking, the Abstract and Concrete
+### Computational Thinking, the Abstract and Concrete
 - Concrete and Abstract learning approaches
 - The Issue of Transfer
 - CT explored - Wing and Resnick - wider - narrower - abstract / concrete
 - Coding is not CT - but a good medium
 
-### Part Three - Tactics for teaching Computing in the Classroom
+### Tactics for teaching Computing in the Classroom
 - gcse exam context
 - tactics for teaching Coding
 - expansive framing
@@ -57,27 +57,28 @@ title: Abstract and Concrete Approaches to Computing
 
 ## Introduction
 
-In the UK, computing and computational devices are all around us. Computing as a subject can draw on this diversity and can be applied and taught in a multitude of ways. Many sources of inspiration exist for computing teachers promoting diverse approaches to covering the computing curriculum, building skills in programming and developing wider computer science knowledge. This chapter highlights the value of some of the more hands-on teaching approaches and will put this into an academic context in an accessible way by drawing on influential and inspirational research and projects in the field of creative computing.
+In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and many creative fun apps .  Computing as a subject draws on this diverse engagement and computing teachers share their creative approaches to covering the computing curriculum, building fluency in programming and developing wider computer science knowledge. When we can connect computing to young people's genuine interests then magic happens. This chapter champions the value of hands-on teaching approaches. It does this by highlighting on-going tensions in the world of educational between abstract and concrete approaches, looks at definitions and role of Computational Thinking in an accessible way, examines inspirational and inclusive approaches to computing education.
 
+Before jumping into the more theory base part of this chapter it is a good idea to explore some of the terms that we will use in this and other chapters. Particularly the term inclusion and engagement.
+
+<!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
 <!-- ### Context of Teaching Computing in the UK -->
-The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
+<!-- The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
 
-This chapter looks at different definitions of Computational Thinking and their implications for teaching computing in inclusive ways. In particular we took at the concepts of abstract and concrete approaches to computing and how they inform recent advice to engage students. To do this I will be summarising some of the theory and practice of applying inclusive approaches to computing projects.
+This chapter looks at different definitions of Computational Thinking and their implications for teaching computing in inclusive ways. In particular we took at the concepts of abstract and concrete approaches to computing and how they inform recent advice to engage students. To do this I will be summarising some of the theory and practice of applying inclusive approaches to computing projects. -->
 
 <!-- I do not suggest the concepts of Computational Thinking and Creativity are in opposition to each other. However, for the first part of this chapter I am going to explore both concepts from an academic perspective as a way of finding useful tensions and variety in the way computing teaching is being approached and promoted.
 I will use the lens of projects to examine creativity in computing.   -->
 
 <!-- (not sure about the terms or even the whole approach of the last sentence) -->
 
-Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made.
-
 <!-- Give an example to support the above  -->
 <!-- DO Other chapters in this book deal with the strategies like PRIMM and Unplugged computing to communicate the more abstract concepts of computational thinking suited to classroom teaching.?  -->
 
 <!-- ## Coding well is well hard - hard to learn- hard to teach. Choosing suitable coding projects for novices is hard to get right. They may be too hard or too boring. [removed extra]  -->
 
-#### Inclusion and Participation
+**On Inclusion**
 
 Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN and disability issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities. As such bringing the out of school interests and experiences of pupils into the classroom is vital. More broadly, more recent definitions of inclusive education include a social justice element. To be inclusive schools and teachers must identify barriers to progression and work to help student overcome them.
 
@@ -100,19 +101,17 @@ These design choice among others are presented in a framework called Universal D
 
 One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
 
-#### A Note on Making Computing Engaging
+**On Making Computing Engaging**
 
 <!-- Increase this section with a case study
 link to game making - hello world magasine - maker spaces -
 examples on walls of classrooms -->
 
-Embracing the challenge of making computing projects broadly accessible and engaging and has something that many individuals and organisations both funded and enthusiast have engaged with. University and industry partner programs have created a diversity of computing materials and computing environments designed to aid novice programmers. Teachers themselves have been a tremendous source in the sharing of knowledge, materials and approaches to respond to the challenge.
+In general terms student engagement refers to the level of interest, involvement and participation of learners. We certainly notice when it is absent as bored learners are hard to motive. Embracing the challenge of making computing projects engaging and has something that many individuals and organisations have engaged with. University and industry partner programs have created a diversity of computing materials and computing environments designed to aid novice programmers. Teachers themselves have been a tremendous source in the sharing of knowledge, materials and approaches to respond to the challenge.
 
-A quick search the web for creative computing shows a tremendous diversity of activities and mediums designed to engage the home and hobby interests of young people. Physical examples include fashion and textiles based computing, robotics, colourful lighting displays and programming lego constructions. Beyond the value of working with home interests as a way of increasing participation and inclusion there is also outreach value is in the visual, tangible and touchable nature of the materials. They look and feel like fun and exciting objects to engage with.
+A quick search the web for creative computing or tech for kids yields countless activities, tools and materials designed to engage the home and hobby interests of young people. Physical examples include fashion and textiles based computing, robotics, colourful lighting displays and programming lego constructions. Beyond the value of working with home interests as a way of increasing participation and inclusion there is also outreach value is in the visual, tangible and touchable nature of the materials. They look and feel like fun and exciting objects to engage with. Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.  
 
-Other web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Adapting other narrative forms like books, films, games and social media content increases the ability for learners to bring their own interests into the mix.  
-
-However while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to get best approach these opportunities from an educational point of view.
+However while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to get best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics. 
 
 <!-- Break out box on creative computing examples?
 - Scratch
@@ -232,7 +231,7 @@ There is a tension between the skills required of Real Life coding and the time 
 <!-- Make link to Project based approaches ? -->
 <!--  -->
 
-## Part Three - Tactics for teaching Computing in the Classroom
+## Tactics for teaching Computing in the Classroom
 
 <!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
 AN EXAMPLE ?-->
