@@ -278,25 +278,25 @@ In my **Create** stage learners we asked to choose from a menu of different game
 
 **Main Mission - Fix a Half-Baked game**
 
-In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.
+In the 3M model participant code as part of a role play story. They are given a scenario where have to complete a mission. Making a game for a real or imagined audience is a part of that mission. You can choose your own real or imagined situations. It could be an external game making competition, or a fiction. In one version we made games for a group of Aliens coming to earth to help us save the planet, in another it was a dystopian, hunger games like future where we had to make a game to save our lives. The purpose here is to increase engagement, motivation and the sense of designing for another audience.
 
-<!-- The main mission supported by a narrative device of Aliens coming to earth to judge our games.  -->
+In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way. The concept of a working with Half Baked games describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it. This draw on research on the value of remixing and altering the code of others. Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model in another chapter.
 
-The concept of a Half Baked game was introduced to the field by Kynigos who describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it.
-This is line with a lot of the research indicated that at good way of starting is by remixing and altering the code of others. Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model in another chapter.
+However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from a shared code base but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code structures.
 
-However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from the same starting point but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code bases.
-
-In early stages, the combination of altering key variables, changing level designs and swapping in assets built code familiarity. With a handful of printed cards each with small alterations With resources directly targetted to make small changes to the code that resulted in big impact on the game being played.
+In early stages, learners alter key variables, change level designs and add in new graphical and audio assets. Simple changes that are relatively easy and build familiarity with the code. For example I often start with a handful of printed card missions. Each suggests a small changes to the code that results in big impact on the game being played.
 MORE ON THIS - Bullet points?
 
-After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
 
 However as students still have to add and alter their game, as teachers we must still find a balance between providing too much choice and struggle to support learners as they get stuck with a huge variety of diverse problems and conversely offering not enough choice to be able enthuse learners through their personalisation of the project.
 
 <!-- Should I make this above bit into a story - learners getting stuck - an evolution -->
 
 How then to resolve this tension best? We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have some restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds; for example player accept that they don't have choice over their starting point. The following section outlines the use of a restricted menu of design patterns as a way of help deal with this tension in the 3M model.
+
+
+SHIFT THIS - After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
+
 
 <!-- Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding. -->
 
