@@ -154,7 +154,7 @@ or revise to be practical to the teacher -->
 <!-- ![](./Pictures/learning-kolb.jpg)
 ![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg) -->
 
-#### The Issue of Transfer
+### The Issue of Transfer
 
 The implications of thinking socially are that our mind is motivated and activated by the context of the problems that we meet. While it would be great if we could transfer the knowledge we gain in one area to another or to be able to apply an abstract idea to a more specific problem, researchers from the socio-cultural perspective are very critical of this idea.
 
