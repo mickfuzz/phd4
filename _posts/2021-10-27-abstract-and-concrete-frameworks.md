@@ -154,7 +154,7 @@ or revise to be practical to the teacher -->
 <!-- ![](./Pictures/learning-kolb.jpg)
 ![kolb]({{ site.baseurl }}/Pictures/learning-kolb.jpg) -->
 
-### The Issue of Transfer
+<!-- ### The Issue of Transfer
 
 The implications of thinking socially are that our mind is motivated and activated by the context of the problems that we meet. While it would be great if we could transfer the knowledge we gain in one area to another or to be able to apply an abstract idea to a more specific problem, researchers from the socio-cultural perspective are very critical of this idea.
 
@@ -163,7 +163,7 @@ This problem of transfer creates a problem for Computing teachers. If they are a
 The difference between exam-focused computing and real life coding and computing is ....
  (find citations / example )
 
-As with many other subjects, teachers are being asked to both teach to the particular requirements of exams and to build more transferrable skills. In this case this process of being pulled in different directions seems particularly noticeable.
+As with many other subjects, teachers are being asked to both teach to the particular requirements of exams and to build more transferrable skills. In this case this process of being pulled in different directions seems particularly noticeable. -->
 
 <!-- Sign posting - tactics -   semantic wave theory
 and more out of school tatctics.  -->
@@ -176,9 +176,11 @@ The key to this idea is transfer which is a tricky concept to prove when it come
 There is a school of thinking in educational research which argues that learning how to do something like coding is entangled up in particular situations. So even though CT processes may be at work they are tacit and would be of little use in other situations. -->
 
 
-#### Definitions of Computational Thinking
+### Definitions of Computational Thinking
 
-We can use this distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking  One is Jeanette Wing's original take. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing_computational_nodate]. The essence is abstract away concepts and principles from the context. This approach suits a formal exam approach. Many learning resources designed to support the computing curriculum present this principle as for key pillars; decomposition, pattern recognition, abstraction algorithmic thinking[@bbc_bitesize_introduction_nodate].
+The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing as a way to express and solve problems in the same kind of way a computer would.
+
+We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking. The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing_computational_nodate]. The essence here is abstract away concepts and principles from the context. This approach suits a formal exam approach. Many learning resources designed to support the computing curriculum present this principle as for key pillars; decomposition, pattern recognition, abstraction algorithmic thinking[@bbc_bitesize_introduction_nodate].
 
 Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to the question How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". They take a situated approach to mapping the potential learning dimensions of working with others creating computing projects. The resulting map they create includes computational concepts, computational practices and computational perspectives. This framework based on observation of learners in action is more concrete and more accessible to teachers and learners as they can more easily recognise their own practice.
 
@@ -187,15 +189,24 @@ Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012]
 
 Computational Thinking model by Resnick and Brennan - Diagram created by Mick Chesterman
 
-This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach.
+This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach. The review highlight the usefulness of this framework to help teachers and researchers design their programming sessions and observe details of practice.
 
-<!-- (The review finds that) this is a really useful document to help teachers and researchers understand what to look for and what they can design their programming sessions to facilitate. If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This map of the concepts and skills that learners can develop while doing computing projects may certainly be useful but you can't argue that this definition Computational Thinking is unique. Certainly from an academic perspective we need to ask what is special about Computational Thinking. -->
+If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This framework may be useful but this definition Computational Thinking can not be said to apply only to Computing.
 
-Much analysis has been done about the relative merits of different definitions of CT. From my perspective I feel that from an academic perspective Wing's definition does a good job of describing what is most unique about Computational Thinking compared to other frameworks. The way it looks at the special ways abstraction is done in computer science is convincing. The concept of Computational Thinking as more abstract, transferable knowledge became significant aspect of the 2015 Computing curriculum. It suited the conservatives government's back to educational basics agenda based, a perceived move away a progressive skills based approach to a knowledge-based curriculum.
 
-This agenda has been championed by education ministers Nick Gibbs and Michael Gove. A good example can be found in a speech by Nick Gibb at a launch of a collection of essays _The Question of Knowledge_ (http://tiny.cc/gibbsknowledge). I suspect most educators would find this oppositional setting of knowledge against skills unconvincing. If we return to Kobl's experiential cycle, it is through application of knowledge in concrete contexts that skills develop and understandings of knowledge deepen. Ironically in the foreword of the publication in question, references the importance of Young's concept of powerful knowledge which is knowledge put into practice in a concrete context, and putting the knowledge into practice will involve developing practical skills.
+Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
 
-SINGPOSTING - Given this, educational practices and frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful. Also, from the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project.  This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.  
+From the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project. This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.
+
+
+<!--
+ Certainly from an academic perspective we need to ask what is special about Computational Thinking. -->
+
+<!-- Much analysis has been done about the relative merits of different definitions of CT. From my perspective I feel that from an academic perspective Wing's definition does a good job of describing what is most unique about Computational Thinking compared to other frameworks. The way it looks at the special ways abstraction is done in computer science is convincing. The concept of Computational Thinking as more abstract, transferable knowledge became significant aspect of the 2015 Computing curriculum. It suited the conservatives government's back to educational basics agenda based, a perceived move away a progressive skills based approach to a knowledge-based curriculum. -->
+
+<!-- This agenda has been championed by education ministers Nick Gibbs and Michael Gove. A good example can be found in a speech by Nick Gibb at a launch of a collection of essays _The Question of Knowledge_ (http://tiny.cc/gibbsknowledge). I suspect most educators would find this oppositional setting of knowledge against skills unconvincing. If we return to Kobl's experiential cycle, it is through application of knowledge in concrete contexts that skills develop and understandings of knowledge deepen. Ironically in the foreword of the publication in question, references the importance of Young's concept of powerful knowledge which is knowledge put into practice in a concrete context, and putting the knowledge into practice will involve developing practical skills. -->
+
+<!-- SINGPOSTING - Given this, educational practices and frameworks which support learners and teachers to help reflect on and develop skills are clearly helpful. -->
 
 <!-- If we return to our general understanding of what abstract and concrete mean, we can see that the CT concepts can be formulated in a spectrum of relatively abstract to relatively concrete. While the computing concepts, practices and perspectives are all abstract concepts they are relatively more concrete than the concepts in Wing's definition. -->
 
@@ -203,21 +214,19 @@ SINGPOSTING - Given this, educational practices and frameworks which support lea
 
 <!-- Another take on CT critiques Wing from the other angle. According to Denner and Tendre -@tedre_long_2016, Wing's view of CT over eggs the possibility of transfer to other areas beyond what is shown in the research and has a too narrow view of CT. -->
 
-### Coding is not Computational Thinking
+<!-- ### Coding is not Computational Thinking -->
 
 <!--  is this section really needed?
 Refer back to transfer?
 Integrate into another? -->
-
-We have explored that Computational Thinking is a contested term. While there is a general agreement that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures.
+<!--
+We have explored that Computational Thinking is a contested term. While there is a general agreement that computational thinking is not just computer coding, most applied definitions include algorithmic thinking, and thus the more concrete aspects of coding structures. -->
 
 <!-- I as I became I learned how to become a proficient coder without explicitly being taught the more abstract CT concepts.  -->
 
-Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
 
-However while there is a technical distinction, in practical terms as the process of computing is learned through coding projects, for the purposes of this chapter the terms coding and computing are used quite freely.
-
-There is a tension between the skills required of Real Life coding and the time it takes to learn via real projects and the more abstract knowledge needed to answer more formal exam questions. In GCSE exams include a paper which tests application of coding concepts in a paper based format. Which aims to strike a balance. This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning.
+<!--
+There is a tension between the skills required of Real Life coding and the time it takes to learn via real projects and the more abstract knowledge needed to answer more formal exam questions. In GCSE exams include a paper which tests application of coding concepts in a paper based format. Which aims to strike a balance. This would then justify devoting more time to applied coding projects especially if they can be done collaboratively to take advantage of the benefits of social learning. -->
 
 <!-- Refer back to transfer? -->
 
