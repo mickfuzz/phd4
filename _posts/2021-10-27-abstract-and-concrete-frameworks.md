@@ -86,14 +86,14 @@ Later in this chapter I will outline several approaches to support inclusive ped
 
 <!-- The next section deals with inclusive pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
 
-One emerging principle of inclusive pedagogy is to move away from a view that most students learn well and that others need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable. Instead, we should design learning experiences so that all learners can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment and bring their own experience and cultural understandings into their work.
+One emerging principle of inclusive pedagogy is to move away from a view that most students learn well and that others need particular support particular, adapted approaches. Indeed if you include wider understandings of neurodiversity and cultural and language diversity then planning alternative activities or learning pathways for all learners with particular needs could quickly become so time-consuming and complex that it would be unsustainable. Instead, we should design learning experiences so that all learners can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment and bring their own experience and cultural understandings into their work. These principles - among others - are presented in a framework called Universal Design for Learning (UDL) which is covered in the final section of this chapter.
 
 <!-- Make the above paragraph clearer - perhaps find citation -->
 
-These design choice among others are presented in a framework called Universal Design for Learning which embodies this inclusive approach. How UDL can be applied in a computing context is covered in the final section of this chapter. However, many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas.
 
 <!-- (Good citation or example needed?)
 - first part of inclusion is here
+However, many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas.
 - then a section on UDL Later
 - finally Conclusion makes claims to favour leading without concepts - concrete fading
  -->
@@ -143,8 +143,20 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 
 Many theories of learning explore the value of both concrete and abstract phases. The theory of experiential learning from Kolb is expressed often expressed as a cycle of concrete experience, reflection, abstract conceptualisation, experimentation and then repeats. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
 
-
 MISSING SECTION HERE ON COMMUNITY APPROACHES AND THE UNDERLYING SOCIO CULTURAL THEORY TO SUPPORT CONCRETE PARTICIPATION - LINK TO OTHER CHAPTER.
+
+
+
+### ACTIVITY - RECOGNISING THE CONCRETE AND ABSTRACT IN YOUR TEACHING
+
+To help your learners to embed the knowledge of your lessons, it is helpful to identify what parts of your sessions address more abstract conceptions of knowledge and those that are more concrete. To do this ask yourself the following questions about one of your future sessions.
+
+
+- Are learners x?
+- Are learners y?
+- Are learners z?
+
+
 
 <!-- The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially. -->
 
@@ -194,12 +206,9 @@ Computational Thinking model by Resnick and Brennan - Diagram created by Mick Ch
 
 This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach. The review highlight the usefulness of this framework to help teachers and researchers design their programming sessions and observe details of practice.
 
-If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This framework may be useful but this definition Computational Thinking can not be said to apply only to Computing.
+<!-- If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This framework may be useful but this definition Computational Thinking can not be said to apply only to Computing.  -->
 
-Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
-
-From the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project. This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.
-HOW EXACTLY - REMOVE OR BE SPECIFIC
+The wider definition of CT here assumes the collaborative coding of a computing project. Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed. If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. From the perspective inclusive teaching practice there are many benefits to more collaborative approaches which are explored in a later section of this chapter on UDL and in another chapter of this book on design and project based approaches.
 
 
 <!--
@@ -308,47 +317,50 @@ The process of modelling and breaking down a process that is often difficult to 
 
 ## Universal Design for Learning
 
-In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings.
+Universal Design for Learning (UDL) is a set of principles which are in-line with our earlier exploration of inclusive practices. UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas.   According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
 
-UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The key ideas emerged from the arena of designing computer aided instruction have been revised to into a framework that applies to diverse teaching and learning settings.  According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
-
-<!-- ![udl](./Pictures/udl1.png)
-![udl]({{ site.baseurl }}/Pictures/udl1.png) -->
-
-
-Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability -  it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their individual abilities and learning strategies.
+UDL provides guidelines for three key areas of representation, expression and engagement. Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
 
 These strategies are sometimes presented in a way that highlights the technical elements of accessibility and assistive learning technologies, for example text in different sizes, the presentation of materials in accessible ways online and in the classroom. However, beyond representation, approaches for engagement and expression lend themselves to more radical learning techniques.
 
+<!--
+In terms of choice of student activity teachers will be familiar with the practice of differentiation. UDL practice is similar but places more power in the hands of learners to choose the path that is most appropriate for them. -->
+
+UDL places great value on the authenticity and personal relevance and value of learning experiences. In exploring the tension between abstract concepts and concrete activities, UDL prioritises engagement, encouraging the teacher to start by setting concrete class goals that are relevant to the learners. Students are then supported in the discovery and recording of the underlying concepts after undertaking activities.
+
+<!-- Dom says...
+student often choose the level that is appropriate for them.
+FIND SOURCE FOR THIS -->
+<!-- UDL is similar in many ways to project based approaches and in another chapter we look at tactics to resolve some of the practical difficulties of adopting these techniques in schools. -->
+
+<!-- ![udl](./Pictures/udl1.png)
+![udl]({{ site.baseurl }}/Pictures/udl1.png) -->
 <!-- Some say similar to Freire / Bruner
 https://accessibility.uncg.edu/wp-content/uploads/2019/02/UDL-Engagment_For-Website.pdf -->
 
 <!-- examples of strategies - perhaps in clude as short link?
 https://goalbookapp.com/toolkit/v/strategies  -->
 
-In terms of choice of student activity teachers will be familiar with the practice of differentiation. UDL practice is similar but places more power in the hands of learners to choose the path that is most appropriate for them.
+ACTIVITY - APPLYING UDL IN THE CLASSROOM
 
-<!-- Dom says...
-student often choose the level that is appropriate for them.
-FIND SOURCE FOR THIS -->
+Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas. Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations.
 
-Clearly the UDL guidelines to provide options for individual choice and autonomy in these three key areas of representation, expression and engagement can be challenging in a classroom environment. Given the time pressures on most secondary teachers you may be forgiven for feeling resistant to the level of preparation needed. UDL is similar in many ways to project based approaches and in another chapter we look at tactics to resolve some of the practical difficulties of adopting these techniques in schools.
+As you plan your hands-on activities you can ask you self some of the following questions.
 
-Another challenge is the importance given in UDL to the authenticity and personal relevance and value of learning experiences. We have already explored the classroom tension between starting a class with concepts which prioritises building more abstract knowledge, and leading with concrete activities as a way to maximise student engagement. UDL principles lead with engagement encouraging the teacher to set class goals that are relevant to the learners for them to be supported in the discovery and recording of the underlying concepts.
+- Are learners x?
+- Are learners y?
+- Are learners z?
 
-Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations.
+### Observing and Assessing Authentic Practices
 
-
-### Conclusion
-
-This chapter has uncovered The wider definition of CT here assumes the collaborative coding of a computing project. some of the dangers the more formal / abstract computing education approaches and challenges. A magasine article by Resnick cautions against some of the dangers of adopting a too formal approach including; too much memorisation of computational terms rather than application, devaluing hands on coding compared abstract concepts, not enough time devoted to complete projects and finally learners not given enough choice in their creations. His concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads
-
-As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. Realistically, in the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents - not working
-
-<!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects. -->
+There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents
 
 In an ideal situation teachers are able to introduce concepts and then give student suitable tools, inspiration and to sustain their motivation as they solve real computing tasks. However this sets the bar high for many classrooms. While not all schools can provide this kind of motivation and support within an everyday computing classroom environment, many of them find ways of bringing the value project and design approaches to their students. I explore some of these tactics and associated benefits of design and project approaches in more depth in another chapter of this book.    
 
-This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education. It has looked at the challenges and dangers of leading with abstract ideas. We can see the characteristics of UDL and the challenges that the principles pose for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions.
+### Conclusion
 
-To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach.
+This chapter has explored the alignment of between inclusive approaches and concrete ways of approaching computing education. It has looked at the challenges and dangers of leading with abstract ideas.  Resnick cautions against some of the dangers of adopting a too formal approach including; too much memorisation of computational terms rather than application, devaluing hands on coding compared abstract concepts, not enough time devoted to complete projects and finally learners not given enough choice in their creations. His concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads
+
+We have also explored the value of UDL principles for teachers looking to inclusive practice. We have also covered some of the well established and newly emerging pedagogical approaches to resolve some of these contradictions. In another chapter I explore design and project based approaches as other techniques to help teachers balancing the requirements of the curriculum and doing hands-on work.
+
+<!--In short I advocate leading with project goals first approach rather than computational thinking concepts AND focusing on coding and design concepts as the framework for learners to help navigate the learning that happens in these projects. -->
