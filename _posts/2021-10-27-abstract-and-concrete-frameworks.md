@@ -59,7 +59,7 @@ title: Abstract and Concrete Approaches to Computing
 
 In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and many creative fun apps .  Computing as a subject draws on this diverse engagement and computing teachers share their creative approaches to covering the computing curriculum, building fluency in programming and developing wider computer science knowledge. When we can connect computing to young people's genuine interests then magic happens. This chapter champions the value of hands-on teaching approaches. It does this by highlighting on-going tensions in the world of educational between abstract and concrete approaches, looks at definitions and role of Computational Thinking in an accessible way, examines inspirational and inclusive approaches to computing education.
 
-Before jumping into the more theory base part of this chapter it is a good idea to explore some of the terms that we will use in this and other chapters. Particularly the term inclusion and engagement.
+Before jumping into the more theory base part of this chapter it is a good idea to explore some of the terms that we will use in this and other chapters. Particularly the terms inclusion and engagement.
 
 <!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
@@ -143,6 +143,9 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 
 Many theories of learning explore the value of both concrete and abstract phases. The theory of experiential learning from Kolb is expressed often expressed as a cycle of concrete experience, reflection, abstract conceptualisation, experimentation and then repeats. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
 
+
+MISSING SECTION HERE ON COMMUNITY APPROACHES AND THE UNDERLYING SOCIO CULTURAL THEORY TO SUPPORT CONCRETE PARTICIPATION - LINK TO OTHER CHAPTER.
+
 <!-- The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially. -->
 
 <!-- Perhaps add to this element to the start of part four about project based approaches
@@ -193,10 +196,10 @@ This wider and process driven definition of CT has been used and adapted by many
 
 If you look at the breakdown, then you can see that a lot of practices and perspectives are very general to a process of creating something with peers rather than being unique to computing. This framework may be useful but this definition Computational Thinking can not be said to apply only to Computing.
 
-
 Coding may not be the same as computational thinking but it is part of the computing curriculum and a useful skill in itself. It is the water in which learners swim when creating engaging computing projects where such wider computing concepts are developed.
 
 From the perspective inclusive teaching practice there are many benefits to more concrete approaches. The wider definition of CT here assumes the collaborative coding of a computing project. This chapter will explore some of the benefits in context and highlight other frameworks and approaches that can help teachers deliver in this way.
+HOW EXACTLY - REMOVE OR BE SPECIFIC
 
 
 <!--
@@ -237,28 +240,15 @@ There is a tension between the skills required of Real Life coding and the time 
 
 <!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
 AN EXAMPLE ?-->
+<!-- In another chapter I examine wider project based approaches which are more challenging to integrate into a classroom environment but which provide particular benefits to the learner. -->
+<!-- First of all we look at the impact of GCSE exams and the computing curriculum on how teachers approach the subject. -->
+<!-- ### The context of GCSE exams papers -->
 
-This section gives tips and examples pitched at a typical classrooom computing environment.
+This section gives tips and examples pitched at a typical classrooom computing environment by drawing on resources provided by NCCE on the website Teach Computing. Classroom practice is strongly influenced by curriculum content and more specifically the format of exam questions. The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However exam questions on coding are by nature fragmented and decontextualised compared to project coding experience. The questions in the format of small coding challenges must be fragmented to be able test a particular part of the curriculum. Thus, there is little potential for students to show design or authentic debugging skills.
 
-In another chapter I examine wider project based approaches which are more challenging to integrate into a classroom environment but which provide particular benefits to the learner.
+How can teachers best prepare students for questions which require good degree of understanding concepts and memorisation of coding detail. Teaching to the test implies a passive learning on the part of the pupils. Spending a lot of time solving decontextualised exam questions has potentially negative impacts on inclusion and student engagement. Such a focus also reduces time to explore more authentic projects where students follow their own interests and develop design and troubleshooting practices.  
 
-First of all we look at the impact of GCSE exams and the computing curriculum on how teachers approach the subject.
-
-### The context of GCSE exams papers
-
-In a very real sense the contents of GCSE exams determine a lot of what happens in the computing classroom in the preceding years. In practical terms, as abstract concepts are a part of our computing curriculum as educators we need to share tactics to help our learners develop them.
-
-The removal of course work from exams due to widespread sharing of worked examples on line created a real challenge for those setting exams. How to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However the end results are a slightly frustrating mix of trying to be applied and authentic, and yet strangely artificial as the coding problems are fragmented and written on paper rather than in a real code environment.  
-
-The questions which address CT and programming in the format of small coding challenges have to be broken into small fragments to be able test a particular part of the curriculum. By necessity, the challenges include little in the way of context.
-
-There is little or no potential for students to show design or authentic debugging skills in the fragmented, paper based questions.
-
-This passes another challenge on to teachers, how to prepare students for these more kinds of questions which require coding in a non coding environment. It is a hard challenge as there is a diversity of material to cover which in an exam setting takes both good degree of understanding and memorisation of detail.
-
-In essence teachers face a familiar problem of how much they should "teach to the test". The phrase has been demonised as it implies a passive learning on the part of the pupils, cramming knowledge. You may say, surely this is just the nature of paper based exams. Yes they are formal and dry but that is a by product of making them fair.
-
-However, teaching to the test and staying in a mostly decontextualised examples has potential negative impacts on inclusion and student engagement. If teachers train students efficiently for the test they will be less likely to engage in authentic projects in which they can follow their own interests.
+In the following section we look at some of the practical tactics for classroom teaching that aim teachers to answer this challenge. The aim to explore more abstract computing concepts and integrate them with concrete examples and practices.
 
 <!-- https://www-tandfonline-com.mmu.idm.oclc.org/doi/full/10.1080/14703297.2018.1564882?casa_token=5gdmHSGX8BwAAAAA%3ANAyJjDXRrGZPqN2yJzqp_0zw_-U1hpZejAu3j8zBM1Gw6AvybVyroc7m_LUDzuaz-h6w6w6tzII -->
 
@@ -270,29 +260,24 @@ Drill and test - analysing code - predictions - then go on to other tactics.
 <!--
 Sign posting - do this elsewhere
 In the final section I take a more idealistic pedagogical approach - imagining what a learning landscape without these restrictions would look like - in line with Papert and Turkle to explore alternative concrete approaches and frameworks in more detail. -->
-
-In the following section we look at some of the practical tactics for teaching some of the more abstract CT concepts in a classroom setting.
-
 <!--
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process. -->
 
 ### 12 Principles for Teaching Computing
+To counter act the challenges addressed in the last section the NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising some of the diverse and sometimes seemingly contradictory opportunities and requirements, they have provided a set [*12 principles for teaching computing*](https://blog.teachcomputing.org/how-we-teach-computing/) aimed at mainstream teachers. What these approaches have in common is an attempt to address the tricky issue of understanding complex and abstract concepts.
 
-This section draws on resources provided by NCCE on the website teach computing. They often have a focus on techniques that work well in a classroom settings and help prepare for exam like questions.
-
-To counter act the challenges addressed in the last section the NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising some of the diverse and sometimes seemingly contradictory opportunities and requirements, they have provided a set [*12 principles for teaching computing*](https://blog.teachcomputing.org/how-we-teach-computing/) aimed at mainstream teachers.
-
-INCLUDE BETTER SUMMARY OF THESE PRINCIPLES IF NOT INCLUDED IN ANOTHER CHAPTER
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
-What these theories have in common is an attempt to address the tricky issue of understanding complex and abstract concepts. The principles also help us to be aware of to balance the promise of transfer with the difficulties associated with the more abstract nature of the concepts.
-
-### Specific techniques
-
 #### Unplugged activities
-Unplugged are activities carried out away from the computer that aim to illustrate computing concepts.
 
-Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
+Unplugged are activities carried out away from the computer that aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
+
+#### PRIMM
+
+PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code. PRIMM's starting point is students reading and predicting code results. It aligns with the NCCE principle of _concepts first_. This engagement with the motivation of the code allows teachers to focus on the target computing concept of the lesson. It allows them to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as the process of leading with prediction narrows the focus of the class, thus allowing a larger set of learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams.
+For a more detailed summary of the PRIMM approach see this quick read pedagogy article. http://tiny.cc/primmqr
+
+PRIMM is a modification of Use Modify Create framework which was developed to represent the learning process of learners engaging with extensive computing projects like game design, designing simulations and robotics projects. I write in more detail about the Use Modify Create framework in another chapter in this collection.
 
 #### Semantic Waves and Leading with Concepts
 Two concepts in the teach computing principles are _lead with concepts_ and _Unplug, Unpack and Repack_. These principles have been explored with the theory of semantic waves.
@@ -316,43 +301,20 @@ Another similar approach to the semantic wave is that of expansive framing. The 
 
 A particular example of this technique has been used to increase the effectiveness of unplugged approach by Lee and Vincent using an context of weaving as well as physical activities before exploring such ideas in a context of coding. The idea be
 
-
-#### PRIMM
-
-PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code.  PRIMM is a modification of Use Modify Create framework which was developed to represent the learning process of learners engaging with extensive computing projects like game design, designing simulations and robotics projects. I write in more detail about the Use Modify Create framework in another chapter in this collection on game making.
-
-The key modification PRIMM makes is in it's starting point of students reading and predicting code results. It aligns with the NCCE principle of _concepts first_. This engagement with the motivation of the code allows teachers to focus on the target computing concept of the lesson. It allows them to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as the process of leading with prediction narrows the focus of the class, thus allowing a larger set of learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams.
-
-For a more detailed summary of the PRIMM approach see this quick read pedagogy article. http://tiny.cc/primmqr
-
-
 #### Pair Programming
 
 Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners. One of the key values of pair programming is to start to develop different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
 
-The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding.
+The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding. This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
 
-This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings) and is explored in the final section.
-
-+++++++
-POSSIBLE CASE STUDY -
-+++++++
-
-Werner et al study (see quick read) -
-
-This research showed the value of pair programming to build confidence and provide a social coding environment that was welcoming to girls without excluding boys.
-
-
-
-
-#### Universal Design for Learning
+## Universal Design for Learning
 
 In a previous section we looked at the foundations of inclusive pedagogies and UDL as an application of these principles. UDL is useful as a set of principles however there is less research available of application in specific settings.
 
 UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The key ideas emerged from the arena of designing computer aided instruction have been revised to into a framework that applies to diverse teaching and learning settings.  According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
 
-![udl](./Pictures/udl1.png)
-![udl]({{ site.baseurl }}/Pictures/udl1.png)
+<!-- ![udl](./Pictures/udl1.png)
+![udl]({{ site.baseurl }}/Pictures/udl1.png) -->
 
 
 Universal design for learning is based around the principle that rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability -  it is possible to embrace a set of guidelines that allow learners to choose a learning pathway through a designed learning experience that suits their individual abilities and learning strategies.
@@ -380,7 +342,7 @@ Thus if we return to the semantic wave representation, this suggests teachers sh
 
 ### Conclusion
 
-This chapter has uncovered some of the dangers the more formal / abstract computing education approaches and challenges. A magasine article by Resnick cautions against some of the dangers of adopting a too formal approach including; too much memorisation of computational terms rather than application, devaluing hands on coding compared abstract concepts, not enough time devoted to complete projects and finally learners not given enough choice in their creations. His concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads
+This chapter has uncovered The wider definition of CT here assumes the collaborative coding of a computing project. some of the dangers the more formal / abstract computing education approaches and challenges. A magasine article by Resnick cautions against some of the dangers of adopting a too formal approach including; too much memorisation of computational terms rather than application, devaluing hands on coding compared abstract concepts, not enough time devoted to complete projects and finally learners not given enough choice in their creations. His concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads
 
 As discussed, there is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. Realistically, in the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents - not working
 
