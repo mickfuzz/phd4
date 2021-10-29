@@ -126,7 +126,6 @@ To help address this chapter will cover some design and project based approaches
 ## Computational Thinking, the Abstract and Concrete
 
 ### Concrete and Abstract learning approaches
-
 When reading about different approaches to teaching computing you are likely to meet the terms concrete and abstract. In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract. There is another everyday usage which hints that abstract knowledge are harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete. In traditional conceptions of education abstract knowledge is of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge. This concept exists in Piaget's influential model of ages and stages, a progression to more abstract thinking between the concrete and formal stages.  
 
 There are drawbacks of adopting teaching in either solely abstract or concrete ways. For example, learners may not make a connection of abstract material to real-life situations. They can then only recall rather than apply the knowledge. A term for this is _inert knowledge_. In computing, you may be able to give a definition of what a function is in a coding language but not be able to write one. There are also downsides to learning in a concrete way. If you learned you coding by teaching yourself or just picking it up for other people then you may be able to complete tasks but not be able to explain what you have done to other people, or may really struggle to recognise similar patterns in other computing contexts. This kind of knowledge is sometimes called embodied skills.
@@ -142,9 +141,6 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 <!-- However, while this valuing of concrete approaches is important, it is potentially unhelpful to express concrete and abstract as two paths that never meet. Abstract concepts are useful after all. The danger is when the abstract concepts chosen by educators or included in the curriculum are don't seem relevant to learners, leading to their disengagement.   -->
 
 Many theories of learning explore the value of both concrete and abstract phases. The theory of experiential learning from Kolb is expressed often expressed as a cycle of concrete experience, reflection, abstract conceptualisation, experimentation and then repeats. When this comes to coding and computing this rings true as your knowledge of a coding concept may deepen a little bit each time you apply it in practice.
-
-MISSING SECTION HERE ON COMMUNITY APPROACHES AND THE UNDERLYING SOCIO CULTURAL THEORY TO SUPPORT CONCRETE PARTICIPATION - LINK TO OTHER CHAPTER.
-
 
 
 ### ACTIVITY - RECOGNISING THE CONCRETE AND ABSTRACT IN YOUR TEACHING
