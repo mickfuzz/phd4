@@ -248,7 +248,7 @@ This section gives tips and examples pitched at a typical classrooom computing e
 
 How can teachers best prepare students for questions which require good degree of understanding concepts and memorisation of coding detail. Teaching to the test implies a passive learning on the part of the pupils. Spending a lot of time solving decontextualised exam questions has potentially negative impacts on inclusion and student engagement. Such a focus also reduces time to explore more authentic projects where students follow their own interests and develop design and troubleshooting practices.  
 
-In the following section we look at some of the practical tactics for classroom teaching that aim teachers to answer this challenge. The aim to explore more abstract computing concepts and integrate them with concrete examples and practices.
+NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising some of the diverse and sometimes seemingly contradictory opportunities and requirements, they have provided a set [*12 principles for teaching computing*](https://blog.teachcomputing.org/how-we-teach-computing/) aimed at mainstream teachers. What these approaches have in common is an attempt to address the tricky issue of understanding complex and abstract concepts. In the following section we look at some of principles and other tactics for classroom teaching that aim teachers to answer this challenge. The aim to explore more abstract computing concepts and integrate them with concrete examples and practices.
 
 <!-- https://www-tandfonline-com.mmu.idm.oclc.org/doi/full/10.1080/14703297.2018.1564882?casa_token=5gdmHSGX8BwAAAAA%3ANAyJjDXRrGZPqN2yJzqp_0zw_-U1hpZejAu3j8zBM1Gw6AvybVyroc7m_LUDzuaz-h6w6w6tzII -->
 
@@ -263,8 +263,7 @@ In the final section I take a more idealistic pedagogical approach - imagining w
 <!--
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process. -->
 
-### 12 Principles for Teaching Computing
-To counter act the challenges addressed in the last section the NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising some of the diverse and sometimes seemingly contradictory opportunities and requirements, they have provided a set [*12 principles for teaching computing*](https://blog.teachcomputing.org/how-we-teach-computing/) aimed at mainstream teachers. What these approaches have in common is an attempt to address the tricky issue of understanding complex and abstract concepts.
+
 
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
