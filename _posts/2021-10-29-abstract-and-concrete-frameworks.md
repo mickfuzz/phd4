@@ -9,34 +9,6 @@ categories: misc
 title: Abstract and Concrete Approaches to Computing
 ---
 
-# Abstract and Concrete Frameworks to Support Inclusion in Computing
-
-## Outline
-
-### Intro, context and terms
-- Introduction & Context
-  -   Inclusion - define and how relevant to abstract / Concrete
-  <!-- - Context, coding not ICT, new curriculum -
-  quick sketch of CT, NEEDS ADDING?  -->
-- A note on making computing engaging
-- Concrete and Abstract terms defined in relation to learning
-
-### Computational Thinking, the Abstract and Concrete
-- Concrete and Abstract learning approaches
-- The Issue of Transfer
-- CT explored - Wing and Resnick - wider - narrower - abstract / concrete
-- Coding is not CT - but a good medium
-
-### Tactics for teaching Computing in the Classroom
-- gcse exam context
-- tactics for teaching Coding
-- expansive framing
-- semantic wave - presented and applied as concepts first often - can be either but danger of flatlining - how to avoid that in tinkering projects?
-- pair / peer programming
-- limitations of concepts first approach as a link to the next section
-
-###  Conclusion
-
 <!--
 ### notes / ideas
 - order of the concrete / abstract and inclusion section - prehaps swap?

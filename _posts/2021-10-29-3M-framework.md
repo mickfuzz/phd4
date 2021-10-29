@@ -16,37 +16,10 @@ title: Game Making Pedagogy using a Three M Framework
 
 Section on tensions is too long - instead perhaps a summary of tools choice tensions, limits of the classroom and new opportunities. - so move some to 3m as justification and some to limits / tensions -->
 
-## Summary
-
-PLEASE NOTE THIS IS IN DRAFT FORMAT ONLY - NOT READY FOR DETAILED FEEDBACK
-BUT HAPPY TO CHAT ABOUT BIG PICTURE.
-
-- Introduction / Context
-
-- Main Sections
-  - Intro
-    - signposting
-    - context in UK
-      - (add in livingstone, pipeline to games industry of report)
-  - (main features?)Benefits of game making & what's unique about gaming
-    -
-  - Game Making Tools Summary
-  - 3M Framework in relation to the above
-- Overcoming Challenges of classroom application
-
-
-## Concepts Summary
-
-pedagogy / concepts in this chapter
-
- - funds of knowledge
- - socio cultural approaches
- - systems thinking
- - game player types - from Richard Bartle
 
 ## Intro
 
-In a previous chapter in this collection I outlined the opportunities of a project based approach to learning computing and in particular the craft of coding. In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based approaches. I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games. My aim is to engage with research on game making but also to keep the subject connected to learning experiences in a school or after-school context. To do this I look at tensions to game making approaches especially those that impact the use of game making in the classroom. Finally from my own research with families making games together, I share a learning design incorporate some of the techniques explored in this chapter.
+In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based approaches. I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games. My aim is to engage with research on game making but also to keep the subject connected to learning experiences in a school or after-school context. To do this I look at tensions to game making approaches especially those that impact the use of game making in the classroom. Finally from my own research with families making games together, I share a learning design incorporate some of the techniques explored in this chapter.
 
 <!-- In this chapter I use the example of game making to as a way to examine these issues in more depth. I explore a concrete example of how this more chaotic learning can be brought into formal environments with appropriate scaffolding. In main section of this chapter explores a game making pedagogy that is a result of my own research. From now on I will use the term _learning design_ instead of _pedagogy_ to refer to this specific implementation of several underlying pedagogic principles. -->
 
@@ -310,7 +283,8 @@ SHIFT THIS - After minimal hands on coding time we played a matching game which 
 A standard way to progress from an incomplete game would be to follow a step-by-step tutorial which covered adding new game features in a pre-set order. In the 3M model learners choose the order then implement new features. I asked my family learners what they would like to add to this project.  They came up with a list of features including; moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Design patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre.
 
 Game design patterns come in different forms but at the most user-oriented level as illustrated in the examples above they have the advantage of being immediate and concrete to learners. Game design patterns are used as a relatable way for student to choose their paths and to structure  support via coding concepts linked to these patterns.
-DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE?
+
+<!-- DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE? -->
 
 ![patterns as text](./Pictures/sample_pattern.png)
 
@@ -320,11 +294,12 @@ DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE?
 
 When learners choose the pattern they want to work on they can take a physical card on-line help to support them implement the code needed to add the pattern to the game. I originally started off with printed supporting documents but then help learners to transition to online resources. The digital format is particularly useful if learners are copying and pasting code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. But creates another tension around how much guidance to give learners in the code examples provided. How much support you give to this process is up to you. I work with relatively young coders, thus  I chose to provide almost complete code help. This design helps build familiarity with code and the code environment.
 
+<!--
 ![patterns as missions ](./Pictures/missions_full.png)
 ![patterns as missions ]({{ site.baseurl }}/Pictures/missions_full.png)
 _Diagram of Possible Missions on a Web Page Menu_
 
-CHANGE THIS TO MORE TEXT ORIENTED BREAK DOWN.
+CHANGE THIS TO MORE TEXT ORIENTED BREAK DOWN. -->
 
 In my research providing these limited options but allowing student to choose their own pathway had a immediate positive effect on the motivation and general energy level of the coding classroom. I would describe result of this approach is a kind of creative, productive chaos.
 
@@ -332,37 +307,30 @@ As mentioned the break down involves creating help resources to support a menu o
 Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
 MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
 
-
-
-
-
 **Game Maker Types and Missions**
 
-As digital and online games became more complicated Richard Bartle proposed that players to get different things out of them. He created a test to finds out what kind of game player you are. https://matthewbarr.co.uk/bartle/
+As digital and online games became more complicated Richard Bartle proposed that players to get different things out of them. He created a test to finds out what kind of game player you are. https://matthewbarr.co.uk/bartle/. One of my favourite warm up activities is to get game making participants to take the Bartle test as a group. I converted the quiz in to an interactive physical game. Personal and ethical choices are explored in real time and it's a lot of fun.
 
-This model holds that there are four different kinds of player styles: Griefers, Achievers, Explorers, and Socializers. Achievers get satisfaction by progressing by playing by the rules of the game's missions. Explorers discover the systems governing the operation of the game world. Socializers form relationships with other players by telling stories within the game world. Griefers (or Killers) interfere with the functioning of the game world or the play experience of other players. Open world games that allow you to choose how you play the game. If you want to stick to the main missions you can follow guidance to do that but if you just want to explore or be social or mess around you have the chance to do that too.
+The Bartle model holds that there are four different kinds of player styles: Griefers (Killers), Achievers, Explorers, and Socialisers. Achievers get satisfaction by progressing by playing by the rules of the game's missions. Explorers discover the systems governing the operation of the game world. Socializers form relationships with other players by telling stories within the game world. Griefers interfere with the functioning of the game world or the play experience of other players. Open world games that allow you to choose how you play the game. If you want to stick to the main missions you can follow guidance to do that but if you just want to explore or be social or mess around you have the chance to do that too.
 
  ![bartle test](./Pictures/bartle_test.png)
  ![Bartle Game Player Type Test]({{ site.baseurl }}/Pictures/bartle_test.png)
  _Bartle Game Player Type Test_
 
-One of my favourite warm up activities is to get game making participants to take the Bartle test as a group. I convert the quiz in to an interactive physical game. Personal and ethical choices are explored in real time. It's a lot of fun.
-
 I propose that as well as different Game Player types there are also different styles of Game Maker.  Planners like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step. Social makers form relationships with other game makers and players by finding out more about their work and telling stories in their game. Magpie makers like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results. Glitchers mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc.
 
-I don't propose that people fall neatly into any one category. Instead these categories are mostly aimed at educators to help them plan their game making sessions. After some of my own sessions I wondered if some of the frustration and confusion surrounding learners on-going participation was due to the diversity of the different approaches.
+<!-- I don't propose that people fall neatly into any one category. Instead these categories are mostly aimed at educators to help them plan their game making sessions. After some of my own sessions I wondered if some of the frustration and confusion surrounding learners on-going participation was due to the diversity of the different approaches. -->
 
-For example, I noticed that sometimes parents would get frustrated at their kids messing around and creating tricky or impossible games. I could hear them struggling to bring their kids back into line with what they thought was the right way to go about making games. At the same time when I reviewed the tapes of what they were doing these young people were often exploring the code, making many changes, and inviting others to play their game for feedback very activity - which are excellent coding practices.
+I noticed that sometimes parents would get frustrated at their kids messing around and creating tricky or impossible games. I could hear them struggling to bring their kids back into line with what they thought was the right way to go about making games. At the same time when I reviewed the tapes of what they were doing these young people were often exploring the code, making many changes, and inviting others to play their game for feedback very activity - which are excellent coding practices.
 
-To address this issue I created some extra missions to suit these Glitcher game makers who enjoyed playing against the game. While I guessed planners wouldn't need them, for magpie makers, and social makers I created other extra missions that might encourage or legitimise their favoured activity. Thus some of the missions were social in nature (Find out who plays the most computer games per week in your group), others were more anti-social in nature (add an usual sound to someone else’s project) and some exploratory missions that encourage feature sharing ()
+To address this issue I created some extra missions to suit these Glitcher game makers who enjoyed playing against the game. While I guessed planners wouldn't need them, for magpie makers, and social makers I created other extra missions that might encourage or legitimise their favoured activity. Thus some of the missions were social in nature (Find out who plays the most computer games per week in your group), others were more anti-social in nature (add an usual sound to someone else’s project) and some exploratory missions that encourage feature sharing.
+Also while many learners appreciated the quick progress and immediate feedback of patching code to add game design features, other learners wanted to know the full detail of the underlying template code. These planners appreciated having step by step tutorials that explained the code piece by piece. One of the things all game maker types can benefit from are resources to help support learner navigation, this brings us to the next M - **Maps**.
 
-These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions
-
-Also while many learners appreciated the quick progress and immediate feedback of patching code to add game design features, other learners wanted to know the full detail of the underlying template code. These planners appreciated having step by step tutorials that explained the code piece by piece.
+<!--
+These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions -->
 
  <!-- The process of having this feedback from users was good to get over my initial bias towards chaotic learning -->
 
-One of the things all game maker types can benefit from are resources to help support learner navigation, this brings us to the next M - **Maps**.
 
 ### Maps
 
@@ -376,18 +344,16 @@ The first step was to try to address issues of being unsure what to do next or j
 
 <!-- ![map of learning design]({{site.github.url}}/Pictures/maps_2000.png) -->
 
-![learning islands](./Pictures/maps_2000.png)
+<!-- ![learning islands](./Pictures/maps_2000.png)
 ![learning islands]({{ site.baseurl }}/Pictures/maps_2000.png)
-_Missions as Islands_
+_Missions as Islands_ -->
 
-In addition this chaotic, colourful and visual representation served to encourage peer knowledge of what other people were up to, build a sense of community and to encourage reflection as each design patter was completed.  
+In addition this chaotic, colourful and visual representation served to encourage peer knowledge of what other people were up to, build a sense of community and to encourage reflection as each design pattern was completed.  
 
 <!-- Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Having them all mapped out meant. -->
 <!-- Is this better in Missions?   -->
 
-Maps can also be used retrospectively to help learners to reflect on their progress. I asked student to create a physical character that could move around the large scale print out of the islands. When they chose a new pattern to work on they moved their counter and drew a trail of where they had been.
-
-When moving the counter on the map they can be prompted to look at the coding concepts or other learning dimensions that they have been working with when implementing their game patterns.
+Maps can also be used retrospectively to help learners to reflect on their progress. I asked student to create a physical character that could move around the large scale print out of the islands. When they chose a new pattern to work on they moved their counter and drew a trail of where they had been. When moving the counter on the map they can be prompted to look at the coding concepts or other learning dimensions that they have been working with when implementing their game patterns.
 
 #### Learning Dimensions Map
 
@@ -448,7 +414,7 @@ I have worked with practitioners of Drama Education department at Manchester Met
 - create a sense of 'jeopardy' increasing their commitment to the process
 - encourage reflection in learners - as they shared their games with the alien audience, they talked through their design decisions and challenges.
 
-## Challenges - and how they may link to a classroom setting
+<!-- ## Challenges - and how they may link to a classroom setting
 
 MOVE SOME TO THE TENSIONS MIDDLE SECTION - AS THEN IT IS RESOLVED
 MOVE OTHERS TO THE CONCLUSION
@@ -457,19 +423,19 @@ MOVE OTHERS TO THE CONCLUSION
 <!-- As such this section uses data drawn from the wider research -- I also cross reference this with my own observations from my game making studies. -->
 <!--
 We also look at the resulting understanding of the emerging tensions. This is a good place to start as you may find similar tensions in your teaching environments (be they formal classroom settings or more informal club or out of school projects). -->
-
+<!--
 #### Prioritising Learning Dimensions
 
 The potential dimensions of learning in Kafai and Burke's review of research is very diverse including; 21st Century Skills, developing coding and information technology skills and teaching other subjects through cross curriculum projects. This potential put a responsibility on teachers to prioritise and promote certain learning outcomes over others.
 
 Teaching in more formal environments
-For my study, I ended up de-prioritising more general communications skills (21st C skills) and highlighting coding concepts and systems concepts.
+For my study, I ended up de-prioritising more general communications skills (21st C skills) and highlighting coding concepts and systems concepts. --> -->
 
 <!-- If you are promoting teamwork, then coding concepts may have to be de-prioritised -- if you choose to deepen subject knowledge of maths by making a fractions game then something else may need to go.
 
 This is borne out by Kafai and Peppler - can't find this - who say ""the diversity of learning and that there is more than one learning outcome is something teachers need to be aware of. -->
 
-### Time considerations and classroom culture
+<!-- ### Time considerations and classroom culture
 
 Project-based approaches are often explored in after-school clubs or other informal settings, as the time needed to run authentic projects is often scarce due to competing curriculum demands. However they are successfully integrated into core school activities by many educators. Some of the ways to overcome this are explore in previous chapter.
 CROSS REFERENCE OTHER CHAPTERS
@@ -480,7 +446,7 @@ Finally, one of the most challenging but rewarding aspects of making games toget
 
 In all the programs I ran only one parent and one student had experience of coding. This process of starting up such a community from scratch is challenging. In the previous sections I have shared my tips to help build a small game making community. These include encouraging peer sharing with diversity of learner paths, narratives and activities to encourage group reflection, starting activities which build a team spirit.
 
-At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up. However I leave this to you as educators to resolve. And don't forget one last ingredients raw enthusiasm.
+At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up. However I leave this to you as educators to resolve. And don't forget one last ingredients raw enthusiasm. -->
 
 
 ## Conclusion

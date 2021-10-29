@@ -11,34 +11,19 @@ title: Project and Design Approaches in Computing
 
 # Project and Design Approaches in Computing
 
-## Outline
-
-- Intro to chapter - alternative models suiting bottom up  / concrete approaches
-- power of communities - value of community participation - socio cultural approaches to education
-- craft approaches -
-- Design approaches -
-  - creative spiral / iterative
-  <!-- - studio thinking -->
-  - using design patterns
-  - case study on design patterns  - Scalable Game design
-- PBL as an inclusive models  - - Value of PBL - personal summary - diversity of projects possible- cf the uncertainty of pedagogy, given freedom
-<!-- - Return to UDL universal design for learning - point out similarities - and recap on signifiance for inclusion -->
-
 ## Introduction
 
 In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. We looked at challenges imposed by exam format, lack of time and a limited participation on real communities of computing and coding. We have looked at some of the 12 principles and quick reads promoted by the NCCE both abstract and concrete approaches. These include of them are _Make concrete_ and _Get hands-on_. While it is not contradictory to encourage both abstract and concrete approaches, given the tactic moving between the two perspectives via _semantic waves_, the resources provided, perhaps because they are targeted at the classroom, often lead with more formal learning approaches.
 
-In a professional setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities.
-
-While GCSE questions outlined in the previous chapter attempt to include some elements of peer practices by including tests of code reading and analysis, preparing for these exam questions develops skills and practices that are quite different from coding in a real life setting. Because of this computing teachers face a significant challenge to both teach concepts to be reproduced in exam contexts and to unleash the potential of student working on their own projects.    
+In a professional setting coders will often be working within existing projects, patching and remixing existing code, including external libraries and adapted to existing practices and patterns used by their colleagues and code communities. While GCSE questions attempt to include some elements of peer practices by including tests of code reading and analysis, preparing for these exam questions develops skills and practices that are quite different from coding in a real life setting. Because of this computing teachers face a significant challenge to both teach concepts to be reproduced in exam contexts and to unleash the potential of student working on their own projects.    
 
 <!-- There is also danger that this abstract approach to algorithms, while containing the promise of transfer to other domains, has the danger of distracting teachers from other creative ways of representing the learning outcomes of more concrete approaches. -->
 
-The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a such tremendous potential to transformative learning experiences. Perhaps most significant is the potential for project and design based approaches to engage and sustain a diversity of learners in computing.
+The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting are less explored in the UK teaching context. This is partly due to difficulties in implementing them in a school setting which we explore later in this section. However despite the challenges, these creative and authentic approaches have a tremendous potential to transformative learning experiences. In this chapter we explore some of the strategies that can be used to support the delivery of design and project based approaches. Before we do this I want to describe one aspect that is important to these approaches, that of community.
+
 
 <!-- To address wider challenges of implementing PBL approaches we look at what is available to help teachers balancing the requirements of the curriculum and doing hands-on work. To address questions equality I explore how can young people from a wide variety of backgrounds benefit from this approach. -->
 
-In this chapter we explore some of the strategies that can be used to support the delivery of design and project based approaches. Before we do this I want to describe one aspect that is important to these approaches, that of community.
 
 ## The Power of Communities
 
@@ -65,17 +50,20 @@ most pedagogies are still around behaviourist approaches.
 
 This is in line with socio-cultural understandings of how learning happens. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
+### ACTIVITY - APPLYING A COMMUNITY APPROACH IN THE CLASSROOM
+
+Are you making the most of the power of communities in your classroom. Before you start your next unit of you work you can ask you self some of the following questions.
+
+- Are learners x?
+- Are learners y?
+- Are learners z?
+
 <!--
 And SINGPOSTING to the rest of the chapter
  -->
 
  <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
  <!-- ### UDL as Learning Framework -->
-
-
-## REMOVED SECTION ON CRAFT APPROACHES.
-
-Removed as overlap with project approaches.
 
 ## Design Approaches
 
@@ -98,23 +86,23 @@ https://www.mantleoftheexpert.com/resources/contexts/
 
 
 
-### The Use Modify Create model
+### The Use Modify Create model -  incomplete
 <!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
 
 There are some parallels and some differences between Use Modify Create and the PRIMM framework described in a previous chapter (http://tiny.cc/usemodifycreate) [@lee_computational_2011]. Both have become increasingly popular in the computing education sector in the UK.
-https://dl.acm.org/doi/pdf/10.1145/3372782.3406256?casa_token=cBoF48cWKN0AAAAA:R2ZKcg52OtgVx4D8k545hLnviFgHvjgJg5-DQUP3cfTux1BDj0dDB7lXuC5M3RZfmjXqNUkoD1Y
+
 This model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts.
+
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
 In **Modify** learners progress to working on real projects but one created by others.
-
 Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch.
 
-FLESH THIS OUT - DROP DESIGN PATTERNS - GET A CASE STUDY
-
-Could ask Phil Bagge or use this case study on Scratch Encore.
+**Use this article to complete this section**
 https://dl.acm.org/doi/pdf/10.1145/3372782.3406256?casa_token=cBoF48cWKN0AAAAA:R2ZKcg52OtgVx4D8k545hLnviFgHvjgJg5-DQUP3cfTux1BDj0dDB7lXuC5M3RZfmjXqNUkoD1Y
 
-
+<!--
+Could ask Phil Bagge or use this case study on Scratch Encore.
+https://dl.acm.org/doi/pdf/10.1145/3372782.3406256?casa_token=cBoF48cWKN0AAAAA:R2ZKcg52OtgVx4D8k545hLnviFgHvjgJg5-DQUP3cfTux1BDj0dDB7lXuC5M3RZfmjXqNUkoD1Y -->
 
 <!--
 #### Studio Thinking PERHAPS DROP? TOO SIMILAR TO PBL AND UDL
@@ -146,7 +134,7 @@ Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
 
-#### Worked Examples and Design Patterns as an educational tool
+### Worked Examples and Design Patterns as an educational tool
 
 For computing student at higher education a key technique is to learn an object oriented approach is via design patterns. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
 
@@ -198,7 +186,15 @@ The process of keeping the community up and running and safe for young people is
 <!--
 What these projects and features have in common is that they create communities which support the different stages creative spiral. The importance of creating and facilitating different forms of participation in communities and for that community to function a motivating factor and reflective tool for young producers is key to the socio-cultural and constructionist schools of educational research. This line of thinking can be traced back to to Papert's early focus on objects to think with and creating shareable concrete artefacts. -->
 
-### Projects and Project Based Learning
+### ACTIVITY - USING DESIGN APPROACHES IN THE CLASSROOM
+
+Ask you self some of the following questions.
+
+- Are learners x?
+- Are learners y?
+- Are learners z?
+
+## Projects and Project Based Learning
 
 Project-based learning (PBL) is of the 12 teach computing principles advocated by NCCE. In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. I propose that PBL has strong parallels with UDL especially in promoting choice and authenticity in projects. Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
 
