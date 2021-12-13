@@ -48,15 +48,15 @@ how to bring this into the classroom
 most pedagogies are still around behaviourist approaches.
 -->
 
-This is in line with socio-cultural understandings of how learning happens. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
+This is in line with socio-cultural understandings of how learning happens. Community in this context not only provides support in creative process but also motivates participation in the first place. Barbara Rogoff, a key researcher in the socio-cultural approaches to education describes _communities of learners_ - see http://tiny.cc/communityoflearners (updated this link it's mmu). Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Instead participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that this can be confusing to adults used to more instruction-based learning and that such a community in full swing can seem chaotic but that this is because complex and productive learning is happening in ways that we may be unused to. This chapter aims to help decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
 ### ACTIVITY - APPLYING A COMMUNITY APPROACH IN THE CLASSROOM
 
-Are you making the most of the power of communities in your classroom. Before you start your next unit of you work you can ask you self some of the following questions.
+Are you making the most of the power of communities in your classroom. Before you start your next unit of work you can ask you self some of the following questions.
 
-- Are learners x?
-- Are learners y?
-- Are learners z?
+- At what stages in your learners able to work together during your unit of work? Are there chances for peer feedback?
+- Can you draw on the roles or identities that students have adopted in other work? Are they able to reflect on the specifics on those roles to contribute to the effectiveness of their teamwork? 
+- Is there a connection with other communities outside of the classroom? Can your learners make the connection directly?
 
 <!--
 And SINGPOSTING to the rest of the chapter
@@ -77,14 +77,11 @@ In the following sections I explore the use modify create model, design patterns
 
 
 <!-- For some suitable resources see INSERT  
-
 https://www.stem.org.uk/resources/community/collection/449826/design-challenges  
 https://www.edutopia.org/topic/design-thinking
 https://www.mantleoftheexpert.com/resources/reading/
 https://www.mantleoftheexpert.com/resources/contexts/
 -->
-
-
 
 ### The Use Modify Create model -  incomplete
 <!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
@@ -145,7 +142,6 @@ The advantage of design patterns and worked examples as a way of teaching and le
 For educators the use of Design Patterns to support learners develop coding proficiency provides certain advantages. As a bridge between abstract concept and concrete implementations. As a way to join and navigate participation in a community of coders.
 
 As coders build their understanding of key design patterns COMPLETE - THEY ALSO TAKE PART IN A COMMUNITY - PERHAPS ADDING THEIR OWN TAKE AND SHARING THIS IN THEIR PEERS.
-
 
 Sign post to following chapter on Game Making using design patterns.
 
