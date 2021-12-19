@@ -16,17 +16,11 @@ title: Game Making Pedagogy using a Three M Framework
 Indicative chapter structure (about 5000 words, less if you have tables/figures - see the T1 template)
 
 1 -Abstract/Keywords
-
 2 Introduction - An example problem in this domain: Global perspectives on the skill set needed
-
 3 Local research vignette or literature synthesis
-
 4-6 Key findings from research and examples of applying these in schools
-
 7 Evidence for assessing mastery of achievement
-
 8 Facilitating diagram and links/2 sentence descriptions of three supporting resources (embodying the research findings).
-
 9-10 References (we will be using Springer’s SocPsych Style – Page 16. It is based on APA7.)
 
  -->
@@ -115,7 +109,7 @@ There some fantastic example games and tutorials at
 https://arcade.makecode.com/
 
 
-### Tensions around Game Making Tools
+### Tensions around Game Making (Tools) - in general - revise down
 
 This section explores tensions that have emerged for myself and learners when  using game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
 
@@ -141,7 +135,7 @@ If students are working on similar projects. This may also have the effect of in
 
 Tools like MakeCode Arcade intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs.
 
-Some hobbyist or professional game making tools like GameMaker Studio, Construct or Unity abstract away the hands-on coding of games with graphical interfaces and include structures to help organise game design as it becomes more complex. The scope of choices may be overwhelming. Also, while code can often be accessed behind these menus, the focus is on getting the game done rather than on learning how to code per se.
+<!-- Some hobbyist or professional game making tools like GameMaker Studio, Construct or Unity abstract away the hands-on coding of games with graphical interfaces and include structures to help organise game design as it becomes more complex. The scope of choices may be overwhelming. Also, while code can often be accessed behind these menus, the focus is on getting the game done rather than on learning how to code per se. -->
 
 Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created.
 
@@ -155,9 +149,11 @@ In the last section we look out one learning design and how that aimed to overco
 
 <!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
 
-In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
+In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
-The 3M process has evolved with the aim that it is accessible and inclusive for parents, teachers and young learners. Part of that accessibility is a playful, game-like approach to it. In a nutshell, learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
+
+ <!-- This learning design could can be applied using any of the tools above. -->
+
 
 
 <!-- You may have particular curriculum or other learning goals. This iteration of the 3M design focuses on making games to learning the craft of coding, to build meta-cognitive skills (goal setting and reflection) and systems concepts. It could be adapted to highlight other key learning goals. -->
@@ -168,7 +164,7 @@ The 3M process has evolved with the aim that it is accessible and inclusive for 
 
 ### Missions (using Game Patterns and secret side-missions)
 
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection. The missions are designed to fit into the Use-Modify-Created model which is explored in another chapter in this collection.
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection. The missions are designed to fit into the Use-Modify-Create model which is explored in another chapter in this collection.
 
 In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
 

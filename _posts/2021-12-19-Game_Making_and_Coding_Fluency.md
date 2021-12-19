@@ -182,11 +182,11 @@ There some fantastic example games and tutorials at
 https://arcade.makecode.com/
 
 
-### Tensions around Game Making Tools
+<!-- ### Tensions around Game Making Tools
 
-This section explores tensions that have emerged for myself and learners when  using game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
+This section explores tensions that have emerged for myself and learners when  using game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making. -->
 
-**Asset Creation vs Hands-on Coding**
+<!-- **Asset Creation vs Hands-on Coding**
 
 With both Scratch and Phaser/Glitch there was a clear tension between time spent creating graphical and sounds assets verses time working on code related to game play and mechanics. Scratch has extensive built in tools to create graphics and sound. With Phaser, in addition to the code playground we used a separate web tool to create art called Piskel and others to create sound effects. Both allow a large amount of choice and a very rich creative landscape. At times it felt students were stuck in asset creation.
 
@@ -210,7 +210,7 @@ Tools like MakeCode Arcade intentionally limit the toolset provided to its graph
 
 Some hobbyist or professional game making tools like GameMaker Studio, Construct or Unity abstract away the hands-on coding of games with graphical interfaces and include structures to help organise game design as it becomes more complex. The scope of choices may be overwhelming. Also, while code can often be accessed behind these menus, the focus is on getting the game done rather than on learning how to code per se.
 
-Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created.
+Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created. -->
 
 ### About the 3M Game Making Model
 
@@ -244,29 +244,16 @@ Then we quickly asked learners to **Modify** a broken game with very simple chan
 In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
 
 
-**Main Mission - Fix a Half-Baked game**
+<!-- **Main Mission - Fix a Half-Baked game**
 
 In the 3M model participant code as part of a role play story. They are given a scenario where have to complete a mission. Making a game for a real or imagined audience is a part of that mission. You can choose your own real or imagined situations. It could be an external game making competition, or a fiction. In one version we made games for a group of Aliens coming to earth to help us save the planet, in another it was a dystopian, hunger games like future where we had to make a game to save our lives. The purpose here is to increase engagement, motivation and the sense of designing for another audience.
+-->
 
-In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way. The concept of a working with Half Baked games describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it. This draw on research on the value of remixing and altering the code of others. Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model in another chapter.
-
-However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from a shared code base but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code structures.
+In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way. Learners start with a deliberately incomplete or inappropriate game to provoke students to change it.
 
 In early stages, learners alter key variables, change level designs and add in new graphical and audio assets. Simple changes that are relatively easy and build familiarity with the code. For example I often start with a handful of printed card missions. Each suggests a small changes to the code that results in big impact on the game being played.
-MORE ON THIS - Bullet points?
 
-
-However as students still have to add and alter their game, as teachers we must still find a balance between providing too much choice and struggle to support learners as they get stuck with a huge variety of diverse problems and conversely offering not enough choice to be able enthuse learners through their personalisation of the project.
-
-<!-- Should I make this above bit into a story - learners getting stuck - an evolution -->
-
-How then to resolve this tension best? We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have some restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds; for example player accept that they don't have choice over their starting point. The following section outlines the use of a restricted menu of design patterns as a way of help deal with this tension in the 3M model.
-
-
-SHIFT THIS - After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
-
-
-<!-- Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding. -->
+<!-- MORE ON THIS - Bullet points? -->
 
 
 **Design Patterns as Missions to Support Learner Choice**
@@ -301,31 +288,6 @@ In my research providing these limited options but allowing student to choose th
 As mentioned the break down involves creating help resources to support a menu of game design patterns. This work is significant but manageable especially if community collaboration between teachers and other educators is involved. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms. The resources I have created for MakeCode and Phaser are free and open source and available online and available at the following URLs.
 Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
 MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
-
-**Game Maker Types and Missions**
-
-As digital and online games became more complicated Richard Bartle proposed that players to get different things out of them. He created a test to finds out what kind of game player you are. https://matthewbarr.co.uk/bartle/. One of my favourite warm up activities is to get game making participants to take the Bartle test as a group. I converted the quiz in to an interactive physical game. Personal and ethical choices are explored in real time and it's a lot of fun.
-
-The Bartle model holds that there are four different kinds of player styles: Griefers (Killers), Achievers, Explorers, and Socialisers. Achievers get satisfaction by progressing by playing by the rules of the game's missions. Explorers discover the systems governing the operation of the game world. Socializers form relationships with other players by telling stories within the game world. Griefers interfere with the functioning of the game world or the play experience of other players. Open world games that allow you to choose how you play the game. If you want to stick to the main missions you can follow guidance to do that but if you just want to explore or be social or mess around you have the chance to do that too.
-
- ![bartle test](./Pictures/bartle_test.png)
- ![Bartle Game Player Type Test]({{ site.baseurl }}/Pictures/bartle_test.png)
- _Bartle Game Player Type Test_
-
-I propose that as well as different Game Player types there are also different styles of Game Maker.  Planners like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step. Social makers form relationships with other game makers and players by finding out more about their work and telling stories in their game. Magpie makers like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results. Glitchers mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc.
-
-<!-- I don't propose that people fall neatly into any one category. Instead these categories are mostly aimed at educators to help them plan their game making sessions. After some of my own sessions I wondered if some of the frustration and confusion surrounding learners on-going participation was due to the diversity of the different approaches. -->
-
-I noticed that sometimes parents would get frustrated at their kids messing around and creating tricky or impossible games. I could hear them struggling to bring their kids back into line with what they thought was the right way to go about making games. At the same time when I reviewed the tapes of what they were doing these young people were often exploring the code, making many changes, and inviting others to play their game for feedback very activity - which are excellent coding practices.
-
-To address this issue I created some extra missions to suit these Glitcher game makers who enjoyed playing against the game. While I guessed planners wouldn't need them, for magpie makers, and social makers I created other extra missions that might encourage or legitimise their favoured activity. Thus some of the missions were social in nature (Find out who plays the most computer games per week in your group), others were more anti-social in nature (add an usual sound to someone else’s project) and some exploratory missions that encourage feature sharing.
-Also while many learners appreciated the quick progress and immediate feedback of patching code to add game design features, other learners wanted to know the full detail of the underlying template code. These planners appreciated having step by step tutorials that explained the code piece by piece. One of the things all game maker types can benefit from are resources to help support learner navigation, this brings us to the next M - **Maps**.
-
-<!--
-These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions -->
-
- <!-- The process of having this feedback from users was good to get over my initial bias towards chaotic learning -->
-
 
 ### Maps
 
