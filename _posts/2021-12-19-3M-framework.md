@@ -41,19 +41,16 @@ Research on computer games has often focused on game playing either of commercia
 
 The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
 
-
-
 **Games and Inclusion**
 
 Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
+<!-- Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences. -->
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
 
-However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing".
-
+<!-- However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing". -->
 
 
 ## Significant Features of Game Making for Education
@@ -87,8 +84,10 @@ More research is needed on ways to draw out attitudes and knowledge of game cult
 My own research into strategies to do this is explored in the second half of this chapter.
 
 ## On tools and affordances
-On to tools and affordances
 
+My research involves choice of tools based on the audience. After research two emerged and significant based on the opportunities provided.
+
+The analysis of the affordances of game making tools - beyond remit - but describing the affordances of these two tools - is useful to help explore learning potential of different environments. 
 
 ### Phaser.js in a Code Playground - an authentic web game making framework
 
@@ -115,9 +114,7 @@ This section explores tensions that have emerged for myself and learners when  u
 
 **Asset Creation vs Hands-on Coding**
 
-With both Scratch and Phaser/Glitch there was a clear tension between time spent creating graphical and sounds assets verses time working on code related to game play and mechanics. Scratch has extensive built in tools to create graphics and sound. With Phaser, in addition to the code playground we used a separate web tool to create art called Piskel and others to create sound effects. Both allow a large amount of choice and a very rich creative landscape. At times it felt students were stuck in asset creation.
-
-When using the code playground, the process downloading assets files from one online space and then re-uploading to the code playground served well to build digital literacy skills. However the diversity of activities at times reduced group communication and peer learning surrounding the hands on coding and experimentation with game mechanics.
+A tension exists between time spent creating graphical and sounds assets verses time working on code related to game play and mechanics. Many tools allow a large amount of choice and a very rich creative landscape. Students can get stuck in asset creation.
 
 The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. To This is one way to resolve the issue of the complexity of asset creation.
 

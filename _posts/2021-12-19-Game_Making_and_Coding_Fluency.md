@@ -149,6 +149,8 @@ Where Scratch does stand out is the community element of the website where learn
 
 ### Phaser.js in a Code Playground - an authentic web game making framework
 
+EDIT THIS LESS CONVERSATIONAL
+
 **Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
 
 ![phaser simple game to edit](./Pictures/phaser_simple.png)
