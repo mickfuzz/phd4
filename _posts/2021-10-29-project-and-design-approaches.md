@@ -55,8 +55,9 @@ This is in line with socio-cultural understandings of how learning happens. Comm
 Are you making the most of the power of communities in your classroom. Before you start your next unit of work you can ask you self some of the following questions.
 
 - At what stages in your learners able to work together during your unit of work? Are there chances for peer feedback?
-- Can you draw on the roles or identities that students have adopted in other work? Are they able to reflect on the specifics on those roles to contribute to the effectiveness of their teamwork? 
-- Is there a connection with other communities outside of the classroom? Can your learners make the connection directly?
+- Are there examples of the work of students or others available for your students to examine, to use and to inspire them?
+- Can you draw on the roles or identities that students have adopted in other work? Are they able to reflect on the specifics on those roles to contribute to the effectiveness of their teamwork?
+- Can you help your learners make a connection between the work they are doing and other professional or enthusiast communities outside of the classroom?
 
 <!--
 And SINGPOSTING to the rest of the chapter
@@ -184,11 +185,13 @@ What these projects and features have in common is that they create communities 
 
 ### ACTIVITY - USING DESIGN APPROACHES IN THE CLASSROOM
 
-Ask you self some of the following questions.
+You can ask you self the following questions to try to check if you can use some of the beneficial aspects of design-based approaches in your classroom.
 
-- Are learners x?
-- Are learners y?
-- Are learners z?
+- Are learners able to see explore the details of exemplar materials?
+- Are learners able to think and articulate the perspective of users of projects as they start to consider the design for what they are creating?
+- Are learners helped to come up with ideas with ideation techniques that scaffold the creative process?
+
+As part of the Rise Programme at the MMU I've created or helped to create three online courses which explore hands on ways to use design thinking. https://rise.mmu.ac.uk/category/enterprise/design-thinking/ - At the time of publishing resources are open to all you just need to log in.
 
 ## Projects and Project Based Learning
 
@@ -242,7 +245,7 @@ All of the approaches above have research to support the benefits of the approac
 
 But there are challenges of exam focus, lack of adequate time, teachers not having PBL delivery skills that are among factors hindering take up. This section looks at tips and strategies that have been used by other educators and researchers to overcome these barriers.
 
-other linmitations
+other limitations
 Based on this blog post.
 https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html
 
@@ -268,6 +271,6 @@ While teachers are often drawn to these engaging and inclusive mediums but lack 
 
 In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders working on project that are as authentic and linked to their own interests. To help this to happen we can draw on some of the rich research and resources that are available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
 
-We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices. For example, NCCE's work to promote artefact-based questions (ABQs) to assess PBL is very promising.
+We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices. For example, NCCE's work to promote artefact-based questions (ABQs) to assess project work is very promising.
 
 We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work. Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects.
