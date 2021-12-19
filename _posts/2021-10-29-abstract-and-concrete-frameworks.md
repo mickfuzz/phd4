@@ -31,7 +31,7 @@ title: Abstract and Concrete Approaches to Computing
 
 In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and many creative fun apps .  Computing as a subject draws on this diverse engagement and computing teachers share their creative approaches to covering the computing curriculum, building fluency in programming and developing wider computer science knowledge. When we can connect computing to young people's genuine interests then magic happens. This chapter champions the value of hands-on teaching approaches. It does this by highlighting on-going tensions in the world of educational between abstract and concrete approaches, looks at definitions and role of Computational Thinking in an accessible way, examines inspirational and inclusive approaches to computing education.
 
-Before jumping into the more theory base part of this chapter it is a good idea to explore some of the terms that we will use in this and other chapters. Particularly the terms inclusion and engagement.
+It is a good idea to explore some of the terms that we will use in this and other chapters. Particularly the terms inclusion and engagement.
 
 <!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
@@ -119,11 +119,8 @@ Many theories of learning explore the value of both concrete and abstract phases
 
 To help your learners to embed the knowledge of your lessons, it is helpful to identify what parts of your sessions address more abstract conceptions of knowledge and those that are more concrete. To do this ask yourself the following questions about one of your future sessions.
 
-
-- Are learners x?
-- Are learners y?
-- Are learners z?
-
+- What are the core skills and concepts I want to communicate in my session? How many of them are more abstract and how many more concrete applications of more abstract concepts? Do I have a good balance?  
+- How do learners first meet core concepts? How are they re-enforced? Is it through an abstract definition, in the course of a more concrete explained example, or via hands on work they are engaged in?
 
 
 <!-- The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially. -->
@@ -240,8 +237,6 @@ In the final section I take a more idealistic pedagogical approach - imagining w
 <!--
 To do this we can look to relevant research to provide us with some tactics to structure the process of learning how to use coding structures fluently and to onboard that tricky process. -->
 
-
-
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
 #### Unplugged activities
@@ -277,6 +272,8 @@ Another similar approach to the semantic wave is that of expansive framing. The 
 
 A particular example of this technique has been used to increase the effectiveness of unplugged approach by Lee and Vincent using an context of weaving as well as physical activities before exploring such ideas in a context of coding. The idea be
 
+PLUG THIS GAP ON EXPANSIVE FRAMING
+
 #### Pair Programming
 
 Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners. One of the key values of pair programming is to start to develop different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
@@ -311,13 +308,13 @@ https://goalbookapp.com/toolkit/v/strategies  -->
 
 ACTIVITY - APPLYING UDL IN THE CLASSROOM
 
-Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas. Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations.
+Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
 
-As you plan your hands-on activities you can ask you self some of the following questions.
+- To what extent can students choose their own way to apply the target knowledge or skills? Can work outcomes be driven on their interests or at least adapted to add their one interests as content materials within it?  
+- Are learners able to see and explain the real life application of the concepts and skills you are introducing? How motivating do they find that link?
+- How are you helping learners to make connections between the concepts and skills they are picking up through hands on work and the more abstract representations that may occur in test or exam situations?
 
-- Are learners x?
-- Are learners y?
-- Are learners z?
+One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas. Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations. This approach may be unfamiliar or seem to go against the traditional format of a lesson plan. How able are you to try this out in your own lessons? Is there an upcoming situation where you could try a different approach and evaluate how students respond? 
 
 ### Observing and Assessing Authentic Practices
 

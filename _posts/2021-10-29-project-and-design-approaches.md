@@ -131,7 +131,7 @@ Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of
 -   Externalization and reflection
 
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
-
+to
 ### Worked Examples and Design Patterns as an educational tool
 
 For computing student at higher education a key technique is to learn an object oriented approach is via design patterns. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in object oriented software design.
@@ -187,11 +187,12 @@ What these projects and features have in common is that they create communities 
 
 You can ask you self the following questions to try to check if you can use some of the beneficial aspects of design-based approaches in your classroom.
 
-- Are learners able to see explore the details of exemplar materials?
+- Are learners able to see explore exemplar materials to inspire and shape their creative expectations?
 - Are learners able to think and articulate the perspective of users of projects as they start to consider the design for what they are creating?
 - Are learners helped to come up with ideas with ideation techniques that scaffold the creative process?
 
-As part of the Rise Programme at the MMU I've created or helped to create three online courses which explore hands on ways to use design thinking. https://rise.mmu.ac.uk/category/enterprise/design-thinking/ - At the time of publishing resources are open to all you just need to log in.
+**Follow-up Resources**
+As part of the Rise Programme at the MMU I've created or helped to create three online courses which explore hands on ways to use design thinking in education and community work. https://rise.mmu.ac.uk/category/enterprise/design-thinking/ - At the time of publishing resources are open to all you just need to log in to access the courses.
 
 ## Projects and Project Based Learning
 
