@@ -243,16 +243,17 @@ To do this we can look to relevant research to provide us with some tactics to s
 
 Unplugged are activities carried out away from the computer that aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. However the danger is that meeting the concepts outside of an authentic context where they are put into practice leads to inert knowledge.
 
-*Unplugged Activities and Expansive Framing*
-One way of addressing that concern to is to meet similar abstract concepts in different contexts. In this way, when the link is reinforced student's understanding is deepened.
+<!-- A bit more on this from Lee and Vincent
+unplugged is not enough?
+-->
 
-Researchers Lee and Vincent applied an approach of expansive framing
+#### Expansive Framing
 
-to increase the effectiveness of Unplugged activities to allow students to abstract the essense of the computational thinking practices involved. 
+Researchers Lee and Vincent were concerned about the CT practices being unable to be transferred to other areas. They applied an approach of expansive framing to develop students Computational Thinking. Expansive Framing is about students meeting similar abstract concepts in different contexts (or frames). In this way, when the link is reinforced student's understanding is deepened.
 
-They used an context of weaving to do this. as well as physical activities before exploring such ideas in a context of coding.
+Thus to increase the effectiveness of Unplugged activities students also used an context of loom based weaving. Students analysed weave patterns, created a graphical representation of the pattern on grid paper, and then used this to codify the pattern and represent it on a computer screen using Scratch.
 
-http://tiny.cc/expansive-framing
+Their research includes a practical approach to help overcome some of the difficulties of transfer of knowledge between contexts. http://tiny.cc/expansive-framing
 
 #### PRIMM
 
