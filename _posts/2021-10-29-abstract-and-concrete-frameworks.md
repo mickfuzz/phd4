@@ -255,6 +255,12 @@ Thus to increase the effectiveness of Unplugged activities students also used an
 
 Their research includes a practical approach to help overcome some of the difficulties of transfer of knowledge between contexts. http://tiny.cc/expansive-framing
 
+#### Pair Programming
+
+Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners. One of the key values of pair programming is to start to develop different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
+
+The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding. This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
+
 #### PRIMM
 
 PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK teachers. PRIMM helps learners adopt coding practices and computational concepts by starting them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code. PRIMM's starting point is students reading and predicting code results. It aligns with the NCCE principle of _concepts first_. This engagement with the motivation of the code allows teachers to focus on the target computing concept of the lesson. It allows them to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as the process of leading with prediction narrows the focus of the class, thus allowing a larger set of learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams.
@@ -273,23 +279,15 @@ The Semantic Wave approach is usually presented as leading with concepts, unpack
 
 This concept of semantic waves can help us map a process of students working to integrate abstract concepts into practice or working knowledge. It can also act as an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience.
 
-Diagrams or examples explaining semantic waves usually start with the process beginning with the abstract or with high semantic density. This suggest that this is the optimal. However the underlying research does not say that it is important where you start.
+Diagrams or examples explaining semantic waves usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start.
+
+Leading with concepts has the advantage of being specific about the target subject matter being taught. As this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting contexts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating. The next section focuses on an inclusive approach which involves providing students with multiple ways of engaging with subject material. 
 
 <!-- Challenge by Papert - valuing the concrete - how much is this in opposition - and what is the practical resolution by teachers needing to teach to the test? -->
 
-Leading with concepts has the advantage of being specific about the target subject matter being taught. As this is process familiar to classroom practice and preparing for testing. However, there are disadvantages as it is out of step with project based approaches as we will explore in a later section of this chapter.
-
-
-
-#### Pair Programming
-
-Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners. One of the key values of pair programming is to start to develop different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
-
-The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding. This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
-
 ## Universal Design for Learning
 
-Universal Design for Learning (UDL) is a set of principles which are in-line with our earlier exploration of inclusive practices. UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas.   According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
+Universal Design for Learning (UDL) is a set of principles which are in-line with our earlier exploration of inclusive practices. UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
 
 UDL provides guidelines for three key areas of representation, expression and engagement. Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
 
