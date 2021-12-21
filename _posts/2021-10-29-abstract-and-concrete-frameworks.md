@@ -88,7 +88,6 @@ However while the range of materials and possible creative projects is exciting 
 - Physical computing
 -->
 
-
 <!-- SIGNPOSTING (but not too much)?
 To help address this chapter will cover some design and project based approaches to help.  Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of   -->
 
@@ -246,6 +245,8 @@ unplugged is not enough?
 
 #### Expansive Framing
 
+<!-- Develop this in relation to the above -->
+
 Researchers Lee and Vincent were concerned about the CT practices being unable to be transferred to other areas. They applied an approach of expansive framing to develop students Computational Thinking. Expansive Framing is about students meeting similar abstract concepts in different contexts (or frames). In this way, when the link is reinforced student's understanding is deepened.
 
 Thus to increase the effectiveness of Unplugged activities students also used an context of loom based weaving. Students analysed weave patterns, created a graphical representation of the pattern on grid paper, and then used this to codify the pattern and represent it on a computer screen using Scratch.
@@ -256,7 +257,9 @@ Their research includes a practical approach to help overcome some of the diffic
 
 Peer programming is one aspect of social learning but there are others associated with being part of a wider community of learners. One of the key values of pair programming is to start to develop different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
 
-The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding. This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
+The approach may be particularly useful in the way it divides up the tasks so that one student has a role to do the hands-on concrete coding while the other is free to think about more abstract design of the overall programme.
+
+The process of modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of learners as being strong in a particular element of coding. This process of using building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches.
 
 <!-- Develop this more or drop -->
 
