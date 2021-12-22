@@ -89,24 +89,23 @@ https://www.mantleoftheexpert.com/resources/contexts/
 ### Iterative Design Techniques
 <!-- In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create. -->
 
-Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. Like reflective cycles the process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved. Iteration is also a key part of a more general scientific method of testing an idea and revising that idea and tests based on your analysis of results. The idea of an repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In education Bruner describes it at a spiral curriculum. In software and design industries it is referred to as Design Thinking and Agile approaches.   
+Iterative design involves coming back to reflect on the outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. Like reflective cycles the process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved. Iteration is also a key part of a more general scientific method of testing an idea and revising that idea and tests based on your analysis of results. The idea of an repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In software and design industries it is referred to as Design Thinking and Agile approaches. In education Bruner describes it at a spiral curriculum.    
 
 <!-- Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface. -->
 
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-Mitchel Resnick, a researcher involved in the Scratch project, promotes a five stage creative cycle with tips for both parents and teachers to create a fertile environment for creativity. See http://tiny.cc/creativespiral.
+Researchers involved in the Scratch project at MIT promote design-based approaches to education through an interative five stage creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity. See http://tiny.cc/creativespiral.
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
-Rusk and colleagues described the foundations of the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection -@rusk_new_2008. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process,  learners are able to test and then revise their creation or experiment based on their own evaluation.
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process,  learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-The following section describes some of the features of the online Scratch community as a way of exploring the benefits and motivations of the creators. The purpose here is not just to advertise that community as a resource, but also to draw out factors that you can try to use when creating or using communities when you engage your learners in design activities.
+<!-- The following section describes some of the features of the online Scratch community as a way of exploring the benefits and motivations of the creators. The purpose here is not just to advertise that community as a resource, but also to draw out factors that you can try to use when creating or using communities when you engage your learners in design activities. -->
 
 ### Worked Examples and Design Patterns as an educational tools
 
@@ -118,18 +117,15 @@ There are similarities between design patterns and a technique called _worked ex
 
 For educators the use of design patterns and worked examples can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges. You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many student will benefit from that approach.
 
-
 <!-- If students choose their own projects then it is not clear that any particular worked example or design pattern with be relevant to their work. -->
-
-
 <!-- Sign post to following chapter on Game Making using design patterns. -->
 <!-- My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing. -->
 
 
-### The Use Modify Create model
+### The Use-Modify-Create model
 <!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
 
-There are some parallels and some differences between Use Modify Create and the PRIMM framework described in a previous chapter [@lee_computational_2011] - http://tiny.cc/usemodifycreate. Both have become increasingly popular in the computing education sector in the UK. In particular the UMC model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concepts.
+Where the iterative design cycle The Use-Modify-Create (UMC) model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concept [@lee_computational_2011] - http://tiny.cc/usemodifycreate.
 
 In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
 In **Modify** learners progress to working on real projects but one created by others.
@@ -244,18 +240,23 @@ The following  questions can help you prepare to deliver a project with your stu
 https://www.edutopia.org/project-based-learning-guide-implementation -->
 
 **Start with a driving question or mission**
+
 The project goal for computing projects is often to create a digital product in response to a need or design brief with has a specific audience in mind. Add in detail and sense of linking to real world problems at this stage to maximise learner engagement. Decide the limits for students projects and outline these clearly from the start to avoid having to rain on their parade. For example creating a 2D game instead of a 3D one.
 
 **Designing a plan and resources for the project**
+
 Decide what part of the curriculum the project work will develop. Use a deep knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources.
 
-**Monitor pupil's progress:**
+**Monitor pupil's progress**
+
 As the project unfolds, keep student's track by having a realistic schedule for project stages. Are you consistently signposting students to the relevant resources for the project choices they are making.
 
-**Assess emerging project processes and outcomes:**
+**Assess emerging project processes and outcomes**
+
 Ongoing feedback and assessment is vital. Building in opportunities for reflection, peer feedback and revision. Can students share prototypes of their digital products? Can you support then to recognise if they are working effectively as a team? How can you support them to make connections to the underlying curriculum knowledge?
 
-**Evaluation:**
+**Evaluation**
+
 You may use innovative ways to evaluate both the end piece of work created by the student but also the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
 
 To follow up this activity you can draw on the online resources provided by numerous organisations including Eutopia, Buck Institute, PBLworks and the UK based Edge Foundation.
@@ -271,42 +272,31 @@ This section looks barriers to PBL and tips and strategies that have been used b
 <!-- Based on this blog post.
 https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html -->
 
-**Sustaining the effort - Time challenges**: In research surrounding barriers to undertaking projects in schools, teacher commonly cite time restrictions due to curriculum pressures.
-Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. In addition cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
+**Sustaining the effort - Time challenges**: In research surrounding barriers to undertaking projects in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. In addition cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
+
+**Highlight the Value of PBL for Inclusion**: As previously highlighted PBL and design-approaches align well with Universal Design for Learning. As educators we can highlight importance of creating inclusive classroom environments to our line managers as a way to advocate for allocating time, training and resources for project-based learning.
 
 **The Challenge of Authenticity**: The process of making projects relevant, authentic and therefore motivating in school is not simple.  Any way of linking projects to real issues beyond the classroom is useful. Here are some tactics you may be able to use.
 
 - Can your draw on community members to set a local challenge?
+- Are there other members of staff in other subject areas to pose a school-based problem - perhaps a pastoral or a cross-curriculum issue?
+- Can you establish any links with industry or social enterprises to set an authentic challenge?
 
- - Are there other members of staff in other subject areas to pose a school-based problem - perhaps a pastoral or a cross-curriculum issue?
-
- - Can you establish any links with industry or social enterprises to set an authentic challenge?
-
-If you draw on experts, staff of community members the they don't need to be there for the full term of the project you can use visits or video calls at the start and end of the project.
-
-Most importantly be sure to draw on experience of students, pool their experiences and use their ideas to shape possible responses to the challenge in early stages.  
-
-
-**Highlight the Value of PBL for Inclusion**: As previously highlighted PBL and design-approaches align well with Universal Design for Learning. As teachers we can highlight importance of creating inclusive classroom environments to our line managers as a way to advocate for allocating time, training and resources for project-based learning.
+If you draw on experts, staff of community members the they don't need to be there for the full term of the project you can use visits or video calls at the start and end of the project. Most importantly be sure to draw on experience of students, pool their experiences and use their ideas to shape possible responses to the challenge in early stages.  
 
 <!-- It is reassuring that research supports some of the following popular areas as outlined ;
-
 - Physical Computing - makes the computing experience tangible and shareable
 - Game Making - can build on existing knowledge of game structure from authentic home experiences
 - Media Projects in Scratch - draws on home interests and importance of designing for an audience -->
-
-<!-- More explicitly make the link -->
-
 
 ## Conclusion
 
 <!-- - Supporting the Development of Learning Communities -->
 
-In summary, what many design and project approaches have in common, and what makes them different from more traditional classroom approaches is their a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set. For an accessible and convincing summary of project based approaches and their adoption in a classroom setting the review by Barron and Darling Hammond [-@barron2008teaching] is inspiring- http://tiny.cc/pbl-summary.
-
-
-In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders working on project that are as authentic and linked to their own interests. To help this to happen we can draw on some of the rich research and resources that are available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
+In summary, what many design and project approaches have in common, and what makes them different from more traditional classroom approaches is their a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set. For an accessible and convincing summary of project based approaches and their adoption in a classroom setting the review by Barron and Darling Hammond [-@barron2008teaching] is inspiring- http://tiny.cc/pbl-summary. In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders working on project that are as authentic and linked to their own interests. To help this to happen we can draw on some of the rich research and resources that are available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
 
 We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices. For example, NCCE's work to promote artefact-based questions (ABQs) to assess project work is very promising.
 
-We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work. Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects.
+We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work.
+
+<!-- Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects. -->
