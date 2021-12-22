@@ -221,59 +221,61 @@ As part of the Rise Programme at the MMU I've created or helped to create three 
 
 ## Projects and Project Based Learning
 
-Project-based learning (PBL) is of the 12 teach computing principles advocated by NCCE. In the next section I'll cover the potential of project-based learning (PBL) and how this can create inclusive educational approaches. We will see that PBL has strong parallels with design based approaches and UDL (Universal Design for Learning explored in another chapter) particularly in the promotion of student choice and authenticity in projects. Project-based learning is a wide set of approaches and put simply can be seen as the value of learning via students undertaking practical projects rather than more traditional approaches designed to help the absorption and recall of more book based knowledge.
+Project-based learning is a wide set of approaches that seeks to facilitate learning though undertaking practical projects. Students often complete project in groups. The focus can be contrasted with traditional teaching as students develop target knowledge and skills in the context of a real or simulated problem that they must solve. Project-based learning (PBL) is of the 12 teach computing principles advocated by NCCE. In the next section I'll cover the potential of PBL and how this can support inclusive educational practices in the computing classroom.
 
-Computing education is an excellent vehicle for a project-based approach to learning. As we explored in the introduction, the nature of digital making and the many flavours that are available provides a wide-range of choices of outputs. Projects that create real outcomes that the learner has a choice over are a great way to motivational factor (Blumenfeld).
+<!-- We will see that PBL has strong parallels with design based approaches and UDL (Universal Design for Learning explored in another chapter) particularly in the promotion of student choice and authenticity in projects.  -->
 
-As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways. As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements.
+Computing education is an excellent vehicle for a project-based approach to learning. The nature of digital making and the many flavours that are available provides a wide-range of choices of project outputs. Websites, games, wearable technology, phone apps, robotics and other physical computing projects are all familiar products. Researchers Blumenfeld and colleagues [-@blumenfeld_motivating_1991] argue that student disengagement is caused by boring school work. They found that project work incorporating learner choice and involving real outputs are motivating and can sustain student engagement. They also concede that implementing PBL in classrooms is not straightforward. I cover barriers to PBL and ways to overcome them in the final part of this chapter.
 
-![creative spiral](./Pictures/pbl_gold.png)
-![creative spiral]({{ site.baseurl }}//_posts/Pictures/pbl_gold.png)
-_Buck Institute; Gold Standard PBL elements - available under CC-BY-NC-ND licence_
+<!-- As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways. As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements. -->
 
-PBL is in line with some of the other socio-cultural approaches to learning that have been outlined in this chapter and others in this book. Because of this many of the concepts will be familiar from our exploration of UDL and design-based approaches.
+Academic have worked with expert practitioners to created PBL frameworks have emerged as a way of helping practitioners to plan, deliver projects and to to recognise the complexity of some of the learning happening. The following outline of PBL elements is a product of several of these frameworks.
 
-- Challenging Problem - the focus of the project should be a relatable problem statement
-- Sustained Inquiry - adequate time must be allocated and the ability the come back to projects to revise them is important
-- Student Voice and Choice - giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy
-- Authenticity -  Real life Relevance helps get student engagement and buy in
-- Reflection - this refers to self-reflection which may be informal at times but guided by class processes, learning journals
-- Public Project - the creation of a shareable object or even that helps learners focus and to design for others and act as a focus for discussion as a learning community
-- Critique and Revision - ideally this can involve outside experts or input beyond the class teacher, it brings a new refreshing perspective.
+- **Challenge** - The focus of the project should be a relatable problem or question that is does not have one straightforward solution.
+- **Authenticity** -  Real life relevance of projects helps get student engagement as they see the link to their interests and communities.
+- **Sustained and Collaborative** - Adequate time must be allocated, students should work together and be given the chance to revise projects.
+- **Public Project** - the creation of a shareable object or even that helps learners focus and to design for others and act as a focus for discussion as a learning community
+- **Student Voice and Choice** - giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy.
+- **Reflection and Critique** - Self-reflection may be informal at times but also guided by class processes like learning journals. It also involves peer feedback or outside input beyond the class teacher to bring authentic perspectives.
 
-This break down is part of a summary of design elements of effective PBL by the pblworks.org website - http://tiny.cc/pblworks-gold
+###  Stages and Resources to Support PBL in Computing Classrooms
 
+You may notice that PBL is aligned with design-based approaches and UDL in many ways. Certainly they all require or benefit from a community which learners created a public product for. It is participation, motivation by and feedback from this community that underpin the socio-cultural nature of the student's learning.
 
-###  PBL Stages and Support Resources
+One critique of project and community based learning, especially where it involves student experimentation and student discovery is that is chaotic and less effective at communicating concepts. Certainly kinds of skills, support and planning needed are very different from traditional teaching. For example, practitioners must build their ability to switch between students operating freely and being guided in the process of revision and critique. Having resources and clear stages to your project plan to help this process is vital. This section outlines the typical stages of PBL and how to adapt it to a computing context.
 
-It is worth noting that while there are chances for student experimentation, PBL is very far from what some people would call pure discovery learning where learners are given access to resources and left to their own devices. This section outlines the typical stages of PBL and how to adapt it to a computing context.
+The following  questions can help you prepare to deliver a project with your students.
 
 <!-- Based on this break down
 https://www.edutopia.org/project-based-learning-guide-implementation -->
 
-- **Start with a driving question or mission:** The project goal is often in the form of a question or challenge which has a specific audience in mind. Add in detail and sense of linking to real world problems at this stage to maximise learner engagement.   
-- **Designing a plan and resources for the project:** You should have resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to them.
-- **Have a project timetable and monitor pupil's progress:** Projects can drift easily so you can help your students keep on track by having a realistic schedule for the different stages of their project.
-- **Assess emerging outcomes:** this should not just be in the final stages, building in opportunities for reflection, peer feedback and revision is a vital part of the process
-- **Evaluation:** you may need innovative ways to evaluate both the end piece of work created by the student but also the way they have worked together and the skills used to undertake different stages of the project.  
+**Start with a driving question or mission**
+The project goal for computing projects is often to create a digital product in response to a need or design brief with has a specific audience in mind. Add in detail and sense of linking to real world problems at this stage to maximise learner engagement. Decide the limits for students projects and outline these clearly from the start to avoid having to rain on their parade. For example creating a 2D game instead of a 3D one.
 
-Building the ability as a teacher to switch between students operating freely and being guided in the process of revision and critique is often unfamiliar to teachers. Having resources to help this process is vital.
+**Designing a plan and resources for the project**
+Decide what part of the curriculum the project work will develop. Use a deep knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources.
 
-## Authentic Approaches to Projects
+**Monitor pupil's progress:**
+As the project unfolds, keep student's track by having a realistic schedule for project stages. Are you consistently signposting students to the relevant resources for the project choices they are making.
 
-It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for many coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Teachers can support students to develop this kind of pragmatic, authentic approach. For example the PRIMM approach which is explored in another chapter is very helpful to build students ability to read other people's code. Also the Use-Modify-Create model, explored in the chapter on game making in another chapter, is valuable to build familiarity with code environments through small changes that get progressively more ambitious.   
+**Assess emerging project processes and outcomes:**
+Ongoing feedback and assessment is vital. Building in opportunities for reflection, peer feedback and revision. Can students share prototypes of their digital products? Can you support then to recognise if they are working effectively as a team? How can you support them to make connections to the underlying curriculum knowledge?
 
-In summary, what many design and project approaches have in common, and what makes them different from more traditional classroom approaches is their a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set. For a really accessible and convincing summary of project based approaches and their adoption in a classroom setting see this review by Barron and Darling Hammond - http://tiny.cc/pbl-summary. For broader web based resources and case studies in blog post and video form, the Edutopia website is a good source - https://www.edutopia.org/project-based-learning
+**Evaluation:**
+You may use innovative ways to evaluate both the end piece of work created by the student but also the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
+
+To follow up this activity you can draw on the online resources provided by numerous organisations including Eutopia, Buck Institute, PBLworks and the UK based Edge Foundation.
+
+<!-- ## Authentic Approaches to Projects -->
+
+<!-- It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for many coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Teachers can support students to develop this kind of pragmatic, authentic approach. For example the PRIMM approach which is explored in another chapter is very helpful to build students ability to read other people's code. Also the Use-Modify-Create model, explored in the chapter on game making in another chapter, is valuable to build familiarity with code environments through small changes that get progressively more ambitious.    -->
 
 ## Creatively Overcoming Limitations
 
-All of the approaches above have research to support the benefits of the approach and in a context of inclusive pedagogies we can make a strong case for teachers to adopt them in computing education as a suitable candidate for project based, inclusive approaches.
+This section looks barriers to PBL and tips and strategies that have been used by other educators and researchers to overcome these barriers.
 
-But there are challenges of exam focus, lack of adequate time, teachers not having PBL delivery skills that are among factors hindering take up. This section looks at tips and strategies that have been used by other educators and researchers to overcome these barriers.
-
-other limitations
-Based on this blog post.
-https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html
+<!-- Based on this blog post.
+https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html -->
 
 ### Time factors - sustaining the effort
 
@@ -281,19 +283,52 @@ Central to both iterative design approaches and PBL is the idea of coming back t
 
 For example, cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
 
-### Significance of Project and Design approaches for Inclusion
+### Resource allocation
 
-In a previous chapter we covered the fundamentals of UDL (Universal Design for Learning). There are clear similarities between the concrete, hands-on approach of project based work and elements of the UDL framework. Some tactics that computing teachers can draw on to make their approach more inclusive via project are already used intuitively by teachers. It is reassuring that research supports some of the following popular areas;
+Resources can be expensive and tricky to co-ordinate and maintain. 
+
+
+### The Challenge of Authenticity
+
+The process of making projects relevant, authentic and therefore motivating in school is not simple. We have already met
+
+
+
+Other members of staff in other subject areas.
+
+A School-based problem, bring in the head or
+
+A community problem - you can draw on local personalities, use videos of them?
+
+An industry problem draw on experts, have one visit. they don't need to be there for the full
+
+Any way of making links outside of the classroom is welcom.
+Most importantly be sure to draw on experience of students, pool their experiences and use their ideas to shape possible responses to the challenge in early stages.  
+
+
+
+
+### Highlight the Value of PBL for Inclusion
+
+As previously highlighted PBL and design-approaches align well with Universal Design for Learning. Some tactics that computing teachers can draw on to make their approach more inclusive via project are already used intuitively by teachers.
+
+As teachers we can highlight importance of creating inclusive classroom environments to our line managers as a way to advocate for allocating time, training and resources for project-based learning.
+
+<!-- It is reassuring that research supports some of the following popular areas as outlined ;
 
 - Physical Computing - makes the computing experience tangible and shareable
-- Game Making - can build on existing knowledge of game structure
-- Media Projects in Scratch - draws on home interests and importance of designing for an audience
+- Game Making - can build on existing knowledge of game structure from authentic home experiences
+- Media Projects in Scratch - draws on home interests and importance of designing for an audience -->
 
 <!-- More explicitly make the link -->
 
-While teachers are often drawn to these engaging and inclusive mediums but lack training and supporting resources to maximise the potential of a project based approach. As teachers we can highlight importance of creating inclusive classroom environments as a way to advocate for allocating time, training and resources for project-based learning.
 
-## Conclusion - Supporting the Development of Learning Communities
+## Conclusion
+
+<!-- - Supporting the Development of Learning Communities -->
+
+In summary, what many design and project approaches have in common, and what makes them different from more traditional classroom approaches is their a focus on devoting time to hands on making, structured support to aid inspire learners and facilitate observation of practice of others and a great choice in what goals learners set. For an accessible and convincing summary of project based approaches and their adoption in a classroom setting the review by Barron and Darling Hammond [-@barron2008teaching] is inspiring- http://tiny.cc/pbl-summary.
+
 
 In much of the research surrounding motivation, participation and peer learning we see that the learning of complex processes doesn't happen in a vacuum. There is a clear value of creating a learning community of coders working on project that are as authentic and linked to their own interests. To help this to happen we can draw on some of the rich research and resources that are available from different streams of practice including project based learning, Universal Design for Learning and design-based approaches.
 
