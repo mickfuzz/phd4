@@ -284,6 +284,9 @@ https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based
 
 If you draw on experts, staff of community members the they don't need to be there for the full term of the project you can use visits or video calls at the start and end of the project. Most importantly be sure to draw on experience of students, pool their experiences and use their ideas to shape possible responses to the challenge in early stages.  
 
+**Artefact-based Assessment**: NCCE promote artefact-based questions (ABQs) to assess project work.
+FLESH OUT
+
 <!-- It is reassuring that research supports some of the following popular areas as outlined ;
 - Physical Computing - makes the computing experience tangible and shareable
 - Game Making - can build on existing knowledge of game structure from authentic home experiences
@@ -301,7 +304,7 @@ What many design and project approaches have in common, and what makes them diff
 
 <!-- In addition community -->
 
-We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices. For example, NCCE's work to promote artefact-based questions (ABQs) to assess project work is very promising.
+We have explored that while there are challenges to balancing the more open-ended goals and the degree of learner choice needed by these approaches and the more prescriptive requirements of the computing curriculum. To help bridge this gap there are new resources from NCCE that draw on socio-cultural research to offer guidance on PBL, observation and pair programming. These resources and supporting articles from teachers and other practitioners in blogs and publications like Hello World have a focus on the reality of mainstream school environment. This tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices. For example, NCCE's work to promote artefact-based questions (ABQs) to assess project work is very promising.
 
 We are still in the early days of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work.
 
