@@ -22,6 +22,18 @@ Indicative chapter structure (about 5000 words, less if you have tables/figures 
 7 Evidence for assessing mastery of achievement
 8 Facilitating diagram and links/2 sentence descriptions of three supporting resources (embodying the research findings).
 9-10 References (we will be using Springer’s SocPsych Style – Page 16. It is based on APA7.)
+
+notes 31 12 21
+
+context - include pbl
+Have makecode as main focus of study / tools section - integrate with methodology part
+Mot sure on order or tensions and tools
+Findings main parts
+- game design patterns to help navigation - missions_
+- maps -
+- drama process as a reflective frame
+
+
  -->
 
 ## Intro  / Abstract
@@ -39,9 +51,31 @@ Research on computer games has often focused on game playing either of commercia
 
 The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
 
-**Games and Inclusion**
 
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+## From the Literature
+
+
+### Motivations of Game Making as Education
+
+This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke -@kafai_constructionist_2015.
+
+
+
+<!--
+* Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach. -->
+
+ <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 --> -->
+ <!-- * Games are perfect projects. Thus game making suits project-based learning. -->
+MOVE THIS
+
+The most prominant learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
+
+
+### Game Making and PBL and Inclusion
+
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. Contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+
+The inclusive possibilities of design and project-focused computing  include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
 <!-- Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences. -->
 
@@ -51,45 +85,65 @@ ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
 <!-- However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing". -->
 
 
-## Significant Features of Game Making for Education
+Work on NCCE aligning with that of Connectivist Educators and Researchers. Can be supported by use of PBL frameworks. Project based learning and science base inquiry learning is more mature than integration of design thinking and agile design into the classroom.
 
-What follows is a summary of some of the key areas of potential for learners.
+REVISE THIS - SOCIO CULTURAL IDEAS
 
-SIGNIFICANTLY REDUCE INTO ONE PARAGRAPH - APOLOGIES FOR BREVITY
-
-* Coding and Computing Practices : The main learning objective of making games in educational setting is to develop coding and computing skills.
-
-* Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach.
-
- <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 --> -->
-
-* Games to study other subjects: There are extensive studies on game making to learn other subjects
-
-* Games are perfect projects. Thus game making suits project-based learning.
-
-* Inclusive education -  inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
-
-* These potential benefits align closely with a concept called 21st Century Skills. skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.
-
-* Games to explore systems and systems thinking - Games are in essence rule-based systems.
-
-* Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
-
-* Family Game Experience as an inclusive Fund of Knowledge - Knowledge of a games and gaming culture is sometimes drawn upon by teachers as a concrete example of a coding concepts.
-
-More research is needed on ways to draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way.
+Family Game Experience as an inclusive Fund of Knowledge - Knowledge of a games and gaming culture is sometimes drawn upon by teachers as a concrete example of a coding concepts. More research is needed on ways to draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way.
 
 My own research into strategies to do this is explored in the second half of this chapter.
 
-## On tools and affordances
 
-My research involves choice of tools based on the audience. After research two emerged and significant based on the opportunities provided. The analysis of the affordances of game making tools - beyond remit - but describing the affordances of these two tools - is useful to help explore learning potential of different environments.
+### Tensions around Game Making (Tools) - in general -
 
-### Phaser.js in a Code Playground - an authentic web game making framework
+ALTER - DRAW ON LITERATURE IF POSSIBLE  AND revise down - OR MOVE LATER
+THERE IS A LOT OF THIS ON THE CONSTRUCTIVIST LITERATURE ON TOOLS / SOFTWARE PRINCIPLES. WIDE WALLS ETC
 
-**Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
+This section explores tensions that have emerged for myself and learners when  using game making tools.
 
-The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
+It identifies and draws on existing literature that explores these issues.
+
+ It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
+
+**Asset Creation vs Hands-on Coding**
+
+A tension exists between time spent creating graphical and sounds assets verses time working on code related to game play and mechanics. Many tools allow a large amount of choice and a very rich creative landscape. Students can get stuck in asset creation.
+
+FIND A REFERENCE OR MERGE WITH BELOW
+
+**Tensions around Technical Scope of Projects**
+<!-- Some hobbyist or professional game making tools like GameMaker Studio, Construct or Unity abstract away the hands-on coding of games with graphical interfaces and include structures to help organise game design as it becomes more complex. The scope of choices may be overwhelming. Also, while code can often be accessed behind these menus, the focus is on getting the game done rather than on learning how to code per se. -->
+
+Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created.
+
+<!-- This is a tension that has been recognised by researchers working on a more stripped down version of Scratch. Scratch  -->
+
+**Tensions related to Community and Choice**
+<!--
+Phaser is a framework used by professional web game creators. Using this authentic tool was potentially motivating. The online forums are supportive. However, it may not be realistic for young learners to be part of a community of professional game makers.  -->
+
+Research on the value of scratch community to seed ideas, provide inspiration and direct peer support is convincing. The ability for students to choose from different kinds of games that appeal to them, to remix projects and to reuse community assets increases the personal connection students feel to their creations.  
+
+However, much of this research as been from self-directed home learners who are able to dedicate a lot of their free time unlike classroom learners. Time factors may impact your choice of tool and how much you encourage your students to engage with a wider community.
+
+How much choice over you give students about type of game they create and how they design it is also an important learning design factor. You may prioritise engagement over peer learning over specific targets. Alternatively you may wish to maximise the time your students spend on certain learning outcomes, e.g. coding and system design. To do this you it may be effective to then creating your own resources which
+
+If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
+
+
+
+
+
+##  My Study and the 3M Framework
+
+### On tools and affordances
+
+My research involves choice of tools based on the audience. After research two tools emerged as significant based on the opportunities provided. These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
+
+This report focuses on the second of the tools chosen.
+
+Describing the affordances of two tools is useful to help explore potential to resolve
+
 
 ### MakeCode Arcade - specialised block based programming
 
@@ -101,33 +155,21 @@ There some fantastic example games and tutorials at
 https://arcade.makecode.com/
 
 
-### Tensions around Game Making (Tools) - in general - revise down
-
-This section explores tensions that have emerged for myself and learners when  using game making tools. It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
-
-**Asset Creation vs Hands-on Coding**
-
-A tension exists between time spent creating graphical and sounds assets verses time working on code related to game play and mechanics. Many tools allow a large amount of choice and a very rich creative landscape. Students can get stuck in asset creation.
+FROM THE ABOVE
 
 The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. To This is one way to resolve the issue of the complexity of asset creation.
 
-**Tensions related to Community and Choice**
+Tools like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software.
 
-Phaser is a framework used by professional web game creators. Using this authentic tool was potentially motivating. The online forums are supportive. However, it may not be realistic for young learners to be part of a community of professional game makers. In contrast, research on the value of scratch community to seed ideas, provide inspiration and direct peer support is convincing. The ability for students to choose from different kinds of games that appeal to them, to remix projects and to reuse community assets increases the personal connection students feel to their creations.  
 
-However, much of this research as been from self-directed home learners who are able to dedicate a lot of their free time unlike classroom learners. Time factors may impact your choice of tool and how much you encourage your students to engage with a wider community.
 
-How much choice over you give students about type of game they create and how they design it is also an important learning design factor. You may prioritise engagement over peer learning over specific targets. Alternatively you may wish to maximise the time your students spend on certain learning outcomes, e.g. coding and system design. To do this you it may be effective to then creating your own resources which
 
-If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
+### Phaser.js in a Code Playground - an authentic web game making framework
 
-**Tensions around Technical Scope of Projects**
+**Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
 
-Tools like MakeCode Arcade intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs.
+The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
 
-<!-- Some hobbyist or professional game making tools like GameMaker Studio, Construct or Unity abstract away the hands-on coding of games with graphical interfaces and include structures to help organise game design as it becomes more complex. The scope of choices may be overwhelming. Also, while code can often be accessed behind these menus, the focus is on getting the game done rather than on learning how to code per se. -->
-
-Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created.
 
 ### About the 3M Game Making Model
 
