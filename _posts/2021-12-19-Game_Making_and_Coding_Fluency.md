@@ -214,7 +214,7 @@ Some hobbyist or professional game making tools like GameMaker Studio, Construct
 
 Thus there is a tension in tool choice balancing the directness of code editing and of the code constructs available with the scope and flexibility of the game that can be created. -->
 
-### About the 3M Game Making Model
+## Game Making Methods
 
 <!-- You would think from the glowing potential of game making from the reviews of the literature that this would be a normal part of computing education, and well supported in terms of how to teach it.
 
@@ -222,12 +222,15 @@ Of course, real life is more complicated than that. Rather than there being one 
 
 In the last section we look out one learning design and how that aimed to overcome those tensions. But in this section rather than trying to solve problems -- I am highlighting them and you can draw your own conclusions. -->
 
-<!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
+My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program.
 
-In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
 
-The 3M process has evolved with the aim that it is accessible and inclusive for parents, teachers and young learners. Part of that accessibility is a playful, game-like approach to it. In a nutshell, learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
+What follows is a distillation of some of the main features of a _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
 
+
+<!-- In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
+
+The 3M process has evolved with the aim that it is accessible and inclusive for parents, teachers and young learners. Part of that accessibility is a playful, game-like approach to it. In a nutshell, learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning. -->
 
 <!-- You may have particular curriculum or other learning goals. This iteration of the 3M design focuses on making games to learning the craft of coding, to build meta-cognitive skills (goal setting and reflection) and systems concepts. It could be adapted to highlight other key learning goals. -->
 
@@ -235,15 +238,12 @@ The 3M process has evolved with the aim that it is accessible and inclusive for 
 <!-- In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs. -->
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
 
-### Missions (using Game Patterns and secret side-missions)
 
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection. The missions are designed to fit into the Use-Modify-Created model which is explored in another chapter in this collection.
-
-In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
+<!-- In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
 
 Then we quickly asked learners to **Modify** a broken game with very simple changes which they could choose from a set of printed cards. These small changes to variables or swapping out media assets with their own builds confidence, gives a greater sense of ownership over the project and is a fun and challenging experience.
 
-In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
+In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials. -->
 
 
 <!-- **Main Mission - Fix a Half-Baked game**
@@ -251,14 +251,18 @@ In my **Create** stage learners we asked to choose from a menu of different game
 In the 3M model participant code as part of a role play story. They are given a scenario where have to complete a mission. Making a game for a real or imagined audience is a part of that mission. You can choose your own real or imagined situations. It could be an external game making competition, or a fiction. In one version we made games for a group of Aliens coming to earth to help us save the planet, in another it was a dystopian, hunger games like future where we had to make a game to save our lives. The purpose here is to increase engagement, motivation and the sense of designing for another audience.
 -->
 
-In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way. Learners start with a deliberately incomplete or inappropriate game to provoke students to change it.
+<!-- In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way. Learners start with a deliberately incomplete or inappropriate game to provoke students to change it.
 
-In early stages, learners alter key variables, change level designs and add in new graphical and audio assets. Simple changes that are relatively easy and build familiarity with the code. For example I often start with a handful of printed card missions. Each suggests a small changes to the code that results in big impact on the game being played.
+In early stages, learners alter key variables, change level designs and add in new graphical and audio assets. Simple changes that are relatively easy and build familiarity with the code. For example I often start with a handful of printed card missions. Each suggests a small changes to the code that results in big impact on the game being played. -->
 
 <!-- MORE ON THIS - Bullet points? -->
 
+### Missions
 
-**Design Patterns as Missions to Support Learner Choice**
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. Missions can exist on different levels. Examples include game mechanics and game design patters, systems thinking. Alternatively missions may be more social in nature to encourage engagement, social learning and reflection. The missions can be designed to fit into the Use-Modify-Created model which is explored in another chapter in this collection.
+
+
+### Design Patterns as Missions
 
 <!-- INSERT IMAGE of incomplete platformer with annotations -->
 
@@ -274,7 +278,8 @@ Game design patterns come in different forms but at the most user-oriented level
 
 ![patterns as text]({{ site.baseurl }}/Pictures/sample_pattern.png)
   _Sample Game Design Pattern_
-  PERHAPS A MORE CODE ORIENTED DESIGN PATTERN EXAMPLES
+
+PERHAPS A MORE CODE ORIENTED DESIGN PATTERN EXAMPLES
 
 When learners choose the pattern they want to work on they can take a physical card on-line help to support them implement the code needed to add the pattern to the game. I originally started off with printed supporting documents but then help learners to transition to online resources. The digital format is particularly useful if learners are copying and pasting code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. But creates another tension around how much guidance to give learners in the code examples provided. How much support you give to this process is up to you. I work with relatively young coders, thus  I chose to provide almost complete code help. This design helps build familiarity with code and the code environment.
 
@@ -291,14 +296,15 @@ As mentioned the break down involves creating help resources to support a menu o
 Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
 MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
 
-### Maps
+<!-- ### Maps
 
 I kept a journal and recorded sessions to identify learning tensions that blocked progress.  Some of these tensions can be summarised as learner confusion about what they should do next or at the other extreme being overwhelmed at choices available, getting stuck or being unsure of what coding progress was being made. To try to resolve some of these tension I drew on the use of another technique from open world adventure games that of Maps.
 
-In more traditional project based learning the kinks of support would involve learning journals, structured student reports or templated check in points. I wanted to avoid this kind of more formal approach for a couple of reasons. Firstly, it felt like a huge shift moving from the mechanics of coding to then writing up the report and one that was hard to fit into the end of busy sessions. Secondly, my study involved a lot of students from whom writing was not a strong point so I wanted to explore other methods.
+In more traditional project based learning the kinks of support would involve learning journals, structured student reports or templated check in points. I wanted to avoid this kind of more formal approach for a couple of reasons. Firstly, it felt like a huge shift moving from the mechanics of coding to then writing up the report and one that was hard to fit into the end of busy sessions. Secondly, my study involved a lot of students from whom writing was not a strong point so I wanted to explore other methods. -->
 
 #### Physical Maps of Missions
 
+_3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
 The first step was to try to address issues of being unsure what to do next or jumping around from one thing to another without completing them. I printed out a large scale map of the different kinds of game pattern missions represented as different islands. When learners selected their next mission, they moved their counter onto that spot. Thus learners had to be intentional about their next steps. They also kept a track of the missions that they had completed by tracing a trail as they progressed. Having a physical map in my family setting this process was particularly useful to help the parents encourage goal setting and progressing from one task to another rather than getting stuck in a loop of asset design.
 
 <!-- ![map of learning design]({{site.github.url}}/Pictures/maps_2000.png) -->
@@ -314,17 +320,29 @@ In addition this chaotic, colourful and visual representation served to encourag
 
 Maps can also be used retrospectively to help learners to reflect on their progress. I asked student to create a physical character that could move around the large scale print out of the islands. When they chose a new pattern to work on they moved their counter and drew a trail of where they had been. When moving the counter on the map they can be prompted to look at the coding concepts or other learning dimensions that they have been working with when implementing their game patterns.
 
-#### Learning Dimensions Map
+The process can be linked back to Artefact-based questions and assessment and a guided . The m
+
+
+### Learning Dimensions Map
 
 The has been a growing tendency in socio-cultural research to look at the learning that is happening in any given activity from an observational perspective. That is to say that rather than deciding what you want to teach and planning around that, you choose an existing authentic activity and map the learning that actually happens in reality.
 
-This is the approach adopted in an interesting research program which looked at hands on tinkering with Science exhibits in a museum setting. In an article called -- It looks like fun but what are they learning --Bevan and Petrich worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions is notable as not only are the underlying science concepts explored but, more general skills and attributes and helping behaviour common to an exploratory process is also present.
+
+<!-- This is the approach adopted in an interesting research program which looked at hands on tinkering with Science exhibits in a museum setting. In an article called -- It looks like fun but what are they learning --Bevan and Petrich worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions is notable as not only are the underlying science concepts explored but, more general skills and attributes and helping behaviour common to an exploratory process is also present. -->
 
 While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/
 
 I created an online map of the different learning dimensions that learners were most likely to pick up through game making.
 
-#### Navigating Learning Dimensions
+
+
+### Physical Computing and Game Making
+
+The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners. Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
+
+While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational. For more information on the value of physical computing to increase inclusion you can read this article (RUSK?)
+
+<!-- #### Navigating Learning Dimensions
 
 This process also helped me to understand the kind of learning experience I was hoping the game makers would be having.
 
@@ -332,11 +350,11 @@ This process also helped me to understand the kind of learning experience I was 
 ![navigate_dimensions]({{ site.baseurl }}/Pictures/navigate_dimensions.png)
 _Navigate Dimensions_
 
-The journey that the learners started to have is reminiscent of the semantic waves with ocillations between more concrete and more abstract learning dimensions.
+The journey that the learners started to have is reminiscent of the semantic waves with ocillations between more concrete and more abstract learning dimensions. -->
 
-### Methods (Inclusive)
+<!-- ### Methods (Inclusive)
 
-The third M in this 3M framework stand for methods, these are broadly speaking educational, design and drama methods to support an inclusive process. These may help with participation and to maximise some of the potential benefits of game making explored in the first part of this chapter.
+The third M in this 3M framework stand for methods, these are broadly speaking educational, design and drama methods to support an inclusive process. These may help with participation and to maximise some of the potential benefits of game making explored in the first part of this chapter. -->
 
 <!-- Methods Using Missions
 
@@ -354,15 +372,11 @@ Other Methods
     Coding Concepts via step by step tutorials - moved (MEETING IN THE MIDDLE )
     Supporting Debugging -->
 
-**Playful Starter Games and physical activities** - You may love or hate the kind of warm-up games that are common in drama circles. Either way they are good ways to help focus learner's attention and get them ready for new experiences. Making games lends itself well to creating a fun and welcoming classroom environment with links to the learning happening later in the session. In a family learning setting I was able to make the most of this by playing physical warm up games, playing video games on arrival leading to then analysing what made them challenging.
+<!-- **Playful Starter Games and physical activities** - You may love or hate the kind of warm-up games that are common in drama circles. Either way they are good ways to help focus learner's attention and get them ready for new experiences. Making games lends itself well to creating a fun and welcoming classroom environment with links to the learning happening later in the session. In a family learning setting I was able to make the most of this by playing physical warm up games, playing video games on arrival leading to then analysing what made them challenging.
 
 Most computing teachers will be familiar with some of the positive impacts of Unplugged activities.
 
-**Physical Computing and Game Making**
 
-The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners. Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
-
-While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational. For more information on the value of physical computing to increase inclusion you can read this article (RUSK?)
 
 **Drama Framework** One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits.
 
@@ -371,7 +385,7 @@ I have worked with practitioners of Drama Education department at Manchester Met
 - explore issues of gaming cultures, and hostility to them from a naive alien view point
 - asking learners to step into a role. "As game designers, we will do Y"
 - create a sense of 'jeopardy' increasing their commitment to the process
-- encourage reflection in learners - as they shared their games with the alien audience, they talked through their design decisions and challenges.
+- encourage reflection in learners - as they shared their games with the alien audience, they talked through their design decisions and challenges. -->
 
 <!-- ## Challenges - and how they may link to a classroom setting
 

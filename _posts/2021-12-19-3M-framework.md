@@ -85,9 +85,7 @@ My own research into strategies to do this is explored in the second half of thi
 
 ## On tools and affordances
 
-My research involves choice of tools based on the audience. After research two emerged and significant based on the opportunities provided.
-
-The analysis of the affordances of game making tools - beyond remit - but describing the affordances of these two tools - is useful to help explore learning potential of different environments. 
+My research involves choice of tools based on the audience. After research two emerged and significant based on the opportunities provided. The analysis of the affordances of game making tools - beyond remit - but describing the affordances of these two tools - is useful to help explore learning potential of different environments.
 
 ### Phaser.js in a Code Playground - an authentic web game making framework
 
@@ -95,14 +93,11 @@ The analysis of the affordances of game making tools - beyond remit - but descri
 
 The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
 
-
-
 ### MakeCode Arcade - specialised block based programming
 
 **MakeCode Arcade** is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.  
 
 Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
-
 
 There some fantastic example games and tutorials at
 https://arcade.makecode.com/
@@ -148,10 +143,7 @@ In the last section we look out one learning design and how that aimed to overco
 
 In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
-
- <!-- This learning design could can be applied using any of the tools above. -->
-
-
+<!-- This learning design could can be applied using any of the tools above. -->
 
 <!-- You may have particular curriculum or other learning goals. This iteration of the 3M design focuses on making games to learning the craft of coding, to build meta-cognitive skills (goal setting and reflection) and systems concepts. It could be adapted to highlight other key learning goals. -->
 
@@ -179,6 +171,7 @@ In 3M, learners start by playing a familiar but incomplete template of a 2D game
 However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from a shared code base but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code structures.
 
 In early stages, learners alter key variables, change level designs and add in new graphical and audio assets. Simple changes that are relatively easy and build familiarity with the code. For example I often start with a handful of printed card missions. Each suggests a small changes to the code that results in big impact on the game being played.
+
 MORE ON THIS - Bullet points?
 
 
