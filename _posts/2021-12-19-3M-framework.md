@@ -22,9 +22,7 @@ Indicative chapter structure (about 5000 words, less if you have tables/figures 
 7 Evidence for assessing mastery of achievement
 8 Facilitating diagram and links/2 sentence descriptions of three supporting resources (embodying the research findings).
 9-10 References (we will be using Springer’s SocPsych Style – Page 16. It is based on APA7.)
-
  -->
-
 
 ## Intro  / Abstract
 
