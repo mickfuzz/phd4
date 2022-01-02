@@ -59,8 +59,6 @@ The After the Reboot report also had concerning observations. The report found t
 
 This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke -@kafai_constructionist_2015.
 
-
-
 <!--
 * Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach. -->
 
@@ -130,10 +128,6 @@ How much choice over you give students about type of game they create and how th
 
 If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
 
-
-
-
-
 ##  My Study and the 3M Framework
 
 ### On tools and affordances
@@ -141,7 +135,6 @@ If students are working on similar projects. This may also have the effect of in
 My research involves choice of tools based on the audience. After research two tools emerged as significant based on the opportunities provided. These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
 
 This report focuses on the second of the tools chosen.
-
 Describing the affordances of two tools is useful to help explore potential to resolve
 
 
@@ -162,8 +155,6 @@ The MakeCode Arcade interface, like scratch has the ability to edit sprite chara
 Tools like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software.
 
 
-
-
 ### Phaser.js in a Code Playground - an authentic web game making framework
 
 **Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
@@ -171,7 +162,11 @@ Tools like MakeCode Arcade can help address issues around the scope of projects.
 The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
 
 
-### About the 3M Game Making Model
+## Research Findings resulting from implementing the 3M Game Making Model
+
+The _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
+
+This section describes the model in brief and describes several key findings from its implementation in particular reference to some of the tensions of Game Making outlined above.
 
 <!-- You would think from the glowing potential of game making from the reviews of the literature that this would be a normal part of computing education, and well supported in terms of how to teach it.
 
@@ -181,7 +176,6 @@ In the last section we look out one learning design and how that aimed to overco
 
 <!-- My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. -->
 
-In this section I look at a design that aims to address some of key challenges and tensions to the use of game making with young people. This _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
 <!-- This learning design could can be applied using any of the tools above. -->
 
@@ -191,7 +185,7 @@ In this section I look at a design that aims to address some of key challenges a
 <!-- In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs. -->
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
 
-### Missions (using Game Patterns and secret side-missions)
+### Missions a way to Help Learner Movitivation and Navigation
 
 Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection. The missions are designed to fit into the Use-Modify-Create model which is explored in another chapter in this collection.
 
@@ -329,9 +323,15 @@ _Navigate Dimensions_
 
 The journey that the learners started to have is reminiscent of the semantic waves with ocillations between more concrete and more abstract learning dimensions.
 
-### Methods (Inclusive)
+###  Inclusive Methods and Game Making
 
-The third M in this 3M framework stand for methods, these are broadly speaking educational, design and drama methods to support an inclusive process. These may help with participation and to maximise some of the potential benefits of game making explored in the first part of this chapter.
+The third M in this 3M framework stand for methods, these are broadly speaking educational, design and drama methods to support an inclusive process.
+
+My study incorporated and experiemented with many including ..., x, y z. The _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
+
+This section describes the model in brief and describes several key findings from its implementation in particular reference to some of the tensions of Game Making outlined above. The next section outlines two methods of that align particularly well with game making.
+
+<!-- These may help with participation and to maximise some of the potential benefits of game making explored in the first part of this chapter. -->
 
 <!-- Methods Using Missions
 
@@ -349,9 +349,9 @@ Other Methods
     Coding Concepts via step by step tutorials - moved (MEETING IN THE MIDDLE )
     Supporting Debugging -->
 
-**Playful Starter Games and physical activities** - You may love or hate the kind of warm-up games that are common in drama circles. Either way they are good ways to help focus learner's attention and get them ready for new experiences. Making games lends itself well to creating a fun and welcoming classroom environment with links to the learning happening later in the session. In a family learning setting I was able to make the most of this by playing physical warm up games, playing video games on arrival leading to then analysing what made them challenging.
+<!-- **Playful Starter Games and physical activities** - You may love or hate the kind of warm-up games that are common in drama circles. Either way they are good ways to help focus learner's attention and get them ready for new experiences. Making games lends itself well to creating a fun and welcoming classroom environment with links to the learning happening later in the session. In a family learning setting I was able to make the most of this by playing physical warm up games, playing video games on arrival leading to then analysing what made them challenging.
 
-Most computing teachers will be familiar with some of the positive impacts of Unplugged activities.
+Most computing teachers will be familiar with some of the positive impacts of Unplugged activities. -->
 
 **Physical Computing and Game Making**
 
@@ -359,7 +359,9 @@ The use of physical computing to create concrete and tangible activities has bee
 
 While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational. For more information on the value of physical computing to increase inclusion you can read this article (RUSK?)
 
-**Drama Framework** One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits.
+**Drama / Fictional Frameworks**
+
+One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits.
 
 I have worked with practitioners of Drama Education department at Manchester Met to work on a several process dramas with families, students and staff. But you don't have to be a trained drama practitioner draw on key techniques to increase learner engagement. I asked trainee teachers to devise a scenario to support a series of sessions. In brief, we used a fiction of making games for a alien race coming to destroy the earth. This helped us;
 
