@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: misc
-title: Game Making Pedagogy using a Three M Framework
+title: 3M Framework for Game Making
 ---
 
 # Game Making Pedagogy using a Three M Framework
@@ -47,10 +47,13 @@ Summary of key points I want to make - navigation - motivation - design patterns
 
 ### Context Background (Change from just UK)
 
-Research on computer games has often focused on game playing either of commercial (off the shelf) games or specialist educational game software. However, for many researchers a far more promising area that of making computer games. The RSA reports Reboot or Shutdown and After the Reboot [-@the_royal_society_shut_2012; -@the_royal_society_after_2017] have shaped UK computing education ethos practice around the introduction of a new Computing curriculum. Some of the key recommendations of these reports were first proposed in another influential report  called "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone_next_2011. Its focus was on providing the UK games and animation industry with the talent needed to succeed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
+Research on the educational value of computer games can be divided into studies on playing games and those on making games. In the UK the influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed @livingstone_next_2011. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
-The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
+On a global scale there have been many developments in software and programs researching game making.
 
+Constructionist researchers and programs.
+Value of Scratch for game making and associated research.
+And the middle ground of commercial games which have a creative element to it.
 
 ## From the Literature
 
@@ -58,7 +61,6 @@ The After the Reboot report also had concerning observations. The report found t
 ### Motivations of Game Making as Education
 
 This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke -@kafai_constructionist_2015.
-
 <!--
 * Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach. -->
 
@@ -75,7 +77,7 @@ Recent studies study the use of games and playful techniques to overcome exclusi
 
 The inclusive possibilities of design and project-focused computing  include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
-<!-- Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences. -->
+FIND SUPPORT HERE
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
@@ -185,9 +187,21 @@ In the last section we look out one learning design and how that aimed to overco
 <!-- In my description of the 3M model below, I draw on project based learning and design based terms and principles that are explored in another chapter. Later in the chapter I share ideas on how to adapt this version of the 3M framework to suit your own needs. -->
 <!-- CHECK THIS LATER TO MAKE SURE I DO -->
 
-### Missions a way to Help Learner Movitivation and Navigation
+### Missions a way to Help Learner Motivation and Navigation
 
-Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. The 3M Missions existed on different levels. Some concerned game mechanics and other patterns. Some dealt with systems thinking and others with engagement, social learning and reflection. The missions are designed to fit into the Use-Modify-Create model which is explored in another chapter in this collection.
+Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. In addition to this main mission, other 3M missions addressed game design patterns, systems thinking, social learning and reflection.
+
+**Main Mission - Fix a Half-Baked game**
+
+CITATION
+REALLY REVISE THIS SECTION DOWN
+PERHAPS LINK TO LEVELS OF ABSTRACTION? Main mission, design missions, support in implementation via code
+
+In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.
+
+Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model.
+
+The main mission fits the Use-Modify-Create model.
 
 In the **Use** stage learners engage with a starting template of a few games playing them and then opening the code to see if they could guess what any of the code did. This use stage allows learners to gain some familiarity with the coding environment and to recognise some features of the language being used.
 
@@ -195,19 +209,23 @@ Then we quickly asked learners to **Modify** a broken game with very simple chan
 
 In my **Create** stage learners we asked to choose from a menu of different game design patterns to add to the game. In early stages learners patch or copy code examples into their existing code. As they do this gain familiarity with a wider variety of coding constructs and concepts. Later makers can take up extra challenges which involve them making additions to the code with no direct support from the materials.
 
+<!--
+ Expored later - FICTIONAL / DRAMA FRAMEWORKS
 
-**Main Mission - Fix a Half-Baked game**
+ In the 3M model participant code as part of a role play story. They are given a scenario where have to complete a mission. Making a game for a real or imagined audience is a part of that mission. You can choose your own real or imagined situations.
+ It could be an external game making competition, or a fiction.
 
-In the 3M model participant code as part of a role play story. They are given a scenario where have to complete a mission. Making a game for a real or imagined audience is a part of that mission. You can choose your own real or imagined situations. It could be an external game making competition, or a fiction. In one version we made games for a group of Aliens coming to earth to help us save the planet, in another it was a dystopian, hunger games like future where we had to make a game to save our lives. The purpose here is to increase engagement, motivation and the sense of designing for another audience.
 
-In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way. The concept of a working with Half Baked games describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it. This draw on research on the value of remixing and altering the code of others. Due to the challenging nature of coding a game from first principles, learners start by reading and altering existing code. Such practices which are documented as the Use-Modify-Create model in another chapter.
+In one version we made games for a group of Aliens coming to earth to help us save the planet, in another it was a dystopian, hunger games like future where we had to make a game to save our lives. The purpose here is to increase engagement, motivation and the sense of designing for another audience. -->
+
+The concept of a working with Half Baked games describes the process of starting with a deliberately incomplete or inappropriate game to provoke students to change it. This draw on research on the value of remixing and altering the code of others. ADD IN CITATIONS FROM KNOGIOS AND UMC
 
 However, a half-baked game approach is different from remixing of complete games. The incompleteness allows learners to start from a shared code base but to develop the game in their own direction, driven by their own choices. This approach helps to reduce some of the leaner and teacher confusion caused if everyone was working on completely different types of games and code structures.
 
 In early stages, learners alter key variables, change level designs and add in new graphical and audio assets. Simple changes that are relatively easy and build familiarity with the code. For example I often start with a handful of printed card missions. Each suggests a small changes to the code that results in big impact on the game being played.
 
 MORE ON THIS - Bullet points?
-
+OR- BRING THIS INTO RESEARCH NARRATIVE OF HOW THIS EVOLVED
 
 However as students still have to add and alter their game, as teachers we must still find a balance between providing too much choice and struggle to support learners as they get stuck with a huge variety of diverse problems and conversely offering not enough choice to be able enthuse learners through their personalisation of the project.
 
@@ -215,9 +233,7 @@ However as students still have to add and alter their game, as teachers we must 
 
 How then to resolve this tension best? We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have some restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds; for example player accept that they don't have choice over their starting point. The following section outlines the use of a restricted menu of design patterns as a way of help deal with this tension in the 3M model.
 
-
 SHIFT THIS - After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
-
 
 <!-- Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding. -->
 

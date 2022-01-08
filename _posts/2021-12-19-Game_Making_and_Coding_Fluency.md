@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: misc
-title: Game Making Pedagogy using a Three M Framework
+title: Game Making and Coding Fluency
 ---
 
 # Game Making and Coding Fluency
@@ -25,7 +25,7 @@ In this chapter I explore the potential of Computer Game Making as a way of unde
 
 ### Context Background (UK)
 
-Research on computer games has often focused on game playing either of commercial (off the shelf) games or specialist educational game software. However, for many researchers a far more promising area that of making computer games. The RSA reports Reboot or Shutdown and After the Reboot [-@the_royal_society_shut_2012; -@the_royal_society_after_2017] have shaped UK computing education ethos practice around the introduction of a new Computing curriculum. Some of the key recommendations of these reports were first proposed in another influential report  called "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone_next_2011. Its focus was on providing the UK games and animation industry with the talent needed to succeed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
+Research on the educational value of computer games has often focused on game playing either of commercial (off the shelf) games or specialist educational game software.However, for many researchers a far more promising area that of making computer games. The RSA reports Reboot or Shutdown and After the Reboot [-@the_royal_society_shut_2012; -@the_royal_society_after_2017] have shaped UK computing education ethos practice around the introduction of a new Computing curriculum. Some of the key recommendations of these reports were first proposed in another influential report  called "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone_next_2011. Its focus was on providing the UK games and animation industry with the talent needed to succeed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
 In 2017 the After the Reboot report examined changes in the area of computing education. The new curriculum and exams were introduced in 2014. This had been launched together with an extensive bursary program and even award level bursaries run in partnership with computing industry. Thus, the first two of the Next Gen recommendations were in place. However the use of games and making as a way to encourage wider participation in computing has not been realised. The report returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research, namely; using games for engagement, use of game patterns and involvement in girls in coding and social and cultural aspects of coding [@waite_pedagogy_2017].
 
