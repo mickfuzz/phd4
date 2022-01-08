@@ -233,7 +233,8 @@ However as students still have to add and alter their game, as teachers we must 
 
 How then to resolve this tension best? We can look at the concept of open world games for inspiration. Open world games provide the player with a series of choices but also to have some restrictions to the wide extent of the world/choices. The feeling is of freedom, but there is an acceptance of bounds; for example player accept that they don't have choice over their starting point. The following section outlines the use of a restricted menu of design patterns as a way of help deal with this tension in the 3M model.
 
-SHIFT THIS - After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
+SHIFT THIS? - RESEARCH ELEMENTS HOW INTEGRATED
+After minimal hands on coding time we played a matching game which helped to analyse the template code line by line. One participant wrote "that was a great moment - when after struggling to alter the code, after several sessions, we looked again and we realised how much we had actually picked up that process". Adding onto the template had helped the participant to read and understand code.
 
 <!-- Getting participants up and running from ideas, to a design to then starting to code too a long time when starting from first principles. In order to reduce the test of their patience I adopted the use of a template to help them to get to grips with coding. -->
 
@@ -271,7 +272,7 @@ As mentioned the break down involves creating help resources to support a menu o
 Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
 MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
 
-**Game Maker Types and Missions**
+**Game Maker Types and Social Missions**
 
 As digital and online games became more complicated Richard Bartle proposed that players to get different things out of them. He created a test to finds out what kind of game player you are. https://matthewbarr.co.uk/bartle/. One of my favourite warm up activities is to get game making participants to take the Bartle test as a group. I converted the quiz in to an interactive physical game. Personal and ethical choices are explored in real time and it's a lot of fun.
 
@@ -294,7 +295,6 @@ Also while many learners appreciated the quick progress and immediate feedback o
 These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions -->
 
  <!-- The process of having this feedback from users was good to get over my initial bias towards chaotic learning -->
-
 
 ### Maps
 
