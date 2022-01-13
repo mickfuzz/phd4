@@ -59,7 +59,7 @@ On a global scale there have been many developments in software and programs res
 -  middle ground of commercial games which have a creative element to it.
 
 ## From the Literature
-
+WHAT 
 
 ### Motivations of Game Making as Education
 
@@ -137,9 +137,14 @@ How much choice over you give students about type of game they create and how th
 
 If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
 
-##  My Study and the 3M Framework
+## Research Findings
+
 
 ### On tools and affordances
+
+THIS IS (WAS) STUCK IN THE MIDDLE
+IS THIS PART OF THE LIT REVIEW OR FINDINGS?
+MAKE IT PART OF FINDINGS
 
 My research involves choice of tools based on the audience. After research two tools emerged as significant based on the opportunities provided. These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
 
@@ -147,7 +152,7 @@ This report focuses on the second of the tools chosen.
 Describing the affordances of two tools is useful to help explore potential to resolve
 
 
-### MakeCode Arcade - specialised block based programming
+#### MakeCode Arcade - specialised block based programming
 
 **MakeCode Arcade** is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.  
 
@@ -156,7 +161,6 @@ Another advantage is that the MakeCode system is also used to code the popular M
 There some fantastic example games and tutorials at
 https://arcade.makecode.com/
 
-
 FROM THE ABOVE
 
 The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. To This is one way to resolve the issue of the complexity of asset creation.
@@ -164,14 +168,14 @@ The MakeCode Arcade interface, like scratch has the ability to edit sprite chara
 Tools like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software.
 
 
-### Phaser.js in a Code Playground - an authentic web game making framework
+#### Phaser.js in a Code Playground - an authentic web game making framework
 
 **Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
 
 The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
 
 
-## Research Findings resulting from implementing the 3M Game Making Model
+### Research Findings resulting from implementing the 3M Game Making Model
 
 The _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
