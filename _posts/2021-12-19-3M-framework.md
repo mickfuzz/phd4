@@ -76,6 +76,8 @@ The most prominent learning objective of making games in educational setting is 
 
 ### Game Making and PBL and Inclusion
 
+IS THIS NEEDED - WORK ON OTHER STUFF FIRST - FOCUS ON MOTIVATION INSTEAD AND EXPLORE PBL AND INCLUSION IN RELATION TO THAT?
+
 Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. Contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
 The inclusive possibilities of design and project-focused computing  include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
@@ -101,6 +103,8 @@ My own research into strategies to do this is explored in the second half of thi
 
 ALTER - DRAW ON LITERATURE IF POSSIBLE  AND revise down - OR MOVE LATER
 THERE IS A LOT OF THIS ON THE CONSTRUCTIVIST LITERATURE ON TOOLS / SOFTWARE PRINCIPLES. WIDE WALLS ETC
+WHAT IS SPECIAL ABOUT GAME MAKING  - PERHAPS MORE RESEARCH ON LIT?
+PERHAPS PRECURSOR OF LATER OBSERVATIONS?
 
 This section explores tensions that have emerged for myself and learners when  using game making tools.
 
