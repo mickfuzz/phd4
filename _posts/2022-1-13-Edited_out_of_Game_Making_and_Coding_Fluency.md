@@ -13,9 +13,7 @@ title: MATERIAL CULLED FROM Game Making and Coding Fluency KEEP AS REFERENCE
 
 In this chapter I use the example of game making to as a way to examine these issues in more depth. I explore a concrete example of how this more chaotic learning can be brought into formal environments with appropriate scaffolding. In main section of this chapter explores a game making pedagogy that is a result of my own research. From now on I will use the term _learning design_ instead of _pedagogy_ to refer to this specific implementation of several underlying pedagogic principles.
 
-
 Game making is closely related to a multi-media coding approach. Some research has taken a wide view of the potential of game making [@peppler_what_2007] including many advantages that are common to other creative computing projects. In this section, I'll make a summary of some of the wider claims and then take a more focused approach highlighting areas that are unique or particularly applicable to game making.
-
 
 ### Tensions around Game Making Tools
 
