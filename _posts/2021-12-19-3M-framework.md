@@ -331,6 +331,10 @@ I created an online map of the different learning dimensions that learners were 
 
 #### Navigating Learning Dimensions
 
+<!-- DROP THIS SECTION AS NOT AS RELEVANT - AND EMERGING - AND COVERED BY NCCE
+OR INCORPORATE INTO ABOVE - MENTION NCCE WORK - SAY THIS IS DIFFERENT AS IT'S LEARNER CONTROLLED MOVEMENT
+RATHER THAN CONTROLLED BY THE TEACHER  -->
+
 This process also helped me to understand the kind of learning experience I was hoping the game makers would be having.
 
 ![navigate_dimensions](./Pictures/navigate_dimensions.png)
