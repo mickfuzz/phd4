@@ -58,8 +58,11 @@ On a global scale there have been many developments in software and programs res
 - Value of Scratch for game making and associated research.
 -  middle ground of commercial games which have a creative element to it.
 
-## From the Literature
-WHAT 
+## Literature Synthesis / Local research vignette (on tensions)?
+WHICH ONE TO GO FOR?
+COULD MOVE THE MOTIVATIONS TO CONTEXT AND FOCUS ON THE TENSIONS - BUT MAKE THIS MORE OF A VIGNETTE
+MORE PERSONAL - MORE ACCESSIBLE -
+BUT LINKING OUT TO TENSIONS IDENTIFIED IN THE LITERATURE 
 
 ### Motivations of Game Making as Education
 
