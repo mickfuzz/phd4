@@ -32,17 +32,20 @@ Findings main parts
 - game design patterns to help navigation - missions_
 - maps -
 - drama process as a reflective frame
-
-
  -->
 
 ## Intro  / Abstract
 
 In this chapter I outline a case study and model for game making to do x, y an z
 
-From my own research with families making games together, I share a learning design incorporate some of the techniques explored in this chapter.
+I identify tensions emerging from the exploratory stages of my PhD study on families making games together.
 
-Summary of key points I want to make - navigation - motivation - design patterns and authenticity.
+I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making, use of game making as a creative medium and the affordances and limits of particular toolsets.
+
+Summary of key points I want to make;
+- navigation
+- motivation
+- design patterns and authenticity.
 
 
 ### Context Background (Change from just UK)
