@@ -54,9 +54,9 @@ Research on the educational value of computer games can be divided into studies 
 
 On a global scale there have been many developments in software and programs researching game making.
 
-Constructionist researchers and programs.
-Value of Scratch for game making and associated research.
-And the middle ground of commercial games which have a creative element to it.
+- Constructionist researchers and programs.
+- Value of Scratch for game making and associated research.
+-  middle ground of commercial games which have a creative element to it.
 
 ## From the Literature
 
@@ -71,7 +71,7 @@ This section is a brief summary of some of the key areas of potential for learne
  <!-- * Games are perfect projects. Thus game making suits project-based learning. -->
 MOVE THIS
 
-The most prominant learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
+The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
 
 
 ### Game Making and PBL and Inclusion
