@@ -12,7 +12,6 @@ title: Game Making and Coding Fluency
 
 # Game Making and Coding Fluency
 
-
 ## Intro
 
 In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based approaches. I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games. My aim is to engage with research on game making but also to keep the subject connected to learning experiences in a school or after-school context. To do this I look at tensions to game making approaches especially those that impact the use of game making in the classroom.
@@ -162,7 +161,6 @@ While the P5.play project is limited to 2D games, it add some useful design patt
 
 Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
 
-
 ![MakeCode](./Pictures/makecode.png)
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 _Screenshot of MakeCode Arcade with code and game side by side_
@@ -170,42 +168,46 @@ _Screenshot of MakeCode Arcade with code and game side by side_
 There some fantastic example games and tutorials at
 https://arcade.makecode.com/
 
-
 ## Game Making Methods
-
-
 
 My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program.
 
-
 What follows is a distillation of some of the main features of a _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
-
-
 
 ### Missions
 
 Many open world games have a concept of a main mission and then optional side missions. The guiding challenge or main mission of this design was to create a playable game around a theme (environmental in my case) for a real or imagined audience. Missions can exist on different levels. Examples include game mechanics and game design patters, systems thinking. Alternatively missions may be more social in nature to encourage engagement, social learning and reflection. The missions can be designed to fit into the Use-Modify-Created model which is explored in another chapter in this collection.
 
-
 ### Design Patterns as Missions
 
 <!-- INSERT IMAGE of incomplete platformer with annotations -->
-
 <!-- After making quick alterations to an incomplete platform game.  -->
 
 A standard way to progress from an incomplete game would be to follow a step-by-step tutorial which covered adding new game features in a pre-set order. In the 3M model learners choose the order then implement new features. I asked my family learners what they would like to add to this project.  They came up with a list of features including; moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Design patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre.
 
-Game design patterns come in different forms but at the most user-oriented level as illustrated in the examples above they have the advantage of being immediate and concrete to learners. Game design patterns are used as a relatable way for student to choose their paths and to structure  support via coding concepts linked to these patterns.
+Game design patterns come in different forms but at the most user-oriented level as illustrated in the examples above they have the advantage of being immediate and concrete to learners. Game design patterns are used as a relatable way for student to choose their paths and to structure support via coding concepts linked to these patterns. An example of a game mechanic design pattern follows.
 
 <!-- DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE?
 NOT REALLY IN DETAIL - JUST LIST AN EXAMPLE-->
 
-![patterns as text](./Pictures/sample_pattern.png)
+* **Name:** Jumping on Enemies to Zap them
 
-![patterns as text]({{ site.baseurl }}/Pictures/sample_pattern.png)
-  _Sample Game Design Pattern_
+* **Description:** In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
 
-PERHAPS A MORE CODE ORIENTED DESIGN PATTERN EXAMPLES
+* **Need for Pattern:** Being able to jump on an enemy is a good way of clearing the area you want to explore. You may need to have a clear space to be able to jump up to a high platform for example. Some platformers do have a shooting mechanic as well but using this pattern and sticking with jumping also keeps the game simple (in a good way).
+
+* **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
+
+* **Links to other Computing Patterns:** [Systems Dynamics](widerPatterns#systems-dynamics),
+
+* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+
+As I developed resources to support students to implement the kinds of patterns they wanted to add to their game, categories of patterns emerged. I noted these and organised the patterns accordingly to help student to navigate them.
+
+- [Game Mechanics:](#game-mechanics)  things to do with the actions of the game
+- [Game Space:](#game-space) things to do with the layout of the game
+- [Game Polish:](#game-polish) music, backgrounds, graphics and story elements
+- [Challenge and Systems:](#challenge-and-systems) how different elements interact to create challenge
 
 When learners choose the pattern they want to work on they can take a physical card on-line help to support them implement the code needed to add the pattern to the game. I originally started off with printed supporting documents but then help learners to transition to online resources. The digital format is particularly useful if learners are copying and pasting code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. But creates another tension around how much guidance to give learners in the code examples provided. How much support you give to this process is up to you. I work with relatively young coders, thus  I chose to provide almost complete code help. This design helps build familiarity with code and the code environment.
 
@@ -241,29 +243,26 @@ In addition this chaotic, colourful and visual representation served to encourag
 
 Maps can also be used retrospectively to help learners to reflect on their progress. I asked student to create a physical character that could move around the large scale print out of the islands. When they chose a new pattern to work on they moved their counter and drew a trail of where they had been. When moving the counter on the map they can be prompted to look at the coding concepts or other learning dimensions that they have been working with when implementing their game patterns.
 
-The process can be linked back to Artefact-based questions and assessment and a guided . The m
-
+The process can be linked back to Artefact-based questions and assessment and a guided.
+DEVELOP THIS THOUGHT. 
 
 ### Learning Dimensions Map
 
 The has been a growing tendency in socio-cultural research to look at the learning that is happening in any given activity from an observational perspective. That is to say that rather than deciding what you want to teach and planning around that, you choose an existing authentic activity and map the learning that actually happens in reality.
 
-
 <!-- This is the approach adopted in an interesting research program which looked at hands on tinkering with Science exhibits in a museum setting. In an article called -- It looks like fun but what are they learning --Bevan and Petrich worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions is notable as not only are the underlying science concepts explored but, more general skills and attributes and helping behaviour common to an exploratory process is also present. -->
 
-While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/
+While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/.
 
 I created an online map of the different learning dimensions that learners were most likely to pick up through game making.
-
-
 
 ### Physical Computing and Game Making
 
 The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners. Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
 
-While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational. For more information on the value of physical computing to increase inclusion you can read this article (RUSK?)
+While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational.
 
-
+<!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
 
 ## Conclusion
 
