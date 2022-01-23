@@ -289,18 +289,50 @@ This image needs to be reconstructed as it is taken from the web.
 
 The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete. In some ways the concept can be seen as simplification of Kolb's experiential learning cycle. Instead of cycling through four dimensions - learners oscillate between the two.
 
-This concept of semantic waves can help us map a process of students integrating abstract concepts into practice or working knowledge. It can also act as an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience.
-
-Diagrams or examples explaining semantic waves usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start.
+Exploring semantic wave profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start.
 
 Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating.
 
-This section has looked at tactics to address the realities that teachers face preparing students for Computing exams. The next section focuses on an inclusive approach which involves providing students with multiple ways of engaging with the computing subject materials and practice of coding. While it is in line with research on inclusive practices it may be challenging to implement in many classrooms.
+<!-- Can you be more explicit about these? Or add ‘rather than ….’ -->
+
+This section has looked at tactics to address the realities that teachers face preparing students for Computing exams. The next section focuses on inclusive approaches which involves providing students with multiple ways of engaging with the computing subject materials and practice of coding. While it is in line with research on inclusive practices it may be challenging to implement in many classrooms.
 WHY?
+<< MORE SIGNPOSTING
 
 <!-- Challenge by Papert - valuing the concrete - how much is this in opposition - and what is the practical resolution by teachers needing to teach to the test? -->
 
-## Universal Design for Learning
+## Student-led Approaches
+
+Inclusive / student-led approaches.
+
+<!--
+A section here would help the headings - but is it too complicated?
+Also links to other chapter
+-->
+
+### Observing and Assessing Hands-On Practices
+
+There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents . A summary is below.
+
+**Structured observations:** Before lessons, teachers create a framework of the behaviour or use of concepts you want to observe and observe them as you interact with students, via recordings or their created work.   
+
+**Unstructured observations:** Teachers record or reflect on some of the more unexpected turns that happen during the lesson, often after the event from memory or recordings.  
+
+**Verbal protocols:** Teachers assess the learning and understandings of students by asking them to talk aloud the way they are solving problems and undertaking tasks.
+
+<!-- There is repetition with conclusion here -->
+<!--
+Outline the types of observation from
+ -->
+<!-- Link to Bevan / Learning Dimensions -->
+
+One way to align a computing learning with UDL principles involves teachers set learners meaningful projects, giving students access to suitable tools, inspiration and to sustain their motivation. Assessment would then follow the activities that students undertook using a mixture of the observation techniques listed above. Such observation is time consuming, as such teachers may need support to undertake detailed observation while you teach.
+
+**The Use of Concept Map and Learning Frameworks**
+
+In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter explores a set of inclusive approaches called Universal Design for Learning (UDL).
+
+### Universal Design for Learning
 
 Universal Design for Learning (UDL) is a set of principles which are align with our earlier exploration of inclusive practices. UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
 
@@ -330,19 +362,15 @@ ACTIVITY - APPLYING UDL IN THE CLASSROOM
 
 Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
 
-- To what extent can students choose their own way to apply the target knowledge or skills? Can work outcomes be driven on their interests or at least adapted to add their one interests as content materials within it?  
-- Are learners able to see and explain the real life application of the concepts and skills you are introducing? How motivating do they find that link?
-- How are you helping learners to make connections between the concepts and skills they are picking up through hands on work and the more abstract representations that may occur in test or exam situations?
+- What choices do students have to apply the target knowledge or skills? Can activities and learning be related to student's interests?  
+- Are learners able to connect to real-life application of the concepts and skills you are introducing? How motivating do they find that link?
+- How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
 
-One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas. Thus if we return to the semantic wave representation, this suggests teachers should start on the more concrete (high semantic gravity) and then highlight concepts and patterns as they emerge in authentic situations. This approach may be unfamiliar or seem to go against the traditional format of a lesson plan. How able are you to try this out in your own lessons? Is there an upcoming situation where you could try a different approach and evaluate how students respond?
+Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.   
 
-### Observing and Assessing Hands-On Practices
+Thus if we return to the semantic wave profiles, in a UDL approach teachers would start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. While examples of semantic wave often start with the abstract, an approach familiar with traditional lesson plans, according to the research it is the continued movement between concrete and abstract poles that is important. Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
 
-There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents
 
-<!-- There is repetition with conclusion here -->
-
-In an ideal situation teachers are able to introduce concepts and then give student suitable tools, inspiration and to sustain their motivation as they solve real computing tasks. However this sets the bar high for many classrooms. While not all schools can provide this kind of motivation and support within an everyday computing classroom environment, many of them find ways of bringing the value project and design approaches to their students. I explore some of these tactics and associated benefits of design and project approaches in more depth in another chapter of this book.    
 
 <!-- #### ACTIVITY - What do you think about transfer? (perhaps earlier)
 
@@ -354,9 +382,9 @@ Much of what this chapter has looked at stems from a core concept of education t
 
 ### Conclusion
 
-The purpose of this chapter has been to celebrate the educational value of hands-on, concrete activity. In many ways as computing educators we are lucky to have such rich and engaging resources at our disposal which invite tinkering and learning through trial and error experimentation. However this can bring a tension as teachers feel the pressure to bring students attention back to underlying abstract concepts that make up test material. We looked at key parts work of the NCCE has been doing to support teachers recognise and navigate abstract and hands-on teaching techniques.
+The purpose of this chapter has been to celebrate the educational value of hands-on, concrete activity. In many ways as computing educators we are lucky to have such rich and engaging resources at our disposal which invite tinkering and learning through trial and error experimentation. However this can bring a tension as teachers feel the pressure to bring students attention back to underlying abstract concepts that are assessed through test material. The NCCE has played a pivotal role in supporting teachers to recognise and navigate abstract and hands-on teaching techniques; that work has been discussed in this chapter.
 
-We have explored that this key tension between has been around since the dawn of computing education. Papert the inventor of Logo invited us to use creative computing revalue the concrete. More recently Resnick and Rusk [-@resnick_coding_2020] from the Scratch research community caution against some of the dangers of adopting a too formal approach to coding including; too much memorisation of computational terms rather than application, devaluing hands on coding compared abstract concepts, not enough time devoted to complete projects and finally learners not given enough choice in their creations. His concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads.
+This key tension between the concrete and the abstract has been around since the dawn of computing education. Papert, the inventor of Logo invited us to use creative computing revalue the concrete. More recently, Resnick and Rusk [-@resnick_coding_2020] from the Scratch research community caution against some of the dangers of adopting exclusively formal approaches to coding including: too much memorisation of computational terms rather than application, devaluing hands-on coding compared to abstract concepts, not enough time devoted to complete projects and, finally, learners not given enough choice in their coding projects. The researchers share the concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads.
 
 This chapter then explored the alignment of between inclusive education principles and concrete, student-led ways of approaching computing education. We have also explored the value of UDL principles for teachers looking to inclusive practice and the possibility to assess content knowledge through observing students during hands-on work. In another chapter I explore the same principles via design and project based approaches. These methods can also help teachers balance the requirements of the curriculum and the value of letting students spend more getting their hands dirty in the concrete of coding.
 
