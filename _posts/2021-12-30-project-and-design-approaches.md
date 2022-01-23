@@ -9,8 +9,6 @@ categories: misc
 title: Project and Design Approaches in Computing
 ---
 
-# Project and Design Approaches in Computing
-
 ## Introduction
 
 <!-- Take this out perhaps -->

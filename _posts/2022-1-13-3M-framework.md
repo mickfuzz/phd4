@@ -10,7 +10,11 @@ categories: misc
 title: 3M Framework for Game Making
 ---
 
-# Game Making Pedagogy using a Three M Framework
+
+## Intro  / Abstract
+
+In this chapter I outline a case study and model for game making to do x, y an z
+
 
 <!-- ## Notes
 Indicative chapter structure (about 5000 words, less if you have tables/figures - see the T1 template)
@@ -33,10 +37,6 @@ Findings main parts
 - maps -
 - drama process as a reflective frame
  -->
-
-## Intro  / Abstract
-
-In this chapter I outline a case study and model for game making to do x, y an z
 
 I identify tensions emerging from the exploratory stages of my PhD study on families making games together.
 

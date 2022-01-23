@@ -10,9 +10,7 @@ categories: misc
 title: Game Making and Coding Fluency
 ---
 
-# Game Making and Coding Fluency
-
-## Intro
+## Introduction
 
 In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based approaches. I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games. My aim is to engage with research on game making but also to keep the subject connected to learning experiences in a school or after-school context. To do this I look at tensions to game making approaches especially those that impact the use of game making in the classroom.
 
@@ -244,7 +242,7 @@ In addition this chaotic, colourful and visual representation served to encourag
 Maps can also be used retrospectively to help learners to reflect on their progress. I asked student to create a physical character that could move around the large scale print out of the islands. When they chose a new pattern to work on they moved their counter and drew a trail of where they had been. When moving the counter on the map they can be prompted to look at the coding concepts or other learning dimensions that they have been working with when implementing their game patterns.
 
 The process can be linked back to Artefact-based questions and assessment and a guided.
-DEVELOP THIS THOUGHT. 
+DEVELOP THIS THOUGHT.
 
 ### Learning Dimensions Map
 

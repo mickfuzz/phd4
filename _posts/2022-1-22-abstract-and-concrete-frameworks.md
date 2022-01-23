@@ -9,24 +9,6 @@ categories: misc
 title: Abstract and Concrete Approaches to Computing
 ---
 
-<!--
-### notes / ideas
-- order of the concrete / abstract and inclusion section - prehaps swap?
-- in PRIMM quick read - they draw on SCT socio cultural theory - add this to the chapter and link to game making
--  downplay PBL - up play design approaches (and patterns)
-- include associated challenges in part two
-
-
-### Additions -
-
-- Kolb as PBL friendly - no starting point - suited to ongoing reflective cycle approach
-- But need help to navigate the process - think of design Patterns
-- Invite question - what exactly is abstract?
-- Then on to Papert - pluralism - they get there if you let them experiment or the design of the tools / experience leads them there.   
-- some kind of resolution of concrete and abstract concepts
-- there is abstraction at every level , young kids grouping red toys, abstract, analyse and sythesise by grouping - this doesn't have to be taught explicitly
-- the essential tension of teachers trying to be inclusive but having to respond to a curriculum. -->
-
 ## Introduction
 
 In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and many creative fun apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education. This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters.
