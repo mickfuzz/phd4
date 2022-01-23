@@ -127,11 +127,11 @@ For educators the use of design patterns and worked examples can help support le
 
 Where the iterative design cycle The Use-Modify-Create (UMC) model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concept [@lee_computational_2011] - http://tiny.cc/usemodifycreate.
 
-In the **Use** stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
-In **Modify** learners progress to working on real projects but one created by others.
-Progressing to the **Create** stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch.
+**Use:** In the _Use_ stage, coders build a familiarity with coding interfaces and the some of the through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
+**Modify:** In _Modify_ learners progress to working on real projects but one created by others.
+**Create:** Progressing to the _Create_ stage - is not an immediate process. As novices pick up patterns of code design in use in the modify section, they are in a good place to replicate such patterns in other code that they create from scratch.
 
-Research has supported the benefits of the UMC approach. A study on 500 9 to 14 year olds highlighted the effectiveness to balance a structured approach concentrating on computing concepts with more student-led exploration [@franklin_analysis_2020]. They also found that the students enjoyed the process as they had more choice and agency in the process. This is supported by research which compared a from scratch and UMC approach suggested higher student engagement for those in the UMC group [@lytle_use_2019]. Researchers suggest that this is because, students had more time to play around with code, they were able to add their own personal touches and that that ownership over the code sustained engagement.  
+Research has supported the benefits of the UMC approach. A study on five hundred 9 to 14 year olds highlighted the effectiveness to balance a structured approach concentrating on computing concepts with more student-led exploration [@franklin_analysis_2020]. They also found that the students enjoyed the process as they had more choice and agency in the process. This is supported by research which compared a from scratch and UMC approach suggested higher student engagement for those in the UMC group [@lytle_use_2019]. Researchers suggest that this is because, students had more time to play around with code, they were able to add their own personal touches and that that ownership over the code sustained engagement.  
 
 Kafai and Burke [-@kafai_social_2013] argue that a shift from writing programs from scratch to modifying and remixing them is inline with socio-cultural teaching approaches. They coin the term computational participation to reflect this change of focus. They also note that such remixing is helped by online coding communities that may be either semi-professional or come from more of a DIY / youth culture perspective. They encourage educators not to just focus on the technical possibilities of coding environments but the potential of associated communities. The following case study examines how the a key online community is facilitating design-based learning.
 
@@ -189,7 +189,7 @@ Here are some of they key features and design choices of the online community.
 
 **Diverse ways to participate** There is a great variety of forms of engagement with this kind of online community. You may just play others games, or just comment. You may use it to create your own projects but not engage in the more social elements of the creative process. You may like a smaller section of the community become extremely active in creating and collaborating with others on many projects.
 
-**Encouraging project iteration** - remixing and easy of self remixing - encourages sharing drafts for feedback - comments encourage new features.
+**Encouraging project iteration** Remixing and ease of self remixing - encourages sharing drafts for feedback - comments encourage new features.
 
 **Supportive and authentic audience of fellow creators** due to high numbers likely to find peers interested in subject matter and proficient in coding techniques. This encourages collaboration between community users. The potential and depth of collaboration of this community can be impressive. Researchers Roque and colleagues [-@cress_supporting_2016] have described this in detail see - http://tiny.cc/scratch-community. In this deep dive analysis of the community and of particular is the process if of individuals finding each other on the community, grouping together by forming a group called a _studio_ and then recruiting other members to work on joint projects. This is very sophisticated behaviour mimicking real production processes carried out by young people with a high degree of independence, although they are only a very small proportion of the online Scratch creators.
 
@@ -206,8 +206,7 @@ You can ask you self the following questions to try to check if you can use some
 - Are learners able to think and articulate the perspective of users of projects as they start to consider the design for what they are creating?
 - Are learners helped to come up with ideas with ideation techniques that scaffold the creative process?
 
-**Follow-up Resources**
-As part of the Rise Programme at the MMU I've created or helped to create three online courses which explore hands on ways to use design thinking in education and community work. https://rise.mmu.ac.uk/category/enterprise/design-thinking/ - At the time of publishing resources are open to all you just need to log in to access the courses.
+**Follow-up Resources:** As part of the Rise Programme at the MMU I've created or helped to create three online courses which explore hands on ways to use design thinking in education and community work. https://rise.mmu.ac.uk/category/enterprise/design-thinking/ - At the time of publishing resources are open to all you just need to log in to access the courses.
 
 ## Projects and Project Based Learning
 
@@ -221,12 +220,19 @@ Computing education is an excellent vehicle for a project-based approach to lear
 
 Academic have worked with expert practitioners to created PBL frameworks have emerged as a way of helping practitioners to plan, deliver projects and to to recognise the complexity of some of the learning happening. The following outline of PBL elements is a product of several of these frameworks.
 
-- **Challenge** - The focus of the project should be a relatable problem or question that is does not have one straightforward solution.
-- **Authenticity** -  Real life relevance of projects helps get student engagement as they see the link to their interests and communities.
-- **Sustained and Collaborative** - Adequate time must be allocated, students should work together and be given the chance to revise projects.
-- **Public Project** - the creation of a shareable object or even that helps learners focus and to design for others and act as a focus for discussion as a learning community
-- **Student Voice and Choice** - giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy.
-- **Reflection and Critique** - Self-reflection may be informal at times but also guided by class processes like learning journals. It also involves peer feedback or outside input beyond the class teacher to bring authentic perspectives.
+<!-- FLESH OUT A BIT?  -->
+
+**Challenge:** The focus of the project should be a relatable problem or question that is does not have one straightforward solution.
+
+**Authenticity:** Real life relevance of projects helps get student engagement as they see the link to their interests and communities.
+
+**Sustained and Collaborative:** Adequate time must be allocated, students should work together and be given the chance to revise projects.
+
+**Public Project:** The creation of a shareable object or even that helps learners focus and to design for others and act as a focus for discussion as a learning community
+
+**Student Voice and Choice** Giving students choice over the contents of their project increases their engagement and participation in open discussions about project direction builds student autonomy.
+
+**Reflection and Critique** Self-reflection may be informal at times but also guided by class processes like learning journals. It also involves peer feedback or outside input beyond the class teacher to bring authentic perspectives.
 
 ###  Stages and Resources to Support PBL in Computing Classrooms
 
@@ -239,25 +245,15 @@ The following  questions can help you prepare to deliver a project with your stu
 <!-- Based on this break down
 https://www.edutopia.org/project-based-learning-guide-implementation -->
 
-**Start with a driving question or mission**
+**Start with a driving question or mission:** The project goal for computing projects is often to create a digital product in response to a need or design brief with has a specific audience in mind. Add in detail and sense of linking to real world problems at this stage to maximise learner engagement. Decide the limits for students projects and outline these clearly from the start to avoid having to rain on their parade. For example creating a 2D game instead of a 3D one.
 
-The project goal for computing projects is often to create a digital product in response to a need or design brief with has a specific audience in mind. Add in detail and sense of linking to real world problems at this stage to maximise learner engagement. Decide the limits for students projects and outline these clearly from the start to avoid having to rain on their parade. For example creating a 2D game instead of a 3D one.
+**Designing a plan and resources for the project:** Decide what part of the curriculum the project work will develop. Use a deep knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources.
 
-**Designing a plan and resources for the project**
+**Monitor pupil's progress:** As the project unfolds, keep student's track by having a realistic schedule for project stages. Are you consistently signposting students to the relevant resources for the project choices they are making.
 
-Decide what part of the curriculum the project work will develop. Use a deep knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources.
+**Assess emerging project processes and outcomes:** Ongoing feedback and assessment is vital. Building in opportunities for reflection, peer feedback and revision. Can students share prototypes of their digital products? Can you support then to recognise if they are working effectively as a team? How can you support them to make connections to the underlying curriculum knowledge?
 
-**Monitor pupil's progress**
-
-As the project unfolds, keep student's track by having a realistic schedule for project stages. Are you consistently signposting students to the relevant resources for the project choices they are making.
-
-**Assess emerging project processes and outcomes**
-
-Ongoing feedback and assessment is vital. Building in opportunities for reflection, peer feedback and revision. Can students share prototypes of their digital products? Can you support then to recognise if they are working effectively as a team? How can you support them to make connections to the underlying curriculum knowledge?
-
-**Evaluation**
-
-You may use innovative ways to evaluate both the end piece of work created by the student but also the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
+**Evaluation:** You may use innovative ways to evaluate both the end piece of work created by the student but also the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
 
 To follow up this activity you can draw on the online resources provided by numerous organisations including Eutopia, Buck Institute, PBLworks and the UK based Edge Foundation.
 
@@ -272,19 +268,26 @@ This section looks barriers to PBL and tips and strategies that have been used b
 <!-- Based on this blog post.
 https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html -->
 
-**Sustaining the effort - Time challenges**: In research surrounding barriers to undertaking projects in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. In addition cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
+**Sustaining the effort - Time challenges:** In research surrounding barriers to undertaking projects in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. In addition cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
 
-**Highlight the Value of PBL for Inclusion**: As previously highlighted PBL and design-approaches align well with Universal Design for Learning. As educators we can highlight importance of creating inclusive classroom environments to our line managers as a way to advocate for allocating time, training and resources for project-based learning.
+**Highlight the Value of PBL for Inclusion:** As previously highlighted PBL and design-approaches align well with Universal Design for Learning. As educators we can highlight importance of creating inclusive classroom environments to our line managers as a way to advocate for allocating time, training and resources for project-based learning.
 
-**The Challenge of Authenticity**: The process of making projects relevant, authentic and therefore motivating in school is not simple.  Any way of linking projects to real issues beyond the classroom is useful. Here are some tactics you may be able to use.
+**Artefact-based Assessment:** The tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices? NCCE promote artefact-based questions (ABQs) to assess project work. Questions based on the created digital or physical artefacts that students create as part of their projects is a way of connecting back the real life problems they have encountered to the requirements and specifics of the computing curriculum. Questions can be about the motivation of the project and how the outcome compares to the original goals and how feedback was implemented. You can focus in on specific areas of the design or the code and ask about details of the code design and implementation. You can also ask about the process, for example about group work, overcoming challenges and the design process.
 
-- Can your draw on community members to set a local challenge?
-- Are there other members of staff in other subject areas to pose a school-based problem - perhaps a pastoral or a cross-curriculum issue?
-- Can you establish any links with industry or social enterprises to set an authentic challenge?
+**Authenticity of Project:** The process of making projects relevant, authentic and therefore motivating in school is not simple.
+
+<!-- A bit more here on the value of it or research - link back to community  -->
+
+### ACTIVITY - MEETING THE CHALLENGE OF AUTHENTICITY IN THE CLASSROOM
+
+Here are some tactics you may be able to use linking projects to real issues beyond the classroom.
+
+- Draw on community members to set a local challenge that resonates with your learners?
+- Use other members of staff in other subject areas to pose a school-based problem. This could be subject-specific or a pastoral or cross-curriculum issue.
+- Establish links with industry or social enterprises to set an authentic challenge within a work context.
 
 If you draw on experts, staff of community members the they don't need to be there for the full term of the project you can use visits or video calls at the start and end of the project. Most importantly be sure to draw on experience of students, pool their experiences and use their ideas to shape possible responses to the challenge in early stages.  
 
-**Artefact-based Assessment**: The tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices? NCCE promote artefact-based questions (ABQs) to assess project work. Questions based on the created digital or physical artefacts that students create as part of their projects is a way of connecting back the real life problems they have encountered to the requirements and specifics of the computing curriculum. Questions can be about the motivation of the project and how the outcome compares to the original goals and how feedback was implemented. You can focus in on specific areas of the design or the code and ask about details of the code design and implementation. You can also ask about the process, for example about group work, overcoming challenges and the design process.
 
 <!-- It is reassuring that research supports some of the following popular areas as outlined ;
 - Physical Computing - makes the computing experience tangible and shareable
