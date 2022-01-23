@@ -8,5 +8,7 @@ description: A git approach to writing a phd
 
 url: https://mickfuzz.github.io
 baseurl: /phd4
+show_excerpts: true
+
 # publishing information
 # pandoc -s -o 3M_framework.odt --lua-filter=../pandoctest/zotero.lua --filter=pandoc-citeproc  2021-03-20-3M-framework.md

@@ -66,7 +66,7 @@ BUT LINKING OUT TO TENSIONS IDENTIFIED IN THE LITERATURE
 
 ### Motivations of Game Making as Education
 
-This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by [Kafia and Burke -@kafai_constructionist_2015].
+This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke [-@kafai_constructionist_2015].
 
 <!-- Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach. -->
 
@@ -83,7 +83,9 @@ The most prominent learning objective of making games in educational setting is 
 
 IS THIS NEEDED - WORK ON OTHER STUFF FIRST - FOCUS ON MOTIVATION INSTEAD AND EXPLORE PBL AND INCLUSION IN RELATION TO THAT?
 
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. Contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014].
+<!-- REVISE TO INCLUDE ROQUE? MORE SPECIFIC?  -->
+Contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
 The inclusive possibilities of design and project-focused computing  include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
@@ -93,7 +95,6 @@ FIND SUPPORT HERE
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
 
 <!-- However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing". -->
-
 
 Work on NCCE aligning with that of Connectivist Educators and Researchers. Can be supported by use of PBL frameworks. Project based learning and science base inquiry learning is more mature than integration of design thinking and agile design into the classroom.
 
