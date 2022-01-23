@@ -212,7 +212,7 @@ Computing education is an excellent vehicle for a project-based approach to lear
 
 <!-- As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways. As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements. -->
 
-Academics have worked with expert practitioners to created PBL frameworks have emerged as a way of helping practitioners to plan, deliver projects and to to recognise the complexity of some of the learning happening. The following outline of PBL elements is a product of several of these frameworks.
+Academics have worked with expert practitioners to create PBL frameworks to help practitioners to plan, deliver projects and to to recognise the complexity of some of the learning happening. The following outline of PBL elements is a synthesis of several of these frameworks.
 
 <!-- FLESH OUT A BIT?  -->
 
@@ -259,12 +259,17 @@ To follow up this activity you can draw on the online resources provided by nume
 
 ## Creatively Overcoming Limitations to PBL
 
-This section looks barriers to PBL and tips and strategies that have been used by other educators and researchers to overcome these barriers.
+This section looks barriers to PBL and tips and strategies that have been used by other educators and researchers to overcome these barriers in the context of computing and cross-curricular activities. .
 
 <!-- Based on this blog post.
 https://www.ictineducation.org/home-page/2013/10/9/9-challenges-of-project-based-learning.html -->
 
-**Sustaining the effort - Time challenges:** In research surrounding barriers to undertaking projects in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick suggests that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. In addition cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
+**Sustaining the effort - Time challenges:** In research surrounding barriers to undertaking projects in schools, teacher commonly cite time restrictions due to curriculum pressures. Resnick and Rusk -@resnick_coding_2020 suggest that were possible double lessons are helpful for hands on work and to allow the design process some time to unfold. He also advocates for whole terms devoted to undertaking a project, thus letting pupils return to tweak and improve trickier coding and design challenges. In addition cross-curricular projects may free up more time by linking. For example linking computing project with maths as a subject by asking students to create a game that taught maths concepts. Thus deepening their learning of a particular area of the maths curriculum.
+
+<!-- FIND SOURCE.  
+https://www.edutopia.org/article/future-coding-schools
+CODING AT CROSS ROADS
+-->
 
 **Highlight the Value of PBL for Inclusion:** As previously highlighted PBL and design-approaches align well with Universal Design for Learning. As educators we can highlight importance of creating inclusive classroom environments to our line managers as a way to advocate for allocating time, training and resources for project-based learning.
 
