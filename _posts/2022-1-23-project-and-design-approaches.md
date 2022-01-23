@@ -239,6 +239,8 @@ The following  questions can help you prepare to deliver a project with your stu
 <!-- Based on this break down
 https://www.edutopia.org/project-based-learning-guide-implementation -->
 
+<!-- Include more computing examples - and relate to inclusion when possible -->
+
 **Start with a driving question or mission:** The project goal for computing projects is often to create a digital product in response to a need or design brief with has a specific audience in mind. Add in detail and sense of linking to real world problems at this stage to maximise learner engagement. Decide the limits for students projects and outline these clearly from the start to avoid having to rain on their parade. For example creating a 2D game instead of a 3D one.
 
 **Designing a plan and resources for the project:** Decide what part of the curriculum the project work will develop. Use a deep knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources.
@@ -255,7 +257,7 @@ To follow up this activity you can draw on the online resources provided by nume
 
 <!-- It is rare in today's coding environment to approach a coding project using a top down / abstract approach and then code everything from scratch. Instead for many coders the first stage will be to mess around with the tools, and then to research what code frameworks will help your job and what already written modules can be incorporated. Teachers can support students to develop this kind of pragmatic, authentic approach. For example the PRIMM approach which is explored in another chapter is very helpful to build students ability to read other people's code. Also the Use-Modify-Create model, explored in the chapter on game making in another chapter, is valuable to build familiarity with code environments through small changes that get progressively more ambitious.    -->
 
-## Creatively Overcoming Limitations
+## Creatively Overcoming Limitations to PBL
 
 This section looks barriers to PBL and tips and strategies that have been used by other educators and researchers to overcome these barriers.
 
