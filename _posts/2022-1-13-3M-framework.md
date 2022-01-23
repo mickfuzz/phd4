@@ -10,9 +10,6 @@ categories: misc
 title: 3M Framework for Game Making
 ---
 
-
-## Intro  / Abstract
-
 In this chapter I outline a case study and model for game making to do x, y an z
 
 

@@ -9,8 +9,6 @@ categories: misc
 title: Abstract and Concrete Approaches to Computing
 ---
 
-## Introduction
-
 In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and many creative fun apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education. This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters.
 
 <!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->

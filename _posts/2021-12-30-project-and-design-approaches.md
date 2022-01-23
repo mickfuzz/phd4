@@ -9,10 +9,6 @@ categories: misc
 title: Project and Design Approaches in Computing
 ---
 
-## Introduction
-
-<!-- Take this out perhaps -->
-
 In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. One of the tactics to make learning concrete is to get your learners to design and complete computing projects. The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting have a tremendous potential to deliver transformative learning experiences. Preparing students for these exam questions requires skills and practices that are quite different from coding in a real life setting. Because of this computing teachers face a significant challenge to both teach concepts to be reproduced in exam contexts and to unleash the potential of student working on their own projects.
 
 In this chapter we explore some of the strategies that can be used to support the delivery of design and project based approaches. To start with I focus on the value of creative communities before tackling the areas of design-based approaches to computing project and a broad look at some of the benefits and processes of project-based learning. This chapter then turns to look at some tactics for overcoming limitations in what you can achieve in the classroom.

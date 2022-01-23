@@ -10,8 +10,6 @@ categories: misc
 title: Game Making and Coding Fluency
 ---
 
-## Introduction
-
 In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based approaches. I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games. My aim is to engage with research on game making but also to keep the subject connected to learning experiences in a school or after-school context. To do this I look at tensions to game making approaches especially those that impact the use of game making in the classroom.
 
 
