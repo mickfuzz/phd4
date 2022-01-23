@@ -62,17 +62,19 @@ On a global scale there have been many developments in software and programs res
 WHICH ONE TO GO FOR?
 COULD MOVE THE MOTIVATIONS TO CONTEXT AND FOCUS ON THE TENSIONS - BUT MAKE THIS MORE OF A VIGNETTE
 MORE PERSONAL - MORE ACCESSIBLE -
-BUT LINKING OUT TO TENSIONS IDENTIFIED IN THE LITERATURE 
+BUT LINKING OUT TO TENSIONS IDENTIFIED IN THE LITERATURE
 
 ### Motivations of Game Making as Education
 
-This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke -@kafai_constructionist_2015.
-<!--
-* Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach. -->
+This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by [Kafia and Burke -@kafai_constructionist_2015].
 
- <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 --> -->
+<!-- Design patterns are an important factor in learning to code in a professional community  [-@denner_using_2014] the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach. -->
+
+ <!-- Werner, L., Denner, J., Campe, S., 2014. Children Programming Games: A Strategy for Measuring Computational Learning. ACM Transactions on Computing Education 14, 1–22. https://doi.org/10.1145/2677091 -->
  <!-- * Games are perfect projects. Thus game making suits project-based learning. -->
-MOVE THIS
+
+MOVE THIS TO INTRO IF ABOVE CHANGES?
+INSERT MORE REFERENCES?
 
 The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
 
