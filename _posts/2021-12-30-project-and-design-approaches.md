@@ -218,7 +218,7 @@ Computing education is an excellent vehicle for a project-based approach to lear
 
 <!-- As PBL has been adopted by higher education and become the focus of academic study then frameworks have emerged as a way of helping practitioners to help students squeeze as much learning as they can from the process and to recognise the complexity of some of the learning happening. This is important as sometimes some of the learning is tacit/hidden learning which is hard to assess in traditional ways. As a way of quickly communicating the kind of learning that PBL promotes we can represent them in a visual form followed by a table to briefly describe these elements. -->
 
-Academic have worked with expert practitioners to created PBL frameworks have emerged as a way of helping practitioners to plan, deliver projects and to to recognise the complexity of some of the learning happening. The following outline of PBL elements is a product of several of these frameworks.
+Academics have worked with expert practitioners to created PBL frameworks have emerged as a way of helping practitioners to plan, deliver projects and to to recognise the complexity of some of the learning happening. The following outline of PBL elements is a product of several of these frameworks.
 
 <!-- FLESH OUT A BIT?  -->
 
