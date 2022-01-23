@@ -275,7 +275,7 @@ CODING AT CROSS ROADS
 
 **Artefact-based Assessment:** The tension between the more rote-learning elements of the curriculum and the need for more fluid programming experiences raises an important question for the future. How can some of the more flexible techniques for observing and assessing learner progress can be brought into exam practice to reduce the gap between exam and real life coding practices? NCCE promote artefact-based questions (ABQs) to assess project work. Questions based on the created digital or physical artefacts that students create as part of their projects is a way of connecting back the real life problems they have encountered to the requirements and specifics of the computing curriculum. Questions can be about the motivation of the project and how the outcome compares to the original goals and how feedback was implemented. You can focus in on specific areas of the design or the code and ask about details of the code design and implementation. You can also ask about the process, for example about group work, overcoming challenges and the design process.
 
-**Authenticity of Project:** The process of making projects relevant, authentic and therefore motivating in school is not simple.
+**Authenticity of Project:** As mentioned before, computing is blessed with the potential to create digital and physical projects that are recognised or relevant to young people. However sometimes the process of finding authentic audiences and processes to motivate learners within a school setting not simple.
 
 <!-- A bit more here on the value of it or research - link back to community  -->
 
