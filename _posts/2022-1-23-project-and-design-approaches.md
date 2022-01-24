@@ -49,16 +49,16 @@ most pedagogies are still around behaviourist approaches.
 
 The power of communities has been highlighted by academics as part of what is known as the "social turn" in educational research. This is a turn away from more individualised ways of learning concentrating of efficient transfer of knowledge from the teacher to the pupil. Instead the focus is on how learning happens through participation in communities and culture. Researchers involved in this area are broadly referred to as being part of a socio-cultural school of educational research.
 
-Community in this educational context provides support in creative process as well as motivating initial participation. Barbara Rogoff [-@rogoff_developing_1994], a key researcher in the socio-cultural approaches to education, has described an educational processes called _Communities of Learners_ - http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that observing this kind of learning this can be confusing to adults used to more instruction-based learning. Such a learning community in full swing can seem chaotic. This seems like chaos because complex and productive learning is happening in ways that we may be unused to. This chapter helps decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
+Community in this educational context provides support in creative process as well as motivating initial participation. Barbara Rogoff [-@rogoff_developing_1994], a key researcher in the socio-cultural approaches to education, has described an educational processes called _Communities of Learners_ - http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that observing this kind of learning can be confusing to adults used to more instruction-based approaches. Such a learning community in full swing can seem chaotic. This seems like chaos because complex and productive learning is happening in ways that we may be unused to. This chapter helps decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
 ### ACTIVITY - APPLYING A COMMUNITY APPROACH IN THE CLASSROOM
 
 Are you making the most of the power of communities in your classroom. Before you start your next unit of work you can ask you self some of the following questions.
 
-- At what stages in your learners able to work together during your unit of work? Are there chances for peer feedback?
-- Are there examples of the work of students or others available for your students to examine, to use and to inspire them?
-- Can you draw on the roles or identities that students have adopted in other work? Are they able to reflect on the specifics on those roles to contribute to the effectiveness of their teamwork?
-- Can you help your learners make a connection between the work they are doing and other professional or enthusiast communities outside of the classroom?
+- Are there regular opportunities for learners to work together during your unit of work? How often will students give and receive peer feedback?
+- Are there examples of similar work from other students available for your students to examine and perhaps repurpose?
+- Can you draw on the roles or identities that students have adopted in their previous school work or home lives? Are they able to reflect on the specifics on those roles to contribute to the effectiveness of their teamwork?
+- Can you help your learners make connections between the work they are doing and other professional or enthusiast communities outside of the classroom?
 
 <!--
 And SINGPOSTING to the rest of the chapter
