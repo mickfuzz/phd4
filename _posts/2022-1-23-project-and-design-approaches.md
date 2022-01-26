@@ -100,19 +100,23 @@ _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Im
 
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-WHAT'S THE PUNCHLINE HERE? 
+It is vital to act on an increasing understanding of diversity of student abilities and the importance of closing an achievement gap between the higher and lower achieving students. The above principles is in line with key inclusive practices contained in UDL including: allowing students to demonstrate their knowledge in a multitude of ways and of allowing students to follow their own interests and motivations [@capp_effectiveness_2017]. As teachers we have a responsibility to evaluate how effective these methods are for our learners with diverse educational needs.
 
 <!-- The following section describes some of the features of the online Scratch community as a way of exploring the benefits and motivations of the creators. The purpose here is not just to advertise that community as a resource, but also to draw out factors that you can try to use when creating or using communities when you engage your learners in design activities. -->
 
 ### Worked Examples and Design Patterns as Educational Tools
 
-For computing students at higher education a key technique used to teach object oriented computing is via design patterns. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in software design. Design patterns are rooted in real life incidences of problems that are often solved in a particular way. They are concretes example of coding principles in context. Design patterns can help novices to participate in a coding community if more experiences coders take the time to document the patterns they use.
+Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are solutions to problems or common scenarios in design areas. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concretes example of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders.
+
 <!-- HOW? -->
+
+<!-- They originate from the discipline of architecture but are perhaps most commonly used in software design. -->
+
 <!--
 The term design pattern is used in slightly different ways depending on the context. Normally when students meet them it will be as part of a set of patterns which include the following elements, the name and description of the pattern, the need for the pattern, related patterns and one or two examples of the pattern in code or psuedo-code format. -->
 <!-- CONTRASTED TO? -->
 
-There are similarities between design patterns and a technique called _worked examples_. NCCE promote worked examples as a classroom activity. They have created a Quick Read document on them - http://tiny.cc/worked-examples.  Worked examples and design patterns both act as a way to demonstrate underlying principles in practice. For both approaches showing working code used in a particular context helps students to analyse what makes it work and why it is a suitable solution.
+There are similarities between design patterns and a technique called _worked examples_. The National Center for Computing Education (NCCE) promote worked examples as a classroom activity. They have created a Quick Read document for teachers on worked examples here - http://tiny.cc/worked-examples. Both worked examples and design patterns act as a way to demonstrate underlying principles in practice. For both approaches showing working code used in a particular context helps students to analyse what makes it work and why it is a suitable solution.
 
 For educators the use of design patterns and worked examples can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges. You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach.
 
@@ -124,13 +128,15 @@ For educators the use of design patterns and worked examples can help support le
 ### The Use-Modify-Create model
 <!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
 
-Where the iterative design cycle The Use-Modify-Create (UMC) model is designed both to limit learner anxiety as they potentially meet code and a coding interface for the first time and to scaffold the acquisition of coding and computational thinking concept [@lee_computational_2011] .
+The iterative design cycle the Use-Modify-Create (UMC) model is designed both to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011].
 
-**Use:** In the _Use_ stage, coders build a familiarity with coding interfaces and code structures and syntax through scaffolded approaches. It is not specific how much is taught in terms of the concepts at this stage.
-**Modify:** In _Modify_ learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims.
-**Create:** Progressing to the _Create_ stage - is not an immediate process. After novices are more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
+**Use:** In the _Use_ stage, coders build a familiarity with coding interfaces and code structures and syntax through scaffolded approaches.
 
-A study on five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach which concentrated on computing concepts with more student-led exploration [@franklin_analysis_2020]. They also found that the students enjoyed UMC as they had more choice and agency in the process. This is supported by other research which compared a UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students had more time to play around with code, they were able to add their own personal touches and that that ownership over the code sustained their continued engagement.  
+**Modify:** In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims.
+
+**Create:** Progressing to the _Create_ stage - is not an immediate process. After novices become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
+
+A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed UMC as they had more choice and agency in the process. This is supported by other research which compared a UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students had more time to play around with code, they were able to add their own personal touches and that that ownership over the code sustained their continued engagement.  
 
 Kafai and Burke [-@kafai_social_2013] argue that a shift from writing programs from scratch to modifying and remixing them is inline with socio-cultural teaching approaches. They coin the term computational participation to reflect this change of focus. They also note that such remixing is helped by online coding communities that may be either semi-professional or come from more of a DIY or youth culture perspective. They encourage educators to avoid focusing solely on technical possibilities of coding environments but to also embrace the potential of associated coding communities. The following case study examines ways in which the online Scratch community is facilitating design-based learning.
 
