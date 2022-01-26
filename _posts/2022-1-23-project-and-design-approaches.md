@@ -6,14 +6,14 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: misc
-title: Project and Design Approaches in Computing
+title: Design and Project Approaches in Computing Education
 ---
 
 In a previous chapter we looked at concrete and abstract approaches to computing educations and learning to code. One of the tactics to make learning concrete is to get your learners to design and complete computing projects. The pedagogies and frameworks that support the creative processes involved in undertaking computing projects in an educational setting have a tremendous potential to deliver transformative learning experiences.
 
 <!-- Preparing students for exam questions requires skills and practices that are quite different from coding in a real life setting. Because of this computing teachers face a significant challenge to both teach concepts to be reproduced in exam contexts and to unleash the potential of student working on their own projects. -->
 
-In this chapter we explore some of the strategies that can be used to support the delivery of design and project based approaches. To start with I focus on the value of creative communities before tackling the areas of design-based approaches to computing project and a broad look at some of the benefits and processes of project-based learning. This chapter then turns to look at some tactics for overcoming limitations in what you can achieve in the classroom.
+In this chapter we explore some of the strategies that can be used to support the delivery of design and project based approaches. To start with I focus on the value of creative communities before tackling the areas of design-based approaches to computing projects and take a broad look at some of the benefits and processes of project-based learning. This chapter then turns to look at some tactics for overcoming limitations in what you can achieve in the classroom.
 
 <!-- In a professional setting coders will often be working within existing projects that they have not started themselves. They may be patching and remixing existing code and including and adapting external code libraries. All the time they will be adapting to existing practices and patterns used by their colleagues and code communities. GCSE questions attempt to include some elements of peer practices by including tests of code reading and analysis.
 The scope of this chapter is large so I have concentrated on picking out details that may help teachers make their classrooms into learning environments that can support students to pick up coding and computing skills useful if they progress into that profession, as well as gaining useful project skills which are potentially useful in many areas of their future professional and personal lives. -->
@@ -26,7 +26,7 @@ The scope of this chapter is large so I have concentrated on picking out details
 
 ## The Power of Communities
 
-A project based approach to learning coding and computing can be something that emerges from the home environment. For example enthusiastic older family members may take young people to Maker Fairs or engage in other community coding activities. Family members may buy creative computing kits or access resources such as YouTube videos or via specialist online forums.
+A project based approach to learning coding and computing can be something that emerges from the home environment. For example enthusiastic older family members may take young people to Maker Fairs or engage in other community coding activities. Family members may buy creative computing kits or access resources such as YouTube videos or via online forums for specialist subjects like robotics or game making.
 
 <!-- This kind of hobbyist forums and communication have been documented as being significant in the evolution of the home computer and Silicon Valley culture. If you put the name "Homebrew Computing Club" into a search engine you will find an interesting history. -->
 
@@ -34,9 +34,9 @@ However, access to this kind of computer enthusiast community is not available t
 
 **Code Clubs** are designed for out of hours school clubs run by teachers and provide inspiration and resources to help build a lunch-time or after school community. A large number of high quality, colourful and attractive resources are supplied free of charge on their website. It was originally an independent organisation which is now part of Raspberry Pi Foundation. https://projects.raspberrypi.org/en/codeclub
 
-**Coder Dojos** are monthly events run by volunteers often at the weekend. They often focus on creative, engaging computing. I have volunteered at some events and interviewed other volunteers. I have been impressed at the dedication and inventiveness of volunteers. While some tables will use existing resources to support Scratch, others will try out new and experimental work around hacking Minecraft, creating games with code engines and new technologies of physical computing. Often volunteers will bring their own children, and use them as guides to help them evaluate their project ideas to make sure they are engaging and achievable for the target audience.
+**Coder Dojos** are monthly events run by volunteers often at the weekend. They often focus on creative, engaging computing. I have volunteered at some events and been impressed at the dedication and inventiveness of the other volunteers. While some attending the event will use existing resources to support Scratch, others will try out new and experimental work around hacking Minecraft, creating games with code engines and new technologies of physical computing. Often volunteers use their own children who act as guinea pigs testing activities out on their family before bringing it to a Coder Dojo.  https://coderdojo.com/
 
-**The Coolest Project** is another project the Raspberry Pi Foundation. It addresses one issue with monthly Coder Dojos. My observations and interviews with volunteers at Dojos showed that there is a difficulty in maintaining project interest from one month to the next. Ongoing projects allow students to tackle problems in a radically different way to much of classroom teaching. As well as a greater amount of time dedicated to hands-on coding and physical computing challenges projects provide opportunities to engage in authentic coding practices. These include: designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to fine tune the desired result.
+**The Coolest Project** is another project taken on the Raspberry Pi Foundation. It addresses one issue with monthly Coder Dojos. There is often a difficulty in maintaining project interest from one month to the next at Coder Dojos. Ongoing projects allow students to tackle problems in a radically different way to much classroom teaching. As well as a greater amount of time dedicated to hands-on coding and physical computing challenges projects provide opportunities to engage in authentic coding practices. These include: designing for real users, collaboration with other students, project planning, debugging faulty code and repeated revisions to fine tune the desired result. https://online.coolestprojects.org/
 
 <!-- While the Raspberry Pi Foundation have created and collected an impressive collection of resources - it is vital to also appreciate the work of volunteers and teachers volunteering out of class time to create the opportunities to code creatively. This is more than about the creation of stand alone resources, it is about creating authentic goals for learners and setting up systems involving adults, teen helpers and in the case of Coder Dojo other family members to support the skills and sustain the interest of learners. -->
 
@@ -44,12 +44,13 @@ However, access to this kind of computer enthusiast community is not available t
 how to bring this into the classroom
 most pedagogies are still around behaviourist approaches.
 -->
+Coder Dojos are family-focused and thus less easy for teachers to engage with. But they are a good source of inspiration for teachers looking for creative project ideas for their classroom. However, both Code Clubs and the Coolest Project are suitable to run inside schools by computing teachers. Running lunchtime or after-school projects, while not reaching all pupils, can be a great way to showcase the engaging and creative nature of hobbyist computing projects.
 
 ### Communities in Educational Theory
 
-The power of communities has been highlighted by academics as part of what is known as the "social turn" in educational research. This is a turn away from more individualised ways of learning concentrating of efficient transfer of knowledge from the teacher to the pupil. Instead the focus is on how learning happens through participation in communities and culture. Researchers involved in this area are broadly referred to as being part of a socio-cultural school of educational research.
+The power of communities has been highlighted by academics as part of what is known as the "social turn" in educational. This is a turn away from more individualised ways of learning concentrating of efficient transfer of knowledge from the teacher to the pupil. Instead the focus is on how learning happens through participation in communities and culture, socio-cultural approach.
 
-Community in this educational context provides support in creative process as well as motivating initial participation. Barbara Rogoff [-@rogoff_developing_1994], a key researcher in the socio-cultural approaches to education, has described an educational processes called _Communities of Learners_ - http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that observing this kind of learning can be confusing to adults used to more instruction-based approaches. Such a learning community in full swing can seem chaotic. This seems like chaos because complex and productive learning is happening in ways that we may be unused to. This chapter helps decode some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
+Community in this educational context provides support in creative process as well as motivating initial participation. Barbara Rogoff [-@rogoff_developing_1994], a key researcher in the socio-cultural approaches to education, has described an educational process called _Communities of Learners_ - http://tiny.cc/communityoflearners. Rogoff sees this approach as radically different from both instruction based models of learning and pure discovery learning. Participants have different levels of expertise and varied roles in a learning system working towards an authentic goal. Rogoff notes that observing this kind of learning can be confusing to teachers and parents used to more instruction-based approaches. Such a learning community in full swing can seem chaotic. This seems like chaos because complex and productive learning is happening in ways that we, as teachers, may be unused to. This chapter helps unpick some of these practices and explore ways that educators have structured their learning environments to take advantage of this powerful approach.
 
 ### ACTIVITY - APPLYING A COMMUNITY APPROACH IN THE CLASSROOM
 
@@ -57,8 +58,8 @@ Are you making the most of the power of communities in your classroom. Before yo
 
 - Are there regular opportunities for learners to work together during your unit of work? How often will students give and receive peer feedback?
 - Are there examples of similar work from other students available for your students to examine and perhaps repurpose?
-- Can you draw on the roles or identities that students have adopted in their previous school work or home lives? Are they able to reflect on the specifics on those roles to contribute to the effectiveness of their teamwork?
-- Can you help your learners make connections between the work they are doing and other professional or enthusiast communities outside of the classroom?
+- Can you draw on the roles or identities that students have adopted in their previous school or home activities? Are they able to reflect on the specifics of those roles to contribute to the effectiveness of their engagement in teamwork?
+- Can you help your learners make connections between their computing activities and other professional or enthusiast communities outside of the classroom?
 
 <!--
 And SINGPOSTING to the rest of the chapter
@@ -67,9 +68,9 @@ And SINGPOSTING to the rest of the chapter
  <!-- In another chapter in this book I look at how to apply a project and inclusive approach to game making as a coding and computing project. -->
  <!-- ### UDL as Learning Framework -->
 
-## Design Approaches in Computing Education
+## Design-based Approaches in Computing Education
 
-Designing as a discipline involves both a community of producers and users. Design approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices are also relevant to education. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. Design projects allow students to develop important 21st Century Skills like problem solving, communication and creatively responding to real life contexts. In the following sections I will explore the design approaches of iteration, design patterns and the use-modify-create model.
+Designing as a discipline involves both a community of producers and users. Design-based approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices are also relevant to education. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. Design projects allow students to develop important 21st Century Skills like problem solving, communication and creatively responding to real life contexts. In the following sections I will explore the design-based approaches of iteration, design patterns and the use-modify-create model.
 
 <!-- These range from exploring cultural contexts to role playing scenarios. For some suitable resources see http://tiny.cc/design_resources -->
 <!-- For some suitable resources see INSERT  
@@ -89,13 +90,13 @@ Iterative design involves coming back to reflect on the initial outcomes of crea
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-Researchers involved in the Scratch project at MIT illustrate and approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity. See http://tiny.cc/creativespiral.
+Researchers involved in the Scratch project at MIT illustrate design-based approaches education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity. See http://tiny.cc/creativespiral.
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 _Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
 
-Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approach in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
 <!-- The following section describes some of the features of the online Scratch community as a way of exploring the benefits and motivations of the creators. The purpose here is not just to advertise that community as a resource, but also to draw out factors that you can try to use when creating or using communities when you engage your learners in design activities. -->
 
@@ -191,7 +192,7 @@ One of the challenges identified by the researchers was how to replicate the ben
 <!--
 What these projects and features have in common is that they create communities which support the different stages creative spiral. The importance of creating and facilitating different forms of participation in communities and for that community to function a motivating factor and reflective tool for young producers is key to the socio-cultural and constructionist schools of educational research. This line of thinking can be traced back to to Papert's early focus on objects to think with and creating shareable concrete artefacts. -->
 
-### ACTIVITY - USING DESIGN APPROACHES IN THE CLASSROOM
+### ACTIVITY - USING DESIGN-BASED APPROACHES IN THE CLASSROOM
 
 You can ask you self the following questions to try to check if you can use some of the beneficial aspects of design-based approaches in your classroom.
 
@@ -231,7 +232,7 @@ Academics have worked with expert practitioners to create PBL frameworks to help
 
 PBL is aligned with design-based approaches and UDL in many ways. They all require or benefit from a collaborative community and a real or imagined audience which learners create a public product for. It is participation, motivation by and feedback from this community that underpin the socio-cultural nature of the student's learning.
 
-One critique of project and community based learning, especially where it involves student experimentation and student discovery, is that is chaotic and less effective at communicating high-level concepts. It also requires skills, support and planning that are very different from traditional teaching and therefore may be difficult for teaching staff to implement. For example, practitioners must build their ability to switch between facilitating students operating freely to then guiding them in the process of revision and critique. Having resources and clear stages to your project plan to help this process is vital. This section outlines the typical stages of PBL and how to adapt it to a computing context.
+One critique of project- based learning, especially where it involves student experimentation and student discovery, is that is chaotic and less effective at communicating high-level concepts. It also requires skills, support and planning that are very different from traditional teaching and therefore may be difficult for teaching staff to implement. For example, practitioners must build their ability to switch between facilitating students operating freely to then guiding them in the process of revision and critique. Having resources and clear stages to your project plan to help this process is vital. This section outlines the typical stages of PBL and how to adapt it to a computing context.
 
 The following  questions can help you prepare to deliver a project with your students.
 
