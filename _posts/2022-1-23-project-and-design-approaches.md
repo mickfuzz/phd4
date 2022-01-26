@@ -70,7 +70,7 @@ And SINGPOSTING to the rest of the chapter
 
 ## Design-based Approaches in Computing Education
 
-Designing as a discipline involves both a community of producers and users. Design-based approaches have been adopted widely in software production, creative industries and wider business contexts. These principles and practices are also relevant to education. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. Design projects allow students to develop important 21st Century Skills like problem solving, communication and creatively responding to real life contexts. In the following sections I will explore the design-based approaches of iteration, design patterns and the use-modify-create model.
+Designing as a discipline involves both a community of producers and users. Design-based approaches have been adopted widely in software production, creative industries and wider business contexts. These design principles and practices are also relevant to education. If you are an educator the experience of seeing students motivated by producing something for a real audience may be familiar. Design projects allow students to develop important 21st Century Skills like problem solving and communication, and to creatively respond to real life contexts. In the following sections I will explore the design-based approaches of iteration, design patterns and the use-modify-create model.
 
 <!-- These range from exploring cultural contexts to role playing scenarios. For some suitable resources see http://tiny.cc/design_resources -->
 <!-- For some suitable resources see INSERT  
@@ -83,26 +83,30 @@ https://www.mantleoftheexpert.com/resources/contexts/
 ### Iterative Design Techniques
 <!-- In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create. -->
 
-Iterative design involves coming back to reflect on the initial outcomes of creative goals and revising them based on results. In simple terms the process involves; goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. The process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved. Iteration is also a key part of a more general scientific method of testing an idea and revising that idea and tests based on your analysis of results. The idea of an repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In software and design industries it is often referred to as Design Thinking and Agile approaches. In education Bruner describes it at a spiral curriculum.    
+Iterative design involves coming back to reflect on the initial outcomes of creative goals and revising them based on results. In simple terms the process involves: goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. The process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved. Iteration is also a key part of a more general scientific method of testing an idea and then revising that idea based on your analysis of results. The idea of a repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In software and design industries it is often referred to as Design Thinking and Agile approaches. In education Bruner describes it at a spiral curriculum.    
+INSERT REFERENCE
+
 
 <!-- Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface. -->
 
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-Researchers involved in the Scratch project at MIT illustrate design-based approaches education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity. See http://tiny.cc/creativespiral.
+Researchers involved in the Scratch project at MIT illustrate an approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity. See http://tiny.cc/creativespiral.
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
-_Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine_
+_Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine - NEEDS REPRODUCING OR REMOVAL_
 
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement with sustained participation in computing projects from a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
+WHAT'S THE PUNCHLINE HERE? 
+
 <!-- The following section describes some of the features of the online Scratch community as a way of exploring the benefits and motivations of the creators. The purpose here is not just to advertise that community as a resource, but also to draw out factors that you can try to use when creating or using communities when you engage your learners in design activities. -->
 
-### Worked Examples and Design Patterns as an educational tools
+### Worked Examples and Design Patterns as Educational Tools
 
-For computing student at higher education a key technique used to teach object oriented computing is via design patterns. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in software design. Design patterns are rooted in real life incidences of problems that are often solved in a particular way. They are concretes example of coding principles in context. Design patterns can help novices to participate in a coding community if more experiences coders take the time to document the patterns they use.
+For computing students at higher education a key technique used to teach object oriented computing is via design patterns. Design patterns are solutions to problems or common scenarios in design areas. They have a origin architecture but are perhaps most commonly used in software design. Design patterns are rooted in real life incidences of problems that are often solved in a particular way. They are concretes example of coding principles in context. Design patterns can help novices to participate in a coding community if more experiences coders take the time to document the patterns they use.
 <!-- HOW? -->
 <!--
 The term design pattern is used in slightly different ways depending on the context. Normally when students meet them it will be as part of a set of patterns which include the following elements, the name and description of the pattern, the need for the pattern, related patterns and one or two examples of the pattern in code or psuedo-code format. -->
