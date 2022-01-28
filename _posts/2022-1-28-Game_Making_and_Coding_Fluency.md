@@ -24,7 +24,7 @@ A later report After the Reboot [@waite_pedagogy_2017], returned to the subject 
 CHANGE THIS AROUND NOW IT'S MOVED - GAMES ARE PBL - PBL IS INCLUSIVE
 
 Games are perfect projects. Thus game making suits project-based learning. We can draw on research that outlines the benefits of that approach.
-In previous chapters the inclusive possibilities of projects in computing were summarised AND THEY ALIGN WITH UDL. 
+In previous chapters the inclusive possibilities of projects in computing were summarised AND THEY ALIGN WITH UDL.
 
 These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
@@ -60,15 +60,13 @@ The researchers suggest that the use of Design Patterns outside of professional 
 
 When students are tasked with making games that teach a key concepts of another subject it requires them to gain a deep understanding of that area. Kafai's review covered studies on game making to aid maths, biology, chemistry and language development. Cross-curricular projects are also a potential way to overcome limits in time devoted to computing.  
 
-**Developing Social and 21st Century Skills**
-
-
-These potential benefits align closely with a concept called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment.  
-
-More tightly focused research on game making and collaboration is needed but the potential to develop such skills is exciting. One Study by Baytak [-@baytak_case_2010] focused on the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
+**Developing Social and 21st Century Skills:** These potential benefits align closely with a concept called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment. More tightly focused research on game making and collaboration is needed but the potential to develop such skills is exciting. One Study by Baytak [-@baytak_case_2010] focused on the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
 
 
 **Authentic projects creating real results**
+
+EDIT DOWN OR MOVE UP
+OR A WHOLE SECTION ON GAMES AS AN INCLUSIVE PRACTICE AT THE START
 
 An important concept in both project and inclusive approaches to education is to make projects as authentic as possible to increase learner motivation. For game making this authenticity or realness applies both to the tangible, shareable nature of resulting game created and to the domain of professional game design. When learners are designing with someone else in mind, this guides them to shaping their game design effectively. The process of projecting beyond your own experience to an imagined user is a vital design skill that is potentially well developed by making games. As game making is a huge well known industry, learners understand that the resulting knowledge and skills is not inert but authentic thus and can be applied outside of the classroom.
 
