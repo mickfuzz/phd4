@@ -14,9 +14,30 @@ title: Game Making and Coding Fluency
 
 In this chapter I explore the potential of digital game making as a way of developing coding concepts and fluency. I'll make a summary of research around project-based approaches to game making and draw out some of the benefits and some elements that are special about making games. To do this this chapter explores research on game making relevant to a school or after-school context. In the final section I outline tactics to resolve common tensions when working with learners to undertake game-making projects.
 
+## Context
+
 Research on the educational value of computer games has often focused on game playing either of commercial (off the shelf) games or specialist educational game software. However, for many researchers a far more promising area that of making computer games. An influential report in the introduction of a new Computing curriculum was "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone2010next. Its focus was on providing the UK games and animation industry with the talent needed to succeed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive, well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject. A new curriculum and exams were introduced in 2014 together with an extensive bursary program and even award level bursaries run in partnership with computing industry. Thus, while the first two of the Next Gen recommendations have been adopted, the use of games and making as a way to encourage wider participation in computing has not been realised.
 
 A later report After the Reboot [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research, namely; using games for engagement, use of game patterns and involvement of girls in coding and social and cultural aspects of coding. The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
+
+**Games and Inclusion**
+CHANGE THIS AROUND NOW IT'S MOVED - GAMES ARE PBL - PBL IS INCLUSIVE
+
+Games are perfect projects. Thus game making suits project-based learning. We can draw on research that outlines the benefits of that approach.
+In previous chapters the inclusive possibilities of projects in computing were summarised AND THEY ALIGN WITH UDL. 
+
+These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
+
+ALSO
+
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
+
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
+
+<!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
+ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
+
+However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing".
 
 <!-- The Next Gen report acknowledges issues around perceptions of computing and ICT as geeky and suggests that the engaging nature of computing activities based around video games. -->
 
@@ -37,11 +58,10 @@ The researchers suggest that the use of Design Patterns outside of professional 
 
 **Games to study other subjects**
 
-There are extensive studies on game making to learn other subjects which are covered in the review. A key one carried out the Kafai one of the authors. Cross-curricular projects are a potential way to overcome limits in time devoted to computing. Many teachers will attest that to truly understand a subject you can should try to teach it. Tasking students with making games that teach a key piece of the curriculum is one way of encouraging deepen understanding of subject matter.
+When students are tasked with making games that teach a key concepts of another subject it requires them to gain a deep understanding of that area. Kafai's review covered studies on game making to aid maths, biology, chemistry and language development. Cross-curricular projects are also a potential way to overcome limits in time devoted to computing.  
 
 **Developing Social and 21st Century Skills**
 
-Games are perfect projects. Thus game making suits project-based learning. We can draw on research that outlines the benefits of that approach. In previous chapter the inclusive possibilities of design and project-focused computing were summarised. These include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
 These potential benefits align closely with a concept called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment.  
 
@@ -93,16 +113,7 @@ More research is needed on ways to draw out attitudes and knowledge of game cult
 
 It can be seen then that even if student don't consider video game _playing_ to be their thing, that there are other ways for them to bring their interests into game making.
 
-**Games and Inclusion**
 
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
-
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences.
-
-<!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
-ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
-
-However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes that video games are just "not my thing".
 
 ## An Overview of Game Coding Tools
 
