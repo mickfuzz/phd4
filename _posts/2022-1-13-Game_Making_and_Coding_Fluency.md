@@ -10,31 +10,26 @@ categories: misc
 title: Game Making and Coding Fluency
 ---
 
-In this chapter I explore the potential of Computer Game Making as a way of undertaking computing projects in line with the principles of project based approaches. I'll make a summary of research around project approaches to game making and draw out some of the benefits and some elements that are special about making games. My aim is to engage with research on game making but also to keep the subject connected to learning experiences in a school or after-school context. To do this I look at tensions to game making approaches especially those that impact the use of game making in the classroom.
+# Introduction
 
+In this chapter I explore the potential of digital game making as a way of developing coding concepts and fluency. I'll make a summary of research around project-based approaches to game making and draw out some of the benefits and some elements that are special about making games. To do this this chapter explores research on game making relevant to a school or after-school context. In the final section I outline tactics to resolve common tensions when working with learners to undertake game-making projects.
 
-### Context Background (UK)
+Research on the educational value of computer games has often focused on game playing either of commercial (off the shelf) games or specialist educational game software. However, for many researchers a far more promising area that of making computer games. An influential report in the introduction of a new Computing curriculum was "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone2010next. Its focus was on providing the UK games and animation industry with the talent needed to succeed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive, well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject. A new curriculum and exams were introduced in 2014 together with an extensive bursary program and even award level bursaries run in partnership with computing industry. Thus, while the first two of the Next Gen recommendations have been adopted, the use of games and making as a way to encourage wider participation in computing has not been realised.
 
-Research on the educational value of computer games has often focused on game playing either of commercial (off the shelf) games or specialist educational game software.However, for many researchers a far more promising area that of making computer games. The RSA reports Reboot or Shutdown and After the Reboot [-@the_royal_society_shut_2012; -@the_royal_society_after_2017] have shaped UK computing education ethos practice around the introduction of a new Computing curriculum. Some of the key recommendations of these reports were first proposed in another influential report  called "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" @livingstone_next_2011. Its focus was on providing the UK games and animation industry with the talent needed to succeed. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-In 2017 the After the Reboot report examined changes in the area of computing education. The new curriculum and exams were introduced in 2014. This had been launched together with an extensive bursary program and even award level bursaries run in partnership with computing industry. Thus, the first two of the Next Gen recommendations were in place. However the use of games and making as a way to encourage wider participation in computing has not been realised. The report returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research, namely; using games for engagement, use of game patterns and involvement in girls in coding and social and cultural aspects of coding [@waite_pedagogy_2017].
+A later report After the Reboot [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research, namely; using games for engagement, use of game patterns and involvement in girls in coding and social and cultural aspects of coding. The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
 
 <!-- The Next Gen report acknowledges issues around perceptions of computing and ICT as geeky and suggests that the engaging nature of computing activities based around video games. -->
 
 <!-- ADD IN MORE DETAILS FROM REPORT AND OTHER SOURCES
 HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
-The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making.
-
-
 ## Significant Features of Game Making for Education
 
-In the following section we draw from educational research to explore what is already known to be beneficial in terms of game making. Researchers Kafai and Burke have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). What follows is a summary of some of the key areas of potential for learners.
-
+The following sections the benefits of game making in education. Researchers Kafai and Burke -@kafai_constructionist_2015 have undertaken one or the most extensive reviews of the educational potential of game making. This is available in the form of a book called Connected Gaming but a there is also a shorter version freely available - see  [http://tiny.cc/2tzutz](http://tiny.cc/2tzutz). The following sections are based on this research with some additional material.
 
 **Coding and Computing Practices**
 
-The main learning objective of making games in educational setting is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many game making tools involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
+The main learning objective of making games in educational settings is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many others involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
 Design patterns are an important factor in learning to code in a professional community. The use of games to explore computational patterns is explored as a case study in another chapter. In their analysis of computational thinking in relation to game making, Werner and colleagues [-@denner_using_2014] examined design patterns and game mechanics as well as more straight forward coding constructs.
 The researchers suggest that the use of Design Patterns outside of professional communities has a great deal of promise to increase accessibility for learners into coding due to its more concrete and relatable approach.
@@ -75,11 +70,12 @@ One of the more specialist 21st Century Skills is systems thinking. As the econo
 
 _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues. The Game for Change network has a main audience of commercial game makers however they also run a game making challenge for young people and support for teachers.   
 
-One of the recommended strategies is a Game Jam which focuses on real life issues.
-
-Resources from the Games for Change network and from the Institute of Play which are aimed at supporting systems thinking through game making SEE THE FOLLOWING LINK - https://gamesforchange.org/studentchallenge/student-resources/
-https://gamesforchange.org/studentchallenge/teachers-resources/
+<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
+-->
+
+Resources from the Games for Change network and from the Institute of Play which are aimed at supporting systems thinking through game making are available at the following links.
+https://gamesforchange.org/studentchallenge/teachers-resources/
 https://clalliance.org/institute-of-play/
 
 
