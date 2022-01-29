@@ -94,7 +94,7 @@ In this section I outline the key features of selected game making tools. Some g
 ![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
 _Screenshot of Phaser in Glitch.com playground with code and game side by side_
 
-The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via a easy to use timeline of your project.
+The drawbacks of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy to use timeline of your project.
 
 <!-- - simplicity of tools with future potential - low floor high ceiling wide walls
 - tensions around starting code from scratch or from a template -->
@@ -163,8 +163,6 @@ I noticed that when facilitating game making I would sometimes be frustrated lea
 
 ### Maps
 
-BRING THIS BACK TO INCLUSION - REFERENCE EARLIER CHAPTER ON PROJECT APPROACHES - AND CONCEPT MAPS  
-
 **Physical Maps of Missions:** A key challenge was to try to address issues of being unsure what to do next or jumping around from one thing to another without completing them. I printed out a large scale map of the different kinds of game pattern missions represented as different islands. When learners selected their next mission, they moved their counter onto that spot. Thus learners had to be intentional about their next steps. They also kept a track of the missions that they had completed by tracing a trail as they progressed. Having a physical map in my family setting this process was particularly useful to help the parents encourage goal setting and progressing from one task to another rather than getting stuck in a loop of asset design. In addition this chaotic, colourful and visual representation served to encourage peer knowledge of what other people were up to, build a sense of community and to encourage reflection as each design pattern was completed.  
 
 
@@ -197,12 +195,13 @@ _Map of Learning Dimensions of the 3M Game Making Approach_
 
 <!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
 
-**Drama / Fictional Frameworks:** One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits. I have worked with practitioners of Drama Education department at Manchester Met to work on a several process dramas with families, students and staff. But you don't have to be a trained drama practitioner draw on key techniques to increase learner engagement. I asked trainee teachers to devise a scenario to support a series of sessions. In brief, we used a fiction of making games for a alien race coming to destroy the earth. This helped us;
+**Drama / Fictional Frameworks:** One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits. I have worked with practitioners of Drama Education department at Manchester Met to work on a several process dramas with families, students and staff. But you don't have to be a trained drama practitioner draw on key techniques to increase learner engagement. I asked trainee teachers to devise a scenario to support a series of sessions. In brief, we used a fiction of making games for a alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways;
 
-- explore issues of gaming cultures, and hostility to them from a naive alien view point
-- asking learners to step into a role. "As game designers, we will do Y"
-- create a sense of 'jeopardy' increasing their commitment to the process
-- encourage reflection in learners - as they shared their games with the alien audience, they talked through their design decisions and challenges.
+- Asking learners to step into a role can increase a sense of authenticity of the project. For example you may say "As game designers, we will make this game for a particular audience".
+- Fictional situations can help create a sense of 'jeopardy' which can help learners stay on track with their creative timescale and may increase their commitment to the process. 
+-  When learners shared their games with the real or imagined audience, they can talk through their design decisions and challenges thus creating an opportunity for reflection.
+- Drama processes can help explore issues of gaming cultures, and hostility to them which may be an important step for your learners.
+
 
 
 ## Conclusion
