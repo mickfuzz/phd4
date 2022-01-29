@@ -24,7 +24,7 @@ A later report After the Reboot [@waite_pedagogy_2017], returned to the subject 
 
 Games making as an educational activity will often involve setting learners a project of a design challenge and as such is normally a form of project-based learning. In other chapters of this collection we have looked at the inclusive possibilities of projects in computing and how they align with the inclusive pedagogy Universal Design for Learning. Some of these principles include; more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting. Thus, if well-structured, game making projects can be well aligned with inclusive practices.
 
-To focus on the element of learner choice and voice, research has studied the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. Games may allow this in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
+To focus on the element of learner choice and voice, research has studied the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. As explored elsewhere contemporary understandings of inclusion go beyond SEND issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. Games may allow this in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games (http://tiny.cc/videogstats). This study shows that while there is a disparity between genders, game playing is extremely common and you are unlikely to be part of a household where no games are played. Even if not all young people play games they will have knowledge of the conventions and culture of video games allowing educators to draw on these interests and experiences. However, the research surrounding differences in participation and attitudes to game playing and video game cultures is complex. We should be cautious when working with video games. It is important to be sensitive to learners attitudes and that for some learners video games are not part of their cultural identity.
 
@@ -34,21 +34,21 @@ Knowledge of a games and gaming culture is sometimes drawn upon by teachers as a
 
 ###Activity: Drawing on Home cultures
 
-To allow students to bring their own home funds on knowledge into their work we can structure our sessions to help the following:
+To allow students to bring their own home funds on knowledge into their work we can structure our sessions to help the following questions may be a useful check list:
 
--   Students draw on their knowledge of game conventions to inform the structure of their game coding projects.
--   Students draw on their interests of diverse media and interests to choice over the narrative, characters and aesthetic of their game design.
- - Students adopt a more playful and collaborative way of working familiar to them from role play experiences.
+- Are you letting students use their knowledge of game conventions to inform the structure of their game coding projects?
+- Can students draw on their interests of diverse media and interests to choice over the narrative, characters and aesthetic of their game design?
+- Have you planned ways for students to adopt playful and collaborative way of working?.
 
-It can be seen then that even if student don't consider video game _playing_ to be their thing, that there are other ways for them to bring their interests into game making.
+If you can follow these guidelines then even if student don't consider video game _playing_ to be of particular interested to them, that there are other ways for them to bring their interests into game making.
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
 ###Game Making as an Authentic Activity
 
-Another important concept in both project and inclusive approaches to education is to make projects as authentic as possible to increase learner motivation. For game making this authenticity or realness applies both to the tangible, shareable nature of resulting game created and to the domain of professional game design. When learners are designing with someone else in mind, this guides them to shaping their game design effectively. The process of projecting beyond your own experience to an imagined user is a vital design skill that is potentially well developed by making games. As game making is a huge well known industry, learners understand that the resulting knowledge and skills is not inert but authentic thus and can be applied outside of the classroom.
+Another important concept in both project and inclusive approaches to education is to make projects as authentic as possible to increase learner motivation. For game making this authenticity or realness can be seen in both to the tangible, shareable nature of resulting game created and in clear links to the domain of professional game design. When learners are designing with someone else in mind, this guides them to shaping their game design effectively. The process of projecting beyond your own experience to an imagined user is a vital design skill that can be developed when making games. As game making is a large and well-known industry, learners understand that the resulting knowledge and skills is authentic and can be applied outside of the classroom.
 
-Young people may not be able to create a technically commercial advanced game but other audiences exist. For example, so-called Indy Games or Games for Change are made by enthusiasts and often released at low cost or for free on the internet. They often appeal to a retro game aesthetic and are thus easier and quicker to make. Highlighting this movement can reduce student dissatisfaction at not being able to code something like a 3D racing or shooting game. As another way to increase authenticity schools sometimes enter online game making competitions or wider creative competitions like the Coolest Project. You may be able to add authenticity in a similar way by providing a low pressure competition or another frame for your game making. The Buck Institute offer help in increasing authenticity in project-based education based around the following guidance; projects should meet a real need, be relevant to student experience, should be realistic even if using a fictitious scenario and involve processes and tools used by adults. http://tiny.cc/authenticity
+Young people may not be able to create a technically commercial advanced game but other genuine audiences exist. For example, so-called Indy Games or Games for Change are made by enthusiasts and often released at low cost or for free on the internet. They often appeal to a retro-game aesthetic and are thus easier and quicker to make. Highlighting these communities and outlet may reduce student dissatisfaction at not being able to code something like a 3D racing or first-person shooting game. As another way to increase authenticity schools sometimes enter online game making competitions or wider creative competitions like the Coolest Project. You may be able to add authenticity in a similar way by providing a low pressure competition or another frame for your game making. The Buck Institute offer help in increasing authenticity in project-based education based around the following guidance; projects should meet a real need, be relevant to student experience, should be realistic even if using a fictitious scenario and involve processes and tools used by adults. http://tiny.cc/authenticity
 
 <!-- https://www.pblworks.org/blog/four-ways-think-about-authenticity-through-lens-gold-standard-pbl-videos -->
 <!-- more on authenticity if not covered in previous chapter
@@ -78,36 +78,17 @@ https://clalliance.org/institute-of-play/
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
 
-
-
-
-
 ## An Overview of Game Coding Tools
 
 In this section I outline the key features of selected game making tools. Some game making tools for beginners use a GUI to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
 
-### Pygame - a python based library for 2D Games
+**Pygame - a python based library for 2D Games:** Pygame is an add-on (code library) for Python to make game making a bit easier. Pygame is a good choice for students that have had experience of coding in Python of for teachers that want to encourage fluency in this particular language. The Pygame community has produced good resources aimed at beginner coders (https://www.pygame.org/wiki/resources
+). There are also interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation (https://www.raspberrypi.org/blog/tag/pygame/). It is harder to set up a game-coding environment using Pygame compared to some of the other tools here. There is also less of an active community of game makers sharing their games online. YOu can set up a python environment on your desktop, however you can use replit.com (https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
+) or a premium subscription to the educational online code playground trinket (https://trinket.io/features/pygame) to code games online.
 
-**Pygame** is an add on (code library) for Python that makes game making a bit easier. Python is a good choice for a class that has had experience of coding in that language of for teachers that want to encourage fluency in this language. There are good resources aimed at beginner coders available too. There are some interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation. https://www.raspberrypi.org/blog/tag/pygame/
-There are also good tutorials available on the home page of the project - https://www.pygame.org/wiki/resources
+**Scratch - a familiar and flexible tool:** Scratch was one of the first block based programming environment to really catch on in schools. Scratch was designed for more general multi-media projects rather than to make games. However, given free reign games are often what young people try to create first. The ability to create your own graphical and audio assets is a real advantage. However, from my experience, while it is quick to get started, the lack of program common game patterns like gravity and collisions means that complexity of the code you need quickly mounts. Even then, for the most part the actual game play of the learner created games is often a bit unsatisfactory. Where Scratch does stand out is the community element of the website where learners can get inspired by the extremely diverse creations of other young coders. The ability to remix the work of others is a great way start to get used to the tools and the way of working.
 
-Where is less strong is the ease of setting up your code and game environment. It can be tricky to get started compared to some of the other tools here. There is also less of an active community of game makers sharing their games online.
-
-Normally you would set up a python environment on your desktop, however you can use replit.com or a premium subscription to the educational online code playground trinket - you can code pygames online - https://trinket.io/features/pygame
-https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
-
-
-### Scratch - a familiar and flexible tool
-
-**Scratch** was one of the first block based programming environment to really catch on in schools. Scratch was designed for more general multi-media projects rather than to make games. However, given free reign games are often what young people try to create first. The ability to create your own graphical and audio assets is a real advantage. However, from my experience, while it is quick to get started, the lack of program common game patterns like gravity and collisions means that complexity of the code you need quickly mounts. Even then, for the most part the actual game play of the learner created games is often a bit unsatisfactory.
-
-Where Scratch does stand out is the community element of the website where learners can get inspired by the extremely diverse creations of other young coders. The ability to remix the work of others is a great way start to get used to the tools and the way of working.
-
-### Phaser.js in a Code Playground - an authentic web game making framework
-
-EDIT THIS LESS CONVERSATIONAL
-
-**Phaser** is my own tool of choice when it comes to authentic javascript game-making.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy-games, dynamic websites and flexible web applications.
+**Phaser.js in a Code Playground - an authentic web game making framework:** Phaser is a javascript game making library. It is my own tool of choice when it comes to game-making using text code.  To teach it I ask learners to code games an online coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. The killer feature is the ability to make changes and quickly see the new results appear. The concept is also very useful for learners and exists for block coding in tools like Scratch and for text coding in Trinket. Many text based code playgrounds exist and I tried a few and settled on Glitch.com - although the process also works well in Trinket. I love this approach due to the authenticity of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can be creating genuine indy games, dynamic websites and flexible web applications.
 
 ![phaser simple game to edit](./Pictures/phaser_simple.png)
 ![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
@@ -118,25 +99,16 @@ The drawbacks of this approach is the potential complexity of using real web tec
 <!-- - simplicity of tools with future potential - low floor high ceiling wide walls
 - tensions around starting code from scratch or from a template -->
 
-### P5.play - an arts inspired coding environment
-
-**P5.play** is a an add on to the p5.js javascript framework. P5 is a fun javascript library that is quick to learn and get creative results. Sample projects often involve moving interactive, coloured shapes around and generating patterns. P5 project has become popular not only with artists and designers but increasingly with educators. This is partly due to the ability to use it in code playgrounds with all of the advantages previously discussed in the section Phaser and Glitch.
-
-While the P5.play project is limited to 2D games, it add some useful design patterns like animation support, basic collision detection and help for mouse and keyboard interactions and has some great accessible tutorials. https://molleindustria.github.io/p5.play/
+**P5.play - an arts inspired coding environment:** P5.play is an add-on to the p5.js javascript framework. P5 is a fun javascript library that is quick to learn and get creative results. Sample projects often involve moving interactive, coloured shapes around and generating patterns. P5 project has become popular not only with artists and designers but increasingly with educators. This is partly due to the ability to use it in code playgrounds with all of the advantages previously discussed in the section Phaser and Glitch. While the P5.play project is limited to 2D games, it add some useful design patterns like animation support, basic collision detection and help for mouse and keyboard interactions and has some great accessible tutorials. https://molleindustria.github.io/p5.play/
 
 
-### MakeCode Arcade - specialised block based programming
-
-**MakeCode Arcade** is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.  
-
-Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
+**MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
 
 ![MakeCode](./Pictures/makecode.png)
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 _Screenshot of MakeCode Arcade with code and game side by side_
 
-There some fantastic example games and tutorials at
-https://arcade.makecode.com/
+The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. The simplicity of a tool like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software. There some engaging, diverse and comprehensive example games and tutorials at https://arcade.makecode.com/
 
 ## Game Making Methods
 

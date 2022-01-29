@@ -9,6 +9,8 @@ categories: misc
 title: Abstract and Concrete Approaches to Computing
 ---
 
+## Introduction
+
 In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and many creative fun apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education. This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters.
 
 <!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
@@ -28,7 +30,7 @@ I will use the lens of projects to examine creativity in computing.   -->
 
 <!-- ## Coding well is well hard - hard to learn- hard to teach. Choosing suitable coding projects for novices is hard to get right. They may be too hard or too boring. [removed extra]  -->
 
-**On Inclusion**
+###On Inclusion
 
 Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN and disability issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities @the_royal_society_after_2017. As such bringing the out of school interests and experiences of pupils into the classroom is vital. To be inclusive schools and teachers must identify barriers to progression and work to help student overcome them.
 
@@ -50,7 +52,7 @@ However, many of the principles of the UDL framework will be  ones that experien
 
 One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
 
-**On Making Computing Engaging**
+###On Making Computing Engaging
 
 <!-- Increase this section with a case study
 link to game making - hello world magasine - maker spaces -
@@ -312,7 +314,7 @@ One way to align a computing learning with UDL principles involves teachers set 
 
 In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter explores a set of inclusive approaches called Universal Design for Learning (UDL).
 
-### Universal Design for Learning
+## Universal Design for Learning
 
 Universal Design for Learning (UDL) is a set of principles which are align with our earlier exploration of inclusive practices. UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
 
@@ -338,7 +340,7 @@ https://accessibility.uncg.edu/wp-content/uploads/2019/02/UDL-Engagment_For-Webs
 <!-- examples of strategies - perhaps in clude as short link?
 https://goalbookapp.com/toolkit/v/strategies  -->
 
-ACTIVITY - APPLYING UDL IN THE CLASSROOM
+###Activity - Applying UDL in the Classroom
 
 Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
 
@@ -360,7 +362,7 @@ Much of what this chapter has looked at stems from a core concept of education t
 - How realistic is it learners transfer some of the skills and knowledge they have picked up in your teaching sessions to another subject area or to another area of their life? -->
 
 
-### Conclusion
+## Conclusion
 
 The purpose of this chapter has been to celebrate the educational value of hands-on, concrete activity. In many ways as computing educators we are lucky to have such rich and engaging resources at our disposal which invite tinkering and learning through trial and error experimentation. However this can bring a tension as teachers feel the pressure to bring students attention back to underlying abstract concepts that are assessed through test material. The NCCE has played a pivotal role in supporting teachers to recognise and navigate abstract and hands-on teaching techniques; that work has been discussed in this chapter.
 
