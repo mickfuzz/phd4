@@ -80,7 +80,7 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 
 ## An Overview of Game Coding Tools
 
-In this section I outline the key features of selected game making tools. Some game making tools for beginners use a GUI to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
+In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
 
 **Pygame - a python based library for 2D Games:** Pygame is an add-on (code library) for Python to make game making a bit easier. Pygame is a good choice for students that have had experience of coding in Python of for teachers that want to encourage fluency in this particular language. The Pygame community has produced good resources aimed at beginner coders (https://www.pygame.org/wiki/resources
 ). There are also interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation (https://www.raspberrypi.org/blog/tag/pygame/). It is harder to set up a game-coding environment using Pygame compared to some of the other tools here. There is also less of an active community of game makers sharing their games online. YOu can set up a python environment on your desktop, however you can use replit.com (https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
@@ -110,11 +110,9 @@ _Screenshot of MakeCode Arcade with code and game side by side_
 
 The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. The simplicity of a tool like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software. There some engaging, diverse and comprehensive example games and tutorials at https://arcade.makecode.com/
 
-## Game Making Methods
+## The 3M Game Making Learning Design
 
-My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program.
-
-What follows is a distillation of some of the main features of a _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. This learning design could can be applied using any of the tools above.
+My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. What follows is a distillation of some of the main features of a _3M game making model_  which is made up of Missions, Maps and Motivational Methods. The 3M model is the result of several years of exploratory, collaborative game making with home educating families and a Primary School setting. This learning design could can be applied using any of the tools above. The resources I have created for MakeCode (https://mickfuzz.github.io/makecode-platformer-101/) and Phaser (https://glitch-game-makers-manual.glitch.me/) are free and open source and available online. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms.
 
 ### Missions
 
@@ -125,9 +123,16 @@ Many open world games have a concept of a main mission and then optional side mi
 <!-- INSERT IMAGE of incomplete platformer with annotations -->
 <!-- After making quick alterations to an incomplete platform game.  -->
 
-A standard way to progress from an incomplete game would be to follow a step-by-step tutorial which covered adding new game features in a pre-set order. In the 3M model learners choose the order then implement new features. I asked my family learners what they would like to add to this project.  They came up with a list of features including; moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Design patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre.
+A standard way to progress from an incomplete game would be to follow a step-by-step tutorial which covered adding new game features in a pre-set order. In the 3M model learners choose the order then implement new features. I asked my family learners what they would like to add to this project.  They came up with a list of features including; moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Design patterns have an important role in the way that professional coders learn their trade. They are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre. Game design patterns come in different forms but at the most user-oriented level as illustrated in the examples above they have the advantage of being immediate and concrete to learners. Game design patterns are used as a relatable way for student to choose their paths and to structure support via coding concepts linked to these patterns.
 
-Game design patterns come in different forms but at the most user-oriented level as illustrated in the examples above they have the advantage of being immediate and concrete to learners. Game design patterns are used as a relatable way for student to choose their paths and to structure support via coding concepts linked to these patterns. An example of a game mechanic design pattern follows.
+As I developed resources to support students to implement the kinds of patterns they wanted to add to their game, categories of patterns emerged. I noted these and organised the patterns accordingly to help student to navigate them.
+
+- [Game Mechanics:](#game-mechanics)  things to do with the actions of the game
+- [Game Space:](#game-space) things to do with the layout of the game
+- [Game Polish:](#game-polish) music, backgrounds, graphics and story elements
+- [Challenge and Systems:](#challenge-and-systems) how different elements interact to create challenge
+
+An example of a game mechanic design pattern follows.
 
 <!-- DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE?
 NOT REALLY IN DETAIL - JUST LIST AN EXAMPLE-->
@@ -144,13 +149,6 @@ NOT REALLY IN DETAIL - JUST LIST AN EXAMPLE-->
 
 * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
 
-As I developed resources to support students to implement the kinds of patterns they wanted to add to their game, categories of patterns emerged. I noted these and organised the patterns accordingly to help student to navigate them.
-
-- [Game Mechanics:](#game-mechanics)  things to do with the actions of the game
-- [Game Space:](#game-space) things to do with the layout of the game
-- [Game Polish:](#game-polish) music, backgrounds, graphics and story elements
-- [Challenge and Systems:](#challenge-and-systems) how different elements interact to create challenge
-
 When learners choose the pattern they want to work on they can take a physical card on-line help to support them implement the code needed to add the pattern to the game. I originally started off with printed supporting documents but then help learners to transition to online resources. The digital format is particularly useful if learners are copying and pasting code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. But creates another tension around how much guidance to give learners in the code examples provided. How much support you give to this process is up to you. I work with relatively young coders, thus  I chose to provide almost complete code help. This design helps build familiarity with code and the code environment.
 
 <!--
@@ -162,9 +160,9 @@ CHANGE THIS TO MORE TEXT ORIENTED BREAK DOWN. -->
 
 In my research providing these limited options but allowing student to choose their own pathway had a immediate positive effect on the motivation and general energy level of the coding classroom. I would describe result of this approach is a kind of creative, productive chaos.
 
-As mentioned the break down involves creating help resources to support a menu of game design patterns. This work is significant but manageable especially if community collaboration between teachers and other educators is involved. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms. The resources I have created for MakeCode and Phaser are free and open source and available online and available at the following URLs.
-Phaser & Glitch- https://glitch-game-makers-manual.glitch.me/  
-MakeCode - https://mickfuzz.github.io/makecode-platformer-101/
+MOVE THIS LATER - NON SOFTWARE SPECIFIC - OR EARLIER -  HOW TO BE CLEAR ON THE PACKAGE
+
+As mentioned the break down involves creating help resources to support a menu of game design patterns. This work is significant but manageable especially if community collaboration between teachers and other educators is involved.
 
 
 #### Physical Maps of Missions
