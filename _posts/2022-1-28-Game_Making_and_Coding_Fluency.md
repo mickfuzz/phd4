@@ -83,7 +83,7 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
 
 **Pygame - a python based library for 2D Games:** Pygame is an add-on (code library) for Python to make game making a bit easier. Pygame is a good choice for students that have had experience of coding in Python of for teachers that want to encourage fluency in this particular language. The Pygame community has produced good resources aimed at beginner coders (https://www.pygame.org/wiki/resources
-). There are also interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation (https://www.raspberrypi.org/blog/tag/pygame/). It is harder to set up a game-coding environment using Pygame compared to some of the other tools here. There is also less of an active community of game makers sharing their games online. YOu can set up a python environment on your desktop, however you can use replit.com (https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
+). There are also interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation (https://www.raspberrypi.org/blog/tag/pygame/). It is harder to set up a game-coding environment using Pygame compared to some of the other tools here. There is also less of an active community of game makers sharing their games online. You can set up a python environment on your desktop, however you can use replit.com (https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
 ) or a premium subscription to the educational online code playground trinket (https://trinket.io/features/pygame) to code games online.
 
 **Scratch - a familiar and flexible tool:** Scratch was one of the first block based programming environment to really catch on in schools. Scratch was designed for more general multi-media projects rather than to make games. However, given free reign games are often what young people try to create first. The ability to create your own graphical and audio assets is a real advantage. However, from my experience, while it is quick to get started, the lack of program common game patterns like gravity and collisions means that complexity of the code you need quickly mounts. Even then, for the most part the actual game play of the learner created games is often a bit unsatisfactory. Where Scratch does stand out is the community element of the website where learners can get inspired by the extremely diverse creations of other young coders. The ability to remix the work of others is a great way start to get used to the tools and the way of working.
@@ -112,7 +112,9 @@ The MakeCode Arcade interface, like scratch has the ability to edit sprite chara
 
 ## The 3M Game Making Learning Design
 
-My work is inspired in part by the pioneering computing education project called the 5th Dimension project which involved undergraduate students in an after school. It has also been made possible by the similar EdLab programme at Manchester Met University, which also involves students in service learning projects. The mix of student helpers, local young people and in this case their parents gives a rich mix of perspectives which may not be possible for your setting but which has helped evolve a learning design. Weaknesses in the approach were made visible in the responses by young people and adults, and then addressed in the next session or next iteration of the program. What follows is a distillation of some of the main features of a _3M game making model_  which is made up of Missions, Maps and Motivational Methods. The 3M model is the result of several years of exploratory, collaborative game making with home educating families and in a Primary School setting. This learning design could can be applied using any of the tools above. The resources I have created for MakeCode (https://mickfuzz.github.io/makecode-platformer-101/) and Phaser (https://glitch-game-makers-manual.glitch.me/) are free and open source and available online. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms.
+My own research in game making follows a design-based research approach. I have worked with young learners, local families and undergraduate student helpers to evolve the 3M game making approach. The final section of this chapter outlines the main features of the 3M model which comprises Missions, Maps and Motivational Methods. This learning design could can be applied using any of the tools above. The resources I have created for MakeCode (https://mickfuzz.github.io/makecode-platformer-101/) and Phaser (https://glitch-game-makers-manual.glitch.me/) are free and open source and available online. I invite other educators to adopt this approach and share resources for Pygame, p5.play and other suitable platforms.
+
+All the methods involved in the model stem from inclusive pedagogy principles contained in Universal Design for Learning (UDL) and project-based learning (PBL) which are explore in more detail in other chapters of this collection.
 
 ### Missions
 
@@ -166,13 +168,11 @@ BRING THIS BACK TO INCLUSION - REFERENCE EARLIER CHAPTER ON PROJECT APPROACHES -
 **Physical Maps of Missions:** A key challenge was to try to address issues of being unsure what to do next or jumping around from one thing to another without completing them. I printed out a large scale map of the different kinds of game pattern missions represented as different islands. When learners selected their next mission, they moved their counter onto that spot. Thus learners had to be intentional about their next steps. They also kept a track of the missions that they had completed by tracing a trail as they progressed. Having a physical map in my family setting this process was particularly useful to help the parents encourage goal setting and progressing from one task to another rather than getting stuck in a loop of asset design. In addition this chaotic, colourful and visual representation served to encourage peer knowledge of what other people were up to, build a sense of community and to encourage reflection as each design pattern was completed.  
 
 
-<!-- ![map of learning design]({{site.github.url}}/Pictures/maps_2000.png) -->
+<!-- ![map of learning design]({{site.github.url}}/_posts/Pictures/maps_2000.png) -->
 
 <!-- ![learning islands](./Pictures/maps_2000.png)
 ![learning islands]({{ site.baseurl }}/Pictures/maps_2000.png)
 _Missions as Islands_ -->
-
-
 <!-- Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Having them all mapped out meant. -->
 <!-- Is this better in Missions?   -->
 
@@ -180,17 +180,15 @@ Maps can also be used retrospectively to help learners to reflect on their progr
 
 The process can be linked back to Artefact-based questions and assessment and a guided.
 
+**Learning Dimensions Map:** The has been a growing tendency in socio-cultural research to look at the learning that is happening in any given activity from an observational perspective. That is to say that rather than deciding what you want to teach and planning around that, you choose an existing authentic activity and map the learning that actually happens in reality. For example, when researching hands-on tinkering in Science museums Bevan and Petrich INSERT REFERENCE  worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in the exploratory learning processes. In a previous chapter on design and project based approaches we looked at Concept Maps and observation as a way for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. The diagram (OR TABLE?) below shows my resulting map on Learning Dimensions for the 3M game making model.
 
+<!--
+While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/. -->
 
-### Learning Dimensions Map
+![Learning Dimensions](Pictures/learning_dimensions.jpg)
+![Learning Dimensions]({{ site.baseurl }}/_posts/Pictures/learning_dimensions.jpg)
+_Map of Learning Dimensions of the 3M Game Making Approach_
 
-The has been a growing tendency in socio-cultural research to look at the learning that is happening in any given activity from an observational perspective. That is to say that rather than deciding what you want to teach and planning around that, you choose an existing authentic activity and map the learning that actually happens in reality.
-
-<!-- This is the approach adopted in an interesting research program which looked at hands on tinkering with Science exhibits in a museum setting. In an article called -- It looks like fun but what are they learning --Bevan and Petrich worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions is notable as not only are the underlying science concepts explored but, more general skills and attributes and helping behaviour common to an exploratory process is also present. -->
-
-While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/.
-
-I created an online map of the different learning dimensions that learners were most likely to pick up through game making.
 
 ### Motivational Methods
 
