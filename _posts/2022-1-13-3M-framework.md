@@ -166,9 +166,7 @@ https://arcade.makecode.com/
 
 FROM THE ABOVE
 
-The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. To This is one way to resolve the issue of the complexity of asset creation.
-
-Tools like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software.
+The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. Unlike Scratch it is very limited in terms of what can be created. The simplicity of a tool like MakeCode Arcade can help address issues around the scope of projects. They intentionally limit the toolset provided to its graphical interface and this simplicity can be an asset to support our students to build familiarity and fluency of use of code constructs. Thus the tension may still exist by be sidelined by the limits of the software.
 
 
 #### Phaser.js in a Code Playground - an authentic web game making framework
@@ -302,7 +300,7 @@ I propose that as well as different Game Player types there are also different s
 
 I noticed that sometimes parents would get frustrated at their kids messing around and creating tricky or impossible games. I could hear them struggling to bring their kids back into line with what they thought was the right way to go about making games. At the same time when I reviewed the tapes of what they were doing these young people were often exploring the code, making many changes, and inviting others to play their game for feedback very activity - which are excellent coding practices.
 
-To address this issue I created some extra missions to suit these Glitcher game makers who enjoyed playing against the game. While I guessed planners wouldn't need them, for magpie makers, and social makers I created other extra missions that might encourage or legitimise their favoured activity. Thus some of the missions were social in nature (Find out who plays the most computer games per week in your group), others were more anti-social in nature (add an usual sound to someone else’s project) and some exploratory missions that encourage feature sharing.
+To address this issue I created some extra missions to suit these Glitcher game makers who enjoyed playing against the game. While I guessed planners wouldn't need them, for magpie makers, and social makers I created other extra missions that might encourage or legitimise their favoured activity. Thus some of the missions were social in nature (Find out who plays the most computer games per week in your group), others were more anti-social in nature (add an usual sound to someone else’s project) and some exploratory missions that encourage feature sharing. These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions.
 Also while many learners appreciated the quick progress and immediate feedback of patching code to add game design features, other learners wanted to know the full detail of the underlying template code. These planners appreciated having step by step tutorials that explained the code piece by piece. One of the things all game maker types can benefit from are resources to help support learner navigation, this brings us to the next M - **Maps**.
 
 <!--
@@ -357,11 +355,11 @@ _Navigate Dimensions_
 
 The journey that the learners started to have is reminiscent of the semantic waves with ocillations between more concrete and more abstract learning dimensions.
 
-###  Inclusive Methods and Game Making
+###  Motivational Methods
 
-The third M in this 3M framework stand for methods, these are broadly speaking educational, design and drama methods to support an inclusive process.
+The third M in this 3M framework stand for motivational methods, these are broadly speaking educational, design and drama methods to support to help engage and sustain learners in a project-based approach to game making.
 
-My study incorporated and experiemented with many including ..., x, y z. The _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
+The _3M game making model_ - (made up of Missions, Maps and Methods) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
 
 This section describes the model in brief and describes several key findings from its implementation in particular reference to some of the tensions of Game Making outlined above. The next section outlines two methods of that align particularly well with game making.
 
