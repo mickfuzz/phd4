@@ -11,7 +11,7 @@ title: Abstract and Concrete Approaches to Computing
 
 ## Introduction
 
-In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and creative apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education. This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters.
+In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and creative apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches as an inclusive pedagogy. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education. This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters.
 
 <!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will localledok at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
@@ -30,9 +30,9 @@ I will use the lens of projects to examine creativity in computing.   -->
 
 <!-- ## Coding well is well hard - hard to learn- hard to teach. Choosing suitable coding projects for novices is hard to get right. They may be too hard or too boring. [removed extra]  -->
 
-## On Inclusion
+## Inclusion and Inclusive Pedagogies
 
-Later in this chapter I will outline several approaches to support inclusive pedagogy but before doing that it is important to have a quick look at the term inclusion. Inclusion in education is used in many ways but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN and disability issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities @the_royal_society_after_2017. As such bringing the out of school interests and experiences of pupils into the classroom is vital. To be inclusive schools and teachers must identify barriers to progression and work to help student overcome them.
+The term inclusion is used in many ways in the area of education but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN and disability issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities @the_royal_society_after_2017. As such bringing the out of school interests and experiences of pupils into the classroom is vital. To be inclusive schools and teachers must identify barriers to progression and work to help student overcome them.
 
 <!--
 Make the above paragraph less wordy
@@ -42,7 +42,7 @@ Check if this is included in other areas of the book.
 
 <!-- The next section deals with inclusive pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
 
-One emerging principle of inclusive pedagogy is to move away from a view that most students learn well and that others need particular support through adapted approaches. If you include wider understandings of neurodiversity and cultural and language diversity to identify students who need support, then planning alternative activities or learning pathways for these learners could quickly become so time-consuming and complex that it would be unsustainable. Instead, we should design learning experiences so that all learners can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment and can bring their own experience and cultural understandings into their work. These principles - among others - are presented in a framework called Universal Design for Learning (UDL) which is covered in a later section of this chapter.
+One emerging principle of inclusive pedagogy is to move away from a view that most students learn well and that others need particular support through adapted approaches. If you include wider understandings of neurodiversity and cultural and language diversity to identify students who need support, then planning alternative activities or learning pathways for these learners could quickly become so time-consuming and complex that it would be unsustainable. Instead, we should design learning experiences so that all learners can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment and can bring their own experience and cultural understandings into their work. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
 
 <!-- Make the above paragraph clearer - perhaps find citation -->
 
@@ -53,8 +53,6 @@ However, many of the principles of the UDL framework will be  ones that experien
 - finally Conclusion makes claims to favour leading without concepts - concrete fading
  -->
 <!-- Concrete fading here?  -->
-
-One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
 
 
 ### Universal Design for Learning
@@ -68,8 +66,7 @@ These strategies are sometimes presented in a way that highlights the technical 
 <!--
 In terms of choice of student activity teachers will be familiar with the practice of differentiation. UDL practice is similar but places more power in the hands of learners to choose the path that is most appropriate for them. -->
 
-UDL places great value on the personal relevance and value of learning experiences. In exploring the tension between abstract concepts and concrete activities, UDL prioritises engagement, encouraging the teacher to start by setting concrete class goals that are relevant to the learners. Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities.
-
+UDL places great value on the personal relevance and value of learning experiences. In exploring the tension between abstract concepts and concrete activities, UDL prioritises engagement, encouraging the teacher to start by setting concrete class goals that are relevant to the learners. Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
 
 
 ###On Making Computing Engaging
@@ -242,19 +239,13 @@ To do this we can look to relevant research to provide us with some tactics to s
 
 Unplugged activities are carried out away from the computer and aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. As an example teachers may use the cooking recipes as a way to illustrate the importance of correct sequencing in a code context. However, the danger is that being introduced to computing concepts outside of an authentic context where they can be put into practice leads to inert knowledge.
 
+Unplugged activities are also often embodied activities. Embodied ways of learning involve moving beyond a computational view of cognition to recognise the importance of physical experience and emotions in the learning process.
+"Disability studies scholars have been vital architects of frameworks for understanding the integrative relationship between body, mind, and self."@settoducato_pedagogy_2017
+
 <!-- A bit more on this from Lee and Vincent
 unplugged is not enough?
 -->
 
-#### Expansive Framing
-
-<!-- Develop this in relation to the above -->
-
-Researchers Lee and Vincent [-@lee_expansively-framed_2019] were concerned that CT practices are not easily transferable to other areas. They applied an approach of expansive framing to develop students Computational Thinking. Expansive Framing is about students meeting similar abstract concepts in different contexts (or frames). This makes the abstract more concrete by experiencing lots of examples in different situations.
-<!-- More hand-holding for the reader to connect this section to the previous section -->
-Thus to increase the effectiveness of Unplugged activities the researchers also introduced an additional context. For their study they used loom based weaving. Students analysed weave patterns, created a graphical representation of the pattern on grid paper, and then used this to codify the pattern and represent it on a computer screen using Scratch.
-
-Lee and Vincent's research provides a practical approach to help overcome some of the difficulties of transferring knowledge between contexts. See http://tiny.cc/expansive-framing
 
 #### Pair Programming
 
@@ -282,11 +273,19 @@ This image needs to be reconstructed as it is taken from the web.
 
 The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete. In some ways the concept can be seen as simplification of Kolb's experiential learning cycle. Instead of cycling through four dimensions - learners oscillate between the two.
 
+PERHAPS DIAL DOWN OR MOVE THE FOLLOWING TWO PARAGRAPHS - TO SECTION BELOW. 
+
 Exploring semantic wave profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start.
 
 Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating.
 
-<!-- Can you be more explicit about these? Or add ‘rather than ….’ -->
+
+<!-- Can you be more explicit about these?
+Or add ‘rather than ….’
+
+D
+
+-->
 
 This section has looked at tactics to address the realities that teachers face preparing students for Computing exams. The next section focuses on inclusive approaches which involves providing students with multiple ways of engaging with the computing subject materials and practice of coding. While it is in line with research on inclusive practices it may be challenging to implement in many classrooms.
 WHY?
@@ -294,23 +293,68 @@ WHY?
 
 <!-- Challenge by Papert - valuing the concrete - how much is this in opposition - and what is the practical resolution by teachers needing to teach to the test? -->
 
-## Inclusive, Student-led Approaches
+## Inclusive, Concrete and  Student-led Approaches
 
 Inclusive / student-led approaches.
 
+Could move expansive framing here.
 The tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
 
 Inclusive / student-led approaches can take many forms, but they are are different from the tactics above in the following ways.
 
 This has the following benefits for inclusion.
 Laser in - more details on inclusion.
-
 Sign post to other chapters - but state essence of value on the concrete.
+
+Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading".
+
+Particularly explore the Bruner example in Fyfe's 2015 review - 3 stage  (1) an enactive form,
+which is a physical, concrete model of the concept; (2) an iconic form, which is a graphic or
+pictorial model; and finally (3) a symbolic form, which is an abstract model of the concept
+<!--
+https://d1wqtxts1xzle7.cloudfront.net/39338896/2015_FyfeMcNeilBorjas_LI-with-cover-page-v2.pdf?Expires=1643555872&Signature=QPEOo0kHWTG-e0-4Nvbd-U2md4Ny2FQGMWbCBb6IjcgoqbZik9X-vGD-pmka0uchC4RFdsoIJ3gHNdnHVELA-3ZvNyUuAqxEZWDfIWqIB~-BGaUnBswW6A09syhXmEfSW8JGsupCmivZYskY9m4f5H2VuXVh7RE6GCbYcxyvDfxCFnVDPpxEOlwOV04v0G9-EIierQiiYOEFTVfaq1hZk4pu2YIDI9xbWwSeOMhZ0Wm5PtW1lDCyONXRMeFLltVzNWS7V0-WYHIaZSVNtlwzTQx~pmw~MDzz8qaP3zbjxFtiZKyIOMCV5QJDgNffs~ytmBY8Xbz5uzACPpjsLiOV-w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+ -->
+
 
 <!--
 A section here would help the headings - but is it too complicated?
 Also links to other chapter
 -->
+
+
+###Activity - Applying UDL in the Classroom
+
+Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
+
+- What choices do students have to apply the target knowledge or skills? Can activities and learning be related to student's interests?  
+- Are learners able to connect to real-life application of the concepts and skills you are introducing? How motivating do they find that link?
+- How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
+
+Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.   
+
+Thus if we return to the semantic wave profiles, in a UDL approach teachers would start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. While examples of semantic wave often start with the abstract, an approach familiar with traditional lesson plans, according to the research it is the continued movement between concrete and abstract poles that is important. Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
+
+
+
+### CRA - Concrete, Representational and Abstract - and Concreteness Fading
+
+CRA follows three stages.
+
+Researchers Cook and colleagues @cook_using_2016 explored an alignment of UDL with another framework CRA. The researchers break down the
+
+The term Concreteness Fading is also widely used in Mathematics research and practice.
+
+
+
+### Expansive Framing
+<!-- Develop this in relation to the above
+Perhaps drop this.
+-->
+Researchers Lee and Vincent [-@lee_expansively-framed_2019] were concerned that CT practices are not easily transferable to other areas. They applied an approach of expansive framing to develop students Computational Thinking. Expansive Framing is about students meeting similar abstract concepts in different contexts (or frames). This makes the abstract more concrete by experiencing lots of examples in different situations.
+<!-- More hand-holding for the reader to connect this section to the previous section -->
+Thus to increase the effectiveness of Unplugged activities the researchers also introduced an additional context. For their study they used loom based weaving. Students analysed weave patterns, created a graphical representation of the pattern on grid paper, and then used this to codify the pattern and represent it on a computer screen using Scratch.
+
+Lee and Vincent's research provides a practical approach to help overcome some of the difficulties of transferring knowledge between contexts. See http://tiny.cc/expansive-framing
 
 ### Observing and Assessing Hands-On Practices
 
@@ -346,19 +390,6 @@ https://accessibility.uncg.edu/wp-content/uploads/2019/02/UDL-Engagment_For-Webs
 
 <!-- examples of strategies - perhaps in clude as short link?
 https://goalbookapp.com/toolkit/v/strategies  -->
-
-###Activity - Applying UDL in the Classroom
-
-Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
-
-- What choices do students have to apply the target knowledge or skills? Can activities and learning be related to student's interests?  
-- Are learners able to connect to real-life application of the concepts and skills you are introducing? How motivating do they find that link?
-- How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
-
-Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.   
-
-Thus if we return to the semantic wave profiles, in a UDL approach teachers would start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. While examples of semantic wave often start with the abstract, an approach familiar with traditional lesson plans, according to the research it is the continued movement between concrete and abstract poles that is important. Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
-
 
 
 <!-- #### ACTIVITY - What do you think about transfer? (perhaps earlier)
