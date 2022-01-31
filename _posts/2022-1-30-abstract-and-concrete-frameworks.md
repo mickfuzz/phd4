@@ -315,8 +315,6 @@ Also links to other chapter
 
 <!-- Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.    -->
 
-**The Use of Concept Maps and Learning Frameworks:** In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter looks at an activity to include inclusive approaches into your classroom using  Universal Design for Learning (UDL).
-
 <!-- ### Expansive Framing
 <!-- Develop this in relation to the above
 Perhaps drop this.
@@ -361,7 +359,10 @@ Much of what this chapter has looked at stems from a core concept of education t
 - What do you feel are the most valuable potentially transferable skills your students meet in your sessions?
 - How realistic is it learners transfer some of the skills and knowledge they have picked up in your teaching sessions to another subject area or to another area of their life? -->
 
-### Activity - Applying UDL in the Classroom
+**The Use of Concept Maps and Learning Frameworks:** In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter looks at an activity to include inclusive approaches into your classroom using  Universal Design for Learning (UDL).
+
+
+## Activity - Applying UDL in the Classroom
 
 Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
 
