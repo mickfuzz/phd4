@@ -115,7 +115,7 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 Many theories of learning explore the value of both concrete and abstract phases. The theory of experiential learning from Kolb is often expressed as a cycle of concrete experience, reflection, abstract conceptualisation, experimentation and then repeats. When applied to coding and computing, a student's knowledge of a coding concept may deepen a little bit each time you apply it in practice.
 
 
-### ACTIVITY - RECOGNISING THE CONCRETE AND ABSTRACT IN YOUR TEACHING
+### Activity - Recognising the Concrete and Abstract in your Teaching
 
 To help your learners to embed the knowledge of your lessons, it is helpful to identify what parts of your sessions address more abstract conceptions of computing knowledge and those that are more concrete. To do this ask you can yourself the following questions about your sessions.
 
@@ -235,7 +235,7 @@ To do this we can look to relevant research to provide us with some tactics to s
 
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
-#### Unplugged activities
+### Unplugged activities
 
 Unplugged activities are carried out away from the computer and aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. As an example teachers may use the cooking recipes as a way to illustrate the importance of correct sequencing in a code context. However, the danger is that being introduced to computing concepts outside of an authentic context where they can be put into practice leads to inert knowledge.
 
@@ -247,7 +247,7 @@ unplugged is not enough?
 -->
 
 
-#### Pair Programming
+### Pair Programming
 
 Pair programming is one aspect of social learning but there are others associated with being part of a wider community of learners. A benefit of pair programming is that it can develop student's experience of the different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
 
@@ -257,13 +257,13 @@ Modelling and breaking down a process that is often difficult to understand is h
 
 <!-- Develop this more or drop -->
 
-#### PRIMM
+### PRIMM
 
 PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK computing teachers. PRIMM helps learners adopt coding practices and computational concepts through providing them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code. PRIMM's starting point is students reading and predicting code results. It aligns with the NCCE principle of _Lead with Concepts _. Identifying the target computing concepts in code examples allows teachers to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams. For a more detailed summary of the PRIMM approach see this quick read pedagogy article. http://tiny.cc/primmqr
 
 PRIMM is a modification of the Use Modify Create framework which was developed to represent the learning process of learners engaging with extensive computing projects like game design, designing simulations and robotics projects. I write in more detail about the Use Modify Create framework in another chapter in this collection.
 
-#### Semantic Waves and Leading with Concepts
+### Semantic Waves and Leading with Concepts
 Two concepts in the NCCE's principles are _Lead with Concepts_ and _Unplug, Unpack and Repack_. These principles are commonly explored using the theory of semantic waves [@macnaught_jointly_2013].
 http://tiny.cc/semantic-waves
 
@@ -273,7 +273,7 @@ This image needs to be reconstructed as it is taken from the web.
 
 The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete. In some ways the concept can be seen as simplification of Kolb's experiential learning cycle. Instead of cycling through four dimensions - learners oscillate between the two.
 
-PERHAPS DIAL DOWN OR MOVE THE FOLLOWING TWO PARAGRAPHS - TO SECTION BELOW. 
+PERHAPS DIAL DOWN OR MOVE THE FOLLOWING TWO PARAGRAPHS - TO SECTION BELOW.
 
 Exploring semantic wave profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start.
 
@@ -322,7 +322,7 @@ Also links to other chapter
 -->
 
 
-###Activity - Applying UDL in the Classroom
+### Activity - Applying UDL in the Classroom
 
 Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
 
