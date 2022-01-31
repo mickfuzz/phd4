@@ -129,14 +129,15 @@ Diagrams or examples showing semantic wave profiles usually start with the proce
 <!-- Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating. -->
 
 
-### Activity - Recognising the Concrete and Abstract in your Teaching
+### Activity - Recognising and Exploring the Concrete and Abstract in your Teaching
 
 To help your learners to embed the knowledge of your lessons, it is helpful to identify what parts of your sessions address more abstract conceptions of computing knowledge and those that are more concrete. To do this ask you can yourself the following questions about your sessions.
 
 - What are the core skills and concepts I want to communicate in my session? How many of them are more abstract and how many are more concrete? Do I have a good balance?  
 - How do learners first meet core concepts? How are they re-enforced? Is it through an abstract definition, supported by a more concrete explained example, or via hands on work that they are engaged in?
+- What kind of semantic profile do your lessons follow? Are you alternating between concrete and abstract poles in a way that helps deepen the understandings of students?
 
-Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
+Try starting lessons with hands-on activities to help the engagement of students and to align with UDL principles.
 
 <!-- The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially. -->
 
@@ -272,10 +273,10 @@ s. -->
 
 **Unplugged activities:** Unplugged activities are carried out away from the computer and aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. As an example teachers may use the cooking recipes as a way to illustrate the importance of correct sequencing in a code context. However, the danger is that being introduced to computing concepts outside of an authentic context where they can be put into practice leads to inert knowledge. Unplugged activities are also often embodied activities. Embodied ways of learning involve moving beyond a computational view of cognition to recognise the importance of physical experience and emotions in the learning process. "Disability studies scholars have been vital architects of frameworks for understanding the integrative relationship between body, mind, and self."@settoducato_pedagogy_2017
 
-
+<!--
 **Leading with Concepts and Unplug, Unpack and Repack:** Two concepts in the NCCE's principles are _Lead with Concepts_ and _Unplug, Unpack and Repack_. These principles are commonly explored using the theory of semantic waves.
 
-The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete.
+The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete. -->
 
 <!-- A bit more on this from Lee and Vincent
 unplugged is not enough?
@@ -311,39 +312,30 @@ https://d1wqtxts1xzle7.cloudfront.net/39338896/2015_FyfeMcNeilBorjas_LI-with-cov
 Also links to other chapter
 -->
 
-### Activity - Applying UDL in the Classroom
-
-Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
-
-- What choices do students have to apply the target knowledge or skills? Can activities and learning be related to student's interests?  
-- Are learners able to connect to real-life application of the concepts and skills you are introducing? How motivating do they find that link?
-- How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
 
 <!-- Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.    -->
 
 **The Use of Concept Maps and Learning Frameworks:** In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter looks at an activity to include inclusive approaches into your classroom using  Universal Design for Learning (UDL).
 
-
-
-### Expansive Framing
+<!-- ### Expansive Framing
 <!-- Develop this in relation to the above
 Perhaps drop this.
 -->
-Researchers Lee and Vincent [-@lee_expansively-framed_2019] were concerned that CT practices are not easily transferable to other areas. They applied an approach of expansive framing to develop students Computational Thinking. Expansive Framing is about students meeting similar abstract concepts in different contexts (or frames). This makes the abstract more concrete by experiencing lots of examples in different situations.
+<!-- Researchers Lee and Vincent [-@lee_expansively-framed_2019] were concerned that CT practices are not easily transferable to other areas. They applied an approach of expansive framing to develop students Computational Thinking. Expansive Framing is about students meeting similar abstract concepts in different contexts (or frames). This makes the abstract more concrete by experiencing lots of examples in different situations. -->
 <!-- More hand-holding for the reader to connect this section to the previous section -->
-Thus to increase the effectiveness of Unplugged activities the researchers also introduced an additional context. For their study they used loom based weaving. Students analysed weave patterns, created a graphical representation of the pattern on grid paper, and then used this to codify the pattern and represent it on a computer screen using Scratch.
+<!-- Thus to increase the effectiveness of Unplugged activities the researchers also introduced an additional context. For their study they used loom based weaving. Students analysed weave patterns, created a graphical representation of the pattern on grid paper, and then used this to codify the pattern and represent it on a computer screen using Scratch.
 
-Lee and Vincent's research provides a practical approach to help overcome some of the difficulties of transferring knowledge between contexts. See http://tiny.cc/expansive-framing
+Lee and Vincent's research provides a practical approach to help overcome some of the difficulties of transferring knowledge between contexts. See http://tiny.cc/expansive-framing -->
 
-**Observing and Assessing Hands-On Practices:** There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning.  
+**Observing and Assessing Hands-On Practices:** There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents. A summary of that document follows:
 
-**Structured observations:** Before lessons, teachers create a framework of the behaviour or use of concepts you want to observe and observe them as you interact with students, via recordings or their created work.   
+- _Structured observations:_ Before lessons, teachers create a framework of the behaviour or use of concepts you want to observe and observe them as you interact with students, via recordings or their created work.   
 
-**Unstructured observations:** Teachers record or reflect on some of the more unexpected turns that happen during the lesson, often after the event from memory or recordings.  
+- _Unstructured observations:_ Teachers record or reflect on some of the more unexpected turns that happen during the lesson, often after the event from memory or recordings.  
 
-**Verbal protocols:** Teachers assess the learning and understandings of students by asking them to talk aloud the way they are solving problems and undertaking tasks.
+- _Verbal protocols:_ Teachers assess the learning and understandings of students by asking them to talk aloud the way they are solving problems and undertaking tasks.
 
-The NCCE have created this quick read on observation - http://tiny.cc/observingstudents.
+Such observation is time consuming, as such teachers may need support to undertake detailed observation while you teach.
 
 <!-- There is repetition with conclusion here -->
 <!--
@@ -351,11 +343,6 @@ Outline the types of observation from
  -->
 <!-- Link to Bevan / Learning Dimensions -->
 
-One way to align a computing learning with UDL principles involves teachers set learners meaningful projects, giving students access to suitable tools, inspiration and to sustain their motivation. Assessment would then follow the activities that students undertook using a mixture of the observation techniques listed above. Such observation is time consuming, as such teachers may need support to undertake detailed observation while you teach.
-
-<!-- Dom says...
-student often choose the level that is appropriate for them.
-FIND SOURCE FOR THIS -->
 <!-- UDL is similar in many ways to project based approaches and in another chapter we look at tactics to resolve some of the practical difficulties of adopting these techniques in schools. -->
 
 <!-- ![udl](./Pictures/udl1.png)
@@ -374,6 +361,15 @@ Much of what this chapter has looked at stems from a core concept of education t
 - What do you feel are the most valuable potentially transferable skills your students meet in your sessions?
 - How realistic is it learners transfer some of the skills and knowledge they have picked up in your teaching sessions to another subject area or to another area of their life? -->
 
+### Activity - Applying UDL in the Classroom
+
+Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience.
+
+- What choices do students have to apply the target knowledge or skills? Can activities and learning be related to student's interests?  
+- Are learners able to connect to real-life application of the concepts and skills you are introducing? How motivating do they find that link?
+- How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
+
+One way to align a computing learning with UDL principles involves teachers set learners meaningful projects, giving students access to suitable tools, inspiration and to sustain their motivation. Assessment would then follow the activities that students undertook using a mixture of the observation techniques listed above.
 
 ## Conclusion
 
