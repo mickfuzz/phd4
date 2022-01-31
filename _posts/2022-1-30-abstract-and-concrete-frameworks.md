@@ -11,9 +11,29 @@ title: Abstract and Concrete Approaches to Computing
 
 ## Introduction
 
-In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and creative apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches as an inclusive pedagogy. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education. This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters.
+In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and creative apps. Computing as a subject can draw on this diverse engagement. Since the launch of a new computing curriculum, many computing teachers have used Computing at Schools and social media platforms to share their creative approaches to covering subject knowledge and building fluency in programming. This chapter highlights the value of hands-on teaching approaches as an inclusive pedagogy. It does this by describing on-going tensions in the world of educational between abstract and concrete approaches, looking at definitions and the role of Computational Thinking in an accessible way, and examining inclusive approaches to computing education.
 
-<!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will localledok at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
+<!-- This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters. -->
+
+<!-- Increase this section with a case study
+link to game making - hello world magasine - maker spaces -
+examples on walls of classrooms -->
+
+
+<!-- Embracing the challenge of making computing projects engaging and is something that many individuals and organisations have engaged with. University and industry partner programs have created a wide range of computing materials and computing environments designed to aid novice programmers. Teachers themselves have been a tremendous source in the sharing of knowledge, materials and approaches to make the subject matter engaging in diverse ways. -->
+
+
+One aspect of inclusion is to engage the interests of learners.  In general terms student engagement refers to the level of interest, involvement and participation of learners. Educators motivate learners and computing engaging using diverse tactics and materials. A quick search the web for creative computing or tech for kids yields countless activities, tools and materials designed to engage the home and hobby interests of young people. Physical examples include fashion and textiles based computing, robotics, colourful lighting displays and programming lego constructions. Working with home interests and using visual, tangible and touchable materials is a way of increasing the participation and inclusion of learners. They look and feel like fun and exciting objects to engage with. Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view.
+
+This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
+
+<!--
+CL
+Can you give a specific example or include a photograph? One you have taken yourself would be best to avoid permissions issues.
+Makey Makey ? Not obvious
+-->
+
+<!-- Recent years have brought a new diversity of software tools and engaging materials  of computing projects. While these tools are perhaps the most visible signs of progress in this field, effective pedagogies to support the coding and computing process have also received attention. In the second half of the chapter we will look at some of the learning supports available to educators who want, help their learners jump right into coding, sustain interest and reflect on the progress they have made. -->
 
 <!-- ### Context of Teaching Computing in the UK -->
 <!-- The promotion of Computational Thinking has been a key factor in the presentation of the UK's current computing curriculum. Computational Thinking started to gain wider attention when the academic and computer scientist Jeanette Wing began to promote it as a concept and approach that could be useful beyond the field of computing. Wing's perspective is that "everyone... can benefit from thinking like a computer scientist" -@wing_computational_2008. Computational Thinking is the ability to express and solve problems in the same kind of way a computer would.
@@ -32,20 +52,17 @@ I will use the lens of projects to examine creativity in computing.   -->
 
 ## Inclusion and Inclusive Pedagogies
 
-The term inclusion is used in many ways in the area of education but is seen generally as ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’ [@booth2002index]. More recent educational research in this area has widened from having a chief focus on SEN and disability issues to including barriers of culture and other exclusionary elements of school discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools can be an issue especially for girls and some ethnic minorities @the_royal_society_after_2017. As such bringing the out of school interests and experiences of pupils into the classroom is vital. To be inclusive schools and teachers must identify barriers to progression and work to help student overcome them.
+The term inclusion is used in many ways in the area of education in this chapter we focus on the inclusion as a way of ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’  [@booth2002index, p. 3]. This is because issues of inclusion no longer address solely children with special educational needs and disabilities (SEND) but also include barriers of culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities @the_royal_society_after_2017. To be inclusive schools and teachers must identify both traditional SEND issues and wider cultural barriers to participation in computing classrooms and help student overcome them.
 
-<!--
-Make the above paragraph less wordy
-But an in more diverse content - and examples
-Check if this is included in other areas of the book.
- -->
+<!-- The next section deals with inclusive
+Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
+ pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
 
-<!-- The next section deals with inclusive pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
+Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report that they lack the knowledge to effectively teach children with SEND issues.  Inclusion strategies are sometimes presented in a way that highlights the technical elements of accessibility and assistive learning technologies, for example text in different sizes, the presentation of materials in accessible ways online and in the classroom. A commonly held view that teachers should create a normal lesson plan for most learners and then separate differentiated activities for learners needing special support could easily be time-consuming, and overwhelming. Instead, to explore inclusive pedagogies, the researchers ask how do teachers design learning experiences to benefit the participation and achievement of all student, not only those with SEND. This is inline with recent understandings of neurodiversity. One instruction method is unlikely to work for all learners.
 
-One emerging principle of inclusive pedagogy is to move away from a view that most students learn well and that others need particular support through adapted approaches. If you include wider understandings of neurodiversity and cultural and language diversity to identify students who need support, then planning alternative activities or learning pathways for these learners could quickly become so time-consuming and complex that it would be unsustainable. Instead, we should design learning experiences so that all learners can choose their own learning tasks (and thus levels of challenge), are supported to reflect via self-assessment and can bring their own experience and cultural understandings into their work. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
+Inclusive pedagogies take a different approach to differentiation which places more power in the hands of learners to choose the path that is most appropriate for them. All students are given a greater choice of materials and activities from the start suiting the varied needs of all students. This has the benefit of removing stigmatisation of some student having to undertake  work that is aimed at _low-achieving_ students. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
 
 <!-- Make the above paragraph clearer - perhaps find citation -->
-
 <!-- (Good citation or example needed?)
 - first part of inclusion is here
 However, many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. One key approach is that of introducing concepts by starting with examples that are physical and familiar and then drawing out the more abstract ideas that can be applied in other areas.
@@ -55,55 +72,39 @@ However, many of the principles of the UDL framework will be  ones that experien
 <!-- Concrete fading here?  -->
 
 
-### Universal Design for Learning
+### Universal Design for Learning (UDL)
 
-Universal Design for Learning (UDL) is a set of principles which are align with our earlier exploration of inclusive practices. UDL encourages teachers to create diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. According to the USA Center on Universal Design for Learning, "UDL provides a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone—not a single, one-size-fits-all solution, but rather flexible approaches that can be customized and adjusted for individual needs."
+UDL is a set of design principles aimed at teachers to help them design learning experiences that incorporate diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The UDL framework  provides guidelines for three key areas of representation, expression and engagement. You can use the following summary as a checklist to help you to plan inclusive teaching activities. For a more comprehensive outline you can access free online resources here https://udlguidelines.cast.org/.
 
-UDL provides guidelines for three key areas of representation, expression and engagement. Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
+**Multiple means of engagement:** Are the  
 
-These strategies are sometimes presented in a way that highlights the technical elements of accessibility and assistive learning technologies, for example text in different sizes, the presentation of materials in accessible ways online and in the classroom. However, beyond representation, approaches for engagement and expression lend themselves to more radical learning techniques.
+**Multiple means of representation:** Are the  
 
-<!--
-In terms of choice of student activity teachers will be familiar with the practice of differentiation. UDL practice is similar but places more power in the hands of learners to choose the path that is most appropriate for them. -->
-
-UDL places great value on the personal relevance and value of learning experiences. In exploring the tension between abstract concepts and concrete activities, UDL prioritises engagement, encouraging the teacher to start by setting concrete class goals that are relevant to the learners. Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. One aspect of inclusion is to engage the interests of learners. In the next section we briefly examine some of the techniques educators are using to make computing engaging to a diverse set of learners.
+**Multiple means of expression /action:** Are learners given   
 
 
-###On Making Computing Engaging
+<!-- Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies. -->
 
-<!-- Increase this section with a case study
-link to game making - hello world magasine - maker spaces -
-examples on walls of classrooms -->
+UDL places great value on the personal relevance and value of learning experiences. A way to encourage engagement UDL suggests setting choices of concrete learning goals that are relevant to the learners.
+<!-- Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. -->
 
-In general terms student engagement refers to the level of interest, involvement and participation of learners. We certainly notice when it is absent as bored learners are hard to motivate. Embracing the challenge of making computing projects engaging and is something that many individuals and organisations have engaged with. University and industry partner programs have created a wide range of computing materials and computing environments designed to aid novice programmers. Teachers themselves have been a tremendous source in the sharing of knowledge, materials and approaches to make the subject matter engaging in diverse ways.
+<!-- ### Case Study - Exploring Universal Design for Learning in Context -->
 
-A quick search the web for creative computing or tech for kids yields countless activities, tools and materials designed to engage the home and hobby interests of young people. Physical examples include fashion and textiles based computing, robotics, colourful lighting displays and programming lego constructions. Working with home interests and using visual, tangible and touchable materials is a way of increasing the participation and inclusion of learners. They look and feel like fun and exciting objects to engage with.
+Researchers Cook and colleagues @cook_using_2016 explored the alignment of UDL with another framework CRA. The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge for the learner to aid their perception and comprehension.
+CRA simplifies Bruner's three stage model of how to support learners to develop concepts @fyfe_concreteness_2014. First start with a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways. When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to our shared understanding of Computational Thinking.
 
-<!--
-CL
-Can you give a specific example or include a photograph? One you have taken yourself would be best to avoid permissions issues.
-Makey Makey ? Not obvious
--->
-
-Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
-
-<!-- Break out box on creative computing examples?
-- Scratch
-- Game Making
-- Physical computing
--->
-
-<!-- SIGNPOSTING (but not too much)?
-To help address this chapter will cover some design and project based approaches to help.  Before doing that we will look at some foundational terms that you will meet and explore this subject from the perspective of   -->
+<!-- in Fyfe's 2015 review  -->
 
 ## Computational Thinking, the Abstract and Concrete
 
 ### Concrete and Abstract learning approaches
-When reading about different approaches to teaching computing you are likely to meet the terms concrete and abstract. In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract. There is another everyday usage which hints that abstract knowledge is harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete. In traditional conceptions of education abstract knowledge is often of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge. This concept exists in Piaget's influential model of ages and stages. Specifically in the  progression to more abstract thinking in the transition from the concrete to formal stages.  
+ In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract. There is another everyday usage which hints that abstract knowledge is harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete. In traditional conceptions of education abstract knowledge is often of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge. This concept exists in Piaget's influential model of ages and stages. Specifically in## Case Study - Exploring Universal Design for Learning in Context
+ the  progression to more abstract thinking in the transition from the concrete to formal stages.  
 
 There are drawbacks of adopting teaching in either solely abstract or concrete ways. For example, learners may not make a connection between abstract material and real-life situations. They can then only recall rather than apply the knowledge. A term for this is _inert knowledge_. In computing, you may be able to give a definition of what a function is in a coding language but not be able to write one. There are also downsides to learning only in a concrete way. If you learned coding by teaching yourself or just picking it up from other people then you may be able to complete tasks but not be able to explain what you have done to others, or may really struggle to recognise similar patterns in other computing contexts. This kind of knowledge is sometimes called implicit, tacit or embodied skills and knowledge. Unlike explicit knowledge, it is tricky for to explain or communicate this knowledge in a written or even spoken format. The learner or teacher just "know how to do it".
 
-Ideas around abstract and concrete knowledge have been key in shaping how we teach coding today in schools. A key critical voice challenging the idea that abstract approaches were superior was Seymour Papert. Papert's work on creative computing at MIT created a legacy that includes the development of the Scratch programming tool and the use of physical computing in education. Papert and Turkle [-@papert_epistemological_1990] thought it was vital that we value and recognise concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that approaches like abstract planning and formal language can be off putting to certain learners and especially girls. They argue that the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom-up (concrete) coders take this approach.
+Ideas around abstract and concrete knowledge have been key in shaping how we teach coding today in schools. A key critical voice challenging the idea that abstract approaches were superior was Seymour Papert. Papert's work on creative computing at MIT created a legacy that includes the development of the Scratch programming tool and the use of physical computing in education. Papert and Turkle [-@papert_epistemological_1990] thought it was vital that we value and recognise concrete approaches to computing and coding## Case Study - Exploring Universal Design for Learning in Context
+. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that approaches like abstract planning and formal language can be off putting to certain learners and especially girls. They argue that the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom-up (concrete) coders take this approach.
 
 <!-- MORE ON BRICOLAGE AT THIS POINT? -->
 To clarify this Papert and Turkle give the example of a young coder Lisa, who is aware of a more formal way to approach the kinds of programming tasks she is undertaking, but maintains that way doesn't work for her. As she continues her journey as a coder this frequent message that she is doing things the wrong way demotivates her enthusiasm around coding. Abstract coding concepts are tools for thinking. But they are only useful to the learner if they match with her experiences. Forcing the learner to adopt an abstract approach in this example is counter productive as it undermines her experience and progress. The authors outline that the danger of leading with the abstract is to devalue this bottom up approach to coding. This way of coding has also been called a craft approach. It is an way of doing things that has been shown to have a lot of value in many professions.
@@ -211,15 +212,25 @@ There is a tension between the skills required of Real Life coding and the time 
 
 ## Tactics for teaching Computing in the Classroom
 
-<!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
-AN EXAMPLE ?-->
 <!-- In another chapter I examine wider project based approaches which are more challenging to integrate into a classroom environment but which provide particular benefits to the learner. -->
 <!-- First of all we look at the impact of GCSE exams and the computing curriculum on how teachers approach the subject. -->
 <!-- ### The context of GCSE exams papers -->
 
+CAN I INCLUDE ALL TIPS HERE - OR MAKE A DISTINCTION -
+PROBABLY CUT DOWN SOME OF THE FOLLOWING INTRO - NOT NEEDED?
+OR
+This section starts with tips to teach more abstract concepts - but then widens focus to more inclusive practices which question traditional concepts of learner achievement and success.
+OR JUST LIST THEM AND ANALYSE IN CONCLUSION. 
+
+
 This section gives tips and examples for a typical classroom computing environment by drawing on resources provided by National Centre for Computing Eduation (NCCE) on the website Teach Computing. Classroom practice is strongly influenced by curriculum content and more specifically the format of exam questions. The removal of course work from exams due to the widespread sharing of worked examples on-line created a real challenge for those setting exams. Exam boards had to rethink how to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However exam questions on coding are by nature fragmented and decontextualised compared to project coding experience. The questions in the format of small coding challenges must be fragmented to be able test a particular part of the curriculum. Thus, there is limited potential for students to show design or authentic debugging skills.
 
-Teachers need to understand how best to prepare students for questions which require good degree of understanding concepts and memorisation of coding detail. Teaching to the test implies passive learning on the part of the pupils. Spending a lot of time solving decontextualised exam questions has potentially negative impacts on student engagement and such disengagement is a serious barrier to inclusion [@kanevsky_produce_2003]. A focus on written exam approaches can reduce time to explore more authentic projects where students follow their own interests and develop design and troubleshooting practices. However given the reality of schools' focus on exam results, teacher must balance the development of students' hands-on coding practices with the ability to recognise and respond to more abstract written questions. In an ideal situation practical work can deepen and broaden more abstract knowledge. The NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising the diverse opportunities and requirements of the subject, they have provided a set of 12 principles for teaching computing (http://tiny.cc/12-principles-computing) aimed at mainstream teachers. What these approaches have in common is an attempt to address the tricky issue of understanding complex and abstract concepts. In this section we look at some of principles and other tactics for classroom teaching that aim to enable teachers to explore more abstract computing concepts and integrate them with concrete examples and practices.
+Teachers need to understand how best to prepare students for questions which require good degree of understanding concepts and memorisation of coding detail. Teaching to the test implies passive learning on the part of the pupils. Spending a lot of time solving decontextualised exam questions has potentially negative impacts on student engagement and such disengagement is a serious barrier to inclusion [@kanevsky_produce_2003]. A focus on written exam approaches can reduce time to explore more authentic projects where students follow their own interests and develop design and troubleshooting practices. However given the reality of schools' focus on exam results, teacher must balance the development of students' hands-on coding practices with the ability to recognise and respond to more abstract written questions. In an ideal situation practical work can deepen and broaden more abstract knowledge. The NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising the diverse opportunities and requirements of the subject, they have provided a set of 12 principles for teaching computing (http://tiny.cc/12-principles-computing) aimed at mainstream teachers.
+
+
+What these approaches have in common is an attempt to address the tricky issue of understanding complex and abstract concepts. In this section we look at some of principles and other tactics for classroom teaching that aim to enable teachers to explore more abstract computing concepts and integrate them with concrete examples and practices.
+
+
 
 <!-- https://www-tandfonline-com.mmu.idm.oclc.org/doi/full/10.1080/14703297.2018.1564882?casa_token=5gdmHSGX8BwAAAAA%3ANAyJjDXRrGZPqN2yJzqp_0zw_-U1hpZejAu3j8zBM1Gw6AvybVyroc7m_LUDzuaz-h6w6w6tzII -->
 
@@ -253,7 +264,19 @@ Pair programming is one aspect of social learning but there are others associate
 
 The approach can be particularly useful as it divides up the tasks so that one student does the hands-on concrete coding while the other is free to think about more the abstract design of the overall programme.
 
-Modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of a learner as being strong in a particular element of coding. This process building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches.
+Modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of a learner as being strong in a particular element of coding. This process building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approache
+## Inclusive, Concrete and  Student-led Approaches vs Classroom Approaches
+
+Classroom tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
+
+Inclusive / student-led approaches can take many forms, but they are are different from the tactics above in the following ways.
+
+This has the following benefits for inclusion.
+Laser in - more details on inclusion.
+Sign post to other chapters - but state essence of value on the concrete.
+
+Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading".
+s.
 
 <!-- Develop this more or drop -->
 
@@ -293,12 +316,10 @@ WHY?
 
 <!-- Challenge by Papert - valuing the concrete - how much is this in opposition - and what is the practical resolution by teachers needing to teach to the test? -->
 
-## Inclusive, Concrete and  Student-led Approaches
 
-Inclusive / student-led approaches.
+## Inclusive, Concrete and  Student-led Approaches vs Classroom Approaches
 
-Could move expansive framing here.
-The tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
+Classroom tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
 
 Inclusive / student-led approaches can take many forms, but they are are different from the tactics above in the following ways.
 
@@ -308,9 +329,8 @@ Sign post to other chapters - but state essence of value on the concrete.
 
 Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading".
 
-Particularly explore the Bruner example in Fyfe's 2015 review - 3 stage  (1) an enactive form,
-which is a physical, concrete model of the concept; (2) an iconic form, which is a graphic or
-pictorial model; and finally (3) a symbolic form, which is an abstract model of the concept
+
+
 <!--
 https://d1wqtxts1xzle7.cloudfront.net/39338896/2015_FyfeMcNeilBorjas_LI-with-cover-page-v2.pdf?Expires=1643555872&Signature=QPEOo0kHWTG-e0-4Nvbd-U2md4Ny2FQGMWbCBb6IjcgoqbZik9X-vGD-pmka0uchC4RFdsoIJ3gHNdnHVELA-3ZvNyUuAqxEZWDfIWqIB~-BGaUnBswW6A09syhXmEfSW8JGsupCmivZYskY9m4f5H2VuXVh7RE6GCbYcxyvDfxCFnVDPpxEOlwOV04v0G9-EIierQiiYOEFTVfaq1hZk4pu2YIDI9xbWwSeOMhZ0Wm5PtW1lDCyONXRMeFLltVzNWS7V0-WYHIaZSVNtlwzTQx~pmw~MDzz8qaP3zbjxFtiZKyIOMCV5QJDgNffs~ytmBY8Xbz5uzACPpjsLiOV-w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
  -->
@@ -333,17 +353,6 @@ Many of the principles of the UDL framework will be  ones that experienced teach
 Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.   
 
 Thus if we return to the semantic wave profiles, in a UDL approach teachers would start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. While examples of semantic wave often start with the abstract, an approach familiar with traditional lesson plans, according to the research it is the continued movement between concrete and abstract poles that is important. Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
-
-
-
-### CRA - Concrete, Representational and Abstract - and Concreteness Fading
-
-CRA follows three stages.
-
-Researchers Cook and colleagues @cook_using_2016 explored an alignment of UDL with another framework CRA. The researchers break down the
-
-The term Concreteness Fading is also widely used in Mathematics research and practice.
-
 
 
 ### Expansive Framing
@@ -402,7 +411,8 @@ Much of what this chapter has looked at stems from a core concept of education t
 
 ## Conclusion
 
-The purpose of this chapter has been to celebrate the educational value of hands-on, concrete activity. In many ways as computing educators we are lucky to have such rich and engaging resources at our disposal which invite tinkering and learning through trial and error experimentation. However this can bring a tension as teachers feel the pressure to bring students attention back to underlying abstract concepts that are assessed through test material. The NCCE has played a pivotal role in supporting teachers to recognise and navigate abstract and hands-on teaching techniques; that work has been discussed in this chapter.
+The purpose of this chapter has been to celebrate the educational value of hands-on, concrete activity. In many ways as computing educators we are lucky to have such rich and engaging resources at our disposal which invite tinkering and learning through trial and error experimentation. However this can bring a tension as teachers feel the pressure to bring students attention back to underlying abstract concepts that are assessed through test material. The NCCE has played a pivotal role in supporting teachers to recognise and navigate abstract and hands-on teaching techniques; that work has be<!-- SOME MORE THE CHARACTERISTICS OF THE QUESTIONS AND THE KNOWLEDGE needed
+AN EXAMPLE ?--en discussed in this chapter.
 
 This key tension between the concrete and the abstract has been around since the dawn of computing education. Papert, the inventor of Logo invited us to use creative computing revalue the concrete. More recently, Resnick and Rusk [-@resnick_coding_2020] from the Scratch research community caution against some of the dangers of adopting exclusively formal approaches to coding including: too much memorisation of computational terms rather than application, devaluing hands-on coding compared to abstract concepts, not enough time devoted to complete projects and, finally, learners not given enough choice in their coding projects. The researchers share the concern is that the potential for computing to build creative and design thinking competencies is being undermined.  http://tiny.cc/codingcrossroads.
 
