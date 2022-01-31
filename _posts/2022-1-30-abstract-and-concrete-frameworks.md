@@ -52,7 +52,7 @@ I will use the lens of projects to examine creativity in computing.   -->
 
 ## Inclusion and Inclusive Pedagogies
 
-The term inclusion is used in many ways in the area of education in this chapter we focus on the inclusion as a way of ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’  [@booth2002index, p. 3]. This is because issues of inclusion no longer address solely children with special educational needs and disabilities (SEND) but also include barriers of culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities @the_royal_society_after_2017. To be inclusive schools and teachers must identify both traditional SEND issues and wider cultural barriers to participation in computing classrooms and help student overcome them.
+The term inclusion is used in many ways in the area of education in this chapter we focus on the inclusion as a way of ‘increasing the participation of students in, and reducing their exclusion from, the cultures, curricula and communities of local schools’  [@booth2002index, p. 3]. This is because issues of inclusion no longer address solely children with special educational needs and disabilities (SEND) but also include barriers of culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017]. To be inclusive schools and teachers must identify both traditional SEND issues and wider cultural barriers to participation in computing classrooms and help student overcome them.
 
 <!-- The next section deals with inclusive
 Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
@@ -98,13 +98,12 @@ CRA simplifies Bruner's three stage model of how to support learners to develop 
 ## Computational Thinking, the Abstract and Concrete
 
 ### Concrete and Abstract learning approaches
- In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract. There is another everyday usage which hints that abstract knowledge is harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete. In traditional conceptions of education abstract knowledge is often of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge. This concept exists in Piaget's influential model of ages and stages. Specifically in## Case Study - Exploring Universal Design for Learning in Context
- the  progression to more abstract thinking in the transition from the concrete to formal stages.  
+
+In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract. There is another everyday usage which hints that abstract knowledge is harder to get to grips with than more concrete understandings. We might ask for a concrete example if we don't understand a more abstract definition. It is the use of something in context that makes something concrete. In traditional conceptions of education abstract knowledge is often of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge. This concept exists in Piaget's influential model of ages and stages. Specifically in the  progression to more abstract thinking in the transition from the concrete to formal stages.  
 
 There are drawbacks of adopting teaching in either solely abstract or concrete ways. For example, learners may not make a connection between abstract material and real-life situations. They can then only recall rather than apply the knowledge. A term for this is _inert knowledge_. In computing, you may be able to give a definition of what a function is in a coding language but not be able to write one. There are also downsides to learning only in a concrete way. If you learned coding by teaching yourself or just picking it up from other people then you may be able to complete tasks but not be able to explain what you have done to others, or may really struggle to recognise similar patterns in other computing contexts. This kind of knowledge is sometimes called implicit, tacit or embodied skills and knowledge. Unlike explicit knowledge, it is tricky for to explain or communicate this knowledge in a written or even spoken format. The learner or teacher just "know how to do it".
 
-Ideas around abstract and concrete knowledge have been key in shaping how we teach coding today in schools. A key critical voice challenging the idea that abstract approaches were superior was Seymour Papert. Papert's work on creative computing at MIT created a legacy that includes the development of the Scratch programming tool and the use of physical computing in education. Papert and Turkle [-@papert_epistemological_1990] thought it was vital that we value and recognise concrete approaches to computing and coding## Case Study - Exploring Universal Design for Learning in Context
-. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that approaches like abstract planning and formal language can be off putting to certain learners and especially girls. They argue that the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom-up (concrete) coders take this approach.
+Ideas around abstract and concrete knowledge have been key in shaping how we teach coding today in schools. A key critical voice challenging the idea that abstract approaches were superior was Seymour Papert. Papert's work on creative computing at MIT created a legacy that includes the development of the Scratch programming tool and the use of physical computing in education. Papert and Turkle [-@papert_epistemological_1990] thought it was vital that we value and recognise concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that approaches like abstract planning and formal language can be off putting to certain learners and especially girls. They argue that the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom-up (concrete) coders take this approach.
 
 <!-- MORE ON BRICOLAGE AT THIS POINT? -->
 To clarify this Papert and Turkle give the example of a young coder Lisa, who is aware of a more formal way to approach the kinds of programming tasks she is undertaking, but maintains that way doesn't work for her. As she continues her journey as a coder this frequent message that she is doing things the wrong way demotivates her enthusiasm around coding. Abstract coding concepts are tools for thinking. But they are only useful to the learner if they match with her experiences. Forcing the learner to adopt an abstract approach in this example is counter productive as it undermines her experience and progress. The authors outline that the danger of leading with the abstract is to devalue this bottom up approach to coding. This way of coding has also been called a craft approach. It is an way of doing things that has been shown to have a lot of value in many professions.
@@ -113,7 +112,21 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 
 <!-- However, while this valuing of concrete approaches is important, it is potentially unhelpful to express concrete and abstract as two paths that never meet. Abstract concepts are useful after all. The danger is when the abstract concepts chosen by educators or included in the curriculum are don't seem relevant to learners, leading to their disengagement.   -->
 
-Many theories of learning explore the value of both concrete and abstract phases. The theory of experiential learning from Kolb is often expressed as a cycle of concrete experience, reflection, abstract conceptualisation, experimentation and then repeats. When applied to coding and computing, a student's knowledge of a coding concept may deepen a little bit each time you apply it in practice.
+Many theories of learning explore the value of both concrete and abstract phases. When applied to coding and computing, a student's knowledge of a coding concept may deepen a little bit each time you apply it in practice. A straight forward way to do this is via a tool called semantic profiles.
+
+**Semantic Profiles:** Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic wave profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience.
+http://tiny.cc/semantic-waves
+
+<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
+
+![](./Pictures/swaves.jpg)
+![semantic waves]({{ site.baseurl }}/Pictures/swaves.jpg)
+This image needs to be reconstructed as it is taken from the web.
+
+Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start. According to the research it is the continued movement between concrete and abstract poles that is important.
+
+
+<!-- Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating. -->
 
 
 ### Activity - Recognising the Concrete and Abstract in your Teaching
@@ -123,6 +136,7 @@ To help your learners to embed the knowledge of your lessons, it is helpful to i
 - What are the core skills and concepts I want to communicate in my session? How many of them are more abstract and how many are more concrete? Do I have a good balance?  
 - How do learners first meet core concepts? How are they re-enforced? Is it through an abstract definition, supported by a more concrete explained example, or via hands on work that they are engaged in?
 
+Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
 
 <!-- The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially. -->
 
@@ -172,9 +186,7 @@ Computational Thinking model by Resnick and Brennan - Diagram created by Mick Ch
 
 This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review adopted this applied framework over other more abstract CT frameworks where showing CT could be applied outside of a coding context, as in a computing teaching environment the wider factors are useful to teachers. It allows them to observe and plan for computational practices and more general problem solving.
 
-<!--
-This section needs work / clarification.
-  -->
+RELATE THIS DEFINITION OF CT TO INCLUSION
 
 <!--
  Certainly from an academic perspective we need to ask what is special about Computational Thinking. -->
@@ -213,24 +225,15 @@ There is a tension between the skills required of Real Life coding and the time 
 ## Tactics for teaching Computing in the Classroom
 
 <!-- In another chapter I examine wider project based approaches which are more challenging to integrate into a classroom environment but which provide particular benefits to the learner. -->
-<!-- First of all we look at the impact of GCSE exams and the computing curriculum on how teachers approach the subject. -->
-<!-- ### The context of GCSE exams papers -->
+<!-- This section starts with tips to teach more abstract concepts - but then widens focus to more inclusive practices which question traditional concepts of learner achievement and success. -->
 
-CAN I INCLUDE ALL TIPS HERE - OR MAKE A DISTINCTION -
-PROBABLY CUT DOWN SOME OF THE FOLLOWING INTRO - NOT NEEDED?
-OR
-This section starts with tips to teach more abstract concepts - but then widens focus to more inclusive practices which question traditional concepts of learner achievement and success.
-OR JUST LIST THEM AND ANALYSE IN CONCLUSION.
+Classroom practice is strongly influenced by curriculum content and more specifically the format of exam questions. The removal of course work from GCSE exams due to the widespread sharing of worked examples on-line created a real challenge for those setting exams. Exam boards had to rethink how to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However exam questions on coding are by nature fragmented and decontextualised compared to project coding experience. The questions in the format of small coding challenges must be fragmented to be able test a particular part of the curriculum. Thus, there is limited potential for students to show design or authentic debugging skills.
 
+<!-- Teachers need to understand how best to prepare students for questions which require good degree of understanding concepts and memorisation of coding detail. Teaching to the test implies passive learning on the part of the pupils.  -->
 
-This section gives tips and examples for a typical classroom computing environment by drawing on resources provided by National Centre for Computing Eduation (NCCE) on the website Teach Computing. Classroom practice is strongly influenced by curriculum content and more specifically the format of exam questions. The removal of course work from exams due to the widespread sharing of worked examples on-line created a real challenge for those setting exams. Exam boards had to rethink how to test the practical programming experience and ability of students in a written exam setting. At GCSE level most exam questions test the more applied definitions of Computational Thinking, particularly the process of writing, analysing and revising algorithms in the form of written code examples. Students are required to demonstrate and explain fundamental code building blocks and approaches from first principles. However exam questions on coding are by nature fragmented and decontextualised compared to project coding experience. The questions in the format of small coding challenges must be fragmented to be able test a particular part of the curriculum. Thus, there is limited potential for students to show design or authentic debugging skills.
+Spending a lot of time solving decontextualised exam questions has potentially negative impacts on student engagement and such disengagement is a serious barrier to inclusion [@kanevsky_produce_2003]. A focus on written exam approaches can reduce time to explore more authentic projects where students follow their own interests and develop design and troubleshooting practices. In an ideal situation practical work can deepen and broaden more abstract knowledge. However given the reality of schools' focus on exam results, teacher must balance the development of students' hands-on coding practices with the ability to recognise and respond to more abstract written questions.  
 
-Teachers need to understand how best to prepare students for questions which require good degree of understanding concepts and memorisation of coding detail. Teaching to the test implies passive learning on the part of the pupils. Spending a lot of time solving decontextualised exam questions has potentially negative impacts on student engagement and such disengagement is a serious barrier to inclusion [@kanevsky_produce_2003]. A focus on written exam approaches can reduce time to explore more authentic projects where students follow their own interests and develop design and troubleshooting practices. However given the reality of schools' focus on exam results, teacher must balance the development of students' hands-on coding practices with the ability to recognise and respond to more abstract written questions. In an ideal situation practical work can deepen and broaden more abstract knowledge. The NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising the diverse opportunities and requirements of the subject, they have provided a set of 12 principles for teaching computing (http://tiny.cc/12-principles-computing) aimed at mainstream teachers.
-
-
-What these approaches have in common is an attempt to address the tricky issue of understanding complex and abstract concepts. In this section we look at some of principles and other tactics for classroom teaching that aim to enable teachers to explore more abstract computing concepts and integrate them with concrete examples and practices.
-
-
+The NCCE has produced a series of resources based on research on computing practices to help teachers. As a way of summarising the diverse opportunities and requirements of the subject, they have provided a set of 12 principles for teaching computing (http://tiny.cc/12-principles-computing) aimed at mainstream teachers. In this section we look at some of principles and other tactics for classroom teaching that aim to enable teachers to explore more abstract computing concepts and integrate them with concrete examples and practices.
 
 <!-- https://www-tandfonline-com.mmu.idm.oclc.org/doi/full/10.1080/14703297.2018.1564882?casa_token=5gdmHSGX8BwAAAAA%3ANAyJjDXRrGZPqN2yJzqp_0zw_-U1hpZejAu3j8zBM1Gw6AvybVyroc7m_LUDzuaz-h6w6w6tzII -->
 
@@ -246,80 +249,50 @@ To do this we can look to relevant research to provide us with some tactics to s
 
 <!-- Diverse and contradictory? projects, concrete but also concepts first? -->
 
-### Unplugged activities
 
-Unplugged activities are carried out away from the computer and aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. As an example teachers may use the cooking recipes as a way to illustrate the importance of correct sequencing in a code context. However, the danger is that being introduced to computing concepts outside of an authentic context where they can be put into practice leads to inert knowledge.
 
-Unplugged activities are also often embodied activities. Embodied ways of learning involve moving beyond a computational view of cognition to recognise the importance of physical experience and emotions in the learning process.
-"Disability studies scholars have been vital architects of frameworks for understanding the integrative relationship between body, mind, and self."@settoducato_pedagogy_2017
+**Pair Programming:** Pair programming is one aspect of social learning but there are others associated with being part of a wider community of learners. A benefit of pair programming is that it can develop student's experience of the different roles involved in coding. The approach can be particularly useful as it divides up the tasks so that one student does the hands-on concrete coding while the other is free to think about more the abstract design of the overall programme. Modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of a learner as being strong in a particular element of coding. This process building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read document from NCCE - http://tiny.cc/pairprogramming
+
+<!-- ## Inclusive, Concrete and  Student-led Approaches vs Classroom Approaches
+
+Classroom tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
+
+Inclusive / student-led approaches can take many forms, but they are are different from the tactics above in the following ways.
+
+This has the following benefits for inclusion.
+Laser in - more details on inclusion.
+Sign post to other chapters - but state essence of value on the concrete.
+
+Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading".
+s. -->
+
+<!-- Develop this more or drop -->
+
+**PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK computing teachers. PRIMM helps learners adopt coding practices and computational concepts through providing them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code. PRIMM's starting point is students reading and predicting code results. It aligns with the NCCE principle of _Lead with Concepts _. Identifying the target computing concepts in code examples allows teachers to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams. PRIMM is a modification of the Use Modify Create framework which was developed to represent the learning process of learners engaging with extensive computing projects like game design, designing simulations and robotics projects. I write in more detail about the Use Modify Create framework in another chapter in this collection. For a more detailed summary of the PRIMM approach see this quick read pedagogy article. http://tiny.cc/primmqr
+
+**Unplugged activities:** Unplugged activities are carried out away from the computer and aim to illustrate computing concepts. They are explored in more detail in another chapter in this collection. Unplugged activities often use very familiar non-school examples and draw on learners' understanding of their own concrete experiences. As an example teachers may use the cooking recipes as a way to illustrate the importance of correct sequencing in a code context. However, the danger is that being introduced to computing concepts outside of an authentic context where they can be put into practice leads to inert knowledge. Unplugged activities are also often embodied activities. Embodied ways of learning involve moving beyond a computational view of cognition to recognise the importance of physical experience and emotions in the learning process. "Disability studies scholars have been vital architects of frameworks for understanding the integrative relationship between body, mind, and self."@settoducato_pedagogy_2017
+
+
+**Leading with Concepts and Unplug, Unpack and Repack:** Two concepts in the NCCE's principles are _Lead with Concepts_ and _Unplug, Unpack and Repack_. These principles are commonly explored using the theory of semantic waves.
+
+The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete.
 
 <!-- A bit more on this from Lee and Vincent
 unplugged is not enough?
 -->
-
-
-### Pair Programming
-
-Pair programming is one aspect of social learning but there are others associated with being part of a wider community of learners. A benefit of pair programming is that it can develop student's experience of the different roles involved in coding. A summary of these roles and tips on how teachers can help learners to adopt them in present in this Quick Read from NCCE - http://tiny.cc/pairprogramming
-
-The approach can be particularly useful as it divides up the tasks so that one student does the hands-on concrete coding while the other is free to think about more the abstract design of the overall programme.
-
-Modelling and breaking down a process that is often difficult to understand is helpful not only to aid a deeper understanding of the process but also to build the identity of a learner as being strong in a particular element of coding. This process building an identity of coding with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approache
-## Inclusive, Concrete and  Student-led Approaches vs Classroom Approaches
-
-Classroom tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
-
-Inclusive / student-led approaches can take many forms, but they are are different from the tactics above in the following ways.
-
-This has the following benefits for inclusion.
-Laser in - more details on inclusion.
-Sign post to other chapters - but state essence of value on the concrete.
-
-Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading".
-s.
-
-<!-- Develop this more or drop -->
-
-### PRIMM
-
-PRIMM stands for Predict, Run, Investigate, Modify and Make. This learning model has been gained popularity in resources aimed at UK computing teachers. PRIMM helps learners adopt coding practices and computational concepts through providing them with a concrete code example that they run after predicting what it does. They then dig deeper and make changes to the existing code. PRIMM's starting point is students reading and predicting code results. It aligns with the NCCE principle of _Lead with Concepts _. Identifying the target computing concepts in code examples allows teachers to highlight key computational thinking process or algorithmic details. Thus PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class learners to unpack and repack the same set of concepts in a restricted time scale. It is a process well aligned with some of the more formal problems solving, paper-based questions of the GCSE exams. For a more detailed summary of the PRIMM approach see this quick read pedagogy article. http://tiny.cc/primmqr
-
-PRIMM is a modification of the Use Modify Create framework which was developed to represent the learning process of learners engaging with extensive computing projects like game design, designing simulations and robotics projects. I write in more detail about the Use Modify Create framework in another chapter in this collection.
-
-### Semantic Waves and Leading with Concepts
-
-Two concepts in the NCCE's principles are _Lead with Concepts_ and _Unplug, Unpack and Repack_. These principles are commonly explored using the theory of semantic waves [@macnaught_jointly_2013].
-http://tiny.cc/semantic-waves
-
-![](./Pictures/swaves.jpg)
-![semantic waves]({{ site.baseurl }}/Pictures/swaves.jpg)
-This image needs to be reconstructed as it is taken from the web.
-
-The Semantic Wave approach is usually presented as leading with concepts, unpacking them, then giving concrete examples or applying the concepts in a practical example, and then returning to the re-examine the concept from a more abstract perspective once again - hopefully with a richer understanding informed by the concrete experience. The terms semantic density and gravity can be substituted for abstract and concrete. In some ways the concept can be seen as simplification of Kolb's experiential learning cycle. Instead of cycling through four dimensions - learners oscillate between the two.
-
-PERHAPS DIAL DOWN OR MOVE THE FOLLOWING TWO PARAGRAPHS - TO SECTION BELOW.
-
-Exploring semantic wave profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start.
-
-Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating.
-
-Thus if we return to the semantic wave profiles, in a UDL approach teachers would start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. While examples of semantic wave often start with the abstract, an approach familiar with traditional lesson plans, according to the research it is the continued movement between concrete and abstract poles that is important. Thus why not trial start with hands-on activities to help the engagement of students and to align with UDL principles? Can you to try this out in your own lessons? Is there an upcoming situation where you could try different approaches and evaluate how students respond?
-
 <!-- Can you be more explicit about these?
 Or add ‘rather than ….’
-
 D
-
 -->
 
-This section has looked at tactics to address the realities that teachers face preparing students for Computing exams. The next section focuses on inclusive approaches which involves providing students with multiple ways of engaging with the computing subject materials and practice of coding. While it is in line with research on inclusive practices it may be challenging to implement in many classrooms.
+<!-- This section has looked at tactics to address the realities that teachers face preparing students for Computing exams. The next section focuses on inclusive approaches which involves providing students with multiple ways of engaging with the computing subject materials and practice of coding. While it is in line with research on inclusive practices it may be challenging to implement in many classrooms.
 WHY?
-<< MORE SIGNPOSTING
+<< MORE SIGNPOSTING -->
 
 <!-- Challenge by Papert - valuing the concrete - how much is this in opposition - and what is the practical resolution by teachers needing to teach to the test? -->
 
 
-## Inclusive, Concrete and  Student-led Approaches vs Classroom Approaches
+<!-- ## Inclusive, Concrete and  Student-led Approaches vs Classroom Approaches
 
 Classroom tactics above are useful - but they assume a set status quo or lessons following a certain format. We should advocate for something better. We have a duty given increased needs for inclusion.
 
@@ -329,20 +302,14 @@ This has the following benefits for inclusion.
 Laser in - more details on inclusion.
 Sign post to other chapters - but state essence of value on the concrete.
 
-Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading".
-
-
+Perhaps contrast - Semantic Wave profiles - and the lead with concepts advice with the idea of "concreteness fading". -->
 
 <!--
 https://d1wqtxts1xzle7.cloudfront.net/39338896/2015_FyfeMcNeilBorjas_LI-with-cover-page-v2.pdf?Expires=1643555872&Signature=QPEOo0kHWTG-e0-4Nvbd-U2md4Ny2FQGMWbCBb6IjcgoqbZik9X-vGD-pmka0uchC4RFdsoIJ3gHNdnHVELA-3ZvNyUuAqxEZWDfIWqIB~-BGaUnBswW6A09syhXmEfSW8JGsupCmivZYskY9m4f5H2VuXVh7RE6GCbYcxyvDfxCFnVDPpxEOlwOV04v0G9-EIierQiiYOEFTVfaq1hZk4pu2YIDI9xbWwSeOMhZ0Wm5PtW1lDCyONXRMeFLltVzNWS7V0-WYHIaZSVNtlwzTQx~pmw~MDzz8qaP3zbjxFtiZKyIOMCV5QJDgNffs~ytmBY8Xbz5uzACPpjsLiOV-w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
  -->
-
-
-<!--
-A section here would help the headings - but is it too complicated?
+<!-- A section here would help the headings - but is it too complicated?
 Also links to other chapter
 -->
-
 
 ### Activity - Applying UDL in the Classroom
 
@@ -353,6 +320,8 @@ Many of the principles of the UDL framework will be  ones that experienced teach
 - How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
 
 <!-- Many of the key guidelines of UDL focus on the importance of learner choice of activity, goal setting and on-going self-assessment. UDL is in essence a learner-led approach. In computing it suits learners meeting concepts through hands-on activities and then drawing out the more abstract ideas that can be applied to other areas. In contrast semantic waves theory is a way to help teachers plan lessons which focuses on teacher led activity of explaining abstract concepts and linking them to more familiar ones via examples and teacher-led activities.    -->
+
+**The Use of Concept Maps and Learning Frameworks:** In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter looks at an activity to include inclusive approaches into your classroom using  Universal Design for Learning (UDL).
 
 
 
@@ -366,15 +335,15 @@ Thus to increase the effectiveness of Unplugged activities the researchers also 
 
 Lee and Vincent's research provides a practical approach to help overcome some of the difficulties of transferring knowledge between contexts. See http://tiny.cc/expansive-framing
 
-### Observing and Assessing Hands-On Practices
-
-There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning. The NCCE have created this quick read on observation - http://tiny.cc/observingstudents . A summary is below.
+**Observing and Assessing Hands-On Practices:** There is an ongoing tension for teachers between giving learners the freedom to pursue their own concrete coding goals, and the need to bring their attention back to the learning goals and target knowledge of the curriculum. In the current educational climate teachers have to be able to show how classroom work applies to the curriculum and exam goals. This tension can be helped using a technique promoted by NCCE (at teachcomputing.org) - that of using observational techniques in the classroom to assess user progress. Techniques to help teacher observation and assessment of what student are completing are vital if we are be able to keep a track of some of the ways they solve problems as they apply knowledge in the concrete stage of their learning.  
 
 **Structured observations:** Before lessons, teachers create a framework of the behaviour or use of concepts you want to observe and observe them as you interact with students, via recordings or their created work.   
 
 **Unstructured observations:** Teachers record or reflect on some of the more unexpected turns that happen during the lesson, often after the event from memory or recordings.  
 
 **Verbal protocols:** Teachers assess the learning and understandings of students by asking them to talk aloud the way they are solving problems and undertaking tasks.
+
+The NCCE have created this quick read on observation - http://tiny.cc/observingstudents.
 
 <!-- There is repetition with conclusion here -->
 <!--
@@ -383,10 +352,6 @@ Outline the types of observation from
 <!-- Link to Bevan / Learning Dimensions -->
 
 One way to align a computing learning with UDL principles involves teachers set learners meaningful projects, giving students access to suitable tools, inspiration and to sustain their motivation. Assessment would then follow the activities that students undertook using a mixture of the observation techniques listed above. Such observation is time consuming, as such teachers may need support to undertake detailed observation while you teach.
-
-**The Use of Concept Map and Learning Frameworks**
-
-In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter looks at an activity to include inclusive approaches into your classroom using  Universal Design for Learning (UDL).
 
 <!-- Dom says...
 student often choose the level that is appropriate for them.
