@@ -122,7 +122,7 @@ Many theories of learning explore the value of both concrete and abstract phases
 ![semantic waves]({{ site.baseurl }}/Pictures/swaves.jpg)
 This image needs to be reconstructed as it is taken from the web.
 
-Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start. According to the research it is the continued movement between concrete and abstract poles that is important.
+Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start. The NCCE  it is the continued movement between concrete and abstract poles that is important.
 
 EXPLORE CONCRETENESS FADING - AND FLATLINING HERE - MAKE A LINK TO LATER?
 
