@@ -10,7 +10,14 @@ categories: misc
 title: 3M Framework for Game Making
 ---
 
-In this chapter I outline a case study and model for game making to do x, y an z
+In this chapter I outline a case study and model for game making designed with student engagement and autonomy as end goals. I identify and describe design tensions emerging from the exploratory stages of my PhD study on families making games together.
+
+I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making, use of game making as a creative medium and the affordances and limits of game making particular tools.
+
+Summary of key points I want to make;
+- navigation
+- motivation
+- design patterns and authenticity.
 
 
 <!-- ## Notes
@@ -35,14 +42,7 @@ Findings main parts
 - drama process as a reflective frame
  -->
 
-I identify tensions emerging from the exploratory stages of my PhD study on families making games together.
 
-I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making, use of game making as a creative medium and the affordances and limits of particular toolsets.
-
-Summary of key points I want to make;
-- navigation
-- motivation
-- design patterns and authenticity.
 
 
 ### Context Background (Change from just UK but still include UK)
@@ -105,7 +105,7 @@ My own research into strategies to do this is explored in the second half of thi
 
 In my own research I have taken a design-based approach. Design based research  It was originally developed as a response to the importance of context in educational research as part of the social turn of social science research [@brown_design_1992] .
 
-DPR is a varied discipline which can take a multitude of forms. The core elements include:  iteration, involvement of participants in the evolution of designs, a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners in that it which develops theory that is rooted in contextual practice. 
+DPR is a varied discipline which can take a multitude of forms. The core elements include:  iteration, involvement of participants in the evolution of designs, a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners in that it which develops theory that is rooted in contextual practice.
 
 I have been guided by the approach of design experiments and mutual appropriation as outlined by Cole and colleagues in the 5th Dimension project. The processes both X and Y,  
 
