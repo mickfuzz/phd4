@@ -105,29 +105,39 @@ My own research into strategies to do this is explored in the second half of thi
 
 In my own research I have taken a design-based approach. Design based research  It was originally developed as a response to the importance of context in educational research as part of the social turn of social science research [@brown_design_1992] .
 
-DPR is a varied discipline which can take a multitude of forms. The core elements include:  iteration, involvement of participants in the evolution of designs, a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners in that it which develops theory that is rooted in contextual practice.
+DPR is a varied discipline which can take a multitude of forms. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners in that it which develops theory that is rooted in contextual practice.
 
 I have been guided by the approach of design experiments and mutual appropriation as outlined by Cole and colleagues in the 5th Dimension project. The processes both X and Y,  
+The advantages of this
 
-To address my research interests of engagement, autonomy in the design of the experiment I started from a very open starting position.
+To address my research interests of engagement, autonomy in the design of the experiment I started from a very open starting position. The main intervention was to lead a workshop with participants challenged to make a simple computer game. Beyond this little was decided in in advance with the goal being to respond to the context of the learning environment.
 
-My current game making designs have emerged from several iterations of experimentation.  My two audiences were Home Educating families and a primary school with a working relationship with my University. For some iterations of the design I also worked with undergraduate students who acted to support the game-making workshops. Through informal responses, direct feedback, and structured evaluation all participants acted as research partners as I acted on their reactions to design the next iteration of the game making program.
+My current game making designs have emerged from several iterations of experimentation. The main experimental team consisted of Home Educating families. The designs that emerged where then also trialled in a local primary classroom of Year 6 (10-11 year old). For some iterations of the design I also worked with undergraduate students who acted to support the game-making workshops. Through informal responses, direct feedback, and structured evaluation all participants acted as research partners as I acted on their reactions to design the next iteration of the game making program.
 
 
-The following areas of interest are expressed as tensions?
 
-### Tensions around Game Making (Tools) - in general -
+
+## Tensions around Game Making (Tools) - in general -
 
 ALTER - DRAW ON LITERATURE IF POSSIBLE  AND revise down - OR MOVE LATER
 THERE IS A LOT OF THIS ON THE CONSTRUCTIVIST LITERATURE ON TOOLS / SOFTWARE PRINCIPLES. WIDE WALLS ETC
 WHAT IS SPECIAL ABOUT GAME MAKING  - PERHAPS MORE RESEARCH ON LIT?
 PERHAPS PRECURSOR OF LATER OBSERVATIONS?
 
-This section explores tensions that have emerged for myself and learners when  using game making tools.
+In the following paragraphs , emerging significant design elements are expressed as tensions on terms of the tools used. These tensions are explored in relation to existing research and my own experience. I outline quick proposed resolutions that set the parameters of the 3M design are detailed.
 
-It identifies and draws on existing literature that explores these issues.
+Awareness of these tensions may be useful to educators when making decisions about appropriate tools in your game making, especially to avoid overscoping a project by being too ambitious.
 
- It is included as some of the issues that emerged may be useful to you when making decisions about appropriate tools to use in your game making.
+In the final section of the chapter contains a more detailed exploration of the learning design that emerged, it explores other areas beyond tool use, learning
+
+**Tensions around Authenticity of Tool**
+
+How authentic and professional a tool do you wish to use?
+
+For example,
+Phaser is a framework used by professional web game creators. Using this authentic tool was potentially motivating. The online forums are supportive. However, it may not be realistic for young learners to be part of a community of professional game makers.  
+
+What authenticity means in a context of young people making games is also debatable. Given their motivation, another definition of authenticity is how realistic it is for them to make games for peers and share them.  
 
 **Asset Creation vs Hands-on Coding**
 
@@ -142,9 +152,7 @@ Thus there is a tension in tool choice balancing the directness of code editing 
 
 <!-- This is a tension that has been recognised by researchers working on a more stripped down version of Scratch. Scratch  -->
 
-**Tensions related to Community and Choice**
-<!--
-Phaser is a framework used by professional web game creators. Using this authentic tool was potentially motivating. The online forums are supportive. However, it may not be realistic for young learners to be part of a community of professional game makers.  -->
+**Tensions related to Community and Tool Use**
 
 Research on the value of scratch community to seed ideas, provide inspiration and direct peer support is convincing. The ability for students to choose from different kinds of games that appeal to them, to remix projects and to reuse community assets increases the personal connection students feel to their creations.  
 
@@ -154,22 +162,18 @@ How much choice over you give students about type of game they create and how th
 
 If students are working on similar projects. This may also have the effect of increasing possibilities for peer support and to reducing teacher stress in a classroom setting. It is very tricky to support students to introduce unknown or untested features.
 
-## Research Findings
 
 
-### On tools and affordances
-
-THIS IS (WAS) STUCK IN THE MIDDLE
-IS THIS PART OF THE LIT REVIEW OR FINDINGS?
-MAKE IT PART OF FINDINGS
-
-My research involves choice of tools based on the audience. After research two tools emerged as significant based on the opportunities provided. These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
-
-This report focuses on the second of the tools chosen.
-Describing the affordances of two tools is useful to help explore potential to resolve
 
 
-#### MakeCode Arcade - specialised block based programming
+## Describing two Game Making Tools
+
+After research two tools emerged as significant based on the opportunities provided. These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
+
+While, this report of the 3M model focuses on the second of the tools chosen. describing the affordances of two tools is useful to help explore some of the tensions outlined above.
+
+
+### MakeCode Arcade - specialised block based programming
 
 **MakeCode Arcade** is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.  
 
