@@ -52,6 +52,9 @@ On a global scale there have been many developments in software and programs res
 - Value of Scratch for game making and associated research.
 -  middle ground of commercial games which have a creative element to it.
 
+NOTE UPDATEs
+This research is aligned with value of making games for education - software is constantly changing, pedagogies should be update too.
+
 
 ### Motivations of Game Making as Education
 
