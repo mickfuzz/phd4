@@ -103,7 +103,6 @@ The drawbacks of this approach is the potential complexity of using real web tec
 
 
 **MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
-
 ![MakeCode](./Pictures/makecode.png)
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 _Screenshot of MakeCode Arcade with code and game side by side_

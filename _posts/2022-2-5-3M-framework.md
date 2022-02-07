@@ -42,9 +42,6 @@ Findings main parts
 - drama process as a reflective frame
  -->
 
-
-
-
 ### Context Background (Change from just UK but still include UK)
 
 Research on the educational value of computer games can be divided into studies on playing games and those on making games. In the UK the influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed @livingstone_next_2011. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
@@ -55,11 +52,6 @@ On a global scale there have been many developments in software and programs res
 - Value of Scratch for game making and associated research.
 -  middle ground of commercial games which have a creative element to it.
 
-## Literature Synthesis / Local research vignette (on tensions)?
-WHICH ONE TO GO FOR?
-COULD MOVE THE MOTIVATIONS TO CONTEXT AND FOCUS ON THE TENSIONS - BUT MAKE THIS MORE OF A VIGNETTE
-MORE PERSONAL - MORE ACCESSIBLE -
-BUT LINKING OUT TO TENSIONS IDENTIFIED IN THE LITERATURE
 
 ### Motivations of Game Making as Education
 
@@ -100,6 +92,18 @@ REVISE THIS - SOCIO CULTURAL IDEAS
 Family Game Experience as an inclusive Fund of Knowledge - Knowledge of a games and gaming culture is sometimes drawn upon by teachers as a concrete example of a coding concepts. More research is needed on ways to draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way.
 
 My own research into strategies to do this is explored in the second half of this chapter.
+
+
+## Literature on Creative Computing in UK Context
+
+The benefits of game making aligns with those of wider creative computing projects.
+
+There has been extensive recent research on computing education and techniques to support teachers often new to the subject.
+
+Some of the research looks at abstract and concrete approaches, advising teachers to use both and to monitor their instruction using concepts of semantic profiles  
+MORE ON THIS
+
+OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
 
 ## Research Vignette - Evolution of Design
 
@@ -196,9 +200,9 @@ The drawbacks of this approach is the potential complexity of using real web tec
 
 ### Research Findings resulting from implementing the 3M Game Making Model
 
-The _3M game making model_ - (made up of Missions, Maps and Motivation) - is the result of several years of exploratory, collaborative game making with home educating families and a local Primary School. Learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners engagement and learning.
+In the _3M game making model_ - (made up of Missions, Maps and Motivations) -learners start by playing and remixing a broken and incomplete game of a particular genre, for example platform, maze or shoot-em-up. They are given and/or choose certain missions to improve their game or to make it in a certain way. They use maps to help navigate their next choices and what they have learned. Finally, facilitators use particular methods in line with project-based and inclusive approaches to motivate and support learners' engagement and learning. This section describes the model in brief and describes several key findings from its implementation.
 
-This section describes the model in brief and describes several key findings from its implementation in particular reference to some of the tensions of Game Making outlined above.
+<!-- in particular reference to some of the tensions of Game Making outlined above. -->
 
 <!-- You would think from the glowing potential of game making from the reviews of the literature that this would be a normal part of computing education, and well supported in terms of how to teach it.
 
@@ -225,7 +229,9 @@ Many open world games have a concept of a main mission and then optional side mi
 
 CITATION
 REALLY REVISE THIS SECTION DOWN
-PERHAPS LINK TO LEVELS OF ABSTRACTION? Main mission, design missions, support in implementation via code
+PERHAPS LINK TO LEVELS OF ABSTRACTION?
+
+Main mission, design missions, support in implementation via code
 
 In 3M, learners start by playing a familiar but incomplete template of a 2D game. For my study we used a platform game. The overall mission is to fix the broken game and then to make it your own. Learners then fix, adapted and extend the game template in an increasingly sophisticated way.
 
