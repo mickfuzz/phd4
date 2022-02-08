@@ -10,7 +10,7 @@ categories: misc
 title: 3M Framework for Game Making
 ---
 
-In this chapter I outline a case study and model for game making designed with student engagement and autonomy as end goals. I identify and describe design tensions emerging from the exploratory stages of my PhD study on families making games together.
+In this chapter I outline a case study and model for game making designed with to align with project-based and inclusive pedagogies. I identify and describe design tensions emerging from the exploratory stages of my PhD study on families making games together.
 
 I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making, use of game making as a creative medium and the affordances and limits of game making particular tools.
 
@@ -69,8 +69,17 @@ INSERT MORE REFERENCES?
 
 The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
 
+### Literature on Creative Computing in UK Context
 
-### Game Making and PBL and Inclusion
+The benefits of game making aligns with those of wider creative computing projects.
+
+There has been extensive recent research on computing education and techniques to support teachers often new to the subject.
+
+Some of the research looks at abstract and concrete approaches, advising teachers to use both and to monitor their instruction using concepts of semantic profiles  
+
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+
+### Game Making, Project Based Learning and Inclusion
 
 IS THIS NEEDED - WORK ON OTHER STUFF FIRST - FOCUS ON MOTIVATION INSTEAD AND EXPLORE PBL AND INCLUSION IN RELATION TO THAT?
 
@@ -95,17 +104,9 @@ Family Game Experience as an inclusive Fund of Knowledge - Knowledge of a games 
 
 My own research into strategies to do this is explored in the second half of this chapter.
 
+I propose, there is potential to draw on family experience in the classroom and that working with families to make games together is a fertile research base to jointly create learning activities with a wider focus.  
 
-## Literature on Creative Computing in UK Context
 
-The benefits of game making aligns with those of wider creative computing projects.
-
-There has been extensive recent research on computing education and techniques to support teachers often new to the subject.
-
-Some of the research looks at abstract and concrete approaches, advising teachers to use both and to monitor their instruction using concepts of semantic profiles  
-MORE ON THIS
-
-OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
 
 ## Research Vignette - Evolution of Design
 
