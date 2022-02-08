@@ -425,10 +425,15 @@ Most computing teachers will be familiar with some of the positive impacts of Un
 
 There has been a progression in hardware which has made physical computing more accessible @blikstein_gears_2013. The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners @roque_family_2016; @rusk_new_2008.
 
-Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
+Making the digital physical aligns with the inclusive practice of representing knowledge in multiple forms. The embodied concepts that learners engage with supplement code and other knowledge representations. Game making projects can provide opportunities for physical making.
+
+The process of level design suits the use of creative materials to scaffold and transfer planning from on screen to a more easily collaborative, physical format. In outreach work I have used textile sheets with cut out shapes in a multitude of colours to represent platforms, hazards and characters. Learners map out in small teams and share back to a larger group.
+
+I made some very simple arcade cabinets out of wood which housed second hand laptops. Connecting arcade buttons to the computer via a Makey Makey, arduino (leonardo) or custom break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. Some families did this at home in very low tech ways with cardboard materials.
+
+Creating a customised psyical object that allows the playing of   their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games.
 
 While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational.
-
 
 **Drama / Fictional Frameworks**
 
