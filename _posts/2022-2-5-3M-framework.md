@@ -108,11 +108,9 @@ Family Game Experience as an inclusive Fund of Knowledge - Knowledge of a games 
 
 My own research into strategies to do this is explored in the second half of this chapter.
 
-There are significant challenges to adopting project-based approaches in the UK schooling context that are likely to be share with other traditional schooling context. Specifically, lack of time for sustained an iterative project approaches, and teachers who lack experience with in delivery project-based approaches especially where student choice is involved and the complexities this brings to supporting learners in that context. 
+There are significant challenges to adopting project-based approaches in the UK schooling context that are likely to be share with other traditional schooling context. Specifically, lack of time for sustained an iterative project approaches, and teachers who lack experience with in delivery project-based approaches especially where student choice is involved and the complexities this brings to supporting learners in that context.
 
 I propose, there is potential to draw on family experience in the classroom and that working with families to make games together is a fertile research base to jointly create learning activities with a wider focus.  
-
-
 
 ## Research Vignette - Evolution of Design
 
@@ -425,9 +423,12 @@ Most computing teachers will be familiar with some of the positive impacts of Un
 
 **Physical Computing and Game Making**
 
-The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners. Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
+There has been a progression in hardware which has made physical computing more accessible @blikstein_gears_2013. The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners @roque_family_2016; @rusk_new_2008.
 
-While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational. For more information on the value of physical computing to increase inclusion you can read this article (RUSK?)
+Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials.
+
+While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational.
+
 
 **Drama / Fictional Frameworks**
 
