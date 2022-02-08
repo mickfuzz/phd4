@@ -71,13 +71,17 @@ The most prominent learning objective of making games in educational setting is 
 
 ### Literature on Creative Computing in UK Context
 
-The benefits of game making aligns with those of wider creative computing projects.
+The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
 
-There has been extensive recent research on computing education and techniques to support teachers often new to the subject.
-
-Some of the research looks at abstract and concrete approaches, advising teachers to use both and to monitor their instruction using concepts of semantic profiles  
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
 
 MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+BUT NOT TOO MUCH
+
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools.
+
+<!-- Some of the research looks at abstract and concrete approaches, advising teachers to use both and to monitor their instruction using concepts of semantic profiles   -->
+
 
 ### Game Making, Project Based Learning and Inclusion
 
@@ -103,6 +107,8 @@ REVISE THIS - SOCIO CULTURAL IDEAS
 Family Game Experience as an inclusive Fund of Knowledge - Knowledge of a games and gaming culture is sometimes drawn upon by teachers as a concrete example of a coding concepts. More research is needed on ways to draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way.
 
 My own research into strategies to do this is explored in the second half of this chapter.
+
+There are significant challenges to adopting project-based approaches in the UK schooling context that are likely to be share with other traditional schooling context. Specifically, lack of time for sustained an iterative project approaches, and teachers who lack experience with in delivery project-based approaches especially where student choice is involved and the complexities this brings to supporting learners in that context. 
 
 I propose, there is potential to draw on family experience in the classroom and that working with families to make games together is a fertile research base to jointly create learning activities with a wider focus.  
 
