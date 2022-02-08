@@ -467,6 +467,31 @@ In all the programs I ran only one parent and one student had experience of codi
 
 At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up. However I leave this to you as educators to resolve. And don't forget one last ingredients raw enthusiasm. -->
 
+
+## Summary / Synthesis of Findings, Limitations Areas for Further Study
+
+In this section I extract findings from the sections above and finding similarities for analysis.
+
+There is a diversity of behaviours and roles - see research by Barron and Roque - which parents take on to support the participation and learning of their child in creating collaborative digital projects.  
+Parents were able to use various forms of the framework above to do undertake these roles and strategies to greater or lesser efficacy in a game making context.
+
+For example the use of the names of the design patterns were used by some parents to bring the focus to their child. Parents were able to identify and remind children of their commitment to finish one pattern before progressing to the next. This kind of negotiation by parents was common in my recordings.
+
+
+**3M to build coding identities:** There is evidence that the process of building identities as game makers and coders was impacted by certain elements of the design ...
+
+(By what?
+Iterative play testing?
+Familiarity of the Game Design patterns - Key / door person ...s
+)
+
+There is some evidence of a separation of identities and roles into children enjoying and adopting the role of leading the level-design and graphical asset creation which would have a high impact during play testing to peers. Meanwhile parents would take on more structural work in applying new patterns via adding new sections of code. One this more methodical work had been done, young people would take back the reins. This is potentially a kind of scaffolding for young people to overcome limits in attention and confidence. In further research I would like to examine more closely transitions in these patterns to see what progression happens in young people and how parents and the learning design can support progression in increased learner autonomy in implementing new patterns.
+
+
+**More on Maps:** While the process of mapping progression on a physical map was one technique that was attempted in two iterations of the design, take up by participants was patchy which is likely to do with my patchy promotion of that.
+
+In many parts of the 3M design I take inspiration from the design of open world games to scaffold learner / user experiences. How can the process of using a map to orientate learner experience be improved? How could tension of making versus reflection on learning and self-documentation be eased? Making meta-cognition a fun part of the experience is sometimes explored via gamification techniques and has been used in this context in Game Star Mechanic. With this more open approach what is most suitable? A physical game making passport which can be kept close at hand and stamped with stamps representing progress? Could an online map, pictorial journal or reward system be integrated into the game making tool as it is in the dashboards of open world games? How can facilitators be guided to use these moments to encourage reflections and reconnection between concrete practices and underlying abstract concepts? These are all questions I would like to focus in on in further iterations or related research.  
+
 ## Recommendations
 
 While the findings above are more easily relevant to after-school settings and other extra-curricular activities.
