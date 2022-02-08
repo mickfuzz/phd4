@@ -429,7 +429,8 @@ Making the digital physical aligns with the inclusive practice of representing k
 
 The process of level design suits the use of creative materials to scaffold and transfer planning from on screen to a more easily collaborative, physical format. In outreach work I have used textile sheets with cut out shapes in a multitude of colours to represent platforms, hazards and characters. Learners map out in small teams and share back to a larger group.
 
-I made some very simple arcade cabinets out of wood which housed second hand laptops. Connecting arcade buttons to the computer via a Makey Makey, arduino (leonardo) or custom break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. Some families did this at home in very low tech ways with cardboard materials.
+I made some very simple arcade cabinets out of wood which housed second hand laptops. Connecting arcade buttons to the computer via a Makey Makey, arduino (leonardo) or custom break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. SoOptionally the outsides of cabinets also could be made from
+ cardboard materials.
 
 Creating a customised psyical object that allows the playing of   their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games.
 
