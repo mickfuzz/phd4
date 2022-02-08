@@ -52,8 +52,7 @@ On a global scale there have been many developments in software and programs res
 - Value of Scratch for game making and associated research.
 -  middle ground of commercial games which have a creative element to it.
 
-NOTE UPDATEs
-This research is aligned with value of making games for education - software is constantly changing, pedagogies should be update too.
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which still deserve additional research. New software tools to make games emerge regularly which offer new pedagogical possibilities. Game playing practices also continue to evolve. For example, casual games played by both adults and children continue to become increasingly available via smart phones and home consoles. The cultural impact of nostalgic retro games which are played by young people and families is also significant. The aesthetics of cuteness and nostalgia around retro games creates a potential for connection between younger and older players and a possible entry point for more casual game players in to game making cultures. The reduced complexity of retro themed games also reduces technical barriers for enthusiasts to create games either for the Indy Game market or for free distribution via games enthusiast websites like itch.io [@garda_nostalgia_2013].  
 
 
 ### Motivations of Game Making as Education
@@ -467,6 +466,16 @@ Finally, one of the most challenging but rewarding aspects of making games toget
 In all the programs I ran only one parent and one student had experience of coding. This process of starting up such a community from scratch is challenging. In the previous sections I have shared my tips to help build a small game making community. These include encouraging peer sharing with diversity of learner paths, narratives and activities to encourage group reflection, starting activities which build a team spirit.
 
 At times I felt these community building activities took away from coding and problem solving. A frustration, it felt as if we were just getting going and time was up. However I leave this to you as educators to resolve. And don't forget one last ingredients raw enthusiasm. -->
+
+## Recommendations
+
+While the findings above are more easily relevant to after-school settings and other extra-curricular activities.
+
+Learning happening outside of the classroom offers the possility for teachers to leverage ideas, practices and projects outcomes for use inside the classroom.
+
+Teachers should highlight ways for family members and linked youth services to get involved with programes like Coder Dojo and code club. Where possible links between these opportunities and the classroom should be increased.
+
+Teacher can create Peer programs to replicate the support provided by parents or volunteers using learners or other scaffolding.
 
 
 ## Conclusion
