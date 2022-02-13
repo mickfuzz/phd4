@@ -121,23 +121,22 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 
 Many theories of learning explore the value of both concrete and abstract phases. When applied to coding and computing, a student's knowledge of a coding concept may deepen a little bit each time you apply it in practice. A straight forward way to do this is via a tool called semantic profiles.
 
-**Semantic Profiles:** Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic wave profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on Semantic Profiles is available here - http://tiny.cc/semantic-waves
+**Semantic Profiles:** Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on Semantic Profiles is available here - http://tiny.cc/semantic-waves.
 
 <!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
 
-![](./Pictures/swaves.jpg)
-![semantic waves]({{ site.baseurl }}/Pictures/swaves.jpg)
-This image needs to be reconstructed as it is taken from the web.
+![](./Pictures/semantic_waves.png)
+![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+Semantic Waves.
 
-Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start. The NCCE it is the continued movement between concrete and abstract poles that is important.
+Research carried out by Curzon and colleagues [@curzon_using_2020]
+outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research is the basis of advice given by the NCCE to unpack, explore and then repack ideas during the course of a lesson.
 
-EXPLORE CONCRETENESS FADING - AND FLATLINING HERE - MAKE A LINK TO LATER?
+Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density in line with more traditional teaching approaches. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the a research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity. Thus concrete activities and easily explainable real world examples can increase student engagement and can allow more hands on time for different approaches to coding and creating.
 
-The idea of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of a research example carried out by Curzon and colleagues @curzon_using_2020, the process of starting with concepts may only involve giving an outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
-
-MORE justification? 
-
-<!-- Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating. -->
+<!--
+Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing.
+However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating. -->
 
 
 ### Activity - Recognising and Exploring the Concrete and Abstract in your Teaching
@@ -196,9 +195,7 @@ Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012]
 
 Computational Thinking model by Resnick and Brennan - Diagram created by Mick Chesterman
 
-This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review adopted this applied framework over other more abstract CT frameworks where showing CT could be applied outside of a coding context, as in a computing teaching environment the wider factors are useful to teachers. It allows them to observe and plan for computational practices and more general problem solving.
-
-RELATE THIS DEFINITION OF CT TO INCLUSION
+This wider and process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. A review of teaching Computational Thinking [@lye_review_2014] used this second definition as the basis for their review, which point to the widespread use of Brennan and Resnick's more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework over other more abstract CT frameworks. These applied frameworks suggest a broad approach to computing pedagogies which focuses on the detail of the actions of learners. This focus on a wide range of learning activities allows teachers to observe and plan for collaborative learning environments that encourage learner autonomy in line with inclusive pedagogies. 
 
 
 <!--
