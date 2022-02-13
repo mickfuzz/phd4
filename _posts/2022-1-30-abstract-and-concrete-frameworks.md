@@ -74,14 +74,13 @@ However, many of the principles of the UDL framework will be  ones that experien
 
 ### Universal Design for Learning (UDL)
 
-UDL is a set of design principles aimed at teachers to help them design learning experiences that incorporate diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The UDL framework  provides guidelines for three key areas of representation, expression and engagement. You can use the following summary as a checklist to help you to plan inclusive teaching activities. For a more comprehensive outline you can access free online resources here https://udlguidelines.cast.org/.
+UDL is a set of design principles aimed at teachers to help them design learning experiences that incorporate diverse ways to engage pupils, to represent the ideas being communicated and for students to express their own ideas. The UDL framework  provides guidelines for three key areas of representation, expression and engagement and action [@cast_about_nodate]. You can use the following summary as a checklist to help you to plan inclusive teaching activities. For a more comprehensive outline you can access free online resources here https://udlguidelines.cast.org/.
 
-**Multiple means of engagement:** Are the  
+**Multiple means of representation:** Are you presenting material and concepts in multiple formats? For example, spoken presentations, written documents, graphics, hands on activities, audio material. Are you clarifying new language and symbols in diverse ways? Are you providing important background knowledge and highlighting important patterns and relationships in the knowledge you explore?
 
-**Multiple means of representation:** Are the  
+**Multiple means of engagement:** Have you been able to increase student choice and the relevance of your material to spark learners excitement? Are you using a variety of ways to keep your learners focus on their goals, maintain self-belief and sustain their effort as individuals and in group work?
 
-**Multiple means of expression /action:** Are learners given   
-
+**Multiple means of expression /action:**  No particular action or way to express yourself will be best for all students. Are you able to offer a choice in how you students interact with materials and tools (particularly assistive technologies), allow students choice in the media they use for communication, and construction? How much are student able to set their own learning goals and monitor their own progress? 
 
 <!-- Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies. -->
 
