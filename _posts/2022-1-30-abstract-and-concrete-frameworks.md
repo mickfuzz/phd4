@@ -129,11 +129,13 @@ Many theories of learning explore the value of both concrete and abstract phases
 ![semantic waves]({{ site.baseurl }}/Pictures/swaves.jpg)
 This image needs to be reconstructed as it is taken from the web.
 
-Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start. The NCCE  it is the continued movement between concrete and abstract poles that is important.
+Diagrams or examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density which suggests this is optimal. However the underlying research does not dictate where on the wave teachers should start. The NCCE it is the continued movement between concrete and abstract poles that is important.
 
 EXPLORE CONCRETENESS FADING - AND FLATLINING HERE - MAKE A LINK TO LATER?
 
-DRAW ON THE WAITE CASE STUDY - WHEN STARTING - ONLY REALY MENTION THE CONCEPT.
+The idea of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of a research example carried out by Curzon and colleagues @curzon_using_2020, the process of starting with concepts may only involve giving an outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
+
+MORE justification? 
 
 <!-- Leading with concepts has the advantage of being specific about the target subject matter being taught, as this is process familiar to classroom practice and preparing for testing. However, there are advantages of starting with concrete experience and meeting abstract concepts in context. For example starting with activities can increase student engagement and can allow more hands on time for different approaches to coding and creating. -->
 
