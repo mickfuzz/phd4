@@ -161,13 +161,14 @@ However, there are advantages of starting with concrete experience and meeting a
 
 ### Activity - Recognising and Exploring the Concrete and Abstract in your Teaching
 
-To help your learners to embed the knowledge of your lessons, it is helpful to identify what parts of your sessions address more abstract conceptions of computing knowledge and those that are more concrete. To do this ask you can yourself the following questions about your sessions.
+
+There are drawbacks of adopting teaching in either solely abstract or concrete ways. For example, learners may not make a connection between abstract material and real-life situations. They can then only recall rather than apply the knowledge. A term for this is _inert knowledge_. For example, in computing, you may be able to give a definition of what a function is in a coding language but not be able to write one. There are also downsides to learning only in a concrete way. If you learned coding by teaching yourself or just picking it up from other people then you may be able to complete tasks but not be able to explain what you have done to others, or may really struggle to recognise similar patterns in other computing contexts. To help you balance your lessons, is helpful to identify what parts of your sessions address more abstract conceptions of computing knowledge and those that are more concrete. To do this ask you can yourself the following questions about your sessions.
 
 - What are the core skills and concepts I want to communicate in my session? How many of them are more abstract and how many are more concrete? Do I have a good balance?  
 - How do learners first meet core concepts? How are they re-enforced? Is it through an abstract definition, supported by a more concrete explained example, or via hands on work that they are engaged in?
-- What kind of semantic profile do your lessons follow? Are you alternating between concrete and abstract poles in a way that helps deepen the understandings of students? Are you able to avoid 'flatlining'?
+- What kind of semantic profile do your lessons follow? Are you able to avoid 'flatlining', where students explore only abstract or concrete language?
+- Are you alternating between concrete and abstract poles in a way that helps deepen the understandings of students as they link curriculum concepts to practical experience?
 
-There are drawbacks of adopting teaching in either solely abstract or concrete ways. For example, learners may not make a connection between abstract material and real-life situations. They can then only recall rather than apply the knowledge. A term for this is _inert knowledge_. For example, in computing, you may be able to give a definition of what a function is in a coding language but not be able to write one. There are also downsides to learning only in a concrete way. If you learned coding by teaching yourself or just picking it up from other people then you may be able to complete tasks but not be able to explain what you have done to others, or may really struggle to recognise similar patterns in other computing contexts. 
 
 <!-- The socio-cultural school holds that rather than being a separate thinking machine, the mind is dependent on the social and cultural webs of meaning that surrounds it. We think socially. -->
 
