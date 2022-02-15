@@ -14,6 +14,7 @@ Chapter Title  ideas.
 - The Stickiness of Concrete Computing
 - Inclusive Computing between the Concrete and the Abstract.
 - Celebrating the Concrete
+- Keeping it Real - helping learners navigate the concrete and abstract in computing education
 
 ## Introduction
 
@@ -123,12 +124,13 @@ When reading about different approaches to teaching computing the terms concrete
 <!-- in Fyfe's 2015 review  -->
 
 ## Computational Thinking, the Abstract and Concrete
+<!-- Remove this heading perhaps?  -->
 
 ### Concrete and Abstract learning approaches
 
 In an everyday sense concrete objects are ones you can get hold of and abstract objects exist only as concepts. A pound coin is concrete but the idea of profit is abstract. In everyday usage abstract knowledge may be harder to grasp with than more concrete understandings. For example, we might ask for a concrete example if we don't understand a more abstract definition. Here, it is the use of something in context that makes something concrete. In traditional conceptions of education abstract knowledge is often perceived to be of greater value. If you can understand a concept as it applies in different situations then this ability to transfer it and have a more global understanding is held as a higher form of knowledge. This concept is popular in education in many forms, for example, Piaget's influential model of developmental stages, specifically in the progression to more abstract thinking in the transition from the concrete (operational) to formal (abstract) stages [@burman_genetic_2021].
 
-Seymour Papert and Sherry Turke's work on creative computing at MIT created a legacy that includes the development of the Scratch programming tool and the use of physical computing in education. In their research they challenged what they saw as the dominant belief in computing education that abstract approaches were superior to more concrete ones. Papert and Turkle [-@papert_epistemological_1990] thought it was vital that we value and recognise concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that approaches like abstract planning and formal language can be off putting to certain learners and especially girls. They argue that the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as abstract and concrete - they use a top down and bottom up analogy. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom-up (concrete) coders take this approach.
+Not all educators agree with the supremacy of more abstract ideas of knowledge and are keen to celebrate the value of concrete exploration by learners. Seymour Papert and Sherry Turke's work on creative computing at MIT created a legacy that includes the development of the Scratch programming tool and the use of physical computing in education. Papert and Turkle [-@papert_epistemological_1990] thought it was vital that we value and recognise concrete approaches to computing and coding. While they do not discard the technical value of abstract approaches, they draw on feminist theory to make a convincing case that approaches like abstract planning and formal language can be off-putting to certain learners and especially girls. They argue that the process of finding solutions to coding issues for novice coders should be a matter of personal preference. As well as the terms abstract and concrete - they use the terms top-down and bottom-up approaches to learning. In a bottom up approach problems are tackled piece by piece, experimentally. Desmond Tutu once said that "there is only one way to eat an elephant: a bite at a time." Bottom-up (concrete) coders take this approach.
 
 <!-- MORE ON BRICOLAGE AT THIS POINT? -->
 To clarify this Papert and Turkle give the example of a young coder Lisa, who is aware of a more formal way to approach the kinds of programming tasks she is undertaking, but maintains that way doesn't work for her. As she continues her journey as a coder this frequent message that she is doing things the wrong way demotivates her enthusiasm around coding. Abstract coding concepts are tools for thinking. But they are only useful to the learner if they match with her experiences. Forcing the learner to adopt an abstract approach in this example is counter productive as it undermines her experience and progress. The authors outline that the danger of prioritising teaching and testing of abstract concepts is to devalue this bottom up approach to coding. This way of coding has also been called a craft approach. It is an way of doing things that has been shown to have a lot of value in many professions.
@@ -137,7 +139,10 @@ To clarify this Papert and Turkle give the example of a young coder Lisa, who is
 
 <!-- However, while this valuing of concrete approaches is important, it is potentially unhelpful to express concrete and abstract as two paths that never meet. Abstract concepts are useful after all. The danger is when the abstract concepts chosen by educators or included in the curriculum are don't seem relevant to learners, leading to their disengagement.   -->
 
-Many theories of learning explore the value of both concrete and abstract phases. When applied to coding and computing, a student's knowledge of a coding concept may deepen a little bit each time you apply it in practice. A straight forward way to do this is via a tool called semantic profiles.
+Thus as inclusive educator, we have a duty to allow learners to follow a learning path that suits them as much as practical within the constraints of the curriculum. A conceptual tool that may help teachers to help learners to navigating between the abstract is called semantic profiles.
+
+<!-- When applied to coding and computing, a student's knowledge of a coding concept may deepen a little bit each time you apply it in practice.
+ -->
 
 ### Key Concept - Semantic Profiles
 
