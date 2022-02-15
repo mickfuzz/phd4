@@ -42,6 +42,8 @@ Findings main parts
 - drama process as a reflective frame
  -->
 
+
+
 ### Context Background (Change from just UK but still include UK)
 
 Research on the educational value of computer games can be divided into studies on playing games and those on making games. In the UK the influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed @livingstone_next_2011. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
@@ -135,11 +137,21 @@ THERE IS A LOT OF THIS ON THE CONSTRUCTIVIST LITERATURE ON TOOLS / SOFTWARE PRIN
 WHAT IS SPECIAL ABOUT GAME MAKING  - PERHAPS MORE RESEARCH ON LIT?
 PERHAPS PRECURSOR OF LATER OBSERVATIONS?
 
-In the following paragraphs , emerging significant design elements are expressed as tensions on terms of the tools used. These tensions are explored in relation to existing research and my own experience. I outline quick proposed resolutions that set the parameters of the 3M design are detailed.
+Tensions around use of tools in creative computing projects have been explored extensively by academics in the constructionist school of research.
+For example low walls, high ceilings.
+INCLUDE RELEVANT READING HERE.
+
+In the following paragraphs , emerging significant design elements are expressed as tensions on terms of the tools used that address the specific opportunities and challenges of Game Making tools.
+
+These tensions are explored in relation to existing research and my own experience. I outline quick proposed resolutions that set the parameters of the 3M design are detailed.
 
 Awareness of these tensions may be useful to educators when making decisions about appropriate tools in your game making, especially to avoid overscoping a project by being too ambitious.
 
 In the final section of the chapter contains a more detailed exploration of the learning design that emerged, it explores other areas beyond tool use, learning
+
+
+
+
 
 **Tensions around Authenticity of Tool**
 
@@ -506,7 +518,7 @@ There is some evidence of a separation of identities and roles into children enj
 In many parts of the 3M design I take inspiration from the design of open world games to scaffold learner / user experiences. How can the process of using a map to orientate learner experience be improved? How could tension of making versus reflection on learning and self-documentation be eased? Making meta-cognition a fun part of the experience is sometimes explored via gamification techniques and has been used in this context in Game Star Mechanic. With this more open approach what is most suitable? A physical game making passport which can be kept close at hand and stamped with stamps representing progress? Could an online map, pictorial journal or reward system be integrated into the game making tool as it is in the dashboards of open world games? How can facilitators be guided to use these moments to encourage reflections and reconnection between concrete practices and underlying abstract concepts? These are all questions I would like to focus in on in further iterations or related research.  
 
 
-**Meeting in the Middle:** Through reflecting on my journal entries, I came to realise that one of my motivations was to provide an alternative for learners who prefer a ground up, piece meal approach to learning coding. This resonated with my own experience of learning and is often against the tradition of learning computer science [@papert_epistemological_1990]. However, push back from parents showed that many are comfortable with more structured approaches, building up from a moe solid foundations. While I was able to structure learning resources to support both approaches which learners could complete outside of sessions, I would be interested to adapt sessions to more explicitly allow of a choice of path within workshops. What impact would this increase diversity of learner experience provoke? 
+**Meeting in the Middle:** Through reflecting on my journal entries, I came to realise that one of my motivations was to provide an alternative for learners who prefer a ground up, piece meal approach to learning coding. This resonated with my own experience of learning and is often against the tradition of learning computer science [@papert_epistemological_1990]. However, push back from parents showed that many are comfortable with more structured approaches, building up from a moe solid foundations. While I was able to structure learning resources to support both approaches which learners could complete outside of sessions, I would be interested to adapt sessions to more explicitly allow of a choice of path within workshops. What impact would this increase diversity of learner experience provoke?
 
 ## Recommendations
 
