@@ -361,7 +361,7 @@ Lee and Vincent's research provides a practical approach to help overcome some o
 
 - _Verbal protocols:_ Teachers assess the learning and understandings of students by asking them to talk aloud the way they are solving problems and undertaking tasks.
 
-While this kind of observation is time consuming, and benefits from extra classroom support, this effort can be justified as inclusive measure to support a diversity of learner expression and assessment that is recommended by the UDL guidelines. 
+While this kind of observation is time consuming, and benefits from extra classroom support, this effort can be justified as inclusive measure to support a diversity of learner expression and assessment recommended by the UDL guidelines.
 
 <!-- There is repetition with conclusion here -->
 <!--
@@ -387,18 +387,20 @@ Much of what this chapter has looked at stems from a core concept of education t
 - What do you feel are the most valuable potentially transferable skills your students meet in your sessions?
 - How realistic is it learners transfer some of the skills and knowledge they have picked up in your teaching sessions to another subject area or to another area of their life? -->
 
-**The Use of Concept Maps and Learning Frameworks:** In order to use structured observation a predetermined framework of the kind of behaviours, practices and concepts that suit the project work being undertaken is needed. One way that teachers can develop such frameworks is via the technique of Concept Maps. The NCCE have created a guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). You may wish to include other the coding practices in line with a more participatory definition of Computational Thinking that we have explored in this chapter. It is also a good idea to provide students with this framework to help them navigate their learning journey. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. The final part of this chapter looks at an activity to include inclusive approaches into your classroom using  Universal Design for Learning (UDL).
-
+**The Use of Concept Maps and Learning Frameworks:** To facilitate structured observation a predetermined framework of the kind of behaviours, practices and concepts that align with the project work being undertaken is extremely useful. One way that teachers can develop such frameworks is via a technique called Concept Maps. The NCCE have created a Quick Read guide for teachers to create concept maps which focuses on more technical knowledge (http://tiny.cc/concept-map). In this document Concept Maps are presented as a way for teachers to model or for students to explore connections between concepts, however they can also be used as a map or a matrix to help observation.  It is also a good idea to provide students with this framework to help them navigate their learning journey. Having potential learning clearly mapped out and involving students in self-monitoring increases the efficiency of the observation process. The visual nature of the maps also align with UDL guidelines on presenting concepts via multiple means. When using maps used for observation and self-monitoring you may wish to extent beyond abstract concepts to coding practices that are included in more concrete definitions of Computational Thinking. The ability for students to monitor and assess their own work and progress is in line with both inclusive education and project-based approaches. I explore project approaches in another chapter of this book. I also outline the use of maps as a way to help manage a learner-led approach to game making in a further chapter in this collection. The final part of this chapter explores the use of Universal Design for Learning (UDL) in your classroom.
 
 ## Activity - Applying UDL in the Classroom
-We have explored some of the elements of UDL via the above teaching techniques. Many of the principles of the UDL framework will be  ones that experienced teachers have already adopted based on their intuition and experience. For examples the principle of representing knowledge and concepts via multiple means is explored via PRIMM, Unplugged activities and the Concreteness Fading.
 
+We have explored some of the elements of UDL in the context of computing via the above teaching techniques. The following questions can help as a checklist when planning your teaching.
 
 - What choices do students have to apply the target knowledge or skills? Can activities and learning be related to student's interests?  
 - Are learners able to connect to real-life application of the concepts and skills you are introducing? How motivating do they find that link?
 - How are you helping learners to make connections between the concepts and skills they are learning through hands-on activities and the more abstract representations that may occur in test or exam situations?
 
-One way to align a computing learning with UDL principles involves teachers set learners meaningful projects, giving students access to suitable tools, inspiration and to sustain their motivation. Assessment would then follow the activities that students undertook using a mixture of the observation techniques listed above.
+<!--
+THIS IS REALLY EXPLORED IN THE PROJECTS CHAPTER. 
+Aligning computing teaching with UDL principles involves teachers set learners meaningful projects, giving students access to suitable tools, inspiration and to sustain their motivation. Assessment would then follow the activities that students undertook using a mixture of the observation techniques listed above. -->
+
 
 ## Conclusion
 
