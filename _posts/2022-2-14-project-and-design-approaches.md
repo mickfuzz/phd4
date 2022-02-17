@@ -77,10 +77,10 @@ https://www.mantleoftheexpert.com/resources/reading/
 https://www.mantleoftheexpert.com/resources/contexts/
 -->
 
-### Iterative Design Techniques
+### Teaching Technique - Iterative Design
 <!-- In the Scratch community, by default there is a remix button on every project allowing views to alter it and make it their own. The process of being not only inspired by but given access to the mechanics of others creations helps support craft and community approaches to learning code in a child-friendly environment. The ability to view peer's coding and to remix it in this way supports a very interesting pedagogical approach called Use-Modify-Create. -->
 
-Iterative design involves coming back to reflect on the initial outcomes of creative goals and revising them based on results. The process involves: goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. The process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved. Iteration is also a key part of a more general scientific method of testing a hypothesis and revision based on your analysis of results. The idea of a repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In software and design industries it is often referred to as Design Thinking and Agile approaches. In education this approach is referred to in concepts like the spiral curriculum and promoting student mastery.
+Iterative design involves coming back to reflect on the initial outcomes of creative goals and revising them based on results. The process involves: goal setting, creating quick prototypes, user testing and evaluation, revision and reflection. The process is iterative in that testing and revision of the prototype design can be repeated until the desired result is achieved. Iteration is also a key part of a more general scientific method of testing a hypothesis and revision based on your analysis of results. The idea of a repeated (iterative) spiral approach which both deepens understanding and improves the end results is popular both in education and industry. In software and design industries it is often referred to as Design Thinking and Agile approaches. In education this approach is referred to in concepts like the spiral curriculum and promoting student mastery. Researchers involved in the Scratch project at MIT illustrate an approach to design-based education through an creative cycle that adapts an simplifies an industry approach for the context of educational outreach.
 
 
 <!-- Michel Resnick was instrumental in the Scratch development team and a pioneer of constructivist learning approaches. We have already seen his work in the development of his take on Computational Thinking. That interpretation is drawn from work creating and observing the use of Scratch and similar tools as a programs suitable for novices to use code to create design projects. One of the principles behind the design of Scratch are to make more concrete some of the more abstract principles of coding through design decisions about the program's interface. -->
@@ -88,7 +88,7 @@ Iterative design involves coming back to reflect on the initial outcomes of crea
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
-Researchers involved in the Scratch project at MIT illustrate an approach to design-based education through an creative cycle that adapts an simplifies an industry approach for the context of educational outreach.
+
 
 ![creative spiral](./Pictures/10000000000001F8000001E37980DF8728F1411B.png)
 ![creative spiral]({{ site.baseurl }}/Pictures/10000000000001F8000001E37980DF8728F1411B.png)
@@ -101,7 +101,7 @@ The above principle embody key elements of inclusive practices contained in Univ
 
 <!-- The following section describes some of the features of the online Scratch community as a way of exploring the benefits and motivations of the creators. The purpose here is not just to advertise that community as a resource, but also to draw out factors that you can try to use when creating or using communities when you engage your learners in design activities. -->
 
-### Worked Examples and Design Patterns as Educational Tools
+### Teaching Technique - Worked Examples and Design Patterns
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are solutions to problems or common scenarios in design areas. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concretes example of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders.
 
@@ -122,7 +122,7 @@ For educators the use of design patterns and worked examples can help support le
 <!-- My own journey in computing has very much been as a modifier of code. In the early days of the web I was able code many database driven websites with code that were very far from elegant representation of CT concepts but very functional for the communities they served. Like concrete coders that Papert and Turkle celebrated, I revelled in this hands-on approach and found tutorial resources dealing with first principles extremely confusing. -->
 
 
-### The Use-Modify-Create model
+### Teaching Technique - The Use-Modify-Create model
 <!-- THIS WOULD BE THE POINT TO INTRODUCE PHIL BAGGE'S CASE STUDY -->
 
 The iterative design cycle the Use-Modify-Create (UMC) model is designed both to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011].
@@ -180,7 +180,7 @@ Below is Sawyer, R., 2012. Learning how to create: Toward a learning sciences of
 He argues this approach is more suited to the learning sciences than the instruction based or apprentice oriented ones often in place. He cites these approaches as two sides of a spectrum. Studio practice is a third approach, open but guided. Sawyer also makes a link with PBL, an approach that is explored later in this chapter. -->
 
 
-### CASE STUDY - How the Online Scratch Community supports Design-based Learning
+### Case Study - How the Online Scratch Community supports Design-based Learning
 
 <!-- As mentioned, the creative spiral model is an accessible way to communicate tips and techniques to teachers and parents to support this process. In line with the social theme of this chapter, many of these tips require participation in some kind of community be it in real life or online. Indeed, where  -->
 
