@@ -246,13 +246,13 @@ https://www.edutopia.org/project-based-learning-guide-implementation -->
 
 **Start with a driving question or mission:** The project goal for computing projects is often to create a digital product in response to a need or design brief for a specific audience. Add in detail and link to real world problems at this stage to maximise learner engagement. Decide the limits for students projects and outline these clearly from the start to avoid having to dampen down their enthusiasm. For example, if creating a 2D game instead of a 3D one is better suited to the technical ability of students then be clear about that limit from the start of the project.
 
-**Designing a plan and resources for the project:** Decide what part of the curriculum the project work will develop. Use a deep knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources. Having an online repository that is for student to access and navigate can be extremely useful.
+**Designing a plan and resources for the project:** Decide what part of the curriculum the project work will develop. Use your knowledge of the curriculum to put resources in place to support the learners as they undertake the project. Not everything needs to be explicitly taught if you can signpost your learners to those resources. Having an online repository for students to access and navigate can be extremely useful.
 
 **Monitor pupil progress:** As the project unfolds, keep students on track by having a realistic schedule for project stages. Check that you are consistently signposting students to the relevant resources for the project choices they have made and for the stage that they are currently undertaking.
 
 **Assess emerging project processes and outcomes:** Ongoing feedback and assessment is vital. Building in opportunities for reflection, peer feedback and revision. Can students share prototypes of their digital products? Can you support then to recognise if they are working effectively as a team? How can you support them to make connections to the underlying curriculum knowledge?
 
-**Evaluation:** You may evaluate both the end piece of work created by students but also the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
+**Evaluation:** You may evaluate both the end piece of work created by students and the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
 
 If you would like more detailed information and case studies on PBL there are online resources provided by numerous organisations including Edutopia, PBLworks and the UK-based Edge Foundation. This link provides a good overview. https://my.pblworks.org/
 
@@ -301,7 +301,7 @@ If you draw on experts, staff or community members they do not need to be there 
 
 <!-- - Supporting the Development of Learning Communities -->
 
-In this chapter, we have explored how motivation, participation and peer learning does not happen in a vacuum. In computing, there is a clear value of creating a learning community of coders working on projects that are both authentic and linked to their own interests. To help this to happen, we can draw on some of the rich research and resources that are available from different streams of practice including project-based learning, UDL and design-based approaches. What many design and project-based approaches have in common is their focus on learner choice, sustained hands-on making and frameworks for facilitation, observation and assessment. For an accessible and convincing summary of project based approaches and their adoption in a classroom setting the review by Barron and Darling Hammond [-@barron2008teaching] is inspiring- http://tiny.cc/pbl-summary.
+In this chapter, we have explored how motivation, participation and peer learning does not happen in a vacuum. In computing, there is a clear value of creating a learning community of coders working on projects that are both authentic and linked to their own interests. To help this to happen, we can draw on some of the rich research and resources that are available from different streams of practice including project-based learning, UDL and design-based approaches. What many design and project-based approaches have in common is their focus on learner choice, sustained hands-on making and frameworks for facilitation, observation and assessment. For an accessible and convincing summary of project based approaches and their adoption in a classroom setting see the review by Barron and Darling Hammond [-@barron2008teaching].
 
 <!-- More on inclusion
 jointing the dots
@@ -312,7 +312,7 @@ We have explored the tension between creative processes involving learner choice
 
 INCORPORATE SOMETHING FEISTY?
 
-As teachers we have a responsibility to integrate such methods and evaluate teh and the importance of closing an achievement gap between the higher and lower achieving students.
+As teachers we have a responsibility to integrate such methods and evaluate the and the importance of closing an achievement gap between the higher and lower achieving students.
  evaluate how effective these methods are for our learners with diverse educational needs.
 
 
