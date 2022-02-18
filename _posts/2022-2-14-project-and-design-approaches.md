@@ -308,14 +308,6 @@ jointing the dots
 missing sections on Inclusion
  -->
 
-We have explored the tension between creative processes involving learner choice and teaching to the more prescriptive requirements of the computing curriculum. To help bridge this gap the NCCE have created resources drawing on socio-cultural research to offer guidance on PBL, observation and pair programming. These resources are supported by articles from teachers, researchers and other practitioners in blogs and the computing education magazine Hello World. We are still in the relatively early stages of sharing our practices and resources as a community of computing educators. I hope that this chapter has encouraged you to keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work.
-
-INCORPORATE SOMETHING FEISTY?
-
-As teachers we have a responsibility to integrate such methods and evaluate the and the importance of closing an achievement gap between the higher and lower achieving students.
- evaluate how effective these methods are for our learners with diverse educational needs.
-
-
-
+We have explored the tension between creative processes involving learner choice and teaching to the more prescriptive requirements of the computing curriculum. To help bridge this gap the NCCE have created resources drawing on socio-cultural research to offer guidance on PBL, observation and pair programming. As teachers seeking to close an achievement gap between the higher and lower achieving student, we have a responsibility to integrate such methods and evaluate their potential for our learners. I hope that this chapter has encouraged you to keep exploring more authentic coding practices in schools and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work.
 
 <!-- Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects. -->
