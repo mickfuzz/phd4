@@ -33,7 +33,6 @@ The following sections the benefits of game making in education. Researchers Kaf
 
 **Coding and Computing Practices:** The main learning objective of making games in educational settings is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many others involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
-
 **Games to study other subjects:** When students are tasked with making games that teach a key concepts of another subject it requires them to gain a deep understanding of that area. Kafai's review covered studies on game making to aid maths, biology, chemistry and language development. Cross-curricular projects are also a potential way to overcome limits in time devoted to computing.  
 
 **Developing Social and 21st Century Skills:** These potential benefits align closely with a concept called 21st Century Skills. The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. Skill which are suited to be developed via collaborative environment. More tightly focused research on game making and collaboration is needed but the potential to develop such skills is exciting. One Study by Baytak [-@baytak_case_2010] focused on the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and play those of others. This motivation can be leveraged to provide detailed feedback.
@@ -46,10 +45,9 @@ https://clalliance.org/institute-of-play/
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
 
-
 ## Key Concepts in Game Making
 
-There are certain factors that are unique or particular suited to game making as an educational activity. In the previous section for example, the use of games to teach systems concepts is aligned with the internal rules and structure of games themselves in a way which particularly suits exploring that topic. Other similarly special elements of are explored in the following sections in the form of key concepts and checklists.
+Certain characteristics of game making as an educational activity are of particular interest and value. In the previous section for example, the use of games to teach systems concepts is aligned with the internal rules and structure of games themselves in a way which particularly suits exploring that topic. Other special elements of are explored in the following sections in the form of key concepts and checklists.
 
 ### Key Concept - Family Game Experience as an inclusive Fund of Knowledge
 
@@ -86,7 +84,7 @@ HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
 ## An Overview of Game Coding Tools
 
-In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
+The field of game making is extremely dynamic as new tools frequently emerge with novel approaches and features. In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
 
 **Pygame - a python based library for 2D Games:** Pygame is an add-on (code library) for Python to make game making a bit easier. Pygame is a good choice for students that have had experience of coding in Python of for teachers that want to encourage fluency in this particular language. The Pygame community has produced good resources aimed at beginner coders (https://www.pygame.org/wiki/resources
 ). There are also interesting resources and books to support game making with Pygame on the website of the Raspberry Pi foundation (https://www.raspberrypi.org/blog/tag/pygame/). It is harder to set up a game-coding environment using Pygame compared to some of the other tools here. There is also less of an active community of game makers sharing their games online. You can set up a python environment on your desktop, however you can use replit.com (https://replit.com/talk/learn/A-Starter-Guide-to-Pygame/11741
@@ -106,7 +104,6 @@ The drawbacks of this approach is the potential complexity of using real web tec
 - tensions around starting code from scratch or from a template -->
 
 **P5.play - an arts inspired coding environment:** P5.play is an add-on to the p5.js javascript framework. P5 is a fun javascript library that is quick to learn and get creative results. Sample projects often involve moving interactive, coloured shapes around and generating patterns. P5 project has become popular not only with artists and designers but increasingly with educators. This is partly due to the ability to use it in code playgrounds with all of the advantages previously discussed in the section Phaser and Glitch. While the P5.play project is limited to 2D games, it add some useful design patterns like animation support, basic collision detection and help for mouse and keyboard interactions and has some great accessible tutorials. https://molleindustria.github.io/p5.play/
-
 
 **MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
 ![MakeCode](./Pictures/makecode.png)
@@ -185,6 +182,11 @@ _Missions as Islands_ -->
 <!-- Is this better in Missions?   -->
 
 **Learning Dimensions Map:** The has been a growing tendency in socio-cultural research to look at the learning that is happening in any given activity from an observational perspective. That is to say that rather than deciding what you want to teach and planning around that, you choose an existing authentic activity and map the learning that actually happens in reality. For example, when researching hands-on tinkering in Science museums Bevan and Petrich -@petrich_it_2013 worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in the exploratory learning processes. In a previous chapter on design and project based approaches we looked at Concept Maps and observation as a way for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. The diagram (OR TABLE?) below shows my resulting map on Learning Dimensions for the 3M game making model.
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
 
 <!--
 While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/. -->
