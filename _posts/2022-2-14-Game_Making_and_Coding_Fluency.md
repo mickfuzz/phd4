@@ -10,6 +10,9 @@ categories: misc
 title: Game Making Projects in Practice
 ---
 
+Mick Chesterman
+https://orcid.org/0000-0002-8005-2390
+
 # Introduction
 
 In this chapter I explore the potential of digital game making as a way of developing coding concepts and fluency. I'll make a summary of research around project-based approaches to game making and draw out some of the benefits and some elements that are special about making games. To do this this chapter explores research on game making relevant to a school or after-school context. In the final section I outline tactics to resolve common tensions when working with learners to undertake game-making projects.
@@ -124,7 +127,6 @@ Many commercial open world games offer a central challenge consisting of small i
 
 **Design Patterns as Missions:** A standard way to learn how to make a game would be to follow a step-by-step tutorial to add new game features in a pre-set order. In the 3M model learners start with a very simple and incomplete game template and then which new features or game design patterns they want to add in their own order. Each new pattern they add into their game is described to them as completing as a mission. This mission based approach follows the Use-Modify-Create model which is explored in another chapter in this collection. Let's explore this in a game making context.
 
-DESIGN PATTERNS INCLUDE 
 
 If starting with a simple 2D platform game, typical game design patterns include: moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns.
 
