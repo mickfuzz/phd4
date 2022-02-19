@@ -123,32 +123,32 @@ My own research in game making is an experimental approach to create a new learn
 
 ### Missions
 
-Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. The goal as a way of increasing user choice and giving players more agency. I have adopted this approach in this model. The main challenge of the 3M model is to create a playable game around a theme (environmental in my case) for a real or imagined audience. The incremental missions in this case involve adding different elements to the game. The process of adding these elements as missions involve developing various concepts and skills from the wide range explore above from those suited to game making. The following examples of missions explore  how the 3M model steers students towards learning coding structures, debugging practices, systems concepts, and social learning and reflection.
+Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. The goal as a way of increasing user choice and giving players more agency. To mirror this approach, in the main challenge of the 3M model is to create a playable game around a theme (environmental in my case) for a real or imagined audience. The incremental missions of the my implementations of 3M model steers students towards learning coding structures, debugging practices, systems concepts, and social learning and reflection.  In additions, side missions encourage social and playful coding approaches which help develop a community of coders.
 
-**Design Patterns as Missions:** A standard way to learn how to make a game would be to follow a step-by-step tutorial to add new game features in a pre-set order. In the 3M model learners start with a very simple and incomplete game template and then which new features or game design patterns they want to add in their own order. Each new pattern they add into their game is described to them as completing as a mission. This mission based approach follows the Use-Modify-Create model which is explored in another chapter in this collection. Let's explore this in a game making context.
+**Side Missions:** Bartle proposed that online gamer play for different motivations. Find you which one you are with a test here - https://matthewbarr.co.uk/bartle/. There are also different styles of game makers. Some like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step.  Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to finding out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage valuable social coding practices I created some missions. These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions
 
+**Game Design Patterns as Main Missions:** In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model (explored in another chapter). For my design I worked with learners to create a wish list of game features to create a 2D platform game. The identified typical game feature including: moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. I developed tutorials to support students implement patterns and grouped them to aid navigation of the resources.  This approach aligns with inclusive education principles in that it increases student choice, scaffolds the way they can access resources when needed and allows them to keep a track of their own progress.
 
-If starting with a simple 2D platform game, typical game design patterns include: moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns.
-
-Design patterns are part of the craft approach to coding. The craft in this case involves building a knowledge of patterns that occur in a particular genre. Game design patterns come in different forms but at their most user-oriented level, as illustrated in the examples above, they have the advantage of being immediate and concrete to learners. As I developed resources to support students make a 2D game categories of patterns emerged. I organised the patterns accordingly to help student to navigate them. Thus game design patterns can be used both as a relatable way for student to choose a path through the creation of their projects and to structure support via coding concepts linked to particular patterns. This approach aligns with inclusive education principles in that it increases student choice, scaffolds the way they can access resources when needed and allows them to keep a track of their own progress.
-
-- [Game Mechanics:](#game-mechanics)  things to do with the actions of the game
-- [Game Space:](#game-space) things to do with the layout of the game
-- [Game Polish:](#game-polish) music, backgrounds, graphics and story elements
-- [Challenge and Systems:](#challenge-and-systems) how different elements interact to create challenge
-
-An example of a game mechanic design pattern follows.
 
 <!-- DO I NEED TO GO INTO THE FORMAT OF A DESIGN PATTERN HERE?
 NOT REALLY IN DETAIL - JUST LIST AN EXAMPLE
 Also should this be a graphic?
 -->
+### Teaching Resource - Game Design Pattern as Mission for Students
 
-* **Name:** Jumping on Enemies to Zap them
+In my version of the 3M model student picked mission from printed .
+Game mechanics are features to do with the actions of the game. Game space patterns address the layout of the game. Game polish patterns involve adding music, backgrounds, graphics and story elements. Systems pattern look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
 
-* **Description:** In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+START OF TABLE
+Your mission is to apply the following pattern to your game. There are supporting step by step resources available if you need them. When you finish be sure to reflect find the links to computing concepts and similar patterns. This concludes your mission.  
 
-* **Need for Pattern:** Being able to jump on an enemy is a good way of clearing the area you want to explore. You may need to have a clear space to be able to jump up to a high platform for example. Some platformers do have a shooting mechanic as well but using this pattern and sticking with jumping also keeps the game simple (in a good way).
+* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+
+* **Type Pattern:** Game Mechanic
+
+* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+
+* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore or to be able to jump up to a high platform.
 
 * **Coding Concepts involved:** [Data](codingConcepts#data), [Change Listener](widerPatterns#change-listener)
 
@@ -156,7 +156,9 @@ Also should this be a graphic?
 
 * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
 
-When learners take a printed card or access on-line help to support them implement the code needed to add their chosen game design pattern to the game. The online or digital help can be useful if you want learners to be able to copying and paste code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. I work with relatively young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment then I provide less complete code examples. In my research I found that providing limited options but allowing student to choose their own pathway had a immediate positive effect on the motivation and general energy level of learners
+END OF OF TABLE
+
+When learners take a printed card or access on-line help to support them implement the code needed to add their chosen game design pattern to the game. The online or digital help can be useful if you want learners to be able to copying and paste code. Having supporting resources can help resolve tensions around groups getting stuck and needing facilitator. I work with relatively young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment then I provide less complete code examples. In my research I found that providing limited options but allowing student to choose their own pathway had a immediate positive effect on the motivation and general energy level of learners.
 
  <!--
  As mentioned the break down involves creating help resources to support a menu of game design patterns. If teachers want to take on doing this work themselves then the amount work is significant but manageable especially if collaboration with other educators is involved. I found the process of creating the resources invaluable in helping students solve their coding problems. -->
@@ -168,11 +170,12 @@ _Diagram of Possible Missions on a Web Page Menu_
 
 CHANGE THIS TO MORE TEXT ORIENTED BREAK DOWN. -->
 
-**Side Missions:** As digital and online games became more complicated Richard Bartle proposed that players to get different things out of them. He created a test to finds out what kind of game player you are. https://matthewbarr.co.uk/bartle/. I propose that as well as different Game Player types there are also different styles of Game Maker.  Planners like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step. Social makers form relationships with other game makers and players by finding out more about their work and telling stories in their game. Magpie makers like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results. Glitchers mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc.
 
 <!-- I don't propose that people fall neatly into any one category. Instead these categories are mostly aimed at educators to help them plan their game making sessions. After some of my own sessions I wondered if some of the frustration and confusion surrounding learners on-going participation was due to the diversity of the different approaches. -->
 
-I noticed that when facilitating game making I would sometimes be frustrated learners messing around and creating tricky or impossible games. I would try to bring learners back to a more structured games making approach. However during research I reviewed the recordings and young people were often exploring the code, making many changes, and inviting others to play their game for feedback. These are all valuable excellent coding practices that should be encouraged. To address this issue I created some extra missions to suit different kinds of game makers to encourage and legitimise their different approaches. Some of the missions were social in nature (e.g. find out who plays the most computer games per week in your group), others were more anti-social in nature (add an usual sound to someone else’s project) and some exploratory missions that encourage knowledge exchange. These extra missions are available here - https://mickfuzz.github.io/makecode-platformer-101/missions
+<!-- I noticed that when facilitating game making I would sometimes be frustrated learners messing around and creating tricky or impossible games. I would try to bring learners back to a more structured games making approach. However during research I reviewed the recordings and young people were often exploring the code, making many changes, and inviting others to play their game for feedback.  -->
+
+
 
 ### Maps
 
