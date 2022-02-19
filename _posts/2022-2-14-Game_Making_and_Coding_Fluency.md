@@ -11,6 +11,7 @@ title: Game Making Projects in Practice
 ---
 
 Mick Chesterman
+
 https://orcid.org/0000-0002-8005-2390
 
 ## Abstract
@@ -205,17 +206,18 @@ _Map of Learning Dimensions of the 3M Game Making Approach_
 
 ### Motivational Methods
 
-**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities has been show to increase engagement of diverse groups of learners. Making the digital physical has been a guiding principle for inclusive learning designs for some time. To support my game making projects, I made some very simple arcade cabinets out of wood with simple arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a relatively simple electronics project which can be completed quickly. The process of building their own arcade cabinets was a very engaging activity and a fantastic target to work towards as they made their games. Some families did this at home in very low tech ways with cardboard materials. While it can be time consuming I highly recommend, this method of involving some kind of physical making or tangible product if at all possible. The results in terms of learner engagement can be transformational.
+The final M of the 3M framework stands for motivational methods. There are many ways to motivate and sustain the learners involvement in project based approaches like game making. You may have your own ways of doing this. In this section I share two methods that I have found valuable.
+
+**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via a Makey Makey or similar break out USB joystick adaptor is a simple electronics project which can be completed quickly. The process of building their own arcade cabinets for a games showcase was a very engaging activity for student and increased the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program was significant.
 
 <!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
 
-**Drama / Fictional Frameworks:** One methods I use to increase learner and parent engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community which while less authentic than a professional community, can still provide some of the benefits. I have worked with practitioners of Drama Education department at Manchester Met to work on a several process dramas with families, students and staff. But you don't have to be a trained drama practitioner draw on key techniques to increase learner engagement. I asked trainee teachers to devise a scenario to support a series of sessions. In brief, we used a fiction of making games for a alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways;
+**Drama / Fictional Frameworks:** Another method I use to increase learner engagement is the concept of using a fictional scenario or simulation to increase the perceived authenticity of a project. A fictional community while less authentic than a professional community, can still provide some of the benefits. I have worked with practitioners of Drama Education department at Manchester Met to develop such fictional dramas. But you don't have to be a trained drama practitioner draw on key techniques to increase learner engagement. For example, I asked trainee teachers to devise a scenario to support a series of sessions and they used a fiction of making games for a alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways;
 
 - Asking learners to step into a role can increase a sense of authenticity of the project. For example you may say "As game designers, we will make this game for a particular audience".
 - Fictional situations can help create a sense of 'jeopardy' which can help learners stay on track with their creative timescale and may increase their commitment to the process.
--  When learners shared their games with the real or imagined audience, they can talk through their design decisions and challenges thus creating an opportunity for reflection.
-- Drama processes can help explore issues of gaming cultures, and hostility to them which may be an important step for your learners.
-
+-  When learners share their games with the real or imagined audience, they can talk through their design decisions and challenges thus creating an opportunity for reflection.
+- Drama processes can help explore identification with or hostility  gaming cultures.
 
 ## Conclusion
 
