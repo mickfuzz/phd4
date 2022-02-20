@@ -6,21 +6,22 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: misc
-title: Abstract and Concrete Approaches to Computing
+title: Keeping it Real - Helping Learners Navigate the Concrete and Abstract
 ---
 
-Chapter Title  ideas.
+Mick Chesterman
 
-- The Stickiness of Concrete Computing
-- Inclusive Computing between the Concrete and the Abstract.
-- Celebrating the Concrete
-- Keeping it Real - helping learners navigate the concrete and abstract in computing education
+https://orcid.org/0000-0002-8005-2390
+
+## Abstract
+
+This chapter highlights the value and challenges of implementing hands-on teaching approaches in a UK schooling context. It begins by looking at interpretations of inclusion and inclusive pedagogy and specifically the framework Universal Design for Learning (UDL). The terms concrete and abstract and their relevance to coding and definitions of Computational Thinking. The second half of the chapter chapter then turns to practical ways teachers can help learners navigate abstract concepts and benefit from hands-on experience of coding. To do this it outlines some techniques promoted by the National Centre for Computing Education (NCCE). Throughout this part of the chapter there is a focus on linking these educational practices with inclusive approaches and learner engagement.
 
 ## Introduction
 
 In the UK, computing and computational devices are all around us. Young people interact with them in many ways including, general communication, games, social media and creative apps. Computing as a subject, and coding as an activity can draw on the diverse ways that computing touches people's concrete lives. A quick search the web for creative computing or tech for kids yields a multitude of activities, devices and materials designed to engage hobby interests of young people. Physical examples include fashion and textiles based computing, robotics, colourful lighting displays and programming lego constructions. This chapter celebrates the value and fun involved in coding in these contexts.  However, while the range of materials and possible creative projects is promising, aligning creative opportunities with an exam-assessed curriculum is challenging.
 
-This chapter highlights the value and challenges of implementing hands-on teaching approaches in a UK schooling context. It begins by looking at interpretations of inclusion and inclusive pedagogy and relates these to understandings of concrete and abstract approaches to computing. This chapter then looking at definitions and the role of Computational Thinking in an accessible way. It also draws on the work of the National Centre for Computing Education (NCCE) to explore teaching and learning approaches to increase learner engagement with computing through key educational concepts and classroom tactics.
+This chapter highlights the value and challenges of implementing hands-on teaching approaches in a UK schooling context. It begins by looking at interpretations of inclusion and inclusive pedagogy and specifically the framework Universal Design for Learning (UDL). The terms concrete and abstract and their relevance to coding and definitions of Computational Thinking. The second half of the chapter chapter then turns to practical ways teachers can help learners navigate abstract concepts and benefit from hands-on experience of coding. To do this it outlines some techniques promoted by the National Centre for Computing Education (NCCE). Throughout this part of the chapter there is a focus on linking these educational practices with inclusive approaches and learner engagement.
 
 <!-- This chapter starts by exploring the terms inclusion and engagement as they are used frequently in this and other chapters. -->
 

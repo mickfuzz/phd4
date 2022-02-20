@@ -19,7 +19,7 @@ https://orcid.org/0000-0002-8005-2390
 
 ## Introduction and Context
 
-In this chapter I explore the potential of digital game making as a way of developing coding concepts and fluency. I make a summary of research relating to game making as an inclusive educational practice, the associated benefits and motivations and distinctive opportunities offer by making games. In the final section I outline tactics to resolve common tensions when working with learners to undertake game-making projects in the form of a case study.
+In this chapter I explore the potential of digital game making as a way of developing coding concepts and general coding fluency. This introduction contains a brief summary of research relating to game making as an inclusive educational practice. This followed by a summary of the motivations for game making in an educational context informed by a review of this topic by Kafai and Burke [-@kafai_constructionist_2015]. This chapter then explores key concepts in game making by identifying distinctive opportunities it offers. In the final section I outline tactics to resolve common tensions when undertake educational game-making projects. I do this using an extended case study from my own research in the form of a pedagogical design called the 3M game making model.
 
 The Next Gen report [@livingstone2010next] was influential in the introduction of a new Computing curriculum in the UK. It addressed providing the UK games and animation industry with the talent needed to succeed. The report recommended the well supported use of games and visual animation in the school curriculum as a way to attract at greater diversity of young people to the subject. However, while a new curriculum and exam structure of 2014, support available for teachers the use of game making in computing is sparse. The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise but which needed more research, namely; using games for engagement, use of game patterns and involvement of girls in coding and social and cultural aspects of coding. The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making. Game making aligns well with the principles of inclusive practices and project-based learning (PBL) namely: more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
@@ -27,7 +27,7 @@ Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year o
 
 ## Motivations for Game Making in Education
 
-The following sections the benefits of game making in education. Researchers Kafai and Burke -@kafai_constructionist_2015 have undertaken one or the most extensive reviews of the educational potential of game making. The following sections are based on this research with some additional material.
+The following sections the benefits of game making in education. Researchers Kafai and Burke [-@kafai_constructionist_2015] have undertaken one or the most extensive reviews of the educational potential of game making. The following sections are based on this research with some additional material.
 
 **Coding and Computing Practices:** The main learning objective of making games in educational settings is to develop coding and computing skills. While some game making tools use a specialised graphical interface, many others involve working with code directly. These new tools have allowed students to practice the mechanics and core structures of coding and a more applied definition of computational thinking. A study by Adams and Webster [-@adams_what_2012] indicated that games rather than media or storytelling computing projects were more likely to use logic and variables extensively.
 
@@ -157,9 +157,7 @@ In addition to printed outlines of game patterns, print outs or on-line document
 ![patterns as missions ](./Pictures/missions_full.png)
 ![patterns as missions ]({{ site.baseurl }}/Pictures/missions_full.png)
 _Diagram of Possible Missions on a Web Page Menu_
-
 CHANGE THIS TO MORE TEXT ORIENTED BREAK DOWN. -->
-
 
 <!-- I don't propose that people fall neatly into any one category. Instead these categories are mostly aimed at educators to help them plan their game making sessions. After some of my own sessions I wondered if some of the frustration and confusion surrounding learners on-going participation was due to the diversity of the different approaches. -->
 
@@ -190,6 +188,8 @@ _Missions as Islands_ -->
 | Creating Functions |       | Version Control    |
 | Change Listener |    | Debugging   |
 | Input Event |   | Reusing and Remixing      |
+
+Table 1.1 Learning Dimensions of the 3M Game Making Model
 
 This process of mapping such frameworks may be overly time-consuming for many full-time teachers. However, teachers may also use and adapt existing maps and frameworks based on classroom experience as they see fit to help their observation of students. As such frameworks can also help students to navigate their own learning journey the effort serves a double purpose.
 
