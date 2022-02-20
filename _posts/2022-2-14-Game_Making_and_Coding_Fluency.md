@@ -129,7 +129,7 @@ Also should this be a graphic?
 In my version of the 3M model student picked mission from printed .
 Game mechanics are features to do with the actions of the game. Game space patterns address the layout of the game. Game polish patterns involve adding music, backgrounds, graphics and story elements. Systems pattern look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
 
-START OF TABLE
+<box begins>
 
 Your mission is to apply the following pattern to your game. There are supporting step by step resources available if you need them. When you finish be sure to reflect find the links to computing concepts and similar patterns. This concludes your mission.  
 
@@ -147,7 +147,7 @@ Your mission is to apply the following pattern to your game. There are supportin
 
 * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
 
-END OF OF TABLE
+<box ends>
 
 In addition to printed outlines of game patterns, print outs or on-line documents support learners to them implement the code needed. While online documents allow learners to copying and paste code thus avoid many syntax error, printed and/or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. How much detail you provide in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment then I provide less complete code examples.
 
