@@ -126,8 +126,7 @@ Also should this be a graphic?
 -->
 ### Teaching Resource - Game Design Pattern as Mission for Students
 
-In my version of the 3M model student picked mission from printed .
-Game mechanics are features to do with the actions of the game. Game space patterns address the layout of the game. Game polish patterns involve adding music, backgrounds, graphics and story elements. Systems pattern look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
+In my version of the 3M model student picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
 
 <box begins>
 
