@@ -92,7 +92,7 @@ The field of game making is extremely dynamic as new tools frequently emerge wit
 
 ![phaser simple game to edit](./Pictures/phaser_simple.png)
 ![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
-_Screenshot of Phaser in Glitch.com playground with code and game side by side_
+Figure 1.1. Phaser in Glitch.com playground with code and game side by side. Screenshot by author.
 
 The drawback of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy to use timeline of your project.
 
@@ -104,7 +104,7 @@ The drawback of this approach is the potential complexity of using real web tech
 **MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
 ![MakeCode](./Pictures/makecode.png)
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
-_Screenshot of MakeCode Arcade with code and game side by side_
+Figure 1.2.  MakeCode Arcade with code and game side by side. Screenshot by author.
 
 The MakeCode Arcade interface, like scratch has the ability to edit sprite characters. However, compared to scratch it is more limited in terms of what can be created. The simplicity of a tool like MakeCode Arcade can help address issues around learners trying to attempt projects that are too ambitious in scope. The designers have intentionally limited the tools provided to work on audio and graphical assets and the screen size of the game. This simplicity reduces the amount of time learners spend creating assets and thus support students to spend time build familiarity and fluency with coding constructs.  There some engaging, diverse and comprehensive example games and tutorials at https://arcade.makecode.com/
 
@@ -175,7 +175,7 @@ _Missions as Islands_ -->
 <!-- Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Having them all mapped out meant. -->
 <!-- Is this better in Missions?   -->
 
-**Learning Dimensions Map:** In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing on that area, you map the learning of an authentic activity with diverse learner pathways. When researching hands-on tinkering in Science museums Bevan and Petrich -@petrich_it_2013 worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in the exploratory learning processes. In a previous chapter on design and project based approaches we looked at Concept Maps and observation as a way for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. The table below shows my resulting map on learning dimensions for the 3M game making model.
+**Learning Dimensions Map:** In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing on that area, you map the learning of an authentic activity with diverse learner pathways. When researching hands-on tinkering in Science museums Bevan and Petrich -@petrich_it_2013 worked with educators to examine video footage of families interacting with exhibits. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in the exploratory learning processes. In a previous chapter on design and project based approaches we looked at Concept Maps and observation as a way for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map on learning dimensions for the 3M game making model.
 
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
@@ -189,7 +189,7 @@ _Missions as Islands_ -->
 | Change Listener |    | Debugging   |
 | Input Event |   | Reusing and Remixing      |
 
-Table 1.1 Learning Dimensions of the 3M Game Making Model
+Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 This process of mapping such frameworks may be overly time-consuming for many full-time teachers. However, teachers may also use and adapt existing maps and frameworks based on classroom experience as they see fit to help their observation of students. As such frameworks can also help students to navigate their own learning journey the effort serves a double purpose.
 
