@@ -95,7 +95,7 @@ The field of game making is extremely dynamic as new tools frequently emerge wit
  -->
 
 ![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
-<Figure1.1.png>
+<Game_Figure1.1.png>
 Figure 1.1. Phaser in Glitch.com playground with code and game side by side. Screenshot by author.
 
 The drawback of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy to use timeline of your project.
@@ -108,7 +108,7 @@ The drawback of this approach is the potential complexity of using real web tech
 **MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
 <!-- ![MakeCode](./Pictures/makecode.png) -->
 
-<Figure1.2.png>
+<Game_Figure1.2.png>
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 Figure 1.2.  MakeCode Arcade with code and game side by side. Screenshot by author.
 
