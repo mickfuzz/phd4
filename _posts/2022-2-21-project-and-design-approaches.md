@@ -194,14 +194,14 @@ Scratch is educational software which uses a block based coding approach and a s
 
 **Encouraging project iteration:** Scratch encourages remixing of others projects and makes it easy to create different versions of your own projects. This encourages sharing drafts for feedback via peer comments. This public sharing and feedback has been shown to encourage the development of new features in users' creations. Teachers may need to balance the more disruptive possibilities in the classroom that the ability to publish inappropriate material online with the clear benefits to build student autonomy and reflection.
 
-**Supportive and authentic audience of fellow creators:** Due to the high numbers involved in this community there is a good chance of finding peers who are also interested in specific subject matter and proficient in coding techniques. Collaboration between community users as peers is motivated by these shared interests. The potential and depth of collaboration of this community can be impressive. Roque and colleagues [-@cress_supporting_2016] have described this in detail - see http://tiny.cc/scratch-community. The researchers describe how individuals find each other and group together by forming  _studios_ and then recruiting other members to work on joint projects. This is sophisticated behaviour which mimics real production processes. It is carried out by young people with a high degree of independence. Researchers also note that such collaborative production  is only carried out by a very small proportion of the online creators.
+**Supportive and authentic audience of fellow creators:** Due to the high numbers involved in this community there is a good chance of finding peers who are also interested in specific subject matter and proficient in coding techniques. Collaboration between community users as peers is motivated by these shared interests. The potential and depth of collaboration of this community can be impressive. Roque and colleagues [-@cress_supporting_2016] have described this in detail.[^7] The researchers describe how individuals find each other and group together by forming  _studios_ and then recruiting other members to work on joint projects. This is sophisticated behaviour which mimics real production processes. It is carried out by young people with a high degree of independence. Researchers also note that such collaborative production  is only carried out by a very small proportion of the online creators.
 
 Teachers should be aware of a key challenge identified by the researchers, namely how to replicate the benefits of collaborative community activity for young people who have less experience or confidence. In response Roque [-@roque_family_2016] went on to develop related programmes which including online project exhibitions, competitions and off-line family-based programmes to engage under-represented groups. As educators, we can take inspiration from this process of replicating the highly engaged, organic feedback and support of the chaotic online community into a more offline and structured design-based environment. The second half of this chapter addresses ways you may be able to rise to this challenge using project-based approaches.  
 
 <!--
 What these projects and features have in common is that they create communities which support the different stages creative spiral. The importance of creating and facilitating different forms of participation in communities and for that community to function a motivating factor and reflective tool for young producers is key to the socio-cultural and constructionist schools of educational research. This line of thinking can be traced back to to Papert's early focus on objects to think with and creating shareable concrete artefacts. -->
 
-### ACTIVITY - USING DESIGN-BASED APPROACHES IN THE CLASSROOM
+### Activity - Using Design-based Approaches in the Classroom
 
 You can ask you self the following questions to try to help you use some of the beneficial aspects of design-based approaches in your classroom.
 
@@ -209,7 +209,7 @@ You can ask you self the following questions to try to help you use some of the 
 - As they plan, are learners able to think about and articulate the perspective of the real or imagined users of the designed projects?
 - Are learners helped to come up with ideas through ideation techniques that scaffold the creative process?
 
-**Follow-up Resources:** I have created several online courses which explore hands on ways to use design thinking in education and community work. https://rise.mmu.ac.uk/category/enterprise/design-thinking/.
+**Follow-up Resources:** I have created several online courses which explore hands on ways to use design thinking in education and community work as part of Manchester Met's Rise program. [^8]  
 
 <!-- Question about access and URL -->
 
@@ -241,13 +241,7 @@ Academics have worked with expert practitioners to create PBL frameworks to help
 
 ### Teaching Technique: Supporting PBL in Computing Classrooms
 
-PBL is aligned with UDL in many ways.
-THIS NEEDS TO BE INTEGRATED SOMEWHERE - MAKE THE LINK EXPLICITLY
-<!-- They all require or benefit from a collaborative community and a real or imagined audience which learners create a public product for. Community-driven participation, motivation and feedback underpin the socio-cultural nature of the student's learning. -->
-
-One critique of project-based learning, especially where it involves student experimentation and student discovery, is that it can is chaotic and more challenging to communicate high-level concepts. It also requires skills, support and planning that are very different from traditional teaching and therefore may be difficult for teaching staff to implement. For example, practitioners must build their ability to switch between facilitating students operating freely to then guiding them in the process of revision and critique. Having resources and clear stages to your project plan to help this process is vital. This section outlines the typical stages of PBL and how to adapt it to a computing context.
-
-The following  questions can help you prepare to deliver a project with your students.
+PBL and other design approaches are aligned with UDL in many ways. tor example, benefit from a collaborative community and a real or imagined audience for public products as a way to increase learner motivation. They also advocate structures for students to chart their progress and support feedback. One of the central tenets of these approaches, the importance of learner choice in projects created, is also one of the most challenging for teachers to enact. One critique of project-based learning, especially where it involves student experimentation and student discovery, is that it can is be chaotic and it is therefore challenging to communicate high-level concepts. PBL also requires skills, support and planning that are very different from traditional teaching and therefore may be difficult for teaching staff to implement. For example, practitioners must build their ability to switch between facilitating students operating freely to then guiding them in the process of revision and critique. Having resources and clear stages to your project plan to help this process is vital. This section outlines the typical stages of PBL and how to adapt it to a computing context. The following  questions can help you prepare to deliver a project with your students.
 
 <!-- Based on this break down
 https://www.edutopia.org/project-based-learning-guide-implementation -->
@@ -264,7 +258,7 @@ https://www.edutopia.org/project-based-learning-guide-implementation -->
 
 **Evaluation:** You may evaluate both the end piece of work created by students and the way they have worked together and the skills used to undertake different stages of the project. You can validate what the students have learned and areas for future development.   
 
-If you would like more detailed information and case studies on PBL there are online resources provided by numerous organisations including Edutopia, PBLworks and the UK-based Edge Foundation. This link provides a good overview. https://my.pblworks.org/
+If you would like more detailed information and case studies on PBL there are online resources provided by numerous organisations including Edutopia, PBLworks and the UK-based Edge Foundation.[^9]
 
 <!-- ## Authentic Approaches to Projects -->
 
@@ -327,12 +321,8 @@ We have explored the tension between creative processes involving learner choice
 [^4]: https://mres.medium.com/ten-tips-for-cultivating-creativity-fe79e7ebb83e
 [^5]: https://blog.teachcomputing.org/using-worked-examples-to-support-novice-learners/
 [^6]: Scratch is available as a free download at https://scratch.mit.edu/
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
+[^7]: http://tiny.cc/scratch-community
+[^8]: https://rise.mmu.ac.uk/category/enterprise/design-thinking/.
+[^9]: https://my.pblworks.org/
 
 <!-- Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects. -->
