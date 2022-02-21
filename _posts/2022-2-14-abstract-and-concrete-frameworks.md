@@ -145,9 +145,10 @@ Semantic profiles chart the use of more concrete (high semantic gravity) languag
 
 <!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
 
-![](./Pictures/semantic_waves.png)
+
 ![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
-Semantic Waves.
+<Concrete_Figure1.1.png>
+Figure 1.1 A Semantic Profile with Semantic Waves
 
 Research carried out by Curzon and colleagues [@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research suggests the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and reconnected with the abstract. Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density in line with more traditional teaching approaches. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the a research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity. Thus concrete activities and easily explainable real world examples can increase student engagement and can allow more hands on time for different approaches to coding and creating.
 
