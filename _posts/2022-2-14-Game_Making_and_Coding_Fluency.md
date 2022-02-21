@@ -91,8 +91,11 @@ The field of game making is extremely dynamic as new tools frequently emerge wit
 
 **Phaser.js in a Code Playground - an authentic web game making framework:** Phaser is a javascript game making library. It is my own tool of choice when it comes to game-making using text code.  To teach it I ask learners to code games a web coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. A key feature is the ability to make changes in code and quickly see the new results appear in the live game. The concept is particularly useful for novice coders. Many text-based code playgrounds exist online. I chose Glitch.com although the process also works well in Trinket which is promoted by Code Club resources. Using this kind of web playground is a particularly authentic choice of the tools. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can easily progress to creating genuine Indy Games, dynamic websites and flexible web applications.
 
-![phaser simple game to edit](./Pictures/phaser_simple.png)
+<!-- ![phaser simple game to edit](./Pictures/phaser_simple.png)
+ -->
+
 ![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
+<Figure1.1.png>
 Figure 1.1. Phaser in Glitch.com playground with code and game side by side. Screenshot by author.
 
 The drawback of this approach is the potential complexity of using real web technology. While it is possible to hide the elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy to use timeline of your project.
@@ -103,7 +106,9 @@ The drawback of this approach is the potential complexity of using real web tech
 **P5.play - an arts inspired coding environment:** P5.play is an add-on to the p5.js javascript framework. P5 is a fun javascript library that is quick to learn and get creative results. Sample projects often involve moving interactive, coloured shapes around and generating patterns. P5 project has become popular not only with artists and designers but increasingly with educators. This is partly due to the ability to use it in code playgrounds with all of the advantages previously discussed in the section Phaser and Glitch. While P5.play is limited to 2D games, it add some useful design patterns like animation support, basic collision detection and help for mouse and keyboard interactions and has some great accessible tutorials. See - https://molleindustria.github.io/p5.play/
 
 **MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
-![MakeCode](./Pictures/makecode.png)
+<!-- ![MakeCode](./Pictures/makecode.png) -->
+
+<Figure1.2.png>
 ![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
 Figure 1.2.  MakeCode Arcade with code and game side by side. Screenshot by author.
 
