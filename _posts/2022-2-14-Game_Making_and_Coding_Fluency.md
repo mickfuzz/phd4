@@ -16,6 +16,7 @@ https://orcid.org/0000-0002-8005-2390
 
 ## Abstract
 
+In this chapter I explore the potential of digital game making as a way of developing coding concepts and general coding fluency. This introduction contains a brief summary of research relating to game making as an inclusive educational practice. This followed by a summary of the motivations for game making in an educational context informed by a review of this topic by Kafai and Burke [-@kafai_constructionist_2015]. This chapter then explores key concepts in game making by identifying distinctive opportunities it offers. The final section addresses tactics to resolve common tensions when undertake educational game-making projects. To do this we examine an extended case study from my own research in the form of a pedagogical design called the 3M game making model.
 
 ## Introduction and Context
 
