@@ -124,7 +124,7 @@ My own research in game making is an experimental approach to create a new learn
 
 Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. The goal is to of increase user choice and give players more agency. To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience. The incremental missions of the my implementations of 3M model involve adding game features. This approach steers students towards developing the use of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
 
-**Side Missions:** Bartle proposed that online gamers play games for different reasons. You can find out what kind of game player you are with an online test.[^9] There are also different styles of game makers. Some like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step.  Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^8]  
+**Side Missions:** Bartle proposed that online gamers play games for different reasons. You can find out what kind of game player you are with an online test.[^9] There are also different styles of game makers. Some like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step.  Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^10]  
 
 **Game Design Patterns as Main Missions:** In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model (explored in another chapter). For my design I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. I developed tutorials to support students implement these patterns and grouped them to aid navigation of the resources. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress. In my research I found that providing a set of limited options but allowing student to choose their own pathway had a immediate positive effect on the motivation and general energy level of learners.
 
@@ -148,9 +148,9 @@ Your mission is to apply the following pattern to your game. There are supportin
 
 * **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore or to be able to jump up to a high platform.
 
-* **Coding Concepts involved:** Arrays[^9], Change Listener[^10]
+* **Coding Concepts involved:** Arrays[^11], Change Listener[^12]
 
-* **Links to other Computing Patterns:** Systems Dynamics[^11]
+* **Links to other Computing Patterns:** Systems Dynamics[^13]
 
 * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
 
@@ -239,7 +239,7 @@ In this chapter we have examined how game making fits an inclusive and project-b
 [^5]: https://molleindustria.github.io/p5.play/
 [^6]: https://arcade.makecode.com/
 [^7]: https://mickfuzz.github.io/makecode-platformer-101/
-[^13]: https://matthewbarr.co.uk/bartle/
+[^8]: https://matthewbarr.co.uk/bartle/
 [^8]: https://mickfuzz.github.io/makecode-platformer-101/missions
 [^9]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#arrays
 [^10]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#change-listener
