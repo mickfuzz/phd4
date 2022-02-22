@@ -244,9 +244,9 @@ In this chapter we have examined how game making fits an inclusive and project-b
 [^5]: https://molleindustria.github.io/p5.play/
 [^6]: https://arcade.makecode.com/
 [^7]: https://mickfuzz.github.io/makecode-platformer-101/
-[^8]: https://matthewbarr.co.uk/bartle/
-[^8]: https://mickfuzz.github.io/makecode-platformer-101/missions
-[^9]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#arrays
-[^10]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#change-listener
-[^11]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-dynamics
-[^12]: https://glitch-game-makers-manual.glitch.me/
+[^8]: https://glitch-game-makers-manual.glitch.me/
+[^9]: https://matthewbarr.co.uk/bartle/
+[^10]: https://mickfuzz.github.io/makecode-platformer-101/missions
+[^11]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#arrays
+[^12]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#change-listener
+[^13]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-dynamics
