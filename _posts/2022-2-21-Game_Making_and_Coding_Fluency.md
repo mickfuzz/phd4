@@ -79,6 +79,11 @@ https://www.edutopia.org/blog/authentic-project-based-learning-john-larmer
 HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
 
+### Key Concept - Coding  and Computational Fluency
+
+Resnick and Rusk [-@resnick_coding_2020] draw on literacy-for-all movements when using a concept of computational fluency to describe student's creative expression through coding projects. Fluency in coding can be compared to fluency in spoken languages where the focus is less on accuracy and complexity of language use compared to how unhalting and comfortable the speaker is.  
+
+
 ## An Overview of Game Coding Tools
 
 The field of game making is extremely dynamic as new tools frequently emerge with novel approaches and features. In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, in this section I only include tools that allow users to code the game directly.  
