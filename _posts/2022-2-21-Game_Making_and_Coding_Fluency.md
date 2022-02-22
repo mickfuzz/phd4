@@ -53,6 +53,8 @@ The concept of Funds of Knowledge emerged from research within US Latino communi
 
 Games may allow children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example take conditional coding constructs. If Pac-Man touches a ghost then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
 
+BEGIN BOX
+
 ### Checklist: Drawing on Home Cultures
 
 To allow students to bring their own home funds on knowledge into their work we can structure our sessions carefully. Even if students do not consider video game _playing_ to be of particular interested to them, that there are other ways for them to bring their interests into game making. To help this process, the following questions may be a useful check list.
@@ -60,6 +62,9 @@ To allow students to bring their own home funds on knowledge into their work we 
 - Are you letting students use their knowledge of game conventions to inform the planning and development of their game coding projects? How are you setting limits to make sure they stay within their technical capabilities?
 - If playing computer games is not part of their home interests, can students draw on other interests to make choices over the narrative, characters and aesthetics of their designs?
 - Have you planned ways for students to adopt playful and collaborative ways of working as a way to maximise learner engagement with game making?
+
+
+END BOX
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
