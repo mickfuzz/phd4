@@ -12,7 +12,7 @@ title: 3M Framework for Game Making
 
 ## Abstract
 
-More Here on Context -
+MORE ON CHALLENGE OF TEACHING CODING
 "The challenge to create tools and pedagogies to allow younger learners to start to engage with coding as a creative design practice is one which ... "
 
 In this chapter I outline a case study and model for game making designed with to align with project-based and inclusive pedagogies. I identify and describe design tensions emerging from the exploratory stages of my PhD study on families making games together.
@@ -50,7 +50,7 @@ Findings main parts
 
 
 
-### Context Background (Change from just UK but still include UK)
+### A & T Context Background (Change from just UK but still include UK)
 
 Research on the educational value of computer games can be divided into studies on playing games and those on making games. In the UK the influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed @livingstone_next_2011. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
