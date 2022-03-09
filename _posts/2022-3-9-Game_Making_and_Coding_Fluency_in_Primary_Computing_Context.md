@@ -6,25 +6,66 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
 layout: post
-categories: archive
-title: Game Making Projects in Practice
+categories: misc
+title: Game Making and Coding Fluecy in Practice
 ---
 
 Mick Chesterman
 
 https://orcid.org/0000-0002-8005-2390
 
-## Abstract
 
-In this chapter I explore the potential of digital game making as a way of developing coding concepts and general coding fluency. A summary of research relating to game making as an inclusive educational practice is followed by a summary of the motivations for game making in an educational context informed by a review of this topic by Kafai and Burke [-@kafai_constructionist_2015]. This chapter then explores key concepts in game making by identifying the distinctive opportunities it offers. The final section addresses tactics to resolve common tensions when undertaking educational game-making projects. To do this we examine an extended case study from my own research in the form of a pedagogical design called the 3M game making model.
 
-## Introduction and Context
+## 4 A&T -  Introduction and Context
+
+MORE ON CHALLENGE OF TEACHING CODING
+"The challenge to create tools and pedagogies to allow younger learners to start to engage with coding as a creative design practice is one which ... "
+
+In this chapter I outline a case study and model for game making designed with to align with project-based and inclusive pedagogies. I identify and describe design tensions emerging from the exploratory stages of my PhD study on families making games together.
+
+I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making and in primary school classroom, use of game making as a creative medium and the affordances and limits of game making particular tools.
+
+
+Summary of key points I want to make;
+- navigation
+- motivation
+- design patterns and authenticity.
+
+
+### Original -  Introduction and Context
 
 In this chapter I explore the potential of digital game making as a way of developing coding concepts and general coding fluency. This introduction contains a brief summary of research relating to game making as an inclusive educational practice. This followed by a summary of the motivations for game making in an educational context informed by a review of this topic by Kafai and Burke [-@kafai_constructionist_2015]. This chapter then explores key concepts in game making by identifying the distinctive opportunities it offers. In the final section I outline tactics to resolve common tensions when undertaking educational game-making projects. I do this using an extended case study from my own research in the form of a pedagogical design called the 3M game making model.
 
 The Next Gen report [@livingstone2010next] was influential in the introduction of a new Computing curriculum in the UK. It addressed providing the UK games and animation industry with the talent needed to succeed. The report recommended the well supported use of games and visual animation in the school curriculum as a way to attract at greater diversity of young people to the subject. The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several area of promise which needed more research, namely; using games for engagement, use of game patterns and involvement of girls in coding and social and cultural aspects of coding. The After the Reboot report also had concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Given this concern it is important that as educators we explore promising tactics for inclusion including the use of games and game making. Game making aligns well with the principles of inclusive practices and project-based learning (PBL) namely: that more learner choice in projects increases motivation, authentic and shareable project outcomes encourage peer feedback and reflection project iterative support and a mastery approach, supporting challenging goals encouraging self regulation and structured guidance for goal setting.
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there is a disparity between genders, game playing is still extremely common. You are unlikely to be part of a household where no games are played. Thus, even if not all young people play games they are extremely likely have knowledge of the conventions and culture of video games. This allows educators to draw on these interests and experiences. Research on the exclusion from the culture of computing highlights the value of  use of games and playful techniques to build connections to home interests and experiences [@kafai_diversifying_2017; @kafai_beyond_2014].
+
+
+
+### A & T Context Background (Change from just UK but still include UK)
+
+INCLUDE MORE ON THE LIMITATIONS IN A UK TEACHING CONTEXT? FROM THE ANOTHER CHAPTER ON PROJECT WORK?
+
+<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
+
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
+
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+BUT NOT TOO MUCH
+
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
+
+
+Research on the educational value of computer games can be divided into studies on playing games and those on making games. In the UK the influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed @livingstone_next_2011. The three top recommendations school level were to include computer science in core curriculum, introduce a new computing GCSE, bursaries for computing teachers and extensive and well supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
+
+On a global scale there have been many developments in software and programs researching game making.
+
+- Constructionist researchers and programs.
+- Value of Scratch for game making and associated research.
+-  middle ground of commercial games which have a creative element to it.
+
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which still deserve additional research. New software tools to make games emerge regularly which offer new pedagogical possibilities. Game playing practices also continue to evolve. For example, casual games played by both adults and children continue to become increasingly available via smart phones and home consoles. The cultural impact of nostalgic retro games which are played by young people and families is also significant. The aesthetics of cuteness and nostalgia around retro games creates a potential for connection between younger and older players and a possible entry point for more casual game players in to game making cultures. The reduced complexity of retro themed games also reduces technical barriers for enthusiasts to create games either for the Indy Game market or for free distribution via games enthusiast websites like itch.io [@garda_nostalgia_2013].  
+
 
 ## Motivations for Game Making in Education
 
@@ -37,6 +78,10 @@ The following section outlines the benefits and motivations of game making in ed
 **Developing Social and 21st Century Skills:** The term 21st Century Skills is used quite flexibly in educational research but there is broad understanding that they cover skills like social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. These skill suit being developed via collaborative game making. More tightly focused research on game making and collaboration is needed but the potential to develop such skills is exciting. One Study by Baytak [-@baytak_case_2010] focused on the potential of making games to create a collaborative classroom community. Learners are often keen to share their games for others to play and to play those of others. This motivation can be leveraged to provide detailed feedback.
 
 **Games to explore systems and systems thinking:** As the economic and environmental systems around us become more complex, it is vital that we teach young people how to analyse and alter them. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social issues. Such issues often involve a systems-based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex and environmental and social issues [@tekinbas_quest_2010].  The Games for Change network run an international game making challenge for young people and support for teachers to implement it. This challenge provides well planned supporting resources for both teachers and students[^1].  Quest to Learn, a New York high school which partners with an academic group the Institute of Play, has incorporated game design into its curriculum as a way to promote learning about systems. This partnership has produced resources aimed at supporting systems thinking through game making which are extremely informative for teachers looking to work in this area.[^2]
+
+ALTERNATIVE
+COMPRESSED BUT INSERT MORE REFERENCES?
+This section is a brief summary of some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues.
 
 
 <!-- One of the recommended strategies is a Game Jam which focuses on real life issues.

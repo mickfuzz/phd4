@@ -6,13 +6,19 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
 layout: post
-categories: misc
+categories: archive
 title: 3M Framework for Game Making
 ---
 
+## Abstract
+
+More Here on Context -
+"The challenge to create tools and pedagogies to allow younger learners to start to engage with coding as a creative design practice is one which ... "
+
 In this chapter I outline a case study and model for game making designed with to align with project-based and inclusive pedagogies. I identify and describe design tensions emerging from the exploratory stages of my PhD study on families making games together.
 
-I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making, use of game making as a creative medium and the affordances and limits of game making particular tools.
+I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making and in primary school classroom, use of game making as a creative medium and the affordances and limits of game making particular tools.
+
 
 Summary of key points I want to make;
 - navigation
