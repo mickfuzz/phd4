@@ -57,8 +57,6 @@ In the UK the influential report "Next Gen: Transforming the UK into the worldâ€
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there is a disparity between genders, game playing is still extremely common. You are unlikely to be part of a household where no games are played. Thus, even if not all young people play games they are extremely likely have knowledge of the conventions and culture of video games. This allows educators to draw on these interests and experiences. Research on the exclusion from the culture of computing highlights the value of  use of games and playful techniques to build connections to home interests and experiences [@kafai_diversifying_2017; @kafai_beyond_2014].
 
-
-
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
 
 A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
@@ -303,17 +301,18 @@ The final M of the 3M framework stands for motivational methods. There are many 
 
 ## Supporting Resources
 
-This section contains links and descriptions of supporting resources that illustrate and research model.
+This section contains links and descriptions of supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
 
-### MakeCode Arcade Resources
+**MakeCode Arcade Resources**
 
-THIS SECTIONS NEEDS FLESHING OUT.
+* Learners start with a broken game to fix and printable cards offering quick changes to core design patterns. http://tiny.cc/mc-quick-start-cards
+* An interactive grid of all design patterns to add  - https://mca-platformer-examples.glitch.me/
+* Printable online documents which describe game design patterns detail how to implement them. https://mickfuzz.github.io/makecode-platformer-101/gamePatterns  
+* A map of learning dimensions learners are likely to encounter when making games. These are grouped as coding concepts, systems patterns and design practices. http://tiny.cc/mc-platformer-tutorial
+* To suit learners that like a methodical approach, a step by step tutorial explaining how to build game code from first principles is available.
+* A five week course adaptable by teachers contains some of the motivational  - https://mickfuzz.github.io/makecode-platformer-101/groupCourse
+* All of the resources above are available as part of this repository - https://mickfuzz.github.io/makecode-platformer-101
 
-The following resources are available and freely adaptable under a creative commons BY-SA licence.
-
-* An overview of resources - https://mickfuzz.github.io/makecode-platformer-101
-* An interactive starting template and patterns to add is here - https://mca-platformer-examples.glitch.me/
-* A five week course adaptable by teachers - https://mickfuzz.github.io/makecode-platformer-101/groupCourse
 
 ### Phaser and Glitch.com Resources
 Similar resources exist for text based coding in Phaser. These include:
