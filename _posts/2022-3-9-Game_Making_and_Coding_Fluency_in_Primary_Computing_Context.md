@@ -313,7 +313,6 @@ This section contains links and descriptions of supporting resources that have e
 * A five week course adaptable by teachers contains some of the motivational  - https://mickfuzz.github.io/makecode-platformer-101/groupCourse
 * All of the resources above are available as part of this repository - https://mickfuzz.github.io/makecode-platformer-101
 
-
 ### Phaser and Glitch.com Resources
 Similar resources exist for text based coding in Phaser. These include:
 
