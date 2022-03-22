@@ -17,18 +17,22 @@ https://orcid.org/0000-0002-8005-2390
 
 ### Intro and contents
 
-STILL IN DRAFT FORM
+In this chapter I explore the potential of digital game making as an inclusive way of developing coding concepts and coding fluency in the later stages of Primary Education. I share early results from an exploratory study I have carried out to develop a new game making pedagogy.
 
-In this chapter I explore the potential of digital game making as an inclusive way of developing coding concepts and general coding fluency in the later stages of Primary Education.
+Key areas of the potential of digital game making are explored in depth in a review by Kafia and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society.  Games making involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues [@tekinbas_quest_2010].
 
-This chapter contains (CHANGE THIS LATER TO PROSE not bullet points):
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which still deserve additional research. New software tools to make games emerge regularly which offer new pedagogical possibilities. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual games played by both adults and children continue to become increasingly available via smart phones and home consoles. The cultural impact of nostalgic retro games which are played by young people and families is also significant. The aesthetics of cuteness and nostalgia around such games creates a potential for connection between younger and older players and thus a possible entry point for more casual game players into game making cultures. The reduced complexity of retro themed games also reduces technical barriers for enthusiasts to create games either for the Indy Game market or for free distribution via amateur games publishing websites like itch.io [@garda_nostalgia_2013]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
+
+This chapter begins with a short summary of the UK context of coding and inclusion. This is followed by a section on the characteristics as project and in particular game making as an inclusive teaching approach. I then describe two game making tools used in my study before outlining the process of the development of the study and learning design as a design process in partnership with participants. I end with an overview of what I provisionally call the 3M game making learning design and link to the resulting resources for practitioners.
+
+<!-- This chapter contains (CHANGE THIS LATER TO PROSE not bullet points):
 - a summary of UK context of coding and inclusion
 - a brief summary of research relating to game making as an educational practice
 - a section on alignment of PBL, UDL and game making
 - two game making tools used in my Study
 - research vignette  - evolution of research design
 - Overview of The 3M Game Making Learning Design
-- Summary of Supporting Resources
+- Summary of Supporting Resources -->
 
 <!-- Later I outline tactics to resolve common tensions when undertaking educational game-making projects. I do this using an extended case study from my own research in the form of a pedagogical design called the 3M game making model.
 
@@ -57,32 +61,18 @@ In the UK the influential report "Next Gen: Transforming the UK into the worldâ€
 
 Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there is a disparity between genders, game playing is still extremely common. You are unlikely to be part of a household where no games are played. Thus, even if not all young people play games they are extremely likely have knowledge of the conventions and culture of video games. This allows educators to draw on these interests and experiences. Research on the exclusion from the culture of computing highlights the value of  use of games and playful techniques to build connections to home interests and experiences [@kafai_diversifying_2017; @kafai_beyond_2014].
 
+A key grassroots group addressing issues of inclusion in UK computing it CAS include which is a working group of teachers and researchers in the field. https://www.casinclude.org/ The Cas Include website include resources created by the network and they have held regular in-person and online events. They promote an inclusive approach to programming by creating projects and using examples which are "real world and culturally relevant".https://www.casinclude.org/inclusive-resources/programming  The following section examines the intersection of inclusion, a project approach and game making.
+
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
-
 A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-
 MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
 BUT NOT TOO MUCH
-
 While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
-
-Some of the key areas of potential for learners an area explored in depth in a review by Kafia and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ common subjects include maths, biology and chemistry but diverse examples exist. The potential benefits of collaborative game making align closely with a concept called _21st Century Skills_ which include social skills, self reflection, cultural awareness and a range of technical abilities that allow participation in information society [-@baytak_case_2010]. An area that merits particular attention is that that of Games to explore systems and systems thinking. Games are in essence rule-based systems. _Games for change_ is a concept that invites game makers to make games to explore social and environmental issues. Such issues often involve a systems based understanding of then world, and as games are themselves interactive systems themselves, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues [@tekinbas_quest_2010].
-
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which still deserve additional research. New software tools to make games emerge regularly which offer new pedagogical possibilities. Game playing practices also continue to evolve. For example, casual games played by both adults and children continue to become increasingly available via smart phones and home consoles. The cultural impact of nostalgic retro games which are played by young people and families is also significant. The aesthetics of cuteness and nostalgia around retro games creates a potential for connection between younger and older players and a possible entry point for more casual game players in to game making cultures. The reduced complexity of retro themed games also reduces technical barriers for enthusiasts to create games either for the Indy Game market or for free distribution via games enthusiast websites like itch.io [@garda_nostalgia_2013].  
-
-A SUMMARY HERE AND LINK TO NEXT SECTION - POINT TOWARDS GAPS IN RESEARCH
-
 <!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
 
 ## Game Making, Project Based Learning and Inclusion
-
-IS THIS NEEDED - WORK ON OTHER STUFF FIRST - FOCUS ON MOTIVATION INSTEAD AND EXPLORE PBL AND INCLUSION IN RELATION TO THAT?
-
-Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014].
-
-<!-- REVISE TO INCLUDE ROQUE? MORE SPECIFIC?  -->
 
 Contemporary understandings of inclusion go beyond SEN issues to include cultural exclusion. If students feel excluded from the school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects.
 
@@ -90,6 +80,9 @@ The inclusive possibilities of design and project-focused computing  include; mo
 
 FIND SUPPORT IN THE RESEARCH HERE - DEVELOP IN MORE DETAIL?
 PERHAPS LINK TO UDL AS A FRAMEWORK ?
+
+
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014].
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
@@ -105,7 +98,7 @@ ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
 FIND A PLACE FOR THE CHALLENGES???
 There are significant challenges to adopting project-based approaches in the UK schooling context that are likely to be share with other traditional schooling context. Specifically, lack of time for sustained an iterative project approaches, and teachers who lack experience with in delivery project-based approaches especially where student choice is involved and the complexities this brings to supporting learners in that context. -->
 
-Certain characteristics of game making as an educational activity align well with inclusive and project-based approaches. Here are three examples.
+Certain characteristics of game making as an educational activity align well with inclusive and project-based approaches and can help guide project design. Here are three examples.
 
 **Family Game Experience as an inclusive Fund of Knowledge**
 
@@ -113,15 +106,11 @@ The concept of Funds of Knowledge emerged from research within US Latino communi
 
 Games may allow children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example take conditional coding constructs. If Pac-Man touches a ghost then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
 
-
-<!-- **Drawing on Home Cultures**
-
 To allow students to bring their own home funds on knowledge into their work we can structure our sessions carefully. Even if students do not consider video game _playing_ to be of particular interested to them, that there are other ways for them to bring their interests into game making. To help this process, the following questions may be a useful check list.
 
 - Are you letting students use their knowledge of game conventions to inform the planning and development of their game coding projects? How are you setting limits to make sure they stay within their technical capabilities?
 - If playing computer games is not part of their home interests, can students draw on other interests to make choices over the narrative, characters and aesthetics of their designs?
-- Have you planned ways for students to adopt playful and collaborative ways of working as a way to maximise learner engagement with game making? -->
-
+- Have you planned ways for students to adopt playful and collaborative ways of working as a way to maximise learner engagement with game making?
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
@@ -147,9 +136,7 @@ Resnick and Rusk [-@resnick_coding_2020] draw on literacy-for-all movements when
 
 ## An Overview of Game Coding Tools
 
-The field of game making is extremely dynamic as new tools frequently emerge with novel approaches and features. In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, my study addressed tools that allow users to code the game directly.  
-
-After research two tools emerged as significant based on the opportunities provided. These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
+The field of game making is extremely dynamic as new tools frequently emerge with novel approaches and features. In this section I outline the key features of selected game making tools. Some game making tools for beginners, for example Kodu or the Game Maker series, use a Graphical User Interface (GUI) to abstract away the detail of the underlying code complexity. While those may be useful to learn game design without coding, my study addressed tools that allow users to code the game directly. For my study the characteristics of two tools provided key benefits that supported . These were MakeCode Arcade a specialised block based programming and Phaser.js an authentic web game making framework used in a browser-based programming environment (code playground)
 
 
 **Phaser.js in a Code Playground - an authentic web game making framework:** Phaser is a javascript game making library. It is my own tool of choice when it comes to game-making using text code.  To teach it I ask learners to code games a web coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. A key feature is the ability to make changes in code and quickly see the new results appear in the live game. The concept is particularly useful for novice coders. Many text-based code playgrounds exist online. I chose Glitch.com although the process also works well in Trinket which is promoted by Code Club resources. Using this kind of web playground is a particularly authentic choice of tool. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can easily progress to creating genuine Indy Games, dynamic websites and flexible web applications.
@@ -311,14 +298,15 @@ This section contains links and descriptions of supporting resources that have e
 * A map of learning dimensions learners are likely to encounter when making games. These are grouped as coding concepts, systems patterns and design practices. http://tiny.cc/mc-platformer-tutorial
 * To suit learners that like a methodical approach, a step by step tutorial explaining how to build game code from first principles is available.
 * A five week course adaptable by teachers contains some of the motivational  - https://mickfuzz.github.io/makecode-platformer-101/groupCourse
-* All of the resources above are available as part of this repository - https://mickfuzz.github.io/makecode-platformer-101
+
+All of the resources above are available and can be contributed to as part of a collaborative online documentation repository. https://mickfuzz.github.io/makecode-platformer-101
 
 ### Phaser and Glitch.com Resources
-Similar resources exist for text based coding in Phaser. These include:
 
-* A splash page for those Phaser / Glitch resources is here - https://glitch-game-makers-manual.glitch.me/
-* An interactive starting template and patterns to add is here - https://ggc-examples.glitch.me/
+Similar resources exist for text based coding in Phaser. While targeted at users of the glitch code playground. The resources include:
 
+* A splash page for Phaser / Glitch resources. This contains links to print outs, tutorials and activities.  https://glitch-game-makers-manual.glitch.me/
+* An interactive starting template and grid of game design patterns. https://ggc-examples.glitch.me/
 
 ## Conclusion
 
