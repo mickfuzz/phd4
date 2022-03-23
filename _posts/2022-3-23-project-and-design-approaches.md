@@ -315,11 +315,9 @@ Learners are given a challenge to fix and customise a broken and incomplete game
 
 Learner choice and voice is present as participants are given a wider range of different game design patterns that they can add to their game. Adding game design patterns creates an iterative and scaffolded approach to adding new code structures. Resources that help students chart their own progress are also provided in the form of a concepts map and extra missions and motivational methods.  
 
-Regular play testing helps students to imagine their audience, hone the game to maximise playability. This process helps the learners stay motivated and focused.
+Creating a game to share with their peers and friends in the classroom or online is a simple and tangible way to bring authenticity to the project. Regular play testing helps students to imagine their audience, hone the game to maximise playability. This process helps the learners stay motivated and focused. Physical computing can also be brought into game making projects if participants can build their own arcade machines using authentic arcade buttons and joysticks and simple electronics.
 
-In the six iterations of this design process I have observed how learners are ....
-
-This approach is called the 3M game making model and full details and resources are available online. https://network23.org/3m-gamemaking  
+I have brought these techniques together to great an approach is called the 3M game making model. Full details and online and printable resources are freely available.[^13]  
 
 END BOX
 
@@ -350,4 +348,5 @@ We have explored the tension between creative processes involving learner choice
 [^10]: https://www.edutopia.org/project-based-learning
 [^11]: https://my.pblworks.org/
 [^12]: https://www.edge.co.uk/edge-future-learning/project-based-learning/
+[^13]: https://network23.org/3m-gamemaking
 <!-- Let's also look for other community-building opportunities like Cooler Project and perhaps build new regional ways of allowing our learners to share and showcase the fruits of their projects. -->
