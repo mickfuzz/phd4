@@ -98,6 +98,13 @@ Iterative design involves repeatedly coming back to reflect on the initial outco
 <!-- Tools too - Design processes need appropriate tools  -->
 <!-- There are many languages and interfaces which have been created with similar principles, Agent Sheets, Alice and various implementations MakeCode to support physical computing and game making etc. -->
 
+Researchers involved in the Scratch project at MIT illustrate an approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity. See http://tiny.cc/creativespiral.
+
+![creative spiral]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+
+<Figure8.1.jpg>
+Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
+
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners.[^4] One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process. The above principles embody key elements of inclusive practices contained in Universal Design for Learning (UDL) including: allowing students to demonstrate their knowledge in a multitude of ways and of allowing students to follow their own interests and motivations [@capp_effectiveness_2017].
 
 
