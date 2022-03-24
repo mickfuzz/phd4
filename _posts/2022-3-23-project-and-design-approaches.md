@@ -304,23 +304,17 @@ If you draw on experts, staff or community members they do not need to be there 
 END BOX
 
 
-
 BEGIN BOX
 
 ### Case Study - Game Making as a motivational and authentic computing project
 
-My own studies are in game making. This section gives a short summary of a game making program that I have developed which is an example of an inclusive approaches using projects. My approach has evolved through a design-based approach where I have responded to the needs and input of learners. I worked with a local primary school Year 6 class and a group of home-educated families.
+My own studies are in game making. This section gives a short summary of a game making program that I have developed which is an example of an inclusive approaches using projects. My approach has evolved through a design-based approach where I have responded to the needs and input of learners. I worked with a local primary school Year 6 class and a group of home-educated families. The results are a good illustration of project based approach in practice. Learners are given a challenge to fix and customise a broken and incomplete game. The process of starting with a template in in line with the Use-Modify-Create model and was developed in response to time delays and confusion over technical possibilities that happened when learner were given free range in their choices.
 
-Learners are given a challenge to fix and customise a broken and incomplete game. The process of starting with a template in in line with the Use-Modify-Create model and was developed in response to time delays and confusion over technical possibilities that happened when learner were given free range in their choices.
-
-Learner choice and voice is present as participants are given a wider range of different game design patterns that they can add to their game. Adding game design patterns creates an iterative and scaffolded approach to adding new code structures. Resources that help students chart their own progress are also provided in the form of a concepts map and extra missions and motivational methods.  
-
-Creating a game to share with their peers and friends in the classroom or online is a simple and tangible way to bring authenticity to the project. Regular play testing helps students to imagine their audience, hone the game to maximise playability. This process helps the learners stay motivated and focused. Physical computing can also be brought into game making projects if participants can build their own arcade machines using authentic arcade buttons and joysticks and simple electronics.
+Learner choice and voice is present as participants are given a wider range of different game design patterns that they can add to their game. Adding game design patterns creates an iterative and scaffolded approach to adding new code structures. Resources that help students chart their own progress are also provided in the form of a concepts map and extra missions and motivational methods. Creating a game to share with their peers and friends in the classroom or online is a simple and tangible way to bring authenticity to the project. Regular play testing helps students to imagine their audience, hone the game to maximise playability. This process helps the learners stay motivated and focused. Physical computing can also be brought into game making projects if participants can build their own arcade machines using authentic arcade buttons and joysticks and simple electronics.
 
 I have brought these techniques together to great an approach is called the 3M game making model. Full details and online and printable resources are freely available.[^13]  
 
 END BOX
-
 
 ## Conclusion
 
@@ -333,7 +327,7 @@ jointing the dots
 missing sections on Inclusion
  -->
 
-We have explored the tension between creative processes involving learner choice and teaching to the more prescriptive requirements of the computing curriculum. To help bridge this gap the NCCE have created resources drawing on socio-cultural research to offer guidance on PBL, observation and pair programming. As teachers seeking to close an achievement gap between the higher and lower achieving students, we have a responsibility to integrate such methods and evaluate their potential for our learners. I hope that this chapter has encouraged you to keep exploring authentic coding practices in the classroom and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. In particular, there is a twitter hashtag of #casinclude which encourages computing teachers to share inclusive practice. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work.
+We have explored the tension between creative processes involving learner choice and teaching to the more prescriptive requirements of the computing curriculum. To help bridge this gap the NCCE have created resources drawing on socio-cultural research to offer guidance on PBL, observation and pair programming. As teachers seeking to close an achievement gap between the higher and lower achieving students, we have a responsibility to integrate such methods and evaluate their potential for our learners. Sharing case studies of inclusive project approaches is one way to do this. I hope that this chapter has encouraged you to keep exploring authentic coding practices in the classroom and to share your experiences with others. To continue this journey there are many forums where teachers share practice; these include CAS forums, blogs, twitter posts and so on. In particular, there is a twitter hashtag of #casinclude which encourages computing teachers to share inclusive practice. To fully explore the potential of projects let's share and encourage others to share how we have used design and PBL approaches in our work.
 
 
 [^1]: https://coderdojo.com/
