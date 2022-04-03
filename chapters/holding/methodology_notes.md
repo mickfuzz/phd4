@@ -1,17 +1,9 @@
-
-the following edited down from -
-
-chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md
-
-
 # Methodology & Theoretical Framework Chapter
 
-
-Introductory Note: Chapter Contents
+the following edited down from -
+chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md
 
 This also  chapter contains material from -- a start of an "emerging results 2020 chapter" -- reformatted to highlight and distinguish between theoretical framework and the methodology elements.
-
-Lots of work to do - may be best to start from scratch in a word doc - edit out graphics and reformat.
 
 ## Overview of structure
 
@@ -32,13 +24,18 @@ Lots of work to do - may be best to start from scratch in a word doc - edit out 
 
 
 ### Stages of Design
+
+Not sure how much detail to go into here.
+
 Phase one -
+Phase two -
 
 
-## Notes on Lit Review -
-### Game making studies -- Kafai, dimensions of learning,
+### Issues Emerging from Evolution of Design
+More detailed analysis - thoughts on validity of data
 
-Introduction to social turn, context and interventions
+
+## Introduction to social turn, context and interventions
 
 As explored in the intro and lit review there are particular limitations in the kind of empirical research that characterises many studies involving game making. Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment.
 
@@ -47,26 +44,13 @@ This focus on the environment and context is in line with social and cultural li
 For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts
 
 As we have seen in the literature review on game making, context plays out in the way
-
-Notes in colour   
+ that xy, and z.
 
 Barab and Squire [@barab_design-based_2004]
 
-## Overall purpose and why choose AT as a Framework
 
-The purpose is to create a useful pedagogy through research with test audiences.
-Also to create language for practitioners - where practices are embedded and not in existing research.
 
-### Why AT?
-
--   AT used in design of constructivist environments before (Jonassen and Rohrer-Murphy, 1999)
--   Tradition of Expansion and Formative Interventions
-
-## AT and interpreting / coding the Data (Methods)
-
-Deciding what data to collect
-
-The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically Activity Theory (AT) as analytical framework. This section explores complementary methodologies of value before outlining key characteristics of AT which make it an attractive candidate for this study.
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically design-based research. This section explores complementary methodologies of value before outlining key characteristics of design-based research which make it an attractive candidate for this study.
 
 ## Why a social focus rather than Piaget's constructivism
 
@@ -75,13 +59,20 @@ Cobb -@cobb_where_1994 identifies two broad schools of constructivism, one focus
 
 While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold Kafai and Burke, 2015). Kafai and Burke draw on the conceptions of Rogoff 1993) of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework.
 
-As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments. While other suitable methodological approaches exist including participatory design Muller, 2007), ethnography and guided participation, Rogoff et al., 1993), communities of practice Lave and Wenger, 1991), mutual appropriation and design experiments Engeström, 2011; Nicolopoulou and Cole, 2009), I have chosen Activity Theory (AT) for this study. The following section will justify this choice and give a necessarily brief summary of key components of Engestrom's presentation AT 1999).
+As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments. While other suitable methodological approaches exist including participatory design Muller, 2007), ethnography and guided participation, Rogoff et al., 1993), communities of practice Lave and Wenger, 1991), Activity Theory
+, I have chosen
 
-The foundational unit of analysis of AT is an activity system made up of -- painted in broad brushstrokes -- participants, their goals, the tools they use, their peers, ways they interact and the norms of this community. The ability to identify and compare interacting activity systems of varying size is vital to capture to the complex design and holistic approach of my game making programme. It will allow me to shift between various perspectives including; an individual focus, family focus and a wider group focus.
 
-The status of AT as a static, consistent set of methods is contested not only by critics who point to fragmented applications Bakhurst, 2009), but also by proponents who highlight the evolving nature of the AT as an important and desirable inherent characteristic Engeström, 1999; Somekh and Nissen, 2011). Expansive learning as an application of AT is of particular use to my study Engeström, 2001). Here, Engeström highlights issues of interaction with tools and the processes of development of a learning community over time. We can contrast expansive learning with design-based research Engeström, 2011; Sannino et al., 2016). While both note the value of iteration in experimental design, an expansive approach notes a mutual influence on the evolution of the experimental design from both researchers and participants. As I will explore later, my study has proved to be suitable to an iterative and evolving and mutual approach. There is however a relatively limited scope for large shifts of culture do to the relatively short exposure times and length of participant involvement. A more typical focus for expansive learning is the workplace, where interactions are daily and practices emerge over through continued repetition over months and years. However, I can justify its use here due to relatively high degree of authenticity of tasks and the new resources and practices which will emerge. Indeed Engeström himself applies it to the development of projects in school-based settings 2009).
 
-AT and expansive learning are suitable to explore the kind of shifting goals and outcomes -- and resultant interplay with community norms -- that a design focused on learner choice will engender. For my study, I am particularly interested in way larger goals and smaller objectives of individuals and the families involved may change in terms of roles and identifies adopted as a community of learners emerges. In alignment with sociocultural approaches, AT allows the recognition of my own active involvement with the process. It will allow me to explore my own shifting and multiple objectives as a researcher, facilitator and participant in the community of game makers.
+
+## Design Base Research -
+
+My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992]. Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
+
+Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.
+
+Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
 
 ## Data Gathering and Analysis
 
