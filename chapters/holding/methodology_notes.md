@@ -84,16 +84,15 @@ Turning attention to the gathering and analysis of other data, such a rich set o
 
 ## Summary of Development of Programme
 
-NOTE TO EDIT LATER -- before embarking on phases
 
-I have carried out six phases of pilot workshops with home educator families. I will outline the core activities that have taken place including only the most basic detail on tools used. In following sections, the development of toolsets are analysed in greater depth. The core of the game making programme, which emerged in the first phase and has remained, is a starting template of a simple platform game which participants alter to make their own. The evolution of different versions and locations of this starting template has proven to be a key marker of the progress of the programme. The timeline of phases of activities is outlined in the following table.
+<!-- I have carried out six phases of pilot workshops with home educator families. I will outline the core activities that have taken place including only the most basic detail on tools used. In following sections, the development of toolsets are analysed in greater depth. The core of the game making programme, which emerged in the first phase and has remained, is a starting template of a simple platform game which participants alter to make their own. The evolution of different versions and locations of this starting template has proven to be a key marker of the progress of the programme. The timeline of phases of activities is outlined in the following table.
 
  Phase   Date                       
  Game Template / Making Tool                                                                                           Type of Data Gathering
 
   1       Oct 2017-Mar 2018          At start - No template to start\                                                                                                                                                                                                                                                                                                                           Journal notes on design, informal participant evaluation                                      At end - [Th](https://codepen.io/mrmick/pen/dZwKZd)[is](https://codepen.io/mrmick/pen/dZwKZd)[ ](https://codepen.io/mrmick/pen/dZwKZd)[P](https://codepen.io/mrmick/pen/dZwKZd)[haser ](https://codepen.io/mrmick/pen/dZwKZd)[tutorial](https://codepen.io/mrmick/pen/dZwKZd)[ template.](https://codepen.io/mrmick/pen/dZwKZd) (in Thimble.mozilla.org)   
 
-  2       Summer 2018                Simple Game to Edit v.1 ([Code Pen](https://codepen.io/mrmick/pen/wXMMXR))                                                                                                                                                                                                                                                                                 Journal notes on design
+  2       Summer 2018                Simple Game to Edit v.1 ([Code Pen](https://codepen.io/mrmick/pen/wXMMXR))                                                                                                                                                                                                  -----------------------                                                                                Journal notes on design
 
   3       Jan-March 2019             Simple Game to Edit v. 2 ([Glitch.com](https://glitch.com/edit/#!/simple-game-to-edit?path=js/game.js:1:0))                                                                                                                                              Extensive journal notes on participation and evolving design, some screen capture data, participant interviews, one session 360 camera
 
@@ -105,20 +104,46 @@ I have carried out six phases of pilot workshops with home educator families. I 
   Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                            Journal notes on participation, extensive screen capture data, participant interviews, all sessions 360 camera
 
   6       Jan-March 2020             
-  Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                                 Journal notes on participation, partial screen capture data,   
+  Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                               -->
 
-\ In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
 
-![\ Illustration 1: Screenshot of the code editing interface and resulting game output at glitch.com](./Pictures/1000000000000416000001B2C7C3D9D3F5E2D79E.png "fig:"){width="17cm" height="7.054cm"}\ The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
+#### Journal notes on participation, partial screen capture data,   
 
-![ Illustration 2: Make Code Layout](./Pictures/100002010000050E00000299831EEECB4E6CECA2.png "fig:"){width="17cm" height="8.737cm"} -----------------------------------------------------------------------------------------------------------------------------------
+In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
 
-[]{#anchor-3}**Outline of Concepts** -------------------------------------
+ The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
+
+ My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
+
+ I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies (Derry et al., 2010). I will use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns (Mercer et al., 2004). While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) (Sinclair and Coulthard, 1975), the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach (Lyle, 1993; Phillips, 1985), and specifically those from project focused studies (Hmelo-Silver and Barrows, 2008; Moje et al., 2001), may be of greater use to allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
+
+ <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
+
+ My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
+
+ <!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
+
+ While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I will prioritise critical moments in depth which illuminate key themes.
+
+ <!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
+
+### Description of Phases
+
+I have carried out three stages of pilot workshops with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
+
+The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted an open project based approach which integrated drama games to aid group bonding and reflection. I chose a tool set which drew on relevant design principles explored earlier (Resnick and Rosenbaum, 2013). The tools allow participants to create games using a combination of a free to use online tools. They comprise a coding environment using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone). One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
+
+In terms of supporting resources, stage one was exploratory and responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed. At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+
+The second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as book chapters, and code examples as online projects illustrating key additions to the game. I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019). I also carried out four video-recorded interviews with practioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries.
+
+In the third iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department (Patterson et al., 2019) to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens. I also began the data gathering process. I recorded all interactions via use of 360 camera and screen capture of workstations and undertook post-course interviews with participants. Work on analysis of this data is contained in early results section below.
+
+### Outline of Concepts
 
 At times this writing uses understandings and terms explored in the RD2 or that would be included in the literature review or methodology chapters of my thesis without detailed explanation.
 
-
-Diversity in Participant Motivations
+#### Diversity in Participant Motivations
 
 This representation of different sized systems as units of analysis allows for comparison of the different activity outcomes. At times the motivations may be shared between participants, at times in conflict. Interviews with participants showed overlaps and divergence between young people's motivations (to have fun, work with others together, 'learn how to make hard games,' create art), those of parents (create opportunities to learn coding and gain digital skills, 'understand my child's world of games', build collaboration and teamwork skills) and those of the facilitators (create opportunities for collaborative problem solving and media creation between participants, build meta-cognition of participants and roles as peer supporters). My role as facilitator was in part to try to resolve issues including conflicts in motivations, tensions in achieving goals, creating learning conditions which suited the operationalising of processing involved in coding processes Leont'ev, 1978).
 
@@ -131,6 +156,7 @@ These include:
 -   Diversity around family attitudes to game making: These tensions came became clear in informal chats with parents, post-session interviews and parent child dialogue. Some parents were hostile to computer games, others neutral but felt excluded from child's use, some more open but keen to direct children to making games to deepen learning.
 -   Context of home education styles: Home education is traditionally more exploratory and project based rather than curriculum driven.
 -   Attitudes to technology: Cultural resistance to computer coding or technical use of computers beyond browsing Wong, 2016) was particularly visible in parents but also present in some children.
+
 -   Tension related to wider computing context: A goal of this programme is in part to support the wider needs of computing teaching and to research innovative practices within curriculum constraints . At times, in this informal family environment media literacy and digital fluency emerged as a focus much more than computational thinking, game design or coding competency. My desire to pull learning dimensions back towards more formal parameters to widen the potential scope of research should be acknowledged.
 
 
@@ -157,7 +183,7 @@ A possible emerging concept which may at act as a germ cell is use of game patte
 
 An example from the game template that I created would be the process of creating an abstract representation of a game background and elements which is then translated by code allowing different outputs, a process clearly linked to the the builder design pattern da Cruz Silva et al., 2019). This process is replicated both in my original Phaser game template and in the MakeCode system using a tilemap system. Tilemaps have become a common way to save resources and accelerate layout design in modern game making MDN Web Docs, n.d.).
 
-Design Patterns and Computational Patterns
+### Design Patterns and Computational Patterns
 
 The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
 
@@ -169,7 +195,7 @@ It is the familiarity and understandability which which drew the SCG researchers
 
 The authors give examples such as *generation* and *absorbtion* in predator / prey relationships, *transportation *of oxygen by red blood cells and mosquitoes *hill climbing* (seeking the highest value) of human scent. The focus on transfer to science simulations concepts explains the increased distancing of language from both the mechanics of computational concepts (e.g. loops, lists, logic and variables) and those of game design pattern as explored in game design literature Bjork and Holopainen, 2005; Schell, 2008).
 
-Selecting and organising Game Patterns to support emerging Learning Design
+### Selecting and organising Game Patterns to support emerging Learning Design
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. While my emergent model is similar in the progression of specific and relatable game patterns into a wider perspective more generalisable and transferable conceptions of computational patterns, it also encourages a narrower focus on the specific computational concepts as outlined by Resnick and Brennan 2012).
 
