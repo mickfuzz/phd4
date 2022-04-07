@@ -7,10 +7,29 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: chapter
-title: Introduction
+title: Literature Review
 ---
 
-## Abstract
 
+## Research Questions
 
-## Starting thoughts
+- What game making pedagogies exist?
+- How can you apply Project Based Learning principles (and inclusive teaching methods) to a game making / creative coding?
+- How do game patterns support the development of coding practices with novices?
+- What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ?
+
+## Game Making pedagogies
+
+- UMC / Remixing  - Half-baked games
+- Design approaches - designing for an audience
+- Broader definition of CT, computational fluency / computational participation.
+- Physical methods, feedback, from constructionism
+- Design patterns in Agent sheets
+- Game jam, space, mechanics, rules, etc .
+
+## Project-based learning / Social approach / Communities of Learners.
+
+- Key features of PBL - from academic sources up to date.
+- Benefits of PBL, autonomy / agency /
+- Creating a community of learners
+- Examples of how this has been applied in game making or creative coding case studies. (RQ2)
