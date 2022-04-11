@@ -68,7 +68,7 @@ Imagining a constructionist game-based pedagogical model: Using tabletop role-pl
 ### Generalisation of Results
 
 Generalisation is one of the guiding principles of DBR. While results are intertwined with context, designs should be assessed for generalisation to other settings.
-Explore this in more detail - draw out a debate on how situated learning in this context - and wider debate is. 
+Explore this in more detail - draw out a debate on how situated learning in this context - and wider debate is.
 
 More than one iteration.
 In different settings
@@ -132,11 +132,13 @@ The formation of
 
 ### RQ3 - How do game patterns support the development of coding practices with novices?
 
-This i
+This is an interesting one to code for
+And also related to autonomy?
+
 
 ### RQ4 - What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ?
 
-
+what about focusing on agency / autonomy / self regulation for this question.
 
 
 
