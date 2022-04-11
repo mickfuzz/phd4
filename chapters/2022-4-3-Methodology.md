@@ -37,7 +37,7 @@ As my study seeks to address cultural factors which act as barriers to participa
 , I have chosen
 
 
-### Design-based research and Intervention studies within educational field
+## Design-based research and Intervention studies within educational field
 
 My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992]. Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
 
@@ -46,7 +46,7 @@ Barab and Squire [-@barab_design-based_2004] describe the messiness of design-ba
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
-### Data gathering methods and justification
+## Data gathering methods and justification
 
 My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
 
@@ -55,19 +55,40 @@ One of the challenges of adopting a naturalistic research approach is to work wi
 Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources. My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music. To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. Again while diversity of data invites drawing on diverse methods of analysis, AT will provide a foundation for the analysis of these diverse data.
 
 
-### Data analysis methods and justification
+## Data analysis methods and justification
 
+### Data Validity - Triangulation of Data
 
-#### Journal notes on participation, partial screen capture data,   
+Draw on other chapters to represent overcoming of weaknesses of design-based approach.
+
+<!-- For example in
+https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
+Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
+
+### Generalisation of Results
+
+Generalisation is one of the guiding principles of DBR. While results are intertwined with context, designs should be assessed for generalisation to other settings.
+Explore this in more detail - draw out a debate on how situated learning in this context - and wider debate is. 
+
+More than one iteration.
+In different settings
+Using different with different software
+
+This is potentially complex to describe but worth it if wanting to talk about generalisation.
+
+<!--
+Generalisation is covered in this thesis.
+
+https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
+Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
+
+### Journal notes on participation, partial screen capture data,   
 
 In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
 
  The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
 
  My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
-
-
-
 
  I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies (Derry et al., 2010). I will use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns (Mercer et al., 2004). While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) (Sinclair and Coulthard, 1975), the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach (Lyle, 1993; Phillips, 1985), and specifically those from project focused studies (Hmelo-Silver and Barrows, 2008; Moje et al., 2001), may be of greater use to allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
 
@@ -83,18 +104,46 @@ In early stages of delivery I adopted an open project based approach. I will lat
 
 
 
-### What research questions are answered by what data gathering and analysis?
+## What research questions are answered by what data gathering and analysis - and described in what chapter?
 
  <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
  As this is done very methodically
  -->
 
+Perhaps represent this as a table.
+Not sure if the title tries to do too much.
+
+### RQ1 - What game making pedagogies exist? -
+
+This has already answered been addressed in the Literature Review.
+
+### RQ2 - How can you apply Project Based Learning principles (and inclusive teaching methods) to a game making / creative coding?
+
+This is covered in the first results chapter on evolution of the design. Working title "Evolution of 3M model"
+
+The formation of
+
+- Literature review -
+- Interviews with practitioners guided the design in broad principles.
+- Interviews with participants some informal and some formal instructed directly adaptations to design
+- Journal notes
+- Changes to the resources themselves - in tandem with journal notes,   
+- Analysis of video data (stage one)
+
+### RQ3 - How do game patterns support the development of coding practices with novices?
+
+This i
+
+### RQ4 - What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ?
+
+
+
+
+
 
 ### Description of Phases
 
 I have carried out three stages of pilot workshops with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
-
-
 
 <!-- I have carried out six phases of pilot workshops with home educator families. I will outline the core activities that have taken place including only the most basic detail on tools used. In following sections, the development of toolsets are analysed in greater depth. The core of the game making programme, which emerged in the first phase and has remained, is a starting template of a simple platform game which participants alter to make their own. The evolution of different versions and locations of this starting template has proven to be a key marker of the progress of the programme. The timeline of phases of activities is outlined in the following table.
 
