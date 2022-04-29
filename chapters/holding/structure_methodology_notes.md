@@ -2,18 +2,10 @@
 
 ## Pre this chapter - intro and literature
 
-
-
 ### Theoretical Framework
-- Intro to social turn, school,
+- Intro to social turn, school, perhaps AT if needed for concepts (tensions)
 - Design-based research
 - intervention studies within educational field
-
-<!-- - AT -->
-  <!-- - what is AT in brief
-  - why AT for this Study
-  - what flavour of AT and why
-  - finding the unit of analysis -->
 
 ### Methodology
 - Data gathering methods and justification
