@@ -196,11 +196,11 @@ For example, analysis of unproductive moments of pair work involved confusion an
 
 As part of developing teaching plans and resources I collated and sifted through, individual ad-hoc responses to tensions, to find common themes, and to catalogue them as a way to help both learners and other facilitators to navigate and address similar issues.
 
+The result of this analysis and response is the 3M model which is ..
+
 As mentioned the 3M model is of use to both teachers and learners. Indeed, the process invites a deeper interpretation of learning roles beyond a binary definition to encompass some of the learning from CoP and Commmunities of Learners where X and Y are the case.
 
-While participants do not need to be aware of the guiding principles to take part, they are present in learning resources and may help with project reflection. In the course of game making some elements of the Model are more visible to participants than others. The 3M model is presented below in order of this visibility. Thus, while missions are visible to all, maps are used by students in a less core way, and methods are used by facilitators. 
-
-The result of this analysis and response is the 3M model which is
+While participants do not need to be aware of the guiding principles to take part, they are present in learning resources and may help with project reflection. In the course of game making some elements of the Model are more visible to participants than others. The 3M model is presented below in order of this visibility. Thus, while missions are visible to all, maps are used by students in a less core way, and methods are used by facilitators.
 
 The section outlines the main features of the 3M model which comprises of _missions, maps and motivational methods_. This learning design could be applied using a variety of game making software. The resources I have created for MakeCode Arcade[^4] and Phaser[^5] are free and open source and available online. I invite other educators to adopt this approach and share resources for Scratch, Pygame, p5.play and other suitable platforms. I will explain how the methods involved in the model are informed by inclusive pedagogy principles contained in Universal Design for Learning (UDL) and project-based learning (PBL).
 

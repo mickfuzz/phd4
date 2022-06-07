@@ -19,7 +19,6 @@ As this is done very methodically
 -->
 
 
-
 ### Stages of Design
 
 #### Evolution of Template and supporting resources
