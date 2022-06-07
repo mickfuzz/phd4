@@ -10,13 +10,21 @@ categories: misc
 title: Game Making and Coding Fluency in a Primary Computing Context
 ---
 
+<!--
+Revisions needed
+https://docs.google.com/document/d/19QpdcuyUP7O24BcoTRngGbBGlEofJHN7yyMANpda0Tg/edit -->
+
+## Abstract
+
+This chapter describes digital game making as an inclusive process to develop coding concepts and coding fluency. It outlines research which emerges from my work with young learners of ages 8-11 which leverages the motivational and navigational affordances of enthusiast game making communities and adapts it to more structured educational environments. I summarise the features of two game making tools used in my study. Finally this chapter contains an overview of the 3M game making learning design and links to extensive resources for learners and teachers.
+
 ## Introduction
 
 The potential of digital game making is explored in depth in a review by Kafai and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Finally because, game making involves a systems-based understanding of the world, and as games are themselves interactive systems, they are a powerful vehicle for exploring a complex problems involving race, sex, social issues [@tekinbas_quest_2010].
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy to use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2013]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
 
-In this chapter I explore the potential of digital game making as an inclusive way of developing coding concepts and coding fluency in the later stages of Primary Education. This chapter begins with a short summary of the UK context of coding and inclusion. This is followed by a section on game making as an inclusive, project-based teaching approach. I then describe two game making tools used in my study before outlining the process of the development of a learning design in partnership with participants. I end with an overview of what I provisionally call the 3M game making learning design and offer links to the resulting resources suitable for learners and fellow practitioners.
+In this chapter, I explore the potential of digital game making as an inclusive way of developing coding concepts and coding fluency in the later stages of Primary Education. This chapter begins with a short summary of the UK context of coding and inclusion. This is followed by a section on game making as an inclusive, project-based teaching approach. I then describe two game making tools used in my study before outlining the process of the development of a learning design in partnership with participants. I end with an overview of what I provisionally call the 3M game making learning design and offer links to the resulting resources suitable for learners and fellow practitioners.
 
 <!-- This chapter contains (CHANGE THIS LATER TO PROSE not bullet points):
 - a summary of UK context of coding and inclusion
@@ -49,13 +57,13 @@ INTRO ON CHALLENGE OF TEACHING CODING
 - Value of Scratch for game making and associated research.
 -  middle ground of commercial games which have a creative element to it. -->
 
-The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject. The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The After the Reboot report also contained concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides:
+The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused was on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (General Certificate of Secondary Education) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject. The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The After the Reboot report also contained concerning observations. The report found that girls, ethnic minorities and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides:
 - learner choice in projects increases motivation
 - authentic and shareable project outcomes encourage peer feedback and reflection
 - iterative projects work supports a student mastery
 - challenging goals and guidance in goal setting encourages self-regulation in learners
 
-A key grassroots group addressing issues of inclusion in UK computing is Computing at School (CAS) Include which is a working group of teachers and researchers in the field.[^1] The CAS Include website include resources created by the network and they hold regular in-person and online events. They promote an inclusive approach to programming by creating projects and using examples which are "real world and culturally relevant".[^2]  The following section examines the intersection of inclusion, a project approach and game making.
+A key grassroots group addressing issues of inclusion in UK computing is Computing at School (CAS) Include which is a working group of teachers and researchers in the field.[^1] The CAS Include website includes resources created by the network and they hold regular in-person and online events. They promote an inclusive approach to programming by creating projects and using examples which are "real world and culturally relevant".[^2]  The following section examines the intersection of inclusion, a project approach and game making.
 
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
 A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
@@ -68,7 +76,7 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 
 ## Game Making, Project Based Learning and Inclusion
 
-Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of PBL also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
+Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school cultures then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
 
 <!-- We previous saw that Waite's review for RSA also highlighted the importance of social and cultural approaches to game making including the roles of gender.
 ADD LINKS HERE -  OR MOVE TO ANOTHER SECTION -->
@@ -122,17 +130,23 @@ HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
 The field of game making is dynamic. New tools frequently emerge with novel approaches and features. In this section I outline the key features of selected game making tools used for my study. This section is necessarily short. A fuller exploration of the pros and cons of game making tools are available as a blog post.[^3]
 
-**Phaser** is a javascript game making library. To teach it I ask learners to use a web coding environment or code playground called Glitch.com to create their games. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and previewed online. A key feature is the ability to make changes in code and quickly see the new results appear in the live game. The drawback of using real web technology is its complexity. Many mistakes are possible which can break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy-to-use timeline of your project.
+<!-- **Phaser** is a javascript game making library. To teach it I ask learners to use a web coding environment or code playground called Glitch.com to create their games. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and previewed online. A key feature is the ability to make changes in code and quickly see the new results appear in the live game. The drawback of using real web technology is its complexity. Many mistakes are possible which can break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy-to-use timeline of your project. -->
 
-**MakeCode Arcade** is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are simplified, you can download the games to hand held devices or run them easily. Another advantage is that the MakeCode system is also used to code the popular Microbit micro controller. So this may be familiar to you as a teacher or to your students.
+**Phaser.js in a Code Playground:** Phaser is a javascript game making library. It is my own tool of choice when it comes to game-making using text code.  To teach it I ask learners to code games a web coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. A key feature is the ability to make changes in code and quickly see the new results appear in the live game. The concept is particularly useful for novice coders. Many text-based code playgrounds exist online. I chose Glitch.com although the process also works well in Trinket which is also popular with UK educators. Using this kind of web playground is a particularly authentic choice of tool. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can easily progress to creating genuine Indy Games, dynamic websites and flexible web applications.
 
+![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
+<Game_Figure1.1.png>
+Figure 1.1. Phaser in Glitch.com playground with code and game side by side. Screenshot by author.
 
-<!-- - simplicity of tools with future potential - low floor high ceiling wide walls
-- tensions around starting code from scratch or from a template -->
+The drawback of this approach is the potential complexity of using real web technology. While it is possible to hide certain elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy to use timeline of your project.
 
+**MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.
 
-<!-- ![MakeCode](./Pictures/makecode.png) -->
+<Game_Figure1.2.png>
+![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
+Figure 1.2.  MakeCode Arcade with code and game side by side. Screenshot by author.
 
+The MakeCode Arcade interface, like Scratch has the ability to edit sprite characters. However, compared to scratch it is more limited in terms of what can be created. The simplicity of a tool like MakeCode Arcade can help address issues around learners trying to attempt projects that are too ambitious in scope. The designers have intentionally limited the tools provided to work on audio and graphical assets and the screen size of the game. This simplicity reduces the amount of time learners spend creating assets and thus support students to spend time build familiarity and fluency with coding constructs.  There some engaging, diverse and comprehensive example games and tutorials at the project website.[^6]
 
 
 ## Research Vignette - Evolution of Design
@@ -141,13 +155,36 @@ My own research in game making is an experimental approach to create a new learn
 
 Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.
 
-Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families. A second programme involved local primary school children in Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 The final part of this chapter gives an overview of the learning design that has emerged from this participatory design-based approach. Given space constraints I have focused on the pedagogical results rather than the observational data that has guided them.
 
  <!-- //ADDRESS LACK OF DATA HERE - BASED ON JOURNAL ENTRIES - ANALYSIS OF VIDEO DATA AND CONVERSATION. -->
 
+
+### A Description of work with Home Education Families
+
+Participation at beginning to shape direction
+Evidence Gathering
+Final showcase with Students
+Example of interaction - and of reviewing the evidence -
+Follow on work at conferences -
+
+
 ## Overview of The 3M Game Making Learning Design
+
+MORE OF AN INTRODUCTION TO DESIGN - WHO IS IT FOR -HOW CAN IT BE USED
+
+As part of the research process, certain tensions arrived for participants (which my self and other facilitators addressed). As described, journal entries, interviews and observations of screen captures helped inform this process of identifying tensions.
+These tensions gave opportunity to examine and revise - teaching approaches and supporting resources.
+
+A key overall guiding principle is not to remove productive tensions completely but rather to identify and  avoid unproductive blockages and to offer a variety of tools and affordances to help the self-motivation and navigation of learners.
+
+For example, analysis of unproductive moments of pair work involved confusion and dispute over next stages, and as such strategies to help learners to identify and priorise future work were needed. Another examples of gaps included; motivational factors to get games ready for play-testing, ways to reflect on progress and appreciate the complex learning dimensions being explored.  
+
+As part of developing teaching plans and resources I collated and sifted through, individual ad-hoc responses to tensions, to find common themes, and to catalogue them as a way to help both learners and other facilitators to navigate and address similar issues.
+
+The result of this analysis and response is the 3M model which is
 
 The section outlines the main features of the 3M model which comprises of _missions, maps and motivational methods_. This learning design could be applied using a variety of game making software. The resources I have created for MakeCode Arcade[^4] and Phaser[^5] are free and open source and available online. I invite other educators to adopt this approach and share resources for Scratch, Pygame, p5.play and other suitable platforms. I will explain how the methods involved in the model are informed by inclusive pedagogy principles contained in Universal Design for Learning (UDL) and project-based learning (PBL).
 
@@ -242,7 +279,7 @@ The final M of the 3M framework stands for motivational methods. I share two met
 
 <!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
 
-**Drama / Fictional Frameworks:** Another method I use to increase learner engagement in game making is the concept of using a fictional scenario or simulation. A fictional community while less authentic than a professional community, can still provide some of the associated benefits of authenticity. I have worked with practitioners of Drama Education department at Manchester Metropolitan University to develop such fictional dramas, but you don't have to be a trained drama practitioner to draw on key techniques to increase learner engagement. For example, I asked trainee teachers to devise a scenario to support a series of sessions and they used a fiction of making games for an alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways:
+**Drama / Fictional Frameworks:** Another method I use to increase learner engagement in game making is the concept of using a fictional scenario or simulation. A fictional community while less authentic than a professional community, can still provide some of the associated benefits of authenticity. I have worked with practitioners of Drama Education department at Manchester Metropolitan University to develop such fictional dramas, but you do not have to be a trained drama practitioner to draw on key techniques to increase learner engagement. For example, I asked trainee teachers to devise a scenario to support a series of sessions and they used a fiction of making games for an alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways:
 
 - Asking learners to step into a role can increase identification with participation in the project. For example you may say "As game designers, we will make this game for a particular audience".
 - Fictional situations can help create a sense of imagined jeopardy which can help learners stay on track with their creative timescale and may increase their commitment to the process.
@@ -265,7 +302,7 @@ All of the following resources are available and can be contributed to as part o
 * A five week course adaptable by teachers including activities to support the motivational methods detailed above.[^17]
 
 
-### Phaser and Glitch.com Resources
+**Phaser and Glitch.com Resources**
 
 Similar resources exist for text-based coding using the Phaser framework. The resources use screenshots of the glitch.com code playground. The resources include:
 
