@@ -161,15 +161,27 @@ The final part of this chapter gives an overview of the learning design that has
 
  <!-- //ADDRESS LACK OF DATA HERE - BASED ON JOURNAL ENTRIES - ANALYSIS OF VIDEO DATA AND CONVERSATION. -->
 
+However, I include a short summary here.
+
+TO RESTRUCTURE
+My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
+
+TO RESTRUCTURE
+While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I will prioritise critical moments in depth which illuminate key themes.
+
 
 ### A Description of work with Home Education Families
 
-Participation at beginning to shape direction
-Evidence Gathering
-Final showcase with Students
-Example of interaction - and of reviewing the evidence -
-Follow on work at conferences -
+FIND THIS DESCRIPTION IN OTHER WRITING - BUT WHERE!
 
+- Participation at beginning to shape direction
+- Evidence Gathering process with cameras - etc - screen capture very useful.
+- Final showcase with Students
+- Example of interaction - and of reviewing the evidence -
+- Follow on work at conferences -
+
+Underline here the wider goal of generalisation - balancing with a deep specific dive of experience of home educated families.
+Drawing out what is useful for both teachers and learners.
 
 ## Overview of The 3M Game Making Learning Design
 
@@ -183,6 +195,10 @@ A key overall guiding principle is not to remove productive tensions completely 
 For example, analysis of unproductive moments of pair work involved confusion and dispute over next stages, and as such strategies to help learners to identify and priorise future work were needed. Another examples of gaps included; motivational factors to get games ready for play-testing, ways to reflect on progress and appreciate the complex learning dimensions being explored.  
 
 As part of developing teaching plans and resources I collated and sifted through, individual ad-hoc responses to tensions, to find common themes, and to catalogue them as a way to help both learners and other facilitators to navigate and address similar issues.
+
+As mentioned the 3M model is of use to both teachers and learners. Indeed, the process invites a deeper interpretation of learning roles beyond a binary definition to encompass some of the learning from CoP and Commmunities of Learners where X and Y are the case.
+
+While participants do not need to be aware of the guiding principles to take part, they are present in learning resources and may help with project reflection. In the course of game making some elements of the Model are more visible to participants than others. The 3M model is presented below in order of this visibility. Thus, while missions are visible to all, maps are used by students in a less core way, and methods are used by facilitators. 
 
 The result of this analysis and response is the 3M model which is
 
