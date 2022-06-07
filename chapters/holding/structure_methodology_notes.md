@@ -25,10 +25,8 @@ As this is done very methodically
 I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
 
 Go into more detail than previously on the choice and use of tools.
-
 Use the 3M framework as a guide for MakeCode
 Revisit FM book as a guide for Glitch/ Phaser
-
 
 
 ### Issues Emerging from Evolution of Design

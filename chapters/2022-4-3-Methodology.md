@@ -58,8 +58,15 @@ One of the challenges of adopting a naturalistic research approach is to work wi
 
 
 
-Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources. My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music. To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. Again while diversity of data invites drawing on diverse methods of analysis, AT will provide a foundation for the analysis of these diverse data.
+Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources. My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music. To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below.
 
+Again while diversity of data invites drawing on diverse methods of analysis, AT will provide a foundation for the analysis of these diverse data.
+
+<!-- WHAT IS THE FOUNDATION FOR ANALYSIS ?
+CERTAINLY FINDING AND RESOLVING TENSIONS.
+
+There is a framework for looking at tensions here.
+https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
 
 ## Data analysis methods and justification
 

@@ -10,7 +10,13 @@ categories: chapter
 title: Introduction
 ---
 
-## Abstract
+## Starting thoughts on writing up results.
 
+The 3M model as a pedagogical model which aligns with PBL principles and more general social approach to learning coding.
 
-## Starting thoughts
+Could the three aspects - missions (design patterns), maps, and methods form three chapters of results?
+
+The use of tensions and how the model resolves them is a part of RD2. Can this is stay if shift from AT to design based research as a framework.
+
+A start here of mapping in a Matrix that could be included in a concluding chapter.
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
