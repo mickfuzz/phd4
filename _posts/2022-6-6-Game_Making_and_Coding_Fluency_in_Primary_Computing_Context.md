@@ -124,7 +124,7 @@ https://www.edutopia.org/blog/authentic-project-based-learning-john-larmer
 HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
 
-**Coding and Computational Fluency:** Resnick and Rusk [-@resnick_coding_2020] draw on the motivations of the literacy-for-all movement when using a concept of computational fluency to describe students' creative expression through coding projects. Fluency in coding can be compared to fluency in spoken languages where the focus is less on accuracy and complexity of language use compared to how fluid and comfortable speech is. Game making has a great potential to develop coding fluency if students are given flexibility over how they add in and adjust new features based on the motivation of designing for other players. Game making encourages small repeated changes to project variables and structures to get the feel of game mechanics during play just right. The process of adding different graphics and audio assets into games returns a high reward for students in terms of their efforts. These factors contribute to games being a good vehicle to encourage confidence in coding and computational fluency.
+**Coding and Computational Fluency:** Resnick and Rusk [-@resnick_coding_2020] draw on the motivations of the literacy-for-all movement when using a concept of computational fluency to describe students' creative expression through coding projects. Fluency in coding can be compared to fluency in spoken languages where the focus is less on accuracy and complexity of language use compared to how fluid and comfortable speech is. Game making has a great potential to develop coding fluency if students are given flexibility over how they add in and adjust new features based on the motivation of designing for other players. Game making encourages small repeated changes to project variables and structures to get the feel of game mechanics during play just right. The process of adding different graphics and audio assets into games returns a high reward for students in terms of their efforts. These fact  ors contribute to games being a good vehicle to encourage confidence in coding and computational fluency.
 
 ## An Overview of Game Coding Tools
 
@@ -302,6 +302,22 @@ The final M of the 3M framework stands for motivational methods. I share two met
 -  When learners share their games with their real or imagined audience, they can talk through their design decisions and challenges, thus creating an opportunity for reflection.
 - Drama processes can help explore identification with or hostility to gaming cultures.
 
+## Summary of 3M Game Making Model
+
+<Game_Figure1.2.png>
+![MakeCode]({{ site.baseurl }}/Pictures/3msynthesis.png)
+Figure 1.3. Synthesizing diagram of 3M Game Making Model
+
+
+| **Missions**         | **Maps**             | **Methods**          |
+|----------------|-----------|------------|
+| -   Simple code changes yield quick feedback  |     - A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators       |     Play Testing in each session aids short term motivation.  Showcase events help longer-term motivation and aid project prioritisation   |
+| -   Free choice of Patterns increases learner engagement and ownership   |    -Tracing the learner pathway on an attractive physical map in the learning space can help integrate navigation and reflection into the creative process | -Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role          |
+|     - Restrict Game Type and number of Patterns to reduce Facilitator stress       |                      |- Adding electronics to control the game via arcade buttons and cabinets increases engagement and perceptions of project authenticity |
+| - Limit  complexity of patterns. Some are simple but cause a large change in the game       |    |        |
+| -Side missions which explore and celebrate different ‘maker types’ (from  Bartle’s player types)          |        |     |
+
+
 ## Supporting Resources
 
 This section contains links and descriptions of supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
@@ -316,7 +332,6 @@ All of the following resources are available and can be contributed to as part o
 * A map of learning dimensions learners are likely to encounter when making games. These are grouped as coding concepts, systems patterns and design practices.[^15]
 * To suit learners who like a methodical approach, a step by step tutorial explaining how to build game code from first principles is available.[^16]
 * A five week course adaptable by teachers including activities to support the motivational methods detailed above.[^17]
-
 
 **Phaser and Glitch.com Resources**
 
