@@ -4,7 +4,7 @@ zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
-  csl-style: harvard # pre-fill the style
+  csl-style: apa # pre-fill the style
 layout: post
 categories: misc
 title: Game Making and Coding Fluency in a Primary Computing Context
@@ -134,16 +134,17 @@ The field of game making is dynamic. New tools frequently emerge with novel appr
 
 **Phaser.js in a Code Playground:** Phaser is a javascript game making library. It is my own tool of choice when it comes to game-making using text code.  To teach it I ask learners to code games a web coding environment called a code playground. Code playgrounds are a tool used by both expert and novice coders to share examples of code that can be edited and preview online. A key feature is the ability to make changes in code and quickly see the new results appear in the live game. The concept is particularly useful for novice coders. Many text-based code playgrounds exist online. I chose Glitch.com although the process also works well in Trinket which is also popular with UK educators. Using this kind of web playground is a particularly authentic choice of tool. Phaser is used by professional game makers and Glitch is the test bed of choice of many code developers. If learners do take to this way of working they can easily progress to creating genuine Indy Games, dynamic websites and flexible web applications.
 
-![phaser simple game to edit]({{ site.baseurl }}/Pictures/phaser_simple.png)
-<Game_Figure1.1.png>
+
+![](./Pictures/phaser_simple.png){ width=98% }
+
 Figure 1.1. Phaser in Glitch.com playground with code and game side by side. Screenshot by author.
 
 The drawback of this approach is the potential complexity of using real web technology. While it is possible to hide certain elements of html and css away from the user, many mistakes are possible which break the game completely. Luckily Glitch has the ability rewind and undo your changes via an easy to use timeline of your project.
 
 **MakeCode Arcade - specialised block based programming:** MakeCode Arcade is a block based programming environment similar to Scratch but with some interesting features which are tailored to game making like gravity, lives and a game over block. In addition, the multi-media making abilities are very stripped down, you can download the games to hand held devices or run them easily.
 
-<Game_Figure1.2.png>
-![MakeCode]({{ site.baseurl }}/Pictures/makecode.png)
+![](./Pictures/makecode.png){ width=98% }
+
 Figure 1.2.  MakeCode Arcade with code and game side by side. Screenshot by author.
 
 The MakeCode Arcade interface, like Scratch has the ability to edit sprite characters. However, compared to scratch it is more limited in terms of what can be created. The simplicity of a tool like MakeCode Arcade can help address issues around learners trying to attempt projects that are too ambitious in scope. The designers have intentionally limited the tools provided to work on audio and graphical assets and the screen size of the game. This simplicity reduces the amount of time learners spend creating assets and thus support students to spend time build familiarity and fluency with coding constructs.  There some engaging, diverse and comprehensive example games and tutorials at the project website.[^6]
@@ -157,20 +158,9 @@ Barab and Squire [-@barab_design-based_2004] describe the messiness of design-ba
 
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families. A second programme involved local primary school children in Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
-The final part of this chapter gives an overview of the learning design that has emerged from this participatory design-based approach. Given space constraints I have focused on the pedagogical results rather than the observational data that has guided them.
+The final part of this chapter gives an overview of the learning design that has emerged from this participatory design-based approach. Given space constraints I have focused on the pedagogical results rather than the observational data that has guided them. However, I include a short summary. I have drawn on multiple methods including traditional ethnographic methods as a participant observer, participant interviews and analysis of artefacts used and created. I have also undertaken analysis of participant actions via the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. The rich set of data has allowed the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduced the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants were arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I prioritised critical moments in depth which illuminated key themes.
 
- <!-- //ADDRESS LACK OF DATA HERE - BASED ON JOURNAL ENTRIES - ANALYSIS OF VIDEO DATA AND CONVERSATION. -->
-
-However, I include a short summary here.
-
-TO RESTRUCTURE
-My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
-
-TO RESTRUCTURE
-While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I will prioritise critical moments in depth which illuminate key themes.
-
-
-### A Description of work with Home Education Families
+<!-- ### A Description of work with Home Education Families
 
 FIND THIS DESCRIPTION IN OTHER WRITING - BUT WHERE!
 
@@ -181,7 +171,7 @@ FIND THIS DESCRIPTION IN OTHER WRITING - BUT WHERE!
 - Follow on work at conferences -
 
 Underline here the wider goal of generalisation - balancing with a deep specific dive of experience of home educated families.
-Drawing out what is useful for both teachers and learners.
+Drawing out what is useful for both teachers and learners. -->
 
 ## Overview of The 3M Game Making Learning Design
 
@@ -302,25 +292,24 @@ The final M of the 3M framework stands for motivational methods. I share two met
 -  When learners share their games with their real or imagined audience, they can talk through their design decisions and challenges, thus creating an opportunity for reflection.
 - Drama processes can help explore identification with or hostility to gaming cultures.
 
-## Summary of 3M Game Making Model
+## Summary of 3M Game Making Model and Supporting Resources
 
-<Game_Figure1.2.png>
-![MakeCode]({{ site.baseurl }}/Pictures/3msynthesis.png)
-Figure 1.3. Synthesizing diagram of 3M Game Making Model
+This section contains links and descriptions of supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
+
+![MakeCode](./Pictures/3msynthesis.png){ width=98% }
+
+Figure 1.3. Synthesising diagram of 3M Game Making Model
 
 
 | **Missions**         | **Maps**             | **Methods**          |
 |----------------|-----------|------------|
-| -   Simple code changes yield quick feedback  |     - A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators       |     Play Testing in each session aids short term motivation.  Showcase events help longer-term motivation and aid project prioritisation   |
-| -   Free choice of Patterns increases learner engagement and ownership   |    -Tracing the learner pathway on an attractive physical map in the learning space can help integrate navigation and reflection into the creative process | -Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role          |
-|     - Restrict Game Type and number of Patterns to reduce Facilitator stress       |                      |- Adding electronics to control the game via arcade buttons and cabinets increases engagement and perceptions of project authenticity |
-| - Limit  complexity of patterns. Some are simple but cause a large change in the game       |    |        |
-| -Side missions which explore and celebrate different ‘maker types’ (from  Bartle’s player types)          |        |     |
+| Simple code changes yield quick feedback  | A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators       | Play Testing in each session aids short term motivation.  Showcase events help longer-term motivation and aid project prioritisation   |
+| Free choice of Patterns increases learner engagement and ownership   | Tracing the learner pathway on an attractive physical map in the learning space can help integrate navigation and reflection into the creative process | Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role          |
+| Restrict Game Type and number of Patterns to reduce Facilitator stress       |                      | Adding electronics to control the game via arcade buttons and cabinets increases engagement and perceptions of project authenticity |
+| Limit  complexity of patterns. Some are simple but cause a large change in the game       |    |        |
+| Side missions which explore and celebrate different ‘maker types’ (from  Bartle’s player types)          |        |     |
 
 
-## Supporting Resources
-
-This section contains links and descriptions of supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
 
 **MakeCode Arcade Resources**
 
