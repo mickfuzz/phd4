@@ -124,7 +124,7 @@ https://www.edutopia.org/blog/authentic-project-based-learning-john-larmer
 HERE ABOUT THE GAP AND NEED TO ADDRESS IT.  -->
 
 
-**Coding and Computational Fluency:** Resnick and Rusk [-@resnick_coding_2020] draw on the motivations of the literacy-for-all movement when using a concept of computational fluency to describe students' creative expression through coding projects. Fluency in coding can be compared to fluency in spoken languages where the focus is less on accuracy and complexity of language use compared to how fluid and comfortable speech is. Game making has a great potential to develop coding fluency if students are given flexibility over how they add in and adjust new features based on the motivation of designing for other players. Game making encourages small repeated changes to project variables and structures to get the feel of game mechanics during play just right. The process of adding different graphics and audio assets into games returns a high reward for students in terms of their efforts. These fact  ors contribute to games being a good vehicle to encourage confidence in coding and computational fluency.
+**Coding and Computational Fluency:** Resnick and Rusk [-@resnick_coding_2020] draw on the motivations of the literacy-for-all movement when using a concept of computational fluency to describe students' creative expression through coding projects. Fluency in coding can be compared to fluency in spoken languages where the focus is less on accuracy and complexity of language use compared to how fluid and comfortable speech is. Game making has a great potential to develop coding fluency if students are given flexibility over how they add in and adjust new features based on the motivation of designing for other players. Game making encourages small repeated changes to project variables and structures to get the feel of game mechanics during play just right. The process of adding different graphics and audio assets into games returns a high reward for students in terms of their efforts. These factors contribute to games being a good vehicle to encourage confidence in coding and computational fluency.
 
 ## An Overview of Game Coding Tools
 
@@ -156,9 +156,9 @@ My own research in game making is an experimental approach to create a new learn
 
 Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.
 
-Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families. A second programme involved local primary school children in Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families. A second programme involved local primary school children in Year 6 (10-11 year old) classes. Given space constraints, in this chapter I focus on the pedagogical results rather than the observational data that has guided them. However, I include a short summary. I have drawn on multiple methods including traditional ethnographic methods as a participant observer, participant interviews and analysis of artefacts used and created. I have also undertaken analysis of participant actions via the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. The rich set of data has allowed the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduced the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants were arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I prioritised critical moments in depth which illuminated key themes.
 
-The final part of this chapter gives an overview of the learning design that has emerged from this participatory design-based approach. Given space constraints I have focused on the pedagogical results rather than the observational data that has guided them. However, I include a short summary. I have drawn on multiple methods including traditional ethnographic methods as a participant observer, participant interviews and analysis of artefacts used and created. I have also undertaken analysis of participant actions via the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. The rich set of data has allowed the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduced the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants were arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I prioritised critical moments in depth which illuminated key themes.
+Analysis of interviews, observation journal notes and screen captures allowed me to identify tensions arising for facilitators and participants in the game making process. These tensions gave opportunity to examine and revise teaching approaches and supporting resources. My approach involved not to remove productive tensions but rather to identify and avoid unproductive blockages and to offer a variety of tools and affordances to help the self-motivation and navigation of learners. For example, in my journal notes on unproductive moments of pair work involved observation of confusion and disputes over next stages and frustration over lost work and time. As such strategies to help learners to navigate their learning and to identify and priorise future work were incorporated. Other examples of gaps included; motivational factors to get games ready for play-testing and ways to reflect on progress and appreciate the complex learning dimensions being explored. In developing teaching plans and resources I collated and sifted through individual ad-hoc responses to tensions to find common themes. I catalogued and refined the presentation of the responses as a way to help both learners and other facilitators to navigate and address similar issues. The final part of this chapter gives an overview of the learning design that has emerged from this participatory design-based approach.
 
 <!-- ### A Description of work with Home Education Families
 
@@ -175,24 +175,14 @@ Drawing out what is useful for both teachers and learners. -->
 
 ## Overview of The 3M Game Making Learning Design
 
-MORE OF AN INTRODUCTION TO DESIGN - WHO IS IT FOR -HOW CAN IT BE USED
+<!-- MORE OF AN INTRODUCTION TO DESIGN - WHO IS IT FOR -HOW CAN IT BE USED -->
 
-As part of the research process, certain tensions arrived for participants (which my self and other facilitators addressed). As described, journal entries, interviews and observations of screen captures helped inform this process of identifying tensions.
-These tensions gave opportunity to examine and revise - teaching approaches and supporting resources.
-
-A key overall guiding principle is not to remove productive tensions completely but rather to identify and  avoid unproductive blockages and to offer a variety of tools and affordances to help the self-motivation and navigation of learners.
-
-For example, analysis of unproductive moments of pair work involved confusion and dispute over next stages, and as such strategies to help learners to identify and priorise future work were needed. Another examples of gaps included; motivational factors to get games ready for play-testing, ways to reflect on progress and appreciate the complex learning dimensions being explored.  
-
-As part of developing teaching plans and resources I collated and sifted through, individual ad-hoc responses to tensions, to find common themes, and to catalogue them as a way to help both learners and other facilitators to navigate and address similar issues.
-
-The result of this analysis and response is the 3M model which is ..
-
-As mentioned the 3M model is of use to both teachers and learners. Indeed, the process invites a deeper interpretation of learning roles beyond a binary definition to encompass some of the learning from CoP and Commmunities of Learners where X and Y are the case.
+The result of this analysis and response is the 3M model which is designed to be of use to both teachers and learners. Indeed, the process of developing a community of game makers invites a deeper interpretation of learning roles beyond a binary definition to encompass some of the learning from CoP and Commmunities of Learners where X and Y are the case.
 
 While participants do not need to be aware of the guiding principles to take part, they are present in learning resources and may help with project reflection. In the course of game making some elements of the Model are more visible to participants than others. The 3M model is presented below in order of this visibility. Thus, while missions are visible to all, maps are used by students in a less core way, and methods are used by facilitators.
 
-The section outlines the main features of the 3M model which comprises of _missions, maps and motivational methods_. This learning design could be applied using a variety of game making software. The resources I have created for MakeCode Arcade[^4] and Phaser[^5] are free and open source and available online. I invite other educators to adopt this approach and share resources for Scratch, Pygame, p5.play and other suitable platforms. I will explain how the methods involved in the model are informed by inclusive pedagogy principles contained in Universal Design for Learning (UDL) and project-based learning (PBL).
+The section outlines the main features of the 3M model which comprises[^11]: https://mickfuzz.github.io/makecode-platformer-101
+ of _missions, maps and motivational methods_. This learning design could be applied using a variety of game making software. The resources I have created for MakeCode Arcade[^4] and Phaser[^5] are free and open source and available online. I invite other educators to adopt this approach and share resources for Scratch, Pygame, p5.play and other suitable platforms. I will explain how the methods involved in the model are informed by inclusive pedagogy principles contained in Universal Design for Learning (UDL) and project-based learning (PBL).
 
 ### Missions
 
@@ -279,7 +269,7 @@ _Map of Learning Dimensions of the 3M Game Making Approach_
 
 ### Motivational Methods
 
-The final M of the 3M framework stands for motivational methods. I share two methods that emerged from feedback and partnership work that proved valuable in the context of game making.
+The final M of the 3M framework stands for motivational methods. These methods are inspired by other projects involving a community approach to teaching technology. Here, I share two methods that emerged from feedback and partnership work that proved valuable in the context of game making.
 
 **Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
 
@@ -296,7 +286,7 @@ The final M of the 3M framework stands for motivational methods. I share two met
 
 This section contains links and descriptions of supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
 
-![MakeCode](./Pictures/3msynthesis.png){ width=98% }
+![MakeCode](./Pictures/3msynthesis.png){ width=80% }
 
 Figure 1.3. Synthesising diagram of 3M Game Making Model
 
@@ -310,24 +300,28 @@ Figure 1.3. Synthesising diagram of 3M Game Making Model
 | Side missions which explore and celebrate different ‘maker types’ (from  Bartle’s player types)          |        |     |
 
 
+### Supporting Resource 1: Phaser and Glitch.com
 
-**MakeCode Arcade Resources**
+Similar resources exist for text-based coding using the Phaser framework. The resources use screenshots of the glitch.com code playground. The resources include:
 
-All of the following resources are available and can be contributed to as part of a collaborative online documentation repository.[^11]
+* A splash page for Phaser / Glitch resources. This contains links to print outs, tutorials and activities - https://glitch-game-makers-manual.glitch.me/
+* An interactive starting template and grid of game design patterns - https://ggc-examples.glitch.me/
 
-* A broken game to fix and printable cards offering quick changes to core design patterns. This is the starting activity.[^12]
+### Supporting Resource 2: 3M & MakeCode Arcade
+
+The application of the 3M model applied using the MakeCode Arcade software is available online as part of a collaborative online documentation repository including a template of a broken game to fix, printable cards offering quick changes to core design patterns, printable documents which describe game design patterns detail how to implement them, a map of learning dimensions learners are likely to encounter when making games and a five week course adaptable by teachers. All of these resources are available at https://mickfuzz.github.io/makecode-platformer-101
+
+<!-- * A broken game to fix and printable cards offering quick changes to core design patterns. This is the starting activity.[^12]
 * An online interactive grid of all game design patterns which link to more detailed step by step implementation instructions.[^13]
 * Printable online documents which describe game design patterns detail how to implement them.[^14]
 * A map of learning dimensions learners are likely to encounter when making games. These are grouped as coding concepts, systems patterns and design practices.[^15]
 * To suit learners who like a methodical approach, a step by step tutorial explaining how to build game code from first principles is available.[^16]
-* A five week course adaptable by teachers including activities to support the motivational methods detailed above.[^17]
+* A five week course adaptable by teachers including activities to support the motivational methods detailed above.[^17] -->
 
-**Phaser and Glitch.com Resources**
+### Supporting Resource 3: Other MakeCode Arcade Tutorials
 
-Similar resources exist for text-based coding using the Phaser framework. The resources use screenshots of the glitch.com code playground. The resources include:
+While the above iteration of the 3M Model applies to a Platformer Game, many other games can be made using the MakeCode Arcade software. For many resources and tutorials are available at https://arcade.makecode.com/
 
-* A splash page for Phaser / Glitch resources. This contains links to print outs, tutorials and activities.[^18]
-* An interactive starting template and grid of game design patterns.[^19]
 
 ## Conclusion
 
@@ -351,11 +345,3 @@ One of the purposes of sharing my resources freely is to invite collaboration wi
 [^9]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#change-listener
 [^10]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-dynamics
 [^11]: https://mickfuzz.github.io/makecode-platformer-101
-[^12]: http://tiny.cc/mc-quick-start-cards
-[^13]: https://mca-platformer-examples.glitch.me/
-[^14]: https://mickfuzz.github.io/makecode-platformer-101/gamePatterns
-[^15]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions
-[^16]: http://tiny.cc/mc-platformer-tutorial
-[^17]: https://mickfuzz.github.io/makecode-platformer-101/groupCourse
-[^18]: https://glitch-game-makers-manual.glitch.me/
-[^19]: https://ggc-examples.glitch.me/
