@@ -57,7 +57,7 @@ Another guiding principle of design-based research - which is present in the tec
 
 #### Mutual nature of the evolution of the design
 
- 
+
 
 
 ## Data gathering methods and justification
@@ -141,6 +141,9 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 Perhaps represent this as a table.
 Not sure if the title tries to do too much.
+
+Change the below to a table in these planning stages.
+https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
 
 ### RQ1 - What game making pedagogies exist? -
 
