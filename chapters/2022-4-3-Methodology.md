@@ -49,14 +49,26 @@ Barab and Squire [-@barab_design-based_2004] describe the messiness of design-ba
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
+### Stages of Data Gathering and ANALYSIS
+
+ - Early gathering via journal / notes
+ - Mutual nature of the design progressions -
+
+
+#### Mutual nature of the evolution of the design
+
+
+
+
 ## Data gathering methods and justification
+
+
+
+
 
 My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour. Large amounts of video data are being gathered, up to 20 hours of footage for each 2 hour session. I am developing a process of identifying appropriate episodes for closer analysis.
-
-
-
 
 Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources. My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music. To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below.
 
@@ -129,6 +141,9 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 Perhaps represent this as a table.
 Not sure if the title tries to do too much.
+
+Change the below to a table in these planning stages.
+https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
 
 ### RQ1 - What game making pedagogies exist? -
 
