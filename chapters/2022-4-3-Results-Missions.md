@@ -23,6 +23,19 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 
 
 
+
+## Outline of this chapter and previous threads.
+
+Start with Vignette
+Introduction -   
+Literature Review -
+Methodology -
+Chapter Findings -
+Discussion -
+
+
+
+
 ### Missions
 
 Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
