@@ -12,11 +12,11 @@ title: Results Missions
 
 
 
-## Introduction to Chapter
+## Introduction to This Writing
 
-In the previous chapters we have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a community of designers and coders with an educational aims has been explored.
+In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a community of designers and coders with an educational aims has been explored.
 
-In the previous chapter on methodology, I have outlined how, in line with a social approach, as a researcher / participant I evolved identified tensions that emerged in the process of developing a learning design.
+
 
 The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
 
@@ -38,10 +38,26 @@ https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/
 
 -->
 
+## Methodology
+
+In the previous chapter on methodology, I have outlined how, in line with a social approach, as a researcher / participant I evolved identified tensions that emerged in the process of developing a learning design.
+
+In this writing I will outline the data collected and how it is analysed. And perhaps which questions the data answers.
+
+
+|**Data Source**|**Analysis**|**Comments**|
+|:----|:----|:----|
+|Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
+|Video Capture Data| Vignettes Selected based on evaluation criteria  |  |
+
+
+## Analysis of findings - Using Design Patterns.
+
+This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
 
 
 
-### vignette#
+### Vignette
 
 // create with google docs to markdown extensions
 // then at this page online conversion. https://markdown-convert.com/en/tool/table
@@ -169,3 +185,16 @@ Your mission is to apply the following pattern to your game. There are supportin
 BOX ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
+
+
+### Discussion
+
+- Findings - in relation to other research and work -
+- How does this approach compare to PBL -
+- How are roles similar or different from Barron -
+- Design processes
+- Fr
+
+## Future Work / Omissions
+
+- Further testing of the Maps  
