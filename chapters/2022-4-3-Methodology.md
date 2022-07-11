@@ -94,11 +94,16 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 
 I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
 
+<!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
+
+
 ### Notes on Underpinning of Coding Process
 
 Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analysea and code the interaction between parent and child rather than dual code the behaviours.
 
- <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
+<!-- Source article
+http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
+
 
 
 ### Data Validity - Triangulation of Data
