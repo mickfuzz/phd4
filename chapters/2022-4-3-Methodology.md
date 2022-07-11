@@ -62,10 +62,6 @@ Another guiding principle of design-based research - which is present in the tec
 
 ## Data gathering methods and justification
 
-
-
-
-
 My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour. Large amounts of video data are being gathered, up to 20 hours of footage for each 2 hour session. I am developing a process of identifying appropriate episodes for closer analysis.
@@ -98,7 +94,9 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 
 I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
 
+### Notes on Underpinning of Coding Process
 
+Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analysea and code the interaction between parent and child rather than dual code the behaviours.
 
  <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
 
