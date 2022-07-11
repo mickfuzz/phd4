@@ -99,11 +99,49 @@ I am guided by approaches which use video to develop both in-depth thematic anal
 
 ### Notes on Underpinning of Coding Process
 
+#### Coding Roles
+
 Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analysea and code the interaction between parent and child rather than dual code the behaviours.
 
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
+
+#### Coding Game Design Themes
+
+Take the MDA framework
+
+- mechanics
+- aesthetics
+- dynamics
+
+As way of coding initially I chose to the MDA framework for the simplicity.
+
+Later, I note the following limitations.
+- The language is not accessible.
+- The definition of aetheics is widen
+
+Later consider...
+
+In early stages I was influenced by the categorisation of game elements used by GSM team which also was implemented in the Game Jam Guide [@cornish_game_2018; @institute_of_play_gamestar_nodate].
+The key elements are:
+
+- SPACE: Where the game takes place.
+- GOAL: What is the objective of the game? What are you trying to do?
+- COMPONENTS: What are all the objects or actors in the game?
+- MECHANICS: What actions take place in the game. What are the verbs involved?
+- RULES: What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
+
+
+
+
+<!-- Notes
+A start of a framework here from Salen
+https://docs.google.com/document/d/1pK-m0Ecymixw6YhH1FdwS1ZlnFoYhLmQojDnnnxDysY/edit
+
+more notes Here - including MDA framework.
+https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/edit#heading=h.4nad7a137op4
+-->
 
 
 ### Data Validity - Triangulation of Data
