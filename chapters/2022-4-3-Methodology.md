@@ -76,6 +76,35 @@ CERTAINLY FINDING AND RESOLVING TENSIONS.
 There is a framework for looking at tensions here.
 https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
 
+## Data Processing
+
+### 360 Video Processing
+
+The processing of video and audio data of both captured screens and 360 video data and high quality audio data involved several stages. This process is outlined briefly to document useful findings and observations in the process.
+
+The use of 360 data yields some advantages in capturing the gestures and facial expressions of potentially all participants in one recording. It does however present challenges.
+
+- split video files - can be corrupted thus you only lose one - but also can be confusing
+- time navigation - also confusing - sometimes put up on the screen - but inconsistently
+- moving and keeping a track of data from week to week and over years is complex. 
+
+### Screen Capture Processing
+
+Justification of choice.
+Flashback pro - on Uni computers.
+Also a reasonable price for paying to use on home computers.
+Has a batch processing tool for saving as open ish format files.
+
+However, not possible to code the files directly. Thus need to be converted to mp4 to import into coding software.
+
+### Learnings and recommendations
+
+The following learning and recommendations emerged from this process.
+
+Prioritise displaying time - have an old school clock under the 360 camera. For example.
+
+Check viability of data at each stage of processing and movement.
+
 ## Data analysis methods and justification
 
 My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
