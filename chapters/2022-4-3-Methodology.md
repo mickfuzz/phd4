@@ -99,9 +99,14 @@ I am guided by approaches which use video to develop both in-depth thematic anal
 
 ### Notes on Underpinning of Coding Process
 
+#### Overall Rational
+
+The coding is not grounded but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
+
+
 #### Coding Roles
 
-Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analysea and code the interaction between parent and child rather than dual code the behaviours.
+Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analyse and code the interaction between parent and child rather than dual code the behaviours.
 
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
@@ -109,17 +114,18 @@ http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
 #### Coding Game Design Themes
 
-Take the MDA framework
+The aim is to code based on the game elements that are being added to the game.
+
+
+As way of coding initially I considered the MDA framework for the simplicity.
 
 - mechanics
 - aesthetics
 - dynamics
 
-As way of coding initially I chose to the MDA framework for the simplicity.
-
 Later, I note the following limitations.
-- The language is not accessible.
-- The definition of aetheics is widen
+- The language is not accessible to teachers and learners.
+- The definition of aesthetics is very wide incorporating user experience in a way that was not suitable to learners.
 
 Later consider...
 
@@ -132,6 +138,7 @@ The key elements are:
 - MECHANICS: What actions take place in the game. What are the verbs involved?
 - RULES: What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
 
+A blend of the two gave the following staring coding scheme in terms of activities related directly to adding features or altering the game.
 
 
 
