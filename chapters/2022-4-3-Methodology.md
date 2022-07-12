@@ -78,15 +78,38 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42X
 
 ## Data Processing
 
+There is sometimes a danger of imagining how a new data gathering tool could be useful but then not being aware of all of the potential pitfalls which can make processing the data time consuming. Also the very nature of working with video is time consuming.
+
+On a personal note, I sometimes like the challenges involved and sometimes find them infuriating. It can be like a specialist knowledge which you can use as a currency, or as a hidden knowledge that you take pride in sharing.
+
+I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches.
+
+- Data portability and interoperability
+- Software sustainability, in particular longevity
+- Licencing - FLOSS licence ?
+- If proprietary - then what is the business model?
+- Is batch processing of files possible?
+- It it a cross platform approach - in particular can I use it on debian based linux systems?
+
+I also take a more practical approach which takes into account working with peers and that such advocacy is not a core part of my job or this research.
+
+Such an attitude may involve compromises or hacking systems, software or processess
+
 ### 360 Video Processing
 
 The processing of video and audio data of both captured screens and 360 video data and high quality audio data involved several stages. This process is outlined briefly to document useful findings and observations in the process.
 
 The use of 360 data yields some advantages in capturing the gestures and facial expressions of potentially all participants in one recording. It does however present challenges.
 
+Here is a short table outlining challenges and solutions to 360 video processing.
+
 - split video files - can be corrupted thus you only lose one - but also can be confusing
 - time navigation - also confusing - sometimes put up on the screen - but inconsistently
-- moving and keeping a track of data from week to week and over years is complex. 
+- moving and keeping a track of data from week to week and over years is complex.
+- processing data requires special software - from samsung
+- viewing data on a normal vlc player - needs extra processing using spatial media
+
+<!-- Tech details are logged here - https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit# -->
 
 ### Screen Capture Processing
 
@@ -95,7 +118,21 @@ Flashback pro - on Uni computers.
 Also a reasonable price for paying to use on home computers.
 Has a batch processing tool for saving as open ish format files.
 
-However, not possible to code the files directly. Thus need to be converted to mp4 to import into coding software.
+Flashback saves data as its own fbr format. This include audio, video screen capture, and optionally one or more webcams.
+
+I decided not to record on webcams. For the following reasons:
+
+- intrusive feel - having the webcam on and the resulting red light on the screen, I felt was less conducive to feeling comfortable than one 360 camera in the middle of the room.
+- less resources - recording webcam on the laptop
+- reduced video file size of final data file
+- less complexity when processing data - 
+
+One advantage of the fbr format is that you can examine key strokes that the participant has made while interacting with the keyboard and see their mouse travel over the screen and see when they click on different parts of the screen.
+
+However, it not possible to code the natively created files directly. Thus need to be converted to mp4 to import into coding software like Nvivo. In this process the keyboard and mouse data is lost.
+
+Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session.
+
 
 ### Learnings and recommendations
 
