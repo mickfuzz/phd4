@@ -93,7 +93,7 @@ I use a software sustainability approach also influenced by a personal modificat
 
 I also take a more practical approach which takes into account working with peers and that such advocacy is not a core part of my job or this research.
 
-Such an attitude may involve compromises or hacking systems, software or processess
+Such an attitude may involve compromises or hacking systems, software or processes
 
 ### 360 Video Processing
 
@@ -125,7 +125,7 @@ I decided not to record on webcams. For the following reasons:
 - intrusive feel - having the webcam on and the resulting red light on the screen, I felt was less conducive to feeling comfortable than one 360 camera in the middle of the room.
 - less resources - recording webcam on the laptop
 - reduced video file size of final data file
-- less complexity when processing data - 
+- less complexity when processing data -
 
 One advantage of the fbr format is that you can examine key strokes that the participant has made while interacting with the keyboard and see their mouse travel over the screen and see when they click on different parts of the screen.
 
@@ -133,6 +133,11 @@ However, it not possible to code the natively created files directly. Thus need 
 
 Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session.
 
+
+### General File management
+
+This whole process is intensive for file management. Making me create a linux commandline toolbox.
+https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=114325803502752689876
 
 ### Learnings and recommendations
 
