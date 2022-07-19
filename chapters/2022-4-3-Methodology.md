@@ -189,7 +189,6 @@ http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
 The aim is to code based on the game elements that are being added to the game.
 
-
 As way of coding initially I considered the MDA framework for the simplicity.
 
 - mechanics
