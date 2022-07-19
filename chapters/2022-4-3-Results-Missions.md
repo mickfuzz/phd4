@@ -9,14 +9,9 @@ layout: post
 categories: chapter
 title: Results Missions
 ---
-
-
-
 ## Introduction to This Writing
 
 In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a community of designers and coders with an educational aims has been explored.
-
-
 
 The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
 

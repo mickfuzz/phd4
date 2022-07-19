@@ -253,7 +253,20 @@ Imagining a constructionist game-based pedagogical model: Using tabletop role-pl
 
 The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
 
-## What research questions are answered by what data gathering and analysis - and described in what chapter?
+## Research Questions
+
+### How Research Questions Evolved
+
+About RQs and RD1 and RD2 and their evolutions.
+
+Different stages of revisiting. Examine journal and other writings and presentations for strands of thinking. For example the alternation of abstract and concrete as a suggested learning journey, explored in my journal . However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis. There was something about the formalisation of this process into graph form which put me off. 
+
+Instead the community elements
+
+Part of this early writing up process is to revise research questions. To so this I've used a Kanban software allowing rapid revision and repositioning of questions and concepts. [What is a KanBan approach. ]
+
+
+### What research questions are answered by what data gathering and analysis - and described in what chapter?
 
  <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
  As this is done very methodically

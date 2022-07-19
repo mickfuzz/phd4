@@ -45,6 +45,12 @@ The process of writing for and audience of teachers was productive in shaking up
 
 #### Nvivo coding
 
-when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with. 
+when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with.
 
-### Explore how to present Missions part of 3M framwork as chapter.
+### Explore how to present Missions part of 3M framework as chapter.
+
+This involves developing a stream of activity which is treated in whole. While some writing about foundational aims and background context is included as a summary of the structure of the introduction and literature review of the intended thesis.
+
+#### Revision of Research questions
+
+Part of this early writing up process is to revise research questions. To so this I've used a Kanban software allowing rapid revision and repositioning of questions and concepts. [What is a KanBan approach. ]
