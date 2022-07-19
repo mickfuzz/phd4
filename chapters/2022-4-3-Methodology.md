@@ -259,12 +259,13 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 About RQs and RD1 and RD2 and their evolutions.
 
-Different stages of revisiting. Examine journal and other writings and presentations for strands of thinking. For example the alternation of abstract and concrete as a suggested learning journey, explored in my journal . However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis. There was something about the formalisation of this process into graph form which put me off. 
-
-Instead the community elements
+Different stages of revisiting. Examine journal and other writings and presentations for strands of thinking.
 
 Part of this early writing up process is to revise research questions. To so this I've used a Kanban software allowing rapid revision and repositioning of questions and concepts. [What is a KanBan approach. ]
 
+Themes emerging iniclude the alternation of abstract and concrete as a suggested learning journey, explored in my journal. However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis. There was something about the formalisation of this process into graph form which put me off. I also realised that the frameworks that I spent a while trying to make accessible and gameful in the design, grouping and theming of their presentation, had strong similarities to concepts of abstract curriculum if explored through a semantic waves lens. Curriculum seemed too well a well trod path for a PhD thesis.  
+
+Instead the community elements of the learning experience regained focus during the process of coding. There were particularly interesting elements of the learning environment which contributed to notable behaviours. The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
 
 ### What research questions are answered by what data gathering and analysis - and described in what chapter?
 
