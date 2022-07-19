@@ -1,5 +1,4 @@
 ---
-# all the regular stuff you have here
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
@@ -7,7 +6,7 @@ zotero:
   csl-style: apa # pre-fill the style
 layout: post
 categories: misc
-title: Game Making and Coding Fluency in a Primary Computing Context
+title: Game Making and Coding Fluency in a Primary Computing Context Anon
 ---
 
 <!--

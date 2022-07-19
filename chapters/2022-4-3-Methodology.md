@@ -172,7 +172,9 @@ I am guided by approaches which use video to develop both in-depth thematic anal
 
 #### Overall Rational
 
-The coding is not grounded but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
+The coding process is not grounded [explain] but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
+
+when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with.
 
 
 #### Coding Roles

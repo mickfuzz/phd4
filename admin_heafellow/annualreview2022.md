@@ -32,7 +32,7 @@ The use of games consoles loaded with games created by participants is an engagi
 
 ### Book chapters for background information.
 
-The process of writing for and audience of teachers was productive in shaking up my thinking on Computational Thinking. 
+The process of writing for and audience of teachers was productive in shaking up my thinking on Computational Thinking.
 
 ### Results in the 3M Framework as a book chapter.
 
@@ -45,5 +45,6 @@ The process of writing for and audience of teachers was productive in shaking up
 
 #### Nvivo coding
 
+when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with. 
 
 ### Explore how to present Missions part of 3M framwork as chapter.
