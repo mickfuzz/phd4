@@ -51,12 +51,26 @@ Another guiding principle of design-based research - which is present in the tec
 
 ### Stages of Data Gathering and ANALYSIS
 
- - Early gathering via journal / notes
+ - Early gathering via journal / notes / practioner interviews
  - Mutual nature of the design progressions -
+
+
 
 
 #### Mutual nature of the evolution of the design
 
+
+### Role of Practitioner interviews
+
+These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.
+
+Saskia Leggett - researcher in Family Learning program under direction of Roque. She took a leading role in creating the recourses coming out of the program.
+
+Matt - academic at. Also active in a non-profit learning coding
+
+Dave  - Parent and volunteer at Coder Dojo and participant in
+
+James Clegg - PGCE student and volunteer student helper for a summer program of game making.
 
 
 
@@ -180,6 +194,9 @@ when coding I started with some preset codes from the literature for examples Ba
 #### Coding Roles
 
 Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analyse and code the interaction between parent and child rather than dual code the behaviours.
+
+Evolving notes on coding of roles are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
+
 
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
