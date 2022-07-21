@@ -182,7 +182,11 @@ I am guided by approaches which use video to develop both in-depth thematic anal
 <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
 
 
-### Notes on Underpinning of Coding Process
+### Notes on Underpinning of Thematic Analysis
+
+Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
+
+
 
 #### Overall Rational
 
@@ -196,6 +200,8 @@ when coding I started with some preset codes from the literature for examples Ba
 Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analyse and code the interaction between parent and child rather than dual code the behaviours.
 
 Evolving notes on coding of roles are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
+
+
 
 
 <!-- Source article
@@ -280,7 +286,7 @@ Different stages of revisiting. Examine journal and other writings and presentat
 
 Part of this early writing up process is to revise research questions. To so this I've used a Kanban software allowing rapid revision and repositioning of questions and concepts. [What is a KanBan approach. ]
 
-Trello link -
+Trello link - https://trello.com/b/cuElVYPQ/phd-questions
 
 Themes emerging include the alternation of abstract and concrete as a suggested learning journey, explored in my journal. However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis. There was something about the formalisation of this process into graph form which put me off. I also realised that the frameworks that I spent a while trying to make accessible and gameful in the design, grouping and theming of their presentation, had strong similarities to concepts of abstract curriculum if explored through a semantic waves lens. Curriculum seemed too well a well trod path for a PhD thesis.  
 

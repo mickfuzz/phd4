@@ -19,8 +19,11 @@ Based on cards for DPs, and additional challenges, and fictional design.
 
 ## Lock Down & suspended study
 
+In Summer 2020 students who were also teaching part time were required to suspend studies. While this was frustrating, I did halt much writing and data gathering.
+
 ## Dissemination of results
-While lock down presented some challenges. It has allowed me to
+
+While lock down presented some challenges. There were opportunities to disseminate early results. 
 
 ### Online Mozilla Conference
 
@@ -54,3 +57,13 @@ This involves developing a stream of activity which is treated in whole. While s
 #### Revision of Research questions
 
 Part of this early writing up process is to revise research questions. To so this I've used a Kanban software allowing rapid revision and repositioning of questions and concepts. [What is a KanBan approach. ]
+
+The link of project-based learning to my own teaching at university and the focus on inclusive practices of recent writings steered me to include these broad terms into a revision of research questions. However, as coding began, the need to bring more focus to the questions became apparent.
+
+
+## Appendices
+
+- Summary of the data gathering as table.
+- Evolution of research questions - as screen shot from Trello
+- Current coding structure.
+- Abstract and link to full book chapter - and draft chapters
