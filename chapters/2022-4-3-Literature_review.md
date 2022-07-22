@@ -33,3 +33,11 @@ title: Literature Review
 - Benefits of PBL, autonomy / agency /
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2)
+
+
+### Communities of Learners
+
+Rogoff as key academic here. Participation on community activities.
+
+Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+I extend this in this study, how can the learning design contribute?
