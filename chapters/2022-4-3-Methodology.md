@@ -196,16 +196,17 @@ How much emphasis to place on the Thematic Analysis is questionable. It served t
 
 - as a process to get closer to the data
 - to contrast thematic analysis of the stages of design with other learning models like PBL
-- to identify roles through repeated patterns of
+- to identify roles through repeated patterns of interactions
+- to reflect on the thesis questions
 
 
 #### Coding Roles and Interactions.
 
-Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. 
+Evolving notes on coding of roles and interactions are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
-Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
+Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
 
-Evolving notes on coding of roles are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
+For example, the work of my own staring point when coding was guided by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
 
 when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
 
