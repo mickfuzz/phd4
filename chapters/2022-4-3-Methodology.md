@@ -192,21 +192,37 @@ Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/doc
 
 The coding process is not grounded [explain] but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
 
-when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with.
 
 
-#### Coding Roles
+#### Coding Roles and Interactions.
 
-Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner. some of the roles involve take place outside of the learning environment beings studies. Also it may be less complex to analyse and code the interaction between parent and child rather than dual code the behaviours.
+Roles are different from interactions existing on a higher order of anaysis.
+
+Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
 
 Evolving notes on coding of roles are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
+when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
 
+Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
 
+ To less complex to analyse and code the interaction between parent and child rather than dual code the behaviours.
 
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
+
+#### Coding Design Cycle Stages
+
+There are similar stage based approaches to creating a digital project. Firstly project based learning (PBL), then Inquiry based learning, finally design thinking. This design could adopt any one of these, however the creation of a digital product more closely resembles a design approach with testing stages of the created product.
+
+The design process characteristics are broadly as follows; the process is often iterative, involves evaluation, seperates planning from implementation.
+
+Resnick in this area has written of a creative design spiral.
+
+The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation.
+
+LATER - from these general term, more specific terms related to coding games may emerge?
 
 #### Coding Game Design Themes
 
