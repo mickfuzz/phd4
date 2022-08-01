@@ -192,11 +192,16 @@ Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/doc
 
 The coding process is not grounded [explain] but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
 
+How much emphasis to place on the Thematic Analysis is questionable. It served to answer the research questions in the following ways.
+
+- as a process to get closer to the data
+- to contrast thematic analysis of the stages of design with other learning models like PBL
+- to identify roles through repeated patterns of
 
 
 #### Coding Roles and Interactions.
 
-Roles are different from interactions existing on a higher order of anaysis.
+Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. 
 
 Starting analysis of the video capture gathered was guided in most specific terms by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
 
@@ -206,7 +211,7 @@ when coding I started with some preset codes from the literature for examples Ba
 
 Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
 
- To less complex to analyse and code the interaction between parent and child rather than dual code the behaviours.
+ I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type.
 
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
