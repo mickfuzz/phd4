@@ -188,7 +188,7 @@ Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/doc
 
 
 
-#### Overall Rational
+#### Overall Rational and Approach
 
 The coding process is not grounded [explain] but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
 
@@ -198,6 +198,8 @@ How much emphasis to place on the Thematic Analysis is questionable. It served t
 - to contrast thematic analysis of the stages of design with other learning models like PBL
 - to identify roles through repeated patterns of interactions
 - to reflect on the thesis questions
+
+Following the approach of Morcom -@morcomScaffoldingSocialEmotional2014, I drew on Rogoff's -@rogoffObservingSocioculturalActivity1993 three planes of sociocultural activity used to help understand activity in a Community of Learners.  
 
 
 #### Coding Roles and Interactions.
@@ -232,7 +234,9 @@ LATER - from these general term, more specific terms related to coding games may
 
 #### Coding Game Design Themes
 
-The aim is to code based on the game elements that are being added to the game.
+The process of learning game making through deepening your knowledge of game elements is explored  by Jesse Schnell -@schellArtGameDesign2008.
+
+Coding based on the game elements that are being added to the game serves to xxx ?
 
 As way of coding initially I considered the MDA framework for the simplicity.
 
