@@ -126,4 +126,4 @@ Consider Wider Methodologies - Including Gesture -------------------------------
 
 • Would really need to redesign the practicalities of gathering data and design follow up activities which encourage explanation of concepts and invite gesture and ways to record this
 
-• Agree that this is an interesting area and this is a good follow up study / side study / but don't want to bite off too much for this thesis 
+• Agree that this is an interesting area and this is a good follow up study / side study / but don't want to bite off too much for this thesis
