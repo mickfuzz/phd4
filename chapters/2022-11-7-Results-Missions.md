@@ -206,9 +206,6 @@ In addition to outlines of game patterns, print-outs or on-line documents to sup
 
 
 
-
-
-
 ## Discussion
 
 
