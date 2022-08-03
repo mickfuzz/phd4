@@ -16,8 +16,6 @@ title: Results Missions
 
 In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a community of designers and coders with an educational aims has been explored.
 
-
-
 The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
 
 NOTE -
@@ -151,16 +149,24 @@ This section starts with a Vignette which begins the process of analysing the us
 |T: I’m just going to go see something|T dives into the code to try to troubleshoot the problem. S watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and object within it.|
 
 
-### Commentary on Vignette
-
-
-### Game Design Patterns and Systems Elements
+### Commentary on Vignette - Game Design Patterns, System Dynamics and Disruptive Play
 
  For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic. I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment.
 
 In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
+
+
+This short vignette illustrate two key themes that will be developed in this thesis: use of design patterns and the value of different making approaches.
+
+We can see a potential clash between the more constructive approach of the parent who wants to maintain the conventions of a playable game and the child's mischievous approach to create something which plays against the conventions. This is explored on more depth in the section on game maker types.
+
+Game design patterns used here for collaborative and motivational purposes to aid the digital making process. When the last problems has been solved the child sees potential in adding a new game design pattern. The name of the patterns is also used as a short cut in terms of communication. There is a body of knowledge built up through playing games which either existed before taking part in these making sessions or as a result in taking part in them.
+
+
+
+
 
 
 
@@ -199,13 +205,40 @@ BOX ENDS
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
 
 
-### Discussion
 
-- Findings - in relation to other research and work -
+
+
+
+## Discussion
+
+
+<!-- - Findings - in relation to other research and work -
 - How does this approach compare to PBL -
 - How are roles similar or different from Barron -
 - Design processes
-- Fr
+- Fr -->
+
+### Three planes of Design Patterns.
+
+We can use Rogoff's,  three planes of learning communities to examine how design patterns aid participation in a learning community of game makers.
+
+#### Cultural / Apprenticeship
+
+The knowledge of the patterns from game cultures
+
+
+#### Guided Participation.
+
+by facilitator, look at scaffolding.
+
+
+####  Participatory Appropriation
+
+Look at different examples of this in practice.
+
+
+
+
 
 ## Future Work / Omissions
 
