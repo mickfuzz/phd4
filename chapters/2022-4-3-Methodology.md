@@ -183,22 +183,53 @@ The process of analysis of journal notes and resulting resources required a diff
 
 #### Overall Rational and Approach
 
-The quantity of data prevented extensive and detailed coding using a grounded thematic analysis.
 
-Notes were used in the following ways:
+The following resources were examined
+
+- Book Journal pages
+- Digital journal entries directly in response to going
+- Linear support book and print outs to support participants in sessions
+- Additional 3M model resources to help navigation and reflection and gameful approaches
+
+TO DO - IT MAY BE HELPFUL TO CREATE A TABLE OR DESCRIBE THESE IN MORE DETAIL
+
+Journal Notes were used in the following ways: (perhaps code this)
 
 - as a reflective tool after sessions
 - as a note pad to plan resource creation
 - as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
 - as a
 
+The quantity of data prevented extensive and detailed coding using a grounded thematic analysis.
+Rather than taking a grounded approach which would take too long given the quantity of data, this data was analysed using 3 planes of sociocultural activity. The rationale for this is as follows:
+
+ - Using an existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
+ - RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork using the concept of guided participation.
+ - The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
+ - While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions.
+ - While the three planes provided a higher level framework, the specifics of the data gave greater granularity and formed sub categories of coding - thus avoiding the problem of analytic preconceptions.
+
+
+#### Specifics of Coding to a 3 Planes Approach
+
+ The analysis of these resources using the three planes involved a choice of some of the following
+
+- scanning written document and converting digital documents for inclusion into nvivo for formal Coding
+- using a spread sheet and putting categories and notes in to columns
+- using trello or other Kanban
+- using a table in word to record notes on data in-situ
+
+The video data explored in nvivo is very time consuming, and given this and the factor that the transforming reflections into  learning resources, already involves a process of filtering, a much courser level of data analysis. However, using a static text only approach such as describing data in prose or using a table in a word document does not allow for filtering based on themes which is potentially useful as an analyitical too.  
+Thus using MS Excel as a simple way to collate data without translation seems appropriate.
+
+
+#### Note on creation of learning and teaching resources  
+
 The process of refining this reflection into learning and teaching resources was complex and iterative. The following paragraph illustrates the process using a case study?
 [PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
 
-Rather than taking a grounded approach which would take too long given the quantity of data, this data was analysed using 3 planes of sociocultural activity. The rationale for this is as follows:
 
- - RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork.
- -
+
 
 
 ### Video Coding - Analysis of Data
