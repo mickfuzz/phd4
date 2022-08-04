@@ -176,6 +176,31 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 
 <!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
 
+
+### Analysis of Journal and Teaching Resources
+
+The process of analysis of journal notes and resulting resources required a different approach from that of video data.
+
+#### Overall Rational and Approach
+
+The quantity of data prevented extensive and detailed coding using a grounded thematic analysis.
+
+Notes were used in the following ways:
+
+- as a reflective tool after sessions
+- as a note pad to plan resource creation
+- as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
+- as a
+
+The process of refining this reflection into learning and teaching resources was complex and iterative. The following paragraph illustrates the process using a case study?
+[PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
+
+Rather than taking a grounded approach which would take too long given the quantity of data, this data was analysed using 3 planes of sociocultural activity. The rationale for this is as follows:
+
+ - RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork.
+ -
+
+
 ### Video Coding - Analysis of Data
 
 I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
@@ -183,11 +208,11 @@ I am guided by approaches which use video to develop both in-depth thematic anal
 <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
 
 
-### Notes on Underpinning of Thematic Analysis
+### Notes on Underpinning of Thematic Analysis of Video Data
 
 Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
 
-#### Overall Rational and Approach
+#### Overall Rational and Approach of Coding Video Data
 
 The coding process is not grounded [explain] but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
 
@@ -199,6 +224,16 @@ How much emphasis to place on the Thematic Analysis is questionable. It served t
 - to reflect on the thesis questions
 
 Following the approach of Morcom -@morcomScaffoldingSocialEmotional2014, I drew on Rogoff's -@rogoffObservingSocioculturalActivity1993 three planes of sociocultural activity used to help understand activity in a Community of Learners.  
+
+#### What was Excluded and Rationale
+
+The following themes were excluded but did emerge as potential learning outcomes in the final model;
+
+- Elements of Computational Thinking
+- Systems Thinking Concepts
+
+They have been excluded as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
+
 
 
 #### Coding Roles and Interactions.
