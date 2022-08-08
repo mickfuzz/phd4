@@ -22,7 +22,7 @@ Mick Chesterman teaches at the Manchester Metropolitan Faculty of Health and Edu
 
 ## Abstract
 
-This chapter describes digital game making as an inclusive process to develop coding concepts and coding fluency. It outlines research which emerges from my work with young learners of ages 8-11 which leverages the motivational and navigational affordances of enthusiast game making communities and adapts it to more structured educational environments. I summarise the features of two game making tools used in my study. Finally this chapter contains an overview of the 3M game making learning design and links to extensive resources for learners and teachers.
+This chapter describes digital game making as an inclusive process to develop coding concepts and coding fluency. It outlines research which emerges from my work with young learners of ages 8-11 which leverages the motivational and navigational affordances of enthusiast game making communities and adapts them to more structured educational environments. I summarise the features of two game making tools used in my study. Finally this chapter contains an overview of the 3M game making learning design and links to extensive resources for learners and teachers.
 
 ## Introduction
 
@@ -233,7 +233,7 @@ _Missions as Islands_ -->
 <!-- Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Having them all mapped out meant. -->
 <!-- Is this better in Missions?   -->
 
-**Learning Dimensions Map:** In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes. Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
+**Learning Dimensions Map:** In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013-1] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes. Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
@@ -269,7 +269,7 @@ The final M of the 3M framework stands for motivational methods. These methods a
 
 **Drama / Fictional Frameworks:** Another method I use to increase learner engagement in game making is the concept of using a fictional scenario or simulation. A fictional community while less authentic than a professional community, can still provide some of the associated benefits of authenticity. I have worked with practitioners of Drama Education department at Manchester Metropolitan University to develop such fictional dramas, but you do not have to be a trained drama practitioner to draw on key techniques to increase learner engagement. For example, I asked trainee teachers to devise a scenario to support a series of sessions and they used a fiction of making games for an alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways:
 
-- Asking learners to step into a role can increase identification with participation in the project. For example you may say "As game designers, we will make this game for a particular audience".
+- Asking learners to step into a role can increase identification with participation in the project. For example you may say, "As game designers, we will make this game for a particular audience".
 - Fictional situations can help create a sense of imagined jeopardy which can help learners stay on track with their creative timescale and may increase their commitment to the process.
 -  When learners share their games with their real or imagined audience, they can talk through their design decisions and challenges, thus creating an opportunity for reflection.
 - Drama processes can help explore identification with or hostility to gaming cultures.
@@ -294,14 +294,14 @@ Table 1.2.  Key Features of 3M Game Making Model
 
 ### Supporting Resource 1: Phaser and Glitch.com
 
-Similar resources exist for text-based coding using the Phaser framework. The resources use screenshots of the glitch.com code playground. The resources include:
+The following resources exist for text-based coding using the Phaser javascript framework. While other programming environments can be used, these resources are based on learners using the glitch.com code playground website.
 
-* A splash page for Phaser / Glitch resources. This contains links to print outs, tutorials and activities - https://glitch-game-makers-manual.glitch.me/
-* An interactive starting template and grid of game design patterns - https://ggc-examples.glitch.me/
+* A splash page for Phaser / Glitch.com resources. This contains links to print outs, tutorials and activities - https://glitch-game-makers-manual.glitch.me/
+* An interactive starting template and grid of game design patterns that learners can add to the incomplete template - https://ggc-examples.glitch.me/
 
 ### Supporting Resource 2: 3M & MakeCode Arcade
 
-The application of the 3M model applied using the MakeCode Arcade software is available online as part of a collaborative online documentation repository including a template of a broken game to fix, printable cards offering quick changes to core design patterns, printable documents which describe game design patterns detail how to implement them, a map of learning dimensions learners are likely to encounter when making games and a five-week course adaptable by teachers. All of these resources are available at https://mickfuzz.github.io/makecode-platformer-101
+The application of the 3M model applied using the MakeCode Arcade software is available online as part of a collaborative online documentation repository. The resource includes a template of a broken game to fix, printable cards offering quick changes to core design patterns, printable documents which describe game design patterns and steps of how to implement them, a map of learning dimensions that learners are likely to encounter when making games, and an adaptable five-week course of activities. All of these resources are available at https://mickfuzz.github.io/makecode-platformer-101
 
 <!-- * A broken game to fix and printable cards offering quick changes to core design patterns. This is the starting activity.[^12]
 * An online interactive grid of all game design patterns which link to more detailed step by step implementation instructions.[^13]
@@ -312,8 +312,7 @@ The application of the 3M model applied using the MakeCode Arcade software is av
 
 ### Supporting Resource 3: Other MakeCode Arcade Tutorials
 
-While the above iteration of the 3M Model applies to a Platformer Game, many other games can be made using the MakeCode Arcade software. For many resources and tutorials are available at https://arcade.makecode.com/
-
+While the above iteration of the 3M Model applies to a Platformer Game, many other genres of games can be made using the MakeCode Arcade software. Many resources and tutorials are available at https://arcade.makecode.com/
 
 ## Conclusion
 
