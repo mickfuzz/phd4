@@ -292,7 +292,7 @@ Variable changes needed immediate testing.
 ### Leading with GDP as a way to explore other Learning Dimensions
 Under explored - but part of the thinking here. Perhaps move to discussion
 https://docs.google.com/document/d/1uRitN8P6m5Xr399jl4-WGhCnTQh5pptAWpkHpTRzwIQ/edit?pli=1#bookmark=id.kbntbvgpx1mu
-The later Make Code cards which contained links to such patterns. 
+The later Make Code cards which contained links to such patterns.
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
@@ -303,7 +303,20 @@ My end design highlights game patterns as a starting point for user interest and
 Currently try to keep to note form.
 Also reference notes in spread sheet
 
+## Personal Plane
+
+Compare formal teaching of CT and CS with this approach.
+
+Discuss the use of gdps as a gateway to other concepts as expored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
+
+Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
+Rising to the concrete
+
+
 ## Cultural Plane / Apprenticeship
+
+Design patterns used in other contexts as a form of apprenticeship
+
 
 ### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 
@@ -311,7 +324,7 @@ Bring out detail from the study to this section.
 
  - specifics of Debugging errors
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
- - the po
+ -
 
 
 <!--
