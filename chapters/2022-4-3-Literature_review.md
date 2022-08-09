@@ -124,6 +124,8 @@ The model advocates the remixing of existing games to act as a scaffold to build
 
 ### Design Patterns and Games
 
+New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsingGameplayDesign2019a]. 
+
 The prescriptive and categorisable nature of CT would seem to suit rigorous assessment. y Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically, the use of design patterns and then combination of those patterns into large game mechanics Werner et al., 2014, 2012). This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage.
 
 The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
