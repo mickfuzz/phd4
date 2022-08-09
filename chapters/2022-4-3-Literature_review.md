@@ -39,17 +39,22 @@ title: Literature Review
 
 ## Community Approach to Game making
 
-Foundation sociocultural approach which goes beyond a conception of tranmission model of learning and embraces learning in context.
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
 - Vygotsky - foundation
 - Wertsch and Cole - wider definition of community and context
 - Rogoff - community of learners and 3 foci as a way to frame this in education
 
+// don't focus in on DBR save that...
+
 ### Communities of Learners
-
-
 
 Rogoff as key academic here. Participation on community activities.
 
+## Summary of Digital Making Studies from a Sociocultural Perspective
+
+As such, to help answer RQ1 & 2, this literature review now turns to explore game making and digital making studies which explore social and community planes either explicitly or implicitly.
+
+### Family Making
 Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
 I extend this in this study, how can the learning design contribute?
