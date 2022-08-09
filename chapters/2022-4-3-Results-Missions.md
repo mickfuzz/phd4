@@ -208,8 +208,7 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
-
-### Game design patterns used as an organising tool
+### GDPs used as an organising tool
 
 #### Task delegation
 
@@ -219,10 +218,9 @@ The opening vignette shows the name of a GDP as a way to communicate about the s
 The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
 
 
-#### Goal Setting and Prioritisation
+#### GDPs for Goal Setting and Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
-
 CONVERT INTO A TABLE
 
 M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
@@ -253,14 +251,50 @@ This example shows the use of a number of game design patterns. At this stage of
 
 In addition, the child describes a feature that they want to see happen.
 
-There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. 
+There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. This is explored in the next section.
 
+### GDPs and division of Labour
 
-### Game design patterns used as a communicative tool by design partnership
+The implementation of some GDP involved the use of different tools and activites. For example, the design of a graphical element suited some learners and they depended on teh support of others to emplement those changes in code.
 
+While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
+ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-michelle
 
+### GDP and sustaining engagement
 
+The process of adding in a new GDP to the game was often a sustaining activity.
+
+#### GDPs and personal expression
+
+Especially if part of the design allowed the expression of identity or a designed element - for example graphics, audio or a written entry.
+
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+
+#### GDPs propagation through peer activity
+
+The process of adding levels was something that was spread predominately through one child's work to help others to add that features. The work of the child to add 21 levels to their own game served as a way to publicise this possibility. The role of that child as an expert in that design pattern, and their willingness to share their knowledge, shifted focus away from help from myself as a facilitator, or the instruction-based support documents.
+
+PERHAPS ADD TRANSCRIPT EXAMPLE ?-
+
+### Interaction of GDPs with Playtesting as method
+
+What was noticeable about - this in particular?
+Desinging for others
+
+### GDPs to support Iterative Design Practices
+
+Well suited to build a repeated design practice.
+Especially with starting documents,
+Small changes had big effects.
+Variable changes needed immediate testing.  
+
+### Leading with GDP as a way to explore other Learning Dimensions
+Under explored - but part of the thinking here. Perhaps move to discussion
+https://docs.google.com/document/d/1uRitN8P6m5Xr399jl4-WGhCnTQh5pptAWpkHpTRzwIQ/edit?pli=1#bookmark=id.kbntbvgpx1mu
+The later Make Code cards which contained links to such patterns. 
+
+My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
 ## Discussion
 
@@ -276,7 +310,7 @@ Also reference notes in spread sheet
 Bring out detail from the study to this section.
 
  - specifics of Debugging errors
- - the media literacy practices of transfer between tools
+ - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
  - the po
 
 

@@ -14,6 +14,7 @@ The aims of this literature review:
 
 - introduce concepts that may also inform conceptual framework / methodology
 - outline existing game making pedagogies
+  - CT in relation to Design Patterns - abstract / concrete elements
 - focus in on cultural / social elements of particular promising pedagogies.  
 
 <!-- I've done previous planning here.
