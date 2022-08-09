@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: chapter
-title: Results Missions
+title: Finding Chapter One - Missions
 ---
 ## Introduction to This Writing
 
@@ -18,19 +18,19 @@ The structure of this thesis identifies streams within the resolutions to these 
 NOTE -
 While this piece of writing contains results, it also contains sections which will in the final thesis be included in other chapters. The following list explains the final location of sections.
 
-- Introduction - Communities support learning coding and design, Introduction to RQs
-- Literature Review - what exists for game making community
+- Introduction
+  - Coding, digital making, game making. Exploring motivations in each domain.
+  - Inclusive approaches and the value of PBL, ULD  Introduction to RQs
+- Literature Review -
+  - what exists for game making community
 - Methodology - journal, evolution of design, video analysis,
-- Chapter Findings -
+- Chapter Findings - focusing Design Patterns
 - Discussion -
 
 <!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-
 Also the RQ questions which answered
 https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
-
-
 -->
 
 ## Methodology
@@ -39,20 +39,18 @@ In the previous chapter on methodology, I have outlined how, in line with a soci
 
 In this writing I will outline the data collected and how it is analysed. And perhaps which questions the data answers.
 
-
 |**Data Source**|**Analysis**|**Comments**|
 |:----|:----|:----|
 |Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 |Video Capture Data| Vignettes Selected based on evaluation criteria  |  |
 
 
-## Analysis of findings - Using Design Patterns.
+## Analysis of Findings - Game Design Patterns as Missions
 
 This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
 
 
 
-###
 
 ### Vignette
 
