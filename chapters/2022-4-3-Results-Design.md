@@ -16,6 +16,14 @@ This should be framed within DBR language and concepts.
 
 For now just descriptive, based on observation of what was happening with participants and my journal notes.
 
+End result is that working on Game Design Patterns are the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014].
+
+<!--
+There's lots to add in here.
+chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
+https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
+ -->
+
 
 ### Description of Phases
 
@@ -47,7 +55,7 @@ At the end of this stage participants showed their games to students in the foye
 
 The second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game.
 
-I brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019). In the first iteration the hub linked to self contained games which contained code examples of game design patterns. 
+I brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019). In the first iteration the hub linked to self contained games which contained code examples of game design patterns.
 
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
@@ -75,26 +83,3 @@ Revisit FM book as a guide for Glitch/ Phaser
 ### Issues Emerging from Evolution of Design
 
 More detailed analysis - thoughts on validity of data -->
-
-
-
-<!-- I have carried out six phases of pilot workshops with home educator families. I will outline the core activities that have taken place including only the most basic detail on tools used. In following sections, the development of toolsets are analysed in greater depth. The core of the game making programme, which emerged in the first phase and has remained, is a starting template of a simple platform game which participants alter to make their own. The evolution of different versions and locations of this starting template has proven to be a key marker of the progress of the programme. The timeline of phases of activities is outlined in the following table.
-
- Phase   Date                       
- Game Template / Making Tool                                                                                           Type of Data Gathering
-
-  1       Oct 2017-Mar 2018          At start - No template to start\                                                                                                                                                                                                                                                                                                                           Journal notes on design, informal participant evaluation                                      At end - [Th](https://codepen.io/mrmick/pen/dZwKZd)[is](https://codepen.io/mrmick/pen/dZwKZd)[ ](https://codepen.io/mrmick/pen/dZwKZd)[P](https://codepen.io/mrmick/pen/dZwKZd)[haser ](https://codepen.io/mrmick/pen/dZwKZd)[tutorial](https://codepen.io/mrmick/pen/dZwKZd)[ template.](https://codepen.io/mrmick/pen/dZwKZd) (in Thimble.mozilla.org)   
-
-  2       Summer 2018                Simple Game to Edit v.1 ([Code Pen](https://codepen.io/mrmick/pen/wXMMXR))                                                                                                                                                                                                  -----------------------                                                                                Journal notes on design
-
-  3       Jan-March 2019             Simple Game to Edit v. 2 ([Glitch.com](https://glitch.com/edit/#!/simple-game-to-edit?path=js/game.js:1:0))                                                                                                                                              Extensive journal notes on participation and evolving design, some screen capture data, participant interviews, one session 360 camera
-
-  4       May 2019                   
-  Grid Game Template [(Glitch.com)](https://grid-game-template.glitch.me)                                                                                              
-  Journal notes on participation, screen capture data, participant interviews, all but one sessions 360 camera
-
-  5       October -- December 2019   
-  Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                            Journal notes on participation, extensive screen capture data, participant interviews, all sessions 360 camera
-
-  6       Jan-March 2020             
-  Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                               -->

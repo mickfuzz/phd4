@@ -397,9 +397,9 @@ https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/
 
 ### RQ1 - What game making pedagogies exist? -
 
-This has already answered been addressed in the Literature Review.
+In the Literature Review.
 
-### RQ2 - How can you apply Project Based Learning principles (and inclusive teaching methods) to a game making / creative coding?
+<!-- ### RQ2 - How can you apply Project Based Learning principles (and inclusive teaching methods) to a game making / creative coding?
 
 This is covered in the first results chapter on evolution of the design. Working title "Evolution of 3M model"
 
@@ -410,7 +410,7 @@ The formation of
 - Interviews with participants some informal and some formal instructed directly adaptations to design
 - Journal notes
 - Changes to the resources themselves - in tandem with journal notes,   
-- Analysis of video data (stage one)
+- Analysis of video data (stage one) -->
 
 ### RQ3 - How do game patterns support the development of coding practices with novices?
 

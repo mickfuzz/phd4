@@ -6,7 +6,7 @@ zotero:
   csl-style: apa # pre-fill the style
 layout: post
 categories: misc
-title: Game Making and Coding Fluency in a Primary Computing Context Anon
+title: Game Making and Coding Fluency in a Primary Computing Context
 ---
 
 Mick Chesterman[0000-0002-8005-2390]

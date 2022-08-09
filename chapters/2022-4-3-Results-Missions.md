@@ -25,10 +25,13 @@ While this piece of writing contains results, it also contains sections which wi
   - what exists for game making community
 - Methodology - journal, evolution of design, video analysis,
 - Chapter Findings -
- - emergence of focusing of Design Patterns
+ - emergence of focusing of Design Patterns - currenyly as different chapter - Results Design
  - focusing on Design Patterns
- - use of design patterns for navigation
+ - Use of design patterns as a communicative tool
 - Discussion -
+  - Cultural  
+  - social
+  - personal
 
 <!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
@@ -149,6 +152,13 @@ This section starts with a Vignette which begins the process of analysing the us
 |T: I’m just going to go see something|T dives into the code to try to troubleshoot the problem. S watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and object within it.|
 
 
+<!-- For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
+
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic. I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment.
+
+In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.  -->
+
+
 
 ### Missions
 
@@ -184,7 +194,77 @@ BOX ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
 
-## Discussion using Rogoff's 3 foci of Sociocultural Activity as a lens
+## Findings Emerging related to Game Design Patterns / Missions
+
+In a previous section I have explored how game design patterns became the primary unit of activity for participants.
+This, more unit than the overall making of a game, took up the majority of their focus.
+<!-- (see blunden for more on project as unit of Activity
+https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
+
+We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.
+
+In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
+
+QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
+
+
+
+### Game design patterns used as an organising tool
+
+#### Task delegation
+
+While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations.
+
+The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
+The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
+
+
+#### Goal Setting and Prioritisation
+
+The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
+
+CONVERT INTO A TABLE
+
+M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
+You know, keep working through.
+
+F: Yeah.
+ I think I want to get an enemy in - oh no - my person animated.
+
+M: so you want to get your person animated that’s the main thing
+
+M: Shall we concentrate on that and changing the platforms into something different?
+
+
+F: Yeah.
+M: Yeah?
+F: I also want to make a theme tune.
+
+M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
+F: hmmm
+M: just cos it gets really overwhelming.
+M: Yeah..? So…?
+
+Long pause
+
+M: Well I’ll have a look at the code and see if I can make sense of that.
+
+This example shows the use of a number of game design patterns. At this stage of the design they have been
+
+In addition, the child describes a feature that they want to see happen.
+
+There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. 
+
+
+### Game design patterns used as a communicative tool by design partnership
+
+
+
+
+
+## Discussion
+
+### using Rogoff's 3 foci of Sociocultural Activity as a lens
 
 Currently try to keep to note form.
 Also reference notes in spread sheet
