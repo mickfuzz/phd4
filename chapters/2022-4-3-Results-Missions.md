@@ -181,14 +181,29 @@ BOX ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
 
+## Discussion using Rogoff's 3 foci of Sociocultural Activity as a lens
 
-### Discussion
+Currently try to keep to note form.
+Also reference notes in spread sheet
 
-- Findings - in relation to other research and work -
+## Cultural Plane / Apprenticeship
+
+### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+
+Bring out detail from the study to this section.
+
+ - specifics of Debugging errors
+ - the media literacy practices of transfer between tools
+ - the po
+
+
+<!--
+rejected notes
 - How does this approach compare to PBL -
 - How are roles similar or different from Barron -
-- Design processes
-- Fr
+- Design processes -->
+
+
 
 ## Future Work / Omissions
 
