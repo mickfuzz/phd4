@@ -13,10 +13,12 @@ title: Literature Review
 
 ## Research Questions
 
-- What game making pedagogies exist?
+<!-- - What game making pedagogies exist?
 - How can you apply Project Based Learning principles (and inclusive teaching methods) to a game making / creative coding?
 - How do game patterns support the development of coding practices with novices?
-- What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ?
+- What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ? -->
+
+### Updated RQs
 
 ## Game Making pedagogies
 
@@ -27,15 +29,25 @@ title: Literature Review
 - Design patterns in Agent sheets
 - Game jam, space, mechanics, rules, etc .
 
-## Project-based learning / Social approach / Communities of Learners.
+<!-- ## Project-based learning / Social approach / Communities of Learners.
 
 - Key features of PBL - from academic sources up to date.
 - Benefits of PBL, autonomy / agency /
 - Creating a community of learners
-- Examples of how this has been applied in game making or creative coding case studies. (RQ2)
+- Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
+
+## Community Approach to Game making
+
+Foundation sociocultural approach which goes beyond a conception of tranmission model of learning and embraces learning in context.
+
+- Vygotsky - foundation
+- Wertsch and Cole - wider definition of community and context
+- Rogoff - community of learners and 3 foci as a way to frame this in education
 
 ### Communities of Learners
+
+
 
 Rogoff as key academic here. Participation on community activities.
 
