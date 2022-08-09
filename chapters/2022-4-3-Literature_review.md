@@ -65,7 +65,7 @@ Guided participation as a middle ground between instruction and discovery.
 
 Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
 
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding. 
+This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
 
 <!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
 
@@ -108,10 +108,27 @@ There is a lot of similarity of game making pedagogies and that of digital makin
 chapters/planning/lit review/game making/overview of gamemaking studies part one/overview_of_gamemaking_studies_v6 (002) + CL.docx.md
 
 
-
 <!-- ## Project-based learning / Social approach / Communities of Learners.
 
 - Key features of PBL - from academic sources up to date.
 - Benefits of PBL, autonomy / agency /
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
+
+### UMC and Half-Baked Games
+
+The 'Use-Modify-Create' approach proposed by Lee and colleagues 2011) is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies Denner et al., 2014, 2012; Werner et al., 2014, 2013).
+
+The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures Lee et al., 2011). The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model Kynigos, 2007; Kynigos and Yiannoutsou, 2018). The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336). Elements of learning designs to support dialogue are explored in a later section of this writing.
+
+### Design Patterns and Games
+
+The prescriptive and categorisable nature of CT would seem to suit rigorous assessment. y Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically, the use of design patterns and then combination of those patterns into large game mechanics Werner et al., 2014, 2012). This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage.
+
+The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
+
+My own findings are inspired by the work of Repenning and Basawapatna 2010) on computational thinking patterns (CTPs) as part of their Scalable Game Design (SGD) programme. We can compare CTPs with design patterns. The kind of CTPs identified in this study are less abstract than the object-oriented design patterns offered by Gamma and colleagues 1995); however a similar guiding principle exists. Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants.
+
+It is the familiarity and understandability which which drew the SCG researchers towards a pattern-based approach. They cite the contested nature of computational thinking National Academy of Sciences on Computational Thinking, 2010), and highlight the utility in more specific learning outcomes compared to more abstract interpretations of computational thinking. Their solution driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations Basawapatna et al., 2011). It it valuable to examine the specifics of the Computational Thinking Patterns (CPTs) in relation to the context, aims and tools of the Scalable Game Design programme. Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme.
+
+![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm"}
