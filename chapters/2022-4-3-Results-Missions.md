@@ -24,7 +24,10 @@ While this piece of writing contains results, it also contains sections which wi
 - Literature Review -
   - what exists for game making community
 - Methodology - journal, evolution of design, video analysis,
-- Chapter Findings - focusing Design Patterns
+- Chapter Findings -
+ - emergence of focusing of Design Patterns
+ - focusing on Design Patterns
+ - use of design patterns for navigation
 - Discussion -
 
 <!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
