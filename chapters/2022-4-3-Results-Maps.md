@@ -9,15 +9,27 @@ layout: post
 categories: chapter
 title: Results Methods
 ---
-
+<!--
 ## Starting thoughts on writing up results.
 
 The 3M model as a pedagogical model which aligns with PBL principles and more general social approach to learning coding.
-
 A start here of mapping in a Matrix that could be included in a concluding chapter.
-https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
-### Maps
+## Introduction on Maps
+
+Maps in the 3M model is a way of representing the more personal dimension of learning.
+
+This is in some ways the weaker part of the thesis in that it emerged not from the actions of the participants but was driven by wider concerns which priortise this more individual account of learning.
+
+Not in any particular order.
+
+- recap of use of resources by 'planners', and feedback wanting a more standard approach
+- tensions in planning and writing FM book, return to resources to explain the "meeting in the middle" as a possible resolution
+- tension of printed or online documents - needs of my study - what was helpful to learners
+- learning dimensions map - a pathway for learners, and planning document for facilitators, this repetoire of patterns in partnership with routes to explore more abstract and applied terminology
+ - mapping learning journeys, patchy experiments and further work.
+
 
 <!-- ![map of learning design]({{site.github.url}}/_posts/Pictures/maps_2000.png) -->
 
@@ -53,18 +65,19 @@ _Map of Learning Dimensions of the 3M Game Making Approach_
 
 **Physical Maps of Missions:** To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game. The game pattern missions were represented as different islands . Learners took time to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it. They also kept a track of the missions that they had completed by tracing a trail as they progressed. In addition the colourful, physical and visual representation served to encourage a sense of community and peer learning. When moving the counter on the map I prompted them to reflect on the coding concepts or other learning dimensions that they had been working with. As learners traced a trail between the different island/missions they had visited, the map provoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments. I am currently investigating replicating this process using online tools to reduce complexity and preparation time.
 
-
-
 ## Emerging Findings
 
-Maps as an area seems to be the weakest point in this process. Perhaps as there are key tensions that still need to be overcomes. This creates the possibility for further discussion on future directions of research which is covered in later chapters.
+Maps as an area seems to be the weakest point in this process. I may have neglected this plane as it is normally well explored in other research based in formal settings, and I was particularly interested in nurturing an organically forming game making community.
+
+This section highlights key tensions in the design that still need to be overcome.
+
+It explores these tensions in relation to existing research and contains further discussion to inform possible future directions of research.
 
 ### Individuals vs Collective Mapping of Progress & Online / Offline issues.
 
 The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
 
-A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics.
-This could cause potential issues with a more competitive atmosphere.
+A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere.
 
 ### Tensions - Online resources vs Print outs
 Also a tension of moving online with resources, via having them available in the class.

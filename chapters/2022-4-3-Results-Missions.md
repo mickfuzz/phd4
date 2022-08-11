@@ -24,14 +24,19 @@ While this piece of writing contains results, it also contains sections which wi
 - Literature Review -
   - what exists for game making community
 - Methodology - journal, evolution of design, video analysis,
+
+- Discussion - not sure where this really fits now.
+  - Cultural  
+  - social
+  - personal
+
 - Chapter Findings -
  - emergence of focusing of Design Patterns - currenyly as different chapter - Results Design
  - focusing on Design Patterns
  - Use of design patterns as a communicative tool
-- Discussion -
-  - Cultural  
-  - social
-  - personal
+ - Design patterns as a "middle level" construct to open door to more concrete and abstract
+
+
 
 <!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
@@ -54,9 +59,6 @@ In this writing I will outline the data collected and how it is analysed. And pe
 ## Analysis of Findings - Game Design Patterns as Missions
 
 This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
-
-
-
 
 ### Vignette
 
@@ -208,6 +210,35 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
+
+
+## Cultural Plane / Apprenticeship
+
+This has been in explored in more depth in the Chapter on Methods / Cultural Plane. To recap.
+
+Design patterns used in other contexts as a form of apprenticeship
+
+### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+Bring out detail from the study to this section.
+
+ - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
+
+## Personal Plane
+ This is explored in more depth in Chapter on Maps / Personal Plane.
+
+ But to set the scene...
+ Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+
+ Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
+
+ The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
+
+ Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
+ Rising to the concrete
+
+
+## Social Plane - Guided Apprenticeship
+
 ### GDPs used as an organising tool
 
 #### Task delegation
@@ -290,9 +321,12 @@ Small changes had big effects.
 Variable changes needed immediate testing.  
 
 ### Leading with GDP as a way to explore other Learning Dimensions
+
 Under explored - but part of the thinking here. Perhaps move to discussion
 https://docs.google.com/document/d/1uRitN8P6m5Xr399jl4-WGhCnTQh5pptAWpkHpTRzwIQ/edit?pli=1#bookmark=id.kbntbvgpx1mu
 The later Make Code cards which contained links to such patterns.
+
+(see Eriksson and Bjork)
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
@@ -302,28 +336,9 @@ My end design highlights game patterns as a starting point for user interest and
 
 Currently try to keep to note form.
 
-## Personal Plane
-
-Compare formal teaching of CT and CS with this approach.
-
-Discuss the use of gdps as a gateway to other concepts as expored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
-
-Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
-Rising to the concrete
 
 
-## Cultural Plane / Apprenticeship
 
-Design patterns used in other contexts as a form of apprenticeship
-
-
-### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
-
-Bring out detail from the study to this section.
-
- - specifics of Debugging errors
- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
- -
 
 
 <!--
