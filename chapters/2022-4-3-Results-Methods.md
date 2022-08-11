@@ -28,8 +28,15 @@ Thus not dealing with the primary unit of activity yet, giving the cultural cont
  - differencing attitudes to games and technology
  - a reflective process to avoid distracting from activity & to share goals and process publically
 
-- Games as Fund of Knowledge to draw on
-  - player and maker types - the sub mission - is a divergent activity - bring in AT theory here
+- Fund of Knowledge to draw on
+  - Home cultures and roles to draw on / militate against.
+  - Game cultures
+    - player and maker types
+    - how to support emerging behaviours and give licence to young people  - side / sub missions
+    - the sub missions - divergent activities can be productive
+
+
+
 
 ####  Notes on Discussion
 
