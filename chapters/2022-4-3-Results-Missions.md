@@ -292,26 +292,18 @@ Variable changes needed immediate testing.
 ### Leading with GDP as a way to explore other Learning Dimensions
 Under explored - but part of the thinking here. Perhaps move to discussion
 https://docs.google.com/document/d/1uRitN8P6m5Xr399jl4-WGhCnTQh5pptAWpkHpTRzwIQ/edit?pli=1#bookmark=id.kbntbvgpx1mu
-The later Make Code cards which contained links to such patterns. 
+The later Make Code cards which contained links to such patterns.
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
 ## Discussion
 
-### using Rogoff's 3 foci of Sociocultural Activity as a lens
+### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
 
 Currently try to keep to note form.
-Also reference notes in spread sheet
+
 
 ## Cultural Plane / Apprenticeship
-
-### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
-
-Bring out detail from the study to this section.
-
- - specifics of Debugging errors
- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
- - the po
 
 
 <!--
