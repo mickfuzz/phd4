@@ -124,6 +124,8 @@ The model advocates the remixing of existing games to act as a scaffold to build
 
 ### Design Patterns and Games
 
+
+
 The prescriptive and categorisable nature of CT would seem to suit rigorous assessment. y Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically, the use of design patterns and then combination of those patterns into large game mechanics Werner et al., 2014, 2012). This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage.
 
 The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
@@ -136,10 +138,10 @@ It is the familiarity and understandability which which drew the SCG researchers
 
 
 New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsingGameplayDesign2019a].
-Could move some of this to the results discussion -
+<!-- Could move some of this to the results discussion -
 
 "
 - Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
 - Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
 - Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way."
+- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
