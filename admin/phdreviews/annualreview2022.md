@@ -1,11 +1,19 @@
-#Annual Review - Year 3 part time
+# Annual Review - Year 3 PT PhD
 
-Find out date of RD2
+The primary aims of this review document is give to a short update on research activity and to frame emerging results from the study in line with existing material in this field.
 
-## Additional Data Gathering
+## Summary of Activity since RD2
 
-Runs of Make Code
-Beginning to
+My RD2 was in December 2019. I was suspended from studies in Summer 2020 and restarted earlier this summer in June 2022. This section is a brief summary of some of the activities that I have managed to undertake in this timeframe.
+
+## Data Gathering - Additional Material and Summary
+
+In early 2020 I rad two additional courses on game making. The first involved a similar level of video data capture and participants to earlier courses with 360, the second was more restricted due to the rooms that were available. Limited screen capture data was recorded.
+
+## Data Analysis
+
+The process of data a
+
 
 ## Iterative Project Design Revision
 
@@ -17,15 +25,12 @@ Emerging Focus on Design Patterns
 
 Based on cards for DPs, and additional challenges, and fictional design.
 
-## Lock Down & suspended study
-
-In Summer 2020 students who were also teaching part time were required to suspend studies. While this was frustrating, I did halt much writing and data gathering.
 
 ## Dissemination of results
 
-While lock down presented some challenges. There were opportunities to disseminate early results. 
+While lock down presented some challenges. There were opportunities to disseminate early results.
 
-### Online Mozilla Conference
+- Online Mozilla Conference 2021: Mozilla were pioneers of in informal digital learning and associated tools [@sefton-green_mapping_2013]. I presented an overview of the key salient features of the 3M model during an online conference to replace the in-person event. The interactive presentation was well received.
 
 ### Online Presentation at Manchester Games Network
 
