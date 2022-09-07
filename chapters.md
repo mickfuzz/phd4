@@ -38,9 +38,9 @@ zotero:
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
+
           {{ post.excerpt }}
-        {%- endif -%}
+
       </li>
       {%- endfor -%}
     </ul>
