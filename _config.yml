@@ -7,11 +7,11 @@ header_pages:
 title: PhD Writing - Game Making with Families
 description: A git approach to writing a phd
 
-url: https://mickfuzz.github.io
+url: https://mickfuzz.github.io/phd4
 #url: https://localhost
 
 
-baseurl: /phd4
+#baseurl: /phd4
 show_excerpts: true
 #theme: jekyll-theme-minimal
 
