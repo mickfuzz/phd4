@@ -3,6 +3,7 @@ theme: minima
 header_pages:
  - about.md
  - index.md
+ - chapters.md
 title: PhD Writing - Game Making with Families
 description: A git approach to writing a phd
 
