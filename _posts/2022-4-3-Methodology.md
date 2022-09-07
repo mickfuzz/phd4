@@ -13,7 +13,6 @@ title: Methodology
 <!-- Also see this writing.
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
-
 ## Theoretical Framework
 
 <!-- The following terms and concepts have already been explored in the literature review.
@@ -21,8 +20,6 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 - Mediation as concept - cole and wertsch  
 - Rogoff planes - and beyond instruction vs child led - a move towards helping teachers to see patterns - towards understandings in pedagogical terms
 -->
-
-
 
 
 ### Introduction to social turn, school,
