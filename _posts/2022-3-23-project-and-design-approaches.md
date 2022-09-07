@@ -6,7 +6,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: misc
-title: Design and Project Approaches in Computing Education
+title: Design And Project Approaches in Computing Education
 ---
 
 Mick Chesterman
