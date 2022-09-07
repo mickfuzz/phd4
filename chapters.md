@@ -10,7 +10,7 @@ zotero:
 ...
 
 <ul>
-  {% for post in site.categories.basic %}
+  {% for post in site.categories.chapter %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
