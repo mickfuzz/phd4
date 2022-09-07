@@ -9,3 +9,7 @@ I'm entering a complicated phase after book chapters. Notes here may help.
 
 ## 6.4.22
 lots of notes on RQs in the written journal. 
+
+## 7.9.22
+moved to HERE
+https://docs.google.com/document/d/1O8H0fE3qfkUdFC1OzYVw7WZVaOHg9xsyMGUfpr8iTKA/edit#

@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard # pre-fill the style
 layout: post
 categories: chapter
-title: Results Methods
+title: Results Maps
 ---
 <!--
 ## Starting thoughts on writing up results.
