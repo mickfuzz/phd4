@@ -226,11 +226,13 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
-### Tensions Emerging
+### Description of Tensions Emerging [NOT SURE WHERE TO PLACE THIS]
 
-The following are a list of tensions related to missions - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
+QUESTION ARE THESE SUITABLE FOR ONE RESULTS VIA DESIGN CHAPTER OR IN THREE SEPARATE ONES
 
+The following are a list of tensions observed in early game making experiments that I recorded in journal form. More likely have some starting tensions from early design stages, that are then analysed in relation to other sources and data, and other resolutions that are more general or sophisticated emerge.
 
+ - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
 
 - **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)** - Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
 
@@ -240,9 +242,14 @@ The following are a list of tensions related to missions - [for a more polished 
 
 - **Learners take on features which are too advanced or complex for their current coding level** Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
+
+
+
 ### Exploring Tensions using Data
 
-Many of these tensions emerged early in the process and later stages of this research allow for a deeper analysis of the experience of these tensions and 
+Many of these tensions emerged early in the process and later stages of this research allow for a deeper analysis of the experience of these tensions and
+
+
 
 ## Cultural Plane / Apprenticeship
 
@@ -285,6 +292,7 @@ The utterance by the child "Key Door Person" seemingly indicated that the child 
 #### GDPs for Goal Setting and Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
+
 CONVERT INTO A TABLE
 
 M: I’ve brought the music, and also we could just concentrate on one thing and just change that.

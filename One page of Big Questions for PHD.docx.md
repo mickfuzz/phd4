@@ -1,6 +1,6 @@
 Questions ---------
 
--   How effective is digital game making to improve problem solving skills in intergenerational learning contexts/
+-   How effective is digital game making to improve problem solving skills in intergenerational learning contexts?
 
 -   How to best design an inclusive digital game making environment aimed at intergenerational groups?
 
