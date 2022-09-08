@@ -5,6 +5,8 @@ header_pages:
  - index.md
  - thesis_chapters.md
  - book_chapters.md
+ - other.md
+
 
 title: PhD Writing - Game Making with Families
 description: A git approach to writing a phd
