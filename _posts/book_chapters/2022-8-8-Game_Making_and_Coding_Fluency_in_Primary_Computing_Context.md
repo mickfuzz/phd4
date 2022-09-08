@@ -5,7 +5,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: apa # pre-fill the style
 layout: post
-categories: bookchapter
+categories: bookchapter, front
 title: Game Making and Coding Fluency in a Primary Computing Context
 ---
 
