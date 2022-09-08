@@ -9,9 +9,21 @@ layout: post
 categories: chapter
 title: Finding Chapter One - Missions
 ---
+
+
+## Other Documents
+
+This chapter builds towards a Matrix that could be included in a concluding chapter.
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+Also the RQ questions which answered
+https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
+
+
 ## Introduction to This Writing
 
-In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a community of designers and coders with an educational aims has been explored.
+In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a communities of designers and coders with an educational aims has been explored paying particular attention strategies that educators can use to aid these processes.
+
+The concept of tensions from Activity Theory has been cited as helpful as an analytical tool particularly in informal and non-formal settings.  
 
 The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
 
@@ -20,9 +32,12 @@ While this piece of writing contains results, it also contains sections which wi
 
 - Introduction
   - Coding, digital making, game making. Exploring motivations in each domain.
-  - Inclusive approaches and the value of PBL, ULD  Introduction to RQs
+  - Inclusive approaches and the value of PBL, ULD  
+  - Introduction to RQs
+
 - Literature Review -
-  - what exists for game making community
+  - What game making pedagogies exist?
+  - what exists to support the development of game making communities?
 - Methodology - journal, evolution of design, video analysis,
 
 - Discussion - not sure where this really fits now.
@@ -37,14 +52,9 @@ While this piece of writing contains results, it also contains sections which wi
  - Design patterns as a "middle level" construct to open door to more concrete and abstract
 
 
-
-<!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
-https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-Also the RQ questions which answered
-https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
--->
-
 ## Methodology
+
+**Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/chapters.html
 
 In the previous chapter on methodology, I have outlined how, in line with a social approach, as a researcher / participant I evolved identified tensions that emerged in the process of developing a learning design.
 
@@ -54,6 +64,7 @@ In this writing I will outline the data collected and how it is analysed. And pe
 |:----|:----|:----|
 |Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 |Video Capture Data| Vignettes Selected based on evaluation criteria  |  |
+
 
 
 ## Analysis of Findings - Game Design Patterns as Missions
@@ -198,8 +209,7 @@ In addition to outlines of game patterns, print-outs or on-line documents to sup
 
 ## Findings Emerging related to Game Design Patterns / Missions
 
-In a previous section I have explored how game design patterns became the primary unit of activity for participants.
-This, more unit than the overall making of a game, took up the majority of their focus.
+In a previous section I have explored how game design patterns became the primary unit of activity for participants. This, more unit than the overall making of a game, took up the majority of their focus.
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 
@@ -208,8 +218,6 @@ We have also looked at the other studies which look at game design patterns as a
 In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
 
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
-
-
 
 
 ## Cultural Plane / Apprenticeship

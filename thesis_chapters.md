@@ -1,6 +1,6 @@
 ---
 # all the regular stuff you have here
-title: Chapters
+title: Phd Thesis Chapters
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
