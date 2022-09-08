@@ -5,7 +5,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard # pre-fill the style
 layout: post
-categories: bookchapter
+categories: bookchapter, front
 title: Keeping it Real - Helping Learners Navigate the Concrete and Abstract
 ---
 
