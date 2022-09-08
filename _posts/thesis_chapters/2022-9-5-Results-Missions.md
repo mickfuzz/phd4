@@ -209,7 +209,13 @@ In addition to outlines of game patterns, print-outs or on-line documents to sup
 
 ## Findings Emerging related to Game Design Patterns / Missions
 
+
+In a previous section I have explored how game design patterns became the primary unit of activity for participants.
+
 In a previous section I have explored how game design patterns became the primary unit of activity for participants. This, more unit than the overall making of a game, took up the majority of their focus.
+
+IS THIS IN A PREVIOUS SECTION / I.E. METHODOLGY? OR IS IT HERE
+
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 
@@ -220,13 +226,32 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
+### Tensions Emerging
+
+The following are a list of tensions related to missions - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
+
+
+
+- **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)** - Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
+
+- **Learner frustration if they are not able to choose what feature they add to the game next:** Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions). This facilitates engagement and motivation.
+
+- **Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
+
+- **Learners take on features which are too advanced or complex for their current coding level** Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+### Exploring Tensions using Data
+
+Many of these tensions emerged early in the process and later stages of this research allow for a deeper analysis of the experience of these tensions and 
+
 ## Cultural Plane / Apprenticeship
 
 This has been in explored in more depth in the Chapter on Methods / Cultural Plane. To recap.
 
-Design patterns used in other contexts as a form of apprenticeship
+ - Design patterns used in other contexts as a form of apprenticeship
 
 ### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+
 Bring out detail from the study to this section.
 
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers

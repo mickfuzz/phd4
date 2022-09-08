@@ -34,7 +34,7 @@ I have carried out four stages of workshops and development with home educator f
 
 See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 
-#### Common between Phases
+#### Common between Phases (perhaps not mention so early? - move to cultural?)
 
 Certain features either common practice, or inspired by research and interviews, were common to all phases.
 
@@ -61,7 +61,7 @@ In terms of supporting resources, stage one was exploratory and responsive; I ha
 
 At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
 
-#### Phase Three
+#### Phase Three - Glitch Game Club
 
 The third phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game.
 
@@ -73,31 +73,28 @@ I brought the workshops resources together a book published on the FLOSS Manuals
 
 I also began the data gathering of . I recorded all interactions via use of 360 camera and screen capture of workstations and undertook post-course interviews with participants. Work on analysis of this data is contained in early results section below.
 
-
-
 Second iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department [@pattersonDramaSTEM2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
 
 I revised the  an online project-hub to link to the project chapters rather than the code examples.
 
-#### Phase Four
+#### Phase Four - MakeCode Arcade
+(Jan 2020 - May 2020)
 
-MakeCode Arcade revision
+I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.
 
-
-
+However, there were some additional changes in the way that design patterns were presented to learners.
 
 
 #### Evolution of Template and supporting resources
-I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
 
+I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
 Go into more detail than previously on the choice and use of tools.
 
 Use the 3M framework as a guide for MakeCode
-
 Revisit FM book as a guide for Glitch/ Phaser
-
-
 
 ### Issues Emerging from Evolution of Design
 
 More detailed analysis - thoughts on validity of data -->
+
+-
