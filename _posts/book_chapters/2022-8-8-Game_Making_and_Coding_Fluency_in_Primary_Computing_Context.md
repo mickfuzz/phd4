@@ -13,7 +13,7 @@ Mick Chesterman[0000-0002-8005-2390]
 Manchester Metropolitan University
 m.chesterman@mmu.ac.uk
 
-[A Pre-publisher Word Document of this chapter is available here](https://github.com/mickfuzz/phd4/raw/main/_posts/worddocs/3MCF_5.docx)
+[A Pre-publisher Word Document of this chapter is available here](https://github.com/mickfuzz/phd4/raw/main/_posts/worddocs/ch_12_3MCF_6.docx)
 
 ##  Bio
 
