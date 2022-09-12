@@ -13,6 +13,8 @@ Mick Chesterman[0000-0002-8005-2390]
 Manchester Metropolitan University
 m.chesterman@mmu.ac.uk
 
+[A Pre-publisher Word Document of this chapter is available here](https://github.com/mickfuzz/phd4/raw/main/_posts/worddocs/3MCF_5.docx)
+
 ##  Bio
 
 Mick Chesterman teaches at the Manchester Metropolitan Faculty of Health and Education on Foundation and project-based units. His PhD studies involve families exploring cultural and ecological issues of coding platform games together. He has a history of teaching media making and web creation skills to facilitate positive change for social groups. In recent years he has run several outreach programs in local communities and schools linked to the University. These workshops have a focus on creative coding and the use of physical materials. He is the founder of a making and repairing workshop called Todmorden Makery which works with adults, young people and families to repair objects and transform old technology into art projects.
