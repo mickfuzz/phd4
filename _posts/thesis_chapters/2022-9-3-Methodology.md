@@ -23,8 +23,6 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 -->
 
 
-
-
 ### Introduction to social turn, school,
 
 There are particular limitations in the kind of empirical research that characterises many studies involving.
@@ -64,6 +62,15 @@ Barab and Squire [-@barab_design-based_2004] describe the messiness of design-ba
 
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
+
+## Sociocultural Methods of Analysis
+
+My process is informed by the work of  the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] of ethnography and three planes of activity.
+
+Include the following points in this section.
+
+- Suitability of this framework for informal education.
+- Justification of smaller data size and depth of analysis.
 
 ### Stages of Data Gathering and ANALYSIS
 

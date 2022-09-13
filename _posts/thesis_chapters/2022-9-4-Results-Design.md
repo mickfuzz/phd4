@@ -169,7 +169,7 @@ In this section I outline Rogoff's initial conceptions of activities happening i
 ### Cultural Elements of the Design
 
 These sections could follow a pattern of
- - rogoff's description / examples
+ - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter. 
  - my model examples
  - other links to PBL frameworks and/or educational concepts and contrast analysis
 
@@ -193,7 +193,7 @@ Mantle of the Expert
 
 Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
 
-The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A 
+The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
 
 The core activity of my participants was implementation of chosen game design patterns.
 
