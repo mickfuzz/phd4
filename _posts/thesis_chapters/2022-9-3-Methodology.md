@@ -249,9 +249,6 @@ The process of refining this reflection into learning and teaching resources was
 [PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
 
 
-
-
-
 ### Video Coding - Analysis of Data
 
 I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
