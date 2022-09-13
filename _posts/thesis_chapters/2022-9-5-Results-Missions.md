@@ -226,30 +226,6 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
-### Description of Tensions Emerging [NOT SURE WHERE TO PLACE THIS]
-
-QUESTION ARE THESE SUITABLE FOR ONE RESULTS VIA DESIGN CHAPTER OR IN THREE SEPARATE ONES
-
-The following are a list of tensions observed in early game making experiments that I recorded in journal form. More likely have some starting tensions from early design stages, that are then analysed in relation to other sources and data, and other resolutions that are more general or sophisticated emerge.
-
- - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
-
-- **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)** - Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
-
-- **Learner frustration if they are not able to choose what feature they add to the game next:** Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions). This facilitates engagement and motivation.
-
-- **Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
-
-- **Learners take on features which are too advanced or complex for their current coding level** Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
-
-
-
-
-### Exploring Tensions using Data
-
-Many of these tensions emerged early in the process and later stages of this research allow for a deeper analysis of the experience of these tensions and
-
-
 
 ## Cultural Plane / Apprenticeship
 

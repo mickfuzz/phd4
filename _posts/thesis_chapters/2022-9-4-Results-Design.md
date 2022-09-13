@@ -34,13 +34,6 @@ I have carried out four stages of workshops and development with home educator f
 
 See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 
-#### Common between Phases (perhaps not mention so early? - move to cultural?)
-
-Certain features either common practice, or inspired by research and interviews, were common to all phases.
-
-* Playtesting
-* Showcase
-* Drama Games
 
 #### Phase One - Initial Experimentation
 
@@ -85,16 +78,83 @@ I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade to
 However, there were some additional changes in the way that design patterns were presented to learners.
 
 
-#### Evolution of Template and supporting resources
-
-I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
-Go into more detail than previously on the choice and use of tools.
+## Evolution of the Learning Design in response to emerging tensions
 
 Use the 3M framework as a guide for MakeCode
 Revisit FM book as a guide for Glitch/ Phaser
+Use tensions as the base?
+
+### Evolution of game template and supporting resources
+
+
+### Description of Tensions Emerging
+
+The following are a list of tensions observed in early game making experiments that I recorded in journal form. More likely have some starting tensions from early design stages, that are then analysed in relation to other sources and data, and other resolutions that are more general or sophisticated emerge.
+
+ - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
+
+- **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)** - Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
+
+- **Learner frustration if they are not able to choose what feature they add to the game next:** Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions). This facilitates engagement and motivation.
+
+- **Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
+
+- **Learners take on features which are too advanced or complex for their current coding level** Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+
+
 
 ### Issues Emerging from Evolution of Design
 
 More detailed analysis - thoughts on validity of data -->
 
--
+
+## Analysing learner responses to design
+
+The first part of this chapter has dealt with the evolution of design in initial phases and responses to learner experience to resolve tensions. Due to the complexity and many moving parts of the design it has been mostly descriptive.
+
+While CHAT provides the technique of highlighting emerging tensions and resolutions, to undertake deeper analysis I will an analytical process proposed by Rogoff which examines learning communities using 3 foci.
+
+### Using 3 Foci approach to frame data analysis
+
+<!-- Draw on this document to give an overview of the framework and approach.
+https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#
+Thus setting out a path for the following chapters. -->
+
+Rogoff's [-@rogoff_observing_1995-1] describes three planes of personal, social and community activity which she advocates as foci for analysis. The model problematises the dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009] in a way which suits the space between formal and informal learning that this community based model of game making occupies.
+
+While the author's original research was on indigenous cultural practices on a village level, the model has been applied in both formal and informal educational settings; including FIND THREE EXAMPLES -
+
+In this research I am interested in the way that facilitators can help nurture community practices and also in the way that participants have co-created the learning design created in this research and how participant practices have evolved.
+
+In this section I outline Rogoff's initial conceptions of activities happening in three planes and related them to emergent activities in the game making community of this research. _I will also bring in critical counterpoints from relevant theory and compare to other "authentic"  teaching frameworks including PBL as a way to widening this analysis._
+
+### Cultural Elements of the Design
+
+These sections could follow a pattern of
+ - rogoff's description / examples
+ - my model examples
+ - other links to PBL frameworks and/or educational concepts and contrast analysis
+
+In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE ..
+
+The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
+
+At this stage of writing I include a bullet point list of relevant features to be expanded later.
+
+- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
+- Drama Games: the process of warming up, creates community and sets a tone
+- Drama Process: specifically designed ot overcome limits of the classroom.
+- Playtesting: the process of playtesting, either self or peer links back to a community purpose
+
+DON'T PEAK TOO SOON AS THESE MAY BE EXPLORE IN SEPARATE CHAPTERS
+PBL theory also highlights the value of linking learning to authentic environments
+Mantle of the Expert
+
+### Interpersonal Elements of the Design
+
+Interactions in the interpersonal plane in this model are described as guided participation. The term is used to explore the position of learning that happens between the poles of direct instruction and free exploration.
+
+The core activity of my participants was implementation of chosen game design patterns.
+
+In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I prechose
