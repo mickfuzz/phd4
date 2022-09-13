@@ -45,7 +45,9 @@ Barab and Squire [@barab_design-based_2004]
 
 Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity. Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] . Some of the specifics of these processes have already been named in the section above looking at collaboration. Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991].
 
-While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework.
+While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'.
+
+However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework. SEE WORK ON BARAB TO INFORM CONTRAST TO CONSTRUCTIONISM IF NEEDED. 
 
 As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
@@ -281,8 +283,6 @@ The following themes were excluded but did emerge as potential learning outcomes
 - Systems Thinking Concepts
 
 They have been excluded as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
-
-
 
 #### Coding Roles and Interactions.
 
