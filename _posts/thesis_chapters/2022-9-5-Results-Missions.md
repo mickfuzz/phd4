@@ -169,7 +169,7 @@ This section starts with a Vignette which begins the process of analysing the us
 
 Including some basic gesture analysis. This is explore in more detail in a chapter on Methodoolgy.
 
-This was particualary valuable in the Key Door Person interchange where meaning was not clear before looking at video. 
+This was particularly valuable in the Key Door Person interchange where meaning was not clear before looking at video. 
 
 #### Patterns of Activity in Vignette A
 

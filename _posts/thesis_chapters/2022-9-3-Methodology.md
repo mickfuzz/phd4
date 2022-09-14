@@ -27,7 +27,7 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 There are particular limitations in the kind of empirical research that characterises many studies involving.
 
-Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment.
+Many of these limitations involve research in to badckground cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment.
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically design-based research. This section explores complementary methodologies of value before outlining key characteristics of design-based research which make it an attractive candidate for this study.
 
@@ -47,7 +47,7 @@ Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one foc
 
 While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'.
 
-However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework. SEE WORK ON BARAB TO INFORM CONTRAST TO CONSTRUCTIONISM IF NEEDED. 
+However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework. SEE WORK ON BARAB TO INFORM CONTRAST TO CONSTRUCTIONISM IF NEEDED.
 
 As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
