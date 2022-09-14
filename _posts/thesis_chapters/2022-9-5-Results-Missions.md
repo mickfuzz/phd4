@@ -173,11 +173,30 @@ This was particularly valuable in the Key Door Person interchange where meaning 
 
 #### Patterns of Activity in Vignette A
 
-
 - Alternating between use of keyboard by parent and child
 - Child sometimes absent- cf Rogoff, observation as valid form of participation
 
-We can compare this pairs activity with other pairs / families.
+This took part in one of the sessions that was coded in depth. At other times in this session the activity of this pairing included the following.
+
+- Child observers from under table
+- Parent asks for help from facilitator
+- Parent asks child to ask for help from facilitator
+- Child peer testing of other participants games
+- Parent / Child feedback on other participants games
+
+The activities of other families also included the Following
+
+- Parent peer testing of other games
+- Feedback on aesthetics elements of game design 
+
+We can compare this pairs pattern of activity with other pairs / families.
+
+- The parent here is much more commonly rooted to the computer than other parents.
+- The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
+- This grouping sometimes left early having completed more in code development than others but completed less social activities.
+
+
+#### Other Notes on Patterns of Activity
 
 This also shows the importance of recording the whole room. Some participants will roam to take in the work of others, to socialise, to gain attention etc.
 It may be of value to compare the activity on a computer screen for one participant with a tracking of their behaviour via the 360 camera.
