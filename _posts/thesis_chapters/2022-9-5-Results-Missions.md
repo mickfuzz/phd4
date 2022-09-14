@@ -71,7 +71,7 @@ In this writing I will outline the data collected and how it is analysed. And pe
 
 This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
 
-### Vignette
+### Vignette A
 
 // create with google docs to markdown extensions
 // then at this page online conversion. https://markdown-convert.com/en/tool/table
@@ -165,11 +165,30 @@ This section starts with a Vignette which begins the process of analysing the us
 |T: I’m just going to go see something|T dives into the code to try to troubleshoot the problem. S watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and object within it.|
 
 
-<!-- For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
+#### Commentary on Annotation
+
+Including some basic gesture analysis. This is explore in more detail in a chapter on Methodoolgy.
+
+This was particualary valuable in the Key Door Person interchange where meaning was not clear before looking at video. 
+
+#### Patterns of Activity in Vignette A
+
+
+- Alternating between use of keyboard by parent and child
+- Child sometimes absent- cf Rogoff, observation as valid form of participation
+
+We can compare this pairs activity with other pairs / families.
+
+This also shows the importance of recording the whole room. Some participants will roam to take in the work of others, to socialise, to gain attention etc.
+It may be of value to compare the activity on a computer screen for one participant with a tracking of their behaviour via the 360 camera.
+
+#### Importance of Game Design Patterns in Vignette A
+
+For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic. I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment.
 
-In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.  -->
+In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
 
 
 
