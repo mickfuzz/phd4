@@ -157,19 +157,19 @@ This section starts with a Vignette which begins the process of analysing the us
 |T: Go on then. Key - Door - Person.| |
 |S: Person?| |
 |T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
-|S: (laughs)|S start play through of their game again. She progresses past the first level, completes second level. The game then goes back to the first level unexpectedly.|
-|T: Is this the first level again| |
-|S: I think so| |
-|T: OK so our the door for the second level goes back to first level and we want it to go to the third level presumably| |
-|S: Yes (laughs) Yes. Why could that be? That’s silly| |
-|T: I’m just going to go see something|T dives into the code to try to troubleshoot the problem. S watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and object within it.|
+|T: (laughs)|T start play through of their game again. She progresses past the first level, completes second level. The game then goes back to the first level unexpectedly.|
+|S: Is this the first level again| |
+|T: I think so| |
+|S: OK so our the door for the second level goes back to first level and we want it to go to the third level presumably| |
+|T: Yes (laughs) Yes. Why could that be? That’s silly| |
+|S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.|
 
 
 #### Commentary on Annotation
 
 Including some basic gesture analysis. This is explore in more detail in a chapter on Methodoolgy.
 
-This was particularly valuable in the Key Door Person interchange where meaning was not clear before looking at video. 
+This was particularly valuable in the Key Door Person interchange where meaning was not clear before looking at video.
 
 #### Patterns of Activity in Vignette A
 

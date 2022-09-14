@@ -27,7 +27,7 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 There are particular limitations in the kind of empirical research that characterises many studies involving.
 
-Many of these limitations involve research in to badckground cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment.
+Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment.
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically design-based research. This section explores complementary methodologies of value before outlining key characteristics of design-based research which make it an attractive candidate for this study.
 
