@@ -17,6 +17,8 @@ This chapter builds towards a Matrix that could be included in a concluding chap
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
 Also the RQ questions which answered
 https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
+And the coding structure here   
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit#
 
 
 ## Introduction to This Writing
@@ -187,7 +189,7 @@ This took part in one of the sessions that was coded in depth. At other times in
 The activities of other families also included the Following
 
 - Parent peer testing of other games
-- Feedback on aesthetics elements of game design 
+- Feedback on aesthetics elements of game design
 
 We can compare this pairs pattern of activity with other pairs / families.
 
