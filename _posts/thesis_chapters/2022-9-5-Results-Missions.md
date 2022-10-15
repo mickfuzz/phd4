@@ -25,11 +25,6 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a communities of designers and coders with an educational aims has been explored paying particular attention strategies that educators can use to aid these processes.
 
-The concept of tensions from Activity Theory has been cited as helpful as an analytical tool particularly in informal and non-formal settings.  
-
-The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
-
-NOTE -
 While this piece of writing contains results, it also contains sections which will in the final thesis be included in other chapters. The following list explains the final location of sections.
 
 - Introduction
@@ -53,30 +48,55 @@ While this piece of writing contains results, it also contains sections which wi
  - Use of design patterns as a communicative tool
  - Design patterns as a "middle level" construct to open door to more concrete and abstract
 
+ **Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
 
-## Methodology
+## Methodology & Research Questions
 
-**Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/chapters.html
+To help the reader understand the data in this chapter the following section on methodology is included.
+
+|Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
+
+The concept of tensions from Activity Theory has been cited as helpful as an analytical tool particularly in informal and non-formal settings. The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
+
+
+
+
+**Comment:** Perhaps take screenshots and link to specific chapters / methodology
 
 In the previous chapter on methodology, I have outlined how, in line with a social approach, as a researcher / participant I evolved identified tensions that emerged in the process of developing a learning design.
 
 In this writing I will outline the data collected and how it is analysed. And perhaps which questions the data answers.
 
+**Screenshot of Table on sources of data and how they inform the study**
+
 |**Data Source**|**Analysis**|**Comments**|
 |:----|:----|:----|
-|Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 |Video Capture Data| Vignettes Selected based on evaluation criteria  |  |
 
+**Screenshot of Table on Research questions and where they are answered**
+
+
+**Comments on Data Validity**
+The following data prompts questions of data validity in terms of how the data has been selected. I have noted this as a particular focus for next stages of writing. Any comments or questions are welcome.
+
+**Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/chapter/2022/09/03/Methodology.html
 
 
 ## Analysis of Findings - Game Design Patterns as Missions
 
 This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
 
+This
+
 ### Vignette A
 
 // create with google docs to markdown extensions
+// current version here -
 // then at this page online conversion. https://markdown-convert.com/en/tool/table
+// OR - AND PROBABLY BETTER TO DO THIS
+//keep as table with images - online or open office -  then download and copy and paste into documents to be shared.
+// On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca
+
 
 |**Dialogue**|**Activity**|
 |:----|:----|
@@ -131,8 +151,8 @@ This section starts with a Vignette which begins the process of analysing the us
 |S: So where is the key going?| |
 |T: Key, so it’s K?| |
 |S: Yes| |
-|T: K gone| |
-|S: There| |
+|T: Where's K gone| |
+|S: There| S points to the K Key on Keyboard |
 |T: Back. K for Key| |
 |S: Are you putting one in your third level as well?| |
 |T: Yes and then I’m going to make more levels| |
@@ -177,14 +197,37 @@ This was particularly valuable in the Key Door Person interchange where meaning 
 
 - Alternating between use of keyboard by parent and child
 - Child sometimes absent- cf Rogoff, observation as valid form of participation
+- Child takes over keyboard from adults
+- Parent navigates to a particular part of the code for child to alter
 
 This took part in one of the sessions that was coded in depth. At other times in this session the activity of this pairing included the following.
 
-- Child observers from under table
+- Child observes from under table
 - Parent asks for help from facilitator
 - Parent asks child to ask for help from facilitator
 - Child peer testing of other participants games
 - Parent / Child feedback on other participants games
+
+By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
+
+- time under table
+- time in control of Keyboard
+- time actively directing parent's activity
+- time actively observing parent's activity
+- time discussing game features with parent
+
+In terms to help answer RQ3 about the use of game design patterns, the following coding structure was applicable.
+
+- design stages
+- game element being worked on
+
+I wanted to test the ability of Nvivo to give insight about the engagement of young participants for different activities.
+
+We can also compare the patterns and also the frequency of these interactions with a future session later in the year
+
+- e.g. code 2022-12-02 s & t - and compare time on different taskt
+
+There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z.
 
 The activities of other families also included the Following
 
@@ -198,9 +241,11 @@ We can compare this pairs pattern of activity with other pairs / families.
 - This grouping sometimes left early having completed more in code development than others but completed less social activities.
 
 
+
 #### Other Notes on Patterns of Activity
 
 This also shows the importance of recording the whole room. Some participants will roam to take in the work of others, to socialise, to gain attention etc.
+
 It may be of value to compare the activity on a computer screen for one participant with a tracking of their behaviour via the 360 camera.
 
 #### Importance of Game Design Patterns in Vignette A

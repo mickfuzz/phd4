@@ -20,9 +20,7 @@ The second part explores tensions and resolutions to those tensions using langua
 
 One result is that working on Game Design Patterns are the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014].
 
-
 The third part starts to analyse the functions of these responses using the 3 foci of Rogoff 3 planes model.
-
 
 <!--
 There's lots to add in here.
@@ -169,7 +167,7 @@ In this section I outline Rogoff's initial conceptions of activities happening i
 ### Cultural Elements of the Design
 
 These sections could follow a pattern of
- - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter. 
+ - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter.
  - my model examples
  - other links to PBL frameworks and/or educational concepts and contrast analysis
 
