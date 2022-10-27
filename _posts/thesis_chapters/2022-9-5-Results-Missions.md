@@ -68,7 +68,7 @@ While this piece of writing contains results, it also contains sections which wi
 
 
 - Chapter on Emerging Design
- - emergence of focusing of Design Patterns - currenyly as different chapter
+ - emergence of focusing of Design Patterns - currently as different chapter
  - Use of tensions as a useful analytical tool.
  - Analysis of structure and evolution of design elements using 3 planes approach
    - Cultural  
@@ -501,6 +501,26 @@ The later Make Code cards which contained links to such patterns.
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
 ## Discussion
+
+
+### Design patterns as a "middle level" construct to open door to more concrete and abstract
+
+In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a perscriptive approach to Computational Thinking.  
+
+Papert and Turkle celebrated diversity in approaches and celebrated the concrete.
+
+In the relevant literature () - design patterns are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
+There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice. They also include a more abstract / and thus repeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
+
+The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
+
+In this context of novice coders it seems appropriate to introduce some levels of reusable practice whilst prioritising individual learner engagement and community participation.
+
+We can see evidence of both the potential for reusable elements of knowledge and practice involving practice in the following ways;
+
+* Use of levels as a array which is parsed by a loop to create layout
+* Other examples. 
+
 
 ### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
 
