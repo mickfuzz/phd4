@@ -41,7 +41,9 @@ As we have seen in the literature review on game making, context plays out in th
 Barab and Squire [@barab_design-based_2004]
 
 
-## Why a social focus rather than Piaget's constructivism
+## Justification of choice of methodology
+
+### A social rather than individual constructivism
 
 Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity. Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] . Some of the specifics of these processes have already been named in the section above looking at collaboration. Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991].
 
@@ -204,8 +206,6 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 The process of analysis of journal notes and resulting resources required a different approach from that of video data.
 
 #### Overall Rational and Approach
-
-
 The following resources were examined
 
 - Book Journal pages
@@ -232,7 +232,9 @@ Rather than taking a grounded approach which would take too long given the quant
  - While the three planes provided a higher level framework, the specifics of the data gave greater granularity and formed sub categories of coding - thus avoiding the problem of analytic preconceptions.
 
 
-#### Specifics of Coding to a 3 Planes Approach
+### Specifics of Coding
+
+#### Using a 3 Planes Approach
 
  The analysis of these resources using the three planes involved a choice of some of the following
 

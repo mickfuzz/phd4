@@ -27,38 +27,89 @@ In the previous chapters we will have looked at the research landscape to develo
 
 While this piece of writing contains results, it also contains sections which will in the final thesis be included in other chapters. The following list explains the final location of sections.
 
+<!-- Should I move this somewhere?  -->
+
 - Introduction
-  - Coding, digital making, game making. Exploring motivations in each domain.
-  - Inclusive approaches and the value of PBL, ULD  
-  - Introduction to RQs
+  - Context
+    - Coding digital making's movement from informal -> formal settings / curriculum
+    - Game making as a particular focus
+  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning
+    - Critique of implementations of Computational Thinking as a non-inclusive approach
+    - Use of Game design patterns as a more "relatable" pedagogy
+  - Description of Research Questions
+  - Brief outline of chapter structure
 
 - Literature Review -
   - What game making pedagogies exist?
-  - what exists to support the development of game making communities?
-- Methodology - journal, evolution of design, video analysis,
+    - UMC and Games - Half-baked games
+    - Design-based & Tinkering / Exploratory
+    - More on Game design patterns - a shared language - turn to community aspect
+  - What exists to support the development of game making communities?
+    - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
+    - Social learning in Game Making
+      - Game playing and making communities
+      - Games as funds of knowledge in
+    - Visual methods in game making
+      - Maps of learning, Gee, borrowing how to chart learner's journey from game design
 
-- Discussion - not sure where this really fits now.
-  - Cultural  
-  - social
-  - personal
+- Methodology   
+  - Summary of social turn
+  - Justification of choice of methodology
+  - Design-based research and Intervention studies within educational field
+  -  Data gathering methods and justification
+    - journal, evolution of design, video analysis,
+  - Data Processing, technical nod to challenges and resolutions
+  - Data Analysis and justification
+    - Analysis of non-video data, diary, notes, created Resources
+      - Coding to 3 planes & other techniques
+    - Analysis of video Data
+      - Coding structures.
+  - Research Questions
 
-- Chapter Findings -
- - emergence of focusing of Design Patterns - currenyly as different chapter - Results Design
+
+- Chapter on Emerging Design
+ - emergence of focusing of Design Patterns - currenyly as different chapter
+ - Use of tensions as a useful analytical tool.
+ - Analysis of structure and evolution of design elements using 3 planes approach
+   - Cultural  
+   - social
+   - personal
+
+- Results Chapter - Cultural (inclusive ) Practices
+  - Funds of Knowledge as they emerged - not universal, but pervasive
+  - Game Player / Makers Types
+
+- Results Chapter - Game Design Patterns
  - focusing on Design Patterns
  - Use of design patterns as a communicative tool
  - Design patterns as a "middle level" construct to open door to more concrete and abstract
+
+- Results Chapter - Personal Practices / Maps
+  - Vignette on difficulty of X
+  - Discussion linking to learning dimensions of Petrich and Bevan
+
+
+- Conclusions and Next Steps
+ - Limitations of the study
+    - The lack of motivation of ticking of curriculum led to less focus on individual knowledge work - This could be followed up
+    - Other Limitation.
+    - Interesting areas that have emerged.
+    - Next areas of development.
+
+
 
  **Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
 
 ## Methodology & Research Questions
 
-To help the reader understand the data in this chapter the following section on methodology is included.
+To help the reader understand the data in this chapter the following section on methodology is included. PERHAPS NOT AS JUST EXTRA & CONFUSING
+
+MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER >>>
+
 
 |Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 
 The concept of tensions from Activity Theory has been cited as helpful as an analytical tool particularly in informal and non-formal settings. The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
-
-
 
 
 **Comment:** Perhaps take screenshots and link to specific chapters / methodology
@@ -81,12 +132,12 @@ The following data prompts questions of data validity in terms of how the data h
 
 **Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/chapter/2022/09/03/Methodology.html
 
+<<<
+MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER
 
 ## Analysis of Findings - Game Design Patterns as Missions
 
 This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
-
-This
 
 ### Vignette A
 
@@ -187,11 +238,25 @@ This
 |S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.|
 
 
-#### Commentary on Annotation
+#### Summary Commentary on Annotation and Content of Vignette
 
-Including some basic gesture analysis. This is explore in more detail in a chapter on Methodoolgy.
+The vignette Including some basic gesture analysis. This is explore in more detail in a chapter on Methodolgy.
 
 This was particularly valuable in the Key Door Person interchange where meaning was not clear before looking at video.
+
+In previous chapter on methodology we (will) have examined the coding scheme used to code specifics on interactions and participant behaviour and output.
+
+The resulting coding structure is available online here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit#
+
+This vignette can be explored briefly to bring out the key point of this chapter which is to explore the use of Game Design Patterns in this game making pedagogy.
+
+
+
+
+
+#### The use of Game Design Patterns in the V
+
 
 #### Patterns of Activity in Vignette A
 
@@ -223,9 +288,9 @@ In terms to help answer RQ3 about the use of game design patterns, the following
 
 I wanted to test the ability of Nvivo to give insight about the engagement of young participants for different activities.
 
-We can also compare the patterns and also the frequency of these interactions with a future session later in the year
 
-- e.g. code 2022-12-02 s & t - and compare time on different taskt
+
+- e.g. code 2022-12-02 s & t - and compare time on different tasks
 
 There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z.
 
@@ -311,10 +376,13 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
+## Cultural, Interpersonal & Personal Planes Analysis
 
 ## Cultural Plane / Apprenticeship
 
-This has been in explored in more depth in the Chapter on Methods / Cultural Plane. To recap.
+The use of three planes to analyse the evolution of the learning and study design has been in explored in the Chapter on Methods.
+
+To recap each area.
 
  - Design patterns used in other contexts as a form of apprenticeship
 
@@ -437,6 +505,23 @@ My end design highlights game patterns as a starting point for user interest and
 ### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
 
 Currently try to keep to note form.
+
+
+### Discussion on UMC and PRIMM in relation to use of Game Design Patterns
+
+Draw on material and critique in chapter on semantic profiles / waves.
+
+<!-- not sure how much to put in about this in LIT REVIEW  -->
+
+
+
+
+
+
+## Disregarded or Next Steps Data
+
+We can also compare the patterns and also the frequency of these interactions with a future session later in the year. COULD DO BUT SIDELINE FOR NOW - ADD TO NEXT STAGES?
+
 
 
 
