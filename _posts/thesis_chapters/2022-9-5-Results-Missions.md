@@ -252,9 +252,6 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 This vignette can be explored briefly to bring out the key point of this chapter which is to explore the use of Game Design Patterns in this game making pedagogy.
 
 
-
-
-
 #### The use of Game Design Patterns in the V
 
 
@@ -422,7 +419,7 @@ The utterance by the child "Key Door Person" seemingly indicated that the child 
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-CONVERT INTO A TABLE
+Online version -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
 
 M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
 You know, keep working through.
@@ -519,13 +516,12 @@ In this context of novice coders it seems appropriate to introduce some levels o
 We can see evidence of both the potential for reusable elements of knowledge and practice involving practice in the following ways;
 
 * Use of levels as a array which is parsed by a loop to create layout
-* Other examples. 
+* Other examples.
 
 
 ### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
 
 Currently try to keep to note form.
-
 
 ### Discussion on UMC and PRIMM in relation to use of Game Design Patterns
 
@@ -533,28 +529,15 @@ Draw on material and critique in chapter on semantic profiles / waves.
 
 <!-- not sure how much to put in about this in LIT REVIEW  -->
 
-
-
-
-
-
 ## Disregarded or Next Steps Data
 
 We can also compare the patterns and also the frequency of these interactions with a future session later in the year. COULD DO BUT SIDELINE FOR NOW - ADD TO NEXT STAGES?
-
-
-
-
-
-
 
 <!--
 rejected notes
 - How does this approach compare to PBL -
 - How are roles similar or different from Barron -
 - Design processes -->
-
-
 
 ## Future Work / Omissions
 
