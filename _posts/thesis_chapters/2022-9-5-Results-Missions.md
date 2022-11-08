@@ -106,7 +106,6 @@ To help the reader understand the data in this chapter the following section on 
 
 MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER >>>
 
-
 |Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 
 The concept of tensions from Activity Theory has been cited as helpful as an analytical tool particularly in informal and non-formal settings. The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
@@ -241,9 +240,7 @@ This section starts with a Vignette which begins the process of analysing the us
 #### Summary Commentary on Annotation and Content of Vignette
 
 The vignette Including some basic gesture analysis. This is explore in more detail in a chapter on Methodolgy.
-
 This was particularly valuable in the Key Door Person interchange where meaning was not clear before looking at video.
-
 In previous chapter on methodology we (will) have examined the coding scheme used to code specifics on interactions and participant behaviour and output.
 
 The resulting coding structure is available online here.
@@ -278,14 +275,14 @@ By coding the activity of the child and the adult for this session in depth the 
 - time actively observing parent's activity
 - time discussing game features with parent
 
-In terms to help answer RQ3 about the use of game design patterns, the following coding structure was applicable.
+#### Coding the Patterns of Activity in Vignette A
+
+In terms to help answer the RQ about the use of game design patterns, the following coding structure was applicable.
 
 - design stages
 - game element being worked on
 
 I wanted to test the ability of Nvivo to give insight about the engagement of young participants for different activities.
-
-
 
 - e.g. code 2022-12-02 s & t - and compare time on different tasks
 
@@ -317,7 +314,6 @@ For both participants there is an explicit awareness of game making patterns and
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic. I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment.
 
 In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
-
 
 
 ### Missions
