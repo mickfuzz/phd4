@@ -388,6 +388,12 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 ## Research Questions
 
+- What  game making pedagogies exist?
+- DROP? What methods exist to scaffold / seed the creation of a game / digital making community of learners? And what value does a community have?
+- How can game patterns support the development of coding practices by novices?
+- How can parent and child participant experiences of a community focused digital game making programme inform broader digital making practices?
+
+
 ### How Research Questions Evolved
 
 About RQs and RD1 and RD2 and their evolutions.
