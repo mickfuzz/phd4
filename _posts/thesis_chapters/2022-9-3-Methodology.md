@@ -234,6 +234,21 @@ Rather than taking a grounded approach which would take too long given the quant
 
 ### Specifics of Coding
 
+#### Choosing what and how much to code
+
+A page of quick analysis of the files online here helped to shape that decision.
+
+https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
+
+Criteria include
+
+- In the first two runs of data collection - single technology
+- Good quality recording
+- Diversity of kinds of participants, ages especially
+- Diversity on participant actions
+- Diversity of interactions between participants present across choices
+
+
 #### Using a 3 Planes Approach
 
  The analysis of these resources using the three planes involved a choice of some of the following
