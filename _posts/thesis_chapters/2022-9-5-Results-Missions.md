@@ -37,6 +37,7 @@ While this piece of writing contains results, it also contains sections which wi
     - Critique of implementations of Computational Thinking as a non-inclusive approach
     - Use of Game design patterns as a more "relatable" pedagogy
   - Description of Research Questions
+
   - Brief outline of chapter structure
 
 - Literature Review -
@@ -63,7 +64,7 @@ While this piece of writing contains results, it also contains sections which wi
     - Analysis of non-video data, diary, notes, created Resources
       - Coding to 3 planes & other techniques
     - Analysis of video Data
-      - Coding structures.
+      - Coding structures, design stage, 3 planes, design activity, participant interaction
   - Research Questions
 
 
@@ -102,10 +103,10 @@ While this piece of writing contains results, it also contains sections which wi
 
 ## Methodology & Research Questions
 
-To help the reader understand the data in this chapter the following section on methodology is included. PERHAPS NOT AS JUST EXTRA & CONFUSING
-
-MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER >>>
-
+To help the reader understand the data in this chapter the following section on methodology is included.
+PERHAPS NOT AS JUST EXTRA & CONFUSING
+MOVE THIS TO THE METHODOLOGY CHAPTER -
+CREATE A SUMMARY AT THE TOP OF THE CHAPTER WITH LINKS TO ONLINE CHAPTERS >>>
 
 |Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 

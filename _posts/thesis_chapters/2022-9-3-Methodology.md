@@ -286,7 +286,7 @@ The following themes were excluded but did emerge as potential learning outcomes
 
 They have been excluded as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
 
-#### Coding Roles and Interactions.
+#### Coding Participant Roles and Interactions.
 
 Evolving notes on coding of roles and interactions are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
@@ -308,13 +308,16 @@ http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
 There are similar stage based approaches to creating a digital project. Firstly project based learning (PBL), then Inquiry based learning, finally design thinking. This design could adopt any one of these, however the creation of a digital product more closely resembles a design approach with testing stages of the created product.
 
-The design process characteristics are broadly as follows; the process is often iterative, involves evaluation, seperates planning from implementation.
+The design process characteristics are broadly as follows; the process is often iterative, involves evaluation and separates planning from implementation.
 
 Resnick in this area has written of a creative design spiral.
 
-The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation.
+The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share @hester_engineering_2007.
 
-LATER - from these general term, more specific terms related to coding games may emerge?
+It has been adopted by the area of computing is one used in a recent book on coding by Bers @bers_coding_2021.
+
+It is possible to be more specific when coding and include a wider terminology of technology and domain specific language. For example, debugging in the area of computer programming and playtesting in the domain of game making. I have had to weigh up the value of including these more specific terms and deciding to keep a more generic approach primarily to reduce complexity while undertaking video coding. Sub-categories add complexity and time to the process without necessarity adding a great deal.  
+ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 #### Coding Game Design Themes
 
@@ -344,8 +347,6 @@ The key elements are:
 - RULES: What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
 
 A blend of the two gave the following staring coding scheme in terms of activities related directly to adding features or altering the game.
-
-
 
 <!-- Notes
 A start of a framework here from Salen
