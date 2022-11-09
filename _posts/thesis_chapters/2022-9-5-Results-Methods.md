@@ -16,7 +16,7 @@ title: Results Methods
 
 Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them.
 
-### Overview of contents
+### Overview of contents of chapter
 
 - Tools & Communities
   - Choice of Coding Tools / Environment
@@ -35,9 +35,6 @@ Thus not dealing with the primary unit of activity yet, giving the cultural cont
     - how to support emerging behaviours and give licence to young people  - side / sub missions
     - the sub missions - divergent activities can be productive
 
-
-
-
 ####  Notes on Discussion
 
 These are quite disparate so probably makes sense to have a separate discussion entwined.
@@ -46,6 +43,27 @@ Relevant theory / studies.
 
 - funds of knowledge
 - AT theory for sub missions, in preparation for chapter on main mission / unit of activity
+
+
+## Vignette to start chapter - something Cultural
+
+Something about aliens / feedback? Missions?
+
+## Extract from Interview
+
+Something about aliens / feedback? Missions?
+
+## Commentary on Vignette exploring activity from 3 planes of reference.
+
+In this vignette we can pick on the 3 planes analysed in design...
+DROP EITHER THIS 3 PLANES / OR THE ONE IN DESIGN?
+
+Describe in part the process of inculcating students into a game making culture.
+
+B
+
+
+
 
 
 ### Motivational Methods Imported Writing
@@ -63,9 +81,6 @@ The final M of the 3M framework stands for motivational methods. These methods a
 - Fictional situations can help create a sense of imagined jeopardy which can help learners stay on track with their creative timescale and may increase their commitment to the process.
 -  When learners share their games with their real or imagined audience, they can talk through their design decisions and challenges, thus creating an opportunity for reflection.
 - Drama processes can help explore identification with or hostility to gaming cultures.
-
-
-
 
 
 ### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework

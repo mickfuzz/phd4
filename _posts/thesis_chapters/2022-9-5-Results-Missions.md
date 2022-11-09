@@ -250,11 +250,13 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 This vignette can be explored briefly to bring out the key point of this chapter which is to explore the use of Game Design Patterns in this game making pedagogy.
 
-
-#### The use of Game Design Patterns in the V
-
+#### The use of Game Design Patterns in the Vignette (see below)
 
 #### Patterns of Activity in Vignette A
+
+These patterns of activity are coded to some extent in Nvivo. But how do they add to the RQs.
+
+
 
 - Alternating between use of keyboard by parent and child
 - Child sometimes absent- cf Rogoff, observation as valid form of participation

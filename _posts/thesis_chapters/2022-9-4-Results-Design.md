@@ -164,6 +164,9 @@ In this research I am interested in the way that facilitators can help nurture c
 
 In this section I outline Rogoff's initial conceptions of activities happening in three planes and related them to emergent activities in the game making community of this research. _I will also bring in critical counterpoints from relevant theory and compare to other "authentic"  teaching frameworks including PBL as a way to widening this analysis._
 
+This document is being fleshed out with examples from video data.
+https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit#gid=0
+
 ### Cultural Elements of the Design
 
 These sections could follow a pattern of
@@ -175,7 +178,8 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 
 The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
 
-At this stage of writing I include a bullet point list of relevant features to be expanded later.
+At this stage of writing I include a bullet point list of design relevant features to be expanded later.
+
 
 - Shared repositories of resources - users shared a log in so they could see the work created by others. - Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
 - Drama Games: the process of warming up, creates community and sets a tone
