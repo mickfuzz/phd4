@@ -103,16 +103,10 @@ While this piece of writing contains results, it also contains sections which wi
 
 ## Methodology & Research Questions
 
-<<<<<<< HEAD
 To help the reader understand the data in this chapter the following section on methodology is included.
 PERHAPS NOT AS JUST EXTRA & CONFUSING
 MOVE THIS TO THE METHODOLOGY CHAPTER -
 CREATE A SUMMARY AT THE TOP OF THE CHAPTER WITH LINKS TO ONLINE CHAPTERS >>>
-=======
-To help the reader understand the data in this chapter the following section on methodology is included. PERHAPS NOT AS JUST EXTRA & CONFUSING
-
-MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER >>>
->>>>>>> 8d65a994fb06cb7c42a38e75c32cd497e04382a9
 
 |Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
 
@@ -287,14 +281,27 @@ By coding the activity of the child and the adult for this session in depth the 
 
 In terms to help answer the RQ about the use of game design patterns, the following coding structure was applicable.
 
-- design stages
-- game element being worked on
+REPLACE THE FOLLOWING SCREENSHOT WITH A TABLE EXPLAINING CODING CATEGORIES
 
-I wanted to test the ability of Nvivo to give insight about the engagement of young participants for different activities.
 
-- e.g. code 2022-12-02 s & t - and compare time on different tasks
+I used Nvivo to give insight about the engagement of young participants by compare time on different tasks. For example for the session that the vignette was taken from the below is chart of the time on each of the codes.
 
-There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z.
+QUESTION. The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
+
+- During which design phase does parent-child pair interaction happen?
+- What are the different patterns for participant interaction that happen when working on different game elements.
+
+The first scenario is represented in a chart below.
+
+
+The second scenario is represented by 4 charts one for each game element showing the duration spent by a diversity of participants.  
+
+The rough coding involved by breaking up video timescales into 5 minute sections lessens the ability
+
+
+<!--
+This isn't relevant if I choose not to address MakeCode in the dissertation.
+There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z. -->
 
 The activities of other families also included the Following
 
