@@ -124,6 +124,7 @@ In this writing I will outline the data collected and how it is analysed. And pe
 
 **Screenshot of Table on Research questions and where they are answered**
 
+
 **Comments on Data Validity**
 The following data prompts questions of data validity in terms of how the data has been selected. I have noted this as a particular focus for next stages of writing. Any comments or questions are welcome.
 
@@ -310,7 +311,6 @@ We can compare this pairs pattern of activity with other pairs / families.
 - The parent here is much more commonly rooted to the computer than other parents.
 - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
 - This grouping sometimes left early having completed more in code development than others but completed less social activities.
-
 
 
 #### Other Notes on Patterns of Activity
