@@ -283,7 +283,6 @@ In terms to help answer the RQ about the use of game design patterns, the follow
 
 REPLACE THE FOLLOWING SCREENSHOT WITH A TABLE EXPLAINING CODING CATEGORIES
 
-
 I used Nvivo to give insight about the engagement of young participants by compare time on different tasks. For example for the session that the vignette was taken from the below is chart of the time on each of the codes.
 
 QUESTION. The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
@@ -293,11 +292,13 @@ QUESTION. The coding structure (may) also allows to show the overlap between dif
 
 The first scenario is represented in a chart below.
 
+CHART
 
 The second scenario is represented by 4 charts one for each game element showing the duration spent by a diversity of participants.  
 
-The rough coding involved by breaking up video timescales into 5 minute sections lessens the ability
+CHART
 
+The rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
 
 <!--
 This isn't relevant if I choose not to address MakeCode in the dissertation.
