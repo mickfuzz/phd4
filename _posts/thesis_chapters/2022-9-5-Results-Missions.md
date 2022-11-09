@@ -25,20 +25,17 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a communities of designers and coders with an educational aims has been explored paying particular attention strategies that educators can use to aid these processes.
 
-While this piece of writing contains results, it also contains sections which will in the final thesis be included in other chapters. The following list explains the final location of sections.
-
-<!-- Should I move this somewhere?  -->
+While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. The following bullet pointed list gives an overview of an emerging chapter structure and contents.
 
 - Introduction
   - Context
     - Coding digital making's movement from informal -> formal settings / curriculum
-    - Game making as a particular focus
+    - Game making as a particular focus of digital making
   - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning
     - Critique of implementations of Computational Thinking as a non-inclusive approach
     - Use of Game design patterns as a more "relatable" pedagogy
   - Description of Research Questions
-
-  - Brief outline of chapter structure
+  - Brief outline of thesis chapter structure
 
 - Literature Review -
   - What game making pedagogies exist?
@@ -64,15 +61,14 @@ While this piece of writing contains results, it also contains sections which wi
     - Analysis of non-video data, diary, notes, created Resources
       - Coding to 3 planes & other techniques
     - Analysis of video Data
-      - Coding structures, design stage, 3 planes, design activity, participant interaction
+      - Coding structures, design stage, 3 planes, game element addressed, participant interaction
   - Research Questions
-
 
 - Chapter on Emerging Design
  - emergence of focusing of Design Patterns - currently as different chapter
  - Use of tensions as a useful analytical tool.
  - Analysis of structure and evolution of design elements using 3 planes approach
-   - Cultural  
+   - cultural  
    - social
    - personal
 
@@ -104,6 +100,7 @@ While this piece of writing contains results, it also contains sections which wi
 ## Methodology & Research Questions
 
 To help the reader understand the data in this chapter the following section on methodology is included.
+
 PERHAPS NOT AS JUST EXTRA & CONFUSING
 MOVE THIS TO THE METHODOLOGY CHAPTER -
 CREATE A SUMMARY AT THE TOP OF THE CHAPTER WITH LINKS TO ONLINE CHAPTERS >>>
@@ -316,7 +313,6 @@ We can compare this pairs pattern of activity with other pairs / families.
 - The parent here is much more commonly rooted to the computer than other parents.
 - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
 - This grouping sometimes left early having completed more in code development than others but completed less social activities.
-
 
 
 #### Other Notes on Patterns of Activity
