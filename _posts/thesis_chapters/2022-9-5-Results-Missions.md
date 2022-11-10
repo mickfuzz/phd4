@@ -93,9 +93,9 @@ While this piece of writing contains results, it also contains references to con
     - Interesting areas that have emerged.
     - Next areas of development.
 
-
-
  **Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
+OR just create hyperlinks.
+
 
 ## Methodology & Research Questions
 
@@ -124,7 +124,6 @@ In this writing I will outline the data collected and how it is analysed. And pe
 
 **Screenshot of Table on Research questions and where they are answered**
 
-
 **Comments on Data Validity**
 The following data prompts questions of data validity in terms of how the data has been selected. I have noted this as a particular focus for next stages of writing. Any comments or questions are welcome.
 
@@ -133,9 +132,21 @@ The following data prompts questions of data validity in terms of how the data h
 <<<
 MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER
 
-## Analysis of Findings - Game Design Patterns as Missions
 
-This section starts with a Vignette which begins the process of analysing the use of design patterns as a tool in game making process.
+
+## Chapter overview
+
+The working title of this chapter is Missions. Originally the focus was to link with the use of  
+
+This section starts with a Vignette of parent child interaction in game making process.
+The vignette is used to introduce an overview of interpersonal dimensions of the learning happening (from 3 planes / foci).
+The activity of the focal pair is compared to activity of other groupings.
+
+The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
+
+The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
+
+
 
 ### Vignette A
 
@@ -247,11 +258,7 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 This vignette can be explored briefly to bring out the key point of this chapter which is to explore the use of Game Design Patterns in this game making pedagogy.
 
-#### The use of Game Design Patterns in the Vignette (see below)
-
 #### Patterns of Activity in Vignette A
-
-
 
 <!--
 This isn't relevant if I choose not to address MakeCode in the dissertation.
