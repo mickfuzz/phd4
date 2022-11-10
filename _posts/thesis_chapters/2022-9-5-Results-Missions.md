@@ -414,7 +414,6 @@ In addition to outlines of game patterns, print-outs or on-line documents to sup
 
 ## Findings Emerging related to Game Design Patterns / Missions
 
-
 In a previous section I have explored how game design patterns became the primary unit of activity for participants.
 
 In a previous section I have explored how game design patterns became the primary unit of activity for participants. This, more unit than the overall making of a game, took up the majority of their focus.
@@ -464,7 +463,7 @@ The utterance by the child "Key Door Person" seemingly indicated that the child 
 
 ### GDPs and division of Labour
 
-Similarly, rather than direct delegation, dividing of labour can be observered. 
+Similarly, rather than direct delegation, dividing of labour can be observered.
 
 The implementation of some GDP involved the use of different tools and activites. For example, the design of a graphical element suited some learners and they depended on the support of others to emplement those changes in code.
 
@@ -477,7 +476,7 @@ ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-michelle
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-Online version -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
+Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
 
 M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
 You know, keep working through.
@@ -486,6 +485,31 @@ F: Yeah.
  I think I want to get an enemy in - oh no - my person animated.
 
 M: so you want to get your person animated that’s the main thing
+
+M: Shall we concentrate on that and changing the platforms into something different?
+
+F: Yeah.
+M: Yeah?
+F: I also want to make a theme tune.
+
+M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
+F: hmmm
+M: just cos it gets really overwhelming.
+M: Yeah..? So…?
+
+Long pause
+
+M: Well I’ll have a look at the code and see if I can make sense of that.
+
+
+M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
+You know, keep working through.
+
+F: Yeah.
+ I think I want to get an enemy in - oh no - my person animated.
+
+M: So you want to get your person animated that’s your main thing.
+F: Yeah
 
 M: Shall we concentrate on that and changing the platforms into something different?
 
@@ -503,11 +527,18 @@ Long pause
 
 M: Well I’ll have a look at the code and see if I can make sense of that.
 
+
+
+
+
 This example shows the use of a number of game design patterns. At this stage of the design they have been
 
 In addition, the child describes a feature that they want to see happen.
 
 There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. This is explored in the next section.
+
+
+This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done. There is also the use of the game playing as an activity to do while discussing what to do.
 
 
 
