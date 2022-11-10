@@ -382,7 +382,7 @@ In terms of understanding of the game as a dynamic system, this is seen clearly 
 
 Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
 
-**Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles.
+<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
 
 **Game Design Patterns as Main Missions:** Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges. In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
@@ -431,37 +431,27 @@ In the following sections, I draw on observations of participants in practice to
 QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
-## Cultural, Interpersonal & Personal Planes Analysis
+## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
+
+While each of these observations do not fall neartly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus and progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
+
 
 ## Cultural Plane / Apprenticeship
 
-The use of three planes to analyse the evolution of the learning and study design has been in explored in the Chapter on Methods.
+The use of three planes to analyse the evolution of the learning and study design has been in explored in the Chapter on Methods / Design.
 
-To recap each area.
+Recap?
 
- - Design patterns used in other contexts as a form of apprenticeship
-
-### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
-
-Bring out detail from the study to this section.
-
- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
-
-## Personal Plane
- This is explored in more depth in Chapter on Maps / Personal Plane.
-
- But to set the scene...
- Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
-
- Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
-
- The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
-
- Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
- Rising to the concrete
+ - Design patterns imagined used in other contexts as a form of apprenticeship
+ - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+  - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
 
 
-## Social Plane - Guided Apprenticeship
+## Interpersonal Plane (Guided Apprenticeship)
+
+I will recap Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
+
+If needed then I will explain how AT terms like division of labour are appropriate here.
 
 ### GDPs used as an organising tool
 
@@ -471,6 +461,16 @@ While there was no formal organising of groups in phase 2 and 3, the family bond
 
 The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
 The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
+
+### GDPs and division of Labour
+
+Similarly, rather than direct delegation, dividing of labour can be observered. 
+
+The implementation of some GDP involved the use of different tools and activites. For example, the design of a graphical element suited some learners and they depended on the support of others to emplement those changes in code.
+
+While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
+
+ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-michelle
 
 
 #### GDPs for Goal Setting and Prioritisation
@@ -509,23 +509,36 @@ In addition, the child describes a feature that they want to see happen.
 
 There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. This is explored in the next section.
 
-### GDPs and division of Labour
 
-The implementation of some GDP involved the use of different tools and activites. For example, the design of a graphical element suited some learners and they depended on teh support of others to emplement those changes in code.
-
-While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
-
-ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-michelle
 
 ### GDP and sustaining engagement
 
 The process of adding in a new GDP to the game was often a sustaining activity.
 
-#### GDPs and personal expression
+When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
+Example of adding a new level in 2019-03-18-th_sh -
+
+In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
+
+
+#### GDPs and personal expression (cultural)
 
 Especially if part of the design allowed the expression of identity or a designed element - for example graphics, audio or a written entry.
 
-This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+Graphics --> cultural linking with home
+
+Example of dog background graphics in 2019-03-18-th_sh -
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game erikssonUsingGameplayDesign2019;
+- cultivativing a sense of ownsership
+- playing around the graphic - covering it over and revealing it
+- participant self-expression and a conversational prompt to other during sharing of the game
+
+This is supported by other research on digital making and motivation. CITATION HERE? -
+or in cultural discussion?  
+
+Discussion on how cultural becomes an interpersonal aid through mediation?
+It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
+
 
 #### GDPs propagation through peer activity
 
@@ -555,7 +568,22 @@ The later Make Code cards which contained links to such patterns.
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
-## Discussion
+## Personal Plane
+ This is explored in more depth in Chapter on Maps / Personal Plane.
+
+ But to set the scene...
+ Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+
+ Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
+
+ The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
+
+ Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
+ Rising to the concrete
+
+
+
+## Additional Chapter Discussion
 
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract
