@@ -615,7 +615,9 @@ Draw on material and critique in chapter on semantic profiles / waves.
 
 Note: I'm not yet sure how much of the 3M model will be described in the "Results-Design" chapter. A short recap here seems appropriate.
 
-As previously discussed, the process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well. To do this some context of user experience is outlined.
+As previously discussed, the process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well.
+
+Note: To do this some areas of context are outlined which may end up in the opening chapters.
 
 ### Presenting GDP to participants as "Missions"
 
@@ -623,7 +625,7 @@ Many commercial open world games offer a central challenge consisting of small i
 
 To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
 
-Note: The purpose of mirroring 
+Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
 
 
 <!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
