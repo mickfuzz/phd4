@@ -492,19 +492,18 @@ Long pause
 M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
-
-
-
 This example shows the use of a number of game design patterns. At this stage of the design they have been
 
 In addition, the child describes a feature that they want to see happen.
 
-There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. This is explored in the next section.
+There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers.
+
+Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus this is a kind decision on behalf of the child.
+And the listing of features is a brainstorming technique designed to aid a creative process but the parent lacks the skills to map these out and to work together to priortises.
+Some kinds of support help this would be potentially productive.
 
 
 This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done. There is also the use of the game playing as an activity to do while discussing what to do.
-
-
 
 ### GDP and sustaining engagement
 
@@ -543,15 +542,62 @@ PERHAPS ADD TRANSCRIPT EXAMPLE ?-
 
 ### Interaction of GDPs with Playtesting as method
 
+Playtesting but in particular designing for others .
+
 What was noticeable about - this in particular?
-Desinging for others
+
+Playtesing as a regular practice is a immediate way to shift learners into a perspective designing for others.
+
+This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is. Regular self testing and playtesting achieve this.
+
+Some examples: (should be many)
+
+Pull on examples of learners imagining the experience of others.
+ - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
+ - Another example -
+
+Discussion - Designing for others - as a key perspective in constructionism.
+Note: What added insights or tips for practitioners can I bring here?
+
+Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
+
+Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+- praising graphical content
+- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+
+
 
 ### GDPs to support Iterative Design Practices
+
+Iterative agile design is a highly cultural / interpersonal process.
+
+Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
+
+Perhaps in the field of participatory design.
+
+Highlight how the granular and relatable nature of GDP
 
 Well suited to build a repeated design practice.
 Especially with starting documents,
 Small changes had big effects.
 Variable changes needed immediate testing.  
+
+
+
+## Personal Plane
+
+This is explored in more depth in Chapter on Maps / Personal Plane.
+
+But to set the scene...
+
+Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+
+Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
+
+The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
+
+Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
+Rising to the concrete
 
 ### Leading with GDP as a way to explore other Learning Dimensions
 
@@ -563,42 +609,12 @@ The later Make Code cards which contained links to such patterns.
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
-## Personal Plane
- This is explored in more depth in Chapter on Maps / Personal Plane.
-
- But to set the scene...
- Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
-
- Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
-
- The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
-
- Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
- Rising to the concrete
+Provide a link to next chapter - but before that a round up / discussion.
 
 
 
-## Additional Chapter Discussion
 
-
-### Design patterns as a "middle level" construct to open door to more concrete and abstract
-
-In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a perscriptive approach to Computational Thinking.  
-
-Papert and Turkle celebrated diversity in approaches and celebrated the concrete.
-
-In the relevant literature () - design patterns are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
-There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice. They also include a more abstract / and thus repeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
-
-The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
-
-In this context of novice coders it seems appropriate to introduce some levels of reusable practice whilst prioritising individual learner engagement and community participation.
-
-We can see evidence of both the potential for reusable elements of knowledge and practice involving practice in the following ways;
-
-* Use of levels as a array which is parsed by a loop to create layout
-* Other examples.
-
+#
 
 ### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
 
@@ -630,13 +646,16 @@ Note: TO ADD -  The purpose of mirroring a game experience is to create a playfu
 
 <!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
 
-**Game Design Patterns as Main Missions:** Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges. In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+CONTEXT PROBABLY COVERED IN LITERATURE REVIEW: Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
+
+CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
+In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 <!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
 
 In my final implementation of the 3M model students picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
 
-BOX BEGINS
+PRINTED CARD TEXT BEGINS
 
 Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
 
@@ -654,10 +673,43 @@ Your mission is to apply the following pattern to your game. There are supportin
 
 * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
 
-BOX ENDS
+PRINTED CARD TEXT ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
 
+
+
+
+## Additional Chapter Discussion
+
+### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions
+
+Synthesise examples which highlight the value of developing share language and short cuts. Draw from the above examples. 
+
+However, also look at potential short comings of short cuts - hiding more complex patterns within the name. When short cuts or misapprehensions prove less useful.
+
+For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
+
+Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
+
+
+### Design patterns as a "middle level" construct to open door to more concrete and abstract
+
+In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a perscriptive approach to Computational Thinking.  
+
+Papert and Turkle celebrated diversity in approaches and celebrated the concrete.
+
+In the relevant literature () - design patterns are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
+There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice. They also include a more abstract / and thus repeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
+
+The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
+
+In this context of novice coders it seems appropriate to introduce some levels of reusable practice whilst prioritising individual learner engagement and community participation.
+
+We can see evidence of both the potential for reusable elements of knowledge and practice involving practice in the following ways;
+
+* Use of levels as a array which is parsed by a loop to create layout
+* Other examples.
 
 
 
@@ -670,7 +722,7 @@ rejected notes
 - How does this approach compare to PBL -
 - How are roles similar or different from Barron -
 - Design processes -->
-
+<!--
 ## Future Work / Omissions
 
-- Further testing of the Maps  
+- Further testing of the Maps   -->
