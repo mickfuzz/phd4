@@ -49,6 +49,12 @@ Relevant theory / studies.
 
 Something about aliens / feedback? Missions?
 
+Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
+describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
+Here we are looking at something cultural??
+
+Culture
+
 ## Extract from Interview
 
 Something about aliens / feedback? Missions?
@@ -63,25 +69,30 @@ Describe in part the process of inculcating students into a game making culture.
 B
 
 
+## Discussions on different interventions
 
+### Drama / Fictional Frameworks:
 
+<!-- Background - (be sure to include in lit review)  -->
 
-### Motivational Methods Imported Writing
-
-
-The final M of the 3M framework stands for motivational methods. These methods are inspired by other projects involving a community approach to teaching technology. Here, I share two methods that emerged from feedback and partnership work that proved valuable in the context of game making.
-
-**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
-
-<!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
-
-**Drama / Fictional Frameworks:** Another method I use to increase learner engagement in game making is the concept of using a fictional scenario or simulation. A fictional community while less authentic than a professional community, can still provide some of the associated benefits of authenticity. I have worked with practitioners of Drama Education department at Manchester Metropolitan University to develop such fictional dramas, but you do not have to be a trained drama practitioner to draw on key techniques to increase learner engagement. For example, I asked trainee teachers to devise a scenario to support a series of sessions and they used a fiction of making games for an alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways:
+I use to increase learner engagement in game making is the concept of using a fictional scenario or simulation. A fictional community while less authentic than a professional community, can still provide some of the associated benefits of authenticity. I have worked with practitioners of Drama Education department at Manchester Metropolitan University to develop such fictional dramas, but you do not have to be a trained drama practitioner to draw on key techniques to increase learner engagement. For example, I asked trainee teachers to devise a scenario to support a series of sessions and they used a fiction of making games for an alien race coming to destroy the earth. The process of using a fictional situation can help with the motivation and reflection of learners in the following ways:
 
 - Asking learners to step into a role can increase identification with participation in the project. For example you may say "As game designers, we will make this game for a particular audience".
 - Fictional situations can help create a sense of imagined jeopardy which can help learners stay on track with their creative timescale and may increase their commitment to the process.
 -  When learners share their games with their real or imagined audience, they can talk through their design decisions and challenges, thus creating an opportunity for reflection.
 - Drama processes can help explore identification with or hostility to gaming cultures.
 
+
+### Physical Computing and Game Making:
+
+- There is scant evidence for this in the video data.
+- I can make observations from journal notes and try to find mention of it in interviews.
+
+(Imported Writing)
+**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
+
+
+<!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
 
 ### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 
@@ -139,6 +150,14 @@ Towards the end of phase 1 I began to create code examples to illustrate of how 
  During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 
 
+### Notes on supporting evidence from Data
+
+#### Division of Labour - code patching and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+The documentation leads to a page with code examples.
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
 
 
 ## Discussion in Relation to Existing Research

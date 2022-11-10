@@ -251,34 +251,59 @@ This vignette can be explored briefly to bring out the key point of this chapter
 
 #### Patterns of Activity in Vignette A
 
-These patterns of activity are coded to some extent in Nvivo. But how do they add to the RQs.
 
 
+<!--
+This isn't relevant if I choose not to address MakeCode in the dissertation.
+There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z. -->
 
-- Alternating between use of keyboard by parent and child
-- Child sometimes absent- cf Rogoff, observation as valid form of participation
-- Child takes over keyboard from adults
-- Parent navigates to a particular part of the code for child to alter
+General observations on pair activity. I coded two sessions of this parent child pair in "some detail" (describe grades of detail in methodology chapter). The patterns of action between participants have been coded to allow analysis of the community and interpersonal dimensions of activity.
 
-This took part in one of the sessions that was coded in depth. At other times in this session the activity of this pairing included the following.
+The following observations have been made by comparing the codes on stages of design and types of participant interaction and accompanying transcribed fragments of conversation and notes.
 
-- Child observes from under table
-- Parent asks for help from facilitator
-- Parent asks child to ask for help from facilitator
-- Child peer testing of other participants games
-- Parent / Child feedback on other participants games
+NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed.
 
-By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
+**General Observations at all stages**
 
-- time under table
-- time in control of Keyboard
-- time actively directing parent's activity
-- time actively observing parent's activity
-- time discussing game features with parent
+- This parent-child pair alternate between use of keyboard and mouse. Currently the parent takes the driving seat. (Their roles can be contrasted to pair programming).
+- When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups (cf Rogoff, observation as valid form of participation)
+- When possible, the parent engages child to input the design activities. This is done at different levels at different design stages.
 
-#### Coding the Patterns of Activity in Vignette A
+**Ask / Imagine**
 
-In terms to help answer the RQ about the use of game design patterns, the following coding structure was applicable.
+- In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
+
+**Plan**
+
+- in planning stages the parent provides scaffolding to help the child.
+- In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.    
+
+**Create**
+
+- At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of  attention.
+- At times the parent asked the child to seek help from facilitator.  
+- At another time, when the child was bored waiting for parent debugging, she approached the facilitator to ask for help on behalf of the adult without prompting.  
+
+**Test**
+
+- The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
+-
+
+**Improve**
+
+- Parent navigates to a particular part of the code for child to alter design
+- Child takes on challenge of making smaller changes
+
+**Share**
+
+- One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
+- While there is usually a
+
+
+#### Representing Coded the Patterns of Activity in Vignette A
+
+
+Background - the following coding structure was applicable.
 
 REPLACE THE FOLLOWING SCREENSHOT WITH A TABLE EXPLAINING CODING CATEGORIES
 
@@ -297,11 +322,27 @@ The second scenario is represented by 4 charts one for each game element showing
 
 CHART
 
-The rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
 
-<!--
-This isn't relevant if I choose not to address MakeCode in the dissertation.
-There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z. -->
+
+### Notes on division of labour
+
+### Notes on use of GDP
+
+- Parent offers choices of direction of next GDP   
+- The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging. Both these activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
+
+<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
+
+- time under table
+- time in control of Keyboard
+- time actively directing parent's activity
+- time actively observing parent's activity
+- time discussing game features with parent -->
+
+
+
+### Comparing the activity of this family to others.
+
 
 The activities of other families also included the Following
 

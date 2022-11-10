@@ -371,6 +371,16 @@ more notes Here - including MDA framework.
 https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/edit#heading=h.4nad7a137op4
 -->
 
+### Grades of video data analysis
+
+Roughly three grades
+
+- Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
+- Notes on goals, activities, interactions, fragments of dialogue and brief observations. Video coded in segments in Nivivo
+- Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
+
+In the second level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
+
 
 ### Data Validity - Triangulation of Data
 
