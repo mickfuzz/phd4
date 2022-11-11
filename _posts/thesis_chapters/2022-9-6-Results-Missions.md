@@ -4,12 +4,11 @@ zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
-  csl-style: harvard # pre-fill the style
+  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
 title: Finding Chapter One - Missions
 ---
-
 
 ## Other Documents
 
@@ -19,7 +18,6 @@ Also the RQ questions which answered
 https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
 And the coding structure here   
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit#
-
 
 ## Introduction to This Writing
 
@@ -113,10 +111,12 @@ To help the reader understand the data in this chapter the following notes on me
 
 ## Chapter overview
 
-The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study. A chapter on that model is completed here. PUT IN ZOTERO AND PUT ONLINE.
-However, when
+The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study.
 
-The purpose of this chapter is to explore how the data gathered informs thinking on a key research question of this study, how can game patterns support the development of coding practices by novices?
+The purpose of this chapter is to explore how the data gathered informs thinking on two research questions of this study.  
+
+- How can game design patterns support the development of coding practices by novices?
+- How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
 To do this, the chief analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff - explored previously).
 
@@ -224,17 +224,16 @@ The working definition of GDPs explored in the literature review and enhanced in
 |T: Yes (laughs) Yes. Why could that be? That’s silly| |
 |S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.|
 
-
+<!--
 #### Summary Commentary on Annotation and Content of Vignette
 
-The vignette Including some basic gesture analysis. This is explore in more detail in a chapter on Methodolgy.
+The vignette including some gesture analysis. This is explore in more detail in a chapter on Methodolgy.
+
 This was particularly valuable in the Key Door Person interchange where meaning was not clear before looking at video.
 In previous chapter on methodology we (will) have examined the coding scheme used to code specifics on interactions and participant behaviour and output.
 
 The resulting coding structure is available online here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit#
-
-This vignette can be explored briefly to bring out the key point of this chapter which is to explore the use of Game Design Patterns in this game making pedagogy.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit# -->
 
 #### Patterns of Activity in Vignette A
 
@@ -282,11 +281,10 @@ NOTE - This section may move to a (previous) chapter (provisionally structured a
 **Share**
 
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
-- While there is usually a
+
 
 
 #### Representing Coded the Patterns of Activity in Vignette A
-
 
 Background - the following coding structure was applicable.
 
@@ -316,6 +314,11 @@ CHART
 - Parent offers choices of direction of next GDP   
 - The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging. Both these activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
 
+To return the vignette, the gesture analysis (explained in a the methodology chapter) is valuable to shed light on the following exchange.
+
+The Key Door Person interchange where meaning was not clear before looking at video.
+In previous chapter on methodology we (will) have examined the coding scheme used to code specifics on interactions and participant behaviour and output.
+
 <!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
 
 - time under table
@@ -323,7 +326,6 @@ CHART
 - time actively directing parent's activity
 - time actively observing parent's activity
 - time discussing game features with parent -->
-
 
 
 ### Comparing the activity of this family to others.
@@ -354,13 +356,12 @@ Game making patterns are outlined by both the child and parent. They talk of add
 
 In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
 
-## Findings Emerging related to Game Design Patterns / Missions
+## Findings Emerging related to Game Design Patterns
 
-Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity. (See Blunden)
+Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
+
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
-
-In this section I will explore how game design patterns became the primary unit of activity for participants.
 
 Discussion points
 
@@ -374,24 +375,16 @@ We have also looked at the other studies which look at game design patterns as a
 
 In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
 
-QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
+### Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-
-## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
-
-While each of these observations do not fall neartly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus and progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
-
+While each of these observations do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus which will deepen the observations in the previous chapter.  
+ and progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
 
 ## Cultural Plane / Apprenticeship
 
-The use of three planes to analyse the evolution of the learning and study design has been in explored in the Chapter on Methods / Design.
-
-Recap?
-
- - Design patterns imagined used in other contexts as a form of apprenticeship
- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
-  - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
-
+- Design patterns imagined used in other contexts as a form of apprenticeship
+- Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+- the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
 
 ## Interpersonal Plane (Guided Apprenticeship)
 
@@ -407,6 +400,11 @@ While there was no formal organising of groups in phase 2 and 3, the family bond
 
 The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
 The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
+
+
+|T: Go on then. Key - Door - Person.| |
+|S: Person?| |
+|T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
 ### GDPs and division of Labour
 
@@ -549,7 +547,6 @@ Older participants often used this as a way of being supportive to both parents 
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
 
-
 ### GDPs to support Iterative Design Practices
 
 Iterative agile design is a highly cultural / interpersonal process.
@@ -566,46 +563,45 @@ Small changes had big effects.
 Variable changes needed immediate testing.  
 
 
-
 ## Personal Plane
 
-This is explored in more depth in Chapter on Maps / Personal Plane.
+The personal plane is explored in a following chapter (working title Maps). This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
 
-But to set the scene...
+<!-- Provide a link to next chapter - but before that a round up / discussion / to specific elements in relation to GDPs
 
-Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+May need a way to differential this chapters discussion of GDP - and that of the next one.
+ -->
 
-Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
 
-The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
+### Mutual approaches to knowledge building
 
-Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
-Rising to the concrete
+In this section the processes of personal appropriation of experience and knowledge emering from game making are examined closely in relation to particpants experience of GDPs.
 
-### Leading with GDP as a way to explore other Learning Dimensions
+ - quick summary of Rogoff's take on personal appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
+ - e.g - GDPs used in this research program were mutually created based on feedback from participants
+ - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
 
-Under explored - but part of the thinking here. Perhaps move to discussion
-https://docs.google.com/document/d/1uRitN8P6m5Xr399jl4-WGhCnTQh5pptAWpkHpTRzwIQ/edit?pli=1#bookmark=id.kbntbvgpx1mu
-The later Make Code cards which contained links to such patterns.
-
-(see Eriksson and Bjork)
+### Game Design Patterns vs CT and more established "knowledge"
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
-Provide a link to next chapter - but before that a round up / discussion.
+- Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+- Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
+
+- Leading with GDP as a way to explore other Learning Dimensions
+<!-- Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE -->
+
+- Discussion - The use of GDPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
+- Discussion -  Rising to the concrete - as a key AT concept - how does this fit?
+- Make Code cards which contained links to game design patterns and the different component concepts
+- (see Eriksson and Bjork)
+- Draw on material and critique in chapter on semantic profiles / waves.
 
 
+### Discussion on UMC and PRIMM in relation to use of Game Design Patterns? INCLUDE OR NEXT CHAPTER?
 
-
-#
-
-### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
-
-Currently try to keep to note form.
-
-### Discussion on UMC and PRIMM in relation to use of Game Design Patterns
-
-Draw on material and critique in chapter on semantic profiles / waves.
+- UMC - should be covered in the Remix part of the design
+- PRIMM - stage based - more prescriptive - probably suits next chapter.
 
 <!-- not sure how much to put in about this in LIT REVIEW  -->
 
@@ -625,7 +621,6 @@ Many commercial open world games offer a central challenge consisting of small i
 To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
 
 Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
-
 
 <!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
 
@@ -661,8 +656,6 @@ PRINTED CARD TEXT ENDS
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
 
 
-
-
 ## Additional Chapter Discussion
 
 ### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions
@@ -693,8 +686,6 @@ We can see evidence of both the potential for reusable elements of knowledge and
 
 * Use of levels as a array which is parsed by a loop to create layout
 * Other examples.
-
-
 
 ## Disregarded or Next Steps Data
 
