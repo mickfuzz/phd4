@@ -503,7 +503,7 @@ Especially if part of the design allowed the expression of identity or a designe
 Graphics --> cultural linking with home
 
 Example of dog background graphics in 2019-03-18-th_sh -
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game erikssonUsingGameplayDesign2019;
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
 - cultivativing a sense of ownsership
 - playing around the graphic - covering it over and revealing it
 - participant self-expression and a conversational prompt to other during sharing of the game
@@ -586,7 +586,7 @@ In this section the processes of personal appropriation of experience and knowle
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
 - Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
-- Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
+- Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@eriksson_using_2019] .
 
 - Leading with GDP as a way to explore other Learning Dimensions
 <!-- Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE -->
