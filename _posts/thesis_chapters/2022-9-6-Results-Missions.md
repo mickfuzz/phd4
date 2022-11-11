@@ -356,14 +356,19 @@ In terms of understanding of the game as a dynamic system, this is seen clearly 
 
 ## Findings Emerging related to Game Design Patterns / Missions
 
-In a previous section I have explored how game design patterns became the primary unit of activity for participants.
-
-In a previous section I have explored how game design patterns became the primary unit of activity for participants. This, more unit than the overall making of a game, took up the majority of their focus.
-
-IS THIS IN A PREVIOUS SECTION / I.E. METHODOLGY? OR IS IT HERE
-
+Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity. (See Blunden)
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
+
+In this section I will explore how game design patterns became the primary unit of activity for participants.
+
+Discussion points
+
+- How the GDP are sub activities goals in AT terminology.
+- Thu, the game pattern goal rather than the overall making of a game, took up the majority of their focus.
+- In playtesting with others the wider focus of making an engaging game comes into focus.
+- The difference in goals in terminology
+- How this unit allows a more detailed focus on some of the tensions involved in tool use
 
 We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.
 
