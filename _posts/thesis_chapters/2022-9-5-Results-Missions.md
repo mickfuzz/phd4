@@ -97,34 +97,60 @@ While this piece of writing contains results, it also contains references to con
 OR just create hyperlinks.
 
 
-## Context for this writing
+## Methodology & Research Questions
 
 To help the reader understand the data in this chapter the following notes on methods/ methodology are included.
 
 - The study uses mixed methods in methodology. Informed by analysis of journal diary, notes, video data and
 - An evolving table of what data is used in what way to answer each RQ is coming but is not ready.
 - The research design evolved as the game making program was underway based on feedback and reactions of the participants (supported precedent in design-based research)
-- A long pilot course and development stage resulted in extensive support materials and activities which I have structured into a learning design called 3M (more below)
-- A narrow data samples has been used for this study. This prioritises a greater depth of analysis on interactions over generalisation. This is justified in a section on data validity.  
 - The concepts of resolving tensions within activity from Activity Theory are used in a previous chapter to explore the evolution of the designed
 - Rather than Engestroms AT framework (Subject, Object, Instruments, Rules, Community, Division of Labour) the results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal)
 - A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing)
 
 
+|Written Journal Notes | Used as development tool, finally coded to find themes |Used to evaluate starting themes and inform changes to learning design|
+
+The concept of tensions from Activity Theory has been cited as helpful as an analytical tool particularly in informal and non-formal settings. The structure of this thesis identifies streams within the resolutions to these tensions. The explores resolutions which are presented to participants and facilitators as Missions.
+
+
+**Comment:** Perhaps take screenshots and link to specific chapters / methodology
+
+In the previous chapter on methodology, I have outlined how, in line with a social approach, as a researcher / participant I evolved identified tensions that emerged in the process of developing a learning design.
+
+In this writing I will outline the data collected and how it is analysed. And perhaps which questions the data answers.
+
+**Screenshot of Table on sources of data and how they inform the study**
+
+|**Data Source**|**Analysis**|**Comments**|
+|:----|:----|:----|
+|Video Capture Data| Vignettes Selected based on evaluation criteria  |  |
+
+**Screenshot of Table on Research questions and where they are answered**
+
+**Comments on Data Validity**
+The following data prompts questions of data validity in terms of how the data has been selected. I have noted this as a particular focus for next stages of writing. Any comments or questions are welcome.
+
+**Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/chapter/2022/09/03/Methodology.html
+
+<<<
+MOVE THIS TO THE METHODOLOGY CHAPTER - CREATE A SUMMARY AT THE TOP OF THE CHAPTER
+
+
+
 ## Chapter overview
 
-The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study. A chapter on that model is completed here. PUT IN ZOTERO AND PUT ONLINE.
-However, when
+The working title of this chapter is Missions. Originally the focus was to link with the use of  
 
-The purpose of this chapter is to explore how the data gathered informs thinking on a key research question of this study, how can game patterns support the development of coding practices by novices?
-
-To do this, the chief analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff - explored previously).
-
-This section starts with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interpersonal interactions of that pair via analysis of video data. The activity of the focal pair is then compared to activity of other groupings and individuals.
+This section starts with a Vignette of parent child interaction in game making process.
+The vignette is used to introduce an overview of interpersonal dimensions of the learning happening (from 3 planes / foci).
+The activity of the focal pair is compared to activity of other groupings.
 
 The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
 
 The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
+
+
 
 ### Vignette A
 
@@ -324,9 +350,8 @@ CHART
 - time actively observing parent's activity
 - time discussing game features with parent -->
 
-
-
 ### Comparing the activity of this family to others.
+
 
 The activities of other families also included the Following
 
@@ -354,6 +379,41 @@ Game making patterns are outlined by both the child and parent. They talk of add
 
 In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
 
+
+### Missions
+
+Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
+
+<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
+
+**Game Design Patterns as Main Missions:** Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges. In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+
+<!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
+
+In my final implementation of the 3M model students picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
+
+BOX BEGINS
+
+Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
+
+* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+
+* **Type Pattern:** Game Mechanic
+
+* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+
+* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
+
+* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
+
+* **Links to other Computing Patterns:** Systems Dynamics[^10]
+
+* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+
+BOX ENDS
+
+In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
+
 ## Findings Emerging related to Game Design Patterns / Missions
 
 In a previous section I have explored how game design patterns became the primary unit of activity for participants.
@@ -368,8 +428,6 @@ https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.
 
 In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
-
-QUESTIONS - INCLUDE A BUNCH TO START WITH THEN DRAW ON THEM?
 
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
@@ -474,14 +532,10 @@ This example shows the use of a number of game design patterns. At this stage of
 
 In addition, the child describes a feature that they want to see happen.
 
-There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers.
-
-Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus this is a kind decision on behalf of the child.
-And the listing of features is a brainstorming technique designed to aid a creative process but the parent lacks the skills to map these out and to work together to priortises.
-Some kinds of support help this would be potentially productive.
-
+There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers. This is explored in the next section.
 
 This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done. There is also the use of the game playing as an activity to do while discussing what to do.
+
 
 ### GDP and sustaining engagement
 
@@ -520,62 +574,15 @@ PERHAPS ADD TRANSCRIPT EXAMPLE ?-
 
 ### Interaction of GDPs with Playtesting as method
 
-Playtesting but in particular designing for others .
-
 What was noticeable about - this in particular?
-
-Playtesing as a regular practice is a immediate way to shift learners into a perspective designing for others.
-
-This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is. Regular self testing and playtesting achieve this.
-
-Some examples: (should be many)
-
-Pull on examples of learners imagining the experience of others.
- - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
- - Another example -
-
-Discussion - Designing for others - as a key perspective in constructionism.
-Note: What added insights or tips for practitioners can I bring here?
-
-Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
-
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
-- praising graphical content
-- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
-
-
+Desinging for others
 
 ### GDPs to support Iterative Design Practices
-
-Iterative agile design is a highly cultural / interpersonal process.
-
-Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
-
-Perhaps in the field of participatory design.
-
-Highlight how the granular and relatable nature of GDP
 
 Well suited to build a repeated design practice.
 Especially with starting documents,
 Small changes had big effects.
 Variable changes needed immediate testing.  
-
-
-
-## Personal Plane
-
-This is explored in more depth in Chapter on Maps / Personal Plane.
-
-But to set the scene...
-
-Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
-
-Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
-
-The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
-
-Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
-Rising to the concrete
 
 ### Leading with GDP as a way to explore other Learning Dimensions
 
@@ -587,88 +594,22 @@ The later Make Code cards which contained links to such patterns.
 
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
-Provide a link to next chapter - but before that a round up / discussion.
+## Personal Plane
+ This is explored in more depth in Chapter on Maps / Personal Plane.
 
+ But to set the scene...
+ Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
 
+ Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@erikssonUsingGameplayDesign2019a]..
 
+ The use of DPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
 
-#
-
-### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
-
-Currently try to keep to note form.
-
-### Discussion on UMC and PRIMM in relation to use of Game Design Patterns
-
-Draw on material and critique in chapter on semantic profiles / waves.
-
-<!-- not sure how much to put in about this in LIT REVIEW  -->
-
-
-## Incorporating findings into a pedagogical model for participants
-
-Note: I'm not yet sure how much of the 3M model will be described in the "Results-Design" chapter. A short recap here seems appropriate.
-
-As previously discussed, the process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well.
-
-Note: To do this some areas of context are outlined which may end up in the opening chapters.
-
-### Presenting GDP to participants as "Missions"
-
-Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency.
-
-To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
-
-Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
-
-
-<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
-
-CONTEXT PROBABLY COVERED IN LITERATURE REVIEW: Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
-
-CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
-In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
-
-<!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
-
-In my final implementation of the 3M model students picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
-
-PRINTED CARD TEXT BEGINS
-
-Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
-
-* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
-
-* **Type Pattern:** Game Mechanic
-
-* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
-
-* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
-
-* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
-
-* **Links to other Computing Patterns:** Systems Dynamics[^10]
-
-* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
-
-PRINTED CARD TEXT ENDS
-
-In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
-
+ Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
+ Rising to the concrete
 
 
 
 ## Additional Chapter Discussion
-
-### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions
-
-Synthesise examples which highlight the value of developing share language and short cuts. Draw from the above examples.
-
-However, also look at potential short comings of short cuts - hiding more complex patterns within the name. When short cuts or misapprehensions prove less useful.
-
-For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
-
-Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
 
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract
@@ -690,6 +631,15 @@ We can see evidence of both the potential for reusable elements of knowledge and
 * Other examples.
 
 
+### Using Rogoff's Guided Participation / Social foci of Sociocultural Activity as a Primary Lens
+
+Currently try to keep to note form.
+
+### Discussion on UMC and PRIMM in relation to use of Game Design Patterns
+
+Draw on material and critique in chapter on semantic profiles / waves.
+
+<!-- not sure how much to put in about this in LIT REVIEW  -->
 
 ## Disregarded or Next Steps Data
 
@@ -700,7 +650,7 @@ rejected notes
 - How does this approach compare to PBL -
 - How are roles similar or different from Barron -
 - Design processes -->
-<!--
+
 ## Future Work / Omissions
 
-- Further testing of the Maps   -->
+- Further testing of the Maps  
