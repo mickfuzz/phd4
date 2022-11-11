@@ -241,11 +241,9 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 This isn't relevant if I choose not to address MakeCode in the dissertation.
 There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z. -->
 
-General observations on pair activity. I coded two sessions of this parent child pair in "some detail" (describe grades of detail in methodology chapter). The patterns of action between participants have been coded to allow analysis of the community and interpersonal dimensions of activity.
+I coded two complete sessions of this parent child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated with the accompanying transcribed fragments of conversation and my own journal notes. The observations are presented themed by the design stages with some general observations listed at the start.
 
-The following observations have been made by comparing the codes on stages of design and types of participant interaction and accompanying transcribed fragments of conversation and notes.
-
-NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed.
+<!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
 **General Observations at all stages**
 
@@ -271,7 +269,6 @@ NOTE - This section may move to a (previous) chapter (provisionally structured a
 **Test**
 
 - The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
--
 
 **Improve**
 
@@ -282,22 +279,28 @@ NOTE - This section may move to a (previous) chapter (provisionally structured a
 
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 
-
-
 #### Representing Coded the Patterns of Activity in Vignette A
 
-Background - the following coding structure was applicable.
+Background: Recap of the coding structure decided upon.
+See current table here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
 
-REPLACE THE FOLLOWING SCREENSHOT WITH A TABLE EXPLAINING CODING CATEGORIES
+- Design Stages  
+- Interaction Description
+- Game Elements Addressed
 
-I used Nvivo to give insight about the engagement of young participants by compare time on different tasks. For example for the session that the vignette was taken from the below is chart of the time on each of the codes.
+Here I will use Nvivo to give insight about the engagement of participants by compare time on different tasks.
 
-QUESTION. The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
+<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
 
-- During which design phase does parent-child pair interaction happen?
-- What are the different patterns for participant interaction that happen when working on different game elements.
+The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
 
-The first scenario is represented in a chart below.
+- Question One: During which design phase does parent-child pair interaction happen most frequently?
+- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
+
+TO COME.
+
+The first scenario represented in a chart .
 
 CHART
 
@@ -306,18 +309,7 @@ The second scenario is represented by 4 charts one for each game element showing
 CHART
 
 
-
-### Notes on division of labour
-
-### Notes on use of GDP
-
-- Parent offers choices of direction of next GDP   
-- The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging. Both these activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
-
-To return the vignette, the gesture analysis (explained in a the methodology chapter) is valuable to shed light on the following exchange.
-
-The Key Door Person interchange where meaning was not clear before looking at video.
-In previous chapter on methodology we (will) have examined the coding scheme used to code specifics on interactions and participant behaviour and output.
+Followed by discussion
 
 <!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
 
@@ -328,27 +320,46 @@ In previous chapter on methodology we (will) have examined the coding scheme use
 - time discussing game features with parent -->
 
 
-### Comparing the activity of this family to others.
+### Further observations and discussion on game making activity
 
-The activities of other families also included the Following
+**Note:** I am not totally clear on the purpose of this section. Needs revisiting in terms of chapter structure.
 
-- Parent peer testing of other games
-- Feedback on aesthetics elements of game design
+#### Comparing the activity of this family to others
 
 We can compare this pairs pattern of activity with other pairs / families.
 
 - The parent here is much more commonly rooted to the computer than other parents.
-- The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
+- This meant they engaged far less in play testing of other games and found it harder to gain attention for direct support.
 - This grouping sometimes left early having completed more in code development than others but completed less social activities.
 
+Discussion
 
-#### Other Notes on Patterns of Activity
+- The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
 
-This also shows the importance of recording the whole room. Some participants will roam to take in the work of others, to socialise, to gain attention etc.
+The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback.
 
-It may be of value to compare the activity on a computer screen for one participant with a tracking of their behaviour via the 360 camera.
+When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity.
+
+
+## Identifying GDP as key unit of Analysis
+
+Note: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
+
+### Relating to AT and design Theory
+
+CONTEXT PROBABLY PARTLY COVERED IN LITERATURE REVIEW:
+
+Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
+
+- Drawing on AT terminology
+- Discuss how GDP as key unit  was arrived at - draw on journal notes in planning stages
+- Relate - AT terms to those of design stages
+- Begin to comment on utility of GDP as a unit of analysis for practitioners, parents and young participants - i.e. in navigation and goal setting.
+
 
 #### Importance of Game Design Patterns in Vignette A
+
+Note: it seems a bit strange to return to Vignette A at this point. Can the writing be structured to avoid this disconnect?
 
 For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
@@ -356,7 +367,16 @@ Game making patterns are outlined by both the child and parent. They talk of add
 
 In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
 
-## Findings Emerging related to Game Design Patterns
+### Other Notes on use of GDP (to integrate with above)
+
+- Parent offers choices of direction of next GDP   
+- The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
+- For this pair, larger coding activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
+
+
+
+
+## Other Findings Emerging related to Game Design Patterns
 
 Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
 
@@ -406,15 +426,19 @@ The utterance by the child "Key Door Person" seemingly indicated that the child 
 |S: Person?| |
 |T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
+
+Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange.
+It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
+
 ### GDPs and division of Labour
 
-Similarly, rather than direct delegation, dividing of labour can be observered.
+Similarly, rather than direct delegation, dividing of labour can be observed.
 
-The implementation of some GDP involved the use of different tools and activites. For example, the design of a graphical element suited some learners and they depended on the support of others to emplement those changes in code.
+The implementation of some GDP involved the use of different tools and activities. For example, the design of a graphical element suited some learners and they depended on the support of others to implement those changes in code.
 
 While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
-ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-michelle
+ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
 
 
 #### GDPs for Goal Setting and Prioritisation
@@ -446,7 +470,6 @@ Long pause
 
 M: Well I’ll have a look at the code and see if I can make sense of that.
 
-
 M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
 You know, keep working through.
 
@@ -473,18 +496,22 @@ Long pause
 M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
-This example shows the use of a number of game design patterns. At this stage of the design they have been
+This example shows the use of the names number of game design patterns by the child .
+While the planning discussion happens the child is concurrently testing their game.
+At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded. In addition, the child describes a feature that they want to see happen.
 
-In addition, the child describes a feature that they want to see happen.
+This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
 
-There is a sense here that the child may be picking activities to fit their strong suit of designing in other gui based environments. Leaving the father to piece things togethers.
+Here the child may be picking activities to fit their strong suit of creating graphical and audio assets in other gui based environments. Leaving the father to piece things together in the code based progam.
 
-Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus this is a kind decision on behalf of the child.
-And the listing of features is a brainstorming technique designed to aid a creative process but the parent lacks the skills to map these out and to work together to priortises.
-Some kinds of support help this would be potentially productive.
+Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress.
 
+Discussion: The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to priortise them. Instead he appears to be keen to quickly pick one that seems manageable.
 
-This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done. There is also the use of the game playing as an activity to do while discussing what to do.
+GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive.
+
+Note: Such support is explored in more detail in the next chapter.
+
 
 ### GDP and sustaining engagement
 
@@ -623,10 +650,7 @@ To mirror this approach, the main challenge of the 3M model is to create a playa
 Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
 
 <!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
-
-CONTEXT PROBABLY COVERED IN LITERATURE REVIEW: Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
-
-CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
+THIS CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
 In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 <!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
@@ -687,9 +711,11 @@ We can see evidence of both the potential for reusable elements of knowledge and
 * Use of levels as a array which is parsed by a loop to create layout
 * Other examples.
 
+
+<!-- 
 ## Disregarded or Next Steps Data
 
-We can also compare the patterns and also the frequency of these interactions with a future session later in the year. COULD DO BUT SIDELINE FOR NOW - ADD TO NEXT STAGES?
+We can also compare the patterns and also the frequency of these interactions with a future session later in the year. COULD DO BUT SIDELINE FOR NOW - ADD TO NEXT STAGES? -->
 
 <!--
 rejected notes
