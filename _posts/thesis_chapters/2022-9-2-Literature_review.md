@@ -57,6 +57,8 @@ Keywords - Communities of Practice, Situated learning & legitimate peripheral pa
 
 ### Guided participation Rogoff and Communities of Learners
 
+<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
+
 (Continue to) refute or problematise  dichotomy of learner led, teacher led approaches @mascolo_beyond_2009.
 
 Participation on community activities as a valid approach.
@@ -68,7 +70,6 @@ Teachers benefit from the concept of scaffolding, and designing learning environ
 
 This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
 
-<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
 
 ## Summary of Digital Making Studies from a Sociocultural Perspective
 
@@ -92,6 +93,22 @@ While some researchers define formal learning as that which happens in school an
 ### Family Making
 Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
 I extend this in this study, how can the learning design contribute?
+
+
+### Funds of Knowledge
+
+COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO 
+The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+
+
+#### Retro Gaming as a Fund of knowledge
+
+- What is retro gaming? [Nostalgia in Retro Game Design.]
+- Why is it powerful in affect?
+- What potential does that give to family game making?
+
 
 ## On Game Making pedagogies
 

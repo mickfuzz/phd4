@@ -29,7 +29,7 @@ While this piece of writing contains results, it also contains references to con
   - Context
     - Coding digital making's movement from informal -> formal settings / curriculum
     - Game making as a particular focus of digital making
-  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning
+  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning (overlap with funds of knowledge? next?)
     - Critique of implementations of Computational Thinking as a non-inclusive approach
     - Use of Game design patterns as a more "relatable" pedagogy
   - Description of Research Questions
@@ -44,7 +44,7 @@ While this piece of writing contains results, it also contains references to con
     - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
     - Social learning in Game Making
       - Game playing and making communities
-      - Games as funds of knowledge in
+      - Games as funds of knowledge; the value of retro aesthetics
     - Visual methods in game making
       - Maps of learning, Gee, borrowing how to chart learner's journey from game design
 
@@ -245,6 +245,9 @@ I coded two complete sessions of this parent child pair. The following observati
 
 <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
+SHOULD THIS BE ONLY ON THE VIGNETTE OR ALSO INCLUDE OTHER ACTIVITY TO SPEED THINGS UP. 
+
+
 **General Observations at all stages**
 
 - This parent-child pair alternate between use of keyboard and mouse. Currently the parent takes the driving seat. (Their roles can be contrasted to pair programming).
@@ -254,6 +257,7 @@ I coded two complete sessions of this parent child pair. The following observati
 **Ask / Imagine**
 
 - In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
+- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
 
 **Plan**
 
@@ -269,11 +273,12 @@ I coded two complete sessions of this parent child pair. The following observati
 **Test**
 
 - The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
+- The testing process here is quite frustrating as gravity is very low. This is addressed later as it is improved on the suggestion of the parent who has to do the majority of the testing.
 
 **Improve**
 
 - Parent navigates to a particular part of the code for child to alter design
-- Child takes on challenge of making smaller changes
+- Child takes on challenge of making smaller changes once the core game mechanic code has been added.
 
 **Share**
 
@@ -712,7 +717,7 @@ We can see evidence of both the potential for reusable elements of knowledge and
 * Other examples.
 
 
-<!-- 
+<!--
 ## Disregarded or Next Steps Data
 
 We can also compare the patterns and also the frequency of these interactions with a future session later in the year. COULD DO BUT SIDELINE FOR NOW - ADD TO NEXT STAGES? -->
