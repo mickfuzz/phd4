@@ -245,7 +245,7 @@ I coded two complete sessions of this parent child pair. The following observati
 
 <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
-SHOULD THIS BE ONLY ON THE VIGNETTE OR ALSO INCLUDE OTHER ACTIVITY TO SPEED THINGS UP. 
+SHOULD THIS BE ONLY ON THE VIGNETTE OR ALSO INCLUDE OTHER ACTIVITY TO SPEED THINGS UP.
 
 
 **General Observations at all stages**
@@ -291,8 +291,9 @@ See current table here.
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
 
 - Design Stages  
-- Interaction Description
 - Game Elements Addressed
+- Activity grouping (solo, family, peer)
+- Activity description
 
 Here I will use Nvivo to give insight about the engagement of participants by compare time on different tasks.
 
@@ -305,7 +306,7 @@ The coding structure (may) also allows to show the overlap between different cod
 
 TO COME.
 
-The first scenario represented in a chart .
+The first scenario represented in a chart which compares activity grouping with design stages and activity description.
 
 CHART
 
