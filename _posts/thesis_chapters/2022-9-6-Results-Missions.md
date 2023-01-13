@@ -29,7 +29,7 @@ While this piece of writing contains results, it also contains references to con
   - Context
     - Coding digital making's movement from informal -> formal settings / curriculum
     - Game making as a particular focus of digital making
-  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning (overlap with funds of knowledge? next?)
+  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning
     - Critique of implementations of Computational Thinking as a non-inclusive approach
     - Use of Game design patterns as a more "relatable" pedagogy
   - Description of Research Questions
@@ -44,7 +44,7 @@ While this piece of writing contains results, it also contains references to con
     - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
     - Social learning in Game Making
       - Game playing and making communities
-      - Games as funds of knowledge; the value of retro aesthetics
+      - Games as funds of knowledge in
     - Visual methods in game making
       - Maps of learning, Gee, borrowing how to chart learner's journey from game design
 
@@ -245,9 +245,6 @@ I coded two complete sessions of this parent child pair. The following observati
 
 <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
-SHOULD THIS BE ONLY ON THE VIGNETTE OR ALSO INCLUDE OTHER ACTIVITY TO SPEED THINGS UP.
-
-
 **General Observations at all stages**
 
 - This parent-child pair alternate between use of keyboard and mouse. Currently the parent takes the driving seat. (Their roles can be contrasted to pair programming).
@@ -257,7 +254,6 @@ SHOULD THIS BE ONLY ON THE VIGNETTE OR ALSO INCLUDE OTHER ACTIVITY TO SPEED THIN
 **Ask / Imagine**
 
 - In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
-- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
 
 **Plan**
 
@@ -273,12 +269,11 @@ SHOULD THIS BE ONLY ON THE VIGNETTE OR ALSO INCLUDE OTHER ACTIVITY TO SPEED THIN
 **Test**
 
 - The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
-- The testing process here is quite frustrating as gravity is very low. This is addressed later as it is improved on the suggestion of the parent who has to do the majority of the testing.
 
 **Improve**
 
 - Parent navigates to a particular part of the code for child to alter design
-- Child takes on challenge of making smaller changes once the core game mechanic code has been added.
+- Child takes on challenge of making smaller changes
 
 **Share**
 
@@ -291,9 +286,8 @@ See current table here.
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
 
 - Design Stages  
+- Interaction Description
 - Game Elements Addressed
-- Activity grouping (solo, family, peer)
-- Activity description
 
 Here I will use Nvivo to give insight about the engagement of participants by compare time on different tasks.
 
@@ -306,7 +300,7 @@ The coding structure (may) also allows to show the overlap between different cod
 
 TO COME.
 
-The first scenario represented in a chart which compares activity grouping with design stages and activity description.
+The first scenario represented in a chart .
 
 CHART
 
@@ -554,6 +548,40 @@ The process of adding levels was something that was spread predominately through
 
 PERHAPS ADD TRANSCRIPT EXAMPLE ?-
 
+
+### GDPs to support Iterative Design Practices
+
+Iterative agile design is a highly cultural / interpersonal process.
+
+Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
+
+Perhaps in the field of participatory design.
+
+Highlight how the granular and relatable nature of GDP
+
+Well suited to build a repeated design practice.
+Especially with starting documents,
+Small changes had big effects.
+Variable changes needed immediate testing.  
+
+
+#### The limits of design cycle stages
+
+When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
+Ask / Imagine, Plan, Create, Test, Improve, Share.
+
+While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
+
+When coding I quick became aware of the limits and challenges to coding to this.
+
+For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle.
+For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+
+I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
+
+This limits claims I can make from the coded data.
+
+
 ### Interaction of GDPs with Playtesting as method
 
 Playtesting but in particular designing for others .
@@ -578,22 +606,6 @@ Also noticeable is the variety of ways in which playtesting happens and how youn
 Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
 - praising graphical content
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
-
-
-### GDPs to support Iterative Design Practices
-
-Iterative agile design is a highly cultural / interpersonal process.
-
-Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
-
-Perhaps in the field of participatory design.
-
-Highlight how the granular and relatable nature of GDP
-
-Well suited to build a repeated design practice.
-Especially with starting documents,
-Small changes had big effects.
-Variable changes needed immediate testing.  
 
 
 ## Personal Plane
@@ -732,3 +744,4 @@ rejected notes
 ## Future Work / Omissions
 
 - Further testing of the Maps   -->
+r
