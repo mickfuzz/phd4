@@ -254,6 +254,7 @@ I coded two complete sessions of this parent child pair. The following observati
 **Ask / Imagine**
 
 - In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
+- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
 
 **Plan**
 
@@ -269,11 +270,12 @@ I coded two complete sessions of this parent child pair. The following observati
 **Test**
 
 - The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
+- The testing process here is quite frustrating as gravity is very low. This is addressed later as it is improved on the suggestion of the parent who has to do the majority of the testing.
 
 **Improve**
 
 - Parent navigates to a particular part of the code for child to alter design
-- Child takes on challenge of making smaller changes
+- Child takes on challenge of making smaller changes once the core game mechanic code has been added.
 
 **Share**
 
@@ -300,7 +302,7 @@ The coding structure (may) also allows to show the overlap between different cod
 
 TO COME.
 
-The first scenario represented in a chart .
+The first scenario represented in a chart which compares activity grouping with design stages and activity description.
 
 CHART
 
