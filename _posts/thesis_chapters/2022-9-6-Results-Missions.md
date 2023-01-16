@@ -581,7 +581,34 @@ For example, opening up the right tools, navigating to correct locations and fin
 
 I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
 
-This limits claims I can make from the coded data.
+This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
+
+First - Value Faff Time.
+So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
+For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
+
+This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
+There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
+For example.....
+
+Second - Digital Jamming
+This has an example in the use of sound making software Fi & Ma -
+The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
+
+They are in an evaluation of tools which could be said to be in Planing. however this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
+
+The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+This would fit within the Imagine stage.
+Plan then Create then Imagine then Revise all in the space of a minute. 
+
+
+Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Others exist like rhizomatic approaches.
+
+Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
+Question? How does this relate to tinkering methodology?
+What other framework would be suitable here?
+
+
 
 
 ### Interaction of GDPs with Playtesting as method
