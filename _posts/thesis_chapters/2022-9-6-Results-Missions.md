@@ -428,7 +428,6 @@ The utterance by the child "Key Door Person" seemingly indicated that the child 
 |S: Person?| |
 |T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
-
 Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange.
 It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
 
@@ -438,9 +437,14 @@ Similarly, rather than direct delegation, dividing of labour can be observed.
 
 The implementation of some GDP involved the use of different tools and activities. For example, the design of a graphical element suited some learners and they depended on the support of others to implement those changes in code.
 
+For pair Fi and Ma the existence of GDP seems to empower the young person to direct a division on labour. See transcript of interaction for - <Files\\2019-03-11--fi_ma_pt1_TOCODE> - 18.00 mins
+
 While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
 ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
+
+
+
 
 
 #### GDPs for Goal Setting and Prioritisation
@@ -599,7 +603,7 @@ They are in an evaluation of tools which could be said to be in Planing. however
 
 The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
 This would fit within the Imagine stage.
-Plan then Create then Imagine then Revise all in the space of a minute. 
+Plan then Create then Imagine then Revise all in the space of a minute.
 
 
 Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Others exist like rhizomatic approaches.
