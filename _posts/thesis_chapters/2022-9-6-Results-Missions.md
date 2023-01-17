@@ -456,11 +456,13 @@ The parent here takes great pride in the graphical work being done. This allows 
 The design which allows choice of GDPs facilitates this. The process of building an identity as an individual or a family is shown in this families work on graphics.
 
 ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
-Mi - Oh thank you very much. I'm very proud. 
+Mi - Oh thank you very much. I'm very proud.
 
 #### GDPs for Goal Setting and Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
+
+NOTE - This needs to be merged with the above - or a different take on it explored. 
 
 Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
 
