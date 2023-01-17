@@ -439,13 +439,24 @@ The implementation of some GDP involved the use of different tools and activitie
 
 For pair Fi and Ma the existence of GDP seems to empower the young person to direct a division on labour. See transcript of interaction for - <Files\\2019-03-11--fi_ma_pt1_TOCODE> - 18.00 mins
 
+The child is able to jump around and work on parallel projects using their existing tools set, or even taking on researching other toolsets, for example independent work to find an online tool to created . This serves the child as it allows them to keep busy and moving different parts of the overall project forward.  
+
+In contrast, the parent shares both with the child and the facilitator that they feel overwhelmed by the 'jumping around' between different GDP stages. While the parent wants to stick to one pattern and complete it, they are still responsive to help the child when they get stuck on an alternative pathway they have chosen to avoid waiting on the parent.
+
+While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent.
+
+
 While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
 ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
 
+Here the child has a powerful position but misses a chance to develop useful communication skills.
 
+The parent here takes great pride in the graphical work being done. This allows them a level of participation which is helpful without being stuck on more tricky technical or code related problems.
+The design which allows choice of GDPs facilitates this. The process of building an identity as an individual or a family is shown in this families work on graphics.
 
-
+ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
+Mi - Oh thank you very much. I'm very proud. 
 
 #### GDPs for Goal Setting and Prioritisation
 
