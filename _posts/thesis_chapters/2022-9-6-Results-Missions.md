@@ -403,14 +403,17 @@ In the following sections, I draw on observations of participants in practice to
 While each of these observations do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus which will deepen the observations in the previous chapter.  
  and progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
 
-## Cultural Plane / Apprenticeship
+## Cultural Plane / Apprenticeship - and Game patterns
+
+In the (previous) chapter on inclusive methods the role of cultural activites to engage and sustain engagement were examined. This chapter allows us to examine the role of game design patterns through a cultural lens.
+
 
 - Design patterns imagined used in other contexts as a form of apprenticeship
 - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
 
 
-### Design patterns imagined used in other contexts as a form of apprenticeship
+### Use of design patterns as a form of / to facilitate apprenticeship
 
 In 2019-05-08 Da and Te are working closely as a pair.
 
@@ -423,7 +426,6 @@ Te: What do you mean?
 Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
 Te: Pause. I don’t know what to do thought.
 Da: Well quite but what other games are there?
-
 
 Te adopts with this suggestion readily once he understands Da's suggestion in full.
 
@@ -447,16 +449,26 @@ However Da is still aware of potential challenges of straying too far from the t
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously descussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different posibilities for new game patterns that this pair may be able to solve.
 
-
 There are cultural elements here of a family learning culture between these two playing out in this space. That way of approaching the task is very different from interactions with grandparents on a previous iteration.
 
 This and other exerpt from this pair show that Te and Da's interaction is much more guided and focused than many other participants. This is influenced by Da's experience as a software engineer and volunteer at Coder Dojo.
-
 This process of active guiding but suggesting and fishing for the right answer is intentional from the consistent nature of the interaction and from a supporting interview.
 
-"Extract from interview"
+"Extract from interview with Da?" to support some of the above observations.
 
-## Interpersonal Plane (Guided Apprenticeship)
+TRANSITION - Te and Da - have a very typical guided apprenticeship
+
+
+### Accessing External Help
+
+Te and Da - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+
+
+
+## Interpersonal Plane (Guided Participation)
 
 I will recap Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
 If needed then I will explain how AT terms like division of labour are appropriate here.
