@@ -361,7 +361,8 @@ Design patterns are most commonly used for computing students at higher educatio
 
 #### Importance of Game Design Patterns in Vignette A
 
-Note: it seems a bit strange to return to Vignette A at this point. Can the writing be structured to avoid this disconnect?
+NOTE: it seems a bit strange to return to Vignette A at this point.
+Can the writing be structured to avoid this disconnect?
 
 For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
@@ -408,10 +409,56 @@ While each of these observations do not fall nearly into any one of the three pl
 - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
 
+
+### Design patterns imagined used in other contexts as a form of apprenticeship
+
+In 2019-05-08 Da and Te are working closely as a pair.
+
+Da invites thinking outside of the constraints of the suggested design early in this first session. Add context if needed.
+
+An interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experience
+
+Da: Have you thought about pushing it a bit further and have a different style of game?
+Te: What do you mean?
+Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+Te: Pause. I don’t know what to do thought.
+Da: Well quite but what other games are there?
+
+
+Te adopts with this suggestion readily once he understands Da's suggestion in full.
+
+Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
+Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+Te: Hmm. How should I do this then?
+Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
+Te: Mick
+Mick: Hi ya.
+Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
+Da: If we had an on the top game rather than a platform game
+Mick: I think it could work. You could kind of adapt that game by, kind of, removing gravity.
+Da: and see what happens?
+Mick: and see what happens.
+
+Even saying "I was thinking can we make like a pacman game kind of thing".
+
+Da speech show desire to for the pair to try something new. This may be to avoid repition in the educatational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
+
+However Da is still aware of potential challenges of straying too far from the templage. He does not want to "mess things up". There seems to be a mirror here of the value of playful enviroments to provide challenge but within some boundaries of safety.
+
+My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously descussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different posibilities for new game patterns that this pair may be able to solve.
+
+
+There are cultural elements here of a family learning culture between these two playing out in this space. That way of approaching the task is very different from interactions with grandparents on a previous iteration.
+
+This and other exerpt from this pair show that Te and Da's interaction is much more guided and focused than many other participants. This is influenced by Da's experience as a software engineer and volunteer at Coder Dojo.
+
+This process of active guiding but suggesting and fishing for the right answer is intentional from the consistent nature of the interaction and from a supporting interview.
+
+"Extract from interview"
+
 ## Interpersonal Plane (Guided Apprenticeship)
 
 I will recap Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
-
 If needed then I will explain how AT terms like division of labour are appropriate here.
 
 ### GDPs used as an organising tool
@@ -458,11 +505,15 @@ The design which allows choice of GDPs facilitates this. The process of building
 ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
 Mi - Oh thank you very much. I'm very proud.
 
+
+
+
+
 #### GDPs for Goal Setting and Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-NOTE - This needs to be merged with the above - or a different take on it explored. 
+NOTE - This needs to be merged with the above - or a different take on it explored.
 
 Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
 
@@ -625,9 +676,6 @@ Implication two -when designing a program and thinking of how to present the pro
 Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
 
-
-
-
 ### Interaction of GDPs with Playtesting as method
 
 Playtesting but in particular designing for others .
@@ -774,6 +822,43 @@ We can see evidence of both the potential for reusable elements of knowledge and
 
 * Use of levels as a array which is parsed by a loop to create layout
 * Other examples.
+
+
+## Transcript Exerpts
+
+
+### 2019-05-08-te-da pt 1
+
+Da: Have you thought about pushing it a bit further and have a different style of game?
+Te: What do you mean?
+Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+Te: Pause. I don’t know what to do thought.
+Da: Well quite but what other games are there?
+Te: I don’t know er.
+Da: Well I tell you what .. muffled.
+Te: Erm - (navigates to list of GDP for platform game)
+De: So. You played them before didn’t you (indicating grid of games )
+Te: What do you mean?
+Da: The flying game that’s a different kind of game
+Te: Oh like kind of like moving along kind of thing
+Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
+Te: nod
+Da: There are games where things drop down like Tetris
+Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate paremeters). You could block it somewhere.
+Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+Te: Hmm. How should I do this then?
+Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
+Te: Mick
+Mick: Hi ya.
+Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
+Da: If we had an on the top game rather than a platform game
+Mick: I think it could work. You could kind of adapt that game by kind of removing gravity.
+Da: and see what happens?
+Mick: and see what happens.
+Da: It’s not a bad starting idea is it?
+Te: I suppose make a new one (begins the process of remixing game from the template)
+
+
 
 
 <!--
