@@ -568,6 +568,13 @@ Example of adding a new level in 2019-03-18-th_sh -
 
 In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
 
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement.  
+In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
+There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
+
+
+These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved. 
+
 
 #### GDPs and personal expression (cultural)
 
