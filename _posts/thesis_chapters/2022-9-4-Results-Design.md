@@ -16,26 +16,30 @@ title: evolution of Design
 - Summary of the Learning design & Emergence of GDP as core unit of activity
 - Analysis of Tensions in design and how this guided Evolution
 
-NOTE - would this chapter benefit from a short vignette?
+NOTE - would this chapter benefit from a short vignette? to ground discussion / terms
 
-## Evolution of Design
+
 
 This chapter charts the evolution of the learning design. It draws on immediate analysis of participants reactions and contributions from journal notes, participant interviews and analysis of changes in the learning resources created.
 
 The first section is a short summary of the phases of the design. IS THIS OVERLAP WITH PREVIOUS CHAPTER?
-It is framed within DBR language and concepts. HOW TO DO THIS?
+The design description is framed within DBR language and concepts. HOW TO DO THIS?
+It is grounded with reference to existing reserach and concepts of game making as an educational activity.
 
-The second part explores tensions and resolutions to those tensions using language of AT.
+Section describing  Game Design Patterns as  the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014].
 
-One result is that working on Game Design Patterns are the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014].
+A section which explores tensions and resolutions to those tensions using language of AT.
 
-The third part starts to analyse the functions of these responses using the 3 foci of Rogoff 3 planes model.
+The third part starts to analyse the tensions and responses - (and set up some context of the future results chapters)
+( DROP - using the 3 foci of Rogoff 3 planes model)
 
 <!--
 There's lots to add in here.
 chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
+
+## Evolution of Design
 
 ### Description of Phases
 
