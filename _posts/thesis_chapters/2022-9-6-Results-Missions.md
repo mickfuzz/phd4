@@ -281,45 +281,6 @@ I coded two complete sessions of this parent child pair. The following observati
 
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 
-#### Representing Coded the Patterns of Activity in Vignette A
-
-Background: Recap of the coding structure decided upon.
-See current table here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
-
-- Design Stages  
-- Interaction Description
-- Game Elements Addressed
-
-Here I will use Nvivo to give insight about the engagement of participants by compare time on different tasks.
-
-<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
-
-The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
-
-- Question One: During which design phase does parent-child pair interaction happen most frequently?
-- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
-
-TO COME.
-
-The first scenario represented in a chart which compares activity grouping with design stages and activity description.
-
-CHART
-
-The second scenario is represented by 4 charts one for each game element showing the duration spent by a diversity of participants.  
-
-CHART
-
-
-Followed by discussion
-
-<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
-
-- time under table
-- time in control of Keyboard
-- time actively directing parent's activity
-- time actively observing parent's activity
-- time discussing game features with parent -->
 
 
 ### Further observations and discussion on game making activity
@@ -346,6 +307,7 @@ When analysing data using 360 recorded video side-by-side with the screen captur
 ## Identifying GDP as key unit of Analysis
 
 Note: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
+A LOT - MOVE THIS?
 
 ### Relating to AT and design Theory
 
@@ -749,6 +711,57 @@ My end design highlights game patterns as a starting point for user interest and
 - Draw on material and critique in chapter on semantic profiles / waves.
 
 
+
+## Representing Coded the Patterns of Activity via coded data
+
+Background: Recap of the coding structure decided upon.
+See current table here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
+
+- Design Stages  
+- Interaction Description
+- Game Elements Addressed
+
+Here I will use Nvivo to give insight about the engagement of participants by compare time on different tasks.
+
+<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
+
+The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
+
+- Question One: During which design phase does parent-child pair interaction happen most frequently?
+- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
+
+TO COME.
+
+The first scenario represented in a chart which compares activity grouping with design stages and activity description.
+
+CHART
+
+The second scenario is represented by 4 charts one for each game element showing the duration spent by a diversity of participants.  
+
+CHART
+
+
+Followed by discussion
+
+<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
+
+- time under table
+- time in control of Keyboard
+- time actively directing parent's activity
+- time actively observing parent's activity
+- time discussing game features with parent -->
+
+
+
+
+
+
+
+
+## Additional Chapter Discussion
+
+
 ### Discussion on UMC and PRIMM in relation to use of Game Design Patterns? INCLUDE OR NEXT CHAPTER?
 
 - UMC - should be covered in the Remix part of the design
@@ -756,11 +769,6 @@ My end design highlights game patterns as a starting point for user interest and
 
 <!-- not sure how much to put in about this in LIT REVIEW  -->
 
-
-
-
-
-## Additional Chapter Discussion
 
 ### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions
 
