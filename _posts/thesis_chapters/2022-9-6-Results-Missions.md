@@ -126,7 +126,9 @@ The chapter then focuses on the use of game design patterns (GDPs) by participan
 
 The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
 
-### Vignette A
+## Study of Vignette A
+
+To situate the results of this chapter it will start with a grounded vignette.
 
 // create with google docs to markdown extensions
 // current version here -
@@ -235,7 +237,7 @@ In previous chapter on methodology we (will) have examined the coding scheme use
 The resulting coding structure is available online here.
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit# -->
 
-#### Patterns of Activity in Vignette A
+### Describing design stages for this pair
 
 <!--
 This isn't relevant if I choose not to address MakeCode in the dissertation.

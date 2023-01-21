@@ -16,9 +16,8 @@ title: evolution of Design
 - Summary of the Learning design & Emergence of GDP as core unit of activity
 - Analysis of Tensions in design and how this guided Evolution
 
-  TO REWRITE
+NOTE - would this chapter benefit from a short vignette?
 
-Don'
 ## Evolution of Design
 
 This chapter charts the evolution of the learning design. It draws on immediate analysis of participants reactions and contributions from journal notes, participant interviews and analysis of changes in the learning resources created.
