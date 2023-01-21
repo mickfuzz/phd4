@@ -722,6 +722,28 @@ My end design highlights game patterns as a starting point for user interest and
 - (see Eriksson and Bjork)
 - Draw on material and critique in chapter on semantic profiles / waves.
 
+#### CTs emerging in the wild.
+
+There are several examples of CT arising in the wild without being explicitly taught.
+Here the focus is on Wing's narrower take rather than including general practices.
+
+
+#### Decomposition.
+in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps.
+It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+
+#### Abstraction
+This concept can be concretely taught using the code structure of functions -
+
+There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
+
+#### Generalisation / Pattern recognition
+
+Present in the work of Te to find patterns and to duplicate them in different situations.
+
+#### Sequencing / Algorithms.
+To come.  
+
 
 
 ## Representing Coded the Patterns of Activity via coded data
