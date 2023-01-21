@@ -573,26 +573,29 @@ In addition this shift can also been seen from a cultural focus. The completion 
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
 
-These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved. 
+These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
 #### GDPs and personal expression (cultural)
 
-Especially if part of the design allowed the expression of identity or a designed element - for example graphics, audio or a written entry.
+As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
 
-Graphics --> cultural linking with home
+Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
+Perhaps a transcript at start of process. Ma and Fi ?
 
-Example of dog background graphics in 2019-03-18-th_sh -
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
-- cultivativing a sense of ownsership
+- cultivativing a sense of ownership
 - playing around the graphic - covering it over and revealing it
 - participant self-expression and a conversational prompt to other during sharing of the game
 
-This is supported by other research on digital making and motivation. CITATION HERE? -
-or in cultural discussion?  
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
 
-Discussion on how cultural becomes an interpersonal aid through mediation?
-It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
+Discussion on how cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+
+These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
 
 #### GDPs propagation through peer activity
@@ -619,6 +622,7 @@ Variable changes needed immediate testing.
 
 
 #### The limits of design cycle stages
+[PERHAPS SOME OF THIS TO DISCUSSION?]
 
 When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
 Ask / Imagine, Plan, Create, Test, Improve, Share.
@@ -651,7 +655,6 @@ They are in an evaluation of tools which could be said to be in Planing. however
 The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
 This would fit within the Imagine stage.
 Plan then Create then Imagine then Revise all in the space of a minute.
-
 
 Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Others exist like rhizomatic approaches.
 
@@ -723,7 +726,11 @@ My end design highlights game patterns as a starting point for user interest and
 
 ## Representing Coded the Patterns of Activity via coded data
 
-Background: Recap of the coding structure decided upon.
+An additional lens to examine patterns of activity is through an analysis of the coded video interactions.
+Background: Recap of the coding structure decided upon and the process of coding in five minutes sections.
+
+NOTE - there may be some value is coding some interactions more carefully.
+
 See current table here.
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
 
@@ -731,7 +738,7 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 - Interaction Description
 - Game Elements Addressed
 
-Here I will use Nvivo to give insight about the engagement of participants by compare time on different tasks.
+In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
 
 <!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
 
@@ -750,7 +757,6 @@ The second scenario is represented by 4 charts one for each game element showing
 
 CHART
 
-
 Followed by discussion
 
 <!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
@@ -764,22 +770,26 @@ Followed by discussion
 
 
 
-
-
-
-
 ## Additional Chapter Discussion
 
+The following observations are primarily focused on implications for practitioners.
+A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
 
-### Discussion on UMC and PRIMM in relation to use of Game Design Patterns? INCLUDE OR NEXT CHAPTER?
+### Discussion on UMC and PRIMM in relation to use of Game Design Patterns? INCLUDE OR NEXT CHAPTER? (Practitioner focus)
 
 - UMC - should be covered in the Remix part of the design
 - PRIMM - stage based - more prescriptive - probably suits next chapter.
 
 <!-- not sure how much to put in about this in LIT REVIEW  -->
+Note on PRIMM and personal knowledge.
 
+Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts.
 
-### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions
+This is an interaction which in some ways is comparable to the PRIMM model which is suggested for classroom use. However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms.
+
+UMC on the other hand while being less described and open to interpretation seems to match the more informal, iterative game making of many participants.
+
+### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
 
 Synthesise examples which highlight the value of developing share language and short cuts. Draw from the above examples.
 
@@ -790,7 +800,7 @@ For example the shortcut of a name for a pattern in Fi and Ma's interaction hide
 Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
 
 
-### Design patterns as a "middle level" construct to open door to more concrete and abstract
+### Design patterns as a "middle level" construct to open door to more concrete and abstract (Wider focus)
 
 In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a perscriptive approach to Computational Thinking.  
 
@@ -842,9 +852,6 @@ Da: and see what happens?
 Mick: and see what happens.
 Da: It’s not a bad starting idea is it?
 Te: I suppose make a new one (begins the process of remixing game from the template)
-
-
-
 
 <!--
 ## Disregarded or Next Steps Data
