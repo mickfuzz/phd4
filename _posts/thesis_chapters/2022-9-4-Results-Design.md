@@ -258,10 +258,11 @@ Mantle of the Expert
 
 ##### Cultural influenced on my choice of Learning DESIGN
 
- - a desire to increase engagement based on my experiences in classroom and out of classroom - home ed
+ - a desire to increase engagement based on my experiences in classroom and out of classroom - Home Ed / coder dojo experiences
  - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
- - other exeriences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
-- Other examples from the interviews with practitioners are relevant to include here. 
+ - other experiences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
+ - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches.
+- Other examples from the interviews with practitioners are relevant to include here.
 
 ### Interpersonal Elements of the Design - Guided Participation
 
