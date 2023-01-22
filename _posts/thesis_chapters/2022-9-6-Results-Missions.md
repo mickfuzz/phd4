@@ -722,8 +722,25 @@ My end design highlights game patterns as a starting point for user interest and
 - (see Eriksson and Bjork)
 - Draw on material and critique in chapter on semantic profiles / waves.
 
-#### CTs emerging in the wild.
+#### On CTs and CTs emerging in the wild.
 
+As explored in a previous chapter, the 3M design leads with concrete game design patterns chosen by participants. This approach can be compared to others which lead with more abstract computational thinking concepts which are introduced and explicitly taught from first principles.
+
+However, while not explicitly taught, the CT concepts are contained within the learning dimensions of the 3M model allowing participants and especially facilitators to be aware of examples of practice allowing for development of these skills. This section explores examples of CT in action that emerge from video data of game making.  
+
+
+##### Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+
+The design choice of leading with GDP was based on increasing the agency of participants over the pathway of their design activities. LINK TO LITERATURE ON CHOICE AND ENGAGEMENT.
+
+It is problematic to compare participants engagement with this learning design with another fictional game where they learn CT concepts first and then put them into practice. However, it is helpful to identify key characteristics of the design which run counter to a principles first approach and describe how participants experienced these elements.
+
+Elements include
+
+- The remix element of code (explored in previous methods chapter perhaps)
+
+
+##### CTs emerging in the wild.
 There are several examples of CT arising in the wild without being explicitly taught.
 Here the focus is on Wing's narrower take rather than including general practices.
 
