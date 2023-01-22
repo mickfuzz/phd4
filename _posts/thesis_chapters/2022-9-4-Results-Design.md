@@ -93,12 +93,12 @@ Second iteration in May 2019 I drew on previous work with the MMU Faculty of Edu
 
 I revised the  an online project-hub to link to the project chapters rather than the code examples.
 
-<!-- #### Phase Four - MakeCode Arcade
-(Jan 2020 - May 2020)
+#### Phase Four - MakeCode Arcade
+(Jan 2020 - July 2020)
 
 I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.
 
-However, there were some additional changes in the way that design patterns were presented to learners. -->
+However, there were some additional changes in the way that design patterns were presented to learners. In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources. 
 
 
 ## Summary of the Learning design & Emergence of GDP as core unit of activity

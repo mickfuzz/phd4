@@ -304,9 +304,6 @@ In terms of understanding of the game as a dynamic system, this is seen clearly 
 - For this pair, larger coding activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
 
 
-
-
-
 ### Further observations and discussion on game making activity
 
 **Note:** I am not totally clear on the purpose of this section. Needs revisiting in terms of chapter structure.
@@ -877,7 +874,19 @@ We can see evidence of both the potential for reusable elements of knowledge and
 * Other examples.
 
 
-## Transcript Exerpts
+## Transition Conclusion of Chapter Paragraph - themes to explore in other chapters.
+
+A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
+
+Examples include;
+
+- supporting reflection on design and coding concepts / skills.
+- navigation / organisational support - use of a physical map.
+
+For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on.
+
+
+## Transcript Excerpts
 
 
 ### 2019-05-08-te-da pt 1
