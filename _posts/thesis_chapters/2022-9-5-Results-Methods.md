@@ -27,23 +27,27 @@ RESPONSES TO DESIGN & INTERVENTIONS
 
 NOTE - THIS IS HARD TO WRITE UNTIL THE DESIGN CHAPTER HAS BEEN COMPLETED - RETURN TO THIS LATER.
 
-
 Based on Specific Interventions/ Design Choices and responses (if not previous activity)
 
+### Tools
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
   - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
-  -
-
-- Game Playing and Playtesting
- - Game playing at start of program - no observations but sets context
- - Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
 
 - Physical Elements as Tools
-  - end boxes used as motivator / engagement?
+  - end boxes used as motivator / engagement
+  - extract from interview?
+
+### Creating Community Activity   
+
+- Game Playing and Playtesting
+   - Game playing at start of program - no observations but sets context
+   - Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
 
 - Drama Process
  - differencing attitudes to games and technology
  - a reflective process to avoid distracting from activity & to share goals and process publically
+
+### Bridging Norms and Values   
 
 - Drawing on Funds of Game cultures
    - player and maker types
@@ -201,6 +205,6 @@ In one interaction child Ne visits the page to add a mechanic, starts to scan it
 
 ## Discussion in Relation to Existing Research
 
- Make links and try to develop knowledge inline with...
+Make links and try to develop knowledge inline with...
 
 See summary at start of the chapter.
