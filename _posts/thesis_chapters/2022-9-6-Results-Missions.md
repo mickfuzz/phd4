@@ -735,9 +735,11 @@ The design choice of leading with GDP was based on increasing the agency of part
 
 It is problematic to compare participants engagement with this learning design with another fictional game where they learn CT concepts first and then put them into practice. However, it is helpful to identify key characteristics of the design which run counter to a principles first approach and describe how participants experienced these elements.
 
-Elements include
+Elements of contrast with 3M include;
 
-- The remix element of code (explored in previous methods chapter perhaps)
+- The remix element of code (explored in previous methods chapter perhaps) - which allows participants to add new features quickly. They can also see and replicate existing patterns in the  code. This could compare to many hours writing from scratch and many abstract concepts explained before getting to anything looking like a game.
+- Lack of value placed on CT as overarching knowledge. No posters, no curriculum content, no tests on concepts, no lesson objectives and end tests,
+- Code patching, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use. 
 
 
 ##### CTs emerging in the wild.
@@ -757,11 +759,15 @@ There is scope for doing this. In my journal notes and notes following interacti
 #### Generalisation / Pattern recognition
 
 Present in the work of Te to find patterns and to duplicate them in different situations.
+Find another example of a child doing this.
+
+The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 
 #### Sequencing / Algorithms.
-To come.  
+ This is a relative weak point
 
 
+A tactic that could be explored further is the value of reflective practices to back up CTs being found in the wild. This possibility is explored in more detail in the next chapter of results.
 
 ## Representing Coded the Patterns of Activity via coded data
 
