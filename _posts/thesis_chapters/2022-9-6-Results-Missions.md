@@ -38,8 +38,11 @@ title: Finding Chapter One - Missions
     - Mutual approaches to knowledge building
     - Game Design Patterns as a way to give language to participants when sharing back to Community
     - Game Design Patterns vs CT and more established “knowledge”
-
-
+- Representing Coded the Patterns of Activity via coded data
+- Additional Chapter Discussion
+  - Discussion on UMC and PRIMM in relation to use of Game Design Patterns
+  - Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
+  - Design patterns as a “middle level” construct to open door to more concrete and abstract (Wider focus)
 
 
 
