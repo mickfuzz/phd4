@@ -25,35 +25,38 @@ And observations in this chapter when can be based up by observable behaviour.
 
 RESPONSES TO DESIGN & INTERVENTIONS
 
+NOTE - THIS IS HARD TO WRITE UNTIL THE DESIGN CHAPTER HAS BEEN COMPLETED - RETURN TO THIS LATER.
 
-- Tools & Communities
-  - Choice of Coding Tools / Environment
-  - Physical Elements as Tools
 
-Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+Based on Specific Interventions/ Design Choices and responses (if not previous activity)
 
-- Community aspects influencing responses to design
- - process of playtesting as a way of becoming part of the culture - avoid GDP in too much depth.
- - problems solving  - navigating limits of facilitator time
-
-Based on Specific Interventions.
+- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
+  - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
+  -
 
 - Game Playing and Playtesting
  - Game playing at start of program - no observations but sets context
- - Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+ - Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
 
+- Physical Elements as Tools
+  - end boxes used as motivator / engagement?
 
 - Drama Process
  - differencing attitudes to games and technology
  - a reflective process to avoid distracting from activity & to share goals and process publically
 
-- Fund of Knowledge to draw on
-  - Home cultures and roles to draw on / militate against.
-  - Game cultures
-    - player and maker types
-    - how to support emerging behaviours and give licence to young people  - side / sub missions
-    - the sub missions - divergent activities can be productive
-    - knowledge of GDP a fund - but one covered in detail in next chapter.
+- Drawing on Funds of Game cultures
+   - player and maker types
+   - how to support emerging behaviours and give licence to young people  - side / sub missions
+   - the sub missions - divergent activities can be productive
+   - knowledge of GDP a fund - but one covered in detail in next chapter.
+
+Organic Responses emerging naturally from community
+ - problems solving  - navigating limits of facilitator time
+ - Fund of Knowledge that
+       - Home cultures and interests guiding subject matter for sub missions and character / scenario choice.
+
+
 
 NOTE  - THE DISCUSSION HERE ON FUNDS - NEEDS TO BE CLEAR HOW TO SEPARATE OUT FROM GDPS in the next chapter
 
@@ -81,7 +84,7 @@ describe the different kinds of interactions. But that is more interpersonal int
 Here we are looking at something cultural??
 
 
-## Extract from Interview
+## Extract/s from Interview
 
 Something about aliens / feedback? Missions?
 
@@ -89,6 +92,7 @@ Something about aliens / feedback? Missions?
 
 In this vignette we can pick on the 3 planes analysed in design...
 DROP EITHER THIS 3 PLANES / OR THE ONE IN DESIGN?
+IS THIS NEEDED?  ONGOING DISCUSSION ON WHEN HOW TO USE THIS.
 
 
 ## Discussions on different interventions
@@ -130,20 +134,21 @@ I use to increase learner engagement in game making is the concept of using a fi
 
 ### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 
+Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+
 Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
 
 The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions.
 
-
 Bring out detail from the study to this section.
 
- - specifics of Debugging errors
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
- - the po
 
 
 ### Why Glitch and Code Playgrounds
+
+[THIS IS FROM MY PERSPECTIVE SO SHIFT TO PREVIOUS CHAPTER?]
 
 An unusual approach so why?
 
@@ -163,7 +168,7 @@ Towards the end of phase 1 I began to create code examples to illustrate of how 
 
  In phase 2 I began to write up the implementation of the same game features but more closely integrated with the new starting code template used. Thus these individual tutorials became much directive. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants. I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform Chesterman, 2019).
 
-### Embracing Different Types of Errors
+### On Debugging and Embracing Different Types of Errors
 
  In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
 
