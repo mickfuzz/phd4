@@ -10,6 +10,65 @@ categories: chapter
 title: Finding Chapter One - Missions
 ---
 
+## Chapter overview
+
+- Introduction
+- Vignette a - sh and th
+  - Perhaps add summary commentary with design stages, gdps and interactions. relate to the coded data. holistic view, but interpersonal focus
+  - Describing design stages for this pair
+  - Observations of use of Game Design Patterns in Vignette A
+    - Gdp and motivation
+    - Game Challenge and GDP
+- Comparing this activity and Vignette to others. LINK?
+- Findings related Game Design Patterns
+  - Cultural Plane / Apprenticeship - and Game patterns
+    - Use of design patterns as a form of / to facilitate apprenticeship
+    - Accessing External Help
+  - Interpersonal Plane (Guided Participation)
+    - GDPs used as an organising tool
+    - GDPs and division of Labour
+    - GDPs for Goal Setting and Prioritisation
+    - GDP and sustaining engagement
+    - GDPs and personal expression (cultural) -
+    - GDPs propagation through peer activity
+    - GDPs to support Iterative Design Practices
+      - The limits of design cycle stages
+    - Interaction of GDPs with Playtesting as method
+  - Personal Plane
+    - Mutual approaches to knowledge building
+    - Game Design Patterns as a way to give language to participants when sharing back to Community
+    - Game Design Patterns vs CT and more established “knowledge”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Chapter introduction
+
+The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study.
+
+The purpose of this chapter is to explore how the data gathered informs thinking on two research questions of this study.  
+
+- How can game design patterns support the development of coding practices by novices?
+- How can the experience of fostering community focused digital game making practices inform wider practice in this area?
+
+To do this, the chief analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff - explored previously).
+
+This section starts with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interpersonal interactions of that pair via analysis of video data. The activity of the focal pair is then compared to activity of other groupings and individuals.
+
+The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
+
+The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
+
 ## Other Documents
 
 This chapter builds towards a Matrix that could be included in a concluding chapter.
@@ -107,24 +166,6 @@ To help the reader understand the data in this chapter the following notes on me
 - The concepts of resolving tensions within activity from Activity Theory are used in a previous chapter to explore the evolution of the designed
 - Rather than Engestroms AT framework (Subject, Object, Instruments, Rules, Community, Division of Labour) the results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal)
 - A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing)
-
-
-## Chapter overview
-
-The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study.
-
-The purpose of this chapter is to explore how the data gathered informs thinking on two research questions of this study.  
-
-- How can game design patterns support the development of coding practices by novices?
-- How can the experience of fostering community focused digital game making practices inform wider practice in this area?
-
-To do this, the chief analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff - explored previously).
-
-This section starts with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interpersonal interactions of that pair via analysis of video data. The activity of the focal pair is then compared to activity of other groupings and individuals.
-
-The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
-
-The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
 
 ## Study of Vignette A
 
@@ -713,7 +754,7 @@ Example - 2019-03-18 - Sh & Th
 
 Contrast general lack of confidence with ability to share back progress and decisions using language afforded by GDPs.
 
-Include excerpt? 1.05 - Looking for Th using GDP language - as well ask drawing on other home interests. 
+Include excerpt? 1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
 
 This is also dealt with above "GDPs propagation through peer activity"
 
