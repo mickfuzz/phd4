@@ -283,13 +283,35 @@ I coded two complete sessions of this parent child pair. The following observati
 
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 
+## Observations of use of Game Design Patterns in Vignette A
+
+NOTE: it seems a bit strange to return to Vignette A at this point.
+Can the writing be structured to avoid this disconnect?
+
+For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
+
+### Gdp and motivation
+
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic. I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment.
+
+### Game Challenge and GDP
+In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
+
+### Other Notes on use of GDP (to integrate with above)
+
+- Parent offers choices of direction of next GDP   
+- The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
+- For this pair, larger coding activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
+
+
+
 
 
 ### Further observations and discussion on game making activity
 
 **Note:** I am not totally clear on the purpose of this section. Needs revisiting in terms of chapter structure.
 
-#### Comparing the activity of this family to others
+#### Comparing the activity of this family to others MOVE / REINTEGRATE?
 
 We can compare this pairs pattern of activity with other pairs / families.
 
@@ -321,25 +343,6 @@ Design patterns are most commonly used for computing students at higher educatio
 - Discuss how GDP as key unit  was arrived at - draw on journal notes in planning stages
 - Relate - AT terms to those of design stages
 - Begin to comment on utility of GDP as a unit of analysis for practitioners, parents and young participants - i.e. in navigation and goal setting.
-
-
-#### Importance of Game Design Patterns in Vignette A
-
-NOTE: it seems a bit strange to return to Vignette A at this point.
-Can the writing be structured to avoid this disconnect?
-
-For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
-
-Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic. I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment.
-
-In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
-
-### Other Notes on use of GDP (to integrate with above)
-
-- Parent offers choices of direction of next GDP   
-- The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
-- For this pair, larger coding activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
-
 
 
 
@@ -776,7 +779,7 @@ NOTE - As in last paragraph, the practical value of CT concepts can be discussed
 
 A tactic that could be explored further is the value of reflective practices to back up CTs being found in the wild. This possibility is explored in more detail in the next chapter of results.
 
-Probably end with different strokes commentary. Depending on aims of the practitioner and context of the game making. 
+Probably end with different strokes commentary. Depending on aims of the practitioner and context of the game making.
 
 
 ## Representing Coded the Patterns of Activity via coded data
