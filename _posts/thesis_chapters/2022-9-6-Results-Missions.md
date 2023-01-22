@@ -776,6 +776,8 @@ NOTE - As in last paragraph, the practical value of CT concepts can be discussed
 
 A tactic that could be explored further is the value of reflective practices to back up CTs being found in the wild. This possibility is explored in more detail in the next chapter of results.
 
+Probably end with different strokes commentary. Depending on aims of the practitioner and context of the game making. 
+
 
 ## Representing Coded the Patterns of Activity via coded data
 
