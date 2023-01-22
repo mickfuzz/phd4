@@ -765,11 +765,17 @@ NOTE - Ideally find another example of a child doing this.
 The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 
 #### Sequencing / Algorithms.
- This is a relative weak point
+This is a relative weak point in comparison to from first principles approach.
+ However the process of patching into different areas of the code and creating functions does address this.
+
+The comparison raises a potential discussion point on what the practical value of this CT concept is.
 
 #### Commentary / Discussion
 
+NOTE - As in last paragraph, the practical value of CT concepts can be discussed as well as the nature of CT as a practical skill or a more abstract concept.
+
 A tactic that could be explored further is the value of reflective practices to back up CTs being found in the wild. This possibility is explored in more detail in the next chapter of results.
+
 
 ## Representing Coded the Patterns of Activity via coded data
 
