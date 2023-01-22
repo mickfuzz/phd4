@@ -18,11 +18,30 @@ Thus not dealing with the primary unit of activity yet, giving the cultural cont
 
 ### Overview of contents of chapter
 
+
+NOTE - Also when to put data about TOOLS in this chapter or that of the design chapter. As interlinked.
+Perhaps data in design chapter when it is based on journal notes and personal / literature based decisions.
+And observations in this chapter when can be based up by observable behaviour.
+
+RESPONSES TO DESIGN & INTERVENTIONS
+
+
 - Tools & Communities
   - Choice of Coding Tools / Environment
   - Physical Elements as Tools
 
-  Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+
+- Community aspects influencing responses to design
+ - process of playtesting as a way of becoming part of the culture - avoid GDP in too much depth.
+ - problems solving  - navigating limits of facilitator time
+
+Based on Specific Interventions.
+
+- Game Playing and Playtesting
+ - Game playing at start of program - no observations but sets context
+ - Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+
 
 - Drama Process
  - differencing attitudes to games and technology
@@ -34,26 +53,33 @@ Thus not dealing with the primary unit of activity yet, giving the cultural cont
     - player and maker types
     - how to support emerging behaviours and give licence to young people  - side / sub missions
     - the sub missions - divergent activities can be productive
+    - knowledge of GDP a fund - but one covered in detail in next chapter.
+
+NOTE  - THE DISCUSSION HERE ON FUNDS - NEEDS TO BE CLEAR HOW TO SEPARATE OUT FROM GDPS in the next chapter
 
 ####  Notes on Discussion
 
-These are quite disparate so probably makes sense to have a separate discussion entwined.
+These are quite disparate so probably makes sense to have a separate discussion entwined in each section rather than one section at the ends.
 
 Relevant theory / studies.
 
 - funds of knowledge
 - AT theory for sub missions, in preparation for chapter on main mission / unit of activity
 
+This section uses AT's focus on rules / norms and interactions with other activity systems at home.
+
 
 ## Vignette to start chapter - something Cultural
 
-Something about aliens / feedback? Missions?
+Choices
+
+- Something about aliens / feedback? Sub- Missions?
+- Something about drawing on home interests.
 
 Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
 Here we are looking at something cultural??
 
-Culture
 
 ## Extract from Interview
 
@@ -64,12 +90,20 @@ Something about aliens / feedback? Missions?
 In this vignette we can pick on the 3 planes analysed in design...
 DROP EITHER THIS 3 PLANES / OR THE ONE IN DESIGN?
 
-Describe in part the process of inculcating students into a game making culture.
-
-B
-
 
 ## Discussions on different interventions
+
+### Game Playing and Playtesting
+
+NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects.
+
+#### Game playing at start of program - no observations but sets context
+
+Find examples
+
+#### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+
+Find examples
 
 ### Drama / Fictional Frameworks:
 

@@ -576,7 +576,7 @@ There is also a link made by the parent to previous working practices. Using a p
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
-#### GDPs and personal expression (cultural)
+#### GDPs and personal expression (cultural) - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?)
 
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
 
@@ -586,6 +586,7 @@ Perhaps a transcript at start of process. Ma and Fi ?
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
 Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
 - cultivativing a sense of ownership
 - playing around the graphic - covering it over and revealing it
@@ -700,11 +701,21 @@ May need a way to differential this chapters discussion of GDP - and that of the
 
 ### Mutual approaches to knowledge building
 
-In this section the processes of personal appropriation of experience and knowledge emering from game making are examined closely in relation to particpants experience of GDPs.
+In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
 
  - quick summary of Rogoff's take on personal appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
  - e.g - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
+
+### Game Design Patterns as a way to give language to participants when sharing back to Community
+
+Example - 2019-03-18 - Sh & Th
+
+Contrast general lack of confidence with ability to share back progress and decisions using language afforded by GDPs.
+
+Include excerpt? 1.05 - Looking for Th using GDP language - as well ask drawing on other home interests. 
+
+This is also dealt with above "GDPs propagation through peer activity"
 
 ### Game Design Patterns vs CT and more established "knowledge"
 
