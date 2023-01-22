@@ -739,7 +739,7 @@ Elements of contrast with 3M include;
 
 - The remix element of code (explored in previous methods chapter perhaps) - which allows participants to add new features quickly. They can also see and replicate existing patterns in the  code. This could compare to many hours writing from scratch and many abstract concepts explained before getting to anything looking like a game.
 - Lack of value placed on CT as overarching knowledge. No posters, no curriculum content, no tests on concepts, no lesson objectives and end tests,
-- Code patching, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use. 
+- Code patching from existing code examples, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use. 
 
 
 ##### CTs emerging in the wild.

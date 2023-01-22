@@ -213,6 +213,10 @@ This process begins in this chapter with a focus on evolving design and continue
 
 ### Using 3 Foci approach to frame data analysis
 
+I WAS PLANNING TO DROP THIS FROM THE CHAPTER
+BUT CULTURAL ELEMENTS AT LEAST ARE IMPORTANT.
+BUT MAYBE MOVE THE FIRST DESCRIPTION TO METHODOLOGY CHAPTER
+
 <!-- Draw on this document to give an overview of the framework and approach.
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#
 Thus setting out a path for the following chapters. -->
@@ -251,6 +255,13 @@ At this stage of writing I include a bullet point list of design relevant featur
 DON'T PEAK TOO SOON AS THESE MAY BE EXPLORED IN SEPARATE CHAPTERS
 PBL theory also highlights the value of linking learning to authentic environments
 Mantle of the Expert
+
+##### Cultural influenced on my choice of Learning DESIGN
+
+ - a desire to increase engagement based on my experiences in classroom and out of classroom - home ed
+ - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
+ - other exeriences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
+- Other examples from the interviews with practitioners are relevant to include here. 
 
 ### Interpersonal Elements of the Design - Guided Participation
 
