@@ -409,7 +409,9 @@ Most clearly there is an overlap here between the interpersonal working on a cod
 Thus the process of writing this up was not neat.
 To overcome this issue...
 
-
+In addition the personal plane was perhaps the most problematic to address given the data gathered.
+Even when participants were demonstrating their personal knowledge by sharing back or directly altering game code, this was as part of a social and cultural practice.
+Thus my interpretation involved .... 
 
 
 ### Data Validity - Triangulation of Data
