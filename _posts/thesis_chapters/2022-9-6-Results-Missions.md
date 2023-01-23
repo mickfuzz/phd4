@@ -825,6 +825,8 @@ NOTE - Ideally find another example of a child doing this.
 
 The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 
+Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
+
 #### Sequencing / Algorithms.
 This is a relative weak point in comparison to from first principles approach.
  However the process of patching into different areas of the code and creating functions does address this.
@@ -933,6 +935,18 @@ We can see evidence of both the potential for reusable elements of knowledge and
 
 * Use of levels as a array which is parsed by a loop to create layout
 * Other examples.
+
+### Discussion - Pumping up the Jam - allowing for improvisation in design process.
+
+Example -
+Te and Da - 2019-05-08 -
+da- use paper to design
+te - I'm just going with it
+
+The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
+
+The concept of Jam is explored in rapid, improvisational events called Game Jams.
+
 
 
 ## Transition Conclusion of Chapter Paragraph - themes to explore in other chapters.
