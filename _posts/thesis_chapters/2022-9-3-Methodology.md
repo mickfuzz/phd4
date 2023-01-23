@@ -382,6 +382,36 @@ Roughly three grades
 In the second level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
 
 
+
+### Analysis of activities based on Cultural, Interpersonal and Personal focusing
+
+As per Rogoff.
+
+Not coded in nvivo. However this was a useful phase.
+
+Note on the spreadsheet used to transfer from coded document.
+A summary of the activity and then what implications did it have under each.
+
+
+### Discussion - post mortem - PERHAPS SHIFT TO LAST CHAPTER finally
+
+The process of trying to decide a main focus was often tricky.
+
+Take for example the process of Da in 2019-05-08 - where he was leading some fairly advanced work on researching and reading developer documentation and the constructing a new design pattern.
+
+There are competing and overlapping intention and foci here for the participants.
+ - Solve immediate problem - add new pattern
+ - communicate cultural practice of finding, reading and adapting developer level documentation and help from forums.
+ - give hands on experience to the notice coder
+
+Most clearly there is an overlap here between the interpersonal working on a code problem collaboratively for educational purposes and the interactions with the wider cultural artefacts and practices from a professional environment.
+
+Thus the process of writing this up was not neat.
+To overcome this issue...
+
+
+
+
 ### Data Validity - Triangulation of Data
 
 Draw on other chapters to represent overcoming of weaknesses of design-based approach.

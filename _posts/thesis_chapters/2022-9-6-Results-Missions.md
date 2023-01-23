@@ -481,7 +481,7 @@ The process of modelling the specific practices of accessing developer documents
 
 Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
 
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content. 
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
 
 
 ## Interpersonal Plane (Guided Participation)
@@ -983,7 +983,7 @@ Te: Oh like kind of like moving along kind of thing
 Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
 Te: nod
 Da: There are games where things drop down like Tetris
-Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate paremeters). You could block it somewhere.
+Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
 Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
 Te: Hmm. How should I do this then?
 Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
