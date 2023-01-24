@@ -373,14 +373,27 @@ https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/
 
 ### Grades of video data analysis
 
-Roughly three grades
+Describing different grades and pass overs of the video data.
 
-- Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
-- Notes on goals, activities, interactions, fragments of dialogue and brief observations. Video coded in segments in Nivivo
+ Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
+
+Then deciding on 8-10 video sessions warranting full coding of activity.
+This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
+
+Notes on goals, activities, interactions, fragments of dialogue and brief observations. Video coded in segments in Nivivo
+In this level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
+
+Another level went over the 5 min sections looking for data relevant to 3 planes analysis - how was activity able to be interpreted culurally, socially personally.
+This generated points for results chapters.
+
 - Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
 
-In the second level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
 
+### Limits of / problems with video data analysis
+
+The choice of the videos to code more fully is rather skewed towards finding interesting data. Thus it may not be fully representative of the experience of all participants.
+
+Choosing in a different way - around less interaction - would expose more barriers to participation to game making using the 3M model.
 
 
 ### Analysis of activities based on Cultural, Interpersonal and Personal focusing
@@ -411,7 +424,7 @@ To overcome this issue...
 
 In addition the personal plane was perhaps the most problematic to address given the data gathered.
 Even when participants were demonstrating their personal knowledge by sharing back or directly altering game code, this was as part of a social and cultural practice.
-Thus my interpretation involved .... 
+Thus my interpretation involved ....
 
 
 ### Data Validity - Triangulation of Data
