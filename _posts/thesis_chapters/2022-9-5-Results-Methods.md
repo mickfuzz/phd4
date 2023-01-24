@@ -39,6 +39,9 @@ Based on Specific Interventions/ Design Choices and responses (if not previous a
 
 ### Creating Community Activity   
 
+- Peer - side by side coding.
+  - Parents coding too. See the comments by Mi and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there. 
+
 - Game Playing and Playtesting
    - Game playing at start of program - no observations but sets context
    - Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
