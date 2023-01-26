@@ -4,7 +4,7 @@ zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
-  csl-style: harvard # pre-fill the style
+  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
 title: Results Methods
@@ -40,7 +40,7 @@ Based on Specific Interventions/ Design Choices and responses (if not previous a
 ### Creating Community Activity   
 
 - Peer - side by side coding.
-  - Parents coding too. See the comments by Mi and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there. 
+  - Parents coding too. See the comments by Mi and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
 
 - Game Playing and Playtesting
    - Game playing at start of program - no observations but sets context
