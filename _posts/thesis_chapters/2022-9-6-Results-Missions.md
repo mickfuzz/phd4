@@ -7,9 +7,10 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Finding Chapter One - Missions
+title: Finding Chapter - Missions
 ---
 
+# Headings for this Chapter
 
 -   [Chapter overview](#chapter-overview)
 -   [Chapter introduction](#chapter-introduction)
@@ -68,8 +69,7 @@ title: Finding Chapter One - Missions
     -   [Design patterns as a "middle level" construct to open door to
         more concrete and abstract (Wider
         focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
-    -   [Discussion - Pumping up the Jam - allowing for improvisation in
-        design
+    -   [Discussion - Pumping up the Jam - allowing for improvisation in      design
         process.](#discussion---pumping-up-the-jam---allowing-for-improvisation-in-design-process.)
 -   [Outroduction - Summary on contribution to existing
     research](#outroduction---summary-on-contribution-to-existing-research)
@@ -80,6 +80,7 @@ title: Finding Chapter One - Missions
     -   [2019-05-08-te-da pt 1](#te-da-pt-1)
 
 
+# Results on Game Design Patterns 
 
 ## Chapter introduction
 
