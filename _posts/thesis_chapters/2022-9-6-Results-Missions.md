@@ -179,7 +179,12 @@ To situate the results of this chapter it will start with a grounded vignette.
 // then at this page online conversion. https://markdown-convert.com/en/tool/table
 // OR - AND PROBABLY BETTER TO DO THIS
 //keep as table with images - online or open office -  then download and copy and paste into documents to be shared.
-// On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca
+// On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca
+
+
+For the previous five minutes the parent and child dyad have face a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level.
+
+The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggest that Th asks facilitator for help to resolve the coding glitch.
 
 
 |**Dialogue**|**Activity**|
@@ -286,28 +291,56 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 ### Descriptive Commentary on Vignette A
 <!-- ## WAS Observations of use of Game Design Patterns in Vignette A -->
 
-NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
-BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE
+<!-- NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
+BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
 
-Try - In this section a summary of the interaction observered in the above vignette is described using AT terms
+In this section a summary of the interaction observed in the above vignette is described using three foci of activity.
 
-In the previous chapter on inclusive methods we
+Where appropriate I make observations on similar patterns of behaviour from outside of this vignette.
+
+**Cultural - Apprenticeship**
+
+The parent has taken on the role of solving harder code problems and it engaging with the material being presented as part of the sessions and following the instructions carefully. The child is one of the younger participants and does not maintaining attention on the problem being solved. When blockages occur she is keener to explore interactions
 
 For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
-- Parent offers choices of direction of next GDP   
-- The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
-- For this pair, larger coding activities were beyond the ability of the child and the parent was not able to keep them engaged while solving the problem.
+Keys and Doors as a pattern or concept may have been something explored in a previous game or it may be a clear concept that has appealed to the child in another way. What is more clear is that it drives engagement with the game making process with the child repeating the name of the pattern in a sing song voice.
+
+In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
 
 
-### Gdp and motivation
+One interaction with the facilitator uses the debugging tool of the browser.
+
+**Social - Guided Participation**
+
+The parent immediately re-engages the child when the blockage is removed. "Did you see Th?" The child then is then prompted to play test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
+
+The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
+
+For this pair, larger coding activities were beyond the ability of the child from feedback date the parent shared this was due to reading ability but mentioned a strategy to deal with this.
+
+"Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
+
+<!--  -->
+<!-- ### Gdp and motivation -->
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic.
 
 <!-- I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment. -->
 
-### Game Challenge and GDP
-In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
+
+**Personal - Mutual Knowledge Creation**
+
+<!-- The process of personal development of knowledge is less clear from video data.
+NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
+
+There are cultural elements that are transmitted through interaction with the facilitator that this parents is very quick to pick up on. For example the use of the project documentation website of which the parent was an early adopter. Also, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions.
+
+The parent shows an evolution of problems solving knowledge through their independent work.
+
+The child shows their personal knowledge of game design patterns in end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
+
+
 
 ### Other Notes on use of GDP (to integrate with above)
 
