@@ -80,7 +80,7 @@ title: Finding Chapter - Missions
     -   [2019-05-08-te-da pt 1](#te-da-pt-1)
 
 
-# Results on Game Design Patterns 
+# Results on Game Design Patterns
 
 ## Chapter introduction
 
@@ -336,32 +336,37 @@ Where appropriate I make observations on similar patterns of behaviour from outs
 
 **Cultural - Apprenticeship**
 
-The parent has taken on the role of solving harder code problems and it engaging with the material being presented as part of the sessions and following the instructions carefully. The child is one of the younger participants and does not maintaining attention on the problem being solved. When blockages occur she is keener to explore interactions
+The parent has taken on the role of solving harder code problems and it engaging with the material being presented as part of the sessions and following the instructions carefully. The child is one of the younger participants and does not maintaining attention on the problem being solved. When blockages occur she is keener to explore the room or to dwell on the periphery of other participants interactions.
 
 For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
 Keys and Doors as a pattern or concept may have been something explored in a previous game or it may be a clear concept that has appealed to the child in another way. What is more clear is that it drives engagement with the game making process with the child repeating the name of the pattern in a sing song voice.
 
 In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
+REPHRASE AS WILL HAVE ALREADY MET GLITCHING PROCESSES
+
+This interaction shows the parent guiding the child to imagine the user experience. A process repeated by this parent in different ways. In the vignette for example Sh shares "Must be quite hard to get through that door."
 
 
-One interaction with the facilitator uses the debugging tool of the browser.
+One interaction with the facilitator uses the debugging tool of the browser. [Move?]
 
 **Social - Guided Participation**
 
-The parent immediately re-engages the child when the blockage is removed. "Did you see Th?" The child then is then prompted to play test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette.
+
+After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
+
+The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic.
 
 The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
-
 For this pair, larger coding activities were beyond the ability of the child from feedback date the parent shared this was due to reading ability but mentioned a strategy to deal with this.
 
 "Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
 
-<!--  -->
+
+
+<!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
-
-Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors and then progressing to another level. The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic.
-
 <!-- I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment. -->
 
 
@@ -374,11 +379,9 @@ There are cultural elements that are transmitted through interaction with the fa
 
 The parent shows an evolution of problems solving knowledge through their independent work.
 
+
 The child shows their personal knowledge of game design patterns in end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
-
-
-### Other Notes on use of GDP (to integrate with above)
 
 ## Representing Coded the Patterns of Activity via coded data -
 
