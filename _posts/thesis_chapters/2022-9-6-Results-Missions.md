@@ -165,6 +165,7 @@ To help the reader understand the data in this chapter the following notes on me
 - The concepts of resolving tensions within activity from Activity Theory are used to explore the evolution of the design of activities and resources. (Design results)
 <!-- - Rather than Engestroms AT framework (Subject, Object, Instruments, Rules, Community, Division of Labour) the results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal) -->
 - Results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal) which aligns well with AT (Methodology)
+- Game making is based on remixing code from an existing incomplete game template (half-baked games & scratch community processes)
 <!-- - A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing) -->
 
 
@@ -286,11 +287,11 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 <!-- ## WAS Observations of use of Game Design Patterns in Vignette A -->
 
 NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
-BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE 
+BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE
 
 Try - In this section a summary of the interaction observered in the above vignette is described using AT terms
 
-
+In the previous chapter on inclusive methods we
 
 For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
 
