@@ -286,7 +286,7 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 <!-- ## WAS Observations of use of Game Design Patterns in Vignette A -->
 
 NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
-BUT WHY NOT 3 PLANES
+BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE 
 
 Try - In this section a summary of the interaction observered in the above vignette is described using AT terms
 
