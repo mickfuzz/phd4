@@ -46,31 +46,27 @@ title: Finding Chapter One - Missions
 
 
 
-
-
-
-
-
-
-
-
-
 ## Chapter introduction
 
-The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study.
+<!-- The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study. -->
 
 The purpose of this chapter is to explore how the data gathered informs thinking on two research questions of this study.  
 
 - How can game design patterns support the development of coding practices by novices?
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
-To do this, the chief analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff - explored previously).
+This section starts with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interpersonal interactions of that pair via analysis of video data.
 
-This section starts with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interpersonal interactions of that pair via analysis of video data. The activity of the focal pair is then compared to activity of other groupings and individuals.
+<!-- DROP The activity of the focal pair is then compared to activity of other groupings and individuals. -->
 
 The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
 
+The predominant analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff, )(explored previously).
+ALTER - MERGE WITH BELOW
+
 The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
+
+ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH
 
 ## Other Documents
 
@@ -108,7 +104,7 @@ While this piece of writing contains results, it also contains references to con
       - Game playing and making communities
       - Games as funds of knowledge in
     - Visual methods in game making
-      - Maps of learning, Gee, borrowing how to chart learner's journey from game design
+      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
 
 - Methodology   
   - Summary of social turn
@@ -161,14 +157,75 @@ OR just create hyperlinks.
 
 To help the reader understand the data in this chapter the following notes on methods/ methodology are included.
 
-- The study uses mixed methods in methodology. Informed by analysis of journal diary, notes, video data and
-- An evolving table of what data is used in what way to answer each RQ is coming but is not ready.
-- The research design evolved as the game making program was underway based on feedback and reactions of the participants (supported precedent in design-based research)
-- A long pilot course and development stage resulted in extensive support materials and activities which I have structured into a learning design called 3M (more below)
-- A narrow data samples has been used for this study. This prioritises a greater depth of analysis on interactions over generalisation. This is justified in a section on data validity.  
-- The concepts of resolving tensions within activity from Activity Theory are used in a previous chapter to explore the evolution of the designed
-- Rather than Engestroms AT framework (Subject, Object, Instruments, Rules, Community, Division of Labour) the results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal)
-- A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing)
+- The study uses mixed methods in methodology. Informed by analysis of journal diary, notes, video data and interviews (Methodology)
+<!-- - An evolving table of what data is used in what way to answer each RQ is coming but is not ready. (Methodology) -->
+- The research design evolved as the game making program was underway based on feedback and reactions of the participants (supported precedent in design-based research) (Methodology)
+- A long pilot course and development stage resulted in extensive support materials and activities which I have structured into a learning design called 3M (Methodology + see recent chapter on 3M model)
+- A narrow data samples has been used for this study. This prioritises a greater depth of analysis on interactions over generalisation. This is justified in a section on data validity in Methdology chpater.  
+- The concepts of resolving tensions within activity from Activity Theory are used to explore the evolution of the design of activities and resources. (Design results)
+<!-- - Rather than Engestroms AT framework (Subject, Object, Instruments, Rules, Community, Division of Labour) the results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal) -->
+- Results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal) which aligns well with AT (Methodology)
+<!-- - A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing) -->
+
+## Representing Coded the Patterns of Activity via coded data - DOES PART OF THIS NEED TO MOVE EARLIER IS IT USEFUL AT START?
+
+We can to examine patterns of activity is through an analysis of the coded video interactions. The coding structure decided upon and the process of coding in five minutes sections.
+
+<!-- NOTE - there may be some value is coding some key interactions more carefully in more granuar detail if this process is useful.  -->
+
+Note The full coding scheme will be included here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
+
+The main schemes as below.
+
+- Design Stages - 
+- Interaction Description -
+- Game Elements Addressed (Game Polish, Game Space, Game Mechanics, Game Challenge(remove?))
+
+The process of coding data shed light onto patterns of activity in creating a list of general behaviours shared by participants and thus also identifying outlying behaviours that did not meet the emerging coding scheme.
+
+
+<!-- See current table here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing -->
+
+In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
+
+<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
+
+The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
+
+- Question One: During which design phase does parent-child pair interaction happen most frequently?
+- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
+
+TO COME.
+
+The first scenario represented in a chart which compares activity grouping with design stages and activity description.
+
+CHART
+
+The second scenario is represented by 4 charts one for each game element showing the duration spent by a diversity of participants.  
+
+CHART
+
+Discussion on data.
+Followed by discussion particularly on the limits o
+
+#### Limits
+This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
+
+
+<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
+
+- time under table
+- time in control of Keyboard
+- time actively directing parent's activity
+- time actively observing parent's activity
+- time discussing game features with parent -->
+
+
+
+
+
 
 ## Study of Vignette A
 
@@ -844,51 +901,6 @@ A tactic that could be explored further is the value of reflective practices to 
 Probably end with different strokes commentary. Depending on aims of the practitioner and context of the game making.
 
 
-## Representing Coded the Patterns of Activity via coded data
-
-An additional lens to examine patterns of activity is through an analysis of the coded video interactions.
-Background: Recap of the coding structure decided upon and the process of coding in five minutes sections.
-
-NOTE - there may be some value is coding some interactions more carefully.
-
-See current table here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
-
-- Design Stages  
-- Interaction Description
-- Game Elements Addressed
-
-In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
-
-<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
-
-The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
-
-- Question One: During which design phase does parent-child pair interaction happen most frequently?
-- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
-
-TO COME.
-
-The first scenario represented in a chart which compares activity grouping with design stages and activity description.
-
-CHART
-
-The second scenario is represented by 4 charts one for each game element showing the duration spent by a diversity of participants.  
-
-CHART
-
-Followed by discussion
-
-<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
-
-- time under table
-- time in control of Keyboard
-- time actively directing parent's activity
-- time actively observing parent's activity
-- time discussing game features with parent -->
-
-
-
 
 ## Additional Chapter Discussion
 
@@ -949,7 +961,11 @@ The tools, process and the community encourage a jam / improvisational approach.
 
 The concept of Jam is explored in rapid, improvisational events called Game Jams.
 
+## Outroduction - Summary on contribution to existing research
 
+Bring more synthesis here especially in translation of design elements due to this context
+
+- Whereas Game Jams focus on x, 3m has a focus on y.
 
 ## Transition Conclusion of Chapter Paragraph - themes to explore in other chapters.
 

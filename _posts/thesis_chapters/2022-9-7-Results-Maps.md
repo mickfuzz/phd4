@@ -20,7 +20,11 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 
 Maps in the 3M model is a way of representing the more personal dimension of learning.
 
-This is in some ways the weaker part of the thesis in that it emerged not from the actions of the participants but was driven by wider concerns which priortise this more individual account of learning.
+
+The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design. These include resources created after, and partly in response to, the interactions documented in the previous chapter.
+
+The resource creation was driven by wider concerns which prioritise this more individual account of learning.  Elements have been introduced to make this process potentially adaptable to classroom. This has influenced use based on curriculum.
+
 
 Not in any particular order.
 
@@ -63,7 +67,21 @@ While this is an informal way of using maps the are other approaches that are mo
 _Map of Learning Dimensions of the 3M Game Making Approach_
  -->
 
-**Physical Maps of Missions:** To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game. The game pattern missions were represented as different islands . Learners took time to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it. They also kept a track of the missions that they had completed by tracing a trail as they progressed. In addition the colourful, physical and visual representation served to encourage a sense of community and peer learning. When moving the counter on the map I prompted them to reflect on the coding concepts or other learning dimensions that they had been working with. As learners traced a trail between the different island/missions they had visited, the map provoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments. I am currently investigating replicating this process using online tools to reduce complexity and preparation time.
+### Adaptations to the 3M model to facilitate this Learning maps
+
+#### Addition of a Game Challenge section
+
+I wanted to explore the possibility to use this model to explore systems thinking.
+There is precedent to do this in GSM.
+It was driven in a response to meaningful missions which helped guide a focus on game play.
+I created such missions (outlined in Methods chapter)
+Added game design patterns based on challenge - find source Schnell & GSM literature (their terminology is Game elements)
+And then updated the learning map to highlight potential concepts to be learned.
+
+
+## Physical Maps of Missions:
+
+To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game. The game pattern missions were represented as different islands . Learners took time to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it. They also kept a track of the missions that they had completed by tracing a trail as they progressed. In addition the colourful, physical and visual representation served to encourage a sense of community and peer learning. When moving the counter on the map I prompted them to reflect on the coding concepts or other learning dimensions that they had been working with. As learners traced a trail between the different island/missions they had visited, the map provoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments. I am currently investigating replicating this process using online tools to reduce complexity and preparation time.
 
 ## Emerging Findings
 
