@@ -133,11 +133,11 @@ To help the reader understand the data in this chapter the following notes on me
 
 ### Recap on Game Design Patterns -
 
-NOTE - A QUICK RECAP OF TOPIC FROM LIT REVIEW
+NOTE - A QUICK RECAP OF TERMS FROM LIT REVIEW
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
 
-The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs. 
+The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs.
 
 ## Study of Vignette A
 
@@ -149,7 +149,6 @@ To situate the emerging findings, chapter begins with vignette.
 // OR - AND PROBABLY BETTER TO DO THIS
 //keep as table with images - online or open office -  then download and copy and paste into documents to be shared.
 // On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca
-
 
 For the previous five minutes the parent and child dyad have face a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggest that Th asks facilitator for help to resolve the coding glitch.
 
@@ -626,53 +625,38 @@ NOTE - This needs to be merged with the above - or a different take on it explor
 
 Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
 
-M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
-You know, keep working through.
+    M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
+    You know, keep working through.
+    F: Yeah. I think I want to get an enemy in - oh no - my person animated.
+    M: so you want to get your person animated that’s the main thing
+    M: Shall we concentrate on that and changing the platforms into something different?
+    F: Yeah.
+    M: Yeah?
+    F: I also want to make a theme tune.
+    M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
+    F: hmmm
+    M: just cos it gets really overwhelming.
+    M: Yeah..? So…?
+    Long pause
+    M: Well I’ll have a look at the code and see if I can make sense of that.
+    M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
+    You know, keep working through.
+    F: Yeah.
+     I think I want to get an enemy in - oh no - my person animated.
+    M: So you want to get your person animated that’s your main thing.
+    F: Yeah
+    M: Shall we concentrate on that and changing the platforms into something different?
+    F: Yeah.
+    M: Yeah?
+    F: I also want to make a theme tune.
+    M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
+    F: hmmm
+    M: just cos it gets really overwhelming.
+    M: Yeah..? So…?
 
-F: Yeah.
- I think I want to get an enemy in - oh no - my person animated.
+    Long pause
 
-M: so you want to get your person animated that’s the main thing
-
-M: Shall we concentrate on that and changing the platforms into something different?
-
-F: Yeah.
-M: Yeah?
-F: I also want to make a theme tune.
-
-M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
-F: hmmm
-M: just cos it gets really overwhelming.
-M: Yeah..? So…?
-
-Long pause
-
-M: Well I’ll have a look at the code and see if I can make sense of that.
-
-M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
-You know, keep working through.
-
-F: Yeah.
- I think I want to get an enemy in - oh no - my person animated.
-
-M: So you want to get your person animated that’s your main thing.
-F: Yeah
-
-M: Shall we concentrate on that and changing the platforms into something different?
-
-
-F: Yeah.
-M: Yeah?
-F: I also want to make a theme tune.
-
-M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
-F: hmmm
-M: just cos it gets really overwhelming.
-M: Yeah..? So…?
-
-Long pause
-
-M: Well I’ll have a look at the code and see if I can make sense of that.
+    M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
 This example shows the use of the names number of game design patterns by the child .
