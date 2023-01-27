@@ -262,9 +262,9 @@ Keys and Doors as a pattern or concept may have been something explored in a pre
 The child advocates for adding levels is something the child advocates for. It is likely that this has been picked up from the culture of the group.
 EVIDENCE - Mi and Other Parent - "Have you seen Te's game it has 21 levels."
 
-The is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. M
+The is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards.
 
-She may  of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter . "It is for me!"
+"It is for me!" She may be aware of the implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter. Seemingly enjoying the cheekiness of her actions. 
 
 This interaction shows the parent guiding the child to imagine the user experience. A process repeated by this parent in different ways. In the vignette for example Sh shares "Must be quite hard to get through that door."
 
