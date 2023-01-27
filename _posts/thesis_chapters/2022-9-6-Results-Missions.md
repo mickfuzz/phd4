@@ -92,7 +92,7 @@ ALTER - MERGE WITH BELOW
 
 The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
 
-ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH
+<!-- ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH -->
 
 <!-- ## Other Documents -->
 
