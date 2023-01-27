@@ -313,73 +313,6 @@ The parent shows an evolution of problems solving knowledge through their indepe
 The child shows their personal knowledge of game design patterns in end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 
-## Representing Coded the Patterns of Activity via coded data -
-
-NOTE - NOT SURE WHERE TO PUT THIS PART OR IF THE CHART ELEMENT IS REALLY VALUABLE - IT COULD BE A DISTRACTION (IT PROBABLY IS - PERHAPS ADD AS A POSSIBILITY IN CONCLUSION)
-
-We can to examine patterns of activity is through an analysis of the coded video interactions. The coding structure decided upon and the process of coding in five minutes sections.
-
-<!-- NOTE - there may be some value is coding some key interactions more carefully in more granuar detail if this process is useful.  -->
-
-Note The full coding scheme will be included here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
-
-The main schemes as below.
-
-- Design Stages -
-- Interaction Description -
-- Game Elements Addressed (Game Polish, Game Space, Game Mechanics, Game Challenge(remove?))
-
-The process of coding data shed light onto patterns of activity in creating a list of general behaviours shared by participants and thus also identifying outlying behaviours that did not meet the emerging coding scheme. (NOTE FOR HERE OR PREVIOUS?)
-
-Later in the chapter the limits of the chosen design stage schema are explored as a way of illuminating interesting game making behaviour of participants.
-
-<!-- See current table here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing -->
-
-In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
-
-<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
-
-The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
-
-- Question One: During which design phase does parent-child pair interaction happen most frequently?
-- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
-
-TO COME.
-
-The first scenario represented in a chart which compares activity grouping with design stages and activity description.
-
-Pair work -> TEST, CREATE, IMPROVE, etc
-Peer work -> TEST, CREATE, IMPROVE, etc
-Solo work -> perhaps dont an
-
-CHART
-
-The second scenario is represented by pie charts for each game element showing the duration spent on each by a diversity of participants.  
-
-CHART
-
-#### Discussion on data
-<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
-
-For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
-This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
-
-The game elements / design patterns categories which are presented are created as a design guide rather than on exact principles.
-It is possible to code drilling down into another level. This might yield more results.
-
-In summary, the coding process is more valuable as a tool to allow more qualitative reflection and analysis rather than a quantitative process as attempted above.
-
-To make a quantitative approach work better X,Y and Z would need to be in place which was not suitable for this study because of A and B.
-
-<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
-
-- time under table
-- time in control of Keyboard
-- time actively directing parent's activity
-- time actively observing parent's activity
-- time discussing game features with parent -->
 
 ### Describing design stages for this pair beyond this interaction
 
@@ -840,13 +773,75 @@ Summary to come.
 See next chapter.
 
 
-#### Commentary / Discussion
+## Representing Coded the Patterns of Activity via coded data
 
-NOTE - As in last paragraph, the practical value of CT concepts can be discussed as well as the nature of CT as a practical skill or a more abstract concept.
+NOTE - NOT SURE WHERE TO PUT THIS PART OR IF THE CHART ELEMENT IS REALLY VALUABLE - IT COULD BE A DISTRACTION (IT PROBABLY IS - PERHAPS ADD AS A POSSIBILITY IN CONCLUSION)
 
-A tactic that could be explored further is the value of reflective practices to back up CTs being found in the wild. This possibility is explored in more detail in the next chapter of results.
+We can to examine patterns of activity is through an analysis of the coded video interactions. The coding structure decided upon and the process of coding in five minutes sections.
 
-Probably end with different strokes commentary. Depending on aims of the practitioner and context of the game making.
+<!-- NOTE - there may be some value is coding some key interactions more carefully in more granuar detail if this process is useful.  -->
+
+Note The full coding scheme will be included here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
+
+The main schemes as below.
+
+- Design Stages -
+- Interaction Description -
+- Game Elements Addressed (Game Polish, Game Space, Game Mechanics, Game Challenge(remove?))
+
+The process of coding data shed light onto patterns of activity in creating a list of general behaviours shared by participants and thus also identifying outlying behaviours that did not meet the emerging coding scheme. (NOTE FOR HERE OR PREVIOUS?)
+
+Later in the chapter the limits of the chosen design stage schema are explored as a way of illuminating interesting game making behaviour of participants.
+
+<!-- See current table here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing -->
+
+In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
+
+<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
+
+The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
+
+- Question One: During which design phase does parent-child pair interaction happen most frequently?
+- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
+
+TO COME.
+
+The first scenario represented in a chart which compares activity grouping with design stages and activity description.
+
+Pair work -> TEST, CREATE, IMPROVE, etc
+Peer work -> TEST, CREATE, IMPROVE, etc
+Solo work -> perhaps dont an
+
+CHART
+
+The second scenario is represented by pie charts for each game element showing the duration spent on each by a diversity of participants.  
+
+CHART
+
+#### Discussion on data
+<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
+
+For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
+This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
+
+The game elements / design patterns categories which are presented are created as a design guide rather than on exact principles.
+It is possible to code drilling down into another level. This might yield more results.
+
+In summary, the coding process is more valuable as a tool to allow more qualitative reflection and analysis rather than a quantitative process as attempted above.
+
+To make a quantitative approach work better X,Y and Z would need to be in place which was not suitable for this study because of A and B.
+
+<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
+
+- time under table
+- time in control of Keyboard
+- time actively directing parent's activity
+- time actively observing parent's activity
+- time discussing game features with parent -->
+
+
 
 ## Additional Chapter Discussion
 
@@ -879,10 +874,12 @@ Is there an advantage to less support in terms of setting out a pathway which pa
 
 ### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
-Example -
-Te and Da - 2019-05-08 -
-da- use paper to design
-te - I'm just going with it
+In many interactions we see improvisational approaches. 
+
+Example from Te and Da - 2019-05-08 -
+
+    Da- use paper to design
+    Te - I'm just going with it
 
 The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
 

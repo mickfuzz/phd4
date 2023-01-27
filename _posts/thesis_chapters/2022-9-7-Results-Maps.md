@@ -230,8 +230,22 @@ The process of working with students on their existing code is valuable to expla
 
 The comparison raises a potential discussion point on what the practical value of this CT concept is.
 
+### Commentary of CT in the 3M model in particular
+More discussion  on the practical value of CT concepts
 
-## Discussion on UMC and PRIMM in relation to use of 3M model (Practitioner focus)
+##  Commentary / Discussion on Learning Dimensions
+
+More discussion  on the practical value of CT concepts
+
+### CT as a practical skill or a more abstract concept.
+
+A general discussion of varied views and my own based on data of this study.
+
+### It's fun but are they learning
+Exploring the tactic of reflective practices to back up CTs being found in the wild. Both for practitioner and participants as per [@petrich_it_2013].
+
+
+### Discussion on UMC and PRIMM in relation to use of 3M model (Practitioner focus)
 
 - UMC - should also be covered in the Remix part of the design ?
 
@@ -245,3 +259,7 @@ Da and Te - In these interaction the parent seems keen for the child to be able 
 This is an interaction which in some ways is comparable to the PRIMM model which is suggested for classroom use. However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms.
 
 UMC on the other hand while being less described and open to interpretation seems to match the more informal, iterative game making of many participants.
+
+### Different strokes
+
+A different strokes commentary. Depending on aims of the practitioner and context of the game making different tactics may be applicable.
