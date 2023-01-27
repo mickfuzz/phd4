@@ -871,31 +871,50 @@ The concept of Jam is explored in rapid, improvisational events called Game Jams
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract (Wider focus)
 
-In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a perscriptive approach to Computational Thinking.  
+<!-- NOTE THIS STRAYS IN TO CT - FIND THE DIVIDING LINE -->
 
-Papert and Turkle celebrated diversity in approaches and celebrated the concrete.
+In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a prescriptive approach to Computational Thinking. We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  
 
-In the relevant literature () - design patterns are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
-There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice. They also include a more abstract / and thus repeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
+In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+
+In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
+Find proffessional source here or before. 
+
+See notes here
+https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit
+
+
+There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice.
+
+They also include a more abstract / and thus Nrepeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
 
 The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
 
-In this context of novice coders it seems appropriate to introduce some levels of reusable practice whilst prioritising individual learner engagement and community participation.
+Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
+
+In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
 
 We can see evidence of both the potential for reusable elements of knowledge and practice involving practice in the following ways;
 
-* Use of levels as a array which is parsed by a loop to create layout
-* Other examples.
+- Use of levels as a array which is parsed by a loop to create layout
+- Functions - code patching into the right area
+- Complicated if statements
+- Other examples of computing construct which novices use without full understanding.
 
+In the following chapter, the potential to explore Computational Thinking is discussed on more depth.
 
+## Final Section - Synthesis
 
-## Outroduction - Summary on contribution to existing research
+Summary on contribution to existing research
 
 Bring more synthesis here especially in translation of design elements due to this context
 
-- Whereas Game Jams focus on x, 3m has a focus on y.
+Ideas to develop:
 
-## Transition Conclusion of Chapter Paragraph - themes to explore in other chapters.
+- Whereas Game Jams focus on x, 3m has a focus on y.
+- GDP and types of errors?
+
+### Link Paragraph
 
 A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
 
