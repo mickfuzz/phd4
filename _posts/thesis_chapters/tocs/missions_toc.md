@@ -9,12 +9,8 @@
         interaction](#describing-design-stages-for-this-pair-beyond-this-interaction)
 -   [Identifying GDP as key unit of
     Analysis](#identifying-gdp-as-key-unit-of-analysis)
-    -   [Relating to AT and design
-        Theory](#relating-to-at-and-design-theory)
--   [Other Findings Emerging related to Game Design
-    Patterns](#other-findings-emerging-related-to-game-design-patterns)
-    -   [Cultural, Interpersonal & Personal Planes Analysis of use of
-        GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
+-   [Cultural, Interpersonal & Personal Planes Analysis of use of
+    GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
 -   [Cultural Plane / Apprenticeship - and Game
     patterns](#cultural-plane-apprenticeship---and-game-patterns)
     -   [Use of design patterns as a form of / to facilitate
