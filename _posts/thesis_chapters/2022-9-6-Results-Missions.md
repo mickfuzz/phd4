@@ -255,12 +255,16 @@ Where appropriate I make observations on similar patterns of behaviour from outs
 
 The parent has taken on the role of solving harder code problems and it engaging with the material being presented as part of the sessions and following the instructions carefully. The child is one of the younger participants and does not maintaining attention on the problem being solved. When blockages occur she is keener to explore the room or to dwell on the periphery of other participants interactions.
 
-For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game.
+<!-- For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game. -->
 
 Keys and Doors as a pattern or concept may have been something explored in a previous game or it may be a clear concept that has appealed to the child in another way. What is more clear is that it drives engagement with the game making process with the child repeating the name of the pattern in a sing song voice.
 
-In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
-REPHRASE AS WILL HAVE ALREADY MET GLITCHING PROCESSES
+The child advocates for adding levels is something the child advocates for. It is likely that this has been picked up from the culture of the group.
+EVIDENCE - Mi and Other Parent - "Have you seen Te's game it has 21 levels."
+
+The is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. M
+
+She may  of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter . "It is for me!"
 
 This interaction shows the parent guiding the child to imagine the user experience. A process repeated by this parent in different ways. In the vignette for example Sh shares "Must be quite hard to get through that door."
 
@@ -878,7 +882,7 @@ In the introduction of this thesis I highlighted some of the challenges for incl
 In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
 In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
-Find proffessional source here or before. 
+Find proffessional source here or before.
 
 See notes here
 https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit
