@@ -10,10 +10,82 @@ categories: chapter
 title: Introduction
 ---
 
+
+# Introduction -
+
+## Draft TOC by hand  
+
+- Introduction
+  - Context
+    - Coding digital making's movement from informal -> formal settings / curriculum
+    - Game making as a particular focus of digital making
+  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning
+    - Critique of implementations of Computational Thinking as a non-inclusive approach
+    - Use of Game design patterns as a more "relatable" pedagogy
+  - Description of Research Questions
+  - Brief outline of thesis chapter structure
+
+- Literature Review -
+  - What game making pedagogies exist?
+    - UMC and Games - Half-baked games
+    - Design-based & Tinkering / Exploratory
+    - More on Game design patterns - a shared language - turn to community aspect
+  - What exists to support the development of game making communities?
+    - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
+    - Social learning in Game Making
+      - Game playing and making communities
+      - Games as funds of knowledge in
+    - Visual methods in game making
+      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
+
+- Methodology   
+  - Summary of social turn
+  - Justification of choice of methodology
+  - Design-based research and Intervention studies within educational field
+  -  Data gathering methods and justification
+    - journal, evolution of design, video analysis,
+  - Data Processing, technical nod to challenges and resolutions
+  - Data Analysis and justification
+    - Analysis of non-video data, diary, notes, created Resources
+      - Coding to 3 planes & other techniques
+    - Analysis of video Data
+      - Coding structures, design stage, 3 planes, game element addressed, participant interaction
+  - Research Questions
+
+- Chapter on Emerging Design
+ - emergence of focusing of Design Patterns - currently as different chapter
+ - Use of tensions as a useful analytical tool.
+ - Analysis of structure and evolution of design elements using 3 planes approach
+   - cultural  
+   - social
+   - personal
+
+- Results Chapter - Cultural (inclusive ) Practices
+  - Funds of Knowledge as they emerged - not universal, but pervasive
+  - Game Player / Makers Types
+
+- Results Chapter - Game Design Patterns
+ - focusing on Design Patterns
+ - Use of design patterns as a communicative tool
+ - Design patterns as a "middle level" construct to open door to more concrete and abstract
+
+- Results Chapter - Personal Practices / Maps
+  - Vignette on difficulty of X
+  - Discussion linking to learning dimensions of Petrich and Bevan
+
+
+- Conclusions and Next Steps
+ - Limitations of the study
+    - The lack of motivation of ticking of curriculum led to less focus on individual knowledge work - This could be followed up
+    - Other Limitation.
+    - Interesting areas that have emerged.
+    - Next areas of development.
+
+
 ## Abstract
 
 
-## Starting thoughts for contents
+## Starting thoughts for contents of introduction
 
 - Coding, digital making, game making, media literacy -  Exploring motivations in each domain.
 - Inclusive approaches and the value of PBL, ULD  Introduction to RQs

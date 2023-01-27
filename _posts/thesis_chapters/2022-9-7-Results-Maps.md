@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Results Maps
+title: Findings - Mapping the Learning
 ---
 <!--
 ## Starting thoughts on writing up results.
@@ -16,15 +16,31 @@ The 3M model as a pedagogical model which aligns with PBL principles and more ge
 A start here of mapping in a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
-## Introduction on Maps
 
-Maps in the 3M model is a way of representing the more personal dimension of learning.
+# Mapping the Learning
+
+## Introduction
+
+The findings of this chapter broadly align with the personal foci from Rogoff's three foci model.
+The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
+
+These include resources created after, and partly in response to, the interactions documented in the previous chapter.
+
+One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
+
+<!-- A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
+
+Examples include;
+
+- supporting reflection on design and coding concepts / skills.
+- navigation / organisational support - use of a physical map.
+
+For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
 
 
-The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design. These include resources created after, and partly in response to, the interactions documented in the previous chapter.
+## On Evolution of Supporting Resources
 
 The resource creation was driven by wider concerns which prioritise this more individual account of learning.  Elements have been introduced to make this process potentially adaptable to classroom. This has influenced use based on curriculum.
-
 
 Not in any particular order.
 
@@ -35,15 +51,59 @@ Not in any particular order.
  - mapping learning journeys, patchy experiments and further work.
 
 
+
+
+## Using Physical Maps of Missions as Game Design Patterns
+
+Maps in the 3M model were explored partly as a way of representing the personal dimension of learning.
+
+
+### Overview - NOTE MOVE SOME OF THIS TO THE DESIGN CHAPTER
+
+To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game.
+
+The game pattern missions were represented as different islands . Learners took time to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it. They also kept a track of the missions that they had completed by tracing a trail as they progressed. In addition the colourful, physical and visual representation served to encourage a sense of community and peer learning. When moving the counter on the map I prompted them to reflect on the coding concepts or other learning dimensions that they had been working with. As learners traced a trail between the different island/missions they had visited, the map provoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments. I am currently investigating replicating this process using online tools to reduce complexity and preparation time.
+
+### Emerging Findings & Discussion on use of Physical Maps
+
+
 <!-- ![map of learning design]({{site.github.url}}/_posts/Pictures/maps_2000.png) -->
 
-<!-- ![learning islands](./Pictures/maps_2000.png)
+![learning islands](./Pictures/maps_2000.png)
 ![learning islands]({{ site.baseurl }}/Pictures/maps_2000.png)
-_Missions as Islands_ -->
-<!-- Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Having them all mapped out meant. -->
-<!-- Is this better in Missions?   -->
+_Missions as Islands_
 
-**Learning Dimensions Map:** In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes. Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
+Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process.
+
+Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion.
+EXAMPLE - ma & fi
+
+Having GDP mapped out had some of the following possibilities.
+
+
+Maps as an area seems to be the weakest point in this process. I may have neglected this plane as it is normally well explored in other research based in formal settings, and I was particularly interested in nurturing an organically forming game making community.
+
+This section highlights key tensions in the design that still need to be overcome.
+
+It explores these tensions in relation to existing research and contains further discussion to inform possible future directions of research.
+
+#### Individuals vs Collective Mapping of Progress & Online / Offline issues.
+
+The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
+
+A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere.
+
+#### Tensions - Online resources vs Print outs
+Also a tension of moving online with resources, via having them available in the class.
+
+Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
+
+
+
+## Learning Dimensions Map
+
+### Overview
+In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes. Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
@@ -67,9 +127,9 @@ While this is an informal way of using maps the are other approaches that are mo
 _Map of Learning Dimensions of the 3M Game Making Approach_
  -->
 
-### Adaptations to the 3M model to facilitate this Learning maps
+## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
 
-#### Addition of a Game Challenge section
+### Addition of a Game Challenge section
 
 I wanted to explore the possibility to use this model to explore systems thinking.
 There is precedent to do this in GSM.
@@ -79,24 +139,33 @@ Added game design patterns based on challenge - find source Schnell & GSM litera
 And then updated the learning map to highlight potential concepts to be learned.
 
 
-## Physical Maps of Missions:
+### Including Coding Concepts
 
-To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game. The game pattern missions were represented as different islands . Learners took time to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it. They also kept a track of the missions that they had completed by tracing a trail as they progressed. In addition the colourful, physical and visual representation served to encourage a sense of community and peer learning. When moving the counter on the map I prompted them to reflect on the coding concepts or other learning dimensions that they had been working with. As learners traced a trail between the different island/missions they had visited, the map provoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments. I am currently investigating replicating this process using online tools to reduce complexity and preparation time.
+Recap here the choice of coding concepts rather that CT in more abstract terms.
 
-## Emerging Findings
 
-Maps as an area seems to be the weakest point in this process. I may have neglected this plane as it is normally well explored in other research based in formal settings, and I was particularly interested in nurturing an organically forming game making community.
 
-This section highlights key tensions in the design that still need to be overcome.
 
-It explores these tensions in relation to existing research and contains further discussion to inform possible future directions of research.
 
-### Individuals vs Collective Mapping of Progress & Online / Offline issues.
 
-The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
+## Discussion on CTs
 
-A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere.
+In the chapter focused on GDP, CTs were discussed
 
-### Tensions - Online resources vs Print outs
-Also a tension of moving online with resources, via having them available in the class.
-Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
+
+
+
+### Discussion on UMC and PRIMM in relation to use of 3M model (Practitioner focus)
+
+- UMC - should also be covered in the Remix part of the design ?
+
+<!-- not sure how much to put in about this in LIT REVIEW  -->
+Note on PRIMM and personal knowledge.
+
+Recap on PRIMM ? - THIS WILL BE IN LIT REVIEW MOST PROBABLY 
+
+Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts.
+
+This is an interaction which in some ways is comparable to the PRIMM model which is suggested for classroom use. However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms.
+
+UMC on the other hand while being less described and open to interpretation seems to match the more informal, iterative game making of many participants.

@@ -104,92 +104,19 @@ The working definition of GDPs explored in the literature review and enhanced in
 
 ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH
 
-## Other Documents
+<!-- ## Other Documents -->
 
-This chapter builds towards a Matrix that could be included in a concluding chapter.
+<!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
 Also the RQ questions which answered
 https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
 And the coding structure here   
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit#
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit# -->
 
 ## Introduction to This Writing
 
-In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a communities of designers and coders with an educational aims has been explored paying particular attention strategies that educators can use to aid these processes.
-
-While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. The following bullet pointed list gives an overview of an emerging chapter structure and contents.
-
-- Introduction
-  - Context
-    - Coding digital making's movement from informal -> formal settings / curriculum
-    - Game making as a particular focus of digital making
-  - Inclusive approaches and the value of Project Based Learning, Universal Design for Learning
-    - Critique of implementations of Computational Thinking as a non-inclusive approach
-    - Use of Game design patterns as a more "relatable" pedagogy
-  - Description of Research Questions
-  - Brief outline of thesis chapter structure
-
-- Literature Review -
-  - What game making pedagogies exist?
-    - UMC and Games - Half-baked games
-    - Design-based & Tinkering / Exploratory
-    - More on Game design patterns - a shared language - turn to community aspect
-  - What exists to support the development of game making communities?
-    - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
-    - Social learning in Game Making
-      - Game playing and making communities
-      - Games as funds of knowledge in
-    - Visual methods in game making
-      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
-
-- Methodology   
-  - Summary of social turn
-  - Justification of choice of methodology
-  - Design-based research and Intervention studies within educational field
-  -  Data gathering methods and justification
-    - journal, evolution of design, video analysis,
-  - Data Processing, technical nod to challenges and resolutions
-  - Data Analysis and justification
-    - Analysis of non-video data, diary, notes, created Resources
-      - Coding to 3 planes & other techniques
-    - Analysis of video Data
-      - Coding structures, design stage, 3 planes, game element addressed, participant interaction
-  - Research Questions
-
-- Chapter on Emerging Design
- - emergence of focusing of Design Patterns - currently as different chapter
- - Use of tensions as a useful analytical tool.
- - Analysis of structure and evolution of design elements using 3 planes approach
-   - cultural  
-   - social
-   - personal
-
-- Results Chapter - Cultural (inclusive ) Practices
-  - Funds of Knowledge as they emerged - not universal, but pervasive
-  - Game Player / Makers Types
-
-- Results Chapter - Game Design Patterns
- - focusing on Design Patterns
- - Use of design patterns as a communicative tool
- - Design patterns as a "middle level" construct to open door to more concrete and abstract
-
-- Results Chapter - Personal Practices / Maps
-  - Vignette on difficulty of X
-  - Discussion linking to learning dimensions of Petrich and Bevan
-
-
-- Conclusions and Next Steps
- - Limitations of the study
-    - The lack of motivation of ticking of curriculum led to less focus on individual knowledge work - This could be followed up
-    - Other Limitation.
-    - Interesting areas that have emerged.
-    - Next areas of development.
-
- **Comment:** More writing in this area is available online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
+In the previous chapters we will have looked at the research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a communities of designers and coders with an educational aims has been explored paying particular attention strategies that educators can use to aid these processes. While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. Other emerging chapters are online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
 OR just create hyperlinks.
-
-
-## Context for this writing
 
 To help the reader understand the data in this chapter the following notes on methods/ methodology are included.
 
@@ -204,11 +131,17 @@ To help the reader understand the data in this chapter the following notes on me
 - Game making is based on remixing code from an existing incomplete game template (half-baked games & scratch community processes)
 <!-- - A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing) -->
 
+### Recap on Game Design Patterns -
 
+NOTE - A QUICK RECAP OF TOPIC FROM LIT REVIEW
+
+Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
+
+The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs. 
 
 ## Study of Vignette A
 
-To situate the results of this chapter it will start with a grounded vignette.
+To situate the emerging findings, chapter begins with vignette.
 
 // create with google docs to markdown extensions
 // current version here -
@@ -218,9 +151,7 @@ To situate the results of this chapter it will start with a grounded vignette.
 // On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca
 
 
-For the previous five minutes the parent and child dyad have face a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level.
-
-The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggest that Th asks facilitator for help to resolve the coding glitch.
+For the previous five minutes the parent and child dyad have face a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggest that Th asks facilitator for help to resolve the coding glitch.
 
 
 |**Dialogue**|**Activity**|
@@ -379,7 +310,6 @@ There are cultural elements that are transmitted through interaction with the fa
 
 The parent shows an evolution of problems solving knowledge through their independent work.
 
-
 The child shows their personal knowledge of game design patterns in end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 
@@ -430,10 +360,10 @@ The second scenario is represented by pie charts for each game element showing t
 
 CHART
 
-#### Discussion on data.
+#### Discussion on data
+<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
 
 For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
-
 This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
 
 The game elements / design patterns categories which are presented are created as a design guide rather than on exact principles.
@@ -451,17 +381,15 @@ To make a quantitative approach work better X,Y and Z would need to be in place 
 - time actively observing parent's activity
 - time discussing game features with parent -->
 
+### Describing design stages for this pair beyond this interaction
 
+<!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
+As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
-### Describing design stages for this pair
-
-<!--
-This isn't relevant if I choose not to address MakeCode in the dissertation.
-There is a different system in place here which limits observations about the cause of the progress (something to be addressed in future studies). However there is a clear difference in x, y z. -->
+<!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addressed in Methodology / Design
+ -->
 
 I coded two complete sessions of this parent child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated with the accompanying transcribed fragments of conversation and my own journal notes. The observations are presented themed by the design stages with some general observations listed at the start.
-
-<!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods). As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
 **General Observations at all stages**
 
@@ -500,13 +428,9 @@ I coded two complete sessions of this parent child pair. The following observati
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 
 
+#### Comparing the activity patterns of this family to others
 
-
-### Further observations and discussion on game making activity
-
-**Note:** I am not totally clear on the purpose of this section. Needs revisiting in terms of chapter structure.
-
-#### Comparing the activity of this family to others MOVE / REINTEGRATE?
+<!-- NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION? -->
 
 We can compare this pairs pattern of activity with other pairs / families.
 
@@ -518,21 +442,30 @@ Discussion
 
 - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
 
-The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback.
-
-When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity.
+The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity.
 
 
 ## Identifying GDP as key unit of Analysis
 
-Note: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
-A LOT - MOVE THIS?
+<!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
+A LOT - MOVE THIS? -->
+
+With reference to the above sections on a) 3 foci of activity b) design cycle stages, there are varied goals of activity systems, with wider and narrower frames.
+
+- very wide - learning computing skills and concepts as a home education project
+- very wide - participating with other home educators in a creative environment and thus building team and communication skills
+- very wide - learning transferable design skills and processes
+- wide - creating a game which is fun to play and communicate an environmental theme
+- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
+- narrow - creating, changing and transporting game assets to enact or change GDPs
+- narrow - implementing or changing code constructs to enact or change GDPs
+
+This analysis of w
+
 
 ### Relating to AT and design Theory
 
-CONTEXT PROBABLY PARTLY COVERED IN LITERATURE REVIEW:
 
-Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
 
 - Drawing on AT terminology
 - Discuss how GDP as key unit  was arrived at - draw on journal notes in planning stages
@@ -583,25 +516,25 @@ Da invites thinking outside of the constraints of the suggested design early in 
 
 An interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experience
 
-Da: Have you thought about pushing it a bit further and have a different style of game?
-Te: What do you mean?
-Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
-Te: Pause. I don’t know what to do thought.
-Da: Well quite but what other games are there?
+    Da: Have you thought about pushing it a bit further and have a different style of game?
+    Te: What do you mean?
+    Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+    Te: Pause. I don’t know what to do thought.
+    Da: Well quite but what other games are there?
 
 Te adopts with this suggestion readily once he understands Da's suggestion in full.
 
-Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
-Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
-Te: Hmm. How should I do this then?
-Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
-Te: Mick
-Mick: Hi ya.
-Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
-Da: If we had an on the top game rather than a platform game
-Mick: I think it could work. You could kind of adapt that game by, kind of, removing gravity.
-Da: and see what happens?
-Mick: and see what happens.
+    Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
+    Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+    Te: Hmm. How should I do this then?
+    Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
+    Te: Mick
+    Mick: Hi ya.
+    Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
+    Da: If we had an on the top game rather than a platform game
+    Mick: I think it could work. You could kind of adapt that game by, kind of, removing gravity.
+    Da: and see what happens?
+    Mick: and see what happens.
 
 Even saying "I was thinking can we make like a pacman game kind of thing".
 
@@ -1000,26 +933,24 @@ A tactic that could be explored further is the value of reflective practices to 
 
 Probably end with different strokes commentary. Depending on aims of the practitioner and context of the game making.
 
-
-
 ## Additional Chapter Discussion
 
 The following observations are primarily focused on implications for practitioners.
 A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
 
-### Discussion on UMC and PRIMM in relation to use of Game Design Patterns? INCLUDE OR NEXT CHAPTER? (Practitioner focus)
+### Analysis of GDP use in relation with existing research
 
-- UMC - should be covered in the Remix part of the design
-- PRIMM - stage based - more prescriptive - probably suits next chapter.
+Eriksson and friends [-@eriksson_using_2019]. have described gameplay design patterns as a lingua franca
 
-<!-- not sure how much to put in about this in LIT REVIEW  -->
-Note on PRIMM and personal knowledge.
 
-Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts.
+<!-- From Eriksson article
 
-This is an interaction which in some ways is comparable to the PRIMM model which is suggested for classroom use. However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms.
+Could move some of this to the results discussion -
+"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
+- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
+- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
+- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
 
-UMC on the other hand while being less described and open to interpretation seems to match the more informal, iterative game making of many participants.
 
 ### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
 
@@ -1031,6 +962,16 @@ For example the shortcut of a name for a pattern in Fi and Ma's interaction hide
 
 Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
 
+### Discussion - Pumping up the Jam - allowing for improvisation in design process.
+
+Example -
+Te and Da - 2019-05-08 -
+da- use paper to design
+te - I'm just going with it
+
+The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
+
+The concept of Jam is explored in rapid, improvisational events called Game Jams.
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract (Wider focus)
 
@@ -1050,16 +991,7 @@ We can see evidence of both the potential for reusable elements of knowledge and
 * Use of levels as a array which is parsed by a loop to create layout
 * Other examples.
 
-### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
-Example -
-Te and Da - 2019-05-08 -
-da- use paper to design
-te - I'm just going with it
-
-The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
-
-The concept of Jam is explored in rapid, improvisational events called Game Jams.
 
 ## Outroduction - Summary on contribution to existing research
 
@@ -1084,34 +1016,34 @@ For example, the use of CT concepts in a framework, listed as part of the initia
 
 ### 2019-05-08-te-da pt 1
 
-Da: Have you thought about pushing it a bit further and have a different style of game?
-Te: What do you mean?
-Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
-Te: Pause. I don’t know what to do thought.
-Da: Well quite but what other games are there?
-Te: I don’t know er.
-Da: Well I tell you what .. muffled.
-Te: Erm - (navigates to list of GDP for platform game)
-De: So. You played them before didn’t you (indicating grid of games )
-Te: What do you mean?
-Da: The flying game that’s a different kind of game
-Te: Oh like kind of like moving along kind of thing
-Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
-Te: nod
-Da: There are games where things drop down like Tetris
-Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
-Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
-Te: Hmm. How should I do this then?
-Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
-Te: Mick
-Mick: Hi ya.
-Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
-Da: If we had an on the top game rather than a platform game
-Mick: I think it could work. You could kind of adapt that game by kind of removing gravity.
-Da: and see what happens?
-Mick: and see what happens.
-Da: It’s not a bad starting idea is it?
-Te: I suppose make a new one (begins the process of remixing game from the template)
+    Da: Have you thought about pushing it a bit further and have a different style of game?
+    Te: What do you mean?
+    Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+    Te: Pause. I don’t know what to do thought.
+    Da: Well quite but what other games are there?
+    Te: I don’t know er.
+    Da: Well I tell you what .. muffled.
+    Te: Erm - (navigates to list of GDP for platform game)
+    De: So. You played them before didn’t you (indicating grid of games )
+    Te: What do you mean?
+    Da: The flying game that’s a different kind of game
+    Te: Oh like kind of like moving along kind of thing
+    Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
+    Te: nod
+    Da: There are games where things drop down like Tetris
+    Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
+    Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+    Te: Hmm. How should I do this then?
+    Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
+    Te: Mick
+    Mick: Hi ya.
+    Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
+    Da: If we had an on the top game rather than a platform game
+    Mick: I think it could work. You could kind of adapt that game by kind of removing gravity.
+    Da: and see what happens?
+    Mick: and see what happens.
+    Da: It’s not a bad starting idea is it?
+    Te: I suppose make a new one (begins the process of remixing game from the template)
 
 <!--
 ## Disregarded or Next Steps Data
