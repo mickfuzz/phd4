@@ -372,6 +372,10 @@ The observations above show the importance of recording the whole room. Some par
 <!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
 A LOT - MOVE THIS? -->
 
+
+Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
+
+
 With reference to the above sections on a) 3 foci of activity b) design cycle stages, there are varied goals of activity systems, with wider and narrower frames.
 
 - very wide - learning computing skills and concepts as a home education project
@@ -385,21 +389,11 @@ With reference to the above sections on a) 3 foci of activity b) design cycle st
 This analysis of w
 
 
-### Relating to AT and design Theory
-
-
 
 - Drawing on AT terminology
 - Discuss how GDP as key unit  was arrived at - draw on journal notes in planning stages
 - Relate - AT terms to those of design stages
 - Begin to comment on utility of GDP as a unit of analysis for practitioners, parents and young participants - i.e. in navigation and goal setting.
-
-
-
-## Other Findings Emerging related to Game Design Patterns
-
-Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
-
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 
@@ -415,9 +409,11 @@ We have also looked at the other studies which look at game design patterns as a
 
 In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
 
-### Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
+## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-While each of these observations do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus which will deepen the observations in the previous chapter.  
+While each of these observations do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus which will deepen the observations in the previous chapter.
+
+
  and progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
 
 ## Cultural Plane / Apprenticeship - and Game patterns
