@@ -874,7 +874,7 @@ Is there an advantage to less support in terms of setting out a pathway which pa
 
 ### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
-In many interactions we see improvisational approaches. 
+In many interactions we see improvisational approaches.
 
 Example from Te and Da - 2019-05-08 -
 
@@ -884,6 +884,8 @@ Example from Te and Da - 2019-05-08 -
 The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
 
 The concept of Jam is explored in rapid, improvisational events called Game Jams.
+
+
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract (Wider focus)
 
