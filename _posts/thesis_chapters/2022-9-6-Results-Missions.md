@@ -294,8 +294,7 @@ The design choice of a grid of letters representing different elements of the pl
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation, knowledge or processes which individuals take on and use fit within this plane. Thus the work that the parent takes on solo activity is valid,
-So too are expressions of personal knowledge when they are shared back into the community activity. 
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation, knowledge or processes which individuals take on and use fit within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here. 
 
 There are cultural elements that are transmitted through interaction with the facilitator that this parents is very quick to pick up on. For example the use of the project documentation website of which the parent was an early adopter. Also, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions.
 
