@@ -12,72 +12,73 @@ title: Finding Chapter - Missions
 
 # Headings for this Chapter
 
--   [Chapter overview](#chapter-overview)
--   [Chapter introduction](#chapter-introduction)
--   [Other Documents](#other-documents)
--   [Introduction to This Writing](#introduction-to-this-writing)
--   [Context for this writing](#context-for-this-writing)
--   [Study of Vignette A](#study-of-vignette-a)
-    -   [Descriptive Commentary on Vignette
-        A](#descriptive-commentary-on-vignette-a)
-    -   [Other Notes on use of GDP (to integrate with
-        above)](#other-notes-on-use-of-gdp-to-integrate-with-above)
--   [Representing Coded the Patterns of Activity via coded
-    data -](#representing-coded-the-patterns-of-activity-via-coded-data--)
-    -   [Describing design stages for this
-        pair](#describing-design-stages-for-this-pair)
-    -   [Further observations and discussion on game making
-        activity](#further-observations-and-discussion-on-game-making-activity)
--   [Identifying GDP as key unit of
-    Analysis](#identifying-gdp-as-key-unit-of-analysis)
-    -   [Relating to AT and design
-        Theory](#relating-to-at-and-design-theory)
--   [Other Findings Emerging related to Game Design
-    Patterns](#other-findings-emerging-related-to-game-design-patterns)
-    -   [Cultural, Interpersonal & Personal Planes Analysis of use of
-        GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
--   [Cultural Plane / Apprenticeship - and Game
-    patterns](#cultural-plane-apprenticeship---and-game-patterns)
-    -   [Use of design patterns as a form of / to facilitate
-        apprenticeship](#use-of-design-patterns-as-a-form-of-to-facilitate-apprenticeship)
-    -   [Accessing External Help](#accessing-external-help)
--   [Interpersonal Plane (Guided
-    Participation)](#interpersonal-plane-guided-participation)
-    -   [GDPs used as an organising
-        tool](#gdps-used-as-an-organising-tool)
-    -   [GDPs and division of Labour](#gdps-and-division-of-labour)
-    -   [GDP and sustaining engagement](#gdp-and-sustaining-engagement)
-    -   [GDPs to support Iterative Design
-        Practices](#gdps-to-support-iterative-design-practices)
-    -   [Interaction of GDPs with Playtesting as
-        method](#interaction-of-gdps-with-playtesting-as-method)
--   [Personal Plane](#personal-plane)
-    -   [Mutual approaches to knowledge
-        building](#mutual-approaches-to-knowledge-building)
-    -   [Game Design Patterns as a way to give language to participants
-        when sharing back to
-        Community](#game-design-patterns-as-a-way-to-give-language-to-participants-when-sharing-back-to-community)
-    -   [Game Design Patterns vs CT and more established
-        "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
--   [Additional Chapter Discussion](#additional-chapter-discussion)
-    -   [Discussion on UMC and PRIMM in relation to use of Game Design
-        Patterns? INCLUDE OR NEXT CHAPTER? (Practitioner
-        focus)](#discussion-on-umc-and-primm-in-relation-to-use-of-game-design-patterns-include-or-next-chapter-practitioner-focus)
-    -   [Discussing Game design patterns as a tool to expose and give
-        participants a language to discuss tensions (Practitioner
-        focus)](#discussing-game-design-patterns-as-a-tool-to-expose-and-give-participants-a-language-to-discuss-tensions-practitioner-focus)
-    -   [Design patterns as a "middle level" construct to open door to
-        more concrete and abstract (Wider
-        focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
-    -   [Discussion - Pumping up the Jam - allowing for improvisation in      design
-        process.](#discussion---pumping-up-the-jam---allowing-for-improvisation-in-design-process.)
--   [Outroduction - Summary on contribution to existing
-    research](#outroduction---summary-on-contribution-to-existing-research)
--   [Transition Conclusion of Chapter Paragraph - themes to explore in
-    other
-    chapters.](#transition-conclusion-of-chapter-paragraph---themes-to-explore-in-other-chapters.)
--   [Transcript Excerpts](#transcript-excerpts)
-    -   [2019-05-08-te-da pt 1](#te-da-pt-1)
+-   [Headings for this Chapter](#headings-for-this-chapter)
+-   [Results on Game Design Patterns](#results-on-game-design-patterns)
+    -   [Chapter introduction](#chapter-introduction)
+    -   [Introduction to This Writing](#introduction-to-this-writing)
+        -   [Recap on Game Design
+            Patterns -](#recap-on-game-design-patterns--)
+    -   [Study of Vignette A](#study-of-vignette-a)
+        -   [Descriptive Commentary on Vignette
+            A](#descriptive-commentary-on-vignette-a)
+    -   [Representing Coded the Patterns of Activity via coded
+        data -](#representing-coded-the-patterns-of-activity-via-coded-data--)
+        -   [Describing design stages for this pair beyond this
+            interaction](#describing-design-stages-for-this-pair-beyond-this-interaction)
+    -   [Identifying GDP as key unit of
+        Analysis](#identifying-gdp-as-key-unit-of-analysis)
+        -   [Relating to AT and design
+            Theory](#relating-to-at-and-design-theory)
+    -   [Other Findings Emerging related to Game Design
+        Patterns](#other-findings-emerging-related-to-game-design-patterns)
+        -   [Cultural, Interpersonal & Personal Planes Analysis of use
+            of
+            GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
+    -   [Cultural Plane / Apprenticeship - and Game
+        patterns](#cultural-plane-apprenticeship---and-game-patterns)
+        -   [Use of design patterns as a form of / to facilitate
+            apprenticeship](#use-of-design-patterns-as-a-form-of-to-facilitate-apprenticeship)
+        -   [Accessing External Help](#accessing-external-help)
+    -   [Interpersonal Plane (Guided
+        Participation)](#interpersonal-plane-guided-participation)
+        -   [GDPs used as an organising
+            tool](#gdps-used-as-an-organising-tool)
+        -   [GDPs and division of Labour](#gdps-and-division-of-labour)
+        -   [GDP and sustaining
+            engagement](#gdp-and-sustaining-engagement)
+        -   [GDPs to support Iterative Design
+            Practices](#gdps-to-support-iterative-design-practices)
+        -   [Interaction of GDPs with Playtesting as
+            method](#interaction-of-gdps-with-playtesting-as-method)
+    -   [Personal Plane](#personal-plane)
+        -   [Mutual approaches to knowledge
+            building](#mutual-approaches-to-knowledge-building)
+        -   [Game Design Patterns as a way to give language to
+            participants when sharing back to
+            Community](#game-design-patterns-as-a-way-to-give-language-to-participants-when-sharing-back-to-community)
+    -   [GDP as a way to explore Computational Thinking
+        Concepts](#gdp-as-a-way-to-explore-computational-thinking-concepts)
+    -   [Additional Chapter Discussion](#additional-chapter-discussion)
+        -   [Analysis of GDP use in relation with existing
+            research](#analysis-of-gdp-use-in-relation-with-existing-research)
+        -   [Discussing Game design patterns as a tool to expose and
+            give participants a language to discuss tensions
+            (Practitioner
+            focus)](#discussing-game-design-patterns-as-a-tool-to-expose-and-give-participants-a-language-to-discuss-tensions-practitioner-focus)
+        -   [Discussion - Pumping up the Jam - allowing for
+            improvisation in design
+            process.](#discussion---pumping-up-the-jam---allowing-for-improvisation-in-design-process.)
+        -   [Design patterns as a "middle level" construct to open door
+            to more concrete and abstract (Wider
+            focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
+    -   [Outroduction - Summary on contribution to existing
+        research](#outroduction---summary-on-contribution-to-existing-research)
+    -   [Transition Conclusion of Chapter Paragraph - themes to explore
+        in other
+        chapters.](#transition-conclusion-of-chapter-paragraph---themes-to-explore-in-other-chapters.)
+    -   [Transcript Excerpts](#transcript-excerpts)
+        -   [2019-05-08-te-da pt 1](#te-da-pt-1)
+
 
 
 # Results on Game Design Patterns
@@ -600,7 +601,6 @@ In contrast, the parent shares both with the child and the facilitator that they
 
 While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent.
 
-
 While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
 ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
@@ -612,8 +612,6 @@ The design which allows choice of GDPs facilitates this. The process of building
 
 ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
 Mi - Oh thank you very much. I'm very proud.
-
-
 
 
 
@@ -693,7 +691,9 @@ There is also a link made by the parent to previous working practices. Using a p
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
-#### GDPs and personal expression (cultural) - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?)
+#### GDPs and personal expression (cultural) -
+
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
 
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
 
@@ -834,80 +834,11 @@ Include excerpt? 1.05 - Looking for Th using GDP language - as well ask drawing 
 
 This is also dealt with above "GDPs propagation through peer activity"
 
-### Game Design Patterns vs CT and more established "knowledge"
+## GDP as a way to explore Computational Thinking Concepts
 
-THIS SECTION PROBABLY MOSTLY OR FULLY BELONGS IN THE NEXT CHAPTER
+Summary to come.
+See next chapter.
 
-My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
-
-- Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
-- Discuss the use of gdps as a gateway to other concepts as explored in CS in a more abstract, and more concrete direction [@eriksson_using_2019] .
-
-- Leading with GDP as a way to explore other Learning Dimensions
-<!-- Draw on discussion in https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE -->
-
-- Discussion - The use of GDPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
-- Discussion -  Rising to the concrete - as a key AT concept - how does this fit?
-- Make Code cards which contained links to game design patterns and the different component concepts
-- (see Eriksson and Bjork)
-- Draw on material and critique in chapter on semantic profiles / waves.
-
-#### On CTs and CTs emerging in the wild.
-
-As explored in a previous chapter, the 3M design leads with concrete game design patterns chosen by participants. This approach can be compared to others which lead with more abstract computational thinking concepts which are introduced and explicitly taught from first principles.
-
-However, while not explicitly taught, the CT concepts are contained within the learning dimensions of the 3M model allowing participants and especially facilitators to be aware of examples of practice allowing for development of these skills. This section explores examples of CT in action that emerge from video data of game making.  
-
-
-##### Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
-
-The design choice of leading with GDP was based on increasing the agency of participants over the pathway of their design activities. LINK TO LITERATURE ON CHOICE AND ENGAGEMENT.
-
-It is problematic to compare participants engagement with this learning design with another fictional game where they learn CT concepts first and then put them into practice. However, it is helpful to identify key characteristics of the design which run counter to a principles first approach and describe how participants experienced these elements.
-
-Elements of contrast with 3M include;
-
-- The remix element of code (explored in previous methods chapter perhaps) - which allows participants to add new features quickly. They can also see and replicate existing patterns in the  code. This could compare to many hours writing from scratch and many abstract concepts explained before getting to anything looking like a game.
-- Lack of value placed on CT as overarching knowledge. No posters, no curriculum content, no tests on concepts, no lesson objectives and end tests,
-- Code patching from existing code examples, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use.
-
-
-##### CTs emerging in the wild.
-There are several examples of CT arising in the wild without being explicitly taught.
-Here the focus is on Wing's narrower take rather than including general practices.
-
-
-#### Decomposition.
-in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps.
-It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
-
-#### Abstraction
-This concept can be concretely taught using the code structure of functions -
-
-There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
-
-#### Generalisation / Pattern recognition
-
-Present in the work of Te to find patterns and to duplicate them in different situations.
-2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
-NOTE - Ideally find another example of a child doing this.
-
-The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
-
-Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
-
-#### Sequencing / Algorithms.
-
-Sequencing and writing algorithms is one of the most common CT principles explored in research. INCLUDE CITATION.
-
-This is a relative weak point in comparison to from first principles approach.
-
-However the process of patching into different areas of the code and creating functions does address this.
-
-The following transcript of Sh's interaction with myself shows that the process of copying patterns in the template code and patching in new lines from the supporting documentation gives ample opportunity for sequencing mistakes to be made.
-The process of working with students on their existing code is valuable to explain why and how the order of lines of code and when functions are called.
-
-The comparison raises a potential discussion point on what the practical value of this CT concept is.
 
 #### Commentary / Discussion
 
