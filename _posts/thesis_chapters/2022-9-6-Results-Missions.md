@@ -247,9 +247,7 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 <!-- NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
 BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
 
-In this section a summary of the interaction observed in the above vignette is described using three foci of activity.
-
-Where appropriate I make observations on similar patterns of behaviour from outside of this vignette.
+In this section a summary of the interaction observed in the above vignette is described using three foci of activity. Where appropriate I make observations on similar patterns of behaviour from outside of this vignette.
 
 **Cultural - Apprenticeship**
 
@@ -264,10 +262,9 @@ EVIDENCE - Mi and Other Parent - "Have you seen Te's game it has 21 levels."
 
 The is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards.
 
-"It is for me!" She may be aware of the implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter. Seemingly enjoying the cheekiness of her actions. 
+"It is for me!" She may be aware of the implications for game balance but is taking pleasure in this destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter. Seemingly enjoying the cheekiness of her actions.
 
 This interaction shows the parent guiding the child to imagine the user experience. A process repeated by this parent in different ways. In the vignette for example Sh shares "Must be quite hard to get through that door."
-
 
 One interaction with the facilitator uses the debugging tool of the browser. [Move?]
 
@@ -284,6 +281,7 @@ For this pair, larger coding activities were beyond the ability of the child fro
 
 "Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
 
+The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.
 
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
@@ -295,6 +293,9 @@ For this pair, larger coding activities were beyond the ability of the child fro
 
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
+
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation, knowledge or processes which individuals take on and use fit within this plane. Thus the work that the parent takes on solo activity is valid,
+So too are expressions of personal knowledge when they are shared back into the community activity. 
 
 There are cultural elements that are transmitted through interaction with the facilitator that this parents is very quick to pick up on. For example the use of the project documentation website of which the parent was an early adopter. Also, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions.
 
