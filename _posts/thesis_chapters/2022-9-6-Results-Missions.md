@@ -911,6 +911,9 @@ In the following chapter, the potential to explore Computational Thinking is dis
 
 See journal notes and contrast with existing research with GDP, and learner choice, and levels of abstraction techniques
 
+From the literature what are complexities involving the practitioner practicalities? What does this research add to these debates?
+
+One to one instruction to explain concepts is ideal but unrealistic in classrooms. 
 
 
 ## Final Section - Synthesis
