@@ -294,7 +294,7 @@ The design choice of a grid of letters representing different elements of the pl
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation, knowledge or processes which individuals take on and use fit within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here. 
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation, knowledge or processes which individuals take on and use fit within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
 There are cultural elements that are transmitted through interaction with the facilitator that this parents is very quick to pick up on. For example the use of the project documentation website of which the parent was an early adopter. Also, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions.
 
@@ -906,6 +906,12 @@ We can see evidence of both the potential for reusable elements of knowledge and
 - Other examples of computing construct which novices use without full understanding.
 
 In the following chapter, the potential to explore Computational Thinking is discussed on more depth.
+
+### Design patterns as a teaching aid in informal vs formal environments
+
+See journal notes and contrast with existing research with GDP, and learner choice, and levels of abstraction techniques
+
+
 
 ## Final Section - Synthesis
 
