@@ -440,6 +440,9 @@ There is a utility of GDP as a unit of analysis for the researcher too...
 
 NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
 
+Each GDP can be seen as a project given an interpretation of project as....
+Partly due to regular playtesting in a peer environment.
+Other factors / Conditions. 
 
 ### Operations, Actions and Activity
 
