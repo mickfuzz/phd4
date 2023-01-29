@@ -454,9 +454,43 @@ In the (previous) chapter on inclusive methods the role of cultural activites to
 
 
 ### GDPs and playtesting to build a supportive community
-develop 
+
+GDP and playtesting interact to allow participants to support each other and build community in a diversity of ways.
+
+The inclusive methods explored in the last chapter provided means to help the development of elements of a supportive creative community.  
+For these participants, playtesting in particular provided a diversity of community-building behaviour.
+
+Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
+
+Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+- praising graphical content
+- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+
+
+
 ### GDPs and personal expression (cultural) -
-move here
+
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
+
+As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
+
+Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
+Perhaps a transcript at start of process. Ma and Fi ?
+
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
+- cultivativing a sense of ownership
+- playing around the graphic - covering it over and revealing it
+- participant self-expression and a conversational prompt to other during sharing of the game
+
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+
+Discussion on how cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+
+These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
 ### Use of design patterns as a form of / to facilitate apprenticeship
 
@@ -641,29 +675,7 @@ There is also a link made by the parent to previous working practices. Using a p
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
-### GDPs and personal expression (cultural) -
 
-<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
-
-As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
-
-Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
-Perhaps a transcript at start of process. Ma and Fi ?
-
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
-
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
-- cultivativing a sense of ownership
-- playing around the graphic - covering it over and revealing it
-- participant self-expression and a conversational prompt to other during sharing of the game
-
-This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
-
-Discussion on how cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
-
-These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
 
 ### GDPs propagation through peer activity
@@ -712,11 +724,6 @@ Note: What added insights or tips for practitioners can I bring here?
 Value of design as a process, to see surrounding world as a designed experience, Latour.
 
 
-Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
-
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
-- praising graphical content
-- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
 
 ## GDPs and the Personal Plane
@@ -737,15 +744,26 @@ In this section the processes of personal appropriation of experience and knowle
  - e.g - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
 
-### Game Design Patterns as a way to give language to participants when sharing back to Community
+### Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
 
 Example - 2019-03-18 - Sh & Th
-
 Contrast general lack of confidence with ability to share back progress and decisions using language afforded by GDPs.
-
 Include excerpt? 1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
 
 This is also dealt with above "GDPs propagation through peer activity"
+
+Find another example?
+
+However, this use of language is not universally taken advantage of. Take the following interaction between parent Mi and her daughter Ne. The mother wants to export
+
+Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
+
+The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
+
+We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
+<!-- (NOTE - OPERATION, ACTION, ACTIVITY - WHERE / IF TO DEFINE? ) -->
+The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
+
 
 ### GDP as a way to explore Computational Thinking Concepts
 
@@ -955,6 +973,23 @@ Ideas to develop:
 
 - Whereas Game Jams focus on x, 3m has a focus on y.
 - GDP and types of errors?
+
+### Weaknesses of the GDP construct
+
+The interpretation of GDP that this thesis adopts contains some weaknesses. The specificity of the term is weak in that in seeking to categorise a wide diversity of features that participants would want to add to the game to fulfil a pedagogical motivation of providing guidance and inspiration to the novice designers.
+
+The pragmatic nature of this interpretation can be contrasted to more formal definitions of say Game Mechanics related to user actions in the game [@sicart_defining_2008]. THIS CAN BE EXPANDED
+
+Let's explore the case of the area of GDP of Game Polish and Game Challenge.
+
+For example while the This is particularly  In Game Polish, these were more aesthetic and narrative choices do not fall neatly in to the argument being constructed around the creative use of GDPs. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of times especially if assets are being replaced.
+
+It is perhaps the term pattern that is problematic here. It may imply a repeatable structural element rather than an aesthetic choices.
+Other academics have given a wider name of game elements [@tekinbas_gaming_2014] or lenses [@schell_art_2008]. However from the novice designers' perspective, there are elements of patterns invovled.
+
+For example we can
+
+
 
 ### Link Paragraph
 
