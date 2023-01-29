@@ -126,6 +126,29 @@ Design patterns are most commonly used for computing students at higher educatio
 
 The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs.
 
+
+
+
+Eriksson and friends [-@eriksson_using_2019] use the second interpretations. They  have described gameplay design patterns as a lingua franca for game developers. They have also compliled a list .. CITE
+
+AND ... rewrite below quickly
+
+<!-- NOTE REMOVE THIS SECTION - THAT'S WHAT ALL OF THIS IS
+INTEGRATE
+ -->
+
+<!-- From Eriksson article
+
+Could move some of this to the results discussion -
+"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
+- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
+- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
+- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+
+
+
+
+
 ## Study of Vignette A
 
 To situate the emerging findings, chapter begins with vignette.
@@ -816,24 +839,6 @@ Implication one - When mapping the activity to a design cycle. There may not be 
 Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
 Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
-
-
-
-### Analysis of GDP use in relation with existing research
-
-Eriksson and friends [-@eriksson_using_2019]. have described gameplay design patterns as a lingua franca
-
-<!-- NOTE REMOVE THIS SECTION - THAT'S WHAT ALL OF THIS IS
-INTEGRATE
- -->
-
-<!-- From Eriksson article
-
-Could move some of this to the results discussion -
-"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
-- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
-- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
 
 
 ### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
