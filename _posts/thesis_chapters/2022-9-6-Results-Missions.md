@@ -575,11 +575,6 @@ THIS DOESN'T SEEM RIGHT
 Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress. -->
 
 
-
-
-
-
-
 ### GDPs and division of Labour
 
 Similarly, rather than direct delegation, dividing of labour can be observed.
@@ -605,8 +600,6 @@ The design which allows choice of GDPs facilitates this. The process of building
 
 ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
 Mi - Oh thank you very much. I'm very proud.
-
-
 
 
 #### Task delegation
@@ -642,7 +635,7 @@ There is also a link made by the parent to previous working practices. Using a p
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
-#### GDPs and personal expression (cultural) -
+### GDPs and personal expression (cultural) -
 
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
 
@@ -667,7 +660,7 @@ Discussion on how cultural interactions seem to be able to motivate and sustain 
 These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
 
-#### GDPs propagation through peer activity
+### GDPs propagation through peer activity
 
 The process of adding levels was something that was spread predominately through one child's work to help others to add that features. The work of the child to add 21 levels to their own game served as a way to publicise this possibility. The role of that child as an expert in that design pattern, and their willingness to share their knowledge, shifted focus away from help from myself as a facilitator, or the instruction-based support documents.
 
@@ -690,12 +683,14 @@ Small changes had big effects.
 Variable changes needed immediate testing.  
 
 
-### Interaction of GDPs with Playtesting as method
+### Interaction of GDPs and designing for others as a method
 
-Playtesting but in particular designing for others .
-What was noticeable about - this in particular?
 
-Playtesing as a regular practice is a immediate way to shift learners into a perspective designing for others.
+As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
+
+This helps a focus on change that others will observe and thus help participants to design for others.
+
+Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
 
 This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is. Regular self testing and playtesting achieve this.
 
@@ -715,7 +710,7 @@ Older participants often used this as a way of being supportive to both parents 
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
 
-## Personal Plane
+## GDPs and the Personal Plane
 
 The personal plane is explored in a following chapter (working title Maps). This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
 
@@ -743,7 +738,7 @@ Include excerpt? 1.05 - Looking for Th using GDP language - as well ask drawing 
 
 This is also dealt with above "GDPs propagation through peer activity"
 
-## GDP as a way to explore Computational Thinking Concepts
+### GDP as a way to explore Computational Thinking Concepts
 
 Summary to come.
 See next chapter.
