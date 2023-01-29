@@ -489,22 +489,47 @@ Discussion. There are pros and cons stepping outside that garden. Confusion, con
 I will recap Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
 If needed then I will explain how AT terms like division of labour are appropriate here.
 
-### GDPs used as an organising tool
 
-#### Task delegation
+### GDPs for Goal Setting and Prioritisation
 
-While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations.
+The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
-The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
+NOTE - This needs to be merged with the above - or a different take on it explored.
+
+Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
+
+    M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
+    You know, keep working through.
+    F: Yeah. I think I want to get an enemy in - oh no - my person animated.
+    M: so you want to get your person animated that’s the main thing
+    M: Shall we concentrate on that and changing the platforms into something different?
+    F: Yeah.
+    M: Yeah?
+    F: I also want to make a theme tune.
+    M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
+    F: hmmm
+    M: just cos it gets really overwhelming.
+    M: Yeah..? So…?
+    Long pause
+    M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
-|T: Go on then. Key - Door - Person.| |
-|S: Person?| |
-|T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
-Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange.
-It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
+This example shows the use of the names number of game design patterns by the child .
+While the planning discussion happens the child is concurrently testing their game.
+At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded. In addition, the child describes a feature that they want to see happen.
+
+This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
+
+Here the child may be picking activities to fit their strong suit of creating graphical and audio assets in other gui based environments. Leaving the father to piece things together in the code based progam.
+
+Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress.
+
+Discussion: The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to priortise them. Instead he appears to be keen to quickly pick one that seems manageable.
+
+GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive.
+
+Note: Such support is explored in more detail in the next chapter.
 
 ### GDPs and division of Labour
 
@@ -534,68 +559,26 @@ Mi - Oh thank you very much. I'm very proud.
 
 
 
-#### GDPs for Goal Setting and Prioritisation
 
-The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
+#### Task delegation
 
-NOTE - This needs to be merged with the above - or a different take on it explored.
+While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations.
 
-Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
-
-    M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
-    You know, keep working through.
-    F: Yeah. I think I want to get an enemy in - oh no - my person animated.
-    M: so you want to get your person animated that’s the main thing
-    M: Shall we concentrate on that and changing the platforms into something different?
-    F: Yeah.
-    M: Yeah?
-    F: I also want to make a theme tune.
-    M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
-    F: hmmm
-    M: just cos it gets really overwhelming.
-    M: Yeah..? So…?
-    Long pause
-    M: Well I’ll have a look at the code and see if I can make sense of that.
-    M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
-    You know, keep working through.
-    F: Yeah.
-     I think I want to get an enemy in - oh no - my person animated.
-    M: So you want to get your person animated that’s your main thing.
-    F: Yeah
-    M: Shall we concentrate on that and changing the platforms into something different?
-    F: Yeah.
-    M: Yeah?
-    F: I also want to make a theme tune.
-    M: Yeah it’s, that’s what I mean, you can’t just skip around like that.
-    F: hmmm
-    M: just cos it gets really overwhelming.
-    M: Yeah..? So…?
-
-    Long pause
-
-    M: Well I’ll have a look at the code and see if I can make sense of that.
+The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
+The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
 
 
-This example shows the use of the names number of game design patterns by the child .
-While the planning discussion happens the child is concurrently testing their game.
-At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded. In addition, the child describes a feature that they want to see happen.
+|T: Go on then. Key - Door - Person.| |
+|S: Person?| |
+|T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
-This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
-
-Here the child may be picking activities to fit their strong suit of creating graphical and audio assets in other gui based environments. Leaving the father to piece things together in the code based progam.
-
-Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress.
-
-Discussion: The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to priortise them. Instead he appears to be keen to quickly pick one that seems manageable.
-
-GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive.
-
-Note: Such support is explored in more detail in the next chapter.
+Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange.
+It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
 
 
 ### GDP and sustaining engagement
 
-The process of adding in a new GDP to the game was often a sustaining activity.
+The process of adding in a new GDP to the game was often a sustaining activity. The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
 Example of adding a new level in 2019-03-18-th_sh -
@@ -642,7 +625,7 @@ The process of adding levels was something that was spread predominately through
 PERHAPS ADD TRANSCRIPT EXAMPLE ?-
 
 
-### GDPs to support Iterative Design Practices
+### GDPs to support Flexible (Iterative) Design Practices
 
 Iterative agile design is a highly cultural / interpersonal process.
 
@@ -658,51 +641,9 @@ Small changes had big effects.
 Variable changes needed immediate testing.  
 
 
-#### The limits of design cycle stages
-[PERHAPS SOME OF THIS TO DISCUSSION?]
-
-When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
-Ask / Imagine, Plan, Create, Test, Improve, Share.
-
-While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
-
-When coding I quick became aware of the limits and challenges to coding to this.
-
-For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle.
-For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
-
-I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
-
-This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
-
-First - Value Faff Time.
-So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
-For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
-
-This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
-There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
-For example.....
-
-Second - Digital Jamming
-This has an example in the use of sound making software Fi & Ma -
-The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
-
-They are in an evaluation of tools which could be said to be in Planing. however this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
-
-The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-This would fit within the Imagine stage.
-Plan then Create then Imagine then Revise all in the space of a minute.
-
-Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Others exist like rhizomatic approaches.
-
-Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
-Question? How does this relate to tinkering methodology?
-What other framework would be suitable here?
-
 ### Interaction of GDPs with Playtesting as method
 
 Playtesting but in particular designing for others .
-
 What was noticeable about - this in particular?
 
 Playtesing as a regular practice is a immediate way to shift learners into a perspective designing for others.
@@ -834,10 +775,57 @@ To make a quantitative approach work better X,Y and Z would need to be in place 
 The following observations are primarily focused on implications for practitioners.
 A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
 
+
+#### The limits of design cycle stages
+[PERHAPS SOME OF THIS TO DISCUSSION?]
+
+When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
+Ask / Imagine, Plan, Create, Test, Improve, Share.
+
+While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
+
+When coding I quick became aware of the limits and challenges to coding to this.
+
+For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle.
+For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+
+I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
+
+This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
+
+First - Value Faff Time.
+So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
+For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
+
+This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
+There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
+For example.....
+
+Second - Digital Jamming
+This has an example in the use of sound making software Fi & Ma -
+The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
+
+They are in an evaluation of tools which could be said to be in Planing. however this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
+
+The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+This would fit within the Imagine stage.
+Plan then Create then Imagine then Revise all in the space of a minute.
+
+Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Others exist like rhizomatic approaches.
+
+Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
+Question? How does this relate to tinkering methodology?
+What other framework would be suitable here?
+
+
+
 ### Analysis of GDP use in relation with existing research
 
 Eriksson and friends [-@eriksson_using_2019]. have described gameplay design patterns as a lingua franca
 
+<!-- NOTE REMOVE THIS SECTION - THAT'S WHAT ALL OF THIS IS
+INTEGRATE
+ -->
 
 <!-- From Eriksson article
 
@@ -913,7 +901,7 @@ See journal notes and contrast with existing research with GDP, and learner choi
 
 From the literature what are complexities involving the practitioner practicalities? What does this research add to these debates?
 
-One to one instruction to explain concepts is ideal but unrealistic in classrooms. 
+One to one instruction to explain concepts is ideal but unrealistic in classrooms.
 
 
 ## Final Section - Synthesis
