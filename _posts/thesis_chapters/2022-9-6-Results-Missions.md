@@ -526,7 +526,7 @@ Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ
     M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
     You know, keep working through.
     F: Yeah. I think I want to get an enemy in - oh no - my person animated.
-    M: so you want to get your person animated that’s the main thing
+    M: So you want to get your person animated that’s the main thing.
     M: Shall we concentrate on that and changing the platforms into something different?
     F: Yeah.
     M: Yeah?
@@ -539,22 +539,46 @@ Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ
     M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
+This example shows the use of the names number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune.
 
-This example shows the use of the names number of game design patterns by the child .
+Here the overall patterns are referred to briefly using short cut names.
+
 While the planning discussion happens the child is concurrently testing their game.
-At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded. In addition, the child describes a feature that they want to see happen.
+At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded.
 
 This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
 
-Here the child may be picking activities to fit their strong suit of creating graphical and audio assets in other gui based environments. Leaving the father to piece things together in the code based progam.
-
-Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress.
+NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research.
 
 Discussion: The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to priortise them. Instead he appears to be keen to quickly pick one that seems manageable.
+
+
+Father describes the childs' behaviour as jumping all over the place, but reviewing video data shows a more complex picture.
+
+INSERT ANOTHER EXAMPLE FROM SESSION - STARTING TO CHANGE TO DIVISION OF LABOUR
+
+Here, after a blockage, the child suggests continuing with activities to fit their existing skill set of creating assets in non-code / GUI environments, both with the familiar graphical asset tool Piskel and exploring new territory by researching an seeking a new tool for creating audio assets, specifically a background theme tune . The child appears to make a tactical decision allowing the father to piece things together in the code based program.
+
+While the father seems keen to prioritise and then complete one pattern, the child takes a more piecemeal approach.
+
+In this session the father then gets drawn into creating audio assets after observing his son searching for suitable tools.
+It is he that is distracted from his stated task rather than the child.
+
+The aspect of division on labour is explored on more depth in the following section.
 
 GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive.
 
 Note: Such support is explored in more detail in the next chapter.
+
+<!--
+THIS DOESN'T SEEM RIGHT
+Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress. -->
+
+
+
+
+
+
 
 ### GDPs and division of Labour
 
@@ -857,7 +881,7 @@ Is there an advantage to less support in terms of setting out a pathway which pa
 
 NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
 
-NOTE - Compare to format of existing resources which are more linear in format. 
+NOTE - Compare to format of existing resources which are more linear in format.
 
 ### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
