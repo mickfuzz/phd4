@@ -401,7 +401,6 @@ A LOT - MOVE THIS? -->
 
 Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
 
-
 With reference to the above sections on a) 3 foci of activity b) design cycle stages, there are varied goals of activity systems, with wider and narrower frames.
 
 - very wide - learning computing skills and concepts as a home education project
@@ -412,24 +411,40 @@ With reference to the above sections on a) 3 foci of activity b) design cycle st
 - narrow - creating, changing and transporting game assets to enact or change GDPs
 - narrow - implementing or changing code constructs to enact or change GDPs
 
-This analysis of w
+### Commentary using AT terminology
 
-
-
-- Drawing on AT terminology
-- Discuss how GDP as key unit  was arrived at - draw on journal notes in planning stages
-- Relate - AT terms to those of design stages
-- Begin to comment on utility of GDP as a unit of analysis for practitioners, parents and young participants - i.e. in navigation and goal setting.
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
+NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY
 
-Discussion points
+Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis.
 
-- How the GDP are sub activities goals in AT terminology.
-- Thu, the game pattern goal rather than the overall making of a game, took up the majority of their focus.
-- In playtesting with others the wider focus of making an engaging game comes into focus.
-- The difference in goals in terminology
-- How this unit allows a more detailed focus on some of the tensions involved in tool use
+While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as the key
+
+Two key reasons emerged from practice and analysis. Firstly, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus.
+
+This can be evidenced in the following;
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
+
+Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND???
+
+There is a utility of GDP as a unit of analysis for the researcher too...
+
+- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
+- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
+- This research with a practitioner focus, looks to identify emerging barriers to coprehensio, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broad socilogical observations)
+
+NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
+
+
+### Operations, Actions and Activity
+
+
+How this unit allows a more detailed focus on some of the tensions involved in tool use
 
 We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.
 
@@ -724,8 +739,6 @@ Note: What added insights or tips for practitioners can I bring here?
 Value of design as a process, to see surrounding world as a designed experience, Latour.
 
 
-
-
 ## GDPs and the Personal Plane
 
 The personal plane is explored in a following chapter (working title Maps). This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
@@ -761,14 +774,19 @@ Ne appears reluctant to help at first and when she does she is mostly non-verbal
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
 
 We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
-<!-- (NOTE - OPERATION, ACTION, ACTIVITY - WHERE / IF TO DEFINE? ) -->
+<!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
 
 
 ### GDP as a way to explore Computational Thinking Concepts
 
 Summary to come.
-See next chapter.
+Introduce concrete and abstract.
+
+Open discussion to complete in the next chapter. See outline here - > insert link.
+https://mickfuzz.github.io/phd4/chapter/2022/09/07/Results-Maps.html
+
+
 
 
 ## Representing Coded the Patterns of Activity via coded data

@@ -17,7 +17,6 @@ A start here of mapping in a Matrix that could be included in a concluding chapt
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
 
-# Mapping the Learning
 
 ## Introduction
 
