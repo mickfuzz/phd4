@@ -857,6 +857,7 @@ Is there an advantage to less support in terms of setting out a pathway which pa
 
 NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
 
+NOTE - Compare to format of existing resources which are more linear in format. 
 
 ### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
