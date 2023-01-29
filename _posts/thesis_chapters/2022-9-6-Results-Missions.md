@@ -452,6 +452,12 @@ In the (previous) chapter on inclusive methods the role of cultural activites to
 - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
 
 
+
+### GDPs and playtesting to build a supportive community
+develop 
+### GDPs and personal expression (cultural) -
+move here
+
 ### Use of design patterns as a form of / to facilitate apprenticeship
 
 In 2019-05-08 Da and Te are working closely as a pair.
@@ -702,6 +708,9 @@ Pull on examples of learners imagining the experience of others.
 
 Discussion - Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
+
+Value of design as a process, to see surrounding world as a designed experience, Latour.
+
 
 Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
 
