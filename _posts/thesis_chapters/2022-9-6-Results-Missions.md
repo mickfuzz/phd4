@@ -133,6 +133,8 @@ Eriksson and friends [-@eriksson_using_2019] use the second interpretations. The
 
 AND ... rewrite below quickly
 
+NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
+
 <!-- NOTE REMOVE THIS SECTION - THAT'S WHAT ALL OF THIS IS
 INTEGRATE
  -->
@@ -850,6 +852,11 @@ However, also look at potential short comings of short cuts - hiding more comple
 For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
 
 Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
+
+
+
+NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
+
 
 ### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
