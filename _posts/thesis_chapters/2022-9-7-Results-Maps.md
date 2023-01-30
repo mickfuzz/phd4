@@ -126,6 +126,22 @@ While this is an informal way of using maps the are other approaches that are mo
 _Map of Learning Dimensions of the 3M Game Making Approach_
  -->
 
+### Limits to this map
+
+This map was designed to link with particular conceptions of learning whilst still retaining a sense of the uniqueness of the affordances of this design. The settings are, CT in school curriculums, systems thinking, design approaches. These align broadly with a STEM approach. The rationale behind this is that Game Making commonly aligns with these curriculum areas and they are particularly suited to explore via iterative game making.
+NOTE - EXPLAIN WHERE THAT IS EXPLORED IN MORE DETAIL.
+
+However, there are a broad range of other skills and literacies also relevant with evidence emerging in video data.
+
+My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme. This programme introduced a broad set of competencies name Web Literacies [@noauthor_learning/webliteracystandard/legacy/webliteracieswhitepaper_nodate] [@mozilla_foundation_webmaker_2014].
+
+- digital literacy - broad overview
+- web literacy - narrower
+- webmaker - and more specific affordances of key web based coding and exploring tools
+
+<!-- NOTE EXPAND IF USEFUL -->
+
+
 ## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
 
 ### Addition of a Game Challenge section
