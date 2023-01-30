@@ -393,11 +393,10 @@ Discussion
 The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity.
 
 
-## Identifying GDP as key unit of Analysis
+## Identifying the implementation of GDP as a key unit of Analysis
 
 <!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
 A LOT - MOVE THIS? -->
-
 
 Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
 
@@ -411,7 +410,7 @@ With reference to the above sections on a) 3 foci of activity b) design cycle st
 - narrow - creating, changing and transporting game assets to enact or change GDPs
 - narrow - implementing or changing code constructs to enact or change GDPs
 
-### Commentary using AT terminology
+
 
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
@@ -442,7 +441,11 @@ NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
 
 Each GDP can be seen as a project given an interpretation of project as....
 Partly due to regular playtesting in a peer environment.
-Other factors / Conditions. 
+Other factors / Conditions.
+
+### Commentary on use of GDP using AT terminology
+
+look at specifics of interaction using AT terms
 
 ### Operations, Actions and Activity
 
