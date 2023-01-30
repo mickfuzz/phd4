@@ -559,7 +559,17 @@ This process of active guiding but suggesting and fishing for the right answer i
 TRANSITION - Te and Da - have a very typical guided apprenticeship
 
 
-### Accessing External Help
+### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children
+
+Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. 
 
 Te and Da - Accessing documentation Phaser
 
