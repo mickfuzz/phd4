@@ -921,10 +921,6 @@ I have been pragmatic and map elements like this these loosely. Where appropriat
 
 This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
 
-
-
-
-
 #### Value Faff Time.
 So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
 For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
