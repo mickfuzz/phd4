@@ -569,7 +569,7 @@ In the emerging community there was a variety of help available including;
 - Student Helper attention and help
 - Peer support from parents and children
 
-Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. 
+Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
 
 Te and Da - Accessing documentation Phaser
 
@@ -726,10 +726,14 @@ Perhaps in the field of participatory design.
 
 Highlight how the granular and relatable nature of GDP
 
-Well suited to build a repeated design practice.
-Especially with starting documents,
-Small changes had big effects.
-Variable changes needed immediate testing.  
+FIND TRANSCRIPT / NOTES OF A PLANNING PAIR TO ILLUSTRATE THE FOLLOWING.
+
+- Well suited to build a repeated design practice.
+- Especially with starting documents,
+- Small changes had big effects.
+- Variable changes needed immediate testing.  
+
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way. A later discussion section in this chapter illustrates a more complex interaction with design stages. 
 
 
 ### Interaction of GDPs and designing for others as a method
