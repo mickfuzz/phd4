@@ -139,9 +139,12 @@ My own work in this area has been informed by work developing teaching materials
 - web literacy - narrower
 - webmaker - and more specific affordances of key web based coding and exploring tools
 
-<!-- NOTE EXPAND IF USEFUL -->
 
-Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments. 
+<!-- NOTE EXPAND IF USEFUL -->
+Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments.
+
+NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers. 
+
 
 ## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
 
