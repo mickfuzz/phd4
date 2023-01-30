@@ -569,7 +569,11 @@ In the emerging community there was a variety of help available including;
 - Student Helper attention and help
 - Peer support from parents and children
 
+#### Tactical use of in-session support time
+
 Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+#### Accessing online, professional/community documentation
 
 Te and Da - Accessing documentation Phaser
 
@@ -578,7 +582,22 @@ The process of modelling the specific practices of accessing developer documents
 Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
 
 Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
+
+#### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
 
 ## Interpersonal Plane (Guided Participation)
 
@@ -733,7 +752,7 @@ FIND TRANSCRIPT / NOTES OF A PLANNING PAIR TO ILLUSTRATE THE FOLLOWING.
 - Small changes had big effects.
 - Variable changes needed immediate testing.  
 
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way. A later discussion section in this chapter illustrates a more complex interaction with design stages. 
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way. A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
 ### Interaction of GDPs and designing for others as a method
@@ -902,7 +921,11 @@ I have been pragmatic and map elements like this these loosely. Where appropriat
 
 This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
 
-First - Value Faff Time.
+
+
+
+
+#### Value Faff Time.
 So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
 For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
 
@@ -910,7 +933,15 @@ This is something that I do not have a precise name for. I call it digital laund
 There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
 For example.....
 
-Second - Digital Jamming
+#### Improving is Creating and Planning when remixing
+
+For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
+
+CASE - One parent did extensive design and then altered the variables at the end. Mi -
+
+<!-- Exerpt Mi - 2019-03-08 - 52 mins -->
+
+#### Digital Jamming
 This has an example in the use of sound making software Fi & Ma -
 The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
 
