@@ -98,11 +98,12 @@ Choices
 - perhaps a feedback session?
 - Something about drawing on home interests.
 - an example of playtesting?
-- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.  
+- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.
+- Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. 
 
-Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
+<!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
-Here we are looking at something cultural??
+Here we are looking at something cultural?? -->
 
 
 ## Extract/s from Interview
