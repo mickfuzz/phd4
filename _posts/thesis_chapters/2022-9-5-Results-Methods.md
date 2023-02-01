@@ -17,6 +17,7 @@ title: Results Methods
 - Scenarios
 - Playtesting
 - Player and Maker Types
+- Finally - Creating a walled garden for GDP - an overview from a cultural, community perspective?
 
 
 ## Culturally Inclusive Methods to Kick Start Game Making Communities
@@ -41,7 +42,6 @@ RETURN TO THIS LATER. JUST ADD PLACEHOLDER CONTENT HERE NOW.
 Based on Specific Interventions/ Design Choices and responses
 
 <!-- NOTE - PULL FROM ALL SOURCES HERE - JOURNAL, VIDEO, INTERVIEWS -->
-
 
 ### Tools
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
@@ -98,6 +98,7 @@ Choices
 - perhaps a feedback session?
 - Something about drawing on home interests.
 - an example of playtesting?
+- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.  
 
 Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.

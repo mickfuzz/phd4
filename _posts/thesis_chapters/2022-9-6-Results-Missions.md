@@ -127,8 +127,6 @@ Design patterns are most commonly used for computing students at higher educatio
 The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs.
 
 
-
-
 Eriksson and friends [-@eriksson_using_2019] use the second interpretations. They  have described gameplay design patterns as a lingua franca for game developers. They have also compliled a list .. CITE
 
 AND ... rewrite below quickly
@@ -560,6 +558,12 @@ TRANSITION - Te and Da - have a very typical guided apprenticeship
 
 
 ### Accessing Help and Documentation
+
+<!-- NOTE - This may be moved to previous chapter on Methods
+
+Especially as this allows the use of a vignette which is mostly extended tool use / design
+from Mi on 2019-3-18
+ -->
 
 In the emerging community there was a variety of help available including;
 
