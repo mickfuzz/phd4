@@ -378,6 +378,8 @@ I coded two complete sessions of this parent child pair. The following observati
 
 <!-- NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION? -->
 
+<!-- NOTE - This more general observation may be part of the previous chapter -->
+
 We can compare this pairs pattern of activity with other pairs / families.
 
 - The parent here is much more commonly rooted to the computer than other parents.
@@ -396,9 +398,7 @@ The observations above show the importance of recording the whole room. Some par
 <!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
 A LOT - MOVE THIS? -->
 
-Previously we have explored the concept of activity as a primary unit for analysis. In particular the utility of this approach to research community activity (Cite Blunden). In this section I will explore how game design patterns became the primary unit of activity for participants.
-
-With reference to the above sections on a) 3 foci of activity b) design cycle stages, there are varied goals of activity systems, with wider and narrower frames.
+Taking a broad view of the activity and goals of participant and myself, we can identify with wider and narrower frames including:
 
 - very wide - learning computing skills and concepts as a home education project
 - very wide - participating with other home educators in a creative environment and thus building team and communication skills
@@ -409,16 +409,18 @@ With reference to the above sections on a) 3 foci of activity b) design cycle st
 - narrow - implementing or changing code constructs to enact or change GDPs
 
 
+In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept.
+This section analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
+ <!-- I argue that this activity and dependant actions became the primary unit of activity for participants. -->
 
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
-NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY
 
-Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis.
+<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
 
-While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as the key
+NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS)
 
-Two key reasons emerged from practice and analysis. Firstly, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus.
+In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter. Two key justifications emerged from practice and analysis. Firstly, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus.
 
 This can be evidenced in the following;
 - the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
@@ -429,7 +431,7 @@ This can be evidenced in the following;
 
 Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND???
 
-There is a utility of GDP as a unit of analysis for the researcher too...
+Thus it makes sense to user GDP implementation as a unit of analysis for the researcher due to the following reasons:
 
 - There is a practicality in terms of defining possible boundaries of what to analyse in depth.
 - There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
@@ -458,19 +460,17 @@ In the following sections, I draw on observations of participants in practice to
 
 While each of these observations do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus which will deepen the observations in the previous chapter.
 
-
- and progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
+I then progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
 
 ## Cultural Plane / Apprenticeship - and Game patterns
 
 In the (previous) chapter on inclusive methods the role of cultural activites to engage and sustain engagement were examined. This chapter allows us to examine the role of game design patterns through a cultural lens.
-
+ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS.
+This section continues these streams of analysis and will deepen them by focusing on the use of GDP in particular.
 
 - Design patterns imagined used in other contexts as a form of apprenticeship
 - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
-
-
 
 ### GDPs and playtesting to build a supportive community
 
@@ -557,51 +557,13 @@ This process of active guiding but suggesting and fishing for the right answer i
 TRANSITION - Te and Da - have a very typical guided apprenticeship
 
 
-### Accessing Help and Documentation
+### Use of Help and Documentation related to GDP
 
-<!-- NOTE - This may be moved to previous chapter on Methods
+<!-- NOTE - Keep only the parts specifically on GDP
 
-Especially as this allows the use of a vignette which is mostly extended tool use / design
-from Mi on 2019-3-18
  -->
 
-In the emerging community there was a variety of help available including;
-
-- Written documentation from the learning design via step by step tutorials
-- A series of code examples in working code playgrounds
-- Facilitator help through asking for help
-- Student Helper attention and help
-- Peer support from parents and children
-
-#### Tactical use of in-session support time
-
-Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
-
-#### Accessing online, professional/community documentation
-
-Te and Da - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
-
-
-#### Tactics in accessing help from peers and facilitators
-
-A common teacher tactic is ask three then me.
-
-The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
-Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
-
-in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
-- Student helper to get online,
-- Peer parent about use of piskel, and then her son
-- Ne daughter
-- Mick overall facilitator
+This was explored in the last chapter but more specific use of GDP related help and documentation are explored in this section.
 
 ## Interpersonal Plane (Guided Participation)
 

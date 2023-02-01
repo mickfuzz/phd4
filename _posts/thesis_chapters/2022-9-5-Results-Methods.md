@@ -210,15 +210,31 @@ Towards the end of phase 1 I began to create code examples to illustrate of how 
  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
 
-#### Examples
+
+#### Syntax and Program errors vs No Behaviour
+
+Find examples.
+
+Sh & Th for example gets so frustrated that keeps moving on to create compound errors.
+One no behaviour bug can be worked around but a syntax bug stops everything.
+
+
+#### Glitch Examples
 
 Short examples of different types and the affect implications.
+
+Glitch errors can be productive.
+
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in **
 
 - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
 
  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
 
-#### Discussion.
+#### Discussion on Errors
 
 Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
@@ -226,10 +242,9 @@ Question - do more useful / less de-motivating errors result from remixing and g
 
 Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
 
-### Notes on supporting evidence from Data
+Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
-
-## Community Aspects of the Learning DESIGN
+## Community Aspects of the 3M design
 
 When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
 
@@ -242,9 +257,49 @@ A bullet point summary follows
 
 This often facilitates talk aloud of design decisions and justifications.
 
-### Sources of help
 
-See Mi as example - develop here or somewhere else?
+
+
+### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children
+
+#### Tactical use of in-session support time
+
+Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+#### Accessing online, professional/community documentation
+
+Te and Da - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+
+
+#### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
+
 
 
 
