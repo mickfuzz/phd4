@@ -10,6 +10,15 @@ categories: chapter
 title: Results Methods
 ---
 
+## Overview in points
+
+- Playing game and ongoing play-testing
+- Remixing - impact, examples
+- Scenarios
+- Playtesting
+- Player and Maker Types
+
+
 ## Culturally Inclusive Methods to Kick Start Game Making Communities
 
 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
@@ -18,6 +27,7 @@ Thus not dealing with the primary unit of activity yet, giving the cultural cont
 
 ### Overview of contents of chapter
 
+Theme of the chapter - Inclusion and/or Agency.
 
 NOTE - Also when to put data about TOOLS in this chapter or that of the design chapter. As interlinked.
 Perhaps data in design chapter when it is based on journal notes and personal / literature based decisions.
