@@ -35,9 +35,13 @@ And observations in this chapter when can be based up by observable behaviour.
 
 RESPONSES TO DESIGN & INTERVENTIONS
 
-NOTE - THIS IS HARD TO WRITE UNTIL THE DESIGN CHAPTER HAS BEEN COMPLETED - RETURN TO THIS LATER.
+NOTE - THIS IS HARD TO COMPLETE UNTIL THE DESIGN CHAPTER HAS BEEN COMPLETED -
+RETURN TO THIS LATER. JUST ADD PLACEHOLDER CONTENT HERE NOW.
 
-Based on Specific Interventions/ Design Choices and responses (if not previous activity)
+Based on Specific Interventions/ Design Choices and responses
+
+<!-- NOTE - PULL FROM ALL SOURCES HERE - JOURNAL, VIDEO, INTERVIEWS -->
+
 
 ### Tools
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
@@ -73,8 +77,6 @@ Organic Responses emerging naturally from community
  - Fund of Knowledge that
        - Home cultures and interests guiding subject matter for sub missions and character / scenario choice.
 
-
-
 NOTE  - THE DISCUSSION HERE ON FUNDS - NEEDS TO BE CLEAR HOW TO SEPARATE OUT FROM GDPS in the next chapter
 
 ####  Notes on Discussion
@@ -88,13 +90,14 @@ Relevant theory / studies.
 
 This section uses AT's focus on rules / norms and interactions with other activity systems at home.
 
-
 ## Vignette to start chapter - something Cultural
 
 Choices
 
 - Something about aliens / feedback? Sub- Missions?
+- perhaps a feedback session?
 - Something about drawing on home interests.
+- an example of playtesting?
 
 Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
