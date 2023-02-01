@@ -99,7 +99,7 @@ Choices
 - Something about drawing on home interests.
 - an example of playtesting?
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.
-- Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. 
+- Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative.
 
 <!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
@@ -154,7 +154,7 @@ I use to increase learner engagement in game making is the concept of using a fi
 
 <!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
 
-### Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+## Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
 
 Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
 
@@ -227,6 +227,26 @@ Question - do more useful / less de-motivating errors result from remixing and g
 Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
 
 ### Notes on supporting evidence from Data
+
+
+## Community Aspects of the Learning DESIGN
+
+When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
+
+A bullet point summary follows
+
+- helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
+- getting help from all sources possible
+
+### Circulation of peers and helpers & playtesting
+
+This often facilitates talk aloud of design decisions and justifications.
+
+### Sources of help
+
+See Mi as example - develop here or somewhere else?
+
+
 
 #### Division of Labour - code patching and experimentation
 
