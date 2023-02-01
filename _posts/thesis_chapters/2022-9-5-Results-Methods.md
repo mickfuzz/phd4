@@ -257,9 +257,6 @@ A bullet point summary follows
 
 This often facilitates talk aloud of design decisions and justifications.
 
-
-
-
 ### Accessing Help and Documentation
 
 In the emerging community there was a variety of help available including;
@@ -299,8 +296,6 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Peer parent about use of piskel, and then her son
 - Ne daughter
 - Mick overall facilitator
-
-
 
 
 #### Division of Labour - code patching and experimentation
