@@ -10,74 +10,6 @@ categories: chapter
 title: Finding Chapter - Missions
 ---
 
--   [Chapter introduction](#chapter-introduction)
--   [Introduction to This Writing](#introduction-to-this-writing)
-    -   [Recap on Game Design
-        Patterns -](#recap-on-game-design-patterns--)
--   [Study of Vignette A](#study-of-vignette-a)
-    -   [Descriptive Commentary on Vignette
-        A](#descriptive-commentary-on-vignette-a)
-    -   [Describing design stages for this pair beyond this
-        interaction](#describing-design-stages-for-this-pair-beyond-this-interaction)
--   [Identifying the implementation of GDP as a key unit of
-    Analysis](#identifying-the-implementation-of-gdp-as-a-key-unit-of-analysis)
-    -   [Commentary on use of GDP using AT
-        terminology](#commentary-on-use-of-gdp-using-at-terminology)
-    -   [Operations, Actions and
-        Activity](#operations-actions-and-activity)
--   [Cultural, Interpersonal & Personal Planes Analysis of use of
-    GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
--   [Cultural Plane / Apprenticeship - and Game
-    patterns](#cultural-plane-apprenticeship---and-game-patterns)
-    -   [GDPs and playtesting to build a supportive
-        community](#gdps-and-playtesting-to-build-a-supportive-community)
-    -   [GDPs and personal expression
-        (cultural) -](#gdps-and-personal-expression-cultural--)
-    -   [Use of design patterns as a form of / to facilitate
-        apprenticeship](#use-of-design-patterns-as-a-form-of-to-facilitate-apprenticeship)
-    -   [Use of Help and Documentation related to
-        GDP](#use-of-help-and-documentation-related-to-gdp)
--   [Interpersonal Plane (Guided
-    Participation)](#interpersonal-plane-guided-participation)
-    -   [GDPs for Goal Setting and
-        Prioritisation](#gdps-for-goal-setting-and-prioritisation)
-    -   [GDPs and division of Labour](#gdps-and-division-of-labour)
-    -   [GDP and sustaining engagement](#gdp-and-sustaining-engagement)
-    -   [GDPs propagation through peer
-        activity](#gdps-propagation-through-peer-activity)
-    -   [GDPs to support Flexible (Iterative) Design
-        Practices](#gdps-to-support-flexible-iterative-design-practices)
-    -   [Interaction of GDPs and designing for others as a
-        method](#interaction-of-gdps-and-designing-for-others-as-a-method)
--   [GDPs and the Personal Plane](#gdps-and-the-personal-plane)
-    -   [Mutual approaches to knowledge
-        building](#mutual-approaches-to-knowledge-building)
-    -   [Game Design Patterns as a way to give language to participants
-        when sharing back to Community (or
-        not)](#game-design-patterns-as-a-way-to-give-language-to-participants-when-sharing-back-to-community-or-not)
-    -   [GDP as a way to explore Computational Thinking
-        Concepts](#gdp-as-a-way-to-explore-computational-thinking-concepts)
--   [Representing Coded the Patterns of Activity via coded
-    data](#representing-coded-the-patterns-of-activity-via-coded-data)
--   [Additional Chapter Discussion](#additional-chapter-discussion)
-    -   [Discussing Game design patterns as a tool to expose and give
-        participants a language to discuss tensions (Practitioner
-        focus)](#discussing-game-design-patterns-as-a-tool-to-expose-and-give-participants-a-language-to-discuss-tensions-practitioner-focus)
-    -   [Discussion - Pumping up the Jam - allowing for improvisation in
-        design
-        process.](#discussion---pumping-up-the-jam---allowing-for-improvisation-in-design-process.)
-    -   [Design patterns as a "middle level" construct to open door to
-        more concrete and abstract (Wider
-        focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
-    -   [Design patterns as a teaching aid in informal vs formal
-        environments](#design-patterns-as-a-teaching-aid-in-informal-vs-formal-environments)
--   [Final Section - Synthesis](#final-section---synthesis)
-    -   [Weaknesses of the GDP
-        construct](#weaknesses-of-the-gdp-construct)
-    -   [Link Paragraph](#link-paragraph)
--   [Transcript Excerpts](#transcript-excerpts)
-    -   [2019-05-08-te-da pt 1](#te-da-pt-1)
-
 
 ## Chapter introduction
 
@@ -88,19 +20,13 @@ The purpose of this chapter is to explore how the data gathered informs thinking
 - How can game design patterns support the development of coding practices by novices?
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
-The working definition of GDPs is explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
-
-This chapter continues with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data.
+The working definition of game design patterns (GDPs) is explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice. This chapter continues with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
 
 <!-- DROP The activity of the focal pair is then compared to activity of other groupings and individuals. -->
-The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
-
 
 <!-- The predominant analytical lens used in the chapter is that of interpersonal activity, specifically in the form of guided participation in this game making community .  -->
 
-
 <!-- ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH -->
-
 <!-- ## Other Documents -->
 
 <!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
@@ -134,28 +60,16 @@ NOTE - A QUICK RECAP OF TERMS FROM LIT REVIEW
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
 
-The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs.
+The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs. Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation rephrasing slightly as gameplay design patterns, thus placing emphasis on the exposure to the user via playing the game. They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. Their research builds on related research which complied a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
 
-
-Eriksson and friends [-@eriksson_using_2019] use the second interpretations. They  have described gameplay design patterns as a lingua franca for game developers. They have also compliled a list .. CITE
-
-AND ... rewrite below quickly
-
-NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
-
-<!-- NOTE REMOVE THIS SECTION - THAT'S WHAT ALL OF THIS IS
-INTEGRATE
- -->
-
-<!-- From Eriksson article
+<!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
+<!-- From Eriksson article - explore in more depth in Lit Review..
 
 Could move some of this to the results discussion -
 "- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
 - Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
 - Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
 - Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
-
-
 
 
 
@@ -1032,97 +946,123 @@ The tools, process and the community encourage a jam / improvisational approach.
 
 The concept of Jam is explored in rapid, improvisational events called Game Jams.
 
-### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
+### Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)
 
-IS TENSIONS THE RIGHT WORD HERE?
+#### Use of GDP as communication short cuts
 
-Synthesise examples which highlight the value of developing share language and short cuts. Draw from the above examples.
+This section;
 
-However, also look at potential short comings of short cuts - hiding more complex patterns within the name. When short cuts or misapprehensions prove less useful.
+- synthesises examples which highlight the value of developing share language and short cuts
+- explores possible drawbacks
+- looks at restricted
+
+Examples of short cuts include, "get an enemy in", animate player from Fi and Ma's exerpts.
+
+The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
+
+However, there are challenges of the use of such short cuts including;
+- hiding more complex patterns within the name.
+- confusion over use of terms to new comers
 
 For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
 
-Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
+#### Use of restricted set of collated GDP patterns
 
-NOTE - GIVE EXAMPLE OF PACMAN - IT'S LANGUAGE BUT NOT TENSIONS
+This section;
 
-NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
+- outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
+- compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable - but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
 
-NOTE - Compare to format of existing resources which are more linear in format.
+<!-- Or is the process of working on a sprawling problem which seems unmanagable,
+but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
+Example materials / examples include;
 
+- Te and Da's decision to explore a different starting point and add uncharded GDPs like following enemies.
+- The reduced list of GDPs in a framework in Eriksson's intervention [-@eriksson_using_2019], to suit a younger audience / restricted time frame
+- One to one instruction to explain concepts and allow freedom of choice is ideal but unrealistic in classrooms.
 
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract (Wider focus)
 
 <!-- NOTE THIS STRAYS IN TO CT - FIND THE DIVIDING LINE -->
 
-In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a prescriptive approach to Computational Thinking. We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  
+In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a prescriptive approach to Computational Thinking. We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
-In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+THE FOLLOWING NEEDS RESTRUCTURING AND DISCUSSION
 
-In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
-Find proffessional source here or before.
+In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
-See notes here
-https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit
+To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
+<!-- See notes here
+https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
 
-There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice.
+In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques [@dearden_pattern_2006]. The idea of middle level construct is also present in the research of eriksson and colleagues using GDP to collaboratively design games with young people. [-@eriksson_using_2019]
 
-They also include a more abstract / and thus repeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
+The concept of levels abstraction can also be applied to our analysis of the game making practices with AT concepts.
+ - most abstract - Activity - making an engaging game
+ - most abstract - Action  - choosing a GDP
+ - most concrete - Operation - enacting in code
 
-The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
-
-Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
+The observations of this chapter show the advantages of GDP as a tangible, middle level unit of activity to help not only the creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
 
 In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
 
-We can see evidence of both the potential for reusable elements of knowledge and practice involving practice in the following ways;
+Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
+
+Specifically in examining the concrete implementation of GDPs there are transferrable concepts and practice involving practice which include;
 
 - Use of levels as a array which is parsed by a loop to create layout
+- Logic statements of varied degrees of complexity
 - Functions - code patching into the right area
-- Complicated if statements
-- Other examples of computing construct which novices use without full understanding.
 
-In the following chapter, the potential to explore Computational Thinking is discussed on more depth.
+<!--
+GDP, CT & Transfer
+The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
+Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
+ -->
 
-### Design patterns as a teaching aid in informal vs formal environments
-
-See journal notes and contrast with existing research with GDP, and learner choice, and levels of abstraction techniques
-
-From the literature what are complexities involving the practitioner practicalities? What does this research add to these debates?
-
-One to one instruction to explain concepts is ideal but unrealistic in classrooms.
 
 
 ## Final Section - Synthesis
 
 Summary on contribution to existing research
-
 Bring more synthesis here especially in translation of design elements due to this context
 
-Ideas to develop:
 
+
+
+### Strengths and Weaknesses of the GDP construct / terminology
+
+The interpretation of GDP that this thesis adopts contains some weaknesses. The specificity of the term is weak in that in seeking to categorise a wide diversity of features that participants would want to add to the game to fulfil a pedagogical motivation of providing guidance and inspiration to the novice designers. The pragmatic nature of this interpretation can be contrasted to more formal definitions of say Game Mechanics related to user actions in the game [@sicart_defining_2008].
+
+<!-- NOTE -  THIS CAN BE EXPANDED
+more n Game Mechanics etc
+-->
+The term is particularly week in the area of Game Polish which involved were more aesthetic and narrative choices. These choices do not fall neatly in to the argument being constructed around the potential of GDPs to unlock repeatable, transferable practices. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of time working on these patterns especially if assets are being replaced.
+
+It is perhaps the term _pattern_ that is problematic here. It may imply a repeatable structural element rather than an aesthetic choices. Other academics have given a wider name of game elements [@tekinbas_gaming_2014] or lenses [@schell_art_2008].
+
+NEEDS MORE DEVELOPMENT
+
+<!-- However from the novice designers' perspective, there are elements of patterns involved. -->
+
+### Design patterns as a teaching aid in informal vs formal environments
+
+TO DEVELOP
+
+See journal notes and contrast with existing research with GDP and informal / formal coding programming debates.
+Asking what does this research add to these debates?
+
+Some of the following may be relevant;
+
+- Learner choice and levels of abstraction techniques
+- From the literature what are complexities involving the practitioner practicalities surrounding creating communities of coders
+- What is special about the use of GDP in this 3M model?
+- How is this model different from Game Jams in particular.
 - Whereas Game Jams focus on x, 3m has a focus on y.
-- GDP and types of errors?
+- Exploring GDP and different kinds of types of coding errors?
 
-### Weaknesses of the GDP construct
-
-The interpretation of GDP that this thesis adopts contains some weaknesses. The specificity of the term is weak in that in seeking to categorise a wide diversity of features that participants would want to add to the game to fulfil a pedagogical motivation of providing guidance and inspiration to the novice designers.
-
-The pragmatic nature of this interpretation can be contrasted to more formal definitions of say Game Mechanics related to user actions in the game [@sicart_defining_2008]. THIS CAN BE EXPANDED
-
-Let's explore the case of the area of GDP of Game Polish and Game Challenge.
-
-For example while the This is particularly  In Game Polish, these were more aesthetic and narrative choices do not fall neatly in to the argument being constructed around the creative use of GDPs. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of times especially if assets are being replaced.
-
-It is perhaps the term pattern that is problematic here. It may imply a repeatable structural element rather than an aesthetic choices.
-Other academics have given a wider name of game elements [@tekinbas_gaming_2014] or lenses [@schell_art_2008]. However from the novice designers' perspective, there are elements of patterns invovled.
-
-For example we can
-
-
-
-### Link Paragraph
+### Link Paragraph to next chapter
 
 A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
 
