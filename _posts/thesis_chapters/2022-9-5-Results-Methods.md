@@ -121,7 +121,15 @@ IS THIS NEEDED?  ONGOING DISCUSSION ON WHEN HOW TO USE THIS.
 
 ### Game Playing and Playtesting
 
-NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects.
+<!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
+
+For participants, playtesting provided a diversity of community-building behaviour.
+
+Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
+
+Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+- praising graphical content
+- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
 #### Game playing at start of program - no observations but sets context
 

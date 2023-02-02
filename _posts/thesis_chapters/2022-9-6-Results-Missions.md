@@ -465,7 +465,6 @@ look at specifics of interaction using AT terms
 
 ### Operations, Actions and Activity
 
-
 How this unit allows a more detailed focus on some of the tensions involved in tool use
 
 We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.
@@ -474,23 +473,26 @@ In the following sections, I draw on observations of participants in practice to
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-While each of these observations do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus which will deepen the observations in the previous chapter.
+In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives.
 
-I then progress to the bulk of observations oriented chiefly to interpersonal activity and end with those more to do with personal knowledge construction.
+While not each of these observation do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus before progressing to the bulk of observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
 ## Cultural Plane / Apprenticeship - and Game patterns
 
-In the (previous) chapter on inclusive methods the role of cultural activites to engage and sustain engagement were examined. This chapter allows us to examine the role of game design patterns through a cultural lens.
-ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS.
-This section continues these streams of analysis and will deepen them by focusing on the use of GDP in particular.
+In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined.
+This chapter allows us to focus in on the role that game design patterns in particular. Design patterns are by parents, children and facilitators as a tool of apprenticeship in this emerging game making community.
 
-- Design patterns imagined used in other contexts as a form of apprenticeship
-- Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
-- the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
+<!-- NOTE - ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS - IF THIS HELPS GROUND THIS SECTION -->
 
-### GDPs and playtesting to build a supportive community
 
-GDP and playtesting interact to allow participants to support each other and build community in a diversity of ways.
+<!-- NOTE - the topics below seem to live in the Methods / design chapter -->
+<!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
+<!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
+
+### GDPs and their interaction with play-testing to build a supportive community
+
+In the previous chapter play-testing was seen to provide opportunities for x,y & z. GDPs have a particular role within this process.
+GDP and play-testing interact to allow participants to support each other and build community in a diversity of ways.
 
 The inclusive methods explored in the last chapter provided means to help the development of elements of a supportive creative community.  
 For these participants, playtesting in particular provided a diversity of community-building behaviour.
