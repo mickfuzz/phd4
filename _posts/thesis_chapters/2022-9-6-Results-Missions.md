@@ -914,26 +914,30 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 
 
-
-
 #### Digital Jamming
+
 This has an example in the use of sound making software Fi & Ma -
 The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
 
-They are in an evaluation of tools which could be said to be in Planing. however this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
+They are in an evaluation of tools which could be said to be in planning stage,
+However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
 
 The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
 This would fit within the Imagine stage.
 Plan then Create then Imagine then Revise all in the space of a minute.
 
-Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Others exist like rhizomatic approaches.
+Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
 Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
 Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
 
 
-#### Discussion - Pumping up the Jam - allowing for improvisation in design process.
+#### Discussion - encouraging improvisation in the design process.
+
+<!--
+Pumping up the Jam
+- -->
 
 In many interactions we see improvisational approaches.
 
@@ -1027,9 +1031,6 @@ Firstly how wide should reuse be imagined? To other coding projects? Or wider cl
 
 Summary on contribution to existing research
 Bring more synthesis here especially in translation of design elements due to this context
-
-
-
 
 ### Strengths and Weaknesses of the GDP construct / terminology
 
