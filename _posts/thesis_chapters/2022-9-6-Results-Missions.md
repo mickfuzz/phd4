@@ -473,9 +473,7 @@ In the following sections, I draw on observations of participants in practice to
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives.
-
-While not each of these observation do not fall nearly into any one of the three planes being used as analytical tool, I begin with those oriented more to cultural focus before progressing to the bulk of observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to the bulk of observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
 ## Cultural Plane / Apprenticeship - and Game patterns
 
@@ -494,14 +492,36 @@ This chapter allows us to focus in on the role that game design patterns in part
 In the previous chapter play-testing was seen to provide opportunities for x,y & z. GDPs have a particular role within this process.
 GDP and play-testing interact to allow participants to support each other and build community in a diversity of ways.
 
-The inclusive methods explored in the last chapter provided means to help the development of elements of a supportive creative community.  
-For these participants, playtesting in particular provided a diversity of community-building behaviour.
+The discussion of game challenge about how hard the game was has at its core key game mechanics and elements of game challenge.
 
-Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
+#### Jump Variables and Game feel
 
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
-- praising graphical content
-- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+
+Game feel can be difficult to pin down but can be framed here as the responsiveness and feeling of control over the main character during the core movement of the game. In this case the ability to move between platforms and avoid enemies.
+
+In this design this is determined to a great extent by the use of variables gravity and jump velocity.
+This was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+Mi's feedback especially from young people was very direct about the playabilty.
+
+Fi - your jump speed is very high.
+Ch - this is really hard
+
+While Mi justifies this with a narrative response, the limited amount of time anyone plays her game for is telling.
+
+<!--
+Article on intangibility of game feel.
+ https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
+
+#### Use of hazards and moving enemies
+
+The placement of hazards as design pattern to increase challenge
+
+
+
+
 
 
 
@@ -577,11 +597,25 @@ TRANSITION - Te and Da - have a very typical guided apprenticeship
 
 ### Use of Help and Documentation related to GDP
 
-<!-- NOTE - Keep only the parts specifically on GDP
-
- -->
+<!-- NOTE - Keep only the parts specifically on GDP -->
 
 This was explored in the last chapter but more specific use of GDP related help and documentation are explored in this section.
+
+#### Use of a non-linear menu of Gdp
+
+Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
+
+- learner engagementation. The
+- relatatable to existing experience
+- develop use of common GPD terminology
+As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmesdue to the lack of data on specifics of the learning materials presented to participants.
+
+#### Use of simple code examples which demonstrate the pattern in isolation
+
+Code examples were initially the starting resource.
+The idea being it was quick to see the behaviour in context.
+This was changed.
+However use of this by Te in 2019-05-08 shows potential effectiveness.
 
 ## Interpersonal Plane (Guided Participation)
 
@@ -714,9 +748,13 @@ These kinds of shifts of activity and cultural practices brought by the particip
 
 ### GDPs propagation through peer activity
 
-The process of adding levels was something that was spread predominately through one child's work to help others to add that features. The work of the child to add 21 levels to their own game served as a way to publicise this possibility. The role of that child as an expert in that design pattern, and their willingness to share their knowledge, shifted focus away from help from myself as a facilitator, or the instruction-based support documents.
+The process of adding levels was something that was spread predominately through one child's work to help others to add that features. The work of the child to add 21 levels to their own game served as a way to publicise this possibility.
 
-PERHAPS ADD TRANSCRIPT EXAMPLE ?-
+The role of that child as an expert in that design pattern, and their willingness to share their knowledge, shifted focus away from help from myself as a facilitator, or the instruction-based support documents.
+
+PERHAPS ADD TRANSCRIPT EXAMPLE?
+
+Te showing Ch how to add new levels from Ch's demand?
 
 
 ### GDPs to support Flexible (Iterative) Design Practices
@@ -741,14 +779,13 @@ While the design suits repeated design practice as illustrated by the example ab
 
 ### Interaction of GDPs and designing for others as a method
 
-
 As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
 
 This helps a focus on change that others will observe and thus help participants to design for others.
 
-Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
+As explored, Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
 
-This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is. Regular self testing and playtesting achieve this.
+I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
 
 Some examples: (should be many)
 
@@ -756,7 +793,14 @@ Pull on examples of learners imagining the experience of others.
  - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
  - Another example -
 
-Discussion - Designing for others - as a key perspective in constructionism.
+#### Discussion of designing for others
+
+This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+
+The use of GDP as a unit of activity may help encourage regular self testing and playtesting.
+NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
+
+Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
 
 Value of design as a process, to see surrounding world as a designed experience, Latour.
@@ -921,6 +965,10 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 <!-- Exerpt Mi - 2019-03-08 - 52 mins -->
 
+
+
+
+
 #### Digital Jamming
 This has an example in the use of sound making software Fi & Ma -
 The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
@@ -938,23 +986,7 @@ Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
 
 
-### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
-
-Synthesise examples which highlight the value of developing share language and short cuts. Draw from the above examples.
-
-However, also look at potential short comings of short cuts - hiding more complex patterns within the name. When short cuts or misapprehensions prove less useful.
-
-For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
-
-Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
-
-
-
-NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
-
-NOTE - Compare to format of existing resources which are more linear in format.
-
-### Discussion - Pumping up the Jam - allowing for improvisation in design process.
+#### Discussion - Pumping up the Jam - allowing for improvisation in design process.
 
 In many interactions we see improvisational approaches.
 
@@ -966,6 +998,24 @@ Example from Te and Da - 2019-05-08 -
 The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
 
 The concept of Jam is explored in rapid, improvisational events called Game Jams.
+
+### Discussing Game design patterns as a tool to expose and give participants a language to discuss tensions (Practitioner focus)
+
+IS TENSIONS THE RIGHT WORD HERE?
+
+Synthesise examples which highlight the value of developing share language and short cuts. Draw from the above examples.
+
+However, also look at potential short comings of short cuts - hiding more complex patterns within the name. When short cuts or misapprehensions prove less useful.
+
+For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
+
+Is there an advantage to less support in terms of setting out a pathway which participants cover step by step. Or is the process of working on a sprawling problem which seems unmanagable, but which in with participants have to
+
+NOTE - GIVE EXAMPLE OF PACMAN - IT'S LANGUAGE BUT NOT TENSIONS
+
+NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS
+
+NOTE - Compare to format of existing resources which are more linear in format.
 
 
 
