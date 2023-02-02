@@ -250,7 +250,7 @@ There are cultural elements that are transmitted through interaction with the fa
 
 The parent shows an evolution of problems solving knowledge through their independent work.
 
-The child shows their personal knowledge of game design patterns in end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
+The child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 
 
@@ -301,7 +301,7 @@ REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
 - The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
 
 
-#### Discussion
+#### Discussion on design stages and GDP for this pair
 
 <!-- - This grouping sometimes left early having completed more in code development than others but completed less social activities. -->
 This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
