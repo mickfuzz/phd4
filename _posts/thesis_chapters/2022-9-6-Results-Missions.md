@@ -163,12 +163,12 @@ Could move some of this to the results discussion -
 
 To situate the emerging findings, chapter begins with vignette.
 
-// create with google docs to markdown extensions
+<!-- // create with google docs to markdown extensions
 // current version here -
 // then at this page online conversion. https://markdown-convert.com/en/tool/table
 // OR - AND PROBABLY BETTER TO DO THIS
 //keep as table with images - online or open office -  then download and copy and paste into documents to be shared.
-// On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca
+// On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca -->
 
 For the previous five minutes the parent and child dyad have face a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggest that Th asks facilitator for help to resolve the coding glitch.
 
@@ -242,7 +242,7 @@ For the previous five minutes the parent and child dyad have face a blockage of 
 |Back Back Back|
 | |
 |Oh Oh Oh.|
-| |
+| |Rogoff
 |(laughs)|
 | |
 |(replaces another) Back Oh (giggles)|(on screen) T adds three coins to Level 3|
@@ -257,7 +257,7 @@ For the previous five minutes the parent and child dyad have face a blockage of 
 |T: (laughs)|T start play through of their game again. She progresses past the first level, completes second level. The game then goes back to the first level unexpectedly.|
 |S: Is this the first level again| |
 |T: I think so| |
-|S: OK so our the door for the second level goes back to first level and we want it to go to the third level presumably| |
+|S: OK so our the door for the second leRogoffvel goes back to first level and we want it to go to the third level presumably| |
 |T: Yes (laughs) Yes. Why could that be? That’s silly| |
 |S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.|
 
@@ -280,7 +280,7 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 <!-- NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
 BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
 
-In this section a summary of the interaction observed in the above vignette is described using three foci of activity. Where appropriate I make observations on similar patterns of behaviour from outside of this vignette.
+In this section a summary of the interaction observed in the above vignette is described using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction.
 
 **Cultural - Apprenticeship**
 
@@ -293,13 +293,16 @@ Keys and Doors as a pattern or concept may have been something explored in a pre
 The child advocates for adding levels is something the child advocates for. It is likely that this has been picked up from the culture of the group.
 EVIDENCE - Mi and Other Parent - "Have you seen Te's game it has 21 levels."
 
-The is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards.
+<!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
+
+There is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards.
 
 "It is for me!" She may be aware of the implications for game balance but is taking pleasure in this destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter. Seemingly enjoying the cheekiness of her actions.
 
 This interaction shows the parent guiding the child to imagine the user experience. A process repeated by this parent in different ways. In the vignette for example Sh shares "Must be quite hard to get through that door."
 
 One interaction with the facilitator uses the debugging tool of the browser. [Move?]
+
 
 **Social - Guided Participation**
 
@@ -347,6 +350,10 @@ As such observations are listed in bullet point in case a lot restructuring is n
 
 I coded two complete sessions of this parent child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated with the accompanying transcribed fragments of conversation and my own journal notes. The observations are presented themed by the design stages with some general observations listed at the start.
 
+<!-- NOTE PERHAPS MOVE THE GENERAL OBSERVATIONS TO THE END OF THIS SECTION AS DISCUSSION OR SOME WHERE EVEN LATER. OR ANOTHER Chapter
+REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
+  -->
+
 **General Observations at all stages**
 
 - This parent-child pair alternate between use of keyboard and mouse. Currently the parent takes the driving seat. (Their roles can be contrasted to pair programming).
@@ -382,6 +389,7 @@ I coded two complete sessions of this parent child pair. The following observati
 **Share**
 
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
+- The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
 
 
 #### Comparing the activity patterns of this family to others
@@ -407,17 +415,15 @@ The observations above show the importance of recording the whole room. Some par
 
 <!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
 A LOT - MOVE THIS? -->
+Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
 
-Taking a broad view of the activity and goals of participant and myself, we can identify with wider and narrower frames including:
-
-- very wide - learning computing skills and concepts as a home education project
-- very wide - participating with other home educators in a creative environment and thus building team and communication skills
-- very wide - learning transferable design skills and processes
-- wide - creating a game which is fun to play and communicate an environmental theme
+- larger - learning computing skills and concepts as a home education project
+- larger - participating with other home educators in a creative environment and thus building team and communication skills
+- larger - learning transferable design skills and processes
+- large - creating a game which is fun to play and communicate an environmental theme
 - medium - identifying and implementing key game features (Game Design Patterns) to add to the games
-- narrow - creating, changing and transporting game assets to enact or change GDPs
-- narrow - implementing or changing code constructs to enact or change GDPs
-
+- smaller - creating, changing and transporting game assets to enact or change GDPs
+- smaller - implementing or changing code constructs to enact or change GDPs
 
 In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept.
 This section analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
