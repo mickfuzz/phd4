@@ -88,16 +88,16 @@ The purpose of this chapter is to explore how the data gathered informs thinking
 - How can game design patterns support the development of coding practices by novices?
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
-This section starts with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interpersonal interactions of that pair via analysis of video data.
+The working definition of GDPs is explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
+
+This chapter continues with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data.
 
 <!-- DROP The activity of the focal pair is then compared to activity of other groupings and individuals. -->
-
 The chapter then focuses on the use of game design patterns (GDPs) by participants in these interactions and then in reference to wider cultural and personal planes of activity.
 
-The predominant analytical lens used in the chapter is that of interpersonal activity. Specifically in the form of guided participation in this game making community (Rogoff, )(explored previously).
-ALTER - MERGE WITH BELOW
 
-The working definition of GDPs explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
+<!-- The predominant analytical lens used in the chapter is that of interpersonal activity, specifically in the form of guided participation in this game making community .  -->
+
 
 <!-- ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH -->
 
@@ -354,11 +354,6 @@ I coded two complete sessions of this parent child pair. The following observati
 REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
   -->
 
-**General Observations at all stages**
-
-- This parent-child pair alternate between use of keyboard and mouse. Currently the parent takes the driving seat. (Their roles can be contrasted to pair programming).
-- When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups (cf Rogoff, observation as valid form of participation)
-- When possible, the parent engages child to input the design activities. This is done at different levels at different design stages.
 
 **Ask / Imagine**
 
@@ -392,11 +387,25 @@ REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
 - The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
 
 
-#### Comparing the activity patterns of this family to others
+#### Discussion
 
-<!-- NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION? -->
+<!-- - This grouping sometimes left early having completed more in code development than others but completed less social activities. -->
+This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
 
-<!-- NOTE - This more general observation may be part of the previous chapter -->
+This parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles." This alternation is driven or facilitated by the different stages of implementing GDPs. The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
+
+Using the coded data from nvivo to compare design cycle stages with pair collaboration, it can be observed that the most likely stages for pair collaboration were during the Ask/Imagine stage, Testing and Planning.
+
+When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation.
+
+The vignette shows evidence of that the actions of the parent to re-enage the child at different stages of the design cycle helped sustain the child's engagement in the overall process.
+
+It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system.
+
+<!-- #### Comparing the activity patterns of this family to others
+
+NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION?
+ NOTE - This more general observation may be part of the previous chapter
 
 We can compare this pairs pattern of activity with other pairs / families.
 
@@ -408,7 +417,7 @@ Discussion
 
 - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
 
-The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity.
+The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
 
 ## Identifying the implementation of GDP as a key unit of Analysis
@@ -1033,10 +1042,9 @@ Find proffessional source here or before.
 See notes here
 https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit
 
-
 There are the advantages of both a relatable, tangible shape of unit of activity linked to a community of practice.
 
-They also include a more abstract / and thus Nrepeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
+They also include a more abstract / and thus repeatable structure thus fulfilling some of the promise transfer offered by CT advocates.
 
 The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
 
