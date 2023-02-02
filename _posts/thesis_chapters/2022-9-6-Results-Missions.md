@@ -420,7 +420,7 @@ Discussion
 The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
 
-## Identifying the implementation of GDP as a key unit of Analysis
+## Identifying the implementation of GDP as a key unit of analysis
 
 <!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
 A LOT - MOVE THIS? -->
@@ -434,51 +434,79 @@ Activity Theory allows researchers to identify intersecting or nested systems of
 - smaller - creating, changing and transporting game assets to enact or change GDPs
 - smaller - implementing or changing code constructs to enact or change GDPs
 
-In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept.
-This section analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
- <!-- I argue that this activity and dependant actions became the primary unit of activity for participants. -->
+In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
 
+ <!-- I argue that this activity and dependant actions became the primary unit of activity for participants. -->
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 
 <!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
 
-NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS)
 
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter. Two key justifications emerged from practice and analysis. Firstly, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus.
 
-This can be evidenced in the following;
+
+
+
+
+
+#### Discussion on scope of activity systems (MAY MOVE)
+
+NOTE - this may move, it seems to get in the way here. Thus this is partly in note / bullet point form.
+
+In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
+
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
 - the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
 - the utility of the smaller unit of analysis in aiding resource creation
 - the value of completing something concrete a sense of sustaining achievement.
 - the ability to reflect after implementing each sub project,
 - any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
 
-Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND???
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
 
-Thus it makes sense to user GDP implementation as a unit of analysis for the researcher due to the following reasons:
+The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
 
 - There is a practicality in terms of defining possible boundaries of what to analyse in depth.
 - There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
 - This research with a practitioner focus, looks to identify emerging barriers to coprehensio, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broad socilogical observations)
+- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
+- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
 
-NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
 
-Each GDP can be seen as a project given an interpretation of project as....
-Partly due to regular playtesting in a peer environment.
-Other factors / Conditions.
+<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
+NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
 
-### Commentary on use of GDP using AT terminology
 
-look at specifics of interaction using AT terms
+### Operations, actions and activity
 
-### Operations, Actions and Activity
+Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
 
-How this unit allows a more detailed focus on some of the tensions involved in tool use
+"actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the
+performing of the action. Initially each operation is a conscious action, consisting of both the orientation
+and execution phases, but when the corresponding model is good enough and the action has been practiced
+long enough, the orientation phase will fade and the action will be collapsed into an operation, which is
+much more fluent." [@kuutti_activity_1995]
 
-We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.
+For now I list some bullet points with examples to develop at a later date;
+
+Activity: Implementing a game design pattern - e.g. adding keys and doors pattern
+Action: Creating a graphical asset of a key and adding this to the level design
+Operation: Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
+
+Commentary: In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature.
+To illustrate this take this interaction between parent Mi and child Ne.
+INSERT TRANSCRIPT
+
+
+<!-- review this video to develop
+https://www.youtube.com/watch?v=BMi56ZBSows -->
+
+<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
 
 In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
+
+
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
@@ -527,10 +555,6 @@ Article on intangibility of game feel.
 #### Use of hazards and moving enemies
 
 The placement of hazards as design pattern to increase challenge
-
-
-
-
 
 
 
