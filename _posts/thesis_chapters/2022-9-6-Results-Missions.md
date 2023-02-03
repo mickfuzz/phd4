@@ -536,6 +536,25 @@ The placement of hazards as design pattern to increase challenge -->
 
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
 
+Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque commuinty]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructiionism [CITE].
+
+While the 3M design is more limited than a Scratch media project in the potential to incorporate home intersts, participants did embrace existing immediately clear posibilities offered by the certain GDPs in the 3M starting design.
+
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+The core GDP involving game assets already exist in the starting template.
+- Objects as a reward incentivising player explortion
+- Objects as a hazard penalising player progress
+
+The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes
+
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game
+
+<!--
+also in [erikssonUsingGameplayDesign2019;] -->
+
+
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
 
 Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
@@ -546,26 +565,20 @@ NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
 - Perhaps interview data? Te and Su?
 -
 
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
-The core GDP involving game assets already exist in the starting template.
-- Objects as a reward incentivising player explortion
-- Objects as a hazard penalising player progress
-
-The starting three assets, player, hazard and reward guide  the choice of game possible themes
-
 
 Example
 Ne - comments on choice of rocket at a reward.
 
 
-Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+Graphics in particular seemed to be driven by home cultures.
 
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
+Example:  Sh and th  background graphics in 2019-03-18-th_sh
 - cultivativing a sense of ownership
 - playing around the graphic - covering it over and revealing it
 - participant self-expression and a conversational prompt to other during sharing of the game
+
+
+
 
 This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
 
