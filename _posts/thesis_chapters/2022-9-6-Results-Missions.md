@@ -62,6 +62,29 @@ Design patterns are most commonly used for computing students at higher educatio
 
 The term Game Design Patterns (GDP) use used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs. Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation rephrasing slightly as gameplay design patterns, thus placing emphasis on the exposure to the user via playing the game. They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. Their research builds on related research which complied a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
 
+In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
+
+PRINTED CARD TEXT BEGINS
+
+Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
+
+* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+
+* **Type Pattern:** Game Mechanic
+
+* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+
+* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
+
+* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
+
+* **Links to other Computing Patterns:** Systems Dynamics[^10]
+
+* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+
+PRINTED CARD TEXT ENDS
+
+
 <!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
 <!-- From Eriksson article - explore in more depth in Lit Review..
 
@@ -75,7 +98,7 @@ Could move some of this to the results discussion -
 
 ## Study of Vignette A
 
-To situate the emerging findings, chapter begins with vignette.
+To begin more detailed study of participant interactions taken from video recordings I use vignette to give a snapshot of the interactions of one family.
 
 <!-- // create with google docs to markdown extensions
 // current version here -
@@ -171,7 +194,7 @@ For the previous five minutes the parent and child dyad have face a blockage of 
 |T: (laughs)|T start play through of their game again. She progresses past the first level, completes second level. The game then goes back to the first level unexpectedly.|
 |S: Is this the first level again| |
 |T: I think so| |
-|S: OK so our the door for the second leRogoffvel goes back to first level and we want it to go to the third level presumably| |
+|S: OK so our the door for the second level goes back to first level and we want it to go to the third level presumably| |
 |T: Yes (laughs) Yes. Why could that be? That’s silly| |
 |S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.|
 
@@ -196,42 +219,35 @@ BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
 
 In this section a summary of the interaction observed in the above vignette is described using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction.
 
-**Cultural - Apprenticeship**
+**Cultural Focus**
 
 The parent has taken on the role of solving harder code problems and it engaging with the material being presented as part of the sessions and following the instructions carefully. The child is one of the younger participants and does not maintaining attention on the problem being solved. When blockages occur she is keener to explore the room or to dwell on the periphery of other participants interactions.
 
 <!-- For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game. -->
 
-Keys and Doors as a pattern or concept may have been something explored in a previous game or it may be a clear concept that has appealed to the child in another way. What is more clear is that it drives engagement with the game making process with the child repeating the name of the pattern in a sing song voice.
+Keys and Doors as desired a pattern emerged from feedback from participants in previous sessions. It is a concept that has appealed to the child in a way that drives engagement with the game making process. This is evident in the way with the child introduces and repeats the name of the pattern in a sing song voice in this interaction.
 
-The child advocates for adding levels is something the child advocates for. It is likely that this has been picked up from the culture of the group.
-EVIDENCE - Mi and Other Parent - "Have you seen Te's game it has 21 levels."
+Another pattern the child advocates for is that of adding levels. This desire to add this pattern may have been picked up from the emerging culture of the group. The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it.
 
+<!-- For  Mi and Other Parent - "Have you seen Te's game it has 21 levels." -->
 <!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
 
-There is cultural understanding of the conventions of a platformer game being shown by both the child and adult. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards.
+In the above interactions, there is cultural understanding of the conventions of a platformer game being shown by both the child and adult. Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. "It is for me!" the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
 
-"It is for me!" She may be aware of the implications for game balance but is taking pleasure in this destruction of the key challenge of the game as an act of disruptive play as explored in the previous chapter. Seemingly enjoying the cheekiness of her actions.
+This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. This process is repeated by this parent for other patterns in other interactions. In the vignette for example, Sh shares "Must be quite hard to get through that door." when Sh places the exit door high above a platform.  
 
-This interaction shows the parent guiding the child to imagine the user experience. A process repeated by this parent in different ways. In the vignette for example Sh shares "Must be quite hard to get through that door."
+<!--
+Drop tool use here - not specifically GDPs
+ One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
 
-One interaction with the facilitator uses the debugging tool of the browser. [Move?]
 
+**Interpersonal Focus - Guided Participation**
 
-**Social - Guided Participation**
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette.
+The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this pair this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. Feedback from the parent indicated this was partly due to reading ability. They also mention a strategy to address with this barrier to participation. "Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
 
-After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
-
-The child takes delight in outlining this pattern of game progression. The transformation from the period of time when her parent was problem solving code is dramatic.
-
-The choice of a new GDP often involves new code to be added to the game or a significant change in code which needed debugging.
-For this pair, larger coding activities were beyond the ability of the child from feedback date the parent shared this was due to reading ability but mentioned a strategy to deal with this.
-
-"Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
-
-The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.
+Two observations follow. Firstly, the design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time. Secondly, it is of value to explore during which design stages is the child is most active and engaged.
 
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
@@ -239,19 +255,20 @@ The design choice of a grid of letters representing different elements of the pl
 <!-- I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment. -->
 
 
-**Personal - Mutual Knowledge Creation**
+**Personal Focus - Participatory Appropriation**
 
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation, knowledge or processes which individuals take on and use fit within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
-There are cultural elements that are transmitted through interaction with the facilitator that this parents is very quick to pick up on. For example the use of the project documentation website of which the parent was an early adopter. Also, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions.
+From video data I identified certain coding practices that were transmitted through interaction with the facilitator that this parent is quick to adopt and use. For example the use of the project documentation website. In addition, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The use of these tools and processes are introduced to solve a particular problem in implementing one GDP. However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 
-The parent shows an evolution of problems solving knowledge through their independent work.
+<!--
+NOTE VALUE OF REPEATING PATTERNS.
+  -->
 
-The child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question What if - What would you like to see next time? What would you add? with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
-
+The child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 
 ### Describing design stages for this pair beyond this interaction
@@ -259,10 +276,9 @@ The child shows their personal knowledge of game design patterns in the end of c
 <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
 As such observations are listed in bullet point in case a lot restructuring is needed. -->
 
-<!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addressed in Methodology / Design
+<!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addresAs sed in Methodology / Design
  -->
-
-I coded two complete sessions of this parent child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated with the accompanying transcribed fragments of conversation and my own journal notes. The observations are presented themed by the design stages with some general observations listed at the start.
+As mentioned in the previous sections, after analysis of this vignette in particular, it seemed promising to investigate behaviour and engagement at different stages of design process for this pair. To do this I have made extensive notes and used a coding structure for two complete sessions of this parent-child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated participant feedback and my own journal notes. The observations are presented themed by the design stages used in the coding process with some general observations listed at the end of this section.
 
 <!-- NOTE PERHAPS MOVE THE GENERAL OBSERVATIONS TO THE END OF THIS SECTION AS DISCUSSION OR SOME WHERE EVEN LATER. OR ANOTHER Chapter
 REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
@@ -310,9 +326,7 @@ This parent-child pair alternate between use of keyboard and mouse. The parent i
 
 Using the coded data from nvivo to compare design cycle stages with pair collaboration, it can be observed that the most likely stages for pair collaboration were during the Ask/Imagine stage, Testing and Planning.
 
-When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation.
-
-The vignette shows evidence of that the actions of the parent to re-enage the child at different stages of the design cycle helped sustain the child's engagement in the overall process.
+The vignette shows evidence of that the actions of the parent to re-engage the child at different stages of the design cycle helped sustain the child's engagement in the more focused design process happening on the screen. However, an opposing pattern of behaviour may also be valid. When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation. The child's ability to legitimately disengage from pair coding to observe the work and interactions of others in this emerging community of learners may also be sustaining.
 
 It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system.
 
@@ -356,13 +370,6 @@ https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 
 <!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
 
-
-
-
-
-
-
-
 #### Discussion on scope of activity systems (MAY MOVE)
 
 NOTE - this may move, it seems to get in the way here. Thus this is partly in note / bullet point form.
@@ -396,31 +403,53 @@ NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENT
 
 Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
 
-"actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the
-performing of the action. Initially each operation is a conscious action, consisting of both the orientation
-and execution phases, but when the corresponding model is good enough and the action has been practiced
-long enough, the orientation phase will fade and the action will be collapsed into an operation, which is
-much more fluent." [@kuutti_activity_1995]
+  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
 
-For now I list some bullet points with examples to develop at a later date;
+For now I list some bullet points with examples followed by a brief commentary to develop at a later date;
 
-Activity: Implementing a game design pattern - e.g. adding keys and doors pattern
-Action: Creating a graphical asset of a key and adding this to the level design
-Operation: Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
+- **Activity:** Implementing a game design pattern - e.g. adding keys and doors pattern
+- **Action:** Creating a graphical asset of a key and adding this to the level design
+- **Operation:** Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
 
-Commentary: In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature.
-To illustrate this take this interaction between parent Mi and child Ne.
-INSERT TRANSCRIPT
+**Commentary:**
+ In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
 
+  Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
+  Mi asks for help from partner but receives misleading advice which does not help her progress.
+
+  Mi – Oh no it’s not done that has it?
+
+  Mi calls the name of her child across room with theatrical gesture and loud whisper voice
+  Mi – “Ne!”
+  Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
+
+  Ne arrives to help.
+  Mi – I’m trying to delete them but they turn light grey.
+  Ne – So you want to get rid of them?
+  Mi – What are you doing? You have to tell me what you are doing so I can do it myself.
+  Mi – laughs
+  Ne – laughs.
+  Mi – I’ll just have to keep shouting at you if you don’t tell me.  
+  Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
+  Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+  Parent peer laughs
+  Ne bounces up in place and smiles broadly.
+  Mi- Thanks
+  Mi – So am I like back with the black now?  
+  Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+  Mi – Oh X. Alright Bubs. Thanks.
+
+In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
+
+This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
 
 <!-- review this video to develop
 https://www.youtube.com/watch?v=BMi56ZBSows -->
 
 <!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
 
-In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games. I use extracts/ vignettes to do this.
 
-
+<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
@@ -428,8 +457,7 @@ In the first part of this chapter I focused in detail on the three planes of act
 
 ## Cultural Plane / Apprenticeship - and Game patterns
 
-In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined.
-This chapter allows us to focus in on the role that game design patterns in particular. Design patterns are by parents, children and facilitators as a tool of apprenticeship in this emerging game making community.
+In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the role that game design patterns in particular. Design patterns are by parents, children and facilitators as a tool of apprenticeship in this emerging game making community.
 
 <!-- NOTE - ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS - IF THIS HELPS GROUND THIS SECTION -->
 
@@ -440,35 +468,70 @@ This chapter allows us to focus in on the role that game design patterns in part
 
 ### GDPs and their interaction with play-testing to build a supportive community
 
-In the previous chapter play-testing was seen to provide opportunities for x,y & z. GDPs have a particular role within this process.
-GDP and play-testing interact to allow participants to support each other and build community in a diversity of ways.
+In the previous chapter play-testing was seen to provide opportunities to build a supportive game making community, including x,y & z. This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
 
-The discussion of game challenge about how hard the game was has at its core key game mechanics and elements of game challenge.
+<!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
-#### Jump Variables and Game feel
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
 
-
-Game feel can be difficult to pin down but can be framed here as the responsiveness and feeling of control over the main character during the core movement of the game. In this case the ability to move between platforms and avoid enemies.
-
-In this design this is determined to a great extent by the use of variables gravity and jump velocity.
-This was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
-
+In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
-Mi's feedback especially from young people was very direct about the playabilty.
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
 
-Fi - your jump speed is very high.
-Ch - this is really hard
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
-While Mi justifies this with a narrative response, the limited amount of time anyone plays her game for is telling.
+COMPILATION IN PROGRESS
+
+  Mi: No! It's so hard that.
+  Mick: How are you getting on Mi? It's looking good.
+  Mick: (Noting frustrated air of Mi) Have you made it to hard.
+  Mi: I don't know can you jump from here to here with this, this, him?
+  Mick : so it look like you bump your head and fall down.
+  Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is somethign that you can change if you want to.
+  Mi: Oh right yeah.
+  Mick: Yeah
+  Mi: Yeah actually that's a good idea.
+  Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
+
+
+Ch likes the look of the game and begins with that as a comment.
+
+  Ch: That looks nice (referring to the graphical look of the game)
+  Mi invites Ch to play as she can't progress due to the difficult game controls.
+
+  Ch: It jumps super high but so slow  
+
+  Ch: It jumps super high but so slow  
+  Pause.
+  Mi: He has to go slow because he's an astronaut, you see.    
+
+  Ch: It's hard.
+  Ch then leaves
+
+  Mi: It's hard. Wow.
+
+Fi comes to play the game
+
+  Fi: How much jump speed to you have?
+  Fi: Your jump speed is massive.
+
+Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
+
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
+
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
+
+When pairs return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
+THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
 
 <!--
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
 
-#### Use of hazards and moving enemies
+<!-- #### Use of hazards and moving enemies
 
-The placement of hazards as design pattern to increase challenge
+The placement of hazards as design pattern to increase challenge -->
 
 
 
@@ -534,12 +597,11 @@ My own positive response to their suggestion was driven partly from knowledge of
 
 There are cultural elements here of a family learning culture between these two playing out in this space. That way of approaching the task is very different from interactions with grandparents on a previous iteration.
 
-This and other exerpt from this pair show that Te and Da's interaction is much more guided and focused than many other participants. This is influenced by Da's experience as a software engineer and volunteer at Coder Dojo.
-This process of active guiding but suggesting and fishing for the right answer is intentional from the consistent nature of the interaction and from a supporting interview.
+This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants. This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (previously explored in lit review). This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview.
 
-"Extract from interview with Da?" to support some of the above observations.
+SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of the above observations.
 
-TRANSITION - Te and Da - have a very typical guided apprenticeship
+<!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
 
 
 ### Use of Help and Documentation related to GDP
@@ -564,11 +626,10 @@ The idea being it was quick to see the behaviour in context.
 This was changed.
 However use of this by Te in 2019-05-08 shows potential effectiveness.
 
-## Interpersonal Plane (Guided Participation)
+## Interpersonal Focus (Guided Participation)
 
-I will recap Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
+Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
 If needed then I will explain how AT terms like division of labour are appropriate here.
-
 
 ### GDPs for Goal Setting and Prioritisation
 
