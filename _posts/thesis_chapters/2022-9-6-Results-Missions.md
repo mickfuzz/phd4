@@ -530,30 +530,9 @@ Article on intangibility of game feel.
 <!-- #### Use of hazards and moving enemies
 The placement of hazards as design pattern to increase challenge -->
 
-
-
 ### GDPs and personal expression (cultural) -
 
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
-
-Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque commuinty]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructiionism [CITE].
-
-While the 3M design is more limited than a Scratch media project in the potential to incorporate home intersts, participants did embrace existing immediately clear posibilities offered by the certain GDPs in the 3M starting design.
-
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
-The core GDP involving game assets already exist in the starting template.
-- Objects as a reward incentivising player explortion
-- Objects as a hazard penalising player progress
-
-The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes
-
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game
-
-<!--
-also in [erikssonUsingGameplayDesign2019;] -->
-
 
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
 
@@ -565,20 +544,15 @@ NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
 - Perhaps interview data? Te and Su?
 -
 
-
-Example
-Ne - comments on choice of rocket at a reward.
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
 
-Graphics in particular seemed to be driven by home cultures.
+Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
 
-Example:  Sh and th  background graphics in 2019-03-18-th_sh
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
 - cultivativing a sense of ownership
 - playing around the graphic - covering it over and revealing it
 - participant self-expression and a conversational prompt to other during sharing of the game
-
-
-
 
 This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
 
@@ -588,9 +562,11 @@ These interactions re sometimes playful, and sometimes chance to share something
 
 ### Use of design patterns as a form of / to facilitate apprenticeship
 
-Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
+In 2019-05-08 Da and Te are working closely as a pair.
 
-In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences.
+Da invites thinking outside of the constraints of the suggested design early in this first session. Add context if needed.
+
+An interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experience
 
     Da: Have you thought about pushing it a bit further and have a different style of game?
     Te: What do you mean?
@@ -614,11 +590,9 @@ Te adopts with this suggestion readily once he understands Da's suggestion in fu
 
 Even saying "I was thinking can we make like a pacman game kind of thing".
 
-Da speech show desire to for the pair to try something new. This may be to avoid repetition in the educational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
+Da speech show desire to for the pair to try something new. This may be to avoid repition in the educatational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
 
-However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
-
-NOTE - There seems to be a mirror here of the value of playful environments to provide challenge but within some boundaries of safety.
+However Da is still aware of potential challenges of straying too far from the templage. He does not want to "mess things up". There seems to be a mirror here of the value of playful enviroments to provide challenge but within some boundaries of safety.
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously descussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different posibilities for new game patterns that this pair may be able to solve.
 
@@ -635,38 +609,36 @@ SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of
 
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
-The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+This was explored in the last chapter but more specific use of GDP related help and documentation are explored in this section.
 
-#### Use of a non-linear menu of GDP
+#### Use of a non-linear menu of Gdp
 
 Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
 
-- increase learner engagement through accessible design
-- make documentation relatable to existing gameplay experience
+- learner engagementation. The
+- relatatable to existing experience
 - develop use of common GPD terminology
-
-NOTE - TO FOLLOW EVIDENCE OF PARTICPANT ENGAGEMENT WITH THE RESOURCES
-
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmesdue to the lack of data on specifics of the learning materials presented to participants.
 
 #### Use of simple code examples which demonstrate the pattern in isolation
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
-
-However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
-DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
+Code examples were initially the starting resource.
+The idea being it was quick to see the behaviour in context.
+This was changed.
+However use of this by Te in 2019-05-08 shows potential effectiveness.
 
 ## Interpersonal Focus (Guided Participation)
 
- - If needed a quick recap on guided apprenticeship.
-
-This section examines the use of GDP to facilitate guided participation in game making. The primary source of material is from pair interactions between children and parents.  
+Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
+If needed then I will explain how AT terms like division of labour are appropriate here.
 
 ### GDPs for Goal Setting and Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-<!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
+NOTE - This needs to be merged with the above - or a different take on it explored.
+
+Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
 
     M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
     You know, keep working through.
@@ -684,14 +656,19 @@ The following exchange between participants Fi and Ma shows GDPs being used to o
     M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
-This example shows the use of the approximate names number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune. Patterns and the multiple actions and operations they entail are referred to briefly using short cut names.
+This example shows the use of the names number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune.
+
+Here the overall patterns are referred to briefly using short cut names.
 
 While the planning discussion happens the child is concurrently testing their game.
-At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
+At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded.
 
-<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
+This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
+
+NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research.
 
 Discussion: The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to priortise them. Instead he appears to be keen to quickly pick one that seems manageable.
+
 
 Father describes the childs' behaviour as jumping all over the place, but reviewing video data shows a more complex picture.
 
@@ -701,11 +678,14 @@ Here, after a blockage, the child suggests continuing with activities to fit the
 
 While the father seems keen to prioritise and then complete one pattern, the child takes a more piecemeal approach.
 
-Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. Ironically, it is the father that becomes distracted from his stated task rather than the child.
+In this session the father then gets drawn into creating audio assets after observing his son searching for suitable tools.
+It is he that is distracted from his stated task rather than the child.
 
 The aspect of division on labour is explored on more depth in the following section.
 
-GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive. Changes to the emerging 3M design to  provide such support are explored in the following chapter.
+GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive.
+
+Note: Such support is explored in more detail in the next chapter.
 
 <!--
 THIS DOESN'T SEEM RIGHT
@@ -726,9 +706,7 @@ In contrast, the parent shares both with the child and the facilitator that they
 
 While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent.
 
-While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case.
-
-Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
+While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
 ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
 
@@ -770,18 +748,32 @@ This activity can be examined with an interpersonal focus it is the product of i
 In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
+
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
+
 
 
 ### GDPs propagation through peer activity
 
-The process of adding levels was something that was spread predominately through one child's work to help others to add that features. The work of the child to add 21 levels to their own game served as a way to publicise this possibility.
+The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
 
-The role of that child as an expert in that design pattern, and their willingness to share their knowledge, shifted focus away from help from myself as a facilitator, or the instruction-based support documents.
+  Ch: Why’s that enemy in every level
+  Te: He’s not.
+  Ch: Can you show me how you add more levels on to yours.
+  Te: Yeah sure.
+  Pause
+  Te: I’m just going to have one go of beating this. It’s 21 levels in it. So .. Yeeeeah.
+  Pause
+  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipe out. Have you ever played wipeout.
+  Te: Er not really.
+  Ch: Or seen it.
+  Ch: That’s like my second level.
+  Te: Ah so hard (Te fails at a high level on his game and starts to move off)
 
-PERHAPS ADD TRANSCRIPT EXAMPLE?
+  Te: (To someone else  calling for attention)  No I’m helping ..
+  (Te then follows Ch to his workstation to help him implement more levels.)
 
-Te showing Ch how to add new levels from Ch's demand?
+FURTHER DISCUSSION HERE
 
 
 ### GDPs to support Flexible (Iterative) Design Practices
