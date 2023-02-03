@@ -588,11 +588,9 @@ These interactions re sometimes playful, and sometimes chance to share something
 
 ### Use of design patterns as a form of / to facilitate apprenticeship
 
-In 2019-05-08 Da and Te are working closely as a pair.
+Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
 
-Da invites thinking outside of the constraints of the suggested design early in this first session. Add context if needed.
-
-An interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experience
+In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences.
 
     Da: Have you thought about pushing it a bit further and have a different style of game?
     Te: What do you mean?
@@ -616,9 +614,11 @@ Te adopts with this suggestion readily once he understands Da's suggestion in fu
 
 Even saying "I was thinking can we make like a pacman game kind of thing".
 
-Da speech show desire to for the pair to try something new. This may be to avoid repition in the educatational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
+Da speech show desire to for the pair to try something new. This may be to avoid repetition in the educational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
 
-However Da is still aware of potential challenges of straying too far from the templage. He does not want to "mess things up". There seems to be a mirror here of the value of playful enviroments to provide challenge but within some boundaries of safety.
+However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
+
+NOTE - There seems to be a mirror here of the value of playful environments to provide challenge but within some boundaries of safety.
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously descussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different posibilities for new game patterns that this pair may be able to solve.
 
