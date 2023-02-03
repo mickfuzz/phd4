@@ -635,36 +635,38 @@ SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of
 
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
-This was explored in the last chapter but more specific use of GDP related help and documentation are explored in this section.
+The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
 
-#### Use of a non-linear menu of Gdp
+#### Use of a non-linear menu of GDP
 
 Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
 
-- learner engagementation. The
-- relatatable to existing experience
+- increase learner engagement through accessible design
+- make documentation relatable to existing gameplay experience
 - develop use of common GPD terminology
-As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmesdue to the lack of data on specifics of the learning materials presented to participants.
+
+NOTE - TO FOLLOW EVIDENCE OF PARTICPANT ENGAGEMENT WITH THE RESOURCES
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
 
 #### Use of simple code examples which demonstrate the pattern in isolation
 
-Code examples were initially the starting resource.
-The idea being it was quick to see the behaviour in context.
-This was changed.
-However use of this by Te in 2019-05-08 shows potential effectiveness.
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
+
+However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
 
 ## Interpersonal Focus (Guided Participation)
 
-Rogoff's take on guided apprenticeship and the features of the learning design which facilitate it.
-If needed then I will explain how AT terms like division of labour are appropriate here.
+ - If needed a quick recap on guided apprenticeship.
+
+This section examines the use of GDP to facilitate guided participation in game making. The primary source of material is from pair interactions between children and parents.  
 
 ### GDPs for Goal Setting and Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-NOTE - This needs to be merged with the above - or a different take on it explored.
-
-Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit
+<!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
 
     M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
     You know, keep working through.
@@ -682,19 +684,14 @@ Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ
     M: Well I’ll have a look at the code and see if I can make sense of that.
 
 
-This example shows the use of the names number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune.
-
-Here the overall patterns are referred to briefly using short cut names.
+This example shows the use of the approximate names number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune. Patterns and the multiple actions and operations they entail are referred to briefly using short cut names.
 
 While the planning discussion happens the child is concurrently testing their game.
-At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded.
+At this stage of the design some have been imagined and perhaps partly worked on and dis-guarded. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
 
-This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
-
-NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research.
+<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
 Discussion: The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to priortise them. Instead he appears to be keen to quickly pick one that seems manageable.
-
 
 Father describes the childs' behaviour as jumping all over the place, but reviewing video data shows a more complex picture.
 
@@ -704,14 +701,11 @@ Here, after a blockage, the child suggests continuing with activities to fit the
 
 While the father seems keen to prioritise and then complete one pattern, the child takes a more piecemeal approach.
 
-In this session the father then gets drawn into creating audio assets after observing his son searching for suitable tools.
-It is he that is distracted from his stated task rather than the child.
+Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. Ironically, it is the father that becomes distracted from his stated task rather than the child.
 
 The aspect of division on labour is explored on more depth in the following section.
 
-GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive.
-
-Note: Such support is explored in more detail in the next chapter.
+GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive. Changes to the emerging 3M design to  provide such support are explored in the following chapter.
 
 <!--
 THIS DOESN'T SEEM RIGHT
@@ -732,7 +726,9 @@ In contrast, the parent shares both with the child and the facilitator that they
 
 While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent.
 
-While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case. Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
+While the above interaction between Fi and Ma points to the parent doing the heavy lifting for code implementation, this was not always the case.
+
+Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
 
 ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
 
@@ -774,11 +770,7 @@ This activity can be examined with an interpersonal focus it is the product of i
 In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
-
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
-
-
-
 
 
 ### GDPs propagation through peer activity
