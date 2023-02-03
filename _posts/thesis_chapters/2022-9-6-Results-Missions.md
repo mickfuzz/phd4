@@ -390,7 +390,7 @@ The implementation of GDPs as a unit of analysis for the researcher also has the
 
 - There is a practicality in terms of defining possible boundaries of what to analyse in depth.
 - There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to coprehensio, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broad socilogical observations)
+- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
 - Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
 - That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
 
@@ -481,17 +481,16 @@ The regular playtesting of games allowed participants to give each other feedbac
 
 Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
-COMPILATION IN PROGRESS
 
-  Mi: No! It's so hard that.
+  Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
   Mick: How are you getting on Mi? It's looking good.
   Mick: (Noting frustrated air of Mi) Have you made it to hard.
-  Mi: I don't know can you jump from here to here with this, this, him?
-  Mick : so it look like you bump your head and fall down.
-  Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is somethign that you can change if you want to.
+  Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+  Mick: So it look like you bump your head and fall down.
+  Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
   Mi: Oh right yeah.
-  Mick: Yeah
-  Mi: Yeah actually that's a good idea.
+  Mick: Yeah.
+  Mi: Yeah, actually that's a good idea.
   Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
 
 
@@ -501,15 +500,13 @@ Ch likes the look of the game and begins with that as a comment.
   Mi invites Ch to play as she can't progress due to the difficult game controls.
 
   Ch: It jumps super high but so slow  
-
-  Ch: It jumps super high but so slow  
   Pause.
   Mi: He has to go slow because he's an astronaut, you see.    
 
   Ch: It's hard.
   Ch then leaves
 
-  Mi: It's hard. Wow.
+  Mi: (to peer parent with proud tone.) It's hard. Wow.
 
 Fi comes to play the game
 
@@ -518,11 +515,12 @@ Fi comes to play the game
 
 Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
 
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation. It is not impossible that she enjoys the frustration of others playing her game at this point.
 
 In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
 
 When pairs return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
+
 THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
 
 <!--
@@ -530,7 +528,6 @@ Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
 
 <!-- #### Use of hazards and moving enemies
-
 The placement of hazards as design pattern to increase challenge -->
 
 
@@ -542,9 +539,15 @@ The placement of hazards as design pattern to increase challenge -->
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
 
 Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
-Perhaps a transcript at start of process. Ma and Fi ?
+
+NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
+
+- Perhaps a transcript at start of process. Ma and Fi ?
+- Perhaps interview data? Te and Su?
+-
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
 
 Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
 
