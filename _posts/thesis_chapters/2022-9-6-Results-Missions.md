@@ -548,6 +548,17 @@ NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
+The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+The core GDP involving game assets already exist in the starting template.
+- Objects as a reward incentivising player explortion
+- Objects as a hazard penalising player progress
+
+The starting three assets, player, hazard and reward guide  the choice of game possible themes
+
+
+Example
+Ne - comments on choice of rocket at a reward.
+
 
 Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
 
