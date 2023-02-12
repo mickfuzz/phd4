@@ -10,6 +10,24 @@ categories: chapter
 title: Literature Review
 ---
 
+
+- Literature Review
+
+  - Tools and Concepts & Terminology   
+    - Code playgrounds
+  - What game making pedagogies exist?
+    - UMC and Games - Half-baked games
+    - Design-based & Tinkering / Exploratory
+    - More on Game design patterns - a shared language - turn to community aspect
+  - What exists to support the development of game making communities?
+    - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
+    - Social learning in Game Making
+      - Game playing and making communities
+      - Games as funds of knowledge in
+    - Visual methods in game making
+      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
+
+
 The aims of this literature review:
 
 - introduce concepts that may also inform conceptual framework / methodology

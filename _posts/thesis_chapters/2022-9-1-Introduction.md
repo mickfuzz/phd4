@@ -37,6 +37,9 @@ title: Introduction
       - Games as funds of knowledge in
     - Visual methods in game making
       - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
+    - Terminology   
+      - Code playgrounds
+
 
 - Methodology   
   - Summary of social turn
