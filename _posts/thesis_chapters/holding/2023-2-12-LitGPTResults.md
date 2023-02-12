@@ -4,35 +4,71 @@ zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
-  csl-style: harvard # pre-fill the style
+  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: archive
 title: Chat GPT Notes
 ---
 
-## Overview of Game Making Pedagogies
+## Overview of Contextual Information and Terminology
 
-Game making pedagogies refer to the educational approaches and methods used to teach students how to design and create games. These pedagogies are based on the idea that game making can be an engaging and effective way to learn, as it provides students with opportunities to apply their knowledge and skills in meaningful and creative ways.
+### Informal education and non-formal education
 
-One approach to game making pedagogy is to use a project-based learning approach, where students work together to design and create their own game. This allows students to explore their interests, develop their creative and technical skills, and work collaboratively with others. Additionally, project-based learning can help to foster problem-solving skills, critical thinking, and communication skills, as students must work together to overcome challenges and complete their project.
+Informal education and non-formal education are two approaches to learning that differ in their structure, content, and goals. Informal education refers to learning that takes place outside of a traditional classroom setting, while non-formal education refers to learning that takes place outside of the formal education system, but is structured and intentional [@european_centre_for_the_development_of_vocational_training_european_2009; @patrick_recognising_2010; @rogers_base_2014; @werquin_recognition_2009].
 
-Another approach to game making pedagogy is to incorporate game design principles and elements into the curriculum. For example, students can learn about game mechanics, such as rules, objectives, and challenges, as well as game design elements, such as graphics, sound, and animation. By learning about these elements, students can gain a deeper understanding of the design process and develop the skills they need to create their own games.
+Informal education can take many forms, including experiences, observations, conversations, and life experiences. It is often spontaneous, unstructured, and does not have a specific learning outcome or goal. Informal education is often a natural part of daily life, such as learning about cooking from a family member or learning about a new hobby from friends. Informal education is a valuable way for people to learn and grow, as it can provide opportunities for personal and social development.
 
-Game making pedagogy can also be used to teach a range of subjects, including mathematics, science, and language arts. For example, students can learn about math concepts, such as probability and statistics, by creating games that incorporate these concepts. Similarly, students can learn about science concepts, such as the laws of motion and energy, by designing games that simulate these concepts.
+Non-formal education, on the other hand, is intentional and structured, but still outside of the formal education system. Non-formal education often takes place in community-based organizations, such as youth groups, libraries, or community centres. Non-formal education can take many forms, such as workshops, training programs, and after-school programs. Non-formal education is designed to meet specific educational needs and is often aimed at specific groups of people, such as youth or adults. Non-formal education can provide opportunities for people to acquire new knowledge, skills, and attitudes in a supportive and structured environment.
 
-Finally, game making pedagogy can be used to develop digital literacy skills, such as coding and computer programming. By designing and creating their own games, students can learn how to write code, create animations, and develop interactive experiences. This can help students to develop the skills they need to succeed in the digital world and prepare them for careers in technology and digital media.
+### Informal and Non-formal STEM education and family involvement
+
+Informal science education refers to learning about science and technology that takes place outside of formal educational settings, such as schools and universities. Informal science education can be found in a variety of places, such as museums, science centers, zoos, and aquariums, and is designed to be engaging and accessible to a wide range of audiences, including families.
+
+Family involvement in informal science education has been shown to have a number of benefits, including increased knowledge and understanding of science and technology, improved critical thinking and problem-solving skills, and increased interest in science and technology. Family involvement in science education can also help to promote STEM (Science, Technology, Engineering, and Mathematics) literacy, which is becoming increasingly important in today's rapidly changing world.
+
+Informal science education programs for families often use hands-on, interactive activities and exhibits to engage visitors and encourage learning. For example, museums and science centres may have interactive exhibits that allow visitors to experiment with different scientific concepts, such as electricity and magnetism, or to explore different ecosystems, such as rainforests or oceans. These exhibits are designed to be accessible and engaging, and often use colourful displays and interactive components to make learning fun and enjoyable.
+
+Another important aspect of informal science education is the role that it plays in promoting equity and inclusion in STEM. Informal science education programs can provide opportunities for under-represented groups, such as women and minorities, to learn about science and technology and to engage in hands-on STEM activities. This can help to reduce the gender and ethnicity gaps in STEM and increase opportunities for under-represented groups in these fields.
+
+
+### Game Making Pedagogies
+
+Game making pedagogies refer to the educational approaches and methods used to teach students how to design and create games. These pedagogies are based on the idea that game making can be an engaging and effective way to learn, as it provides students with opportunities to apply their knowledge and skills in meaningful and creative ways [@kafai_minds_1994; @kafai_computational_2017; @kafai_decade_2014; @kafai_constructionist_2015].
+
+One approach to game making pedagogy is to use a project-based learning approach, where students work together to design and create their own game. This allows students to explore their interests, develop their creative and technical skills, and work collaboratively with others. Additionally, project-based learning can help to foster problem-solving skills, critical thinking, and communication skills, as students must work together to overcome challenges and complete their project[@sefton-green_mapping_2013].
+
+Another approach to game making pedagogy is to incorporate game design principles and elements into the curriculum. For example, students can learn about game mechanics, such as rules, objectives, and challenges, as well as game design elements, such as graphics, sound, and animation. By learning about these elements, students can gain a deeper understanding of the design process and develop the skills they need to create their own games [@kafai_computational_2017].
+
+Game making pedagogy can also be used to teach a range of subjects, including mathematics, science, and language arts. For example, students can learn about math concepts, such as probability and statistics, by creating games that incorporate these concepts. Similarly, students can learn about science concepts, such as the laws of motion and energy, by designing games that simulate these concepts [@kafai_decade_2014].
+
+Finally, game making pedagogy can be used to develop digital literacy skills, such as coding and computer programming. By designing and creating their own games, students can learn how to write code, create animations, and develop interactive experiences. This can help students to develop the skills they need to succeed in the digital world and prepare them for careers in technology and digital media [@sefton-green_mapping_2013; @erstad_identity_2012].
+
 
 ## Guiding Concepts and Terms
 
+### Computational Thinking
+
+Computational thinking (CT) is a problem-solving approach that involves breaking down complex problems into smaller, more manageable parts and using algorithms, abstraction, and data representation to solve them [@wing_computational_2008]. CT involves a set of skills and processes that can be applied across a wide range of fields and disciplines, including computer science, mathematics, science, engineering, and the humanities[@allan_computational_2010; @brennan_new_2012; @curzon_developing_2014; @grover_computational_2017; @lye_review_2014].
+
+The core elements of CT include:
+
+- Decomposition: Breaking down a complex problem into smaller, more manageable parts.
+- Abstraction: Identifying the essential elements of a problem and abstracting away the details that are not relevant.
+- Pattern recognition: Identifying patterns and structures in the problem, and using these to develop algorithms and programs to solve it.
+- Algorithm design: Developing step-by-step instructions, or algorithms, to solve a problem.
+- Data representation: Using data structures and data representation techniques, such as arrays and graphs, to organize and manipulate information.
+
+CT provides a flexible and adaptable framework for solving problems and can be applied to a wide range of real-world scenarios. It is widely recognized as an important 21st-century skill and is increasingly being incorporated into the school curriculum to help students develop critical thinking and problem-solving skills that are relevant to a wide range of fields and industries [@curzon_developing_2014].
+
 ### Learner Agency
 
-Learner agency is a term used in education to describe the extent to which learners have control over their own learning and can make decisions about what, when, and how they learn. It is an important concept as it recognizes that learners are not passive recipients of knowledge, but active participants in their own learning process. Learner agency gives individuals the power to direct their own learning journey and make decisions that shape their education and future.
+Learner agency is a term used in education to describe the extent to which learners have control over their own learning and can make decisions about what, when, and how they learn[@mercer_complexity_2012; @sannino_formative_2016-1; @palfreyman_learner_2003]. It is an important concept as it recognizes that learners are not passive recipients of knowledge, but active participants in their own learning process. Learner agency gives individuals the power to direct their own learning journey and make decisions that shape their education and future.
 
-Learner agency encompasses several key aspects of the learning process, including motivation, self-directed learning, and autonomy. A learner with high agency is motivated to learn and takes an active role in the learning process, seeking out resources and opportunities to gain new knowledge and skills. They are also able to direct their own learning and make decisions about what they want to learn and how they want to learn it, rather than being solely guided by the teacher or curriculum.
+Learner agency encompasses several key aspects of the learning process, including motivation, self-directed learning, and autonomy. A learner with high agency is motivated to learn and takes an active role in the learning process, seeking out resources and opportunities to gain new knowledge and skills. They are also able to direct their own learning and make decisions about what they want to learn and how they want to learn it, rather than being solely guided by the teacher or curriculum[@mercer_complexity_2012].
 
-One way to develop learner agency is to create a learning environment that is supportive and empowering. This includes giving learners access to a variety of resources and opportunities, such as hands-on experiences, project-based learning, and opportunities to explore their interests. Teachers can also help foster learner agency by allowing students to take an active role in the learning process, such as setting their own goals, choosing their own learning methods, and reflecting on their progress.
+One way to develop learner agency is to create a learning environment that is supportive and empowering. This includes giving learners access to a variety of resources and opportunities, such as hands-on experiences, project-based learning, and opportunities to explore their interests [@sannino_formative_2016-1]. Teachers can also help foster learner agency by allowing students to take an active role in the learning process, such as setting their own goals, choosing their own learning methods, and reflecting on their progress [@palfreyman_learner_2003].
 
-### Learning coding from the perspective of Activity Theory
+### Learning Coding from the perspective of Activity Theory
 
 Activity theory is a framework that is used to analyse and understand the nature of human activity and how it contributes to learning and development. The theory views activity as a complex, holistic, and culturally-embedded phenomenon that is shaped by a variety of social, cultural, and historical factors.
 
@@ -42,34 +78,6 @@ In practice, this means that learners need to be involved in a supportive commun
 
 One key aspect of activity theory that is particularly relevant for learning to code is the concept of "expansive learning." This refers to the idea that learning is not just a matter of acquiring new skills, but also a process of transforming and expanding the individual's existing practices and cultural tools. For example, as learners engage in coding activities and projects, they are not only learning new programming concepts and syntax, but they are also expanding their understanding of the cultural practices and norms of the programming community.
 
-### Constructionist Approaches
-Constructionist approaches are a learning theory that emphasizes the hands-on creation and collaboration of meaningful projects in a social context. This approach to learning, popularized by Seymour Papert, is rooted in the belief that people learn best by actively constructing knowledge and understanding through experiences and reflection.
-
-In a constructionist learning environment, students engage in creative and collaborative activities such as designing and building prototypes, writing code, and creating digital media. Through these activities, students develop computational thinking skills, problem-solving skills, and a deeper understanding of complex concepts. The focus is not solely on learning the technical skills, but rather on how those skills can be used to solve real-world problems and create meaningful projects.
-
-Constructionist approaches are particularly effective for learning programming and coding because they provide a hands-on, interactive, and exploratory experience for students. Instead of simply being taught programming concepts and syntax, students are encouraged to experiment with different programming languages and platforms, modify existing code, and create their own programs and games. This helps them to gain a deeper understanding of the underlying principles of programming and how they can be applied in real-world scenarios.
-
-Furthermore, the social and collaborative aspect of constructionist approaches is critical to their success. By working in teams, students can build on each other's ideas, share their knowledge, and learn from each other. This fosters a supportive and encouraging environment that helps to demystify complex technical concepts and overcome obstacles.
-
-### Game Design Patterns
-
-Game design patterns are reusable templates or solutions that are used to solve common design problems in game development. These patterns provide a structure and a language for designers to communicate their ideas and solutions to each other, and they can help guide the design process and make it more efficient. Some of the most common game design patterns include mechanics, dynamics, and aesthetics patterns.
-
-Mechanics patterns describe the core rules and systems that govern gameplay. For example, a mechanic pattern might describe how players collect and use resources in a game, or how they progress through levels and challenges. Mechanics patterns are the building blocks of game design, and they provide a foundation for the rest of the design process.
-
-Dynamics patterns describe the relationships and interactions between mechanics, and how they create emergent behaviours and challenges for players. For example, a dynamics pattern might describe how players compete or cooperate with each other, or how they encounter and overcome obstacles in a game. Dynamics patterns help to shape the overall experience of a game and make it more engaging and dynamic.
-
-Aesthetics patterns describe the emotional, sensory, and narrative elements of a game that contribute to its overall style and feel. For example, an aesthetics pattern might describe how a game uses music and sound effects to create a specific atmosphere, or how it presents a story and characters to players. Aesthetics patterns play a crucial role in shaping the player's experience and making a game memorable and enjoyable.
-
-<!-- INCLUDE MDA FRAMEWORK HERE -->
-
-### Game Design Patterns as a way to learn Game Making
-
-Game Design Patterns provide a useful framework for novice game developers to learn game making and programming. They offer a common language and structure for designing and creating games, making it easier for new programmers to understand and implement complex game mechanics. By studying and applying game design patterns, novice game developers can learn the fundamental concepts of game development, including game mechanics, dynamics, and aesthetics, and use these concepts to create their own games.
-
-One of the advantages of using game design patterns is that they provide a set of reusable templates that can be adapted and customized to meet the needs of different games. For example, a novice game developer can use a pattern for collecting resources in a game and modify it to create a unique game mechanic that is tailored to the specific needs of their game. This allows novice game developers to quickly create engaging and well-designed games without having to start from scratch.
-
-Another advantage of game design patterns is that they can help novice game developers understand the design process and make it more efficient. By using game design patterns, novice game developers can focus on the creative and technical aspects of game development, and avoid spending time on repetitive tasks and implementing basic mechanics. This allows them to concentrate on developing innovative and unique games that are engaging and enjoyable for players.
 
 ## Game Making Pedagogies and Tools  
 
@@ -89,9 +97,9 @@ One of the challenges of code playgrounds is that they can be less powerful than
 
 ### Learning Coding through Tinkering
 
-Tinkering is a hands-on approach to learning, where individuals are encouraged to experiment, play, and explore with materials to gain a deeper understanding of how things work. In the context of coding, tinkering refers to the process of experimenting and playing with code to gain a deeper understanding of how programming works. This approach to learning coding provides a creative, engaging and fun way to learn, that can help individuals to acquire programming skills in a way that is accessible and meaningful to them.
+Tinkering as a pedagogy is based on the idea that learning is an active, hands-on process that involves exploration and experimentation. This approach is often contrasted with more traditional, lecture-based approaches to education, which emphasize the transmission of information from teacher to student [@bers_computational_2014; @bevan_tinkering_2014; @bevan_learning_2015; @gutwill_research_2015; @vossoughi_making_2015]. By providing opportunities for hands-on exploration and experimentation, tinkering helps learners to develop a deeper understanding of scientific and technological concepts.
 
-Tinkering with code involves experimenting with different codes, changing variables and testing the outcomes, which can help individuals to develop a deeper understanding of programming concepts. By tinkering, individuals can experiment with code without the pressure of producing a specific outcome, which can lead to a more relaxed and enjoyable learning experience.
+In the context of coding, tinkering refers to the process of experimenting and playing with code to gain a deeper understanding of how programming works [@gutwill_research_2015]. This approach to learning coding provides a creative, engaging and fun way to learn, that can help individuals to acquire programming skills in a way that is accessible and meaningful to them. Tinkering with code involves experimenting with different codes, changing variables and testing the outcomes, which can help individuals to develop a deeper understanding of programming concepts. By tinkering, individuals can experiment with code without the pressure of producing a specific outcome, which can lead to a more relaxed and enjoyable learning experience.
 
 Tinkering with code can also help individuals to develop their problem-solving and critical thinking skills, as they are encouraged to experiment, test and troubleshoot their code. This approach can help individuals to develop a more holistic understanding of programming, as they are able to understand the relationships between code and outcome, and learn how to apply programming concepts in real-world situations.
 
@@ -111,29 +119,89 @@ In addition, remixing games can be a great way for novice coders to collaborate 
 
 However, it is important to note that remixing games may not be suitable for all novice coders. Some novice coders may prefer to focus on developing original games, as they may feel that remixing games does not provide the same level of satisfaction and accomplishment. Additionally, remixing games may require a deeper understanding of game development, which may not be feasible for some novice coders.
 
+### Constructionist Approaches
+Constructionist approaches are a learning theory that emphasizes the hands-on creation and collaboration of meaningful projects in a social context. This approach to learning, popularized by Seymour Papert, is rooted in the belief that people learn best by actively constructing knowledge and understanding through experiences and reflection.
+
+In a constructionist learning environment, students engage in creative and collaborative activities such as designing and building prototypes, writing code, and creating digital media. Through these activities, students develop computational thinking skills, problem-solving skills, and a deeper understanding of complex concepts. The focus is not solely on learning the technical skills, but rather on how those skills can be used to solve real-world problems and create meaningful projects.
+
+Constructionist approaches are particularly effective for learning programming and coding because they provide a hands-on, interactive, and exploratory experience for students. Instead of simply being taught programming concepts and syntax, students are encouraged to experiment with different programming languages and platforms, modify existing code, and create their own programs and games. This helps them to gain a deeper understanding of the underlying principles of programming and how they can be applied in real-world scenarios.
+
+Furthermore, the social and collaborative aspect of constructionist approaches is critical to their success. By working in teams, students can build on each other's ideas, share their knowledge, and learn from each other. This fosters a supportive and encouraging environment that helps to demystify complex technical concepts and overcome obstacles.
+
+#### Microworlds
+
+The concept of microworlds, which Papert introduced in his work, refers to simplified computer simulations or models that represent real-world scenarios or phenomena. Microworlds provide a safe and controlled environment in which students can explore and experiment with concepts in a concrete and meaningful way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
+
+Papert believed that microworlds were an effective tool for promoting computational thinking, which he defined as the ability to think logically, systematically, and recursively. He argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking.
+
+In addition to promoting computational thinking, Papert believed that microworlds could also help students develop a deeper understanding of the underlying concepts in STEM subjects such as mathematics, science, and engineering. He argued that by working with microworlds, students could engage in hands-on and minds-on learning, which would help them to develop a deeper and more meaningful understanding of the concepts they were studying.
+
+The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1]. Today, microworlds are used in a variety of educational settings, from primary schools to universities, and have been shown to be an effective tool for promoting computational thinking and improving student learning outcomes.
+
+### Universal Design for Learning (UDL)
+
+Universal Design for Learning (UDL) is a framework for designing learning environments that are accessible and usable for all learners, regardless of their abilities or disabilities[@cast_about_nodate]. UDL is based on the idea that all learners have different needs, preferences, and ways of learning, and that learning environments should be designed to accommodate these differences. In the context of STEM education, UDL is a valuable approach that can help to make STEM learning accessible and engaging for all students, including those with disabilities or special needs.
+
+UDL in STEM education involves designing learning environments that offer multiple ways to access, engage with, and demonstrate understanding of STEM concepts and skills. For example, UDL in STEM might involve providing students with multiple means of representation, such as text, graphics, and audio, in order to support different learning styles. UDL might also involve providing students with multiple means of engagement, such as hands-on activities, simulations, and games, in order to keep all students engaged and motivated.
+
+UDL is based on the idea that all learners have different learning needs and preferences, and that learning environments should be designed to accommodate these differences. This is particularly important in STEM education, where many students may struggle with certain concepts or skills due to differences in their learning styles or abilities. By using UDL principles to design STEM learning environments, educators can help to ensure that all students have equal opportunities to succeed in STEM, regardless of their abilities or disabilities.
+
+UDL also has the potential to support equity and inclusion in STEM education. By providing multiple ways to access and engage with STEM concepts and skills, UDL can help to reduce barriers to STEM learning for students with disabilities or special needs. This can help to increase diversity and inclusiveness in STEM, and to increase opportunities for all students to succeed in these fields. One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014].
+
+### Computational Thinking Patterns and Scalable Game Design
+
+Computational thinking patterns are an important aspect of computer science education, and are increasingly being recognized as a valuable tool for teaching problem-solving and critical thinking skills. One prominent approach to teaching computational thinking patterns is based on the work of Repenning, who has developed a framework, scalable game design, for teaching these concepts in a way that is accessible and engaging for students of all ages and backgrounds[@basawapatna_recognizing_2011; @basawapatna_using_2010; @lamprou_teaching_2018; @repenning_broadening_2008]. Scalable game design is a method for teaching computational thinking patterns that emphasizes the development of games as a means of learning. This approach is designed to be both engaging and accessible to a wide range of learners, regardless of prior experience or background. It is based on the idea that game design can be used as a way of teaching computational thinking and programming concepts in a way that is fun, interactive, and relevant to students.
+
+One of the key features of Repenning’s approach is that it provides a visual representation of computational thinking patterns, which can help students to understand these concepts more easily. For example, students can work with visual models of algorithms, which can help to develop an understanding of how algorithms work, and how they can be used to solve problems. This can be especially beneficial for students who are not naturally inclined towards computer science or technology, as it provides a context for learning that is more engaging and relevant to their interests.
+
+One of the key benefits of scalable game design is that it can help to develop a range of technical and creative skills. By working on game design projects, students can learn how to program, design and test game mechanics, and develop their ability to solve problems and think creatively. Additionally, scalable game design provides a way for students to learn about game design and development from a practical perspective. Students can work on projects that are both challenging and engaging, and can learn about the design and development process from start to finish. This can be an important experience for students who are interested in pursuing careers in game design or development, as it provides a hands-on understanding of what is involved in these fields.
+
+Scalable game design is also highly flexible and can be adapted to suit a wide range of learning environments. It can be used in the classroom, in after-school programs, and even in online learning environments. This makes it an accessible and effective method of teaching computer science and technology to a wide range of learners.
+
+### Game Design Patterns
+
+Design patterns are reusable solutions to common problems that arise in software design. They provide a standardized and proven approach to solving these problems, which can help to improve the quality and efficiency of software development. Design patterns are often described as templates or blueprints for solving problems and are used by software developers to structure their code and ensure that it is maintainable, scalable, and efficient [@dearden_pattern_2006; @gamma_design_1995].
+
+Game design patterns are reusable templates or solutions that are used to solve common design problems in game development. These patterns provide a structure and a language for designers to communicate their ideas and solutions to each other, and they can help guide the design process and make it more efficient. Some of the most common game design patterns include mechanics, dynamics, and aesthetics patterns [@hunicke_mda:_nodate; @schell_art_2008].
+
+Mechanics patterns describe the core rules and systems that govern gameplay. For example, a mechanic pattern might describe how players collect and use resources in a game, or how they progress through levels and challenges. Mechanics patterns are the building blocks of game design, and they provide a foundation for the rest of the design process [@bjork_patterns_2005; @bjork_games_2006].
+
+Dynamics patterns describe the relationships and interactions between mechanics, and how they create emergent behaviours and challenges for players. For example, a dynamics pattern might describe how players compete or cooperate with each other, or how they encounter and overcome obstacles in a game. Dynamics patterns help to shape the overall experience of a game and make it more engaging and dynamic.
+
+Aesthetics patterns describe the emotional, sensory, and narrative elements of a game that contribute to its overall style and feel. For example, an aesthetics pattern might describe how a game uses music and sound effects to create a specific atmosphere, or how it presents a story and characters to players. Aesthetics patterns play a crucial role in shaping the player's experience and making a game memorable and enjoyable @hunicke_mda:_nodate.
+
+<!-- INCLUDE MDA FRAMEWORK HERE -->
+
+### Game Design Patterns as a way to learn Game Making
+
+Game Design Patterns provide a useful framework for novice game developers to learn game making and programming. They offer a common language and structure for designing and creating games, making it easier for new programmers to understand and implement complex game mechanics. By studying and applying game design patterns, novice game developers can learn the fundamental concepts of game development, including game mechanics, dynamics, and aesthetics, and use these concepts to create their own games [@eriksson_using_2019; @repenning_scalable_2010].
+
+One of the advantages of using game design patterns is that they provide a set of reusable templates that can be adapted and customized to meet the needs of different games. For example, a novice game developer can use a pattern for collecting resources in a game and modify it to create a unique game mechanic that is tailored to the specific needs of their game. This allows novice game developers to quickly create engaging and well-designed games without having to start from scratch [@eriksson_using_2019].
+
+Another advantage of game design patterns is that they can help novice game developers understand the design process and make it more efficient. By using game design patterns, novice game developers can focus on the creative and technical aspects of game development, and avoid spending time on repetitive tasks and implementing basic mechanics. This allows them to concentrate on developing innovative and unique games that are engaging and enjoyable for players [@eriksson_using_2019].
 
 
 ### The "Use, Modify, Create" (UMC) approach
 
-The "Use, Modify, Create" (UMC) approach is a pedagogical approach to teaching coding that emphasizes hands-on learning through experimentation and exploration. The UMC approach is based on the idea that the best way for students to learn coding is by actively engaging with it, rather than simply being lectured on its concepts. This approach encourages students to start with existing code, games, and programs, and then modify and build upon them to create their own unique creations.
+The "Use, Modify, Create" (UMC) approach is a pedagogical approach to teaching coding that emphasizes hands-on learning through experimentation and exploration [@lee_computational_2011; @lytle_use_2019; @martin_extending_2020; @sentance_primm_2017]. The UMC approach is based on the idea that the best way for students to learn coding is by actively engaging with it, rather than simply being lectured on its concepts. This approach encourages students to start with existing code, games, and programs, and then modify and build upon them to create their own unique creations.
 
-UMC is often used in computer science and technology education as a way to engage students in the learning process and provide them with meaningful, hands-on experiences. For example, students may start by modifying an existing game or program, such as changing the colours, adding new features, or altering the gameplay mechanics. This process of modification allows students to develop a deeper understanding of how the code works, as well as build their own skills and confidence as coders.
+UMC is often used in computer science and technology education as a way to engage students in the learning process and provide them with meaningful, hands-on experiences. For example, students may start by modifying an existing game or program, such as changing the colours, adding new features, or altering the gameplay mechanics. This process of modification allows students to develop a deeper understanding of how the code works, as well as build their own skills and confidence as coders [@lytle_use_2019].
 
-Once students have gained experience through modification, they are then encouraged to create their own games and programs from scratch. This often involves working in small groups or teams, which fosters collaboration and encourages students to share ideas and support each other in the creation process. Through this hands-on, experiential learning approach, students are able to apply what they have learned and develop a deeper understanding of coding concepts and techniques.
+Once students have gained experience through modification, they are then encouraged to create their own games and programs from scratch. This often involves working in small groups or teams, which fosters collaboration and encourages students to share ideas and support each other in the creation process. Through this hands-on, experiential learning approach, students are able to apply what they have learned and develop a deeper understanding of coding concepts and techniques [@sentance_primm_2017].
 
-UMC is also used in game design and development education, as a way to foster creative thinking and innovation. By allowing students to modify and create their own games, they are given the opportunity to express their unique ideas and perspectives, and to develop a personal connection to the content they are learning.
+UMC is also used in game design and development education, as a way to foster creative thinking and innovation. By allowing students to modify and create their own games, they are given the opportunity to express their unique ideas and perspectives, and to develop a personal connection to the content they are learning [@lee_computational_2011].
 
 ## Game Making Communities
 
 ### Leveraging Funds on Knowledge to create Game Making communities
 
-The concept of "funds of knowledge" refers to the array of skills, knowledge, and resources that exist within a community. This can include practical skills such as cooking or carpentry, as well as cultural traditions and values that shape a community's identity. Developing communities using these funds of knowledge can be an effective way to empower communities and build social capital.
+The concept of "funds of knowledge" refers to the array of skills, knowledge, and resources that exist within a community [@moje_working_2004; @moll_elaborating_2019; @moll_funds_1992]. This can include practical skills such as cooking or carpentry, as well as cultural traditions and values that shape a community's identity. Developing communities using these funds of knowledge can be an effective way to empower communities and build social capital.
 
-One of the key ways that funds of knowledge can be leveraged is by creating opportunities for community members to share their skills and knowledge with others. This can take the form of classes or workshops, where community members can teach others what they know. This can create a sense of pride and ownership in the community, as people recognize the value of what they have to offer. Additionally, this type of sharing can foster a sense of community as people come together to learn and grow.
+One of the key ways that funds of knowledge can be leveraged is by creating opportunities for community members to share their skills and knowledge with others [@moje_working_2004]. This can take the form of classes or workshops, where community members can teach others what they know. This can create a sense of pride and ownership in the community, as people recognize the value of what they have to offer. Additionally, this type of sharing can foster a sense of community as people come together to learn and grow.
 
 Developing communities for young learners using funds of knowledge can be a valuable approach for creating inclusive and empowering learning environments. This approach recognizes that young learners bring a wealth of skills, knowledge, and resources to the learning process, and seeks to tap into these funds of knowledge to create a more meaningful and engaging learning experience.
 
-One of the key ways that funds of knowledge can be leveraged in the development of communities for young learners is in the development of communities for young learners is to incorporate real-world, hands-on learning experiences into the curriculum. For example, if a community has a strong tradition of farming, this could be used to create gardening or agriculture projects for students. Similarly, if a community has a strong tradition of crafting, this could be incorporated into art or design projects for students. These hands-on learning experiences can provide students with a sense of purpose and relevance, as they are able to see how the skills and knowledge they are learning can be applied in the real world.
+One of the key ways that funds of knowledge can be leveraged in the development of communities for young learners is in the development of communities for young learners is to incorporate real-world, hands-on learning experiences into the curriculum [@moll_elaborating_2019]. For example, if a community has a strong tradition of farming, this could be used to create gardening or agriculture projects for students. Similarly, if a community has a strong tradition of crafting, this could be incorporated into art or design projects for students. These hands-on learning experiences can provide students with a sense of purpose and relevance, as they are able to see how the skills and knowledge they are learning can be applied in the real world.
 
 ### The Development of Game Making Communities: Industry-based Resources and Initiatives
 
@@ -150,3 +218,13 @@ In addition to these resources, there are several initiatives that have been dev
 Another initiative that supports the development of game making communities is the Indie Game Developer Network (IGDN). The IGDN is a non-profit organization that provides game developers with the resources and support they need to develop their games. The organization offers a range of services, including funding opportunities, mentorship programs, and access to industry resources.
 
 Finally, game development grants and funding initiatives are another important resource that supports the development of game making communities. These grants and funding initiatives provide game makers with the financial resources they need to develop their games, and help to support the growth and development of the game development industry as a whole. Some of the most well-known grants and funding initiatives for game makers include the Indie Fund, the Games for Change Fellowship, and the Intel Game Dev Grant.
+
+### Scratch - An On-line Community for Young Coders
+
+Scratch is a popular online community that provides a platform for young people to create, share, and collaborate on interactive games, animations, and stories. The community is based on Scratch, a graphical programming language and software developed by the Lifelong Kindergarten Group at the Massachusetts Institute of Technology (MIT).
+
+Scratch provides an intuitive, block-based programming interface that makes it easy for young people to create and share interactive projects. The community has a strong focus on collaboration, with users able to share their projects, comment on each other's work, and remix each other's projects to create new and original content.
+
+The Scratch online community has become a vibrant and dynamic space for young people to express themselves and learn about computer science and digital media. The community has a wide range of projects and activities, including games, animations, stories, and simulations, that are created by young people from all over the world. The community also provides a range of educational resources and tutorials, including online forums and discussion groups, that help users to learn new skills and get feedback on their work.
+
+The Scratch community has been shown to have a number of positive impacts on young people, including increased engagement and motivation in computer science, improved problem-solving andfunds of knowledge critical thinking skills, and enhanced creativity and collaboration. It has also been shown to be a valuable tool for promoting diversity and inclusion in technology, as it provides a platform for young people from diverse backgrounds to express themselves and showcase their skills.
