@@ -896,7 +896,7 @@ In this section the processes of personal appropriation of experience and knowle
  - Example - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
 
-### Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
+### Game Design Patterns whenn sharing back to Community (or not) MOVE / CHANGE
 
 There are many examples of the use of language afforded by GDPs being used to increase effectiveness and confidence in communication. However not all participants take full advantage of the language available to them.
 
@@ -908,35 +908,34 @@ HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask 
 
 <!-- This is also dealt with above "GDPs propagation through peer activity"
 Find another example? -->
-
 However, this use of language is not universally taken advantage of. Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
 
-  Mi - Ne!, Ne! Ne.
+    Mi - Ne!, Ne! Ne.
 
-  Mi: Do you know how to get it in the game?
-  Ne: Oh my god!
-  Mi: Well . First of all save it to the gallery. How do you save it?
-  Ah there you are. Save it.
-  Is it saved?
-  Right now export it.
-  Ne: Do you even know what export means?  
-  Mi: I know what export means!
-  Ne- Ok then smartie pants.
-  Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
-  Ne – Gold coins.
-  Mi - Right so, What are you doing? Do you know what you are doing?
-  I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
-  Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
-  Where's my spaceman?
-  Ne: Wait! What do you want the aliens as?
-  Mi: The hazards.
-  Mi: Yaaay!
-  Mi: And now the rocket thing as the like you know the good thing - the reward.
-  Ne: Who wants a rocket for their reward?
-  Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
-  Ne: It's a very violent game.
-  Mi: What  ?
-  Ne: It's a very violent game.  
+    Mi: Do you know how to get it in the game?
+    Ne: Oh my god!
+    Mi: Well . First of all save it to the gallery. How do you save it?
+    Ah there you are. Save it.
+    Is it saved?
+    Right now export it.
+    Ne: Do you even know what export means?  
+    Mi: I know what export means!
+    Ne- Ok then smartie pants.
+    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
+    Ne – Gold coins.
+    Mi - Right so, What are you doing? Do you know what you are doing?
+    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
+    Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
+    Where's my spaceman?
+    Ne: Wait! What do you want the aliens as?
+    Mi: The hazards.
+    Mi: Yaaay!
+    Mi: And now the rocket thing as the like you know the good thing - the reward.
+    Ne: Who wants a rocket for their reward?
+    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
+    Ne: It's a very violent game.
+    Mi: What  ?
+    Ne: It's a very violent game.  
 
 NOTE - OVERLAP WITH THE BELOW WITH PREVIOUS SECTION ON AT TERMS
 
@@ -1185,7 +1184,11 @@ The heart of the matter here is how transferable knowledge is without a contextu
 Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
  -->
 
+#### Game design to get under the hood - games as a design artefact
 
+As per Bruno - we are surrounded by designed objects. This process of making lifts the lid on that process.
+
+See example between helper and Pa in 2019-03-18 at the end. 
 
 ## Final Section - Synthesis.
 
