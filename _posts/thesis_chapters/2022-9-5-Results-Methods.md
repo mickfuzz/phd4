@@ -139,6 +139,17 @@ Find examples
 
 Find examples
 
+
+#### Play testing - and embodied participation in the games of others.
+
+study the body language of those play testing games.
+what is there ? - included
+
+- wrestling for control
+- movement around the room between screens
+- calling across room
+- clustering, remaining on outskirts. 
+
 ### Drama / Fictional Frameworks:
 
 <!-- Background - (be sure to include in lit review)  -->

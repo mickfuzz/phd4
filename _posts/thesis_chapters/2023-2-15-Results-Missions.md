@@ -21,7 +21,7 @@ title: Findings Chapter 2 - It’s like a project in itself really
   - Cultural
   - Guided participation
   - Personal appropriation
-- Discussion (focus on interpersonal)
+- Discussion (focus on interpersonal and agency)
 
 
 ## Chapter introduction
