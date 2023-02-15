@@ -837,7 +837,7 @@ The process of adding in a new GDP to the game was often a sustaining activity.
 The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
-Example of adding a new level in 2019-03-18-th_sh -
+Example of adding a new level in 2019-03-18-th_sh
 
 In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
 
