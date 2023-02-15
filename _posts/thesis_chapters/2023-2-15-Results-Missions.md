@@ -23,6 +23,11 @@ title: Findings Chapter 2 - It’s like a project in itself really
   - Personal appropriation
 - Discussion (focus on interpersonal and agency)
 
+## Notes on things to add
+
+GDP language used as lingua franca to problems solve / debug.
+
+
 
 ## Chapter introduction
 
@@ -537,6 +542,28 @@ When pairs return from playtesting to pair design work they are guided in decisi
 
 THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
 
+#### GDPs propagation through peer activity
+
+The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
+
+  Ch: Why’s that enemy in every level
+  Te: He’s not.
+  Ch: Can you show me how you add more levels on to yours.
+  Te: Yeah sure.
+  Pause
+  Te: I’m just going to have one go of beating this. It’s 21 levels in it. So .. Yeeeeah.
+  Pause
+  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipe out. Have you ever played wipeout.
+  Te: Er not really.
+  Ch: Or seen it.
+  Ch: That’s like my second level.
+  Te: Ah so hard (Te fails at a high level on his game and starts to move off)
+
+  Te: (To someone else  calling for attention)  No I’m helping ..
+  (Te then follows Ch to his workstation to help him implement more levels.)
+
+FURTHER DISCUSSION HERE
+
 <!--
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
@@ -797,27 +824,7 @@ These kinds of shifts of activity and cultural practices brought by the particip
 
 
 
-### GDPs propagation through peer activity
 
-The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
-
-  Ch: Why’s that enemy in every level
-  Te: He’s not.
-  Ch: Can you show me how you add more levels on to yours.
-  Te: Yeah sure.
-  Pause
-  Te: I’m just going to have one go of beating this. It’s 21 levels in it. So .. Yeeeeah.
-  Pause
-  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipe out. Have you ever played wipeout.
-  Te: Er not really.
-  Ch: Or seen it.
-  Ch: That’s like my second level.
-  Te: Ah so hard (Te fails at a high level on his game and starts to move off)
-
-  Te: (To someone else  calling for attention)  No I’m helping ..
-  (Te then follows Ch to his workstation to help him implement more levels.)
-
-FURTHER DISCUSSION HERE
 
 
 ### GDPs to support Flexible (Iterative) Design Practices
@@ -1180,7 +1187,7 @@ Firstly how wide should reuse be imagined? To other coding projects? Or wider cl
 
 
 
-## Final Section - Synthesis
+## Final Section - Synthesis.
 
 Summary on contribution to existing research
 Bring more synthesis here especially in translation of design elements due to this context
