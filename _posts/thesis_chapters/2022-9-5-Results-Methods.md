@@ -12,12 +12,13 @@ title: Results Methods
 
 ## Overview in points
 
-- Playing game and ongoing play-testing
-- Remixing - impact, examples
+- Playing games to start and ongoing play-testing
+- Remixing / Half-baked - impact, examples
 - Scenarios
-- Playtesting
 - Player and Maker Types
 - Finally - Creating a walled garden for GDP - an overview from a cultural, community perspective?
+
+This needs work to structure effectively AND a focus on agency? 
 
 
 ## Culturally Inclusive Methods to Kick Start Game Making Communities
@@ -148,7 +149,7 @@ what is there ? - included
 - wrestling for control
 - movement around the room between screens
 - calling across room
-- clustering, remaining on outskirts. 
+- clustering, remaining on outskirts.
 
 ### Drama / Fictional Frameworks:
 

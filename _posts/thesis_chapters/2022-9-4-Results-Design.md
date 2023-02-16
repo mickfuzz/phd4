@@ -10,6 +10,10 @@ categories: chapter
 title: evolution of Design
 ---
 
+## Bullet points of things to add
+
+- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework. 
+
 ## Chapter outline
 
 - Summary of design phases

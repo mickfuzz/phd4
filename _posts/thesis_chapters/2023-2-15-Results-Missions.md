@@ -485,7 +485,16 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
-### GDPs and their interaction with play-testing to build a supportive community
+### GDPs and their interaction with play-testing to build game making community
+
+- GDPs used when giving feedback in play- testing,
+- praise &
+- direct calls for improvement,
+- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
+- Example Ch and Pa - revising game based on Te's FEEDBAC
+- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
+- Discussion - How much to teach terms or let them deveop?  
+
 
 In the previous chapter play-testing was seen to provide opportunities to build a supportive game making community, including x,y & z. This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
 
@@ -544,6 +553,11 @@ THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
 
 #### GDPs propagation through peer activity
 
+- GDPs spread during play testing and other peer activity-
+-
+- Example Ch suggesting games similar - parcour
+-
+
 The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
 
   Ch: Why’s that enemy in every level
@@ -573,9 +587,26 @@ The placement of hazards as design pattern to increase challenge -->
 
 ### GDPs and personal expression (cultural) -
 
-<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
+- Games offer many opportunities for maker to bring personal elements - however this can be complex and can lead to tensions [already explored in design]
+- Perhaps a transcript at start of process. Ma and Fi,  Ma and Fi ? Interview data?
+- Perhaps interview data? Te and Su? Bee keeping? Zi and Pa - family thing?
+- Mi and graphical expressions? 
+
+
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
+(may need to move?)
+Just create a summary here.
+-->
 
 Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
+
+However, incorporating personal elements can involve challenges including that of unrealistic expectations based on previous game playing experiences.
+
+This section explores findings on personal expression of funds of knowledge from previous experiences of users in this learning design.
+
+
+
+<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.  -->
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
@@ -1188,7 +1219,7 @@ Firstly how wide should reuse be imagined? To other coding projects? Or wider cl
 
 As per Bruno - we are surrounded by designed objects. This process of making lifts the lid on that process.
 
-See example between helper and Pa in 2019-03-18 at the end. 
+See example between helper and Pa in 2019-03-18 at the end.
 
 ## Final Section - Synthesis.
 
