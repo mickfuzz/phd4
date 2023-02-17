@@ -694,7 +694,7 @@ It may be the parent knew this was a way to sustain involvement and interest.
 
 Note the limits of this interpretation.
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
-A tension here to be briefly explored or noted to explore later. 
+A tension here to be briefly explored or noted to explore later.
 
 ### Use of Help and Documentation related to GDP
 
