@@ -303,10 +303,7 @@ REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
   -->
 
 
-**Ask / Imagine**
 
-- In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
-- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
 
 **Plan**
 
@@ -766,7 +763,22 @@ This section examines the use of GDP to facilitate guided participation in game 
 
 - If needed a quick recap on guided apprenticeship.
 
-### GDPs for Goal Setting and Prioritisation
+### GDPs for Ideation and Goal Setting and Prioritisation
+
+### Ideation and Goal Setting
+
+The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
+
+This was welcome show by Ma's comment.
+"It did go on for too long."
+
+
+**Ask / Imagine**
+
+- In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
+- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
+
+### GDPs for Prioritisation
 
 Q's on structure
 - is ideation different? this is imagine / plan
