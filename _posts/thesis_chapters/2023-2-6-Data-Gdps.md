@@ -578,20 +578,17 @@ The placement of hazards as design pattern to increase challenge -->
 
 ### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
 
-- Games offer many opportunities for maker to bring personal elements - however this can be complex and can lead to tensions [already explored in design]
-- Perhaps a transcript at start of process. Ma and Fi,  Ma and Fi ? Interview data?
-- Perhaps interview data? Te and Su? Bee keeping? Zi and Pa - family thing?
-- Mi and graphical expressions?
 
 
-As we explored in previous chapters, the ability to design graphics, audio assets, design levels, can be incorporate other personally meaningful narrative elements into created games can be engaging and sustain motivation [papert, roque, kafai etc].
 
-However, incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences.
 
-This section explores findings on personal expression of users using GDPs.
-It also deepens key tensions identified in the _design chapter_. Namely, 
+In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences. As we explored in previous chapters, the ability to design graphics, audio assets, design levels, can be incorporate other personally meaningful narrative elements into created games can be engaging and sustain motivation [papert, roque, kafai etc].
 
-LIST THEM
+It also deepens key tensions identified in the _design chapter_. Namely;
+
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+- list others
+
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
 (may need to move?)
 Just create a summary here.
@@ -625,7 +622,6 @@ So while structured to avoid
 #### Narratives and aesthetics of Games driven by Home Interests
 
 - Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
-- Other examples, Ch and Pa, bees, Zi's comment / interaction with Pa
 <!--
 also in [erikssonUsingGameplayDesign2019;] -->
 
@@ -633,10 +629,15 @@ As part of the creative process participants were able to input their own prefer
 
 Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
 
-NOTE
-NARRATIVE IN PREVIOUS CHAPTER?
+The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game. Find and include example from Ch and Pa.
+Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
+In an interview exchange they
+
+<!-- NOTE
+NARRATIVE IN PREVIOUS CHAPTER? -->
+
+
 
     var starttext = "This is a game which pits a honey bee
     against a swarm of Asian hornets,
@@ -648,6 +649,13 @@ Another opportunity involved choice and design of game assets that allowed the e
     hornets.
     Use the arrow keys to move the bee.
              Press return to START.";
+
+
+In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+
+    zi: Have you done amazing things?
+
+The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
 
 
 #### Focus on Visual asset creation and selection   
@@ -682,7 +690,11 @@ It may be the parent knew this was a way to sustain involvement and interest.
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 - The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
 
+#### Discussion Limitation of asset work as a GDP
 
+Note the limits of this interpretation.
+While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
+A tension here to be briefly explored or noted to explore later. 
 
 ### Use of Help and Documentation related to GDP
 
