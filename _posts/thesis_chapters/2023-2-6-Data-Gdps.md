@@ -641,6 +641,9 @@ As part of the creative process participants were able to input their own prefer
 
 Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
 
+NOTE
+NARRATIVE IN PREVIOUS CHAPTER?
+
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game. Find and include example from Ch and Pa.
 
     var starttext = "This is a game which pits a honey bee
