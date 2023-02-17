@@ -10,6 +10,115 @@ categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
 
+-   [Notes on restructure](#notes-on-restructure)
+-   [Notes on things to add](#notes-on-things-to-add)
+-   [Chapter introduction](#chapter-introduction)
+-   [Introduction to This Writing](#introduction-to-this-writing)
+    -   [Recap on Game Design
+        Patterns -](#recap-on-game-design-patterns--)
+-   [Study of Vignette A](#study-of-vignette-a)
+    -   [Descriptive Commentary on Vignette
+        A](#descriptive-commentary-on-vignette-a)
+    -   [Describing design stages for this pair beyond this
+        interaction](#describing-design-stages-for-this-pair-beyond-this-interaction)
+        -   [Discussion on design stages and GDP for this
+            pair](#discussion-on-design-stages-and-gdp-for-this-pair)
+-   [Identifying the implementation of GDP as a key unit of
+    analysis](#identifying-the-implementation-of-gdp-as-a-key-unit-of-analysis)
+    -   [Discussion on scope of activity systems (MAY
+        MOVE)](#discussion-on-scope-of-activity-systems-may-move)
+-   [Cultural, Interpersonal & Personal Planes Analysis of use of
+    GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
+-   [GDPs and Apprenticeship](#gdps-and-apprenticeship)
+    -   [GDPs and their interaction with play-testing to build game
+        making
+        community](#gdps-and-their-interaction-with-play-testing-to-build-game-making-community)
+        -   [GDPs propagation through peer
+            activity](#gdps-propagation-through-peer-activity)
+    -   [GDPs and the sharing of personal experiences, identity and
+        preferences
+        (cultural) -](#gdps-and-the-sharing-of-personal-experiences-identity-and-preferences-cultural--)
+        -   [Narratives and aesthetics of Games driven by Home
+            Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
+        -   [Focus on Visual asset creation and
+            selection](#focus-on-visual-asset-creation-and-selection)
+        -   [Asset selection](#asset-selection)
+    -   [Use of Help and Documentation related to
+        GDP](#use-of-help-and-documentation-related-to-gdp)
+        -   [Use of a non-linear menu of
+            Gdp](#use-of-a-non-linear-menu-of-gdp)
+        -   [Use of simple code examples which demonstrate the pattern
+            in
+            isolation](#use-of-simple-code-examples-which-demonstrate-the-pattern-in-isolation)
+    -   [Use of GDP to facilitate apprenticeship in wider cultural
+        practices](#use-of-gdp-to-facilitate-apprenticeship-in-wider-cultural-practices)
+-   [GDPs and Guided Participation](#gdps-and-guided-participation)
+    -   [GDPs for Ideation and Goal Setting and
+        Prioritisation](#gdps-for-ideation-and-goal-setting-and-prioritisation)
+    -   [Ideation and Goal Setting](#ideation-and-goal-setting)
+        -   [Ask / Imagine / Ideation from Sh an
+            Th](#ask-imagine-ideation-from-sh-an-th)
+    -   [GDPs for project organisation /
+        coordination](#gdps-for-project-organisation-coordination)
+        -   [Example of Parent supporting planning Sh and
+            Th](#example-of-parent-supporting-planning-sh-and-th)
+        -   [GDPs for Prioritisation (include in organisation
+            )](#gdps-for-prioritisation-include-in-organisation)
+        -   [Direct task delegation](#direct-task-delegation)
+        -   [Informal task division](#informal-task-division)
+    -   [GDPs motivation and sustaining
+        engagement](#gdps-motivation-and-sustaining-engagement)
+        -   [Example prototyping a new GDP on
+            paper](#example-prototyping-a-new-gdp-on-paper)
+    -   [GDPs support Flexible Design Practices - REMOVE / MOVE TO
+        DISCUSSION?](#gdps-support-flexible-design-practices---remove-move-to-discussion)
+        -   [GDPs scaffolding the product revision process and
+            debugging](#gdps-scaffolding-the-product-revision-process-and-debugging)
+        -   [Interaction of GDPs and designing for others as a
+            method](#interaction-of-gdps-and-designing-for-others-as-a-method)
+            -   [Discussion of designing for others - move to
+                discussion?](#discussion-of-designing-for-others---move-to-discussion)
+-   [GDPs and Participatory
+    Appropriation](#gdps-and-participatory-appropriation)
+    -   [GDP as a way to surface Computational Thinking and Systems
+        Concepts](#gdp-as-a-way-to-surface-computational-thinking-and-systems-concepts)
+    -   [Use of GDP when contributing back to
+        Community](#use-of-gdp-when-contributing-back-to-community)
+    -   [Operations, actions and
+        activity](#operations-actions-and-activity)
+-   [Additional Chapter Discussion](#additional-chapter-discussion)
+    -   [The limits of design cycle
+        stages](#the-limits-of-design-cycle-stages)
+    -   [Value Faff Time.](#value-faff-time.)
+    -   [Improving is Creating and Planning when
+        remixing](#improving-is-creating-and-planning-when-remixing)
+    -   [Digital Jamming](#digital-jamming)
+    -   [Discussion - encouraging improvisation in the design
+        process.](#discussion---encouraging-improvisation-in-the-design-process.)
+    -   [Discussing Game design patterns as a tool to expose and give
+        participants a language to discuss and resolve tensions
+        (Practitioner
+        focus)](#discussing-game-design-patterns-as-a-tool-to-expose-and-give-participants-a-language-to-discuss-and-resolve-tensions-practitioner-focus)
+        -   [Use of GDP as communication short
+            cuts](#use-of-gdp-as-communication-short-cuts)
+        -   [Use of restricted set of collated GDP
+            patterns](#use-of-restricted-set-of-collated-gdp-patterns)
+    -   [Design patterns as a "middle level" construct to open door to
+        more concrete and abstract (Wider
+        focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
+        -   [Game design to get under the hood - games as a design
+            artefact](#game-design-to-get-under-the-hood---games-as-a-design-artefact)
+-   [Final Section - Synthesis.](#final-section---synthesis.)
+    -   [Strengths and Weaknesses of the GDP construct /
+        terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
+    -   [Design patterns as a teaching aid in informal vs formal
+        environments](#design-patterns-as-a-teaching-aid-in-informal-vs-formal-environments)
+    -   [Link Paragraph to next
+        chapter](#link-paragraph-to-next-chapter)
+-   [Transcript Excerpts](#transcript-excerpts)
+    -   [2019-05-08-te-da pt 1](#te-da-pt-1)
+
+
 
 ## Notes on restructure
 
@@ -20,14 +129,12 @@ title: Findings Chapter 2 - It’s like a project in itself really
 - Results and Data on how GDPs are used
   - Cultural
   - Guided participation
-  - Personal appropriation
+  - Personal / participatory appropriation (include - operationalising as appropriation)
 - Discussion (focus on interpersonal and agency)
 
 ## Notes on things to add
 
-GDP language used as lingua franca to problems solve / debug.
-
-
+- GDP language used as lingua franca to problems solve / debug.
 
 ## Chapter introduction
 
@@ -303,35 +410,6 @@ REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
   -->
 
 
-
-
-**Plan**
-
-- in planning stages the parent provides scaffolding to help the child.
-- In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.    
-
-**Create**
-
-- At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of  attention.
-- At times the parent asked the child to seek help from facilitator.  
-- At another time, when the child was bored waiting for parent debugging, she approached the facilitator to ask for help on behalf of the adult without prompting.  
-
-**Test**
-
-- The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
-- The testing process here is quite frustrating as gravity is very low. This is addressed later as it is improved on the suggestion of the parent who has to do the majority of the testing.
-
-**Improve**
-
-- Parent navigates to a particular part of the code for child to alter design
-- Child takes on challenge of making smaller changes once the core game mechanic code has been added.
-
-**Share**
-
-- One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
-- The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
-
-
 #### Discussion on design stages and GDP for this pair
 
 <!-- - This grouping sometimes left early having completed more in code development than others but completed less social activities. -->
@@ -415,49 +493,7 @@ This sentiment is echoed by something I found in the video data. As one parent F
 NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
 
 
-### Operations, actions and activity
 
-Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
-
-  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
-
-For now I list some bullet points with examples followed by a brief commentary to develop at a later date;
-
-- **Activity:** Implementing a game design pattern - e.g. adding keys and doors pattern
-- **Action:** Creating a graphical asset of a key and adding this to the level design
-- **Operation:** Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
-
-**Commentary:**
- In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
-
-  Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
-  Mi asks for help from partner but receives misleading advice which does not help her progress.
-
-  Mi – Oh no it’s not done that has it?
-
-  Mi calls the name of her child across room with theatrical gesture and loud whisper voice
-  Mi – “Ne!”
-  Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
-
-  Ne arrives to help.
-  Mi – I’m trying to delete them but they turn light grey.
-  Ne – So you want to get rid of them?
-  Mi – What are you doing? You have to tell me what you are doing so I can do it myself.
-  Mi – laughs
-  Ne – laughs.
-  Mi – I’ll just have to keep shouting at you if you don’t tell me.  
-  Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
-  Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-  Parent peer laughs
-  Ne bounces up in place and smiles broadly.
-  Mi- Thanks
-  Mi – So am I like back with the black now?  
-  Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
-  Mi – Oh X. Alright Bubs. Thanks.
-
-In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
-
-This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
 
 <!-- review this video to develop
 https://www.youtube.com/watch?v=BMi56ZBSows -->
@@ -471,7 +507,7 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 
 In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to the bulk of observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
-## Cultural Plane / Apprenticeship - and Game patterns
+## GDPs and Apprenticeship
 
 In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the role that game design patterns in particular. Design patterns are by parents, children and facilitators as a tool of apprenticeship in this emerging game making community.
 
@@ -682,6 +718,13 @@ Pair Sh and Th used a graphic of a cute dog as the background of their game.
 The child expressed a lot of positive regard to this dog and used it a way to stimulate conversation about their home interest in dogs during play testing. The subject was completely unrelated to the previously stated theme of the game.
 It may be the parent knew this was a way to sustain involvement and interest.
 
+**Example Sh and Th Sharing**
+
+- One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
+- The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
+
+
+
 ### Use of Help and Documentation related to GDP
 
 <!-- NOTE - Keep only the parts specifically on GDP -->
@@ -757,7 +800,7 @@ SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of
 
 
 
-## Interpersonal Focus (Guided Participation)
+## GDPs and Guided Participation
 
 This section examines the use of GDP to facilitate guided participation in game making. The primary source of material is from pair interactions between children and parents.  
 
@@ -773,15 +816,24 @@ This was welcome show by Ma's comment.
 "It did go on for too long."
 
 
-**Ask / Imagine**
+#### Ask / Imagine / Ideation from Sh an Th
 
 - In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
 - The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
 
-### GDPs for Prioritisation
 
-Q's on structure
-- is ideation different? this is imagine / plan
+### GDPs for project organisation / coordination
+
+
+##### Example of Parent supporting planning Sh and Th
+
+
+- in planning stages the parent provides scaffolding to help the child.
+- In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.    
+
+
+#### GDPs for Prioritisation (include in organisation )
+
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
@@ -825,7 +877,6 @@ THIS DOESN'T SEEM RIGHT
 Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's compliance may be a kind or pragmatic decision to allow smoother progress. -->
 
 
-### GDPs and division of Labour
 
 #### Direct task delegation
 
@@ -839,6 +890,21 @@ The utterance by the child "Key Door Person" seemingly indicated that the child 
 |T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
 Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange. It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
+
+
+**Notes to integrate here**
+
+While the child makes direct delegation they are free to undertake other activities.
+
+- At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of  attention.
+- At times the parent asked the child to seek help from facilitator.  
+- At another time, when the child was bored waiting for parent debugging, she approached the facilitator to ask for help on behalf of the adult without prompting.  
+
+This activity away from the screen could in some models be seen an non-productive. However, in a community model of learning this can be seen as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].
+
+Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
+
+
 
 #### Informal task division
 
@@ -891,15 +957,16 @@ Mi - Oh thank you very much. I'm very proud.
 
 ### GDPs motivation and sustaining engagement
 
-- this exists in community in Playtesting
+- these kinds of  exists in community in Playtesting - but different for side by side interactions - or are they - discuss
 - what is specific about interpersonal interactions
-- Example sh and Th - new element K and d - then adding a level -
-
+- Example sh and Th - new element K and d - then adding a level
 - Other examples needed?
 
 The process of adding in a new GDP to the game was often a sustaining activity.
 
 The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
+
+#### Example prototyping a new GDP on paper  
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
 - Example of adding a new level in 2019-03-18-th_sh - pair use paper as a process
@@ -914,22 +981,25 @@ More on role of parent and child to negociate approaches which maximise engageme
 
 - Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
 
-
-NOTE - more wo
-
-In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs.
+This pattern completion is mirrored in the work of other pairs.
 
 Thus replicating is a kind of participation in an emerging community.
+
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
-
-
-#### GDPs support Flexible (Iterative) Design Practices
+### GDPs support Flexible Design Practices - REMOVE / MOVE TO DISCUSSION?
 
 NOTE THIS IS CLEARLY RELATED TO THE ABOVE -
 HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
+HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
+
+**To integrate Testing example Sh and Th**
+
+- The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
+- The testing process here is quite frustrating as gravity is very low. This is addressed later as it is improved on the suggestion of the parent who has to do the majority of the testing.
+
 
 Iterative agile design is a highly cultural / interpersonal process.
 
@@ -950,8 +1020,6 @@ Example of Te and Da  - 10-15 mins transcribe in more detail.
 
 Changes in GDP are apparent in the emerging game,   
 
-
-
 In the example above where Te and Da are creating a new tilemap for a maze game, Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.  
 
 - Well suited to build a repeated design practice.
@@ -964,7 +1032,23 @@ While the design suits repeated design practice as illustrated by the example ab
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
-### Interaction of GDPs and designing for others as a method
+
+#### GDPs scaffolding the product revision process and debugging
+
+- Participants spend much time in the stages of Improve and Test often as a solo effort.
+- This process showed a personal appropriation of concepts like game feel / challenge
+- When done as a pair GDPs aided communication during the process.
+
+**Example Debugging**
+Find examples
+
+**Example Sh and Th improving their game**
+
+- Parent navigates to a particular part of the code for child to alter design
+- Child takes on challenge of making smaller changes once the core game mechanic code has been added.
+
+
+#### Interaction of GDPs and designing for others as a method
 
 As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
 
@@ -980,7 +1064,7 @@ Pull on examples of learners imagining the experience of others.
  - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
  - Another example -
 
-#### Discussion of designing for others
+##### Discussion of designing for others - move to discussion?
 
 This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
 
@@ -993,39 +1077,75 @@ Note: What added insights or tips for practitioners can I bring here?
 Value of design as a process, to see surrounding world as a designed experience, Latour.
 
 
-## GDPs and the Personal Plane
+## GDPs and Participatory Appropriation
 
-NOTE - THIS SECTION IS TO INCOMPLETE FOR MUCH FEEDBACK TO BE USEFUL. BUT INCLUDED AS AN INDICATION OF OVERALL PROPOSED STRUCTURE OF CHAPTER.
 
-The personal plane is explored in a following chapter (working title Maps). This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
+<!-- NOTE - REMOVE THIS. INCORPORATE HERE?
+
+The personal plane is explored in a following chapter (working title Maps).
+This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
+
+-->
+
 
 <!-- Provide a link to next chapter - but before that a round up / discussion / to specific elements in relation to GDPs
 
 May need a way to differential this chapters discussion of GDP - and that of the next one.
  -->
 
-
-### Mutual approaches to knowledge building
-
 In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
 
- - quick summary of Rogoff's take on personal appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
- - Example - GDPs used in this research program were mutually created based on feedback from participants
+
+ - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
+- Note on why this section is less important in this research, the expression of personal knowledge back into a community context is covered in part above.
+ - Example of mutuality - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
 
-### Game Design Patterns when sharing back to Community (or not) MOVE / CHANGE
+Situation
 
-There are many examples of the use of language afforded by GDPs being used to increase effectiveness and confidence in communication. However not all participants take full advantage of the language available to them.
+  The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
 
-NOTE - THIS SECTION IS NOT REALLY COHERENT - THERE'S DUPLICATION AND IT IS TOO INCOMPLETE FOR FEEDBACK.
 
-For example - 2019-03-18 - Sh & Th in the same session as Vignette A. We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.  using language afforded by GDPs.
+### GDP as a way to surface Computational Thinking and Systems Concepts
+
+ - CT concepts in a more concrete and abstract form arise especially in interactions with facilitator
+ - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
+
+
+The start of the discussion is is draft form in the next chapter.
+
+See outline here - > insert link.
+ https://mickfuzz.github.io/phd4/chapter/2022/09/07/Results-Maps.html
+
+However, rather than a focus on concepts of personal / transferable knowledge, the remainder of this section focuses on appropriation of practices.
+
+
+### Use of GDP when contributing back to Community
+
+In a previous section we examined GDPs used to build emerging community activity.
+
+Here I focus on the demonstration of individuals of the growth in use of practices.
+The concepts afforded by GDPs are used to;
+
+- increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
+- participate by asking for peer help using shared terms (see Mi below)
+
+
+**Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
+We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.  
+
+using language afforded by GDPs?
 
 HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
 
 <!-- This is also dealt with above "GDPs propagation through peer activity"
 Find another example? -->
-However, this use of language is not universally taken advantage of. Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
+
+**Example - 2019-03-18 - Mi and Ne**
+
+However not all participants take full advantage of the language available to them.
+
+Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
 
     Mi - Ne!, Ne! Ne.
 
@@ -1054,98 +1174,81 @@ However, this use of language is not universally taken advantage of. Take the fo
     Mi: What  ?
     Ne: It's a very violent game.  
 
-NOTE - OVERLAP WITH THE BELOW WITH PREVIOUS SECTION ON AT TERMS
+
+The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
+In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
+Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
+
+MOVE THE FOLLOWING LATER AFTER THE NEXT EXAMPLE?
 
 Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
-The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
+The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
 
 We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
+The next section details another example
+NOTE - INTEGRATE THIS AND THE FOLLOWING SECTION SOMEHOW.
+PERHAPS CHANGE ORDER BUMP THE FOLLOWING UP A BIT
 
-The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
+<!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
+
+The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
+
+-->
+
+### Operations, actions and activity
+
+MOVE THE BULK OF THIS TO DESIGN CHAPTER TO HELP SITUATE THAT.
+
+Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
+
+  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
+
+As previously explored, activity systems can be viewed on different levels of ?
+
+To explore this in the present context, I list some bullet points with examples followed by a commentary;
+
+- **Activity:** Implementing a game design pattern - e.g. adding keys and doors pattern
+- **Action:** Creating a graphical asset of a key and adding this to the level design
+- **Operation:** Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
+
+**Commentary:**
+In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
+
+    Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
+    Mi asks for help from partner but receives misleading advice which does not help her progress.
+
+    Mi – Oh no it’s not done that has it?
+
+    Mi calls the name of her child across room with theatrical gesture and loud whisper voice
+    Mi – “Ne!”
+    Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
+
+    Ne arrives to help.
+    Mi – I’m trying to delete them but they turn light grey.
+    Ne – So you want to get rid of them?
+    Mi – What are you doing? You have to tell me what you are doing so I can do it myself.
+    Mi – laughs
+    Ne – laughs.
+    Mi – I’ll just have to keep shouting at you if you don’t tell me.  
+    Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
+    Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+    Parent peer laughs
+    Ne bounces up in place and smiles broadly.
+    Mi- Thanks
+    Mi – So am I like back with the black now?  
+    Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+    Mi – Oh X. Alright Bubs. Thanks.
+
+In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
+
+This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
+
+
 
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
-
-### GDP as a way to explore Computational Thinking Concepts
-
-NOTE - Summary to come.
-
-The start of the discussion is is draft form in the next chapter. See outline here - > insert link.
-https://mickfuzz.github.io/phd4/chapter/2022/09/07/Results-Maps.html
-
-
-## Representing Coded the Patterns of Activity via coded data
-
-NOTE - NOT SURE WHERE TO PUT THIS PART OR IF THE CHART ELEMENT IS REALLY VALUABLE -
-IT COULD BE A DISTRACTION (IT PROBABLY IS - PERHAPS ADD AS A POSSIBILITY IN CONCLUSION)
-
-ANOTHER NOTE - I HAVE NOT HAD TIME TO DO THE ACTUAL CHARTS OR WORK WITH THE 5 FULLY CODED VIDEOS YET.
-
-We can to examine patterns of activity is through an analysis of the coded video interactions. The coding structure decided upon and the process of coding in five minutes sections.
-
-<!-- NOTE - there may be some value is coding some key interactions more carefully in more granuar detail if this process is useful.  -->
-
-Note The full coding scheme will be included here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
-
-The main schemes as below.
-
-- Design Stages -
-- Interaction Description -
-- Game Elements Addressed (Game Polish, Game Space, Game Mechanics, Game Challenge(remove?))
-
-The process of coding data shed light onto patterns of activity in creating a list of general behaviours shared by participants and thus also identifying outlying behaviours that did not meet the emerging coding scheme. (NOTE FOR HERE OR PREVIOUS?)
-
-Later in the chapter the limits of the chosen design stage schema are explored as a way of illuminating interesting game making behaviour of participants.
-
-<!-- See current table here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing -->
-
-In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
-
-<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
-
-The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
-
-- Question One: During which design phase does parent-child pair interaction happen most frequently?
-- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
-
-TO COME.
-
-The first scenario represented in a chart which compares activity grouping with design stages and activity description.
-
-Pair work -> TEST, CREATE, IMPROVE, etc
-Peer work -> TEST, CREATE, IMPROVE, etc
-Solo work -> perhaps dont an
-
-CHART
-
-The second scenario is represented by pie charts for each game element showing the duration spent on each by a diversity of participants.  
-
-CHART
-
-#### Discussion on data
-<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
-
-For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
-This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
-
-The game elements / design patterns categories which are presented are created as a design guide rather than on exact principles.
-It is possible to code drilling down into another level. This might yield more results.
-
-In summary, the coding process is more valuable as a tool to allow more qualitative reflection and analysis rather than a quantitative process as attempted above.
-
-To make a quantitative approach work better X,Y and Z would need to be in place which was not suitable for this study because of A and B.
-
-<!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
-
-- time under table
-- time in control of Keyboard
-- time actively directing parent's activity
-- time actively observing parent's activity
-- time discussing game features with parent -->
 
 
 
@@ -1187,8 +1290,6 @@ For example when altering jump and move variable for the first time. They are de
 CASE - One parent did extensive design and then altered the variables at the end. Mi -
 
 <!-- Exerpt Mi - 2019-03-08 - 52 mins -->
-
-
 
 #### Digital Jamming
 

@@ -14,6 +14,7 @@ title: evolution of Design
 
 - Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
 - Physical maps section added at end
+- Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 
 ## Chapter outline
 
@@ -223,7 +224,7 @@ This process begins in this chapter with a focus on evolving design and continue
 
 I WAS PLANNING TO DROP THIS FROM THE CHAPTER
 BUT CULTURAL ELEMENTS AT LEAST ARE IMPORTANT.
-BUT MAYBE MOVE THE FIRST DESCRIPTION TO METHODOLOGY CHAPTER
+BUT MAYBE MOVE THE FIRST DESCRIPTION TO METHODOLOGY CHAPTER?
 
 <!-- Draw on this document to give an overview of the framework and approach.
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#
