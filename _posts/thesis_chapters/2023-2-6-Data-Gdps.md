@@ -557,12 +557,16 @@ The popularity of certain GDP spread through peer activity. For example, the wor
 Ch is keen to make links to his existing experience of games making comparisons between Te's game, commercial games and his own.
 The motive is not clear but this appears to act as a ay of Ch bringing his funds of knowledge on game playing and analysis to this community.
 
-Following research on funds of knowledge motives or benefits of this behaviour may include
+In prevelant GDPs in Te's game stimulates sharing about Ch's experience in other games. Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
+
+Following research on funds of knowledge motives or benefits of this behaviour may include: ...
 INSERT DISCUSSION AN DEVELOPMENT OF FUNDS OF KNOWLEDGE STREAM
 MAKE LINK TO NEXT SECTION
 
 In addition, exchanges like this allow the propagation of GDPs
 The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
+
+
 
 <!--
 Article on intangibility of game feel.
@@ -580,29 +584,28 @@ The placement of hazards as design pattern to increase challenge -->
 - Mi and graphical expressions?
 
 
-In the previous example GDP not only helped Ch asking for help but we can also see they stimulated a discussion about Ch's experience in other games. Parcour in Minecraft and Wipe out (a game who's man mechanic is about landing accurately).
+As we explored in previous chapters, the ability to design graphics, audio assets, design levels, can be incorporate other personally meaningful narrative elements into created games can be engaging and sustain motivation [papert, roque, kafai etc].
 
-The Personal Expression and Per
+However, incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences.
 
+This section explores findings on personal expression of users using GDPs.
+It also deepens key tensions identified in the _design chapter_. Namely, 
+
+LIST THEM
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
 (may need to move?)
 Just create a summary here.
--->
 
 
 
 Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
-
-However, incorporating personal elements can involve challenges including that of unrealistic expectations based on previous game playing experiences.
-
-This section explores findings on personal expression of funds of knowledge from previous experiences of users in this learning design.
-
+-->
 
 
 <!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
  -->
 
-<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?  -->
+<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
@@ -616,6 +619,8 @@ The starting three assets, player, hazard and reward provide a scaffold to  guid
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
 So while structured to avoid
+
+ -->
 
 #### Narratives and aesthetics of Games driven by Home Interests
 
