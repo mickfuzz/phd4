@@ -531,7 +531,7 @@ Ch likes the look of the game and begins with that as a comment.
   Pause.
   Mi: He has to go slow because he's an astronaut, you see.    
 
-  Ch: It's hard.
+  Ch: It's hard.because FB marketplace s
   Ch then leaves
 
   Mi: (to peer parent with proud tone.) It's hard. Wow.
@@ -553,8 +553,8 @@ THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
 
 #### GDPs propagation through peer activity
 
+
 - GDPs spread during play testing and other peer activity-
--
 - Example Ch suggesting games similar - parcour
 -
 
@@ -585,18 +585,24 @@ Article on intangibility of game feel.
 <!-- #### Use of hazards and moving enemies
 The placement of hazards as design pattern to increase challenge -->
 
-### GDPs and personal expression (cultural) -
+### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
 
 - Games offer many opportunities for maker to bring personal elements - however this can be complex and can lead to tensions [already explored in design]
 - Perhaps a transcript at start of process. Ma and Fi,  Ma and Fi ? Interview data?
 - Perhaps interview data? Te and Su? Bee keeping? Zi and Pa - family thing?
-- Mi and graphical expressions? 
+- Mi and graphical expressions?
 
+
+In the previous example GDP not only helped Ch asking for help but we can also see they stimulated a discussion about Ch's experience in other games. Parcour in Minecraft and Wipe out (a game who's man mechanic is about landing accurately).
+
+The Personal Expression and Per
 
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
 (may need to move?)
 Just create a summary here.
 -->
+
+
 
 Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
 
@@ -606,18 +612,26 @@ This section explores findings on personal expression of funds of knowledge from
 
 
 
-<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.  -->
+<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
+ -->
+
+<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?  -->
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
 The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+
 The core GDP involving game assets already exist in the starting template.
 - Objects as a reward to incentivise player exploration
 - Objects as a hazard penalising player progress
 
-The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes
+The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
 
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
+So while structured to avoid
+
+EXAMPLES
+Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
 
 <!--
 also in [erikssonUsingGameplayDesign2019;] -->
@@ -634,8 +648,11 @@ NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
+#### Graphics in particular seemed to be driven by home cultures.
 
-Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+Mi's interactions around graphics creation
+
+
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
 - cultivativing a sense of ownership
@@ -647,6 +664,39 @@ This is supported by other research on digital making and motivation. CITATION H
 Discussion on how cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
 
 These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
+
+
+#### Other examples.
+
+- One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+
+
+### Use of Help and Documentation related to GDP
+
+<!-- NOTE - Keep only the parts specifically on GDP -->
+
+The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+
+#### Use of a non-linear menu of Gdp
+
+Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
+
+- increase learner engagement through accessible design
+- make documentation relatable to existing gameplay experience
+- develop use of common GPD terminology
+
+NOTE - TO FOLLOW EVIDENCE OF PARTICIPANT ENGAGEMENT WITH THE RESOURCES
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+#### Use of simple code examples which demonstrate the pattern in isolation
+
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
+
+However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
+
+
 
 ### Use of design patterns as a form of / to facilitate apprenticeship
 
@@ -695,31 +745,6 @@ SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of
 <!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
 
 
-### Use of Help and Documentation related to GDP
-
-<!-- NOTE - Keep only the parts specifically on GDP -->
-
-The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
-
-#### Use of a non-linear menu of Gdp
-
-Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
-
-- increase learner engagement through accessible design
-- make documentation relatable to existing gameplay experience
-- develop use of common GPD terminology
-
-NOTE - TO FOLLOW EVIDENCE OF PARTICIPANT ENGAGEMENT WITH THE RESOURCES
-
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
-
-#### Use of simple code examples which demonstrate the pattern in isolation
-
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
-
-However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
-DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
-
 
 ## Interpersonal Focus (Guided Participation)
 
@@ -728,6 +753,9 @@ This section examines the use of GDP to facilitate guided participation in game 
 - If needed a quick recap on guided apprenticeship.
 
 ### GDPs for Goal Setting and Prioritisation
+
+Q's on structure
+- is ideation different? this is imagine / plan
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
@@ -837,45 +865,77 @@ Mi - Oh thank you very much. I'm very proud.
 
 ### GDPs motivation and sustaining engagement
 
+- this exists in community in Playtesting
+- what is specific about interpersonal interactions
+- Example sh and Th - new element K and d - then adding a level -
+
+- Other examples needed?
+
 The process of adding in a new GDP to the game was often a sustaining activity.
 
 The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
-Example of adding a new level in 2019-03-18-th_sh
+- Example of adding a new level in 2019-03-18-th_sh - pair use paper as a process
 
 In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
 
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement.  
-In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
-There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities and affordances. The parent navigates this based on knowledge of child's interests.
 
+More on role of parent and child to negociate approaches which maximise engagement / progress / keep flow .
+
+- Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
+
+- Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
+
+
+NOTE - more wo
+
+In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs.
+
+Thus replicating is a kind of participation in an emerging community.
+There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
 
+#### GDPs support Flexible (Iterative) Design Practices
 
-
-
-### GDPs to support Flexible (Iterative) Design Practices
+NOTE THIS IS CLEARLY RELATED TO THE ABOVE -
+HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 
 Iterative agile design is a highly cultural / interpersonal process.
 
 Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
-
 Perhaps in the field of participatory design.
 
-Highlight how the granular and relatable nature of GDP
+<!-- Highlight how the granular and relatable nature of GDP -->
 
-FIND TRANSCRIPT / NOTES OF A PLANNING PAIR TO ILLUSTRATE THE FOLLOWING.
+
+Example of Te and Da  - 10-15 mins transcribe in more detail. 
+
+    They thinking of a feature – wrap around like Pac-man
+    Da – Yeah we can do that. Save that for version 1.1
+
+    Da – what’s the theme
+    Da – sketch it on paper?
+    Te – I’m just going with it.
+
+Changes in GDP are apparent in the emerging game,   
+
+
+
+In the example above where Te and Da are creating a new tilemap for a maze game, Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.  
 
 - Well suited to build a repeated design practice.
 - Especially with starting documents,
 - Small changes had big effects.
 - Variable changes needed immediate testing.  
 
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way. A later discussion section in this chapter illustrates a more complex interaction with design stages.
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+
+A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
 ### Interaction of GDPs and designing for others as a method
@@ -927,7 +987,7 @@ In this section the processes of personal appropriation of experience and knowle
  - Example - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
 
-### Game Design Patterns whenn sharing back to Community (or not) MOVE / CHANGE
+### Game Design Patterns when sharing back to Community (or not) MOVE / CHANGE
 
 There are many examples of the use of language afforded by GDPs being used to increase effectiveness and confidence in communication. However not all participants take full advantage of the language available to them.
 
