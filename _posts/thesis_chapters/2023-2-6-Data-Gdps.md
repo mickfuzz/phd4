@@ -518,7 +518,7 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
-### GDPs and their interaction with play-testing to build game making community
+
 
 - GDPs used when giving feedback in play- testing,
 - praise &
@@ -529,87 +529,40 @@ In the previous chapter the role of cultural activities to engage and sustain en
 - Discussion - How much to teach terms or let them deveop?  
 
 
-In the previous chapter play-testing was seen to provide opportunities to build a supportive game making community, including x,y & z. This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
-
-<!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
-
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
-
-In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
-<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
-
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
-
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
-
-  Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-  Mick: How are you getting on Mi? It's looking good.
-  Mick: (Noting frustrated air of Mi) Have you made it to hard.
-  Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-  Mick: So it look like you bump your head and fall down.
-  Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-  Mi: Oh right yeah.
-  Mick: Yeah.
-  Mi: Yeah, actually that's a good idea.
-  Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
-
-
-Ch likes the look of the game and begins with that as a comment.
-
-  Ch: That looks nice (referring to the graphical look of the game)
-  Mi invites Ch to play as she can't progress due to the difficult game controls.
-
-  Ch: It jumps super high but so slow  
-  Pause.
-  Mi: He has to go slow because he's an astronaut, you see.    
-
-  Ch: It's hard.because FB marketplace s
-  Ch then leaves
-
-  Mi: (to peer parent with proud tone.) It's hard. Wow.
-
-Fi comes to play the game
-
-  Fi: How much jump speed to you have?
-  Fi: Your jump speed is massive.
-
-Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
-
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation. It is not impossible that she enjoys the frustration of others playing her game at this point.
-
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
-
-When pairs return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
-
-THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
-
-#### GDPs propagation through peer activity
-
+### GDPs propagation through peer activity
 
 - GDPs spread during play testing and other peer activity-
 - Example Ch suggesting games similar - parcour
--
 
 The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
 
   Ch: Why’s that enemy in every level
   Te: He’s not.
-  Ch: Can you show me how you add more levels on to yours.
+  Ch: Can you show me how you add more levels on to yours?
   Te: Yeah sure.
   Pause
-  Te: I’m just going to have one go of beating this. It’s 21 levels in it. So .. Yeeeeah.
+  Te: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
   Pause
-  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipe out. Have you ever played wipeout.
+  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
   Te: Er not really.
-  Ch: Or seen it.
+  Ch: Or seen it?
   Ch: That’s like my second level.
   Te: Ah so hard (Te fails at a high level on his game and starts to move off)
 
   Te: (To someone else  calling for attention)  No I’m helping ..
   (Te then follows Ch to his workstation to help him implement more levels.)
 
-FURTHER DISCUSSION HERE
+
+
+Ch is keen to make links to his existing experience of games making comparisons between Te's game, commercial games and his own.
+The motive is not clear but this appears to act as a ay of Ch bringing his funds of knowledge on game playing and analysis to this community.
+
+Following research on funds of knowledge motives or benefits of this behaviour may include
+INSERT DISCUSSION AN DEVELOPMENT OF FUNDS OF KNOWLEDGE STREAM
+MAKE LINK TO NEXT SECTION
+
+In addition, exchanges like this allow the propagation of GDPs
+The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
 
 <!--
 Article on intangibility of game feel.
@@ -617,6 +570,7 @@ Article on intangibility of game feel.
 
 <!-- #### Use of hazards and moving enemies
 The placement of hazards as design pattern to increase challenge -->
+
 
 ### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
 
@@ -797,6 +751,77 @@ This example is typical of other interactions of this pair. Te and Da's design p
 SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of the above observations.
 
 <!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
+
+### GDPs providing means for peer feedback on game play experience
+
+- GDPs used when giving feedback in play- testing, verbal and non-verbal
+- praise
+- direct calls for improvement,
+- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
+- Example Ch and Pa - revising game based on Te's FEEDBACK
+- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
+- Discussion - How much to teach terms or let them deveop?  
+
+
+This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
+
+
+
+<!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
+
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
+
+In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
+
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
+
+
+Ch likes the look of the game and begins with that as a comment.
+
+    Ch: That looks nice (referring to the graphical look of the game)
+    Mi invites Ch to play as she can't progress due to the difficult game controls.
+
+    Ch: It jumps super high but so slow  
+    Pause.
+    Mi: He has to go slow because he's an astronaut, you see.    
+
+    Ch: It's hard.
+    Ch then leaves
+
+    Mi: (to peer parent with proud tone.) It's hard. Wow.
+
+Fi comes to play the game
+
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
+
+Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
+
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation. It is not impossible that she enjoys the frustration of others playing her game at this point.
+
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
+
+
+When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
+
+For example the emergence of the concept of safe zone in the game of Ch and Pa -
+And their incorporation of a boost to player health after a level after Te's visceral feedback.
+
 
 
 
