@@ -52,50 +52,14 @@ Not in any particular order.
 
 
 
-## Using Physical Maps of Missions as Game Design Patterns
+### MOVED/ COPIED FROM DESIGN AT END  Personal Dimension of the Learning - Personal Appropriation
 
-Maps in the 3M model were explored partly as a way of representing the personal dimension of learning.
+ In line with sociocultural approaches Rogoff points out the limits of an understanding of knowledge which promotes a view of knowledge as transmission from teacher to learner and is thus an individual process. Instead this exploration of knowledge and practices is framed as a mutual process.
 
+ While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
 
-### Overview - NOTE MOVE SOME OF THIS TO THE DESIGN CHAPTER
-
-To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game.
-
-The game pattern missions were represented as different islands . Learners took time to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it. They also kept a track of the missions that they had completed by tracing a trail as they progressed. In addition the colourful, physical and visual representation served to encourage a sense of community and peer learning. When moving the counter on the map I prompted them to reflect on the coding concepts or other learning dimensions that they had been working with. As learners traced a trail between the different island/missions they had visited, the map provoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments. I am currently investigating replicating this process using online tools to reduce complexity and preparation time.
-
-### Emerging Findings & Discussion on use of Physical Maps
-
-
-<!-- ![map of learning design]({{site.github.url}}/_posts/Pictures/maps_2000.png) -->
-
-![learning islands](./Pictures/maps_2000.png)
-![learning islands]({{ site.baseurl }}/Pictures/maps_2000.png)
-_Missions as Islands_
-
-Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process.
-
-Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion.
-EXAMPLE - ma & fi
-
-Having GDP mapped out had some of the following possibilities.
-
-
-Maps as an area seems to be the weakest point in this process. I may have neglected this plane as it is normally well explored in other research based in formal settings, and I was particularly interested in nurturing an organically forming game making community.
-
-This section highlights key tensions in the design that still need to be overcome.
-
-It explores these tensions in relation to existing research and contains further discussion to inform possible future directions of research.
-
-#### Individuals vs Collective Mapping of Progress & Online / Offline issues.
-
-The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
-
-A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere.
-
-#### Tensions - Online resources vs Print outs
-Also a tension of moving online with resources, via having them available in the class.
-
-Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
+ One significant tension I felt in evolving design was a nagging feeling that learning happening should be documented, or linked to some kind of curriculum. There are elements of the design which suit development of coding concepts and Computational Thinking.
+ However, I felt reluctance to explicitly teach these links via direct transmission.
 
 
 
@@ -143,7 +107,7 @@ My own work in this area has been informed by work developing teaching materials
 <!-- NOTE EXPAND IF USEFUL -->
 Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments.
 
-NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers. 
+NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
 
 
 ## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
