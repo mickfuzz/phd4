@@ -630,9 +630,10 @@ The starting three assets, player, hazard and reward provide a scaffold to  guid
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
 So while structured to avoid
 
-EXAMPLES
-Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
+#### Narratives and aesthetics of Games driven by Home Interests
 
+- Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
+- Other examples, Ch and Pa, bees, Zi's comment / interaction with Pa
 <!--
 also in [erikssonUsingGameplayDesign2019;] -->
 
@@ -640,19 +641,26 @@ As part of the creative process participants were able to input their own prefer
 
 Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
 
-NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game. Find and include example from Ch and Pa.
 
-- Perhaps a transcript at start of process. Ma and Fi ?
-- Perhaps interview data? Te and Su?
--
+    var starttext = "This is a game which pits a honey bee
+    against a swarm of Asian hornets,
+    which are alien invaders attacking bee
+    hives in the UK and which beekeepers
+    are trying to stop spreading here.
+    Try to guide the bee to collect all the
+    flowers without being caught by the
+    hornets.
+    Use the arrow keys to move the bee.
+             Press return to START.";
 
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
-#### Graphics in particular seemed to be driven by home cultures.
+#### Focus on Visual asset creation and selection   
 
-Mi's interactions around graphics creation
+- Mi's interactions around graphics creation - write up transcript
+- Mi's exploration in others.
 
-
+There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
 - cultivativing a sense of ownership
@@ -666,10 +674,13 @@ Discussion on how cultural interactions seem to be able to motivate and sustain 
 These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
 
-#### Other examples.
+#### Asset selection
 
-- One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+Pair Sh and Th used a graphic of a cute dog as the background of their game.  
+2019-03-18-th_sh
 
+The child expressed a lot of positive regard to this dog and used it a way to stimulate conversation about their home interest in dogs during play testing. The subject was completely unrelated to the previously stated theme of the game.
+It may be the parent knew this was a way to sustain involvement and interest.
 
 ### Use of Help and Documentation related to GDP
 
@@ -698,11 +709,11 @@ DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS
 
 
 
-### Use of design patterns as a form of / to facilitate apprenticeship
+### Use of GDP to facilitate apprenticeship in wider cultural practices
 
 Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
 
-In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences.
+In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences to promote innovation in the design of the existing template.
 
 An interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experience
 
@@ -913,7 +924,7 @@ Perhaps in the field of participatory design.
 <!-- Highlight how the granular and relatable nature of GDP -->
 
 
-Example of Te and Da  - 10-15 mins transcribe in more detail. 
+Example of Te and Da  - 10-15 mins transcribe in more detail.
 
     They thinking of a feature – wrap around like Pac-man
     Da – Yeah we can do that. Save that for version 1.1
