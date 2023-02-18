@@ -471,22 +471,36 @@ The placement of hazards as design pattern to increase challenge -->
 
 ### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
 
-In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences. As we explored in previous chapters, the ability to design graphics, audio assets, design levels, can be incorporate other personally meaningful narrative elements into created games can be engaging and sustain motivation [papert, roque, kafai etc].
+In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
 
-It also deepens key tensions identified in the _design chapter_. Namely;
+As we explored in previous chapters, the ability to incorporate the following elements into created games
+
+- design graphics
+- audio assets
+- narrative elements
+
+allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc].
+
+However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
 
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
-- list others
+- time on asset design can detract from systemic and learning code concepts and syntax.
+- list others, draw on Roque, Kafai and Papert
+
+This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+
+- propagation of assets..
+- pride sharing back?
+- value of feedback, asset creation as a speciality
+
+This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets.
 
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
 (may need to move?)
 Just create a summary here.
 
-
-
 Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
 -->
-
 
 <!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
  -->
@@ -579,9 +593,7 @@ In this exerpt parent Mi has spent
     Mi – No I’ve not saved it.
     St – Save there. (points to relevant button on screen)
 
-
-We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. 
-
+We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
 
 - playing around the graphic - covering it over and revealing it
 - participant self-expression and a conversational prompt to other during sharing of the game
@@ -605,13 +617,20 @@ It may be the parent knew this was a way to sustain involvement and interest.
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 - The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
 
-#### Discussion Limitation of asset work as a GDP
+#### Discussion
 
+**Limitation of asset work as a GDP**
 Note the limits of this interpretation.
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
 A tension here to be briefly explored or noted to explore later.
 
-### Use of Help and Documentation related to GDP
+**Tangled nature of graphics and narrative in this design**
+
+In the data analysed, young people
+he
+
+
+### Use of Help and Documentatio related to GDP
 
 <!-- NOTE - Keep only the parts specifically on GDP -->
 

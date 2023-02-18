@@ -16,6 +16,18 @@ title: evolution of Design
 - Physical maps section added at end
 - Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 
+### Adapting to the Informal
+NOTE FIND A GOOD PLACE TO PUT THIS
+
+As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
+The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
+
+My design pivoted to this stage after introducing design patterns based challenge cards and inviting participants into game playing via older arcade games.
+This was in response to tension of teaching PGCE students in a smaller time scale but wanting to capture the essessce of the pedagogy. And in the process of preparing for Mozilla conference.
+
+NOTE GO BACK OVER NOTES TO FIND THIS
+
+
 ## Chapter outline
 
 - Summary of design phases
