@@ -24,6 +24,9 @@ title: Findings Chapter 2 - It’s like a project in itself really
   - Personal / participatory appropriation (include - operationalising as appropriation)
 - Discussion (focus on interpersonal and agency)
 
+
+NOTE - I COULD BREAK THIS DOWN MORE TO HELP RESTRUCTURING? IT ONLINE IN THEMATIC ANALYSIS AT THE MO AN ON CARDS. 
+
 ## Notes on things to add
 
 - GDP language used as lingua franca to problems solve / debug.
