@@ -397,10 +397,9 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to the bulk of observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
 ## Use of GDPs explored from a cultural focus
-
 
 In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the role that game design patterns in particular. Design patterns are by parents, children and facilitators as a tool of apprenticeship and personal expression in this emerging game making community.
 
@@ -469,17 +468,95 @@ Article on intangibility of game feel.
 The placement of hazards as design pattern to increase challenge -->
 
 
+
+### GDPs providing means for peer feedback on game play experience
+
+- GDPs used when giving feedback in play- testing, verbal and non-verbal
+- praise
+- direct calls for improvement,
+- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
+- Example Ch and Pa - revising game based on Te's FEEDBACK
+- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
+- Discussion - How much to teach terms or let them deveop?  
+
+
+This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
+
+
+<!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
+
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
+
+In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
+
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
+
+I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value.  
+
+Ch likes the look of the game and begins with that as a comment.
+
+    Ch: That looks nice (referring to the graphical look of the game)
+    Mi invites Ch to play as she can't progress due to the difficult game controls.
+
+    Ch: It jumps super high but so slow  
+    Pause.
+    Mi: He has to go slow because he's an astronaut, you see.    
+
+    Ch: It's hard.
+    Ch then leaves
+
+    Mi: (to peer parent with proud tone.) It's hard. Wow.
+
+Fi comes to play the game
+
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
+
+Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
+
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation. It is not impossible that she enjoys the frustration of others playing her game at this point.
+
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
+
+
+When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
+
+For example the emergence of the concept of safe zone in the game of Ch and Pa -
+And their incorporation of a boost to player health after a level after Te's visceral feedback.
+
+
+
+
+
+
+
 ### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
 
 In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
 
-As we explored in previous chapters, the ability to incorporate the following elements into created games
+As we explored in previous chapters, the ability to incorporate the following elements into created games allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc].
+
 
 - design graphics
 - audio assets
 - narrative elements
 
-allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc].
+<!-- Recap from Lit Review / Intro -->
 
 However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
 
@@ -529,36 +606,44 @@ So while structured to avoid
 also in [erikssonUsingGameplayDesign2019;] -->
 
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
-
 Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
 
 The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
-Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
-In an interview exchange they
+One pair Ch and Pa the grandparents of Te, included narrative text at the start of their game which explained their choice of graphical elements.
 
-<!-- NOTE
-NARRATIVE IN PREVIOUS CHAPTER? -->
-
-    var starttext = "This is a game which pits a honey bee
-    against a swarm of Asian hornets,
-    which are alien invaders attacking bee
-    hives in the UK and which beekeepers
-    are trying to stop spreading here.
-    Try to guide the bee to collect all the
-    flowers without being caught by the
-    hornets.
-    Use the arrow keys to move the bee.
-             Press return to START.";
+   var starttext = "This is a game which pits a honey bee
+   against a swarm of Asian hornets,
+   which are alien invaders attacking bee
+   hives in the UK and which beekeepers
+   are trying to stop spreading here.
+   Try to guide the bee to collect all the
+   flowers without being caught by the
+   hornets.
+   Use the arrow keys to move the bee.
+            Press return to START.";
 
 
 In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
 
-    zi: Have you done amazing things?
+   zi: Have you done amazing things?
 
 The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
 
 The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game.
+
+Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
+
+In an interview exchange this pair
+NOTE ADD IN EXCHANGE FROM INTERVIEW ABOUT INCOPORATING INTERESTS Fi and Ma
+
+<!-- NOTE
+NARRATIVE / drama IN PREVIOUS CHAPTER?
+how do these two sections work together? remove this one?
+ -->
+While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
+
+
 
 #### Visual asset creation and selection   
 
@@ -617,7 +702,7 @@ It may be the parent knew this was a way to sustain involvement and interest.
 - One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
 - The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
 
-#### Discussion
+#### Discussion  
 
 **Limitation of asset work as a GDP**
 Note the limits of this interpretation.
@@ -630,11 +715,20 @@ In the data analysed, young people
 he
 
 
-### Use of Help and Documentatio related to GDP
+### Use of Help and Documentation related to GDP
+
+MOVE THIS PROBABLY - IN TO DESIGN CHAPTER  - COULD START TO SKETCH THIS OUT SOON
 
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
 The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+
+<!-- NOTE -
+The language used, affordances, 2nd stimulation, practices, needs clarification.
+ -->
+
+
+
 
 #### Use of a non-linear menu of Gdp
 
@@ -644,22 +738,56 @@ Learning resources were presented in a menu format with graphics focused on the 
 - make documentation relatable to existing gameplay experience
 - develop use of common GPD terminology
 
-NOTE - TO FOLLOW EVIDENCE OF PARTICIPANT ENGAGEMENT WITH THE RESOURCES
+There were two main ways of approaching adding a new pattern. One to examing a code example which was built around the same code base.
+This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
 
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
-
-#### Use of simple code examples which demonstrate the pattern in isolation
+**Use of simple code examples which demonstrate the pattern in isolation**
 
 Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
 
 However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+
 DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
+
+These code example are a staple of professional sharing and problem solving practice.
+They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
+
+**Non-linear step-by-step instructions**
+
+Longer form step by step tutorials are common in computing education. Examples can be found in Code Academy, and in the education resources of RPi foundation. Many examples talking learners through steps to build a game can be found online with varied amount of explanation of underlying constructs and concepts. I started my journey learning JS games using some provided by Mozilla and the Phaser developers.
+
+The approach used in the step based documentation I created varies from many in that rather than choosing a defined order users can choose which order they want to add game elements. The use of GDP aids the learner navigation of this process. This does add challenges however to the documentation authouring process.
+
+An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
+
+Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
+FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
+
+Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Kay participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon and taught in via peer to peer propagation.
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+#### A linear / step-by-step resource
+
+While a manual was available, few participants worked their way through it chapter by chapter.
+
+While I created this for the planners suited to this way of working and in response to feedback from parents in early designs that foundation knowledge would be useful, in practice, once their template game was up and running, there was little incentive to do use this resource. In terms of the objectives of making a playable game or adding particular patterns to the game the step by step resources would have involved backtracking. The process would have value to reinforce computing concepts present in the design.
+
+The foundational concept here was that after making the game from a template. The linear resources would explain all underlying concepts that the starting template had initially abstracted away from the participants.
+
+In my journal I named this concept _meeting yourself in the middle_ to represent the possibility of retracing the process of learning from first principles.
+Narratively the equivalent of a prequel.   
 
 
 
 ### Use of GDP to facilitate apprenticeship in wider cultural practices
 
 Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
+
+
+#### Family practices - and linking to home knowledge  
+
+The following exchange shows how the use of GDPs allow the continuation of home practices.
 
 In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences to promote innovation in the design of the existing template.
 
@@ -673,6 +801,8 @@ An interaction (see full transcript of interaction at the foot of this chapter) 
 
 Te adopts with this suggestion readily once he understands Da's suggestion in full.
 
+He approaches Mick with a suggestion.  
+
     Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
     Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
     Te: Hmm. How should I do this then?
@@ -685,7 +815,11 @@ Te adopts with this suggestion readily once he understands Da's suggestion in fu
     Da: and see what happens?
     Mick: and see what happens.
 
-Even saying "I was thinking can we make like a pacman game kind of thing".
+Te is explicit in the
+ven saying "I was thinking can we make like a pacman game kind of thing".
+
+
+#### Professional practices - and linking to developer resources
 
 Da speech show desire to for the pair to try something new. This may be to avoid repetition in the educational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
 
@@ -701,78 +835,16 @@ This example is typical of other interactions of this pair. Te and Da's design p
 
 SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of the above observations.
 
+#### Discussion and Transition
+
+The choice to divert is made possible by Da's expertise.
+It also opens up the possibilities of other pairs to follow this path.
+In a way opening up a new seam of community activity and family of GDPs associated with a maze game.
+
+These two examples stem from the wider cultural experiences and practices of the pair's home coding style and the parents experience taking part in professional community coding activities.
+The interactions are cultural but also highly interpersonal. We can see element of this exchange as representative of guided participation which we explore in the next section.
+
 <!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
-
-### GDPs providing means for peer feedback on game play experience
-
-- GDPs used when giving feedback in play- testing, verbal and non-verbal
-- praise
-- direct calls for improvement,
-- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
-- Example Ch and Pa - revising game based on Te's FEEDBACK
-- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
-- Discussion - How much to teach terms or let them deveop?  
-
-
-This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
-
-
-
-<!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
-
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
-
-In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
-<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
-
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
-
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
-
-    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-    Mick: How are you getting on Mi? It's looking good.
-    Mick: (Noting frustrated air of Mi) Have you made it to hard.
-    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-    Mick: So it look like you bump your head and fall down.
-    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.
-    Mick: Yeah.
-    Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
-
-
-Ch likes the look of the game and begins with that as a comment.
-
-    Ch: That looks nice (referring to the graphical look of the game)
-    Mi invites Ch to play as she can't progress due to the difficult game controls.
-
-    Ch: It jumps super high but so slow  
-    Pause.
-    Mi: He has to go slow because he's an astronaut, you see.    
-
-    Ch: It's hard.
-    Ch then leaves
-
-    Mi: (to peer parent with proud tone.) It's hard. Wow.
-
-Fi comes to play the game
-
-    Fi: How much jump speed to you have?
-    Fi: Your jump speed is massive.
-
-Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
-
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation. It is not impossible that she enjoys the frustration of others playing her game at this point.
-
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
-
-
-When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
-
-For example the emergence of the concept of safe zone in the game of Ch and Pa -
-And their incorporation of a boost to player health after a level after Te's visceral feedback.
-
 
 
 
