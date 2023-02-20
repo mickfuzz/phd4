@@ -25,7 +25,7 @@ title: Findings Chapter 2 - It’s like a project in itself really
 - Discussion (focus on interpersonal and agency)
 
 
-NOTE - I COULD BREAK THIS DOWN MORE TO HELP RESTRUCTURING? IT ONLINE IN THEMATIC ANALYSIS AT THE MO AN ON CARDS. 
+NOTE - I COULD BREAK THIS DOWN MORE TO HELP RESTRUCTURING? IT ONLINE IN THEMATIC ANALYSIS AT THE MO AN ON CARDS.
 
 ## Notes on things to add
 
@@ -834,9 +834,27 @@ My own positive response to their suggestion was driven partly from knowledge of
 
 There are cultural elements here of a family learning culture between these two playing out in this space. That way of approaching the task is very different from interactions with grandparents on a previous iteration.
 
-This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants. This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (previously explored in lit review). This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview.
+    extract from 2019-05-08 - 20 mins
+    Te – Right what shall we add next? So it follows?
+    Da – yeah that would be interesting wouldn’t it.
+    Te – you know like the ghost in pac-man
+    Te – I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
+    Te- Link to tutorials – goes to the online tutorials on flossmanuals
+    Te – we could add some player health
+    Da indicates at the moment this work ok.
+    Te – shall we try to get Mick for this
+    Da – ah we could google it.
+    They google "phaser pacman"
 
-SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of the above observations.
+This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
+
+This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary). 
+
+
+This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview.
+
+
+
 
 #### Discussion and Transition
 
