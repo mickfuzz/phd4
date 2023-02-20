@@ -1130,25 +1130,43 @@ Value of design as a process, to see surrounding world as a designed experience,
 
 
 
-### GDPs support Flexible Design Practices - REMOVE / MOVE TO DISCUSSION?
+### GDPs support Flexible Design Practices
 
-NOTE THIS IS CLEARLY RELATED TO THE ABOVE -
+
 HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
 
-**To integrate Testing example Sh and Th**
+Iterative agile design is a highly cultural / interpersonal process. (Glossary)
 
-- The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
-- The testing process here is quite frustrating as gravity is very low. This is addressed later as it is improved on the suggestion of the parent who has to do the majority of the testing.
+This section describes a broad range of observed design practices of participants which involve game design patterns.
 
+The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
 
-Iterative agile design is a highly cultural / interpersonal process.
+As discussed in previous section design thinking education has created a set norms in communicating the stages of design that complexities are less readily communicated. On closer inspection, much literature on design processes contains caveats that some processes can happen in parallel and one stage may need several iterations. Given this caveat, I began to how useful is the overall in observing the emergence of complex creative processes.
+
+To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
+
+ <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
+
+#### Shifts in design practice
+
+**Alternating coding**
+
+The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
+
+This follows a pattern of X   
+NOTE i FEEL THIS IS ALREADY COVERED?
+
+cf - similar behaviour?
+
+**Shifting between Facilitator and more active partner**
+
+At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
 
 Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
 Perhaps in the field of participatory design.
 
 <!-- Highlight how the granular and relatable nature of GDP -->
-
 
 Example of Te and Da  - 10-15 mins transcribe in more detail.
 
