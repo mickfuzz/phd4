@@ -488,12 +488,24 @@ This section will explore the particular role of GDPs within this process using 
 
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
+
+#### Sh and Th Playtesting
+
+This pair were less interested in playing other peoples games than people playing their own. The sharing here is one of the most active times for the child allowing interaction to explain their game to others.
+The child does also play the games of others. REVIEW DATA, ADD DETAIL.
+
+ This sharing process motivates sustained activity. In addition, the parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a mischievous desire to play against game conventions with a desire to confuse or disorient players. (my interpretation based on another extract)
+
+
+#### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel
 The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
 
 In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
 The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
+
+#### Use of evolving language in informal feedback to direct modification of games
 
 Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
@@ -509,7 +521,9 @@ Parent Mi had been focused mostly on completing asset design. She had been made 
     Mi: Yeah, actually that's a good idea.
     Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
 
-I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value.  
+I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
+
+This subtle direction mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. In one case ... (if needed?)   
 
 Ch likes the look of the game and begins with that as a comment.
 
@@ -530,12 +544,17 @@ Fi comes to play the game
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
 
-Other children come and play the game but only for less than a minute before leaving. After the last one leaves Mi comments "It's so frustrating."
 
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation. It is not impossible that she enjoys the frustration of others playing her game at this point.
 
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. This kind of feedback was present in many exchanges during directed playtesting and during pair interactions.
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
 
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
+
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
+The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
+
+These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
+NOTE = SHOULD i GO BACK AND TRY TO COUNT SOME?
 
 When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
 
@@ -692,18 +711,22 @@ Discussion on how cultural interactions seem to be able to motivate and sustain 
 
 These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
-#### Asset selection
+#### Repurposing assets
 
+**Graphical Assets**
 Pair Sh and Th used a graphic of a cute dog as the background of their game.  
 2019-03-18-th_sh
 
 The child expressed a lot of positive regard to this dog and used it a way to stimulate conversation about their home interest in dogs during play testing. The subject was completely unrelated to the previously stated theme of the game.
 It may be the parent knew this was a way to sustain involvement and interest.
 
-**Example Sh and Th Sharing**
+**Audio Assets**
 
-- One of the most active times for the child allowing interaction to explain their game to others and to play the games of others.
-- The child makes comments about sharing their game with others imagining the experience of others playing their game. The sharing process motivates sustained activity.
+In the second iteration of glitch game club participants were introduced to tools to create sounds and a free audio resource repository.  
+
+This allowed for rapid, broad strokes personal expression in a similar way to the use of graphical elements.
+
+Examples? Ru and Ro ? in one of the later weeks?
 
 #### Discussion  
 
@@ -718,6 +741,7 @@ In the data analysed, young people
 he
 
 
+
 ### Use of Help and Documentation related to GDP
 
 MOVE THIS PROBABLY - IN TO DESIGN CHAPTER  - COULD START TO SKETCH THIS OUT SOON
@@ -729,8 +753,6 @@ The use of help files and other documentation was explored in the last chapter b
 <!-- NOTE -
 The language used, affordances, 2nd stimulation, practices, needs clarification.
  -->
-
-
 
 
 #### Use of a non-linear menu of Gdp
@@ -788,6 +810,17 @@ Narratively the equivalent of a prequel.
 Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
 
 
+#### Practitioner and setting influences on community apprenticeship practices
+
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+
+Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+
+Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
+
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
+
 #### Family practices - and linking to home knowledge  
 
 The following exchange shows how the use of GDPs allow the continuation of home practices.
@@ -828,11 +861,17 @@ Da speech show desire to for the pair to try something new. This may be to avoid
 
 However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
 
+This interaction has a parallel to a professional practice of "forking" code-bases in open-source code communities.
+The parent checking with a guiding community member about the advantages and disadvantages of a major fork in the code structure.
+Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
+
 NOTE - There seems to be a mirror here of the value of playful environments to provide challenge but within some boundaries of safety.
 
-My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve.
+My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
-There are cultural elements here of a family learning culture between these two playing out in this space. That way of approaching the task is very different from interactions with grandparents on a previous iteration.
+There are cultural elements here of a family learning culture between these two playing out in this space.
+
+That way of approaching the task is very different from interactions with grandparents on a previous iteration.
 
     extract from 2019-05-08 - 20 mins
     Te – Right what shall we add next? So it follows?
@@ -848,12 +887,13 @@ There are cultural elements here of a family learning culture between these two 
 
 This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
 
-This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary). 
+In this example the father starts as a facilitator, and takes on the direction of the child. However, as the dialogue progresses he is more directive, initially by asking leading questions, testing existing knowledge then when reaching the edge of the childs knowledge via more direct instructions.
 
+This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary).
+
+In interview data De notes his approach involves consciously not taking on the keyboard and mouse use.
 
 This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview.
-
-
 
 
 #### Discussion and Transition
@@ -875,20 +915,7 @@ This section examines the use of GDP to facilitate guided participation in game 
 
 - If needed a quick recap on guided apprenticeship.
 
-### GDPs for Ideation and Goal Setting and Prioritisation
 
-### Ideation and Goal Setting
-
-The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
-
-This was welcome show by Ma's comment.
-"It did go on for too long."
-
-
-#### Ask / Imagine / Ideation from Sh an Th
-
-- In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
-- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
 
 
 ### GDPs for project organisation / coordination
@@ -1035,7 +1062,21 @@ The process of adding in a new GDP to the game was often a sustaining activity.
 
 The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
 
-#### Example prototyping a new GDP on paper  
+
+#### Ideation and Goal Setting
+
+The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
+
+This was welcome show by Ma's comment.
+"It did go on for too long."
+
+
+##### Ask / Imagine / Ideation from Sh an Th
+
+- In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
+- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
+
+##### Example prototyping a new GDP on paper  
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
 - Example of adding a new level in 2019-03-18-th_sh - pair use paper as a process
@@ -1056,7 +1097,38 @@ Thus replicating is a kind of participation in an emerging community.
 
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
-These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
+These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved.
+
+#### Interaction of GDPs and designing for others
+
+As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
+
+This helps a focus on change that others will observe and thus help participants to design for others.
+
+As explored, Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
+This was explored from a cultural plane previously but the process also was observed in practices in this study and in relevant reasearch (set up for discussion on this)
+
+I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
+
+Some examples: (should be many)
+
+Pull on examples of learners imagining the experience of others.
+ - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
+ - Another example -
+
+##### Discussion of designing for others - move to discussion?
+
+This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+
+The use of GDP as a unit of activity may help encourage regular self testing and playtesting.
+NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
+
+Designing for others - as a key perspective in constructionism.
+Note: What added insights or tips for practitioners can I bring here?
+
+Value of design as a process, to see surrounding world as a designed experience, Latour.
+
+
 
 ### GDPs support Flexible Design Practices - REMOVE / MOVE TO DISCUSSION?
 
@@ -1116,34 +1188,6 @@ Find examples
 - Parent navigates to a particular part of the code for child to alter design
 - Child takes on challenge of making smaller changes once the core game mechanic code has been added.
 
-
-#### Interaction of GDPs and designing for others as a method
-
-As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
-
-This helps a focus on change that others will observe and thus help participants to design for others.
-
-As explored, Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
-
-I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
-
-Some examples: (should be many)
-
-Pull on examples of learners imagining the experience of others.
- - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
- - Another example -
-
-##### Discussion of designing for others - move to discussion?
-
-This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
-
-The use of GDP as a unit of activity may help encourage regular self testing and playtesting.
-NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
-
-Designing for others - as a key perspective in constructionism.
-Note: What added insights or tips for practitioners can I bring here?
-
-Value of design as a process, to see surrounding world as a designed experience, Latour.
 
 
 ## GDPs and Participatory Appropriation
