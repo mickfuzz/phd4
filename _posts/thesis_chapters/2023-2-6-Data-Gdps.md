@@ -1216,13 +1216,17 @@ May need a way to differential this chapters discussion of GDP - and that of the
 
 NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle?
 
-
 In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
 
  - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
 - Note on why this section is less important in this research, the expression of personal knowledge back into a community context is covered in part above.
  - Example of mutuality - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
+ - While the practices them selves are valid without expressions of underlying concepts, these are surfaced especially in peer problem solving (beyond Guided participation ) and in feedback in playtesting.  
+
+Question, rather than a focus on concepts of personal / transferable knowledge, how much of this section focuses on appropriation of practices.
+
+
 
 Situation
 
@@ -1235,12 +1239,11 @@ Situation
  - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
 
 
-The start of the discussion is is draft form in the next chapter.
+The start of the discussion is in draft form in the next chapter.
 
 See outline here - > insert link.
  https://mickfuzz.github.io/phd4/chapter/2022/09/07/Results-Maps.html
 
-However, rather than a focus on concepts of personal / transferable knowledge, the remainder of this section focuses on appropriation of practices.
 
 LINK HERE TO MIDDLE LEVEL CONSTRUCT - TO INTEGRATE HERE?
 
@@ -1257,12 +1260,19 @@ The concepts afforded by GDPs are used to;
 - participate by asking for peer help using shared terms (see Mi below)
 
 
+
+
 **Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
+
 We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.  
 
 using language afforded by GDPs?
 
 HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
+FIND THIS EXCERPT
+
+In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
+In AT the change of activity is a shift in scope of activity system. To a wider objective of making an engaging game.
 
 
 **Discussion**
