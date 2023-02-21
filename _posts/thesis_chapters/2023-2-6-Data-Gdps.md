@@ -447,6 +447,7 @@ The popularity of certain GDP spread through peer activity. For example, the wor
   Te: (To someone else  calling for attention)  No I’m helping ..
   (Te then follows Ch to his workstation to help him implement more levels.)
 
+When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te completes this work, Ch reads aloud the code which is being typed in.
 
 
 Ch is keen to make links to his existing experience of games making comparisons between Te's game, commercial games and his own.
@@ -558,11 +559,6 @@ When pairs or individuals return from playtesting to pair design work they are g
 
 For example the emergence of the concept of safe zone in the game of Ch and Pa -
 And their incorporation of a boost to player health after a level after Te's visceral feedback.
-
-
-
-
-
 
 
 ### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
@@ -913,25 +909,18 @@ This section examines the use of GDP to facilitate guided participation in game 
 
 - If needed a quick recap on guided apprenticeship.
 
-
-
-
 ### GDPs for project organisation / coordination
 
-
-##### Example of Parent supporting planning Sh and Th
-
+<!-- ##### Example of Parent supporting planning Sh and Th
 
 - in planning stages the parent provides scaffolding to help the child.
-- In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.    
+- In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.     -->
 
 
-#### GDPs for Prioritisation (include in organisation )
-
+#### GDPs for Prioritisation
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
-NOTE - This needs to be merged with the above - or a different take on it explored.
 
 <!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
 
@@ -1076,14 +1065,17 @@ This was welcome show by Ma's comment.
 
 ##### Example prototyping a new GDP on paper  
 
-When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
-- Example of adding a new level in 2019-03-18-th_sh - pair use paper as a process
+When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect.
+
+<!-- - in planning stages the parent provides scaffolding to help the child. -->
+
+In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.
 
 In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
 
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities and affordances. The parent navigates this based on knowledge of child's interests.
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities. The parent navigates this based on knowledge of child's interests.
 
-More on role of parent and child to negociate approaches which maximise engagement / progress / keep flow .
+More on role of parent and child to negotiate approaches which maximise engagement / progress / keep flow .
 
 - Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
 
@@ -1580,7 +1572,11 @@ The interpretation of GDP that this thesis adopts contains some weaknesses. The 
 <!-- NOTE -  THIS CAN BE EXPANDED
 more n Game Mechanics etc
 -->
-The term is particularly week in the area of Game Polish which involved were more aesthetic and narrative choices. These choices do not fall neatly in to the argument being constructed around the potential of GDPs to unlock repeatable, transferable practices. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of time working on these patterns especially if assets are being replaced.
+The term is particularly week in the area of Game Polish which involved were more aesthetic and narrative choices.
+
+[]
+
+These choices do not fall neatly in to the argument being constructed around the potential of GDPs to unlock repeatable, transferable practices. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of time working on these patterns especially if assets are being replaced.
 
 It is perhaps the term _pattern_ that is problematic here. It may imply a repeatable structural element rather than an aesthetic choices. Other academics have given a wider name of game elements [@tekinbas_gaming_2014] or lenses [@schell_art_2008].
 
