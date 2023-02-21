@@ -482,9 +482,7 @@ The placement of hazards as design pattern to increase challenge -->
 - In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
 - Discussion - How much to teach terms or let them deveop?  
 
-
 This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
-
 
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
@@ -1191,7 +1189,6 @@ While the design suits repeated design practice as illustrated by the example ab
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
-
 #### GDPs scaffolding the product revision process and debugging
 
 - Participants spend much time in the stages of Improve and Test often as a solo effort.
@@ -1207,25 +1204,18 @@ Find examples
 - Child takes on challenge of making smaller changes once the core game mechanic code has been added.
 
 
-
 ## GDPs and Participatory Appropriation
 
-
 <!-- NOTE - REMOVE THIS. INCORPORATE HERE?
-
 The personal plane is explored in a following chapter (working title Maps).
 This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
-
 -->
 
-
 <!-- Provide a link to next chapter - but before that a round up / discussion / to specific elements in relation to GDPs
-
 May need a way to differential this chapters discussion of GDP - and that of the next one.
  -->
 
 In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
-
 
  - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
 - Note on why this section is less important in this research, the expression of personal knowledge back into a community context is covered in part above.
@@ -1250,8 +1240,11 @@ See outline here - > insert link.
 
 However, rather than a focus on concepts of personal / transferable knowledge, the remainder of this section focuses on appropriation of practices.
 
+LINK HERE TO MIDDLE LEVEL CONSTRUCT - TO INTEGRATE HERE?
 
-### Use of GDP when contributing back to Community
+### Use of GDP when demonstrating understandings in community activity
+
+**Contributing back to Community**
 
 In a previous section we examined GDPs used to build emerging community activity.
 
@@ -1268,6 +1261,11 @@ We can contrast Th's general lack of confidence in coding and other peer activit
 using language afforded by GDPs?
 
 HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
+
+
+**Discussion**
+The process of being able to map the demonstrations of development of understanding has value for practitioners.
+See Bevan et al learning dimensions framework.
 
 <!-- This is also dealt with above "GDPs propagation through peer activity"
 Find another example? -->
@@ -1307,6 +1305,7 @@ Take the following interaction between parent Mi and her daughter Ne. The mother
 
 
 The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
+
 In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
 Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
 
@@ -1317,6 +1316,7 @@ Ne appears reluctant to help at first and when she does she is mostly non-verbal
 The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
 
 We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
+
 The next section details another example
 NOTE - INTEGRATE THIS AND THE FOLLOWING SECTION SOMEHOW.
 PERHAPS CHANGE ORDER BUMP THE FOLLOWING UP A BIT
@@ -1330,6 +1330,8 @@ The pattern we see here is less relatable to every day game constructs in the wa
 ### Operations, actions and activity
 
 MOVE THE BULK OF THIS TO DESIGN CHAPTER TO HELP SITUATE THAT.
+OR THERE IS DUPLICATION WITH MIDDLE LEVEL CONSTRUCT SECTION - SO MOVE THERE?
+AND PERHAPS MOVE MIDDLE LEVEL CONSTRUCT TO NEXT CHAPTER
 
 Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
 
@@ -1376,14 +1378,15 @@ In this interaction the parent is focused on completing the action of creating a
 This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
 
 
-
-
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
 
-
-
 ## Additional Chapter Discussion
+
+NOTE - in transition the element which show development of understanding via participatory appropriation can be highlighted.
+BUT how much of this is for another chapter?
+I NEED TO PRIORITISE.
+
 
 The following observations are primarily focused on implications for practitioners.
 A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
@@ -1458,9 +1461,12 @@ The tools, process and the community encourage a jam / improvisational approach.
 
 The concept of Jam is explored in rapid, improvisational events called Game Jams.
 
-### Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)
+Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
+
 
 #### Use of GDP as communication short cuts
+
+**Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)**
 
 This section;
 
@@ -1517,9 +1523,20 @@ The concept of levels abstraction can also be applied to our analysis of the gam
 
 The observations of this chapter show the advantages of GDP as a tangible, middle level unit of activity to help not only the creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
 
+
+#### GDP as concrete enough to be understandable but abstract enough to be replicable
+In this context replicable means that once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners.
+
 In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
 
 Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
+
+
+#### Technical concepts suiting transfer
+
+NOTE likey move this to another chapter. Learning maps.
+
+While there are technical elements of transfer that were identified and included in the learning map I sidelined the study of them.
 
 Specifically in examining the concrete implementation of GDPs there are transferrable concepts and practice involving practice which include;
 
