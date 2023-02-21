@@ -1210,10 +1210,12 @@ Find examples
 The personal plane is explored in a following chapter (working title Maps).
 This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
 -->
-
 <!-- Provide a link to next chapter - but before that a round up / discussion / to specific elements in relation to GDPs
 May need a way to differential this chapters discussion of GDP - and that of the next one.
  -->
+
+NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle?
+
 
 In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
 
