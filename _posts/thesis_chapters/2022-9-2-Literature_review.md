@@ -11,21 +11,26 @@ title: Literature Review
 ---
 
 
-- Literature Review
+## Literature Review overview
 
-  - Tools and Concepts & Terminology   
-    - Code playgrounds
-  - What game making pedagogies exist?
-    - UMC and Games - Half-baked games
-    - Design-based & Tinkering / Exploratory
-    - More on Game design patterns - a shared language - turn to community aspect
-  - What exists to support the development of game making communities?
-    - Game making as a non-formal activity - defining terms informal/ formal / non-formal  
-    - Social learning in Game Making
-      - Game playing and making communities
-      - Games as funds of knowledge in
-    - Visual methods in game making
-      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
+- Tools and Concepts & Terminology  - see glossary at end
+  - Code playgrounds
+- What game making pedagogies exist?
+  - UMC and Games - Half-baked games
+  - Design-based & Tinkering / Exploratory
+  - More on Game design patterns - a shared language - turn to community aspect
+- What exists to support the development of game making communities?
+  - Defining terms and exploring community-based pedagogies   
+    - informal/ formal / non-formal  - a spectrum
+    - communities of learners and practice
+    - PBL and other semi-formal interventions    
+  - Game making as a non-formal activity
+  - Social learning in Game Making
+    - Game playing and making communities
+    - Games as funds of knowledge in
+  - Visual methods in game making
+    - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
+- Conceptions of agency in learning interventions
 
 
 The aims of this literature review:

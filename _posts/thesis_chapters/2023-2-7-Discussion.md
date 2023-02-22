@@ -21,16 +21,13 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 ## Outline notes
 
 
- - Discussion around agency
+- Discussion around agency: Compare agency in design to different conception in research Tads sannino, relational etc
+- Analyse 3M design with this lens of agency
+  - Tension between walled garden and wider choice
 
-Compare agency in design to different conception in research
-Tads sannjno etc
 
-Tension between walled garden and wider choice
-
-Compare other studies in comping coding domain , primm, umc,
-Then other more general frameworks , pbl, udl, cop, col
-These differ in scope and specificity, and thus utility for practitioners
+- Compare key elements of 3M other studies in comping coding domain , primm, umc,
+- Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
 
 3m This is a domain specific framework for teaching , can it have wider applications?  
 If so how can characteristics be abstracted?
