@@ -28,8 +28,21 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 - Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
 
 ## 3M through the lens of agency
-In previous chapters 
 
+In previous chapters, we have looked at broad conceptions of agency in the emergence of learning communities.
+In this section I analyse the experience of learners in this study using some of the concepts and techniques of achieving agency to find matches and divergences.
+
+### TADS - interventions and affordances as double stimulation
+
+Revisiting terms; The term intervention and affordances do not nearly align with the broad conceptual framework of this study infering a duality between subject and object. FIND REFERENCE
+
+Backwards and warping anchors.  
+
+How does the process of offering out ledging points where anchors can catch, as a form of learning design match with conceptions of agency?
+
+### Relational Agency - Edwards
+
+Look at use of tools at the boundaries to construct new knowledge [cite - Building common knowledge at the boundaries between professional practices: Relational agency and relational expertise in systems of distributed expertise - Edwards]
 
 ## Synthesising the characteristics of the 3M pedagogy
 
