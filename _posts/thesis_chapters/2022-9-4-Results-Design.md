@@ -12,7 +12,7 @@ title: evolution of Design
 
 ## Bullet points of things to add
 
-- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework. 
+- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
 
 ## Chapter outline
 
@@ -209,7 +209,81 @@ Drama and fictional scenarios can help explore issues and reduce learner anxiety
 **Learners interact with code primarily using the mouse keyboard and screen which does not take advantage of benefits of physical computing for learner engagement.**
 Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal
 
-## Analysing learner responses to design
+
+
+
+
+## Learning Dimensions Map
+
+### Overview - Move to Design Chapter
+In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes. Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+Table 1.1. Learning Dimensions of the 3M Game Making Model
+
+This process of mapping such frameworks may be overly time-consuming for many full-time teachers. However, teachers may also use and adapt existing maps and frameworks based on their own classroom experience to help their observation of students. Because these frameworks can also help students to navigate their own learning journey the effort serves a double purpose.
+
+<!--
+While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/. -->
+<!-- ![Learning Dimensions](Pictures/learning_dimensions.jpg)
+![Learning Dimensions]({{ site.baseurl }}/_posts/Pictures/learning_dimensions.jpg)
+_Map of Learning Dimensions of the 3M Game Making Approach_
+ -->
+
+### Limits to this map
+
+This map was designed to link with particular conceptions of learning whilst still retaining a sense of the uniqueness of the affordances of this design. The settings are, CT in school curriculums, systems thinking, design approaches. These align broadly with a STEM approach. The rationale behind this is that Game Making commonly aligns with these curriculum areas and they are particularly suited to explore via iterative game making.
+NOTE - EXPLAIN WHERE THAT IS EXPLORED IN MORE DETAIL.
+
+However, there are a broad range of other skills and literacies also relevant with evidence emerging in video data.
+
+My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme. This programme introduced a broad set of competencies name Web Literacies [@noauthor_learning/webliteracystandard/legacy/webliteracieswhitepaper_nodate] [@mozilla_foundation_webmaker_2014].
+
+- digital literacy - broad overview
+- web literacy - narrower
+- webmaker - and more specific affordances of key web based coding and exploring tools
+
+
+<!-- NOTE EXPAND IF USEFUL -->
+Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments.
+
+NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
+
+
+## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
+
+### Addition of a Game Challenge section
+
+I wanted to explore the possibility to use this model to explore systems thinking.
+There is precedent to do this in GSM.
+It was driven in a response to meaningful missions which helped guide a focus on game play.
+I created such missions (outlined in Methods chapter)
+Added game design patterns based on challenge - find source Schnell & GSM literature (their terminology is Game elements)
+And then updated the learning map to highlight potential concepts to be learned.
+
+
+### Including Coding Concepts in the Learning Map and including Code Cards with links to online Concepts
+
+Recap here the choice of coding concepts rather that CT in more abstract terms.
+
+
+- Make Code cards which contained links to game design patterns and the different component concepts
+- (see Eriksson and Bjork)
+- Draw on material and critique in chapter on semantic profiles / waves.
+
+
+
+## Analysing learner responses to design - MOVE ALL OF THIS TO NEXT CHAPTERS?
 
 The first part of this chapter has dealt with the evolution of design in initial phases and responses to learner experience to resolve tensions. Due to the complexity and many moving parts of the design it has been mostly descriptive.
 
@@ -291,4 +365,3 @@ In line with sociocultural approaches Rogoff points out the limits of an underst
 While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
 
 One significant tension I felt in evolving design was a nagging feeling that learning happening should be documented, or linked to some kind of curriculum. There are elements of the design which suit development of coding concepts and Computational Thinking.
-However, I felt reluctance to explicitly teach these links via direct transmission.
