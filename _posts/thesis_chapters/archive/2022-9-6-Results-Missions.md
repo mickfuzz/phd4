@@ -10,72 +10,24 @@ categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
 
--   [Chapter introduction](#chapter-introduction)
--   [Introduction to This Writing](#introduction-to-this-writing)
-    -   [Recap on Game Design
-        Patterns -](#recap-on-game-design-patterns--)
--   [Study of Vignette A](#study-of-vignette-a)
-    -   [Descriptive Commentary on Vignette
-        A](#descriptive-commentary-on-vignette-a)
-    -   [Describing design stages for this pair beyond this
-        interaction](#describing-design-stages-for-this-pair-beyond-this-interaction)
--   [Identifying the implementation of GDP as a key unit of
-    analysis](#identifying-the-implementation-of-gdp-as-a-key-unit-of-analysis)
-    -   [Operations, actions and
-        activity](#operations-actions-and-activity)
--   [Cultural, Interpersonal & Personal Planes Analysis of use of
-    GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
--   [Cultural Plane / Apprenticeship - and Game
-    patterns](#cultural-plane-apprenticeship---and-game-patterns)
-    -   [GDPs and their interaction with play-testing to build a
-        supportive
-        community](#gdps-and-their-interaction-with-play-testing-to-build-a-supportive-community)
-    -   [GDPs and personal expression
-        (cultural) -](#gdps-and-personal-expression-cultural--)
-    -   [Use of design patterns as a form of / to facilitate
-        apprenticeship](#use-of-design-patterns-as-a-form-of-to-facilitate-apprenticeship)
-    -   [Use of Help and Documentation related to
-        GDP](#use-of-help-and-documentation-related-to-gdp)
--   [Interpersonal Focus (Guided
-    Participation)](#interpersonal-focus-guided-participation)
-    -   [GDPs for Goal Setting and
-        Prioritisation](#gdps-for-goal-setting-and-prioritisation)
-    -   [GDPs and division of Labour](#gdps-and-division-of-labour)
-    -   [GDPs motivation and sustaining
-        engagement](#gdps-motivation-and-sustaining-engagement)
-    -   [GDPs propagation through peer
-        activity](#gdps-propagation-through-peer-activity)
-    -   [GDPs to support Flexible (Iterative) Design
-        Practices](#gdps-to-support-flexible-iterative-design-practices)
-    -   [Interaction of GDPs and designing for others as a
-        method](#interaction-of-gdps-and-designing-for-others-as-a-method)
--   [GDPs and the Personal Plane](#gdps-and-the-personal-plane)
-    -   [Mutual approaches to knowledge
-        building](#mutual-approaches-to-knowledge-building)
-    -   [Game Design Patterns as a way to give language to participants
-        when sharing back to Community (or
-        not)](#game-design-patterns-as-a-way-to-give-language-to-participants-when-sharing-back-to-community-or-not)
-    -   [GDP as a way to explore Computational Thinking
-        Concepts](#gdp-as-a-way-to-explore-computational-thinking-concepts)
--   [Representing Coded the Patterns of Activity via coded
-    data](#representing-coded-the-patterns-of-activity-via-coded-data)
--   [Additional Chapter Discussion](#additional-chapter-discussion)
-    -   [Discussing Game design patterns as a tool to expose and give
-        participants a language to discuss and resolve tensions
-        (Practitioner
-        focus)](#discussing-game-design-patterns-as-a-tool-to-expose-and-give-participants-a-language-to-discuss-and-resolve-tensions-practitioner-focus)
-    -   [Design patterns as a "middle level" construct to open door to
-        more concrete and abstract (Wider
-        focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
--   [Final Section - Synthesis](#final-section---synthesis)
-    -   [Strengths and Weaknesses of the GDP construct /
-        terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
-    -   [Design patterns as a teaching aid in informal vs formal
-        environments](#design-patterns-as-a-teaching-aid-in-informal-vs-formal-environments)
-    -   [Link Paragraph to next
-        chapter](#link-paragraph-to-next-chapter)
--   [Transcript Excerpts](#transcript-excerpts)
-    -   [2019-05-08-te-da pt 1](#te-da-pt-1)
+
+## Notes on restructure
+
+- Intro
+  - Vignette text
+  - Vignette description / interpretation -> 3 planes or more general
+  - AT - GDP as unit of analysis - lens of agency?
+- Results and Data on how GDPs are used
+  - Cultural
+  - Guided participation
+  - Personal appropriation
+- Discussion (focus on interpersonal and agency)
+
+## Notes on things to add
+
+GDP language used as lingua franca to problems solve / debug.
+
+
 
 ## Chapter introduction
 
@@ -533,7 +485,16 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
-### GDPs and their interaction with play-testing to build a supportive community
+### GDPs and their interaction with play-testing to build game making community
+
+- GDPs used when giving feedback in play- testing,
+- praise &
+- direct calls for improvement,
+- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
+- Example Ch and Pa - revising game based on Te's FEEDBAC
+- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
+- Discussion - How much to teach terms or let them deveop?  
+
 
 In the previous chapter play-testing was seen to provide opportunities to build a supportive game making community, including x,y & z. This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
 
@@ -570,7 +531,7 @@ Ch likes the look of the game and begins with that as a comment.
   Pause.
   Mi: He has to go slow because he's an astronaut, you see.    
 
-  Ch: It's hard.
+  Ch: It's hard.because FB marketplace s
   Ch then leaves
 
   Mi: (to peer parent with proud tone.) It's hard. Wow.
@@ -590,6 +551,33 @@ When pairs return from playtesting to pair design work they are guided in decisi
 
 THIS HAS THE POTENTIAL FOR MORE DEVELOPMENT AND EVIDENCE
 
+#### GDPs propagation through peer activity
+
+
+- GDPs spread during play testing and other peer activity-
+- Example Ch suggesting games similar - parcour
+-
+
+The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
+
+  Ch: Why’s that enemy in every level
+  Te: He’s not.
+  Ch: Can you show me how you add more levels on to yours.
+  Te: Yeah sure.
+  Pause
+  Te: I’m just going to have one go of beating this. It’s 21 levels in it. So .. Yeeeeah.
+  Pause
+  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipe out. Have you ever played wipeout.
+  Te: Er not really.
+  Ch: Or seen it.
+  Ch: That’s like my second level.
+  Te: Ah so hard (Te fails at a high level on his game and starts to move off)
+
+  Te: (To someone else  calling for attention)  No I’m helping ..
+  (Te then follows Ch to his workstation to help him implement more levels.)
+
+FURTHER DISCUSSION HERE
+
 <!--
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
@@ -597,22 +585,53 @@ Article on intangibility of game feel.
 <!-- #### Use of hazards and moving enemies
 The placement of hazards as design pattern to increase challenge -->
 
-### GDPs and personal expression (cultural) -
+### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
 
-<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? (may need to move?) -->
+- Games offer many opportunities for maker to bring personal elements - however this can be complex and can lead to tensions [already explored in design]
+- Perhaps a transcript at start of process. Ma and Fi,  Ma and Fi ? Interview data?
+- Perhaps interview data? Te and Su? Bee keeping? Zi and Pa - family thing?
+- Mi and graphical expressions?
+
+
+In the previous example GDP not only helped Ch asking for help but we can also see they stimulated a discussion about Ch's experience in other games. Parcour in Minecraft and Wipe out (a game who's man mechanic is about landing accurately).
+
+The Personal Expression and Per
+
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
+(may need to move?)
+Just create a summary here.
+-->
+
+
 
 Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
+
+However, incorporating personal elements can involve challenges including that of unrealistic expectations based on previous game playing experiences.
+
+This section explores findings on personal expression of funds of knowledge from previous experiences of users in this learning design.
+
+
+
+<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
+ -->
+
+<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?  -->
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
 The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+
 The core GDP involving game assets already exist in the starting template.
 - Objects as a reward to incentivise player exploration
 - Objects as a hazard penalising player progress
 
-The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes
+The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
 
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
+So while structured to avoid
+
+EXAMPLES
+Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
 
 <!--
 also in [erikssonUsingGameplayDesign2019;] -->
@@ -629,8 +648,11 @@ NOTE - WHAT EVIDENCE TO USE TO SUPPORT THIS.
 
 Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
+#### Graphics in particular seemed to be driven by home cultures.
 
-Graphics in particular seemed to be driven by home cultures. One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+Mi's interactions around graphics creation
+
+
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
 - cultivativing a sense of ownership
@@ -642,6 +664,39 @@ This is supported by other research on digital making and motivation. CITATION H
 Discussion on how cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
 
 These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
+
+
+#### Other examples.
+
+- One example is that of Sh and th using a g background graphics in 2019-03-18-th_sh -
+
+
+### Use of Help and Documentation related to GDP
+
+<!-- NOTE - Keep only the parts specifically on GDP -->
+
+The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+
+#### Use of a non-linear menu of Gdp
+
+Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
+
+- increase learner engagement through accessible design
+- make documentation relatable to existing gameplay experience
+- develop use of common GPD terminology
+
+NOTE - TO FOLLOW EVIDENCE OF PARTICIPANT ENGAGEMENT WITH THE RESOURCES
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+#### Use of simple code examples which demonstrate the pattern in isolation
+
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
+
+However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
+
+
 
 ### Use of design patterns as a form of / to facilitate apprenticeship
 
@@ -690,31 +745,6 @@ SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of
 <!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
 
 
-### Use of Help and Documentation related to GDP
-
-<!-- NOTE - Keep only the parts specifically on GDP -->
-
-The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
-
-#### Use of a non-linear menu of Gdp
-
-Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
-
-- increase learner engagement through accessible design
-- make documentation relatable to existing gameplay experience
-- develop use of common GPD terminology
-
-NOTE - TO FOLLOW EVIDENCE OF PARTICIPANT ENGAGEMENT WITH THE RESOURCES
-
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
-
-#### Use of simple code examples which demonstrate the pattern in isolation
-
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
-
-However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
-DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
-
 
 ## Interpersonal Focus (Guided Participation)
 
@@ -723,6 +753,9 @@ This section examines the use of GDP to facilitate guided participation in game 
 - If needed a quick recap on guided apprenticeship.
 
 ### GDPs for Goal Setting and Prioritisation
+
+Q's on structure
+- is ideation different? this is imagine / plan
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
@@ -832,65 +865,77 @@ Mi - Oh thank you very much. I'm very proud.
 
 ### GDPs motivation and sustaining engagement
 
+- this exists in community in Playtesting
+- what is specific about interpersonal interactions
+- Example sh and Th - new element K and d - then adding a level -
+
+- Other examples needed?
+
 The process of adding in a new GDP to the game was often a sustaining activity.
 
 The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. e.g
-Example of adding a new level in 2019-03-18-th_sh
+- Example of adding a new level in 2019-03-18-th_sh - pair use paper as a process
 
 In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
 
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement.  
-In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
-There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities and affordances. The parent navigates this based on knowledge of child's interests.
 
+More on role of parent and child to negociate approaches which maximise engagement / progress / keep flow .
+
+- Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
+
+- Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
+
+
+NOTE - more wo
+
+In addition this shift can also been seen from a cultural focus. The completion is mirrored in the work of other pairs.
+
+Thus replicating is a kind of participation in an emerging community.
+There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
 
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping was something that I adopted more broadly after observing the families involved.
 
 
 
-### GDPs propagation through peer activity
+#### GDPs support Flexible (Iterative) Design Practices
 
-The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
-
-  Ch: Why’s that enemy in every level
-  Te: He’s not.
-  Ch: Can you show me how you add more levels on to yours.
-  Te: Yeah sure.
-  Pause
-  Te: I’m just going to have one go of beating this. It’s 21 levels in it. So .. Yeeeeah.
-  Pause
-  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipe out. Have you ever played wipeout.
-  Te: Er not really.
-  Ch: Or seen it.
-  Ch: That’s like my second level.
-  Te: Ah so hard (Te fails at a high level on his game and starts to move off)
-
-  Te: (To someone else  calling for attention)  No I’m helping ..
-  (Te then follows Ch to his workstation to help him implement more levels.)
-
-FURTHER DISCUSSION HERE
-
-
-### GDPs to support Flexible (Iterative) Design Practices
+NOTE THIS IS CLEARLY RELATED TO THE ABOVE -
+HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 
 Iterative agile design is a highly cultural / interpersonal process.
 
 Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
-
 Perhaps in the field of participatory design.
 
-Highlight how the granular and relatable nature of GDP
+<!-- Highlight how the granular and relatable nature of GDP -->
 
-FIND TRANSCRIPT / NOTES OF A PLANNING PAIR TO ILLUSTRATE THE FOLLOWING.
+
+Example of Te and Da  - 10-15 mins transcribe in more detail. 
+
+    They thinking of a feature – wrap around like Pac-man
+    Da – Yeah we can do that. Save that for version 1.1
+
+    Da – what’s the theme
+    Da – sketch it on paper?
+    Te – I’m just going with it.
+
+Changes in GDP are apparent in the emerging game,   
+
+
+
+In the example above where Te and Da are creating a new tilemap for a maze game, Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.  
 
 - Well suited to build a repeated design practice.
 - Especially with starting documents,
 - Small changes had big effects.
 - Variable changes needed immediate testing.  
 
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way. A later discussion section in this chapter illustrates a more complex interaction with design stages.
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+
+A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
 ### Interaction of GDPs and designing for others as a method
@@ -942,7 +987,7 @@ In this section the processes of personal appropriation of experience and knowle
  - Example - GDPs used in this research program were mutually created based on feedback from participants
  - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
 
-### Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
+### Game Design Patterns when sharing back to Community (or not) MOVE / CHANGE
 
 There are many examples of the use of language afforded by GDPs being used to increase effectiveness and confidence in communication. However not all participants take full advantage of the language available to them.
 
@@ -954,35 +999,34 @@ HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask 
 
 <!-- This is also dealt with above "GDPs propagation through peer activity"
 Find another example? -->
-
 However, this use of language is not universally taken advantage of. Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
 
-  Mi - Ne!, Ne! Ne.
+    Mi - Ne!, Ne! Ne.
 
-  Mi: Do you know how to get it in the game?
-  Ne: Oh my god!
-  Mi: Well . First of all save it to the gallery. How do you save it?
-  Ah there you are. Save it.
-  Is it saved?
-  Right now export it.
-  Ne: Do you even know what export means?  
-  Mi: I know what export means!
-  Ne- Ok then smartie pants.
-  Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
-  Ne – Gold coins.
-  Mi - Right so, What are you doing? Do you know what you are doing?
-  I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
-  Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
-  Where's my spaceman?
-  Ne: Wait! What do you want the aliens as?
-  Mi: The hazards.
-  Mi: Yaaay!
-  Mi: And now the rocket thing as the like you know the good thing - the reward.
-  Ne: Who wants a rocket for their reward?
-  Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
-  Ne: It's a very violent game.
-  Mi: What  ?
-  Ne: It's a very violent game.  
+    Mi: Do you know how to get it in the game?
+    Ne: Oh my god!
+    Mi: Well . First of all save it to the gallery. How do you save it?
+    Ah there you are. Save it.
+    Is it saved?
+    Right now export it.
+    Ne: Do you even know what export means?  
+    Mi: I know what export means!
+    Ne- Ok then smartie pants.
+    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
+    Ne – Gold coins.
+    Mi - Right so, What are you doing? Do you know what you are doing?
+    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
+    Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
+    Where's my spaceman?
+    Ne: Wait! What do you want the aliens as?
+    Mi: The hazards.
+    Mi: Yaaay!
+    Mi: And now the rocket thing as the like you know the good thing - the reward.
+    Ne: Who wants a rocket for their reward?
+    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
+    Ne: It's a very violent game.
+    Mi: What  ?
+    Ne: It's a very violent game.  
 
 NOTE - OVERLAP WITH THE BELOW WITH PREVIOUS SECTION ON AT TERMS
 
@@ -1231,9 +1275,13 @@ The heart of the matter here is how transferable knowledge is without a contextu
 Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
  -->
 
+#### Game design to get under the hood - games as a design artefact
 
+As per Bruno - we are surrounded by designed objects. This process of making lifts the lid on that process.
 
-## Final Section - Synthesis
+See example between helper and Pa in 2019-03-18 at the end.
+
+## Final Section - Synthesis.
 
 Summary on contribution to existing research
 Bring more synthesis here especially in translation of design elements due to this context

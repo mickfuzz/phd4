@@ -24,65 +24,25 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 - Discussion around agency: Compare agency in design to different conception in research Tads sannino, relational etc
 - Analyse 3M design with this lens of agency
   - Tension between walled garden and wider choice
-
-
 - Compare key elements of 3M other studies in comping coding domain , primm, umc,
 - Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
 
+## 3M through the lens of agency
+In previous chapters 
+
+
+## Synthesising the characteristics of the 3M pedagogy
+
 3m This is a domain specific framework for teaching , can it have wider applications?  
+
 If so how can characteristics be abstracted?
-And if so are they distinct from existing frameworks?  
 
-Walled garden of limited design patterns
-Playful methods of community creation
-Drama narrative to create audience a la heathcote
-Regular informal feedback and chances to discuss evolving designs
+And if so are they distinct from existing frameworks explored in literature review?   
 
-
-## Old Introduction to Maps
-
-The findings of this chapter broadly align with the personal foci from Rogoff's three foci model.
-The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
-
-These include resources created after, and partly in response to, the interactions documented in the previous chapter.
-
-One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
-
-<!-- A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
-
-Examples include;
-
-- supporting reflection on design and coding concepts / skills.
-- navigation / organisational support - use of a physical map.
-
-For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
-
-
-## On Evolution of Supporting Resources
-
-The resource creation was driven by wider concerns which prioritise this more individual account of learning.  Elements have been introduced to make this process potentially adaptable to classroom. This has influenced use based on curriculum.
-
-Not in any particular order.
-
-- recap of use of resources by 'planners', and feedback wanting a more standard approach
-- tensions in planning and writing FM book, return to resources to explain the "meeting in the middle" as a possible resolution
-- tension of printed or online documents - needs of my study - what was helpful to learners
-- learning dimensions map - a pathway for learners, and planning document for facilitators, this repetoire of patterns in partnership with routes to explore more abstract and applied terminology
- - mapping learning journeys, patchy experiments and further work.
-
-
-
-
-### MOVED/ COPIED FROM DESIGN AT END  Personal Dimension of the Learning - Personal Appropriation
-
- In line with sociocultural approaches Rogoff points out the limits of an understanding of knowledge which promotes a view of knowledge as transmission from teacher to learner and is thus an individual process. Instead this exploration of knowledge and practices is framed as a mutual process.
-
- While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
-
- One significant tension I felt in evolving design was a nagging feeling that learning happening should be documented, or linked to some kind of curriculum. There are elements of the design which suit development of coding concepts and Computational Thinking.
- However, I felt reluctance to explicitly teach these links via direct transmission.
-
-
+- Walled garden of limited design patterns
+- Playful methods of community creation
+- Drama narrative to create audience a la heathcote
+- Regular informal feedback and chances to discuss evolving designs
 
 
 
