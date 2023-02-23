@@ -13,24 +13,36 @@ title: Literature Review
 
 ## Literature Review overview
 
-- Tools and Concepts & Terminology  - see glossary at end
-  - Code playgrounds
+NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURAL LIKE KAFAI?
+
+
 - What game making pedagogies exist?
-  - UMC and Games - Half-baked games
-  - Design-based & Tinkering / Exploratory
-  - More on Game design patterns - a shared language - turn to community aspect
+  - Motivation of activity? [pick up from Intro]
+      - From Kafai's review (not directly) draw on
+      - personal
+      - more general / social / 21st C
+  - Specific techniques and how they align with motivations  
+    - Instruction
+    - UMC and Games - Half-baked games
+    - PRIMM - bridging exploration and instruction, semantic waves
+    - Pair programming - social coding
+    - Design-based & Tinkering / Exploratory - Bevan et al
+    - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first
 - What exists to support the development of game making communities?
   - Defining terms and exploring community-based pedagogies   
     - informal/ formal / non-formal  - a spectrum
     - communities of learners and practice
-    - PBL and other semi-formal interventions    
-  - Game making as a non-formal activity
-  - Social learning in Game Making
-    - Game playing and making communities
-    - Games as funds of knowledge in
-  - Visual methods in game making
-    - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
-- Conceptions of agency in learning interventions
+    - PBL, UBL and other semi-formal interventions    
+  - Examples in existing game making practice and researched programs
+    - Game playing and making communities - community activities around the game Gee / Ito
+    - Games as funds of knowledge
+  - Tools and Concepts & Terminology  - see glossary at end
+      - Code playgrounds
+      - Game Design Patterns
+
+- Synthesis  section
+  - Paucity on research on designing for learning communities
+  - Conceptions of agency in community learning interventions
 
 
 The aims of this literature review:
@@ -51,6 +63,11 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 - How do game patterns support the development of coding practices with novices?
 - What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ?
 -->
+
+<!-- Removed from review_  
+- Visual methods in game making
+    - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey -->
+
 
 
 ## Community Approach to Game making
