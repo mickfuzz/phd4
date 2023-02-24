@@ -1128,6 +1128,64 @@ Th - comments on wanting students to be frustrated when playing it, it's fun - t
 
 Move challenge here?
 
+
+### GDP driving adoption of technical process and terminology
+
+The emergence of terminology and technical processes happens particularly on a pair level. Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in apprenticeship above. Sometimes this is more implicity in more casual help interactions.
+
+The following examples shows patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community iteraction.
+
+<!-- This is also dealt with above "GDPs propagation through peer activity"
+Find another example? -->
+
+#### Example - 2019-03-18 - Mi and Ne**
+
+NOTE - TURN THIS INTO A FULL TRANSCRIPT
+
+Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
+
+    Mi - Ne!, Ne! Ne.
+
+    Mi: Do you know how to get it in the game?
+    Ne: Oh my god!
+    Mi: Well . First of all save it to the gallery. How do you save it?
+    Ah there you are. Save it.
+    Is it saved?
+    Right now export it.
+    Ne: Do you even know what export means?  
+    Mi: I know what export means!
+    Ne- Ok then smartie pants.
+    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
+    Ne – Gold coins.
+    Mi - Right so, What are you doing? Do you know what you are doing?
+    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
+    Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
+    Where's my spaceman?
+    Ne: Wait! What do you want the aliens as?
+    Mi: The hazards.
+    Mi: Yaaay!
+    Mi: And now the rocket thing as the like you know the good thing - the reward.
+    Ne: Who wants a rocket for their reward?
+    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
+    Ne: It's a very violent game.
+    Mi: What  ?
+    Ne: It's a very violent game.  
+
+
+The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
+
+In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
+Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
+
+MOVE THE FOLLOWING LATER AFTER THE NEXT EXAMPLE?
+
+Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
+
+The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
+
+We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
+
+
 #### Interpretation of data on designing for others
 
 We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour.
@@ -1165,7 +1223,12 @@ To address this, this section looks as some of the emerging patterns which compl
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
-#### Shifts in design practice
+
+
+
+
+
+### Shifts in design practice
 
 **Alternating coding**
 
@@ -1298,59 +1361,6 @@ In AT the change of activity is a shift in scope of activity system. To a wider 
 The process of being able to map the demonstrations of development of understanding has value for practitioners.
 See Bevan et al learning dimensions framework.
 
-<!-- This is also dealt with above "GDPs propagation through peer activity"
-Find another example? -->
-
-**Example - 2019-03-18 - Mi and Ne**
-
-However not all participants take full advantage of the language available to them.
-
-Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
-
-    Mi - Ne!, Ne! Ne.
-
-    Mi: Do you know how to get it in the game?
-    Ne: Oh my god!
-    Mi: Well . First of all save it to the gallery. How do you save it?
-    Ah there you are. Save it.
-    Is it saved?
-    Right now export it.
-    Ne: Do you even know what export means?  
-    Mi: I know what export means!
-    Ne- Ok then smartie pants.
-    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
-    Ne – Gold coins.
-    Mi - Right so, What are you doing? Do you know what you are doing?
-    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
-    Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
-    Where's my spaceman?
-    Ne: Wait! What do you want the aliens as?
-    Mi: The hazards.
-    Mi: Yaaay!
-    Mi: And now the rocket thing as the like you know the good thing - the reward.
-    Ne: Who wants a rocket for their reward?
-    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
-    Ne: It's a very violent game.
-    Mi: What  ?
-    Ne: It's a very violent game.  
-
-
-The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
-
-In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
-Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
-
-MOVE THE FOLLOWING LATER AFTER THE NEXT EXAMPLE?
-
-Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
-
-The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
-
-We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
-
-The next section details another example
-NOTE - INTEGRATE THIS AND THE FOLLOWING SECTION SOMEHOW.
-PERHAPS CHANGE ORDER BUMP THE FOLLOWING UP A BIT
 
 <!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
 
