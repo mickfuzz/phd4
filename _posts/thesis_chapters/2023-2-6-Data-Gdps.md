@@ -1288,22 +1288,58 @@ Situation
  - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
 
 
-The start of the discussion is in draft form in the next chapter.
+#### CTs emerging in the wild.
+ There are several examples of CT arising in the wild without being explicitly taught.
+ Here the focus is on Wing's narrower take rather than including general practices.
 
-See outline here - > insert link.
- https://mickfuzz.github.io/phd4/chapter/2022/09/07/Results-Maps.html
+
+#### Decomposition.
+ in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps.
+ It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+
+#### Abstraction
+ This concept can be concretely taught using the code structure of functions -
+
+ There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
+
+#### Generalisation / Pattern recognition
+
+ Present in the work of Te to find patterns and to duplicate them in different situations.
+ 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
+ NOTE - Ideally find another example of a child doing this.
+
+ The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+
+ Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
+
+#### Sequencing / Algorithms.
+
+ Sequencing and writing algorithms is one of the most common CT principles explored in research. INCLUDE CITATION.
+
+ This is a relative weak point in comparison to from first principles approach.
+
+ However the process of patching into different areas of the code and creating functions does address this.
+
+ The following transcript of Sh's interaction with myself shows that the process of copying patterns in the template code and patching in new lines from the supporting documentation gives ample opportunity for sequencing mistakes to be made.
+ The process of working with students on their existing code is valuable to explain why and how the order of lines of code and when functions are called.
+
+ The comparison raises a potential discussion point on what the practical value of this CT concept is.
+
+### Commentary of CT in the 3M model in particular
+ More discussion  on the practical value of CT concepts
+
 
 ### Use of GDP when demonstrating understandings in community activity
 
 #### Evolution of practices?
 
-
 **Contributing back to Community**
 
 In a previous section we examined GDPs used to build emerging community activity.
 
-Here I focus on the demonstration of individuals of the growth in use of practices.
-The concepts afforded by GDPs are used to;
+Here I focus on the demonstration of individuals of the growth in use of practices & concepts.
+
+Use of GDPs are used to;
 
 - increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
 - participate by asking for peer help using shared terms (see Mi below)
@@ -1320,7 +1356,11 @@ HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask 
 FIND THIS EXCERPT
 
 In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
+
 In AT the change of activity is a shift in scope of activity system. To a wider objective of making an engaging game.
+
+Different AT scopes allow for different use of volitional TADS.
+
 
 
 **Discussion**
@@ -1328,15 +1368,23 @@ The process of being able to map the demonstrations of development of understand
 See Bevan et al learning dimensions framework.
 
 
+**On affordances and anchors - swinging on gargoyles**
+
+<!-- NOTE
+AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it. [@ba_erentsen_activity_2002]
+Give example?
+
+Then can be viewed together with the anchor metaphor as a catching point. Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them.
+[@hopwood_agency_2022].
+
 <!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
-
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
-
 -->
 
-
-
 #### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel - PERHAPS MOVE TO LAST SECTION / PERSONAL
+
 The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
 
 In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
@@ -1347,7 +1395,6 @@ The regular playtesting of games allowed participants to give each other feedbac
 #### Use of evolving language in informal feedback to direct modification of games
 
 Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
 
     Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
     Mick: How are you getting on Mi? It's looking good.
@@ -1362,7 +1409,6 @@ Parent Mi had been focused mostly on completing asset design. She had been made 
 
 I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
 
-This subtle direction mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. In one case ... (if needed?)   
 
 Ch likes the look of the game and begins with that as a comment.
 
@@ -1383,25 +1429,41 @@ Fi comes to play the game
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
 
+EXTEND
+CONTINUES TO TALK ABOUT CROPPING IMAGE ANOTHER COMMUNITY PRACTICE
 
 
 We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
 
+**Organically evolving norming practices being fed back to the community**
+
 Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
 
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
-The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
 
+The emergence of a community norm comes from the personal experiences of the participants.
+
+This indirect comments aimed to direct direction of design mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. ( NOTE EXPLORE THIS PREVIOUSLY?)
+
+#### Other examples of emerging concepts / practices
 These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
-NOTE = SHOULD i GO BACK AND TRY TO COUNT SOME?
-
-When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
 
 For example the emergence of the concept of safe zone in the game of Ch and Pa -
-And their incorporation of a boost to player health after a level after Te's visceral feedback.
+The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quicky identify and use 'safe zones'.
 
+#### Fluidity of practice
 
+Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
 
+Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
+
+This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
+
+#### Intepretation / discussion of personal practices / concepts
+
+When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
+
+The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
 
 
 ## Additional Chapter Discussion

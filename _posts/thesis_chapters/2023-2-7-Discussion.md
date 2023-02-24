@@ -29,7 +29,7 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 - Synthesis of conceptions of designing for learner agency in an emerging community of coders
   - compare Resnick / Paperts features of 'designing for tinkerability', with TADS and creating hooking points for double stimulation (warping anchors)
   - note different emphasis on the agency of the learner to one focusing on curriculum knowledge and resulting reccommendations
-  - also compare concept of computational fluency of Resnick. 
+  - also compare concept of computational fluency of Resnick.
   - differing focus on the role of the designer
   - similarities in process - iterative, empowerment
 
@@ -105,46 +105,6 @@ Elements of contrast with 3M include;
 - Lack of value placed on CT as overarching knowledge. No posters, no curriculum content, no tests on concepts, no lesson objectives and end tests,
 - Code patching from existing code examples, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use.
 
-
-##### CTs emerging in the wild.
-There are several examples of CT arising in the wild without being explicitly taught.
-Here the focus is on Wing's narrower take rather than including general practices.
-
-
-#### Decomposition.
-in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps.
-It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
-
-#### Abstraction
-This concept can be concretely taught using the code structure of functions -
-
-There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
-
-#### Generalisation / Pattern recognition
-
-Present in the work of Te to find patterns and to duplicate them in different situations.
-2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
-NOTE - Ideally find another example of a child doing this.
-
-The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
-
-Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
-
-#### Sequencing / Algorithms.
-
-Sequencing and writing algorithms is one of the most common CT principles explored in research. INCLUDE CITATION.
-
-This is a relative weak point in comparison to from first principles approach.
-
-However the process of patching into different areas of the code and creating functions does address this.
-
-The following transcript of Sh's interaction with myself shows that the process of copying patterns in the template code and patching in new lines from the supporting documentation gives ample opportunity for sequencing mistakes to be made.
-The process of working with students on their existing code is valuable to explain why and how the order of lines of code and when functions are called.
-
-The comparison raises a potential discussion point on what the practical value of this CT concept is.
-
-### Commentary of CT in the 3M model in particular
-More discussion  on the practical value of CT concepts
 
 ##  Commentary / Discussion on Learning Dimensions
 
