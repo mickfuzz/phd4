@@ -1133,16 +1133,16 @@ Move challenge here?
 
 The emergence of terminology and technical processes happens particularly on a pair level. Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in apprenticeship above. Sometimes this is more implicity in more casual help interactions.
 
-The following examples shows patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community iteraction.
+The following examples shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community iteraction.
 
 <!-- This is also dealt with above "GDPs propagation through peer activity"
 Find another example? -->
 
-#### Example - 2019-03-18 - Mi and Ne**
+In the the following interaction between parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
 
 NOTE - TURN THIS INTO A FULL TRANSCRIPT
 
-Take the following interaction between parent Mi and her daughter Ne. The mother wants to export an image from the graphical editing tool and to import this into the game.
+
 
     Mi - Ne!, Ne! Ne.
 
@@ -1159,7 +1159,7 @@ Take the following interaction between parent Mi and her daughter Ne. The mother
     Ne – Gold coins.
     Mi - Right so, What are you doing? Do you know what you are doing?
     I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
-    Mi: Poop Ping? (alarmed )What are you doing? What's poop ping.
+    Mi: Poop Ping? (alarmed) What are you doing? What's poop ping.
     Where's my spaceman?
     Ne: Wait! What do you want the aliens as?
     Mi: The hazards.
@@ -1177,13 +1177,70 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
 Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
 
-MOVE THE FOLLOWING LATER AFTER THE NEXT EXAMPLE?
-
 Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
+
+
+#### Interpretation of data on evolving processes
 
 The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
 
 We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
+
+
+**Operations, actions and activity**
+
+<!-- MOVE THE BULK OF THIS TO DESIGN CHAPTER TO HELP SITUATE THAT.
+OR THERE IS DUPLICATION WITH MIDDLE LEVEL CONSTRUCT SECTION - SO MOVE THERE?
+AND PERHAPS MOVE MIDDLE LEVEL CONSTRUCT TO NEXT CHAPTER -->
+
+Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
+
+  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
+
+As previously explored, activity systems can be viewed on different levels of ?
+
+To explore this in the present context, I list some bullet points with examples followed by a commentary;
+
+- **Activity:** Implementing a game design pattern - e.g. adding keys and doors pattern
+- **Action:** Creating a graphical asset of a key and adding this to the level design
+- **Operation:** Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
+
+**Commentary:**
+In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
+
+    Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
+    Mi asks for help from partner but receives misleading advice which does not help her progress.
+
+    Mi – Oh no it’s not done that has it?
+
+    Mi calls the name of her child across room with theatrical gesture and loud whisper voice
+    Mi – “Ne!”
+    Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
+
+    Ne arrives to help.
+    Mi – I’m trying to delete them but they turn light grey.
+    Ne – So you want to get rid of them?
+    Mi – What are you doing? You have to tell me what you are doing so I can do it myself.
+    Mi – laughs
+    Ne – laughs.
+    Mi – I’ll just have to keep shouting at you if you don’t tell me.  
+    Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
+    Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+    Parent peer laughs
+    Ne bounces up in place and smiles broadly.
+    Mi- Thanks
+    Mi – So am I like back with the black now?  
+    Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+    Mi – Oh X. Alright Bubs. Thanks.
+
+In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
+
+This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
+
+
+<!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
+
+
 
 
 #### Interpretation of data on designing for others
@@ -1367,59 +1424,6 @@ See Bevan et al learning dimensions framework.
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
 
 -->
-
-### Operations, actions and activity
-
-MOVE THE BULK OF THIS TO DESIGN CHAPTER TO HELP SITUATE THAT.
-OR THERE IS DUPLICATION WITH MIDDLE LEVEL CONSTRUCT SECTION - SO MOVE THERE?
-AND PERHAPS MOVE MIDDLE LEVEL CONSTRUCT TO NEXT CHAPTER
-
-Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
-
-  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
-
-As previously explored, activity systems can be viewed on different levels of ?
-
-To explore this in the present context, I list some bullet points with examples followed by a commentary;
-
-- **Activity:** Implementing a game design pattern - e.g. adding keys and doors pattern
-- **Action:** Creating a graphical asset of a key and adding this to the level design
-- **Operation:** Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
-
-**Commentary:**
-In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
-
-    Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
-    Mi asks for help from partner but receives misleading advice which does not help her progress.
-
-    Mi – Oh no it’s not done that has it?
-
-    Mi calls the name of her child across room with theatrical gesture and loud whisper voice
-    Mi – “Ne!”
-    Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
-
-    Ne arrives to help.
-    Mi – I’m trying to delete them but they turn light grey.
-    Ne – So you want to get rid of them?
-    Mi – What are you doing? You have to tell me what you are doing so I can do it myself.
-    Mi – laughs
-    Ne – laughs.
-    Mi – I’ll just have to keep shouting at you if you don’t tell me.  
-    Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
-    Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-    Parent peer laughs
-    Ne bounces up in place and smiles broadly.
-    Mi- Thanks
-    Mi – So am I like back with the black now?  
-    Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
-    Mi – Oh X. Alright Bubs. Thanks.
-
-In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
-
-This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
-
-
-<!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
 
 ## Additional Chapter Discussion

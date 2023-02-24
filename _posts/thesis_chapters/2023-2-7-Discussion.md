@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Findings - Mapping the Learning
+title: Discussion Chapter
 ---
 <!--
 ## Starting thoughts on writing up results.
@@ -28,7 +28,8 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 - Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
 - Synthesis of conceptions of designing for learner agency in an emerging community of coders
   - compare Resnick / Paperts features of 'designing for tinkerability', with TADS and creating hooking points for double stimulation (warping anchors)
-  - note different emphasis on the agency of the learner
+  - note different emphasis on the agency of the learner to one focusing on curriculum knowledge and resulting reccommendations
+  - also compare concept of computational fluency of Resnick. 
   - differing focus on the role of the designer
   - similarities in process - iterative, empowerment
 

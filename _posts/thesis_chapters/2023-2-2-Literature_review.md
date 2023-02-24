@@ -20,7 +20,7 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
   - Motivation of activity? [pick up from Intro]
       - From Kafai's review (not directly) draw on
       - personal
-      - more general / social / 21st C
+      - more general / social / 21st C, computational fluency
   - Specific techniques and how they align with motivations  
     - Instruction
     - UMC and Games - Half-baked games
@@ -68,7 +68,13 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 - Visual methods in game making
     - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey -->
 
+## Personal Motivations
 
+## Social Motivations
+
+- more general / social / 21st C, computational fluency
+
+Computational Fluency [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
 
 ## Community Approach to Game making
 
