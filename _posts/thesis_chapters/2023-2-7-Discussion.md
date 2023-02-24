@@ -20,13 +20,17 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 
 ## Outline notes
 
-
 - Discussion around agency: Compare agency in design to different conception in research Tads sannino, relational etc
 - Analyse 3M design with this lens of agency
   - Tension between walled garden and wider choice
 - Compare key elements of 3M other studies in comping coding domain , primm, umc,
-  - shifts in levels of abstraction 
+  - shifts in levels of abstraction
 - Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
+- Synthesis of conceptions of designing for learner agency in an emerging community of coders
+  - compare Resnick / Paperts features of 'designing for tinkerability', with TADS and creating hooking points for double stimulation (warping anchors)
+  - note different emphasis on the agency of the learner
+  - differing focus on the role of the designer
+  - similarities in process - iterative, empowerment
 
 ## 3M through the lens of agency
 

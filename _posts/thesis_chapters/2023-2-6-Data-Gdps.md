@@ -909,12 +909,13 @@ This section examines the use of GDP to facilitate guided participation in game 
 
 - If needed a quick recap on guided apprenticeship.
 
-### GDPs for project organisation / coordination
+The following sections follow a formula; description, example, interpretation. An analysis section follows.
 
-<!-- ##### Example of Parent supporting planning Sh and Th
 
-- in planning stages the parent provides scaffolding to help the child.
-- In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.     -->
+<!-- DROP LARGER CATEGORISATION - TOO ARBITRARY
+### GDPs for project organisation / coordination -->
+
+
 
 #### Direct task delegation
 
@@ -944,10 +945,7 @@ Indeed while this arrangement seems mutually suitable, the possibility for child
 
 
 
-#### GDPs for Prioritisation
-
-and
-#### Informal task division
+#### GDPs for prioritisation and more informal task division
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
@@ -1040,6 +1038,8 @@ Mi - Oh thank you very much. I'm very proud.
  -->
 
 
+
+
 ### GDPs motivation and sustaining engagement
 
 - these kinds of  exists in community in Playtesting - but different for side by side interactions - or are they - discuss
@@ -1060,22 +1060,38 @@ This was welcome show by Ma's comment.
 "It did go on for too long."
 
 
-##### Ask / Imagine / Ideation from Sh an Th
+### Sustaining Engagement: Parental prompts aligned with ideation stages
 
-- In early ask/imagine stages parent and child discuss storytelling, graphical and other aesthetic choices
-- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage indicating that she is aware of the greater possibility for effective child input at this stage.
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities.
 
-##### Example prototyping a new GDP on paper  
+The parent uses this transition as a prompt to stimulate new activity in the child.
 
-When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect.
+The parent navigates this process skilfully and is able to incorporate the child's interests.
 
-<!-- - in planning stages the parent provides scaffolding to help the child. -->
+#### Example - Sh and Th (from Vignette)
+
+The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
+ indicating that she is aware of the greater possibility for effective child input at this stage.
+
+In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices
+
+### Design and ideation: Prototyping a new GDP on paper  
+
+When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect.
 
 In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.
 
-In the process of doing that, the pair return to a paper stage, and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
+INSERT CODE EXAMPLE FROM VIGNETTE - TO CLEARLY SHOW GRAPHICAL NATURE OF ARRAY IN CODE
 
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities. The parent navigates this based on knowledge of child's interests.
+The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper.
+The parent, when faced with a blockage,
+
+and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
+
+
+NOTE - RETURN TO THIS IN ANALYSIS OF TADS -
+
+<!-- - in planning stages the parent provides scaffolding to help the child. -->
 
 More on role of parent and child to negotiate approaches which maximise engagement / progress / keep flow .
 
@@ -1091,35 +1107,44 @@ There is also a link made by the parent to previous working practices. Using a p
 
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved.
 
-#### Interaction of GDPs and designing for others
+### GDPs facilitating designing for others
 
 As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
-
-This helps a focus on change that others will observe and thus help participants to design for others.
+This helps a focus on a noticeable change in game play.  something  that others will observe and thus help participants to design for others.
+AS COMPARED TO WHAT? WHAT WOULDN'T BE NOTICEABLE?
 
 As explored, Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
+
 This was explored from a cultural plane previously but the process also was observed in practices in this study and in relevant reasearch (set up for discussion on this)
 
 I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
 
-Some examples: (should be many)
+#### Vignette A
+In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it.
 
-Pull on examples of learners imagining the experience of others.
- - Th - in session 2019-03-11  - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
- - Another example -
+Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
 
-##### Discussion of designing for others - move to discussion?
+#### Mi? lack of appropriate challenge?
 
-This fits into our design cycle, as our first stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+Move challenge here?
 
-The use of GDP as a unit of activity may help encourage regular self testing and playtesting.
-NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
+#### Interpretation of data on designing for others
 
+We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour.
+
+Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+FIND RESEARCH TO SUPPORT
+
+I also propose that the use of GDP as a unit of activity may help  the overall process of design for others by providing the FOLLOWING
+
+- discreet and clear goals which are nested in the wider goal of making an engaging game
+- clear terms to use as a lingua-franca during self testing and playtesting.
+
+
+<!-- NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
 Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
-
-Value of design as a process, to see surrounding world as a designed experience, Latour.
-
+NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
 
 
 ### GDPs support Flexible Design Practices
@@ -1183,7 +1208,7 @@ While the design suits repeated design practice as illustrated by the example ab
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
-#### GDPs scaffolding the product revision process and debugging
+### GDPs scaffolding the product revision process and debugging
 
 - Participants spend much time in the stages of Improve and Test often as a solo effort.
 - This process showed a personal appropriation of concepts like game feel / challenge
