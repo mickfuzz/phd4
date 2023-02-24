@@ -25,6 +25,7 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 - Analyse 3M design with this lens of agency
   - Tension between walled garden and wider choice
 - Compare key elements of 3M other studies in comping coding domain , primm, umc,
+  - shifts in levels of abstraction 
 - Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
 
 ## 3M through the lens of agency

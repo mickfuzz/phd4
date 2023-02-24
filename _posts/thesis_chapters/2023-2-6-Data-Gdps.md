@@ -916,8 +916,38 @@ This section examines the use of GDP to facilitate guided participation in game 
 - in planning stages the parent provides scaffolding to help the child.
 - In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.     -->
 
+#### Direct task delegation
+
+<!-- While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations. -->
+
+The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
+The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
+
+|T: Go on then. Key - Door - Person.| |
+|S: Person?| |
+|T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
+
+Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange. It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
+
+
+**Notes to integrate here**
+
+While the child makes direct delegation they are free to undertake other activities.
+
+- At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of  attention.
+- At times the parent asked the child to seek help from facilitator.  
+- At another time, when the child was bored waiting for parent debugging, she approached the facilitator to ask for help on behalf of the adult without prompting.  
+
+This activity away from the screen could in some models be seen an non-productive. However, in a community model of learning this can be seen as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].
+
+Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
+
+
 
 #### GDPs for Prioritisation
+
+and
+#### Informal task division
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
@@ -961,35 +991,7 @@ Or perhaps the parent steers the child into graphical areas as they are able to 
 
 
 
-#### Direct task delegation
 
-<!-- While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations. -->
-
-The opening vignette shows the name of a GDP as a way to communicate about the shared work of making a game.
-The utterance by the child "Key Door Person" seemingly indicated that the child ceded responsibility to the adult. The child has judged it the level of complexity needed to add a new pattern into the code to be beyond her ability and delegates appropriately.
-
-|T: Go on then. Key - Door - Person.| |
-|S: Person?| |
-|T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
-
-Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange. It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
-
-
-**Notes to integrate here**
-
-While the child makes direct delegation they are free to undertake other activities.
-
-- At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of  attention.
-- At times the parent asked the child to seek help from facilitator.  
-- At another time, when the child was bored waiting for parent debugging, she approached the facilitator to ask for help on behalf of the adult without prompting.  
-
-This activity away from the screen could in some models be seen an non-productive. However, in a community model of learning this can be seen as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].
-
-Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
-
-
-
-#### Informal task division
 
 The implementation of some GDP involved the use of different tools and activities. For example, the design of a graphical element suited some learners and they depended on the support of others to implement those changes in code.
 
