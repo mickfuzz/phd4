@@ -496,69 +496,6 @@ The child does also play the games of others. REVIEW DATA, ADD DETAIL.
  This sharing process motivates sustained activity. In addition, the parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a mischievous desire to play against game conventions with a desire to confuse or disorient players. (my interpretation based on another extract)
 
 
-#### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
-
-In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
-<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
-
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
-
-#### Use of evolving language in informal feedback to direct modification of games
-
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
-
-    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-    Mick: How are you getting on Mi? It's looking good.
-    Mick: (Noting frustrated air of Mi) Have you made it to hard.
-    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-    Mick: So it look like you bump your head and fall down.
-    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.
-    Mick: Yeah.
-    Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
-
-I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
-
-This subtle direction mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. In one case ... (if needed?)   
-
-Ch likes the look of the game and begins with that as a comment.
-
-    Ch: That looks nice (referring to the graphical look of the game)
-    Mi invites Ch to play as she can't progress due to the difficult game controls.
-
-    Ch: It jumps super high but so slow  
-    Pause.
-    Mi: He has to go slow because he's an astronaut, you see.    
-
-    Ch: It's hard.
-    Ch then leaves
-
-    Mi: (to peer parent with proud tone.) It's hard. Wow.
-
-Fi comes to play the game
-
-    Fi: How much jump speed to you have?
-    Fi: Your jump speed is massive.
-
-
-
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
-
-Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
-
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
-The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
-
-These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
-NOTE = SHOULD i GO BACK AND TRY TO COUNT SOME?
-
-When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
-
-For example the emergence of the concept of safe zone in the game of Ch and Pa -
-And their incorporation of a boost to player health after a level after Te's visceral feedback.
 
 
 ### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
@@ -1197,16 +1134,9 @@ Analysing the implementation of GDPs as a unit of activity allow the use of usef
 
   "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
 
-As previously explored, activity systems can be viewed on different levels of ?
+As previously explored, activity systems can be viewed on different levels of abstraction.
 
-To explore this in the present context, I list some bullet points with examples followed by a commentary;
-
-- **Activity:** Implementing a game design pattern - e.g. adding keys and doors pattern
-- **Action:** Creating a graphical asset of a key and adding this to the level design
-- **Operation:** Exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
-
-**Commentary:**
-In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
+As a common example the process of "getting it in the game".
 
     Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
     Mi asks for help from partner but receives misleading advice which does not help her progress.
@@ -1233,6 +1163,10 @@ In this example, while the final an operation for some participants it would be 
     Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
     Mi – Oh X. Alright Bubs. Thanks.
 
+Taking a more focused view of the activity here would be implementing a game design pattern - e.g. adding keys and doors pattern in this case. On the level of action, creating a graphical asset of a key and adding this to the level design. The operation would be the exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
+
+In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
+
 In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
 
 This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
@@ -1241,13 +1175,12 @@ This interaction underlies the validity of exploring the implementation of GDPs 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
 
-
-
 #### Interpretation of data on designing for others
 
 We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour.
 
 Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+
 FIND RESEARCH TO SUPPORT
 
 I also propose that the use of GDP as a unit of activity may help  the overall process of design for others by providing the FOLLOWING
@@ -1260,28 +1193,6 @@ I also propose that the use of GDP as a unit of activity may help  the overall p
 Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
 NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
-
-
-### GDPs support Flexible Design Practices
-
-
-HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
-HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
-
-Iterative agile design is a highly cultural / interpersonal process. (Glossary)
-
-This section describes a broad range of observed design practices of participants which involve game design patterns.
-
-The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
-
-As discussed in previous section design thinking education has created a set norms in communicating the stages of design that complexities are less readily communicated. On closer inspection, much literature on design processes contains caveats that some processes can happen in parallel and one stage may need several iterations. Given this caveat, I began to how useful is the overall in observing the emergence of complex creative processes.
-
-To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
-
- <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
-
-
-
 
 
 
@@ -1343,7 +1254,7 @@ Find examples
 - Child takes on challenge of making smaller changes once the core game mechanic code has been added.
 
 
-## GDPs and Participatory Appropriation
+## GDPs and the personal plane
 
 <!-- NOTE - REMOVE THIS. INCORPORATE HERE?
 The personal plane is explored in a following chapter (working title Maps).
@@ -1353,8 +1264,9 @@ This will cover findings relating to the value of participatory methods of mappi
 May need a way to differential this chapters discussion of GDP - and that of the next one.
  -->
 
-NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle?
+<!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
 
+QUICK SUMMARY
 In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
 
  - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
@@ -1364,8 +1276,6 @@ In this section the processes of personal appropriation of experience and knowle
  - While the practices them selves are valid without expressions of underlying concepts, these are surfaced especially in peer problem solving (beyond Guided participation ) and in feedback in playtesting.  
 
 Question, rather than a focus on concepts of personal / transferable knowledge, how much of this section focuses on appropriation of practices.
-
-
 
 Situation
 
@@ -1383,10 +1293,10 @@ The start of the discussion is in draft form in the next chapter.
 See outline here - > insert link.
  https://mickfuzz.github.io/phd4/chapter/2022/09/07/Results-Maps.html
 
-
-LINK HERE TO MIDDLE LEVEL CONSTRUCT - TO INTEGRATE HERE?
-
 ### Use of GDP when demonstrating understandings in community activity
+
+#### Evolution of practices?
+
 
 **Contributing back to Community**
 
@@ -1398,8 +1308,7 @@ The concepts afforded by GDPs are used to;
 - increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
 - participate by asking for peer help using shared terms (see Mi below)
 
-
-
+#### Evolution of language and use of terms? (compared to processes)
 
 **Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
 
@@ -1426,6 +1335,75 @@ The pattern we see here is less relatable to every day game constructs in the wa
 -->
 
 
+
+#### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel - PERHAPS MOVE TO LAST SECTION / PERSONAL
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
+
+In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
+
+#### Use of evolving language in informal feedback to direct modification of games
+
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
+
+I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
+
+This subtle direction mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. In one case ... (if needed?)   
+
+Ch likes the look of the game and begins with that as a comment.
+
+    Ch: That looks nice (referring to the graphical look of the game)
+    Mi invites Ch to play as she can't progress due to the difficult game controls.
+
+    Ch: It jumps super high but so slow  
+    Pause.
+    Mi: He has to go slow because he's an astronaut, you see.    
+
+    Ch: It's hard.
+    Ch then leaves
+
+    Mi: (to peer parent with proud tone.) It's hard. Wow.
+
+Fi comes to play the game
+
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
+
+
+
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
+
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
+
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
+The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
+
+These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
+NOTE = SHOULD i GO BACK AND TRY TO COUNT SOME?
+
+When pairs or individuals return from playtesting to pair design work they are guided in decisions by their interaction with the games of others. I infer that the process of playtesting other games is a direct and accessible way to explore vital game making concepts like game feel and challenge without being directly taught.
+
+For example the emergence of the concept of safe zone in the game of Ch and Pa -
+And their incorporation of a boost to player health after a level after Te's visceral feedback.
+
+
+
+
+
 ## Additional Chapter Discussion
 
 NOTE - in transition the element which show development of understanding via participatory appropriation can be highlighted.
@@ -1437,8 +1415,24 @@ The following observations are primarily focused on implications for practitione
 A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
 
 
+### GDPs support Flexible Design Practices - Discussion? MOVED
+
+HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
+HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
+
+Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
+
+Iterative agile design is a highly cultural / interpersonal process. (Glossary)
+
+QUESTION - INCLUDE THIS OR NOT?
+As discussed a in previous section design thinking education has created a set norms in communicating the stages of design that complexities are less readily communicated. On closer inspection, much literature on design processes contains caveats that some processes can happen in parallel and one stage may need several iterations. Given this caveat, I began to how useful is the overall in observing the emergence of complex creative processes.
+
+To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
+
+ <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
+
+
 #### The limits of design cycle stages
-[PERHAPS SOME OF THIS TO DISCUSSION?]
 
 When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
 Ask / Imagine, Plan, Create, Test, Improve, Share.
