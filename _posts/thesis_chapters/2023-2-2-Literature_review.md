@@ -43,6 +43,7 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
 - Synthesis  section
   - Paucity on research on designing for learning communities
   - Conceptions of agency in community learning interventions
+    - relational, tas and tads (perhaps develop in methodology chapter)
 
 
 The aims of this literature review:
