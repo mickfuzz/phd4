@@ -343,19 +343,7 @@ Discussion
 The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
 
-## Identifying the implementation of GDP as a key unit of analysis
-
-<!-- NOTE: How much of this needs to be relayed earlier in the Design chapter to explain design decision?
-A LOT - MOVE THIS? -->
-Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
-
-- larger - learning computing skills and concepts as a home education project
-- larger - participating with other home educators in a creative environment and thus building team and communication skills
-- larger - learning transferable design skills and processes
-- large - creating a game which is fun to play and communicate an environmental theme
-- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
-- smaller - creating, changing and transporting game assets to enact or change GDPs
-- smaller - implementing or changing code constructs to enact or change GDPs
+## Analysis of the implementation of GDP as a key unit of analysis
 
 In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
 
@@ -365,12 +353,6 @@ https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
 
 <!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
 
-#### Discussion on scope of activity systems (MAY MOVE)
-
-NOTE - this may move, it seems to get in the way here. Thus this is partly in note / bullet point form.
-
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
-
 From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
 
 - the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
@@ -379,29 +361,13 @@ From the perspective of participants, the goal of implementing individual game p
 - the ability to reflect after implementing each sub project,
 - any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
 
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
-
-- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
-- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
-- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
-- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
-
-This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
-
 <!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
 NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
-
-
-
 
 <!-- review this video to develop
 https://www.youtube.com/watch?v=BMi56ZBSows -->
 
 <!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
-
 
 <!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
 
@@ -469,16 +435,11 @@ MAKE LINK TO NEXT SECTION
 In addition, exchanges like this allow the propagation of GDPs
 The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
 
-
-
 <!--
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
-
 <!-- #### Use of hazards and moving enemies
 The placement of hazards as design pattern to increase challenge -->
-
-
 
 ### GDPs providing means for peer feedback on game play experience
 
