@@ -19,10 +19,15 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 - Theoretical framework
   - social turn,
       - overview of AT(Soviet) and socio cultural (US), and merged into CHAT
+  - CHAT,
   - Design based intervention / research
+  - Conceptions of Agency (revisited) & implications for design / analysis from DBR and CHAT
 - Methods
-  - Data gathering  
-
+  - Data gathering
+      -
+  - Data analysis
+    - Broad description
+    - Gesture analysis
 
 ## Theoretical Framework
 

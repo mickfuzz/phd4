@@ -230,31 +230,38 @@ The resulting coding structure is available online here.
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit# -->
 
 
-
 ### Descriptive Commentary on Vignette A
 <!-- ## WAS Observations of use of Game Design Patterns in Vignette A -->
 
 <!-- NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
 BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
 
-In this section a summary of the interaction observed in the above vignette is described using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction.
+<!-- RESPONSE - It may be better even to compress this down and not use too much in the way of concpts.  -->
+
+In this section a summary of the interaction observed in the above vignette is described in broad strokes using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. More detailed interpretation and analyis of these interactions follow in later sections.  
+
+<!-- Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction. -->
+
+
 
 **Cultural Focus**
 
-The parent has taken on the role of solving harder code problems and it engaging with the material being presented as part of the sessions and following the instructions carefully. The child is one of the younger participants and does not maintaining attention on the problem being solved. When blockages occur she is keener to explore the room or to dwell on the periphery of other participants interactions.
+The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions.
 
 <!-- For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game. -->
 
-Keys and Doors as desired a pattern emerged from feedback from participants in previous sessions. It is a concept that has appealed to the child in a way that drives engagement with the game making process. This is evident in the way with the child introduces and repeats the name of the pattern in a sing song voice in this interaction.
+Keys and Doors as desired a game design pattern appears to prompt engagement with the game making process. This is evident in the way with the child introduces and repeats the name of the pattern in a sing song voice in this interaction.
 
-Another pattern the child advocates for is that of adding levels. This desire to add this pattern may have been picked up from the emerging culture of the group. The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it.
+Another pattern the child advocates for is that of adding levels. This desire to add this pattern may have been picked up from the emerging culture of the group as this pattern has been added to other games and has become a topic of discourse.
+
+<!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it. -->
 
 <!-- For  Mi and Other Parent - "Have you seen Te's game it has 21 levels." -->
 <!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
 
-In the above interactions, there is cultural understanding of the conventions of a platformer game being shown by both the child and adult. Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. "It is for me!" the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
+In the above interactions, there is cultural understanding of the conventions of a platformer game being shown by both the child and adult. Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs.
 
-This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. This process is repeated by this parent for other patterns in other interactions. In the vignette for example, Sh shares "Must be quite hard to get through that door." when Sh places the exit door high above a platform.  
+
 
 <!--
 Drop tool use here - not specifically GDPs
@@ -1058,6 +1065,10 @@ I found many examples of pair partners and peers nudging others into imagining o
 
 #### Vignette A
 In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it.
+
+The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. "It is for me!" the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
+
+This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. This process is repeated by this parent for other patterns in other interactions. In the vignette for example, Sh shares "Must be quite hard to get through that door." when Sh places the exit door high above a platform.  
 
 Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
 
