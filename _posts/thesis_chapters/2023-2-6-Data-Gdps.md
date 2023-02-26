@@ -1449,10 +1449,11 @@ The following observations are primarily focused on implications for practitione
 A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
 
 
-### GDPs support Flexible Design Practices - Discussion? MOVED
+### GDPs support Flexible Design Practices - Discussion? MOVE?
 
 HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
+SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS?
 
 Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
 

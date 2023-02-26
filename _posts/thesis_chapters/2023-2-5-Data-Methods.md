@@ -16,9 +16,14 @@ title: Results Methods
 - Remixing / Half-baked - impact, examples
 - Scenarios
 - Player and Maker Types
+  - example of flexible design approaches valued / highlighted by types 
 - Finally - Creating a walled garden for GDP - an overview from a cultural, community perspective?
 
-This needs work to structure effectively AND a focus on agency? 
+- Discussion / synthesis
+  - Agency through lens of double stimulation, explore in relation other research.  
+  -  Design stages and Maker types.  Value as TADS?
+
+This needs work to structure effectively AND a focus on agency?
 
 
 ## Culturally Inclusive Methods to Kick Start Game Making Communities
