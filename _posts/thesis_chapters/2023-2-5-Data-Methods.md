@@ -278,6 +278,44 @@ A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible
 
+
+### Overcoming Tensions related to Culture and Affect
+
+A tension outlined in the literature are barriers to coding and complex digital practice. A common perspective being I can be paraphrased as *I'm not that sort of person *(explored in lit review). My starting thoughts for this program to address this barrier included the following perspectives:
+
+-   The premise of family game making, of completing projects together with your parents or siblings has potential to remove the *I'm not that sort of person *barrier of cultural identity as participants are surrounded by their people. -   In a large majority of cases game playing has high exposure for parents and grand-parents (either directly or through other family members). The choice of retro (arcade / first generation) games as a medium maximises this familiarity. -   The choice of toolsets to allow participants to bring their own family interests and explore issues being discussed in the home life helps participants to draw on home funds of knowledge and discourse while learning unfamiliar processes Moll et al., 1992). -   The use of regular physical / drama games and physical making activities may reduce anxiety associated with new language acquisition Krashen, 1982) (in this case the technical terminology).
+
+Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points. The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
+
+I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. The incident lead me to greater reflection on ongoing measures needed to prevent participant drop out for due to cultural tensions and negative affect to the working community. These include:
+
+-   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued. -   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions. -   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
+
+These observations were in part resolved by previously discussed issues including the more egalitarian and accessible pathways to making resources and navigating their learning. I also adapted my sessions to ensure a consistency of non-digital and playful activities. The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program.
+
+### Building Identities as Game Makers
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
+
+In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
+
+The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
+
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you.
+
+
+
 ### Circulation of peers and helpers & playtesting
 
 This often facilitates talk aloud of design decisions and justifications.
@@ -429,3 +467,4 @@ The tools, process and the community encourage a jam / improvisational approach.
 The concept of Jam is explored in rapid, improvisational events called Game Jams.
 
 Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
+player types
