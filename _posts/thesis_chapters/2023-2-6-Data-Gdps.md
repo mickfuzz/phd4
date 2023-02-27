@@ -1437,7 +1437,8 @@ Game design patterns contain elements of more abstract and thus repeatable struc
 
 #### Technical concepts suiting transfer
 
-NOTE likey move this to another chapter. Learning maps.
+NOTE likely move this to another chapter.
+Learning maps - additional discussion on learning dimensions - or conclusion / next steps. 
 
 While there are technical elements of transfer that were identified and included in the learning map I sidelined the study of them.
 
@@ -1454,7 +1455,7 @@ Firstly how wide should reuse be imagined? To other coding projects? Or wider cl
  -->
 
 
- #### Use of GDP as communication short cuts
+#### Use of GDP as communication short cuts
 
  **Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)**
 
