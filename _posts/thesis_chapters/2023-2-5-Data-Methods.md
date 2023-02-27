@@ -398,6 +398,54 @@ To address this, this section looks as some of the emerging patterns which compl
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
 
+### NOTE - MOVED FROM ANALYSIS OF TH AND SH Vingette Describing design stages for this pair beyond this interaction
+
+ <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
+ As such observations are listed in bullet point in case a lot restructuring is needed. -->
+
+ <!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addresAs sed in Methodology / Design
+  -->
+
+ <!-- As mentioned in the previous sections, after analysis of this vignette in particular, it seemed promising to investigate behaviour and engagement at different stages of design process for this pair. To do this I have made extensive notes and used a coding structure for two complete sessions of this parent-child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated participant feedback and my own journal notes. The observations are presented themed by the design stages used in the coding process with some general observations listed at the end of this section. -->
+
+ <!-- NOTE PERHAPS MOVE THE GENERAL OBSERVATIONS TO THE END OF THIS SECTION AS DISCUSSION OR SOME WHERE EVEN LATER. OR ANOTHER Chapter
+ REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
+   -->
+
+
+#### Discussion on design stages and GDP for this pair
+
+ <!-- - This grouping sometimes left early having completed more in code development than others but completed less social activities. -->
+ This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
+
+ This parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles." This alternation is driven or facilitated by the different stages of implementing GDPs. The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
+
+ Using the coded data from nvivo to compare design cycle stages with pair collaboration, it can be observed that the most likely stages for pair collaboration were during the Ask/Imagine stage, Testing and Planning.
+
+ The vignette shows evidence of that the actions of the parent to re-engage the child at different stages of the design cycle helped sustain the child's engagement in the more focused design process happening on the screen. However, an opposing pattern of behaviour may also be valid. When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation. The child's ability to legitimately disengage from pair coding to observe the work and interactions of others in this emerging community of learners may also be sustaining.
+
+ It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system.
+
+ <!-- #### Comparing the activity patterns of this family to others
+
+ NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION?
+  NOTE - This more general observation may be part of the previous chapter
+
+ We can compare this pairs pattern of activity with other pairs / families.
+
+ - The parent here is much more commonly rooted to the computer than other parents.
+ - This meant they engaged far less in play testing of other games and found it harder to gain attention for direct support.
+ - This grouping sometimes left early having completed more in code development than others but completed less social activities.
+
+ Discussion
+
+ - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
+
+ The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
+
+
+
+
 #### The limits of design cycle stages
 
 When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.

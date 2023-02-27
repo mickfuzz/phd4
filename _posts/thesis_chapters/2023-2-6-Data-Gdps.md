@@ -10,8 +10,6 @@ categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
 
-
-
 ## Notes on restructure
 
 - Intro
@@ -25,11 +23,9 @@ title: Findings Chapter 2 - It’s like a project in itself really
 - Discussion (focus on interpersonal and agency)
 
 
-NOTE - I COULD BREAK THIS DOWN MORE TO HELP RESTRUCTURING? IT ONLINE IN THEMATIC ANALYSIS AT THE MO AN ON CARDS.
-
 ## Notes on things to add
 
-- GDP language used as lingua franca to problems solve / debug.
+- GDP language used as lingua franca to problems solve / debug. (is debugging in this chapter or not?)
 
 ## Chapter introduction
 
@@ -235,14 +231,17 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 <!-- NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
 BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
+<!-- RESPONSE - It may be better even to compress this down and not use too much in the way of concpts.  
 
-<!-- RESPONSE - It may be better even to compress this down and not use too much in the way of concpts.  -->
+Perhaps just mention 3 foci at the end of this section?
+NOTE - Commentary on replacing of level of analysis (confusing to some as hierachical ), with the term foci of analysis.
+
+-->
 
 In this section a summary of the interaction observed in the above vignette is described in broad strokes using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. More detailed interpretation and analyis of these interactions follow in later sections.  
 
+
 <!-- Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction. -->
-
-
 
 **Cultural Focus**
 
@@ -255,25 +254,24 @@ Keys and Doors as desired a game design pattern appears to prompt engagement wit
 Another pattern the child advocates for is that of adding levels. This desire to add this pattern may have been picked up from the emerging culture of the group as this pattern has been added to other games and has become a topic of discourse.
 
 <!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it. -->
-
 <!-- For  Mi and Other Parent - "Have you seen Te's game it has 21 levels." -->
 <!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
 
 In the above interactions, there is cultural understanding of the conventions of a platformer game being shown by both the child and adult. Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs.
-
-
 
 <!--
 Drop tool use here - not specifically GDPs
  One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
 
 
-**Interpersonal Focus - Guided Participation**
+**Interpersonal Focus - Guided Participation**: Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
+The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this pair this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child.
 
-The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this pair this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. Feedback from the parent indicated this was partly due to reading ability. They also mention a strategy to address with this barrier to participation. "Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
+MOVE THIS LATER - FIND A PLACE - CALL BACK TO IT
+Feedback from the parent indicated this was partly due to reading ability. They also mention a strategy to address with this barrier to participation. "Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
 
+MOVE THIS LATER - FIND A PLACE - CALL BACK TO IT
 Two observations follow. Firstly, the design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time. Secondly, it is of value to explore during which design stages is the child is most active and engaged.
 
 
@@ -289,87 +287,9 @@ NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR T
 
 Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
-From video data I identified certain coding practices that were transmitted through interaction with the facilitator that this parent is quick to adopt and use. For example the use of the project documentation website. In addition, the debugging tool which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The use of these tools and processes are introduced to solve a particular problem in implementing one GDP. However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 
-<!--
-NOTE VALUE OF REPEATING PATTERNS.
-  -->
 
 The child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
-
-
-### Describing design stages for this pair beyond this interaction
-
-<!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
-As such observations are listed in bullet point in case a lot restructuring is needed. -->
-
-<!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addresAs sed in Methodology / Design
- -->
-As mentioned in the previous sections, after analysis of this vignette in particular, it seemed promising to investigate behaviour and engagement at different stages of design process for this pair. To do this I have made extensive notes and used a coding structure for two complete sessions of this parent-child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated participant feedback and my own journal notes. The observations are presented themed by the design stages used in the coding process with some general observations listed at the end of this section.
-
-<!-- NOTE PERHAPS MOVE THE GENERAL OBSERVATIONS TO THE END OF THIS SECTION AS DISCUSSION OR SOME WHERE EVEN LATER. OR ANOTHER Chapter
-REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
-  -->
-
-
-#### Discussion on design stages and GDP for this pair
-
-<!-- - This grouping sometimes left early having completed more in code development than others but completed less social activities. -->
-This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
-
-This parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles." This alternation is driven or facilitated by the different stages of implementing GDPs. The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
-
-Using the coded data from nvivo to compare design cycle stages with pair collaboration, it can be observed that the most likely stages for pair collaboration were during the Ask/Imagine stage, Testing and Planning.
-
-The vignette shows evidence of that the actions of the parent to re-engage the child at different stages of the design cycle helped sustain the child's engagement in the more focused design process happening on the screen. However, an opposing pattern of behaviour may also be valid. When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation. The child's ability to legitimately disengage from pair coding to observe the work and interactions of others in this emerging community of learners may also be sustaining.
-
-It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system.
-
-<!-- #### Comparing the activity patterns of this family to others
-
-NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION?
- NOTE - This more general observation may be part of the previous chapter
-
-We can compare this pairs pattern of activity with other pairs / families.
-
-- The parent here is much more commonly rooted to the computer than other parents.
-- This meant they engaged far less in play testing of other games and found it harder to gain attention for direct support.
-- This grouping sometimes left early having completed more in code development than others but completed less social activities.
-
-Discussion
-
-- The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
-
-The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
-
-
-## Analysis of the implementation of GDP as a key unit of analysis
-
-In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
-
- <!-- I argue that this activity and dependant actions became the primary unit of activity for participants. -->
-<!-- (see blunden for more on project as unit of Activity
-https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
-
-<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
-
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
-
-<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
-NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
-
-<!-- review this video to develop
-https://www.youtube.com/watch?v=BMi56ZBSows -->
-
-<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
-
-<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
@@ -1217,13 +1137,28 @@ A later discussion section in this chapter illustrates a more complex interactio
 - This process showed a personal appropriation of concepts like game feel / challenge
 - When done as a pair GDPs aided communication during the process.
 
-**Example Debugging**
-Find examples
 
 **Example Sh and Th improving their game**
 
 - Parent navigates to a particular part of the code for child to alter design
 - Child takes on challenge of making smaller changes once the core game mechanic code has been added.
+
+
+#### Sh and Debugging as a domain specific practice
+
+MAKE THIS MORE SPECIFIC - MOVE ANALYSIS  LATER -  CALL BACK TO IT
+From video data I identified certain coding practices that were transmitted through interaction with the facilitator that this parent is quick to adopt and use. For example the use of the project documentation website. In addition, the debugging tools which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The process of repeating the process of using the debugging tools and process builds fluidity.
+
+**Reflection on debugging:** The experience of debugging appears to be a particular practice evoking certain feelings.
+frustration and elation
+See kinds of errors ??
+
+#### Building fluidity on process.
+The use of these tools and processes are introduced to solve a particular problem in implementing one GDP.
+As per debugging.
+However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
+
+
 
 
 ## GDPs and the personal plane
