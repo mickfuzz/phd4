@@ -1450,25 +1450,7 @@ A deeper exploration of other concepts may suit another chapter looking at synth
 
 
 
-#### Use of GDP as communication short cuts
 
-**Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)**
-
-This section;
-
-- synthesises examples which highlight the value of developing share language and short cuts
-- explores possible drawbacks
-- looks at restricted
-
-Examples of short cuts include, "get an enemy in", animate player from Fi and Ma's exerpts.
-
-The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
-
-However, there are challenges of the use of such short cuts including;
-- hiding more complex patterns within the name.
-- confusion over use of terms to new comers
-
-For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
 
 #### Use of restricted set of collated GDP patterns
 
@@ -1536,6 +1518,27 @@ The heart of the matter here is how transferable knowledge is without a contextu
 Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
  -->
 
+
+ #### Use of GDP as communication short cuts
+
+ **Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)**
+
+ This section;
+
+ - synthesises examples which highlight the value of developing share language and short cuts
+ - explores possible drawbacks
+ - looks at restricted
+
+ Examples of short cuts include, "get an enemy in", animate player from Fi and Ma's exerpts.
+
+ The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
+
+ However, there are challenges of the use of such short cuts including;
+ - hiding more complex patterns within the name.
+ - confusion over use of terms to new comers
+
+ For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
+
 ### Call back to design practices
 As per last chapter but develop in relation to GDPs
 
@@ -1545,10 +1548,7 @@ As per Bruno - we are surrounded by designed objects. This process of making lif
 
 See example between helper and Pa in 2019-03-18 at the end.
 
-## Final Section - Synthesis.
 
-Summary on contribution to existing research
-Bring more synthesis here especially in translation of design elements due to this context
 
 ### Strengths and Weaknesses of the GDP construct / terminology
 
@@ -1569,21 +1569,6 @@ NEEDS MORE DEVELOPMENT
 
 <!-- However from the novice designers' perspective, there are elements of patterns involved. -->
 
-### Design patterns as a teaching aid in informal vs formal environments
-
-TO DEVELOP
-
-See journal notes and contrast with existing research with GDP and informal / formal coding programming debates.
-Asking what does this research add to these debates?
-
-Some of the following may be relevant;
-
-- Learner choice and levels of abstraction techniques
-- From the literature what are complexities involving the practitioner practicalities surrounding creating communities of coders
-- What is special about the use of GDP in this 3M model?
-- How is this model different from Game Jams in particular.
-- Whereas Game Jams focus on x, 3m has a focus on y.
-- Exploring GDP and different kinds of types of coding errors?
 
 ### Link Paragraph to next chapter
 

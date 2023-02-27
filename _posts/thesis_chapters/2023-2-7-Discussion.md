@@ -64,6 +64,21 @@ And if so are they distinct from existing frameworks explored in literature revi
 - Regular informal feedback and chances to discuss evolving designs
 
 
+### Design patterns as a teaching aid / set of affordances in informal vs formal environments
+
+TO DEVELOP OR MOVE back TO GDP CHAPTER
+
+See journal notes and contrast with existing research with GDP and informal / formal coding programming debates.
+Asking what does this research add to these debates?
+
+Some of the following may be relevant;
+
+- Learner choice and levels of abstraction techniques
+- From the literature what are complexities involving the practitioner practicalities surrounding creating communities of coders
+- What is special about the use of GDP in this 3M model?
+- How is this model different from Game Jams in particular.
+- Whereas Game Jams focus on x, 3m has a focus on y.
+- Exploring GDP and different kinds of types of coding errors?
 
 ### Game Design Patterns vs CT and more established "knowledge"
 
