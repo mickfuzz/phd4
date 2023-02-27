@@ -1536,6 +1536,9 @@ The heart of the matter here is how transferable knowledge is without a contextu
 Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
  -->
 
+### Call back to design practices
+As per last chapter but develop in relation to GDPs
+
 #### Game design to get under the hood - games as a design artefact
 
 As per Bruno - we are surrounded by designed objects. This process of making lifts the lid on that process.
