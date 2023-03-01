@@ -249,15 +249,20 @@ The parent has taken on the role of solving harder code problems following  inst
 
 <!-- For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game. -->
 
-Keys and Doors as desired a game design pattern appears to prompt engagement with the game making process. This is evident in the way with the child introduces and repeats the name of the pattern in a sing song voice in this interaction.
 
+
+<!--
+NOTE MOVE
 Another pattern the child advocates for is that of adding levels. This desire to add this pattern may have been picked up from the emerging culture of the group as this pattern has been added to other games and has become a topic of discourse.
 
-<!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it. -->
+The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it. -->
 <!-- For  Mi and Other Parent - "Have you seen Te's game it has 21 levels." -->
 <!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
 
-In the above interactions, there is cultural understanding of the conventions of a platformer game being shown by both the child and adult. Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs.
+In the above interactions, there is cultural understanding of the conventions of a platformer game being shown by both the child and adult. Keys and Doors as desired a game design pattern appears to prompt engagement with the game making process. This is evident in the way with the child introduces and repeats the name of the pattern in a sing song voice in this interaction.
+
+Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a mischievous desire to play against game conventions with a desire to confuse or disorient players.
+(my interpretation based on another extract explored later?)
 
 <!--
 Drop tool use here - not specifically GDPs
@@ -287,8 +292,6 @@ NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR T
 
 Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
-
-
 The child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
@@ -308,6 +311,10 @@ In the previous chapter the role of cultural activities to engage and sustain en
 
 
 ### GDPs and the emergence of gameplay concepts and practices through Playtesting
+
+<!--  NOTE - DROp? This section will explore the particular role of GDPs within the process of x
+ using an example about one of the core GDP of the platform game, that of jumping. -->
+
 
 #### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel - PERHAPS MOVE TO LAST SECTION / PERSONAL
 
@@ -371,6 +378,11 @@ The emergence of a community norm comes from the personal experiences of the par
 
 This indirect comments aimed to direct direction of design mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. ( NOTE EXPLORE THIS PREVIOUSLY?)
 
+#### Other examples of emerging concepts / practices
+These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
+
+For example the emergence of the concept of safe zone in the game of Ch and Pa -
+The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quicky identify and use 'safe zones'.
 
 
 ### GDPs propagation through peer activity leading from Playtesting
@@ -416,27 +428,11 @@ Article on intangibility of game feel.
 <!-- #### Use of hazards and moving enemies
 The placement of hazards as design pattern to increase challenge -->
 
-### GDPs providing means for peer feedback on game play experience
 
-- GDPs used when giving feedback in play- testing, verbal and non-verbal
-- praise
-- direct calls for improvement,
-- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
-- Example Ch and Pa - revising game based on Te's FEEDBACK
-- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
-- Discussion - How much to teach terms or let them deveop?  
-
-This section will explore the particular role of GDPs within this process using an example about one of the core GDP of the platform game, that of jumping.
 
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
 
-#### Sh and Th Playtesting
-
-This pair were less interested in playing other peoples games than people playing their own. The sharing here is one of the most active times for the child allowing interaction to explain their game to others.
-The child does also play the games of others. REVIEW DATA, ADD DETAIL.
-
- This sharing process motivates sustained activity. In addition, the parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a mischievous desire to play against game conventions with a desire to confuse or disorient players. (my interpretation based on another extract)
 
 
 
@@ -445,19 +441,20 @@ The child does also play the games of others. REVIEW DATA, ADD DETAIL.
 
 In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
 
-As we explored in previous chapters, the ability to incorporate the following elements into created games allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc].
-
+As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
 
 - design graphics
 - audio assets
 - narrative elements
+- physical computing
 
 <!-- Recap from Lit Review / Intro -->
 
 However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
 
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
 - time on asset design can detract from systemic and learning code concepts and syntax.
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+- tension of a walled garden approach vs responding to freer design choices
 - list others, draw on Roque, Kafai and Papert
 
 This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
@@ -508,16 +505,16 @@ The design processes involved choice and design of game assets that allowed the 
 
 One pair Ch and Pa the grandparents of Te, included narrative text at the start of their game which explained their choice of graphical elements.
 
-   var starttext = "This is a game which pits a honey bee
-   against a swarm of Asian hornets,
-   which are alien invaders attacking bee
-   hives in the UK and which beekeepers
-   are trying to stop spreading here.
-   Try to guide the bee to collect all the
-   flowers without being caught by the
-   hornets.
-   Use the arrow keys to move the bee.
-            Press return to START.";
+     var starttext = "This is a game which pits a honey bee
+     against a swarm of Asian hornets,
+     which are alien invaders attacking bee
+     hives in the UK and which beekeepers
+     are trying to stop spreading here.
+     Try to guide the bee to collect all the
+     flowers without being caught by the
+     hornets.
+     Use the arrow keys to move the bee.
+              Press return to START.";
 
 
 In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
@@ -576,43 +573,47 @@ In this exerpt parent Mi has spent
 
 We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
 
+
+#### Other examples
+
+**Repurposing graphical assets  in a playful way**
+
+Pair Sh and Th used a graphic of a cute dog as the background of their game.  
+
 - playing around the graphic - covering it over and revealing it
+
+The child expressed a lot of positive regard to this dog and used it a way to stimulate conversation about their home interest in dogs during play testing.
 - participant self-expression and a conversational prompt to other during sharing of the game
 
-This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
-
-Discussion on how cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+The subject was completely unrelated to the previously stated theme of the game.
+It may be the parent knew this was a way to sustain involvement and interest.
 
 These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
 
-#### Repurposing assets
+**Audio assets**
+In the second iteration of glitch game club participants were introduced to tools to create sounds and a free audio resource repository. This allowed for rapid, broad strokes personal expression in a similar way to the use of graphical elements.
+Examples? Ru and Ro ? in one of the later weeks?
 
-**Graphical Assets**
-Pair Sh and Th used a graphic of a cute dog as the background of their game.  
-2019-03-18-th_sh
-
-The child expressed a lot of positive regard to this dog and used it a way to stimulate conversation about their home interest in dogs during play testing. The subject was completely unrelated to the previously stated theme of the game.
-It may be the parent knew this was a way to sustain involvement and interest.
-
+<!-- NOTE Stub to develop?
 **Audio Assets**
 
 In the second iteration of glitch game club participants were introduced to tools to create sounds and a free audio resource repository.  
-
 This allowed for rapid, broad strokes personal expression in a similar way to the use of graphical elements.
-
-Examples? Ru and Ro ? in one of the later weeks?
+Examples? Ru and Ro ? in one of the later weeks? -->
 
 #### Discussion  
+
+Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+
+**Tangled nature of graphics and narrative in this design**
+In the data analysed, young people
+
 
 **Limitation of asset work as a GDP**
 Note the limits of this interpretation.
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
 A tension here to be briefly explored or noted to explore later.
-
-**Tangled nature of graphics and narrative in this design**
-
-In the data analysed, young people
-he
 
 
 
@@ -1345,11 +1346,6 @@ Then can be viewed together with the anchor metaphor as a catching point. Or to 
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
 -->
 
-#### Other examples of emerging concepts / practices
-These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
-
-For example the emergence of the concept of safe zone in the game of Ch and Pa -
-The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quicky identify and use 'safe zones'.
 
 #### Fluidity of practice
 
