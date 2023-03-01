@@ -307,22 +307,77 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
 
+### GDPs and the emergence of gameplay concepts and practices through Playtesting
 
-- GDPs used when giving feedback in play- testing,
-- praise &
-- direct calls for improvement,
-- Example - Jump feedback Mi, Mick, Ch, Fi - > supportive
-- Example Ch and Pa - revising game based on Te's FEEDBAC
-- In game making terms - Intangible concepts like challenge and game feel are fed back - hard to teach - but users develop language (safe zone)
-- Discussion - How much to teach terms or let them deveop?  
+#### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel - PERHAPS MOVE TO LAST SECTION / PERSONAL
+
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
+
+In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
+
+#### Use of evolving language in informal feedback to direct modification of games
+
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
+
+I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
 
 
-### GDPs propagation through peer activity
+Ch likes the look of the game and begins with that as a comment.
 
-- GDPs spread during play testing and other peer activity-
-- Example Ch suggesting games similar - parcour
+    Ch: That looks nice (referring to the graphical look of the game)
+    Mi invites Ch to play as she can't progress due to the difficult game controls.
 
-The popularity of certain GDP spread through peer activity. For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
+    Ch: It jumps super high but so slow  
+    Pause.
+    Mi: He has to go slow because he's an astronaut, you see.    
+
+    Ch: It's hard.
+    Ch then leaves
+
+    Mi: (to peer parent with proud tone.) It's hard. Wow.
+
+Fi comes to play the game
+
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
+
+EXTEND
+CONTINUES TO TALK ABOUT CROPPING IMAGE ANOTHER COMMUNITY PRACTICE
+
+
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
+
+**Organically evolving norming practices being fed back to the community**
+
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
+
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
+
+The emergence of a community norm comes from the personal experiences of the participants.
+
+This indirect comments aimed to direct direction of design mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. ( NOTE EXPLORE THIS PREVIOUSLY?)
+
+
+
+### GDPs propagation through peer activity leading from Playtesting
+
+The implementation of similar GDP by participant groups and individuals often spread through peer activity that often emerged from play testing.
+
+For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
 
   Ch: Why’s that enemy in every level
   Te: He’s not.
@@ -1290,68 +1345,6 @@ Then can be viewed together with the anchor metaphor as a catching point. Or to 
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
 -->
 
-#### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel - PERHAPS MOVE TO LAST SECTION / PERSONAL
-
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
-
-In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
-<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
-
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
-
-#### Use of evolving language in informal feedback to direct modification of games
-
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
-    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-    Mick: How are you getting on Mi? It's looking good.
-    Mick: (Noting frustrated air of Mi) Have you made it to hard.
-    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-    Mick: So it look like you bump your head and fall down.
-    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.
-    Mick: Yeah.
-    Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
-
-I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
-
-
-Ch likes the look of the game and begins with that as a comment.
-
-    Ch: That looks nice (referring to the graphical look of the game)
-    Mi invites Ch to play as she can't progress due to the difficult game controls.
-
-    Ch: It jumps super high but so slow  
-    Pause.
-    Mi: He has to go slow because he's an astronaut, you see.    
-
-    Ch: It's hard.
-    Ch then leaves
-
-    Mi: (to peer parent with proud tone.) It's hard. Wow.
-
-Fi comes to play the game
-
-    Fi: How much jump speed to you have?
-    Fi: Your jump speed is massive.
-
-EXTEND
-CONTINUES TO TALK ABOUT CROPPING IMAGE ANOTHER COMMUNITY PRACTICE
-
-
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
-
-**Organically evolving norming practices being fed back to the community**
-
-Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
-
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
-
-The emergence of a community norm comes from the personal experiences of the participants.
-
-This indirect comments aimed to direct direction of design mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. ( NOTE EXPLORE THIS PREVIOUSLY?)
-
 #### Other examples of emerging concepts / practices
 These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
 
@@ -1438,7 +1431,7 @@ Game design patterns contain elements of more abstract and thus repeatable struc
 #### Technical concepts suiting transfer
 
 NOTE likely move this to another chapter.
-Learning maps - additional discussion on learning dimensions - or conclusion / next steps. 
+Learning maps - additional discussion on learning dimensions - or conclusion / next steps.
 
 While there are technical elements of transfer that were identified and included in the learning map I sidelined the study of them.
 
