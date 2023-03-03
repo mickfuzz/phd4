@@ -36,6 +36,9 @@ The purpose of this chapter is to explore how the data gathered informs thinking
 - How can game design patterns support the development of coding practices by novices?
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
+
+In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
+
 The working definition of game design patterns (GDPs) is explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice. This chapter continues with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
 
 <!-- DROP The activity of the focal pair is then compared to activity of other groupings and individuals. -->
@@ -1097,6 +1100,9 @@ We can explore this behaviour from the child's perspective using terms from Acti
 OR THERE IS DUPLICATION WITH MIDDLE LEVEL CONSTRUCT SECTION - SO MOVE THERE?
 AND PERHAPS MOVE MIDDLE LEVEL CONSTRUCT TO NEXT CHAPTER -->
 
+
+
+
 Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
 
   "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
@@ -1351,7 +1357,7 @@ Other participants also demonstrate fluidity of response although to a less soph
 
 This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
 
-#### Intepretation / discussion of personal practices / concepts
+#### Interpretation / discussion of personal practices / concepts
 
 When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
 
