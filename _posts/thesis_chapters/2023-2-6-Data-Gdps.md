@@ -616,8 +616,22 @@ While the reinterpretation of the MDA framework into a menu of GDP is practical 
 A tension here to be briefly explored or noted to explore later.
 
 
+### Use of GDP to facilitate apprenticeship in wider cultural practices
 
-### Use of Help and Documentation related to GDP
+Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
+
+#### Practitioner and setting influences on community apprenticeship practices
+
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+
+Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+
+Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
+
+
+#### Use of Help and Documentation related to GDP
 
 MOVE THIS PROBABLY - IN TO DESIGN CHAPTER  - COULD START TO SKETCH THIS OUT SOON
 
@@ -630,7 +644,7 @@ The language used, affordances, 2nd stimulation, practices, needs clarification.
  -->
 
 
-#### Use of a non-linear menu of Gdp
+**_Use of a non-linear menu of Gdp_**
 
 Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
 
@@ -667,7 +681,7 @@ Interestingly, the online menus was not used by participants in any regular or c
 
 <!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
 
-#### A linear / step-by-step resource
+**_A linear / step-by-step resource_**
 
 While a manual was available, few participants worked their way through it chapter by chapter.
 
@@ -679,26 +693,9 @@ In my journal I named this concept _meeting yourself in the middle_ to represent
 Narratively the equivalent of a prequel.   
 
 
+#### Example of use of professional practices
 
-### Use of GDP to facilitate apprenticeship in wider cultural practices
-
-Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
-
-
-#### Practitioner and setting influences on community apprenticeship practices
-
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
-
-Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
-
-Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
-
-
-I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
-
-#### Family practices - and linking to home knowledge  
-
-The following exchange shows how the use of GDPs allow the continuation of home practices.
+The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources.
 
 In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences to promote innovation in the design of the existing template.
 
@@ -726,11 +723,10 @@ He approaches Mick with a suggestion.
     Da: and see what happens?
     Mick: and see what happens.
 
-Te is explicit in the
-ven saying "I was thinking can we make like a pacman game kind of thing".
-
-
-#### Professional practices - and linking to developer resources
+Te is implicit in the use of is process, saying "I was thinking can we make like a pacman game kind of thing".
+Da is more explicit naming the shift of perspective but also implying
+Mick takes this to a different level by making reference to a key change of code that would be involved.
+NOTE - LINK THIS TO LOA
 
 Da speech show desire to for the pair to try something new. This may be to avoid repetition in the educational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
 
