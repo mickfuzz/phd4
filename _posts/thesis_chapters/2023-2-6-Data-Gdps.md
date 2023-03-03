@@ -630,6 +630,8 @@ Availability of resources potentially novel. For example, the ability to have th
 
 I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
 
+However, my choice of a walled garden approach in terms of limited GDPs and bespoke documentation came in to conflict with the professional practices of some parents with coding experience.
+
 
 #### Use of Help and Documentation related to GDP
 
