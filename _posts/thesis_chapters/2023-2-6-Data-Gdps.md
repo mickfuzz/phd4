@@ -636,6 +636,7 @@ However, my choice of a walled garden approach in terms of limited GDPs and besp
 #### Use of Help and Documentation related to GDP
 
 MOVE THIS PROBABLY - IN TO DESIGN CHAPTER  - COULD START TO SKETCH THIS OUT SOON
+COMPRESS THIS DOWN HERE
 
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
@@ -738,7 +739,6 @@ This interaction has a parallel to a professional practice of "forking" code-bas
 The parent checking with a guiding community member about the advantages and disadvantages of a major fork in the code structure.
 Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
 
-NOTE - There seems to be a mirror here of the value of playful environments to provide challenge but within some boundaries of safety.
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
@@ -771,16 +771,23 @@ This process of active guiding but suggesting and seeking for the right answer a
 
 #### Discussion and Transition
 
+The potential tension here between walled garden and the wild west turned up by google searches is over come by the professional experiences of the parent.
+
 The choice to divert is made possible by Da's expertise.
 It also opens up the possibilities of other pairs to follow this path.
-In a way opening up a new seam of community activity and family of GDPs associated with a maze game.
+In a way opening up a new seam of community activity and family of GDPs associated with a maze
+game.
+
+
+There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
 
 These two examples stem from the wider cultural experiences and practices of the pair's home coding style and the parents experience taking part in professional community coding activities.
-The interactions are cultural but also highly interpersonal. We can see element of this exchange as representative of guided participation which we explore in the next section.
-
-<!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
 
 
+
+TRANSITION -
+While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
+In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 ## GDPs and Guided Participation
 
