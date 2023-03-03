@@ -37,9 +37,11 @@ The purpose of this chapter is to explore how the data gathered informs thinking
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
 
-In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns.
+In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns. The implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
 
 The working definition of game design patterns (GDPs) is explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice. This chapter continues with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
+
+
 
 <!-- DROP The activity of the focal pair is then compared to activity of other groupings and individuals. -->
 
@@ -1038,19 +1040,19 @@ NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
 
 
 
-### GDP driving adoption of technical process and terminology
+### GDP driving adoption of technical terminology - perhaps drop / move
 
-The emergence of terminology and technical processes happens particularly on a pair level. Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in apprenticeship above. Sometimes this is more implicity in more casual help interactions.
+PERHAPS COMPRESS AND USE AS EXAMPLE IN ANOTHER SECTION
 
-The following examples shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community iteraction.
+The emergence of terminology and technical processes happens particularly on a pair level. This section addresses terminology and a following one turns to processes.
 
-<!-- This is also dealt with above "GDPs propagation through peer activity"
-Find another example? -->
+Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in apprenticeship above. Sometimes this is more implicitly in more casual help interactions.
 
-In the the following interaction between parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
+The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
 
-NOTE - TURN THIS INTO A FULL TRANSCRIPT
+The parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
 
+MOVE EXAMPLE TO COMMUNITY DEVELOPMENT OF LANGUAGE ABOVE
     Mi - Ne!, Ne! Ne.
 
     Mi: Do you know how to get it in the game?
@@ -1102,11 +1104,6 @@ AND PERHAPS MOVE MIDDLE LEVEL CONSTRUCT TO NEXT CHAPTER -->
 
 
 
-
-Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
-
-  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
-
 As previously explored, activity systems can be viewed on different levels of abstraction.
 
 As a common example the process of "getting it in the game".
@@ -1136,13 +1133,37 @@ As a common example the process of "getting it in the game".
     Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
     Mi – Oh X. Alright Bubs. Thanks.
 
-Taking a more focused view of the activity here would be implementing a game design pattern - e.g. adding keys and doors pattern in this case. On the level of action, creating a graphical asset of a key and adding this to the level design. The operation would be the exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool.
+<!-- Taking a more focused view of the activity here would be implementing a game design pattern - e.g. adding keys and doors pattern in this case. On the level of action, creating a graphical asset of a key and adding this to the level design. The operation would be the exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool. -->
 
-In this example, while the final an operation for some participants it would be a more conscious process, for others it has become second nature. To illustrate this take this interaction between parent Mi and child Ne.
+
 
 In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
 
-This interaction underlies the validity of exploring the implementation of GDPs as a unit of activity as it allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
+While the final an operation for some participants it would be a more conscious process, for others it has become second nature.
+Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on.
+Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
+
+This is seen in a similar example.
+
+    Mi - Ne!, Ne! Ne.
+
+    Mi: Do you know how to get it in the game?
+    Ne: Oh my god!
+    Mi: Well . First of all save it to the gallery. How do you save it?
+    Ah there you are. Save it.
+    Is it saved?
+    Right now export it.
+    Ne: Do you even know what export means?  
+    Mi: I know what export means!
+    Ne- Ok then smartie pants.
+
+the ineraction also shows positive affect of child.
+her role in the community can be explored here.
+
+
+EXPAND THIS SECTION - HOW IS IS INTERESTING?
+
+In a
 
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
