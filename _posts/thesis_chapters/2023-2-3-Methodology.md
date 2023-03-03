@@ -136,8 +136,9 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 
 
 
+#### LOA in Computing pedagogy
 
-
+Call back to PRIMM and Waite Sentence's work here 
 
 ## Sociocultural Methods of Analysis
 
