@@ -17,7 +17,8 @@ title: Results Methods
 - Scenarios
 - Player and Maker Types
   - example of flexible design approaches valued / highlighted by types
-- Finally - Creating a walled garden for GDP - an overview from a cultural, community perspective?
+- Creating a walled garden for GDP - an overview from a cultural, community perspective?
+- Working with Assets - personal expression - SHIFTED WHOLESALE HERE
 
 - Discussion / synthesis
   - Agency through lens of double stimulation, explore in relation other research.  
@@ -375,12 +376,197 @@ Make links and try to develop knowledge inline with...
 
 See summary at start of the chapter.
 
+
+
+
+### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
+
+In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
+
+As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
+
+- design graphics
+- audio assets
+- narrative elements
+- physical computing
+
+<!-- Recap from Lit Review / Intro -->
+
+However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
+
+- time on asset design can detract from systemic and learning code concepts and syntax.
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+- tension of a walled garden approach vs responding to freer design choices
+- list others, draw on Roque, Kafai and Papert
+
+This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+
+- propagation of assets..
+- pride sharing back?
+- value of feedback, asset creation as a speciality
+
+This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets.
+
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
+(may need to move?)
+Just create a summary here.
+
+Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
+-->
+
+<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
+ -->
+
+<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?
+
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+
+The core GDP involving game assets already exist in the starting template.
+- Objects as a reward to incentivise player exploration
+- Objects as a hazard penalising player progress
+
+The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
+
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
+So while structured to avoid
+
+ -->
+
+#### Narratives and aesthetics of Games driven by Home Interests
+
+- Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
+<!--
+also in [erikssonUsingGameplayDesign2019;] -->
+
+As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
+Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
+
+The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+One pair Ch and Pa the grandparents of Te, included narrative text at the start of their game which explained their choice of graphical elements.
+
+     var starttext = "This is a game which pits a honey bee
+     against a swarm of Asian hornets,
+     which are alien invaders attacking bee
+     hives in the UK and which beekeepers
+     are trying to stop spreading here.
+     Try to guide the bee to collect all the
+     flowers without being caught by the
+     hornets.
+     Use the arrow keys to move the bee.
+              Press return to START.";
+
+
+In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+
+   zi: Have you done amazing things?
+
+The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
+
+The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game.
+
+Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
+
+In an interview exchange this pair
+NOTE ADD IN EXCHANGE FROM INTERVIEW ABOUT INCOPORATING INTERESTS Fi and Ma
+
+<!-- NOTE
+NARRATIVE / drama IN PREVIOUS CHAPTER?
+how do these two sections work together? remove this one?
+ -->
+While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
+
+
+
+#### Visual asset creation and selection   
+
+- Mi's interactions around graphics creation - write up transcript
+- Mi's exploration in others.
+
+There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
+
+NOTE THE NEXT SECTION IS QUITE GENERAL MOVE TO START OF THIS SECTION OR LIT REVIEW?
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;]
+
+In this exerpt parent Mi has spent
+
+    St:  That's Good!
+    Mi: Oh do you like it?
+    St: Yeah
+    Mi: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
+    St: Yeah
+    Mi: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
+    - Both laugh.
+    St: So are you going to do bits at home? When the kids are..
+    Mi: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours ....
+    Laughs
+
+    Mi - Lost time. Never mind.  We live and we learn.   
+
+    Mi – We’re finished.
+
+    Mi  - Right what’s next? Now I’m an expert pixel?
+    Mi – Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
+    St – Have you saved it?
+    Mi – No I’ve not saved it.
+    St – Save there. (points to relevant button on screen)
+
+We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
+
+
+#### Other examples
+
+**Repurposing graphical assets  in a playful way**
+
+Pair Sh and Th used a graphic of a cute dog as the background of their game.  
+
+- playing around the graphic - covering it over and revealing it
+
+The child expressed a lot of positive regard to this dog and used it a way to stimulate conversation about their home interest in dogs during play testing.
+- participant self-expression and a conversational prompt to other during sharing of the game
+
+The subject was completely unrelated to the previously stated theme of the game.
+It may be the parent knew this was a way to sustain involvement and interest.
+
+These interactions re sometimes playful, and sometimes chance to share something serious. It allows young person to talk about dogs and their love of dogs. Even at one point that they used to have two and one died.
+
+**Audio assets**
+In the second iteration of glitch game club participants were introduced to tools to create sounds and a free audio resource repository. This allowed for rapid, broad strokes personal expression in a similar way to the use of graphical elements.
+Examples? Ru and Ro ? in one of the later weeks?
+
+<!-- NOTE Stub to develop?
+**Audio Assets**
+
+In the second iteration of glitch game club participants were introduced to tools to create sounds and a free audio resource repository.  
+This allowed for rapid, broad strokes personal expression in a similar way to the use of graphical elements.
+Examples? Ru and Ro ? in one of the later weeks? -->
+
+#### Discussion  
+
+Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+
+**Tangled nature of graphics and narrative in this design**
+In the data analysed, young people
+
+
+**Limitation of asset work as a GDP**
+Note the limits of this interpretation.
+While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
+A tension here to be briefly explored or noted to explore later.
+
+
+
 ## Design stages or flexible design practices
 
 Surfacing maker types (as per player types) can encourage epistemological pluralism [Papert] or flexible design practices.
 
 
-### GDPs support Flexible Design Practices - Discussion? MOVE?
+
+
+### Design (not GDP) supports Flexible Design Practices - Discussion? MOVE?
 
 HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
