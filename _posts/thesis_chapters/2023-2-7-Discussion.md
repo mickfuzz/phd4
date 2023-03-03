@@ -95,6 +95,21 @@ My end design highlights game patterns as a starting point for user interest and
 - Discussion - The use of GDPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
 - Discussion -  Rising to the concrete - as a key AT concept - how does this fit?
 
+#### Strengths and Weaknesses of the GDP construct / terminology
+
+PERHAPS MOVE TO DESIGN?
+The interpretation of GDP that this thesis adopts contains some weaknesses. The specificity of the term is weak in that in seeking to categorise a wide diversity of features that participants would want to add to the game to fulfil a pedagogical motivation of providing guidance and inspiration to the novice designers. The pragmatic nature of this interpretation can be contrasted to more formal definitions of say Game Mechanics related to user actions in the game [@sicart_defining_2008].
+
+<!-- NOTE -  THIS CAN BE EXPANDED
+more n Game Mechanics etc
+-->
+The term is particularly week in the area of Game Polish which involved were more aesthetic and narrative choices.
+
+[]
+
+These choices do not fall neatly in to the argument being constructed around the potential of GDPs to unlock repeatable, transferable practices. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of time working on these patterns especially if assets are being replaced.
+
+It is perhaps the term _pattern_ that is problematic here. It may imply a repeatable structural element rather than an aesthetic choices. Other academics have given a wider name of game elements [@tekinbas_gaming_2014] or lenses [@schell_art_2008].
 
 #### On CTs and CTs emerging in the wild.
 

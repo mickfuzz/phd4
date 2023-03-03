@@ -10,17 +10,128 @@ categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
 
-## Notes on restructure
+-   [Chapter introduction](#chapter-introduction)
+-   [Introduction to This Writing](#introduction-to-this-writing)
+    -   [Recap on Game Design
+        Patterns -](#recap-on-game-design-patterns--)
+-   [Study of Vignette A](#study-of-vignette-a)
+    -   [Descriptive Commentary on Vignette
+        A](#descriptive-commentary-on-vignette-a)
+-   [Cultural, Interpersonal & Personal Planes Analysis of use of
+    GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
+-   [Use of GDPs explored from a cultural
+    focus](#use-of-gdps-explored-from-a-cultural-focus)
+    -   [GDPs and the emergence of gameplay concepts and practices
+        through
+        Playtesting](#gdps-and-the-emergence-of-gameplay-concepts-and-practices-through-playtesting)
+        -   [Use of evolving language and practices in informal feedback
+            to direct modification of
+            games](#use-of-evolving-language-and-practices-in-informal-feedback-to-direct-modification-of-games)
+        -   [Developing a language for the intangible - Evolving
+            concepts of Game Challenge and Game Feel - PERHAPS MOVE TO
+            LAST SECTION /
+            PERSONAL](#developing-a-language-for-the-intangible---evolving-concepts-of-game-challenge-and-game-feel---perhaps-move-to-last-section-personal)
+        -   [Other examples of emerging concepts /
+            practices](#other-examples-of-emerging-concepts-practices)
+    -   [GDPs propagation through peer activity leading from
+        Playtesting](#gdps-propagation-through-peer-activity-leading-from-playtesting)
+    -   [GDPs and the sharing of personal experiences, identity and
+        preferences
+        (cultural) -](#gdps-and-the-sharing-of-personal-experiences-identity-and-preferences-cultural--)
+        -   [Narratives and aesthetics of Games driven by Home
+            Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
+        -   [Visual asset creation and
+            selection](#visual-asset-creation-and-selection)
+        -   [Other examples](#other-examples)
+        -   [Discussion](#discussion)
+    -   [Use of GDP to facilitate apprenticeship in wider cultural
+        practices](#use-of-gdp-to-facilitate-apprenticeship-in-wider-cultural-practices)
+        -   [Practitioner and setting influences on community
+            apprenticeship
+            practices](#practitioner-and-setting-influences-on-community-apprenticeship-practices)
+        -   [Use of Help and Documentation related to
+            GDP](#use-of-help-and-documentation-related-to-gdp)
+        -   [Example of use of professional
+            practices](#example-of-use-of-professional-practices)
+        -   [Discussion and Transition](#discussion-and-transition)
+-   [GDPs and Guided Participation](#gdps-and-guided-participation)
+    -   [GDPs for prioritisation and informal task
+        division](#gdps-for-prioritisation-and-informal-task-division)
+    -   [GDPs to help Direct task delegation and sustaining
+        participation](#gdps-to-help-direct-task-delegation-and-sustaining-participation)
+    -   [Sustaining Engagement: Parental prompts aligned with ideation
+        stages](#sustaining-engagement-parental-prompts-aligned-with-ideation-stages)
+    -   [Other examples of GDPs helping ideation and sustaining
+        activities](#other-examples-of-gdps-helping-ideation-and-sustaining-activities)
+    -   [GDP aiding home learning practices - an example paper
+        prototyping](#gdp-aiding-home-learning-practices---an-example-paper-prototyping)
+    -   [GDPs facilitating designing for
+        others](#gdps-facilitating-designing-for-others)
+        -   [Vignette A](#vignette-a)
+        -   [More examples of designing for others / shifts of
+            perspective](#more-examples-of-designing-for-others-shifts-of-perspective)
+        -   [Interpretation of data on designing for
+            others](#interpretation-of-data-on-designing-for-others)
+    -   [GDP driving adoption of technical terminology - perhaps drop /
+        move](#gdp-driving-adoption-of-technical-terminology---perhaps-drop-move)
+        -   [Interpretation of data on evolving technical
+            processes](#interpretation-of-data-on-evolving-technical-processes)
+    -   [Other shifts in design
+        practice](#other-shifts-in-design-practice)
+    -   [GDPs scaffolding the product revision process and
+        debugging](#gdps-scaffolding-the-product-revision-process-and-debugging)
+        -   [Sh and Debugging as a domain specific
+            practice](#sh-and-debugging-as-a-domain-specific-practice)
+        -   [Building fluidity on
+            process.](#building-fluidity-on-process.)
+-   [GDPs and the personal plane](#gdps-and-the-personal-plane)
+    -   [GDP as a way to surface Computational Thinking and Systems
+        Concepts](#gdp-as-a-way-to-surface-computational-thinking-and-systems-concepts)
+        -   [CTs emerging in the wild.](#cts-emerging-in-the-wild.)
+        -   [Decomposition.](#decomposition.)
+        -   [Abstraction](#abstraction)
+        -   [Generalisation / Pattern
+            recognition](#generalisation-pattern-recognition)
+        -   [Sequencing / Algorithms.](#sequencing-algorithms.)
+    -   [Commentary of CT in the 3M model in
+        particular](#commentary-of-ct-in-the-3m-model-in-particular)
+    -   [Use of GDP when demonstrating understandings in community
+        activity](#use-of-gdp-when-demonstrating-understandings-in-community-activity)
+        -   [Evolution of practices?](#evolution-of-practices)
+        -   [Evolution of language and use of terms? (compared to
+            processes)](#evolution-of-language-and-use-of-terms-compared-to-processes)
+        -   [Fluidity of practice](#fluidity-of-practice)
+        -   [Interpretation / discussion of personal practices /
+            concepts](#interpretation-discussion-of-personal-practices-concepts)
+-   [Additional Chapter Discussion](#additional-chapter-discussion)
+    -   [Agency, Autonomy and Walled
+        Gardens](#agency-autonomy-and-walled-gardens)
+    -   [Use of restricted set of collated GDP
+        patterns](#use-of-restricted-set-of-collated-gdp-patterns)
+    -   [Breaking out - on the organic evolution of the
+        design](#breaking-out---on-the-organic-evolution-of-the-design)
+    -   [Design patterns as a "middle level" construct to open door to
+        more concrete and abstract (Wider
+        focus)](#design-patterns-as-a-middle-level-construct-to-open-door-to-more-concrete-and-abstract-wider-focus)
+        -   [GDP as concrete enough to be understandable but abstract
+            enough to be
+            replicable](#gdp-as-concrete-enough-to-be-understandable-but-abstract-enough-to-be-replicable)
+        -   [Technical concepts suiting
+            transfer](#technical-concepts-suiting-transfer)
+        -   [Use of GDP as communication short
+            cuts](#use-of-gdp-as-communication-short-cuts)
+    -   [Call back to design practices](#call-back-to-design-practices)
+        -   [Game design to get under the hood - games as a design
+            artefact](#game-design-to-get-under-the-hood---games-as-a-design-artefact)
+    -   [Strengths and Weaknesses of the GDP construct /
+        terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
+    -   [Link Paragraph to next
+        chapter](#link-paragraph-to-next-chapter)
+-   [Transcript Excerpts](#transcript-excerpts)
+    -   [2019-05-08-te-da pt 1](#te-da-pt-1)
 
-- Intro
-  - Vignette text
-  - Vignette description / interpretation -> 3 planes or more general
-  - AT - GDP as unit of analysis - lens of agency?
-- Results and Data on how GDPs are used
-  - Cultural
-  - Guided participation
-  - Personal / participatory appropriation (include - operationalising as appropriation)
-- Discussion (focus on interpersonal and agency)
+
+
 
 
 ## Notes on things to add
@@ -320,6 +431,40 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!--  NOTE - DROp? This section will explore the particular role of GDPs within the process of x
  using an example about one of the core GDP of the platform game, that of jumping. -->
 
+#### Use of evolving language and practices in informal feedback to direct modification of games
+
+
+**_Terminology_**
+The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
+
+The parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
+
+MOVE EXAMPLE TO COMMUNITY DEVELOPMENT OF LANGUAGE ABOVE
+
+    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
+    Ne – Gold coins.
+    Mi - Right so, What are you doing? Do you know what you are doing?
+    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
+    Mi: Poop Ping? (alarmed) What are you doing? What's poop ping.
+    Where's my spaceman?
+    Ne: Wait! What do you want the aliens as?
+    Mi: The hazards.
+    Mi: Yaaay!
+    Mi: And now the rocket thing as the like you know the good thing - the reward.
+    Ne: Who wants a rocket for their reward?
+    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
+    Ne: It's a very violent game.
+    Mi: What  ?
+    Ne: It's a very violent game.  
+
+
+The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
+
+In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
+Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
+
+Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
+
 
 #### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel - PERHAPS MOVE TO LAST SECTION / PERSONAL
 
@@ -330,7 +475,7 @@ In this design the jump mechanic is determined by the use of variables controlli
 
 The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
 
-#### Use of evolving language in informal feedback to direct modification of games
+
 
 Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
@@ -915,7 +1060,8 @@ NOTE Play up tension between get game done, and child involvement
  |S: Person?| |
  |T: Key Door Person.|(off screen) T indicates that her mother is the person she is referring to|
 
- Gesture analysis (explained in a the methodology chapter) is valuable to shed light on this exchange. It is the indication that the mother is the person who will be responsible for implementing the GDP that the child is tangentially prompting to be implemented.
+ Gesture analysis  shows that the child proposes that the mother is the person who will be responsible for implementing the GDP.
+
 
 
  **Notes to integrate here**
@@ -1013,7 +1159,6 @@ Th - comments on wanting students to be frustrated when playing it, it's fun - t
 
 #### More examples of designing for others / shifts of perspective
 
-Mi? lack of appropriate challenge?
 
 Move challenge here?
 
@@ -1044,49 +1189,10 @@ NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
 
 PERHAPS COMPRESS AND USE AS EXAMPLE IN ANOTHER SECTION
 
-The emergence of terminology and technical processes happens particularly on a pair level. This section addresses terminology and a following one turns to processes.
+The emergence of technical processes happens particularly on a pair level.
 
 Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in apprenticeship above. Sometimes this is more implicitly in more casual help interactions.
 
-The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
-
-The parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
-
-MOVE EXAMPLE TO COMMUNITY DEVELOPMENT OF LANGUAGE ABOVE
-    Mi - Ne!, Ne! Ne.
-
-    Mi: Do you know how to get it in the game?
-    Ne: Oh my god!
-    Mi: Well . First of all save it to the gallery. How do you save it?
-    Ah there you are. Save it.
-    Is it saved?
-    Right now export it.
-    Ne: Do you even know what export means?  
-    Mi: I know what export means!
-    Ne- Ok then smartie pants.
-    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
-    Ne – Gold coins.
-    Mi - Right so, What are you doing? Do you know what you are doing?
-    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
-    Mi: Poop Ping? (alarmed) What are you doing? What's poop ping.
-    Where's my spaceman?
-    Ne: Wait! What do you want the aliens as?
-    Mi: The hazards.
-    Mi: Yaaay!
-    Mi: And now the rocket thing as the like you know the good thing - the reward.
-    Ne: Who wants a rocket for their reward?
-    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
-    Ne: It's a very violent game.
-    Mi: What  ?
-    Ne: It's a very violent game.  
-
-
-The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
-
-In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
-Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
-
-Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
 
 #### Interpretation of data on evolving technical processes
@@ -1399,20 +1505,50 @@ A deeper exploration of other concepts may suit another chapter looking at synth
 
 
 
-#### Use of restricted set of collated GDP patterns
+####  Agency, Autonomy and Walled Gardens
+
+
 
 This section;
 
+
+
+
+
+
+
+
+#### Use of restricted set of collated GDP patterns
+
 - outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
-- compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable - but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
+- compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable
+- but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
+- The reduced list of GDPs in a framework in Eriksson's intervention [-@eriksson_using_2019], to suit a younger audience / restricted time frame
 
 <!-- Or is the process of working on a sprawling problem which seems unmanagable,
 but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
-Example materials / examples include;
+
+#### Breaking out - on the organic evolution of the design
+
+**Evolving Peer practices**
+
+- One to one instruction to explain concepts and allow freedom of choice is ideal but unrealistic in classrooms.
+
+Even with a restricted set of patterns not all participants were able to patch in from the documentsation.
+
+Thus the community started to teach each other, and this evolved in some unexpected directions.
+
+The community of learners began to pitch in in their own ways and develop their own practices.
+Agency was
+
+
+**Breaking out**
 
 - Te and Da's decision to explore a different starting point and add uncharded GDPs like following enemies.
-- The reduced list of GDPs in a framework in Eriksson's intervention [-@eriksson_using_2019], to suit a younger audience / restricted time frame
-- One to one instruction to explain concepts and allow freedom of choice is ideal but unrealistic in classrooms.
+
+A potential tension which was resolved quickly in some ways.
+But at the cost of maintaining a working game.
+
 
 
 ### Design patterns as a "middle level" construct to open door to more concrete and abstract (Wider focus)
@@ -1422,6 +1558,7 @@ Example materials / examples include;
 In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a prescriptive approach to Computational Thinking. We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
 THE FOLLOWING NEEDS RESTRUCTURING AND DISCUSSION
+MOVE SOME IN THE BODY OR DROP OTHERS - CREATE A HOLDING SECTION
 
 In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
@@ -1496,29 +1633,13 @@ As per Bruno - we are surrounded by designed objects. This process of making lif
 
 See example between helper and Pa in 2019-03-18 at the end.
 
-
-
-### Strengths and Weaknesses of the GDP construct / terminology
-
-The interpretation of GDP that this thesis adopts contains some weaknesses. The specificity of the term is weak in that in seeking to categorise a wide diversity of features that participants would want to add to the game to fulfil a pedagogical motivation of providing guidance and inspiration to the novice designers. The pragmatic nature of this interpretation can be contrasted to more formal definitions of say Game Mechanics related to user actions in the game [@sicart_defining_2008].
-
-<!-- NOTE -  THIS CAN BE EXPANDED
-more n Game Mechanics etc
--->
-The term is particularly week in the area of Game Polish which involved were more aesthetic and narrative choices.
-
-[]
-
-These choices do not fall neatly in to the argument being constructed around the potential of GDPs to unlock repeatable, transferable practices. For example, some participants, specifically one who came as a friend of of others and didn't have direct parental help, spent a majority of time working on these patterns especially if assets are being replaced.
-
-It is perhaps the term _pattern_ that is problematic here. It may imply a repeatable structural element rather than an aesthetic choices. Other academics have given a wider name of game elements [@tekinbas_gaming_2014] or lenses [@schell_art_2008].
-
 NEEDS MORE DEVELOPMENT
 
 <!-- However from the novice designers' perspective, there are elements of patterns involved. -->
 
 
-### Link Paragraph to next chapter
+
+<!-- ### Link Paragraph to next chapter
 
 A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
 
@@ -1527,42 +1648,8 @@ Examples include;
 - supporting reflection on design and coding concepts / skills.
 - navigation / organisational support - use of a physical map.
 
-For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on.
+For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
 
-
-## Transcript Excerpts
-
-
-### 2019-05-08-te-da pt 1
-
-    Da: Have you thought about pushing it a bit further and have a different style of game?
-    Te: What do you mean?
-    Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
-    Te: Pause. I don’t know what to do thought.
-    Da: Well quite but what other games are there?
-    Te: I don’t know er.
-    Da: Well I tell you what .. muffled.
-    Te: Erm - (navigates to list of GDP for platform game)
-    De: So. You played them before didn’t you (indicating grid of games )
-    Te: What do you mean?
-    Da: The flying game that’s a different kind of game
-    Te: Oh like kind of like moving along kind of thing
-    Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
-    Te: nod
-    Da: There are games where things drop down like Tetris
-    Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
-    Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
-    Te: Hmm. How should I do this then?
-    Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
-    Te: Mick
-    Mick: Hi ya.
-    Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
-    Da: If we had an on the top game rather than a platform game
-    Mick: I think it could work. You could kind of adapt that game by kind of removing gravity.
-    Da: and see what happens?
-    Mick: and see what happens.
-    Da: It’s not a bad starting idea is it?
-    Te: I suppose make a new one (begins the process of remixing game from the template)
 
 <!--
 ## Disregarded or Next Steps Data
