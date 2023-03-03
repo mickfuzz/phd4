@@ -898,7 +898,7 @@ Mi - Oh thank you very much. I'm very proud.
  -->
 
 
-#### Direct task delegation and sustaining participation
+#### GDPs to help Direct task delegation and sustaining participation
 
 NOTE Play up tension between get game done, and child involvement
  <!-- While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations. -->
@@ -925,20 +925,27 @@ NOTE Play up tension between get game done, and child involvement
 
  Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
 
+#### Sustaining Engagement: Parental prompts aligned with ideation stages
 
-### GDPs motivation and sustaining engagement
-
-- these kinds of  exists in community in Playtesting - but different for side by side interactions - or are they - discuss
-- what is specific about interpersonal interactions
-- Example sh and Th - new element K and d - then adding a level
-- Other examples needed?
 
 The process of adding in a new GDP to the game was often a sustaining activity.
 
 The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
 
 
-#### Ideation and Goal Setting
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities.
+
+ The parent uses this transition as a prompt to stimulate new activity in the child.
+
+ The parent navigates this process skilfully and is able to incorporate the child's interests.
+
+ The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
+  indicating that she is aware of the greater possibility for effective child input at this stage.
+
+ In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices
+
+
+#### Other examples of GDPs helping ideation and sustaining activities
 
 The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
 
@@ -946,22 +953,7 @@ This was welcome show by Ma's comment.
 "It did go on for too long."
 
 
-### Sustaining Engagement: Parental prompts aligned with ideation stages
-
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities.
-
-The parent uses this transition as a prompt to stimulate new activity in the child.
-
-The parent navigates this process skilfully and is able to incorporate the child's interests.
-
-#### Example - Sh and Th (from Vignette)
-
-The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
- indicating that she is aware of the greater possibility for effective child input at this stage.
-
-In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices
-
-### Design and ideation: Prototyping a new GDP on paper  
+### GDP aiding home learning practices - an example paper prototyping
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect.
 
@@ -1014,9 +1006,33 @@ This interaction shows the parent guiding the child to imagine the user experien
 
 Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
 
-#### Mi? lack of appropriate challenge?
+#### More examples of designing for others / shifts of perspective
+
+Mi? lack of appropriate challenge?
 
 Move challenge here?
+
+
+#### Interpretation of data on designing for others
+
+We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour.
+
+Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+
+FIND RESEARCH TO SUPPORT
+
+I also propose that the use of GDP as a unit of activity may help  the overall process of design for others by providing the FOLLOWING
+
+- discreet and clear goals which are nested in the wider goal of making an engaging game
+- clear terms to use as a lingua-franca during self testing and playtesting.
+
+
+<!-- NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
+Designing for others - as a key perspective in constructionism.
+Note: What added insights or tips for practitioners can I bring here?
+NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
+
+
 
 
 ### GDP driving adoption of technical process and terminology
@@ -1031,8 +1047,6 @@ Find another example? -->
 In the the following interaction between parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
 
 NOTE - TURN THIS INTO A FULL TRANSCRIPT
-
-
 
     Mi - Ne!, Ne! Ne.
 
@@ -1070,7 +1084,7 @@ Here the daughter recognises the GDP of reward after used by her mother but ques
 Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
 
-#### Interpretation of data on evolving processes
+#### Interpretation of data on evolving technical processes
 
 The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
 
@@ -1127,29 +1141,9 @@ This interaction underlies the validity of exploring the implementation of GDPs 
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
+### Other shifts in design practice
 
-#### Interpretation of data on designing for others
-
-We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour.
-
-Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
-
-FIND RESEARCH TO SUPPORT
-
-I also propose that the use of GDP as a unit of activity may help  the overall process of design for others by providing the FOLLOWING
-
-- discreet and clear goals which are nested in the wider goal of making an engaging game
-- clear terms to use as a lingua-franca during self testing and playtesting.
-
-
-<!-- NOTE - ANY EVIDENCE FOR THIS BASED ON INTENTIONAL DESIGN OR IS THIS JUST AN OBSERVATION OF ORGANIC BEHAVIOUR?
-Designing for others - as a key perspective in constructionism.
-Note: What added insights or tips for practitioners can I bring here?
-NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
-
-
-
-### Shifts in design practice
+To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction, this section explores what other shifts in design practices occur?
 
 **Alternating coding**
 
@@ -1218,9 +1212,6 @@ See kinds of errors ??
 The use of these tools and processes are introduced to solve a particular problem in implementing one GDP.
 As per debugging.
 However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
-
-
-
 
 ## GDPs and the personal plane
 
