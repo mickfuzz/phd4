@@ -1070,25 +1070,6 @@ In a
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
-### Other shifts in design practice MOVE TO METHODS?
-
-To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction, this section explores what other shifts in design practices occur?
-
-**Alternating coding**
-
-The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
-
-This follows a pattern of X   
-NOTE i FEEL THIS IS ALREADY COVERED?
-
-cf - similar behaviour?
-
-**Shifting between Facilitator and more active partner**
-
-At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
-
-Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
-Perhaps in the field of participatory design.
 
 
 ### GDPs scaffolding the product revision process and debugging
