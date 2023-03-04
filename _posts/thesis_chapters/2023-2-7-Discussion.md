@@ -412,3 +412,12 @@ The concept of Jam is explored in rapid, improvisational events called Game Jams
 
 Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
 player types
+
+
+#### Example: Fluidity of design practice
+
+Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
+
+Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
+
+This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  

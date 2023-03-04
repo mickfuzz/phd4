@@ -1229,13 +1229,7 @@ The pattern we see here is less relatable to every day game constructs in the wa
 -->
 
 
-#### Fluidity of practice
 
-Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
-
-Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
-
-This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
 
 #### Interpretation / discussion of personal practices / concepts
 
@@ -1253,8 +1247,6 @@ I NEED TO PRIORITISE.
 
 The following observations are primarily focused on implications for practitioners.
 A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research. In this draft the focus is included in each sub-title.
-
-
 
 
 
@@ -1418,4 +1410,3 @@ rejected notes
 ## Future Work / Omissions
 
 - Further testing of the Maps   -->
-r
