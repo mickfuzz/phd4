@@ -605,7 +605,7 @@ I set up the working pattern based on my professional experiences and my own aca
 However, my choice of a walled garden approach in terms of limited GDPs and bespoke documentation came in to conflict with the professional practices of some parents with coding experience.
 
 
-#### Use of Help and Documentation related to GDP
+#### Use of Help and Documentation related to GDP - MOVE SOME NON GPD 
 
 MOVE THIS PROBABLY - IN TO DESIGN CHAPTER  - COULD START TO SKETCH THIS OUT SOON
 COMPRESS THIS DOWN HERE
@@ -926,7 +926,7 @@ This was welcome show by Ma's comment.
 "It did go on for too long."
 
 
-### GDP aiding home learning practices - an example paper prototyping
+### GDP aiding ideation / home learning practices - an example paper prototyping
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect.
 
@@ -958,6 +958,33 @@ There is also a link made by the parent to previous working practices. Using a p
 
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved.
 
+
+
+#### Granular and grokkable nature of GDPs
+Another example of ideation helped by GDPs is the following featuring Te and Da  - 10-15 mins transcribe in more detail.
+
+    They thinking of a feature – wrap around like Pac-man
+    Da – Yeah we can do that. Save that for version 1.1
+
+    Da – what’s the theme
+    Da – sketch it on paper?
+    Te – I’m just going with it.
+
+Changes in GDP are apparent in the emerging game,   
+
+In the example above where Te and Da are creating a new tilemap for a maze game, Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.  
+
+- Well suited to build a repeated design practice.
+- Especially with starting documents,
+- Small changes had big effects.
+- Variable changes needed immediate testing.  
+
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+
+A later discussion section in this chapter illustrates a more complex interaction with design stages.
+
+
+
 ### GDPs facilitating designing for others
 
 As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
@@ -981,9 +1008,10 @@ Th - comments on wanting students to be frustrated when playing it, it's fun - t
 
 #### More examples of designing for others / shifts of perspective
 
+Move challenge here? NO...
+Find other examples...
 
-Move challenge here?
-
+There are different levels of designing for others. One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward.
 
 #### Interpretation of data on designing for others
 
@@ -1003,9 +1031,6 @@ I also propose that the use of GDP as a unit of activity may help  the overall p
 Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
 NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
-
-
-
 
 ### GDP driving adoption of technical terminology - perhaps drop / move
 
@@ -1096,7 +1121,7 @@ In a
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
-### Other shifts in design practice
+### Other shifts in design practice MOVE TO METHODS?
 
 To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction, this section explores what other shifts in design practices occur?
 
@@ -1115,30 +1140,6 @@ At one point the testing process here is quite frustrating as gravity value is v
 
 Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
 Perhaps in the field of participatory design.
-
-<!-- Highlight how the granular and relatable nature of GDP -->
-
-Example of Te and Da  - 10-15 mins transcribe in more detail.
-
-    They thinking of a feature – wrap around like Pac-man
-    Da – Yeah we can do that. Save that for version 1.1
-
-    Da – what’s the theme
-    Da – sketch it on paper?
-    Te – I’m just going with it.
-
-Changes in GDP are apparent in the emerging game,   
-
-In the example above where Te and Da are creating a new tilemap for a maze game, Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.  
-
-- Well suited to build a repeated design practice.
-- Especially with starting documents,
-- Small changes had big effects.
-- Variable changes needed immediate testing.  
-
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
-
-A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
 ### GDPs scaffolding the product revision process and debugging

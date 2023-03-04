@@ -201,6 +201,15 @@ More detailed analysis - thoughts on validity of data -->
 
 ## Summary of the Learning design & Emergence of GDP as core unit of activity
 
+
+NOTE
+is this currently in methods?
+move some here
+
+
+
+
+
 ## Incorporating findings into a pedagogical model for participants
 
 Note: I'm not yet sure how much of the 3M model will be described in the "Results-Design" chapter. A short recap here seems appropriate.
@@ -246,6 +255,10 @@ Your mission is to apply the following pattern to your game. There are supportin
 PRINTED CARD TEXT ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
+
+
+
+
 
 ## Evolution of the Learning Design in response to emerging tensions
 
@@ -304,6 +317,71 @@ Drama and fictional scenarios can help explore issues and reduce learner anxiety
 Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal
 
 
+
+
+## Evolving design of Support Materials and Documentation 
+
+### Use of Help and Documentation related to GDP - MOVE SOME NON GPD
+
+MOVE THIS PROBABLY - IN TO DESIGN CHAPTER  - COULD START TO SKETCH THIS OUT SOON
+COMPRESS THIS DOWN HERE
+
+<!-- NOTE - Keep only the parts specifically on GDP -->
+
+The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+
+<!-- NOTE -
+The language used, affordances, 2nd stimulation, practices, needs clarification.
+ -->
+
+
+**_Use of a non-linear menu of Gdp_**
+
+Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
+
+- increase learner engagement through accessible design
+- make documentation relatable to existing gameplay experience
+- develop use of common GPD terminology
+
+There were two main ways of approaching adding a new pattern. One to examing a code example which was built around the same code base.
+This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
+
+**Use of simple code examples which demonstrate the pattern in isolation**
+
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
+
+However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+
+DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
+
+These code example are a staple of professional sharing and problem solving practice.
+They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
+
+**Non-linear step-by-step instructions**
+
+Longer form step by step tutorials are common in computing education. Examples can be found in Code Academy, and in the education resources of RPi foundation. Many examples talking learners through steps to build a game can be found online with varied amount of explanation of underlying constructs and concepts. I started my journey learning JS games using some provided by Mozilla and the Phaser developers.
+
+The approach used in the step based documentation I created varies from many in that rather than choosing a defined order users can choose which order they want to add game elements. The use of GDP aids the learner navigation of this process. This does add challenges however to the documentation authouring process.
+
+An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
+
+Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
+FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
+
+Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Kay participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon and taught in via peer to peer propagation.
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+**_A linear / step-by-step resource_**
+
+While a manual was available, few participants worked their way through it chapter by chapter.
+
+While I created this for the planners suited to this way of working and in response to feedback from parents in early designs that foundation knowledge would be useful, in practice, once their template game was up and running, there was little incentive to do use this resource. In terms of the objectives of making a playable game or adding particular patterns to the game the step by step resources would have involved backtracking. The process would have value to reinforce computing concepts present in the design.
+
+The foundational concept here was that after making the game from a template. The linear resources would explain all underlying concepts that the starting template had initially abstracted away from the participants.
+
+In my journal I named this concept _meeting yourself in the middle_ to represent the possibility of retracing the process of learning from first principles.
+Narratively the equivalent of a prequel.   
 
 
 
@@ -557,7 +635,7 @@ NOTE - this may move, it seems to get in the way here. Thus this is partly in no
 
 In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
 
-DUPLICATION IN GDP CHAPTER CURRENTLY. 
+DUPLICATION IN GDP CHAPTER CURRENTLY.
 From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
 
 - the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
