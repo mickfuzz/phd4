@@ -605,21 +605,17 @@ I set up the working pattern based on my professional experiences and my own aca
 However, my choice of a walled garden approach in terms of limited GDPs and bespoke documentation came in to conflict with the professional practices of some parents with coding experience.
 
 
-#### Use of Help and Documentation related to GDP 
+#### Use of Help and Documentation related to GDP
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
-The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+The specific use of GDP related support is explored in this section.
 
 **Use of simple code examples which demonstrate the pattern in isolation**
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
-
-However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
 
 DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
 
-These code example are a staple of professional sharing and problem solving practice.
-They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
 
 #### Example of use of professional practices
 

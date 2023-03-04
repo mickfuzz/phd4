@@ -319,7 +319,7 @@ Connecting arcade buttons to the computer via simple electronics is a project wh
 
 
 
-## Evolving design of Support Materials and Documentation 
+## Evolving design of Support Materials and Documentation
 
 ### Use of Help and Documentation related to GDP - MOVE SOME NON GPD
 
@@ -349,10 +349,6 @@ This would involve searching for new code constructs and notes in the code desig
 **Use of simple code examples which demonstrate the pattern in isolation**
 
 Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
-
-However the, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
-
-DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
 
 These code example are a staple of professional sharing and problem solving practice.
 They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
