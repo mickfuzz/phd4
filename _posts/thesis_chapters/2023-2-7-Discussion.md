@@ -95,6 +95,50 @@ My end design highlights game patterns as a starting point for user interest and
 - Discussion - The use of GDPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
 - Discussion -  Rising to the concrete - as a key AT concept - how does this fit?
 
+
+### GDP as a way to surface Computational Thinking and Systems Concepts
+
+ - CT concepts in a more concrete and abstract form arise especially in interactions with facilitator
+ - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
+
+
+#### CTs emerging in the wild.
+ There are several examples of CT arising in the wild without being explicitly taught.
+ Here the focus is on Wing's narrower take rather than including general practices.
+
+
+**Decomposition:** # in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+
+#### Abstraction
+ This concept can be concretely taught using the code structure of functions -
+
+ There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
+
+#### Generalisation / Pattern recognition
+
+ Present in the work of Te to find patterns and to duplicate them in different situations.
+ 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
+ NOTE - Ideally find another example of a child doing this.
+
+ The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+
+ Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
+
+#### Sequencing / Algorithms.
+
+ Sequencing and writing algorithms is one of the most common CT principles explored in research. INCLUDE CITATION.
+
+ This is a relative weak point in comparison to from first principles approach.
+
+ However the process of patching into different areas of the code and creating functions does address this.
+
+ The following transcript of Sh's interaction with myself shows that the process of copying patterns in the template code and patching in new lines from the supporting documentation gives ample opportunity for sequencing mistakes to be made.
+ The process of working with students on their existing code is valuable to explain why and how the order of lines of code and when functions are called.
+
+ The comparison raises a potential discussion point on what the practical value of this CT concept is.
+
+
+
 #### Strengths and Weaknesses of the GDP construct / terminology
 
 PERHAPS MOVE TO DESIGN?
