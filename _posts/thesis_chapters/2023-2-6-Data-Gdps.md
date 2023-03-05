@@ -1127,8 +1127,41 @@ Situation
   The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
 
 
-### Commentary of CT in the 3M model in particular
- More discussion  on the practical value of CT concepts
+### GDP as a way to surface Computational Thinking and Systems Concepts
+
+ - CT concepts in a more concrete and abstract form arise especially in interactions with facilitator
+ - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
+
+
+#### CTs emerging in the wild.
+ There are several examples of CT arising in the wild without being explicitly taught.
+ Here the focus is on Wing's narrower take rather than including general practices.
+
+
+**Decomposition:** # in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+
+#### Abstraction
+ This concept can be concretely taught using the code structure of functions -
+
+ There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
+
+**Generalisation / Pattern recognition:**
+
+ Present in the work of Te to find patterns and to duplicate them in different situations.
+ 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
+ NOTE - Ideally find another example of a child doing this.
+
+ The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+
+ Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
+
+**Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital imporance.  
+
+
+
+
+
+
 
 
 ### Use of GDP when demonstrating understandings in community activity
