@@ -1126,60 +1126,24 @@ Situation
 
   The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
 
-
-### GDP as a way to surface Computational Thinking and Systems Concepts
-
- - CT concepts in a more concrete and abstract form arise especially in interactions with facilitator
- - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
+### Use of GDP when demonstrating personal understandings in community activity
 
 
-#### CTs emerging in the wild.
- There are several examples of CT arising in the wild without being explicitly taught.
- Here the focus is on Wing's narrower take rather than including general practices.
+When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
 
-
-**Decomposition:** # in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
-
-#### Abstraction
- This concept can be concretely taught using the code structure of functions -
-
- There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
-
-**Generalisation / Pattern recognition:**
-
- Present in the work of Te to find patterns and to duplicate them in different situations.
- 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
- NOTE - Ideally find another example of a child doing this.
-
- The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
-
- Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
-
-**Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital imporance.  
-
-
-
-
-
-
-
-
-### Use of GDP when demonstrating understandings in community activity
-
-#### Evolution of practices?
-
-**Contributing back to Community**
+The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
 
 In a previous section we examined GDPs used to build emerging community activity.
-
 Here I focus on the demonstration of individuals of the growth in use of practices & concepts.
+
+NOTE TRY TO USE ALREADY EXISITNG EXAMPLES - AND REFRAME
+
+#### Expression of evolution of practices
 
 Use of GDPs are used to;
 
-- increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
-- participate by asking for peer help using shared terms (see Mi below)
+Increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
 
-#### Evolution of language and use of terms? (compared to processes)
 
 **Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
 
@@ -1190,29 +1154,25 @@ using language afforded by GDPs?
 HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
 FIND THIS EXCERPT
 
+
+#### Evolution of language and use of terms? (compared to processes)
+
+**Example - 2019-03-18 - Mi - "The good thing"**
+
+- participate by asking for peer help using shared terms (see Mi below)
+
+
+#### Discussion
+
+The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
+In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts. 
+
+See Bevan et al learning dimensions framework.
 In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
 
 In AT the change of activity is a shift in scope of activity system. To a wider objective of making an engaging game.
 
 Different AT scopes allow for different use of volitional TADS.
-
-
-
-**Discussion**
-The process of being able to map the demonstrations of development of understanding has value for practitioners.
-See Bevan et al learning dimensions framework.
-
-
-**On affordances and anchors - swinging on gargoyles**
-
-<!-- NOTE
-AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
-
-Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it. [@ba_erentsen_activity_2002]
-Give example?
-
-Then can be viewed together with the anchor metaphor as a catching point. Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them.
-[@hopwood_agency_2022].
 
 <!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
@@ -1220,13 +1180,29 @@ The pattern we see here is less relatable to every day game constructs in the wa
 
 
 
+### GDP as a way to surface Computational Thinking and Systems Concepts
 
-#### Interpretation / discussion of personal practices / concepts
+ - CT concepts in a more concrete and abstract form arise especially in interactions with facilitator
+ - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
 
-When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
 
-The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
+#### CTs emerging in the wild.
 
+There are several examples of CT arising in the wild without being explicitly taught. Here the focus is on Wing's narrower take rather than including general practices.
+
+**Decomposition:** in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+
+**Abstraction:** This concept can be concretely taught using the code structure of functions - There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
+
+**Generalisation / Pattern recognition:** Present in the work of Te to find patterns and to duplicate them in different situations. 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity.  
+
+NOTE - Ideally find another example of a child doing this.
+
+The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+
+ Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
+
+**Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital imporance.  
 
 ## Additional Chapter Discussion
 
@@ -1242,10 +1218,18 @@ A deeper exploration of other concepts may suit another chapter looking at synth
 
 ####  Agency, Autonomy and Walled Gardens
 
-
-
 This section;
 
+**On affordances and anchors - swinging on gargoyles**
+
+<!-- NOTE
+AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it. [@ba_erentsen_activity_2002]
+Give example?
+
+Then can be viewed together with the anchor metaphor as a catching point. Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them.
+[@hopwood_agency_2022].
 
 
 
