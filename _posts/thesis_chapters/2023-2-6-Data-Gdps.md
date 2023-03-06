@@ -291,51 +291,41 @@ NOTE - Commentary on replacing of level of analysis (confusing to some as hierac
 
 -->
 
-In this section a summary of the interaction observed in the above vignette is described in broad strokes using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. More detailed interpretation and analyis of these interactions follow in later sections.  
+In this section a summary of the interaction observed in the above vignette is described in broad strokes.
+
+ <!-- using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. More detailed interpretation and analyis of these interactions follow in later sections.   -->
 
 
 <!-- Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction. -->
 
-**Cultural Focus**
+<!-- **Cultural Focus:**  -->
 
-The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions.
+The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The child wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
 
-<!--
-NOTE MOVE
-Another pattern the child advocates for is that of adding levels. This desire to add this pattern may have been picked up from the emerging culture of the group as this pattern has been added to other games and has become a topic of discourse.
+<!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it.  -->
 
-The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it. -->
 <!-- For  Mi and Other Parent - "Have you seen Te's game it has 21 levels." -->
 <!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
 
-For both participants there is an explicit awareness of game making patterns and concept of the game as a dynamic system. Both seem to drive their work on the design and coding mechanics of the game. A cultural understanding of the conventions of a platformer game being shown by both the child and adult. The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying .
+For both parent and child there is an explicit awareness of game making patterns, the cultural conventions of a platformer game and concept of the game as a dynamic system. These awarenesses drive their work on the design and coding mechanics of the game.  The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying .
 
+Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a desire to play against game conventions with a desire to confuse or disorient players.
 
-Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a mischievous desire to play against game conventions with a desire to confuse or disorient players.
-(my interpretation based on another extract explored later?)
+<!--NOTE
+ (my interpretation based on another extract explored later?) -->
 
-<!--
-Drop tool use here - not specifically GDPs
+<!-- Drop tool use here - not specifically GDPs
  One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
 
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-**Interpersonal Focus - Guided Participation**: Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
-
-The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic.
-
-For this pair this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent.  The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child.
-
-Feedback from the parent indicated this was partly due to reading ability. They also mention a strategy to address with this barrier to participation. "Th got on better during the coding once the student who was hovering initially left us alone.  Because every time Th hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
-
-Two observations follow. Firstly, the design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time. Secondly, it is of value to explore during which design stages is the child is most active and engaged.
+The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent.  The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child.
 
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
 <!-- I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment. -->
 
-
-**Personal Focus - Participatory Appropriation**
 
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
