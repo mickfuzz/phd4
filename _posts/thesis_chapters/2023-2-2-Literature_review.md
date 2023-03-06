@@ -21,13 +21,14 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
       - From Kafai's review (not directly) draw on
       - personal
       - more general / social / 21st C, computational fluency
-  - Specific techniques and how they align with motivations  
-    - Instruction
-    - UMC and Games - Half-baked games
-    - PRIMM - bridging exploration and instruction, semantic waves
-    - Pair programming - social coding
-    - Design-based & Tinkering / Exploratory - Bevan et al
-    - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first
+- Coding pedagogies and how they align with motivations  
+  - Instruction
+  - UMC and Games - Half-baked games
+  - PRIMM - bridging exploration and instruction, semantic waves
+  - Pair programming - social coding
+  - Design-based & Tinkering / Exploratory - Bevan et al
+  - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first
+  - Design patterns
 - What exists to support the development of game making communities?
   - Defining terms and exploring community-based pedagogies   
     - informal/ formal / non-formal  - a spectrum
@@ -36,6 +37,7 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
   - Examples in existing game making practice and researched programs
     - Game playing and making communities - community activities around the game Gee / Ito
     - Games as funds of knowledge
+  -
   - Tools and Concepts & Terminology  - see glossary at end
       - Code playgrounds
       - Game Design Patterns
@@ -156,8 +158,21 @@ Game making allows children to draw on funds of knowledge in various ways, perha
 - Why is it powerful in affect?
 - What potential does that give to family game making?
 
+#### Design Patterns
 
-## On Game Making pedagogies
+
+Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
+
+##### Game and gameplay design patterns
+
+The term game design patterns (GDP) is used in different ways. It can be used to describe the kind of code programming patterns that are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. The term also describes common patterns of game play and design that are visible to the player. Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play. The results of this chapter focus on the second interpretation of GDPs. Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation rephrasing slightly as gameplay design patterns, thus placing emphasis on the exposure to the user via playing the game. They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. Their research builds on related research which complied a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
+
+In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
+
+#### Link paragraph to game making pedagogies
+
+
+## On game making pedagogies
 
 There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
 
