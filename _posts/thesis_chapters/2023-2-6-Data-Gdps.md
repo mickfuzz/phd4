@@ -323,19 +323,16 @@ The child shows high engagement at this stage outlining her plan for adding patt
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
-
-The child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
+While it is hard to observe personal dimensions of processess in the interaction above, the child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-In the above analyis of the vignette three planes of activity are covered in summary. The next section goes in to more detail.
-
-In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+In the preceeding section, a short interchange beween participants was analysed using three foci of activity  cultural, interpersonal and personal foci. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
 ## Use of GDPs explored from a cultural focus
 
-In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the role that game design patterns in particular. Design patterns are by parents, children and facilitators as a tool of apprenticeship and personal expression in this emerging game making community.
+In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the role that game design patterns in particular.
+Design patterns used are by parents, children and facilitators in diverse ways in this emerging game making community. NAMELY?
 
 <!-- NOTE - ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS - IF THIS HELPS GROUND THIS SECTION -->
 
@@ -350,15 +347,13 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!--  NOTE - DROp? This section will explore the particular role of GDPs within the process of x
  using an example about one of the core GDP of the platform game, that of jumping. -->
 
-#### Use of evolving language and practices in informal feedback to direct modification of games
+#### Use of evolving GDP terminology to faciliate community participation (more like direct help?)
 
+Language which has been introduced facilitator interventions is then modified and used organically through community interaction.
 
-**_Terminology_**
 The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
 
 The parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
-
-MOVE EXAMPLE TO COMMUNITY DEVELOPMENT OF LANGUAGE ABOVE
 
     Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
     Ne – Gold coins.
@@ -373,19 +368,23 @@ MOVE EXAMPLE TO COMMUNITY DEVELOPMENT OF LANGUAGE ABOVE
     Ne: Who wants a rocket for their reward?
     Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
     Ne: It's a very violent game.
-    Mi: What  ?
+    Mi: What?
     Ne: It's a very violent game.  
 
+As background information on this pair, the mother's focus has been on creating graphics and has expressed prid in this her growing expertise in this area.
 
 The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
 
 In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
+
 Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
 
 Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
 
-#### Developing a language for the intangible - Evolving concepts of Game Challenge and Game Feel -
+#### Developing a language in informal feedback to direct modification of games
+
+**The concepts of game challenge and game feel evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players.**
 
 The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
 
@@ -393,8 +392,6 @@ In this design the jump mechanic is determined by the use of variables controlli
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
 The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
-
-
 
 Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
@@ -410,7 +407,6 @@ Parent Mi had been focused mostly on completing asset design. She had been made 
     Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
 
 I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
-
 
 Ch likes the look of the game and begins with that as a comment.
 
@@ -433,7 +429,6 @@ Fi comes to play the game
 
 EXTEND
 CONTINUES TO TALK ABOUT CROPPING IMAGE ANOTHER COMMUNITY PRACTICE
-
 
 We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
 
@@ -1020,6 +1015,9 @@ As per debugging.
 However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 
 ## GDPs and the personal plane
+
+
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
 <!-- NOTE - REMOVE THIS. INCORPORATE HERE?
 The personal plane is explored in a following chapter (working title Maps).
