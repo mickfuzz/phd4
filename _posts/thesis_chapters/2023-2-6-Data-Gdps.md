@@ -1165,10 +1165,13 @@ FIND THIS EXCERPT
 #### Discussion
 
 The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
-In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts. 
+In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
 
 See Bevan et al learning dimensions framework.
-In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
+
+
+
+- Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
 
 In AT the change of activity is a shift in scope of activity system. To a wider objective of making an engaging game.
 
@@ -1183,7 +1186,6 @@ The pattern we see here is less relatable to every day game constructs in the wa
 ### GDP as a way to surface Computational Thinking and Systems Concepts
 
  - CT concepts in a more concrete and abstract form arise especially in interactions with facilitator
- - Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
 
 
 #### CTs emerging in the wild.
@@ -1231,8 +1233,11 @@ Give example?
 Then can be viewed together with the anchor metaphor as a catching point. Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them.
 [@hopwood_agency_2022].
 
+**Play testing, playgrounds and a walled garden - impact on agency**
 
+Pair and peer playtesting emerges as a key practice to facilitate learner agency. 
 
+In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
 
 
 
