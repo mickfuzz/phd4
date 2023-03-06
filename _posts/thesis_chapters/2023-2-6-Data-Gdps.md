@@ -10,14 +10,9 @@ categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
 
-
 -   [Introduction to This Writing](#introduction-to-this-writing)
 -   [Chapter introduction](#chapter-introduction)
 -   [Study of Vignette A](#study-of-vignette-a)
-    -   [To begin more detailed study of participant interactions taken
-        from video recordings I use vignette to give a snapshot of the
-        interactions of one
-        family.](#to-begin-more-detailed-study-of-participant-interactions-taken-from-video-recordings-i-use-vignette-to-give-a-snapshot-of-the-interactions-of-one-family.)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
 -   [Cultural, Interpersonal & Personal Planes Analysis of use of
@@ -31,9 +26,8 @@ title: Findings Chapter 2 - It’s like a project in itself really
             to direct modification of
             games](#use-of-evolving-language-and-practices-in-informal-feedback-to-direct-modification-of-games)
         -   [Developing a language for the intangible - Evolving
-            concepts of Game Challenge and Game Feel - PERHAPS MOVE TO
-            LAST SECTION /
-            PERSONAL](#developing-a-language-for-the-intangible---evolving-concepts-of-game-challenge-and-game-feel---perhaps-move-to-last-section-personal)
+            concepts of Game Challenge and Game
+            Feel -](#developing-a-language-for-the-intangible---evolving-concepts-of-game-challenge-and-game-feel--)
         -   [Other examples of emerging concepts /
             practices](#other-examples-of-emerging-concepts-practices)
     -   [GDPs propagation through peer activity leading from
@@ -111,7 +105,6 @@ title: Findings Chapter 2 - It’s like a project in itself really
     -   [Call back to design practices](#call-back-to-design-practices)
         -   [Game design to get under the hood - games as a design
             artefact](#game-design-to-get-under-the-hood---games-as-a-design-artefact)
-
 
 
 ## Introduction to This Writing
@@ -336,7 +329,9 @@ The child shows their personal knowledge of game design patterns in the end of c
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-In the first part of this chapter I focused in detail on the three planes of activity for one vignette. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+In the above analyis of the vignette three planes of activity are covered in summary. The next section goes in to more detail.
+
+In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
 ## Use of GDPs explored from a cultural focus
 

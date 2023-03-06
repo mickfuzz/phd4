@@ -1,10 +1,6 @@
 -   [Introduction to This Writing](#introduction-to-this-writing)
 -   [Chapter introduction](#chapter-introduction)
 -   [Study of Vignette A](#study-of-vignette-a)
-    -   [To begin more detailed study of participant interactions taken
-        from video recordings I use vignette to give a snapshot of the
-        interactions of one
-        family.](#to-begin-more-detailed-study-of-participant-interactions-taken-from-video-recordings-i-use-vignette-to-give-a-snapshot-of-the-interactions-of-one-family.)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
 -   [Cultural, Interpersonal & Personal Planes Analysis of use of
@@ -18,9 +14,8 @@
             to direct modification of
             games](#use-of-evolving-language-and-practices-in-informal-feedback-to-direct-modification-of-games)
         -   [Developing a language for the intangible - Evolving
-            concepts of Game Challenge and Game Feel - PERHAPS MOVE TO
-            LAST SECTION /
-            PERSONAL](#developing-a-language-for-the-intangible---evolving-concepts-of-game-challenge-and-game-feel---perhaps-move-to-last-section-personal)
+            concepts of Game Challenge and Game
+            Feel -](#developing-a-language-for-the-intangible---evolving-concepts-of-game-challenge-and-game-feel--)
         -   [Other examples of emerging concepts /
             practices](#other-examples-of-emerging-concepts-practices)
     -   [GDPs propagation through peer activity leading from
