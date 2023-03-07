@@ -1019,14 +1019,8 @@ Here I focus on the demonstration of individuals of the growth in use of practic
 
 NOTE TRY TO USE ALREADY EXISITNG EXAMPLES - AND REFRAME
 
-
-
 <!-- #### Expression of evolution of practices
-
-
 Increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
-
-
 **Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
 
 We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.  
