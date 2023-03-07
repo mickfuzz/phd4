@@ -790,7 +790,7 @@ It is of value to explore during which design stages is the child is most active
 
 
 
-#### Other examples of GDPs helping ideation and sustaining activities
+### GDPs supporting ideation processes
 
 The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
 
@@ -798,7 +798,7 @@ This was welcome show by Ma's comment.
 "It did go on for too long."
 
 
-### GDP aiding ideation / home learning practices - an example paper prototyping
+#### Paper prototyping
 
 When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect.
 
@@ -810,7 +810,6 @@ The parent uses the graphical representation of design in the code template as a
 The parent, when faced with a blockage,
 
 and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
-
 
 NOTE - RETURN TO THIS IN ANALYSIS OF TADS -
 
@@ -831,8 +830,10 @@ There is also a link made by the parent to previous working practices. Using a p
 These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved.
 
 
+#### Other ideation methods supported  GDPs
 
-#### Granular and grokkable nature of GDPs
+Exploring the granular and grokkable nature of GDPs
+
 Another example of ideation helped by GDPs is the following featuring Te and Da  - 10-15 mins transcribe in more detail.
 
     They thinking of a feature – wrap around like Pac-man
@@ -854,8 +855,6 @@ In the example above where Te and Da are creating a new tilemap for a maze game,
 While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
 
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
-
-
 
 ### GDPs facilitating designing for others
 
