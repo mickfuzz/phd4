@@ -1056,20 +1056,26 @@ THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - 
 
 ### Discussion on Personal Focus
 
+NOTE - Sumarise this and shift to another section. 
+
 The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
 In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
 
-See Bevan et al learning dimensions framework.
-
-- Driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
-
-In AT the change of activity is a shift in scope of activity system. To a wider objective of making an engaging game.
-Different AT scopes allow for different use of volitional TADS.
+My work on a learning dimensions framework for this intervention was driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
 
 
+In AT the change of activity is a shift in scope of activity system.
+Different AT scopes allow for different use of volitional TADS. Different affordences are presented.
 
+For example metacognitive activities could be developed to link completion of each GDP with a reflective activity to expressly explore CT and systems.
+
+When I consult my journal, there is a ongoing reluctance to shift learners and to focus on more abstract knowledge.
+I propose that imposed shifts of focus/scope may be disorientating to the learner.
+
+Instead, learners should take charge,
+Also when directing attention back on track GDPs is more linked to main mission
+Although the full picture is more nuanced.
 <!--
-
 NOTE - REINTEGRATE IF USEFUL
 QUICK SUMMARY - MOVE TO DISCUSSION
  - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
@@ -1158,7 +1164,6 @@ As per last chapter but develop in relation to GDPs -->
 This section continues a discussion on the nature and evolution of agency in the practices of the participants in this research. In this section, the varied use of GDPs is examined through the lens on agency in broad terms. The theme is expanded upon in the following chapter.
 
 **On affordances and anchors - swinging on gargoyles**
-
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
 
