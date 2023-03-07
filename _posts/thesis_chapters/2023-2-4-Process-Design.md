@@ -14,7 +14,24 @@ title: Process: Emerging Learning Design
 
 - Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
 - Physical maps section added at end
-- Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
+
+
+
+## Chapter Introduction  outline
+
+- Recap of context and specifics of designing for informal learning
+- Evolution of learning design in stages
+- Emergence of GDP as core unit of activity
+  - Activity, actions & operations
+
+- Analysis of Tensions in design and how this guided Evolution
+
+
+  - Where to put physical maps section?
+
+  NOTE - would this chapter benefit from a short vignette? to ground discussion / terms
+
+## Recap of context and specifics of designing for informal learning
 
 ### Adapting to the Informal
 NOTE FIND A GOOD PLACE TO PUT THIS
@@ -28,14 +45,9 @@ This was in response to tension of teaching PGCE students in a smaller time scal
 NOTE GO BACK OVER NOTES TO FIND THIS
 
 
-## Chapter outline
+## Chapter Introduction  
 
-- Summary of design phases
-- Summary of the Learning design & Emergence of GDP as core unit of activity
-- Analysis of Tensions in design and how this guided Evolution
-- Where to put physical maps section?
 
-NOTE - would this chapter benefit from a short vignette? to ground discussion / terms
 
 
 
@@ -120,10 +132,6 @@ I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade to
 However, there were some additional changes in the way that design patterns were presented to learners. In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources.
 
 
-
-
-
-
 NOTE THE FOLLOWING COPIED AND PASTED FROM METHODOLOGY
 NEEDS CHECKING WITH THE ABOVE FOR DUPLICATION.
 
@@ -164,46 +172,43 @@ I also began the data gathering of . I recorded all interactions via use of 360 
 
 #### Phase Four
 
-Change to MakeCode
+Change to MakeCode - playdown
 
-
+Learning Map design and expression of patterns in modified traditional GDP form.
 
 
 <!-- ### Stages of Design
 
 #### Evolution of Template and supporting resources
 I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
-
 Go into more detail than previously on the choice and use of tools.
-
 Use the 3M framework as a guide for MakeCode
 Revisit FM book as a guide for Glitch/ Phaser
 
 
-
 ### Issues Emerging from Evolution of Design
-
 More detailed analysis - thoughts on validity of data -->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Summary of the Learning design & Emergence of GDP as core unit of activity
 
+### Recap of Nested Levels of Activity
+
+
+### Activity, Actions and Operations.
+
+Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
+
+
+
 RECAP - from Lit Review
 
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+
+
+
+
 
 
 <!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->

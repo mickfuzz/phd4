@@ -513,9 +513,7 @@ In the previous chapter the ability for participants to bring home funds of know
 
 The process of watching Te self test his game exposes the dominant game experience of timed jumping. Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
 
-Ch is makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community.
-
-While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help.
+Ch is makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community. While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help.
 
 In addition to the previous chapters observations....
 ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ...
