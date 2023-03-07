@@ -325,6 +325,25 @@ NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR T
 
 While it is hard to observe personal dimensions of processess in the interaction above, the child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
+
+
+#### TO INTEGRATE - Sustaining Engagement: Parental prompts aligned with ideation stages
+
+The process of adding in a new GDP to the game was often a sustaining activity.
+
+The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
+
+This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities.
+
+The parent uses this transition as a prompt to stimulate new activity in the child.
+ The parent navigates this process skilfully and is able to incorporate the child's interests.
+
+The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
+  indicating that she is aware of the greater possibility for effective child input at this stage.
+
+In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices
+
+
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
 In the preceeding section, a short interchange beween participants was analysed using three foci of activity  cultural, interpersonal and personal foci. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
@@ -635,19 +654,16 @@ TRANSITION -
 While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
 In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
-## GDPs and Guided Participation
+## The use of GDPs examined from an interpersonal focus
 
-This section examines the use of GDP to facilitate guided participation in game making. The primary source of material is from pair interactions between children and parents.  
-
-- If needed a quick recap on guided apprenticeship.
-
-The following sections follow a formula; description, example, interpretation. An analysis section follows.
-
+This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch in adding levels to his game.
 
 <!-- DROP LARGER CATEGORISATION - TOO ARBITRARY
 ### GDPs for project organisation / coordination -->
 
-#### GDPs for prioritisation and informal task division
+### GDPs for prioritisation and division of labour
+
+<!-- informal task division -->
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
 
@@ -771,24 +787,7 @@ It is of value to explore during which design stages is the child is most active
 
  Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
 
-#### Sustaining Engagement: Parental prompts aligned with ideation stages
 
-
-The process of adding in a new GDP to the game was often a sustaining activity.
-
-The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
-
-
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities.
-
- The parent uses this transition as a prompt to stimulate new activity in the child.
-
- The parent navigates this process skilfully and is able to incorporate the child's interests.
-
- The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
-  indicating that she is aware of the greater possibility for effective child input at this stage.
-
- In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices
 
 
 #### Other examples of GDPs helping ideation and sustaining activities
