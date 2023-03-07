@@ -391,9 +391,13 @@ The discussion of game challenge, specifically comment about how 'hard' particip
 In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent and valid feedback on.
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on.
 
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. She had also asked for advice but Ne gave none leaving Mi to note "She's left me to my own devices." Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. PERHAPS INSERT HOW - SCREEN SHOT?
+
+In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
+
+Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
     Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
     Mick: How are you getting on Mi? It's looking good.
@@ -427,9 +431,6 @@ Fi comes to play the game
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
 
-EXTEND
-CONTINUES TO TALK ABOUT CROPPING IMAGE ANOTHER COMMUNITY PRACTICE
-
 We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
 
 Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating."
@@ -447,8 +448,10 @@ The players do not, apart from Mi's daughter, tell Mi directly to change the gam
 
 References to such emerging concepts and practices were present in many exchanges during directed playtesting and pair interactions.
 
-In the example above after comments on the jump speed Fi continues
+In the example above after comments on the jump speed Fi continues.
 
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
     Fi gives advice about tidying up the sprite outlines.
     Fi – for people with background like yours You can use the “cramping tool””
     Ma and Fi – then explain – SEE THEIR RECORDING
@@ -468,43 +471,54 @@ The implementation of similar GDP by participant groups and individuals often sp
 
 For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
 
-  Ch: Why’s that enemy in every level
-  Te: He’s not.
-  Ch: Can you show me how you add more levels on to yours?
-  Te: Yeah sure.
-  Pause
-  Te: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
-  Pause
-  Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
-  Te: Er not really.
-  Ch: Or seen it?
-  Ch: That’s like my second level.
-  Te: Ah so hard (Te fails at a high level on his game and starts to move off)
+    Ch: Why’s that enemy in every level
+    Te: He’s not.
+    Ch: Can you show me how you add more levels on to yours?
+    Te: Yeah sure.
+    Pause
+    Te: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
+    Pause
+    Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
+    Te: Er not really.
+    Ch: Or seen it?
+    Ch: That’s like my second level.
+    Te: Ah so hard (Te fails at a high level on his game and starts to move off)
 
-  Te: (To someone else  calling for attention)  No I’m helping ..
-  (Te then follows Ch to his workstation to help him implement more levels.)
+    Te: (To someone else  calling for attention)  No I’m helping (Ch)..
+    (Te then follows Ch to his workstation to help him implement more levels.)
 
-When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te completes this work, Ch reads aloud the code which is being typed in.
+When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te uses the keyboard completes this work, Ch reads aloud the code which is being typed in by Te.
 
 Exchanges like this allow the propagation of GDPs
+
 The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
 
 **Other examples of propagation**
 
+While some participants were diligent and deliberate in their use of documentation, peer propagation was the default mode of adding new GDPs for many of the younger participants able to work independently.
 
+Another examples include the use of moving enemies, changes to jump dynamics.  
 
-### GDP used to allow exploration of home funds of knoledge
+While the example above shows a fully peer implementation with a request and direct support happening between peers, another common patterns of propagation was to notice and comment on a key dynamic in a game during playtesting, for example a health bar, and then to locate supporting resources to implement that pattern.
 
-Ch is keen to make links to his existing experience of games making comparisons between Te's game, commercial games and his own.
-The motive is not clear but this appears to act as a ay of Ch bringing his funds of knowledge on game playing and analysis to this community.
+### GDP used to allow exploration of home funds of knowledge
 
-In prevelant GDPs in Te's game stimulates sharing about Ch's experience in other games. Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
+GDPs allow participants to share and explore their home funds on knowledge in the emerging learning community.  
 
-Following research on funds of knowledge motives or benefits of this behaviour may include: ...
-INSERT DISCUSSION AN DEVELOPMENT OF FUNDS OF KNOWLEDGE STREAM
-MAKE LINK TO NEXT SECTION
+In the previous chapter the ability for participants to bring home funds of knowledge into the new learning community was explored in relation to the use of graphical assets and game narratives. In the previous examples we can see a similar process.
 
+    Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
+    Te: Er not really.
+    Ch: Or seen it?
 
+The process of watching Te self test his game exposes the dominant game experience of timed jumping. Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
+
+Ch is makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community.
+
+While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help.
+
+In addition to the previous chapters observations....
+ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ...
 
 <!--
 Article on intangibility of game feel.
