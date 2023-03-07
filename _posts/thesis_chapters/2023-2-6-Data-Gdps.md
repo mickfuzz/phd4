@@ -432,21 +432,34 @@ CONTINUES TO TALK ABOUT CROPPING IMAGE ANOTHER COMMUNITY PRACTICE
 
 We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
 
-**Organically evolving norming practices being fed back to the community**
-
 Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating."
 
 In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
 
-The emergence of a community norm comes from the personal experiences of the participants.
+The emergence of this emerging community norm of jump feel comes from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game.
 
 This indirect comments aimed to direct direction of design mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. ( NOTE EXPLORE THIS PREVIOUSLY?)
 
+The players do not, apart from Mi's daughter, tell Mi directly to change the game.
+
+
 #### Other examples of emerging concepts / practices
-These kind of feedback were present in many exchanges during directed playtesting and during pair interactions.
+
+References to such emerging concepts and practices were present in many exchanges during directed playtesting and pair interactions.
+
+In the example above after comments on the jump speed Fi continues
+
+    Fi gives advice about tidying up the sprite outlines.
+    Fi – for people with background like yours You can use the “cramping tool””
+    Ma and Fi – then explain – SEE THEIR RECORDING
+    So that the background is clearer.
+
+While Fi has only just been introduced to the ability to "cramp". He is need
 
 For example the emergence of the concept of safe zone in the game of Ch and Pa -
-The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quicky identify and use 'safe zones'.
+The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
+
+
 
 
 ### GDPs propagation through peer activity leading from Playtesting
@@ -473,6 +486,14 @@ For example, the work of the child to add 21 levels to their own game served as 
 
 When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te completes this work, Ch reads aloud the code which is being typed in.
 
+Exchanges like this allow the propagation of GDPs
+The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
+
+**Other examples of propagation**
+
+
+
+### GDP used to allow exploration of home funds of knoledge
 
 Ch is keen to make links to his existing experience of games making comparisons between Te's game, commercial games and his own.
 The motive is not clear but this appears to act as a ay of Ch bringing his funds of knowledge on game playing and analysis to this community.
@@ -483,8 +504,7 @@ Following research on funds of knowledge motives or benefits of this behaviour m
 INSERT DISCUSSION AN DEVELOPMENT OF FUNDS OF KNOWLEDGE STREAM
 MAKE LINK TO NEXT SECTION
 
-In addition, exchanges like this allow the propagation of GDPs
-The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
+
 
 <!--
 Article on intangibility of game feel.
@@ -493,13 +513,7 @@ Article on intangibility of game feel.
 The placement of hazards as design pattern to increase challenge -->
 
 
-
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
-
-
-
-
-
 
 
 ### Use of GDP to facilitate apprenticeship in wider cultural practices
@@ -1156,8 +1170,6 @@ Then can be viewed together with the anchor metaphor as a catching point. Or to 
 Pair and peer playtesting emerges as a key practice to facilitate learner agency.
 
 In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
-
-
 
 
 #### Use of restricted set of collated GDP patterns
