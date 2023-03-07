@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: archive
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
 
@@ -913,7 +913,7 @@ Perhaps in the field of participatory design.
 <!-- Highlight how the granular and relatable nature of GDP -->
 
 
-Example of Te and Da  - 10-15 mins transcribe in more detail. 
+Example of Te and Da  - 10-15 mins transcribe in more detail.
 
     They thinking of a feature – wrap around like Pac-man
     Da – Yeah we can do that. Save that for version 1.1

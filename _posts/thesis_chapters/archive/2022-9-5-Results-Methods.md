@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: archive
 title: Results Methods
 ---
 
@@ -18,7 +18,7 @@ title: Results Methods
 - Player and Maker Types
 - Finally - Creating a walled garden for GDP - an overview from a cultural, community perspective?
 
-This needs work to structure effectively AND a focus on agency? 
+This needs work to structure effectively AND a focus on agency?
 
 
 ## Culturally Inclusive Methods to Kick Start Game Making Communities

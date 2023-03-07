@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: archive
 title: Findings - Mapping the Learning
 ---
 <!--
@@ -143,7 +143,7 @@ My own work in this area has been informed by work developing teaching materials
 <!-- NOTE EXPAND IF USEFUL -->
 Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments.
 
-NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers. 
+NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
 
 
 ## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
