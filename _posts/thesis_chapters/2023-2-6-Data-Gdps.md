@@ -278,7 +278,7 @@ In this section a summary of the interaction observed in the above vignette is d
 
 <!-- **Cultural Focus:**  -->
 
-The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The chpecial use case tutorials and refine a comprehensive documentation for our citizen sciild wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
+The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The child wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
 
 <!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it.  -->
 
@@ -295,10 +295,13 @@ Understanding of the game as a dynamic system is seen clearly in the parent’s 
 <!-- Drop tool use here - not specifically GDPs
  One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
 
-Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child.
 
-The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent.  The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child.
+The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
+Cracking open a this seam allows for new possibilities. The process of working on a new GDP seems to motivate and sustain the child's activity. The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent.  The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child.
+
+The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
@@ -308,40 +311,35 @@ The child shows high engagement at this stage outlining her plan for adding patt
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-While it is hard to observe personal dimensions of processess in the interaction above, the child shows their personal knowledge of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
+The adult is building proficiency in coding practice. This is shown in a variety of ways. Firstly through the process of adding code from documentation, but also in the fluidity of her navigation between advance coding, playtesting and then back to set up the coding environment for more basic coding of her child.
+
+The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 
+
+
+<!--
 
 #### TO INTEGRATE - Sustaining Engagement: Parental prompts aligned with ideation stages
 
-The process of adding in a new GDP to the game was often a sustaining activity.
 
-The transition from adding one GDP involves playtesting, which then often led to the identification of a next GDP to implement.
-
-This activity can be examined with an interpersonal focus it is the product of interaction between the pair and the parent highlights the pivot point which facilitates input and greater engagement. Cracking open a new seam of a GDP Key and Door allows for new possibilities.
-
-The parent uses this transition as a prompt to stimulate new activity in the child.
  The parent navigates this process skilfully and is able to incorporate the child's interests.
 
 The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
   indicating that she is aware of the greater possibility for effective child input at this stage.
 
-In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices
+In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices -->
 
 
 ## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
 
-In the preceeding section, a short interchange beween participants was analysed using three foci of activity  cultural, interpersonal and personal foci. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+In the preceding section, a short interchange between participants was analysed using three foci of activity  cultural, interpersonal and personal foci. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
 
-## Use of GDPs explored from a cultural focus
+## The use of GDPs explored from a cultural focus
 
-In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the role that game design patterns in particular.
-Design patterns used are by parents, children and facilitators in diverse ways in this emerging game making community. NAMELY?
+In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the way design patterns used are by parents, children and facilitators in in this emerging game making community.
 
 <!-- NOTE - ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS - IF THIS HELPS GROUND THIS SECTION -->
-
-
-<!-- NOTE - the topics below seem to live in the Methods / design chapter -->
 <!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
@@ -545,8 +543,6 @@ Code examples were initially the starting resource. The idea being it was quick 
 
 FIND the transcript
 
-
-
 #### Example of use of professional practices of diverging from codebases accessing professional documentation
 
 The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources.
@@ -646,7 +642,7 @@ This section examines the use of GDPs to facilitate guided participation via int
 <!-- DROP LARGER CATEGORISATION - TOO ARBITRARY
 ### GDPs for project organisation / coordination -->
 
-### GDPs for prioritisation and division of labour
+### GDPs used to facilitate prioritisation
 
 <!-- informal task division -->
 
@@ -679,8 +675,10 @@ This example shows the use of the approximate names number of game design patter
 
 Father describes previous behaviour as 'skipping around like that' or 'jumping all over the place' (in the above comment to Mick) as unproductive, but reviewing video data shows a more complex picture. While the father seems keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. Ironically, it is the father that becomes distracted from his stated task rather than the child.
 
-<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
-NOTE - THIS DISCUSSION NEEDS MORE DEVELOPMENT
+### GDPs aiding the process of division of labour
+
+To continue this exchange, as the parent begins to be overwhelmed by the process of following documentation, an informal division of labour suggested by the child.
+
 
 
     Ma: Quite complicated. But we can do it. But it would mean a lot of mucking around
@@ -844,16 +842,13 @@ A later discussion section in this chapter illustrates a more complex interactio
 ### GDPs facilitating designing for others
 
 As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
-
 This helps a focus on a noticeable change in game play.  something  that others will observe and thus help participants to design for others.
 
-AS COMPARED TO WHAT? WHAT WOULDN'T BE NOTICEABLE?
+<!-- AS COMPARED TO WHAT? WHAT WOULDN'T BE NOTICEABLE? -->
 
 As explored, Playtesing as a regular practice is another way to shift learners into a perspective designing for others. This was explored from a cultural plane previously but the process also was observed in practices in this study and in relevant research (set up for discussion on this)
 
 I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
-
-#### Vignette A
 
 In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it.
 
@@ -870,6 +865,8 @@ Th - comments on wanting students to be frustrated when playing it, it's fun - t
 
 PRIORITY HIGH
 Find other examples...
+
+####  Discussion on designing for others
 
 Shifts can be described as shifting between levels of activity if viewing activity through an AT lens that encompasses nested levels of activity systems.
 
@@ -937,6 +934,8 @@ We can explore this behaviour from the child's perspective using terms from Acti
 In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
 
 While the final an operation for some participants it would be a more conscious process, for others it has become second nature.
+
+
 Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on.
 Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
 
@@ -958,11 +957,25 @@ As a common example the process of "getting it in the game".
 the ineraction also shows positive affect of child.
 her role in the community can be explored here.
 
+
+#### Other examples of GDP driving adoption of technical processes
+
+
+There are many other examples of processes being driven by desire to adopt an new GDP or more frequently to make frequent alterations to one that has a significant impact on player experience.
+
+A fluid navigation to the relevant area of code to make key changes, especially level design is shown in vignette A by Sh.
+
+A similar fluidity of navigation between playing and coding window shown by all younger participants and many adults.
+
+
+
+
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
-## GDPs and the personal plane
 
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
+## The use of GDPs explored from a personal focus
+
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here. In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
 
 <!-- NOTE - REMOVE THIS. INCORPORATE HERE?
 The personal plane is explored in a following chapter (working title Maps).
@@ -974,20 +987,6 @@ May need a way to differential this chapters discussion of GDP - and that of the
 
 <!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
 
-QUICK SUMMARY
-In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
-
- - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
-- Note on why this section is less important in this research, the expression of personal knowledge back into a community context is covered in part above.
- - Example of mutuality - GDPs used in this research program were mutually created based on feedback from participants
- - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
- - While the practices them selves are valid without expressions of underlying concepts, these are surfaced especially in peer problem solving (beyond Guided participation ) and in feedback in playtesting.  
-
-Question, rather than a focus on concepts of personal / transferable knowledge, how much of this section focuses on appropriation of practices.
-
-Situation
-
-  The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
 
 ### GDPs used to support debugging and the product revision process
 
@@ -1073,6 +1072,27 @@ See Bevan et al learning dimensions framework.
 In AT the change of activity is a shift in scope of activity system. To a wider objective of making an engaging game.
 Different AT scopes allow for different use of volitional TADS.
 
+
+
+<!--
+
+NOTE - REINTEGRATE IF USEFUL
+QUICK SUMMARY - MOVE TO DISCUSSION
+ - quick summary of Rogoff's take on participatory appropriation compared to a transmission model of knowledge & that participants re-contribute their experience of knowledge beck into the social mix
+- Note on why this section is less important in this research, the expression of personal knowledge back into a community context is covered in part above.
+ - Example of mutuality - GDPs used in this research program were mutually created based on feedback from participants
+ - While there is a curricular value attached to CT concepts & to some extent design practices, in this context participants can create their own understandings of what is useful to them.
+ - While the practices them selves are valid without expressions of underlying concepts, these are surfaced especially in peer problem solving (beyond Guided participation ) and in feedback in playtesting.  
+
+Question, rather than a focus on concepts of personal / transferable knowledge, how much of this section focuses on appropriation of practices.
+
+Situation
+
+  The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
+-->
+
+
+
 ## Additional Chapter Discussion
 
 The majority of this chapter has focused on interpretation of observations of participant interactions. A deeper exploration of concepts is present in the following chapter which synthesises the observations of this study in relation to broader research. The remainder of this chapter begins this process with a closer look at the use of game design patterns as a intermediate design construct to facilitate coding education and at learner agency in relation to the user of GDPs in this data.
@@ -1084,9 +1104,6 @@ The majority of this chapter has focused on interpretation of observations of pa
 <!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure.
 -->
 In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a prescriptive approach to Computational Thinking. We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
-
-THE FOLLOWING NEEDS RESTRUCTURING AND DISCUSSION
-MOVE SOME IN THE BODY OR DROP OTHERS - CREATE A HOLDING SECTION
 
 In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
@@ -1114,8 +1131,7 @@ Game design patterns contain elements of more abstract and thus repeatable struc
 
 Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or get it in the game (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
 
-However, there are challenges of the use of such short cuts. There may be confusion over use of terms to new comers.
-They may hide more complex patterns within the name. For example, the shortcuts in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming".
+However, there are challenges of the use of these short cuts. There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming".
 
 These issues reflect the nature of the process of operationalising discreet actions that make up the implementation stages of each design pattern. Tensions may be overcome with help from peer group and facilitators.
 
@@ -1145,7 +1161,7 @@ As per last chapter but develop in relation to GDPs -->
 
 ###  Agency, Autonomy and Walled Gardens
 
-This section;
+This section continues a discussion on the nature and evolution of agency in the practices of the participants in this research. In this section, the varied use of GDPs is examined through the lens on agency in broad terms. The theme is expanded upon in the following chapter.
 
 **On affordances and anchors - swinging on gargoyles**
 
@@ -1164,8 +1180,9 @@ Pair and peer playtesting emerges as a key practice to facilitate learner agency
 
 In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
 
-
 #### Use of restricted set of collated GDP patterns
+
+<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
 - outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
 - compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable
