@@ -13,8 +13,7 @@ title: Process: Emerging Learning Design
 ## Bullet points of things to add
 
 - Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
-- Physical maps section added at end
-
+- Physical maps section added at end - what overlap is there for the next chapter?
 
 
 ## Chapter Introduction  outline
@@ -44,11 +43,16 @@ This was in response to tension of teaching PGCE students in a smaller time scal
 
 NOTE GO BACK OVER NOTES TO FIND THIS
 
+### Contextual factors from practitioner perspective influencing design
+
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+
+Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
 
 ## Chapter Introduction  
-
-
-
 
 
 This chapter charts the evolution of the learning design. It draws on immediate analysis of participants reactions and contributions from journal notes, participant interviews and analysis of changes in the learning resources created.
@@ -196,19 +200,60 @@ More detailed analysis - thoughts on validity of data -->
 ### Recap of Nested Levels of Activity
 
 
+
+
+## GDP as a unit of analysis as an aid to design
+
+MOVING FROM GDP CHAPTER - CHECK HOW IT SITS HERE.
+
+## Identifying of the implementation of GDP as a key unit of analysis
+
+
+Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
+
+- larger - learning computing skills and concepts as a home education project
+- larger - participating with other home educators in a creative environment and thus building team and communication skills
+- larger - learning transferable design skills and processes
+- large - creating a game which is fun to play and communicate an environmental theme
+- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
+- smaller - creating, changing and transporting game assets to enact or change GDPs
+- smaller - implementing or changing code constructs to enact or change GDPs
+
+#### Discussion on scope of activity systems (MAY MOVE)
+
+NOTE - this may move, it seems to get in the way here. Thus this is partly in note / bullet point form.
+
+In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
+
+DUPLICATION IN GDP CHAPTER CURRENTLY.
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
+
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
+
+The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
+
+- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
+- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
+- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
+- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
+- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
+
+This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
+
+
 ### Activity, Actions and Operations.
 
 Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 
-
-
 RECAP - from Lit Review
 
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
-
-
-
-
 
 
 <!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
@@ -267,10 +312,6 @@ Your mission is to apply the following pattern to your game. There are supportin
 PRINTED CARD TEXT ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
-
-
-
-
 
 ## Evolution of the Learning Design in response to emerging tensions
 
@@ -618,48 +659,3 @@ A much more collaborative online map which showed other peoples progress would b
 Also a tension of moving online with resources, via having them available in the class.
 
 Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
-
-
-## GDP as a unit of analysis as an aid to design
-
-MOVING FROM GDP CHAPTER - CHECK HOW IT SITS HERE.
-
-## Identifying of the implementation of GDP as a key unit of analysis
-
-
-Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
-
-- larger - learning computing skills and concepts as a home education project
-- larger - participating with other home educators in a creative environment and thus building team and communication skills
-- larger - learning transferable design skills and processes
-- large - creating a game which is fun to play and communicate an environmental theme
-- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
-- smaller - creating, changing and transporting game assets to enact or change GDPs
-- smaller - implementing or changing code constructs to enact or change GDPs
-
-#### Discussion on scope of activity systems (MAY MOVE)
-
-NOTE - this may move, it seems to get in the way here. Thus this is partly in note / bullet point form.
-
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
-
-DUPLICATION IN GDP CHAPTER CURRENTLY.
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
-
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
-
-- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
-- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
-- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
-- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
-
-This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"

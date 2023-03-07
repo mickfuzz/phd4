@@ -443,7 +443,6 @@ This indirect comments aimed to direct direction of design mirrors some of the i
 
 The players do not, apart from Mi's daughter, tell Mi directly to change the game.
 
-
 #### Other examples of emerging concepts / practices
 
 References to such emerging concepts and practices were present in many exchanges during directed playtesting and pair interactions.
@@ -457,13 +456,12 @@ In the example above after comments on the jump speed Fi continues.
     Ma and Fi – then explain – SEE THEIR RECORDING
     So that the background is clearer.
 
-While Fi has only just been introduced to the ability to "cramp". He is need
+While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
+FIND THE EXAMPLE BEFORE DEVELOPING.
+
 
 For example the emergence of the concept of safe zone in the game of Ch and Pa -
 The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
-
-
-
 
 ### GDPs propagation through peer activity leading from Playtesting
 
@@ -497,9 +495,9 @@ The process of playing a game of another and sharing your appreciation of it inv
 
 While some participants were diligent and deliberate in their use of documentation, peer propagation was the default mode of adding new GDPs for many of the younger participants able to work independently.
 
-Another examples include the use of moving enemies, changes to jump dynamics.  
+Another examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies, changes to jump dynamics,   
 
-While the example above shows a fully peer implementation with a request and direct support happening between peers, another common patterns of propagation was to notice and comment on a key dynamic in a game during playtesting, for example a health bar, and then to locate supporting resources to implement that pattern.
+While the example above shows a fully peer implementation with a request and direct support happening between peers, another common patterns of propagation was to notice and comment on a key dynamic in a game during playtesting, for example a health bar,and then to locate supporting resources to implement that pattern.
 
 ### GDP used to allow exploration of home funds of knowledge
 
@@ -521,43 +519,31 @@ ADD IF RELEVANT - research on funds of knowledge motives or benefits of this beh
 <!--
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
-<!-- #### Use of hazards and moving enemies
-The placement of hazards as design pattern to increase challenge -->
-
+<!-- #### Use of hazards and moving enemies - The placement of hazards as design pattern to increase challenge -->
 
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
 
-### Use of GDP to facilitate apprenticeship in wider cultural practices
 
-Participants draw on their cultural experience at home and from work contexts to guide interactions with others. Some experience is of general coding proficiency and practices (previously explored) while other experience relates to experience of GDPs through home game play.
-
-#### Practitioner and setting influences on community apprenticeship practices
-
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
-
-Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
-
-Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
-
-I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
-
-However, my choice of a walled garden approach in terms of limited GDPs and bespoke documentation came in to conflict with the professional practices of some parents with coding experience.
-
-
-#### Use of Help and Documentation related to GDP
+### Use of Help and Documentation related to GDP
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
-The specific use of GDP related support is explored in this section.
+**Participants draw on their cultural experience and access to supporting resources and processes at home and from work contexts to guide interactions with others.**
 
-**Use of simple code examples which demonstrate the pattern in isolation**
+A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
+#### Use of simple code examples which demonstrate the pattern in isolation
+
 
 DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
 
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
 
-#### Example of use of professional practices
+FIND the transcript
+
+
+
+#### Example of use of professional practices of diverging from codebases accessing professional documentation
 
 The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources.
 
@@ -589,8 +575,9 @@ He approaches Mick with a suggestion.
 
 Te is implicit in the use of is process, saying "I was thinking can we make like a pacman game kind of thing".
 Da is more explicit naming the shift of perspective but also implying
+
 Mick takes this to a different level by making reference to a key change of code that would be involved.
-NOTE - LINK THIS TO LOA
+NOTE - LINK THIS TO LOA -
 
 Da speech show desire to for the pair to try something new. This may be to avoid repetition in the educational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
 
@@ -600,12 +587,13 @@ This interaction has a parallel to a professional practice of "forking" code-bas
 The parent checking with a guiding community member about the advantages and disadvantages of a major fork in the code structure.
 Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
 
-
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
 There are cultural elements here of a family learning culture between these two playing out in this space.
 
-That way of approaching the task is very different from interactions with grandparents on a previous iteration.
+Da's guided way of approaching the task is very different from previous example of code patching.
+The interactions with grandparents on a previous iteration are much less directed.  
+
 
     extract from 2019-05-08 - 20 mins
     Te – Right what shall we add next? So it follows?
@@ -639,12 +627,9 @@ It also opens up the possibilities of other pairs to follow this path.
 In a way opening up a new seam of community activity and family of GDPs associated with a maze
 game.
 
-
 There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
 
 These two examples stem from the wider cultural experiences and practices of the pair's home coding style and the parents experience taking part in professional community coding activities.
-
-
 
 TRANSITION -
 While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
@@ -723,9 +708,7 @@ The implementation of some GDP involved the use of different tools and activitie
 
 For pair Fi and Ma the existence of GDP seems to empower the young person to direct a division on labour.
 
-  Ma has been reading documentation on how to add animation to a character for some time.
-
-
+Ma has been reading documentation on how to add animation to a character for some time.
 
 Here, after a blockage, the child suggests continuing with activities to fit his existing skill set of creating assets in non-code / GUI environments. The child appears to make a tactical decision allowing the father to piece things together in the code based program.
 
