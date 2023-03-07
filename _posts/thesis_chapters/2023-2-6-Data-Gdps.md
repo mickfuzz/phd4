@@ -293,7 +293,7 @@ In this section a summary of the interaction observed in the above vignette is d
 
 <!-- **Cultural Focus:**  -->
 
-The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The child wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
+The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The chpecial use case tutorials and refine a comprehensive documentation for our citizen sciild wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
 
 <!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it.  -->
 
@@ -349,7 +349,7 @@ Design patterns used are by parents, children and facilitators in diverse ways i
 
 #### Use of evolving GDP terminology to faciliate community participation (more like direct help?)
 
-Language which has been introduced facilitator interventions is then modified and used organically through community interaction.
+**Language which has been introduced facilitator interventions is then modified and used organically through community interaction.**
 
 The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
 
@@ -434,7 +434,7 @@ We can see that Mi justifies the game feel of a very high fast jump with a narra
 
 **Organically evolving norming practices being fed back to the community**
 
-Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noteatble. While I haven't done the calculations the effect is clear. After the last one leaves Mi comments "It's so frustrating."
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating."
 
 In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
 
@@ -1226,24 +1226,7 @@ In this context of novice coders in an informal environment it seems appropriate
 Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
 
 
-#### Technical concepts suiting transfer
 
-NOTE likely move this to another chapter.
-Learning maps - additional discussion on learning dimensions - or conclusion / next steps.
-
-While there are technical elements of transfer that were identified and included in the learning map I sidelined the study of them.
-
-Specifically in examining the concrete implementation of GDPs there are transferrable concepts and practice involving practice which include;
-
-- Use of levels as a array which is parsed by a loop to create layout
-- Logic statements of varied degrees of complexity
-- Functions - code patching into the right area
-
-<!--
-GDP, CT & Transfer
-The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
-Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.
- -->
 
 
 #### Use of GDP as communication short cuts
@@ -1266,19 +1249,19 @@ Firstly how wide should reuse be imagined? To other coding projects? Or wider cl
 
  For example the shortcut of a name for a pattern in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming"
 
-### Call back to design practices
-As per last chapter but develop in relation to GDPs
+<!-- ### Call back to design practices
 
-#### Game design to get under the hood - games as a design artefact
-
-As per Bruno - we are surrounded by designed objects. This process of making lifts the lid on that process.
-
-See example between helper and Pa in 2019-03-18 at the end.
-
-NEEDS MORE DEVELOPMENT
+As per last chapter but develop in relation to GDPs -->
 
 <!-- However from the novice designers' perspective, there are elements of patterns involved. -->
 
+### Tensions between facilitating agency and norming practices (Possible Link to Next Chapter)
+
+This chapter has explored the use of game design patterns by participants to aid the development of their game making practices. Participants are able to use the affordences of the existing learning design and add their own evolving practice to them as a way of expressing and building agency. Examples of this dynamic agency include the use of graphical code structures, asking for peer or facilitator support etc.
+
+However as a seeming counterpoint to this growing agency is the norming effects of concepts that gain community currency in playtesting. The repeated attempts by participants to make the jumping mechanic of Mi less frustrating can be seen as a potential
+
+The following chapter begins with a deeper exploration of learner agency in
 
 
 <!-- ### Link Paragraph to next chapter
