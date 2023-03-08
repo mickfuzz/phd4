@@ -472,10 +472,27 @@ in 2019-03-18-te -
 
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
-ALSO
-FIND the transcript in 2019-05-
-Te tries to find code example for a top down game.
+The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
 
+In the next iteration of game making Te works with his father Da. Te
+
+    extract from 2019-05-08 - 20 mins
+    Te – Right what shall we add next? So it follows?
+    Da – yeah that would be interesting wouldn’t it.
+    Te – you know like the ghost in pac-man
+    Te – I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
+    Te- Link to tutorials – goes to the online tutorials on flossmanuals
+    Te – we could add some player health
+    Da indicates at the moment this work ok.
+    Te – shall we try to get Mick for this
+    Da – ah we could google it.
+    They google "phaser pacman"
+
+Te looks to
+
+Da's  way of approaching the task is very different from previous example of code patching.
+
+The interactions with grandparents on a previous iteration are much less directed.  
 
 
 #### Example of use of professional practices of diverging from codebases accessing professional documentation
@@ -526,21 +543,6 @@ My own positive response to their suggestion was driven partly from knowledge of
 
 There are cultural elements here of a family learning culture between these two playing out in this space.
 
-Da's guided way of approaching the task is very different from previous example of code patching.
-The interactions with grandparents on a previous iteration are much less directed.  
-
-
-    extract from 2019-05-08 - 20 mins
-    Te – Right what shall we add next? So it follows?
-    Da – yeah that would be interesting wouldn’t it.
-    Te – you know like the ghost in pac-man
-    Te – I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
-    Te- Link to tutorials – goes to the online tutorials on flossmanuals
-    Te – we could add some player health
-    Da indicates at the moment this work ok.
-    Te – shall we try to get Mick for this
-    Da – ah we could google it.
-    They google "phaser pacman"
 
 This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
 
