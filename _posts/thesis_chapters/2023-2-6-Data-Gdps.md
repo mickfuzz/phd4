@@ -443,8 +443,51 @@ The process of watching Te self test his game exposes the dominant game experien
 
 Ch is makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community. While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help.
 
-In addition to the previous chapters observations....
-ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ...
+<!-- In addition to the previous chapters observations....
+ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ... -->
+
+In the following example home funds of knowledge are utilised not only in terms of home experiences of games but also in terms of design and problem solving practices. Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction shows a rich interchange where the parent is trying to draw on the game playing experiences to promote innovation in the design of the existing template.
+
+    Da: Have you thought about pushing it a bit further and have a different style of game?
+    Te: What do you mean?
+    Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+    Te: Pause. I don’t know what to do thought.
+    Da: Well quite but what other games are there?
+
+Te adopts with this suggestion readily once he understands Da's suggestion in full.
+He approaches Mick with a suggestion.  
+
+    Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
+    Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+    Te: Hmm. How should I do this then?
+    Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
+    Te: Mick
+    Mick: Hi ya.
+    Te: Erm. Thinking about what game to do . I was thinking can we make like a Pac-man game kind of thing (indicates movement of character with hands)
+    Da: If we had an on the top game rather than a platform game
+    Mick: I think it could work. You could kind of adapt that game by, kind of, removing gravity.
+    Da: and see what happens?
+    Mick: and see what happens.
+
+<!--
+Te is implicit in the use of is process, saying "I was thinking can we make like a pacman game kind of thing".
+Da is more explicit naming the shift of perspective but also implying
+Mick takes this to a different level by making reference to a key change of code that would be involved.
+NOTE - LINK THIS TO LOA -
+-->
+
+Da speech show desire to for the pair to try something new to step outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games). This decision can be triangulated with interview data from Da on the motivation behind his involvement in volunteering at Coder Dojos.  
+
+    Honestly, it's just it's just my hobby and I love it is the main reason. In fact, it's probably the only reason. If I can, if I can persuade / cajole / trick my kids into being involved at the same time, then that's even better. Personally, I think that's about it. I've always been interested in computers. I love, I love, I love programming. I'm no good at pencils and pens drawing or anything like that. But writing software is the closest I get to a creative outlet. So I just love doing that.  
+
+Given this perspective, I interpret the desire to divert as a way of embracing a creative challenge and bringing his child along for the ride.
+
+
+
+However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
+
+This interaction has a parallel to a professional practice of "forking" code-bases in open-source code communities.
+The parent checking with a guiding community member about the advantages and disadvantages of a major fork in the code structure.
 
 <!--
 Article on intangibility of game feel.
@@ -499,50 +542,12 @@ The interactions with grandparents on a previous iteration are much less directe
 
 The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources.
 
-In 2019-05-08 Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experiences to promote innovation in the design of the existing template.
-
-An interaction (see full transcript of interaction at the foot of this chapter) shows a rich interchange where the parent is trying to draw on the game playing experience
-
-    Da: Have you thought about pushing it a bit further and have a different style of game?
-    Te: What do you mean?
-    Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
-    Te: Pause. I don’t know what to do thought.
-    Da: Well quite but what other games are there?
-
-Te adopts with this suggestion readily once he understands Da's suggestion in full.
-
-He approaches Mick with a suggestion.  
-
-    Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
-    Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
-    Te: Hmm. How should I do this then?
-    Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
-    Te: Mick
-    Mick: Hi ya.
-    Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
-    Da: If we had an on the top game rather than a platform game
-    Mick: I think it could work. You could kind of adapt that game by, kind of, removing gravity.
-    Da: and see what happens?
-    Mick: and see what happens.
-
-Te is implicit in the use of is process, saying "I was thinking can we make like a pacman game kind of thing".
-Da is more explicit naming the shift of perspective but also implying
-
-Mick takes this to a different level by making reference to a key change of code that would be involved.
-NOTE - LINK THIS TO LOA -
-
-Da speech show desire to for the pair to try something new. This may be to avoid repetition in the educational experience of the child or perhaps by the desire for challenge which would result from stepping outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games like Pac-man and Zelda.
-
-However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
-
-This interaction has a parallel to a professional practice of "forking" code-bases in open-source code communities.
-The parent checking with a guiding community member about the advantages and disadvantages of a major fork in the code structure.
+**Regarding code fork / paradigm change...**
 Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
 There are cultural elements here of a family learning culture between these two playing out in this space.
-
 
 This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
 
