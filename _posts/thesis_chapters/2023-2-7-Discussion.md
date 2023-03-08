@@ -106,8 +106,6 @@ Some of the following may be relevant;
 
 ### Game Design Patterns vs CT and more established "knowledge"
 
-THIS SECTION PROBABLY MOSTLY OR FULLY BELONGS IN THE NEXT CHAPTER
-
 My end design highlights game patterns as a starting point for user interest and to draw participants in to other elements of learning dimensions. More abstract dimensions like systems thinking, and more concrete like coding concepts.
 
 - Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.

@@ -154,7 +154,7 @@ To begin more detailed study of participant interactions taken from video record
 //keep as table with images - online or open office -  then download and copy and paste into documents to be shared.
 // On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca -->
 
-For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggest that Th asks the facilitator Mick for help to resolve the coding blockage.
+For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
 
 
 |**Dialogue**|**Activity**|
@@ -1056,7 +1056,7 @@ THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - 
 
 ### Discussion on Personal Focus
 
-NOTE - Sumarise this and shift to another section. 
+NOTE - Sumarise this and shift to another section.
 
 The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
 In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
