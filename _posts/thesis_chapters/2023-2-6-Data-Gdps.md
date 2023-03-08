@@ -433,13 +433,13 @@ In addition to the propagation of main game design patterns, sub patterns and re
 
 GDPs allow participants to share and explore their home funds on knowledge in the emerging learning community.  
 
-In the previous chapter the ability for participants to bring home funds of knowledge into the new learning community was explored in relation to the use of graphical assets and game narratives. In the previous examples we can see a similar process.
+In the previous chapter the ability for participants to bring home funds of knowledge into the new learning community was explored in relation to the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping..
 
     Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
     Te: Er not really.
     Ch: Or seen it?
 
-The process of watching Te self test his game exposes the dominant game experience of timed jumping. Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
+ Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
 
 Ch is makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community. While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help.
 
@@ -481,8 +481,6 @@ Da speech show desire to for the pair to try something new to step outside of th
     Honestly, it's just it's just my hobby and I love it is the main reason. In fact, it's probably the only reason. If I can, if I can persuade / cajole / trick my kids into being involved at the same time, then that's even better. Personally, I think that's about it. I've always been interested in computers. I love, I love, I love programming. I'm no good at pencils and pens drawing or anything like that. But writing software is the closest I get to a creative outlet. So I just love doing that.  
 
 Given this perspective, I interpret the desire to divert as a way of embracing a creative challenge and bringing his child along for the ride.
-
-
 
 However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
 
@@ -542,6 +540,8 @@ The interactions with grandparents on a previous iteration are much less directe
 
 The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources.
 
+
+
 **Regarding code fork / paradigm change...**
 Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
 
@@ -560,8 +560,6 @@ In interview data De notes his approach involves consciously not taking on the k
 This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview.
 
 
-#### Discussion and Transition
-
 The potential tension here between walled garden and the wild west turned up by google searches is over come by the professional experiences of the parent.
 
 The choice to divert is made possible by Da's expertise.
@@ -575,6 +573,7 @@ These two examples stem from the wider cultural experiences and practices of the
 
 TRANSITION -
 While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
+
 In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 ## The use of GDPs examined from an interpersonal focus
