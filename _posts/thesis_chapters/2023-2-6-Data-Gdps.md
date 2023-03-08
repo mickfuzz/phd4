@@ -9,84 +9,52 @@ layout: post
 categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
+
 -   [Introduction to This Writing](#introduction-to-this-writing)
 -   [Chapter introduction](#chapter-introduction)
 -   [Study of Vignette A](#study-of-vignette-a)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
-        -   [TO INTEGRATE - Sustaining Engagement: Parental prompts
-            aligned with ideation
-            stages](#to-integrate---sustaining-engagement-parental-prompts-aligned-with-ideation-stages)
 -   [Cultural, Interpersonal & Personal Planes Analysis of use of
     GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
--   [Use of GDPs explored from a cultural
-    focus](#use-of-gdps-explored-from-a-cultural-focus)
+-   [The use of GDPs explored from a cultural
+    focus](#the-use-of-gdps-explored-from-a-cultural-focus)
     -   [GDPs and the emergence of gameplay concepts and practices
         through
         Playtesting](#gdps-and-the-emergence-of-gameplay-concepts-and-practices-through-playtesting)
-        -   [Use of evolving GDP terminology to faciliate community
-            participation (more like direct
-            help?)](#use-of-evolving-gdp-terminology-to-faciliate-community-participation-more-like-direct-help)
-        -   [Developing a language in informal feedback to direct
-            modification of
-            games](#developing-a-language-in-informal-feedback-to-direct-modification-of-games)
-        -   [Other examples of emerging concepts /
-            practices](#other-examples-of-emerging-concepts-practices)
     -   [GDPs propagation through peer activity leading from
         Playtesting](#gdps-propagation-through-peer-activity-leading-from-playtesting)
     -   [GDP used to allow exploration of home funds of
         knowledge](#gdp-used-to-allow-exploration-of-home-funds-of-knowledge)
-    -   [Use of Help and Documentation related to
-        GDP](#use-of-help-and-documentation-related-to-gdp)
-        -   [Use of simple code examples which demonstrate the pattern
-            in
-            isolation](#use-of-simple-code-examples-which-demonstrate-the-pattern-in-isolation)
-        -   [Example of use of professional practices of diverging from
-            codebases accessing professional
-            documentation](#example-of-use-of-professional-practices-of-diverging-from-codebases-accessing-professional-documentation)
-        -   [Discussion and Transition](#discussion-and-transition)
+    -   [GDPs and the role of documentation and supporting
+        resources](#gdps-and-the-role-of-documentation-and-supporting-resources)
 -   [The use of GDPs examined from an interpersonal
     focus](#the-use-of-gdps-examined-from-an-interpersonal-focus)
-    -   [GDPs for prioritisation and division of
-        labour](#gdps-for-prioritisation-and-division-of-labour)
-        -   [GDPs to help Direct task delegation and sustaining
-            participation](#gdps-to-help-direct-task-delegation-and-sustaining-participation)
+    -   [GDPs used to facilitate
+        prioritisation](#gdps-used-to-facilitate-prioritisation)
+    -   [GDPs aiding the process of division of
+        labour](#gdps-aiding-the-process-of-division-of-labour)
     -   [GDPs supporting ideation
         processes](#gdps-supporting-ideation-processes)
-        -   [Paper prototyping](#paper-prototyping)
-        -   [Other ideation methods supported
-            GDPs](#other-ideation-methods-supported-gdps)
     -   [GDPs facilitating designing for
         others](#gdps-facilitating-designing-for-others)
-        -   [Vignette A](#vignette-a)
-        -   [Other examples and interpretation on designing for others /
-            shifts of
-            perspective](#other-examples-and-interpretation-on-designing-for-others-shifts-of-perspective)
     -   [GDP driving adoption of technical
         processes](#gdp-driving-adoption-of-technical-processes)
--   [GDPs and the personal plane](#gdps-and-the-personal-plane)
+-   [The use of GDPs explored from a personal
+    focus](#the-use-of-gdps-explored-from-a-personal-focus)
     -   [GDPs used to support debugging and the product revision
         process](#gdps-used-to-support-debugging-and-the-product-revision-process)
-    -   [Use of GDP when demonstrating personal understandings in
-        community
-        activity](#use-of-gdp-when-demonstrating-personal-understandings-in-community-activity)
-    -   [GDP as a way to surface Computational Thinking and Systems
-        Concepts](#gdp-as-a-way-to-surface-computational-thinking-and-systems-concepts)
-        -   [CTs emerging in the wild.](#cts-emerging-in-the-wild.)
-    -   [Discussion on Personal Focus](#discussion-on-personal-focus)
+    -   [GDPs as a way to surface and discuss Computational Thinking and
+        Systems
+        Concepts](#gdps-as-a-way-to-surface-and-discuss-computational-thinking-and-systems-concepts)
+    -   [Use of GDPs in personal dimensions of community
+        participation](#use-of-gdps-in-personal-dimensions-of-community-participation)
 -   [Additional Chapter Discussion](#additional-chapter-discussion)
     -   [Game design patterns as a "middle level" construct to
         facilitate developing coding
         competency](#game-design-patterns-as-a-middle-level-construct-to-facilitate-developing-coding-competency)
-        -   [GDP as concrete enough to be understandable but abstract
-            enough to be
-            replicable](#gdp-as-concrete-enough-to-be-understandable-but-abstract-enough-to-be-replicable)
     -   [Agency, Autonomy and Walled
         Gardens](#agency-autonomy-and-walled-gardens)
-        -   [Use of restricted set of collated GDP
-            patterns](#use-of-restricted-set-of-collated-gdp-patterns)
-        -   [Breaking out - on the organic evolution of the
-            design](#breaking-out---on-the-organic-evolution-of-the-design)
     -   [Tensions between facilitating agency and norming practices
         (Possible Link to Next
         Chapter)](#tensions-between-facilitating-agency-and-norming-practices-possible-link-to-next-chapter)
@@ -122,41 +90,38 @@ The purpose of this chapter is to explore how the data gathered informs thinking
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 - **New question** - How can learners build agency in an evolving community of game makers?
 
-
-In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept.
-
-This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns (GDPs). The implementation of GDPs as a unit of activity allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
-
-This chapter continues with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
+In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns (GDPs). The implementation of GDPs as a unit of activity allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants. This chapter begins with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
 
 
-<!-- DROP The activity of the focal pair is then compared to activity of other groupings and individuals. -->
-<!-- The predominant analytical lens used in the chapter is that of interpersonal activity, specifically in the form of guided participation in this game making community .  -->
-
-<!-- ADDITIONAL COMMENT ON UTILITY / HOW THIS ADDS TO EXISTING RESEARCH -->
-<!-- ## Other Documents -->
-
+<!-- ## Other Documents
+NOTE MOVE THESE TO THE RELEVANT CHAPTERS SOON
+-->
 <!-- This chapter builds towards a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+
 Also the RQ questions which answered
 https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
+
 And the coding structure here   
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit# -->
-
 
 
 ## Study of Vignette A
 
 To begin more detailed study of participant interactions taken from video recordings I use vignette to give a snapshot of the interactions of one family.
 
-
 <!--
-//keep as table with images - online or open office -  then download and copy and paste into documents to be shared.
-// On line version is here - https://docs.google.com/document/d/1B7kFl5QsGV -oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit#heading=h.4rwirct7hqca -->
+// On line version is here
+https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit
+
+-->
 
 For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
 
 
+
+
+<!--
 |**Dialogue**|**Activity**|
 |:----|:----|
 |S: You can ask him for help again if you want.|S is using laptop. T is nearby|
@@ -203,7 +168,7 @@ For the previous five minutes the parent and child dyad have faced a blockage of
 |T: You’ll see!|
 | |
 |T: Ah yes| |
-| | |
+| | |continues
 |S: What are you.. Ah you’re making a platform. I see.|T starts to add x’s to replace the spaces she has deleted|
 | | |
 |T: See!| |
@@ -243,7 +208,11 @@ For the previous five minutes the parent and child dyad have faced a blockage of
 |T: I think so| |
 |S: OK so our the door for the second level goes back to first level and we want it to go to the third level presumably| |
 |T: Yes (laughs) Yes. Why could that be? That’s silly| |
-|S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.|
+|S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.| -->
+
+
+
+
 
 <!--
 #### Summary Commentary on Annotation and Content of Vignette
@@ -289,8 +258,6 @@ For both parent and child there is an explicit awareness of game making patterns
 
 Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a desire to play against game conventions with a desire to confuse or disorient players.
 
-<!--NOTE
- (my interpretation based on another extract explored later?) -->
 
 <!-- Drop tool use here - not specifically GDPs
  One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
@@ -316,14 +283,9 @@ The adult is building proficiency in coding practice. This is shown in a variety
 The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
 
 
-
-
 <!--
-
 #### TO INTEGRATE - Sustaining Engagement: Parental prompts aligned with ideation stages
-
-
- The parent navigates this process skilfully and is able to incorporate the child's interests.
+The parent navigates this process skilfully and is able to incorporate the child's interests.
 
 The parent struggles to implement quite ambitious code challenges that she takes on but signals clearly when the process returns to ask / imagine stage. The completion of a coding task  
   indicating that she is aware of the greater possibility for effective child input at this stage.
@@ -527,7 +489,7 @@ Article on intangibility of game feel.
 
 
 
-### Use of Help and Documentation related to GDP
+### GDPs and the role of documentation and supporting resources
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
 **Participants draw on their cultural experience and access to supporting resources and processes at home and from work contexts to guide interactions with others.**
@@ -535,8 +497,6 @@ Article on intangibility of game feel.
 A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 
 #### Use of simple code examples which demonstrate the pattern in isolation
-
-
 DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
 
 Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
@@ -1008,7 +968,27 @@ As per debugging.
 However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 
 
-### Use of GDP when demonstrating personal understandings in community activity
+### GDPs as a way to surface and discuss Computational Thinking and Systems Concepts
+
+While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process. In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from teh participants drives to implement particular patterns.   
+
+#### CTs emerging in the wild.
+
+There are several examples of CT arising in the wild without being explicitly taught. Here the focus is on Wing's narrower take rather than including general practices.
+
+**Decomposition:** in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+
+**Abstraction:** This concept can be concretely taught using the code structure of functions - There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
+
+**Generalisation / Pattern recognition:** Present in the work of Te to find patterns and to duplicate them in different situations. 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+<!--
+ Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down -->
+
+**Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital importance.  
+
+THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - ADD THIS IN?
+
+### Use of GDPs in personal dimensions of community participation
 
 When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
 
@@ -1032,29 +1012,7 @@ FIND THIS EXCERPT  -->
 The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
 -->
 
-
-### GDP as a way to surface Computational Thinking and Systems Concepts
-
-While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process. In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from teh participants drives to implement particular patterns.   
-
-#### CTs emerging in the wild.
-
-There are several examples of CT arising in the wild without being explicitly taught. Here the focus is on Wing's narrower take rather than including general practices.
-
-**Decomposition:** in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
-
-**Abstraction:** This concept can be concretely taught using the code structure of functions - There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
-
-**Generalisation / Pattern recognition:** Present in the work of Te to find patterns and to duplicate them in different situations. 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
-<!--
- Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down -->
-
-**Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital importance.  
-
-THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - ADD THIS IN?
-
-
-### Discussion on Personal Focus
+**Discussion on Personal Focus**
 
 NOTE - Sumarise this and shift to another section.
 
