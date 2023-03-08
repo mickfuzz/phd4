@@ -312,7 +312,9 @@ NOTE - Preceeding To follow shifts in perspectives bound up in designing for oth
 
 This section explores what other shifts in design practices
 
-**Alternating coding**
+
+
+#### Alternating coding
 
 Sh and Th
 The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
@@ -320,12 +322,26 @@ The parent cedes the keyboard and mouse and sometimes swaps chairs to allow chil
 This follows a pattern of X   
 
 
-**Shifting between Facilitator and more active partner**
+#### **Shifting between Facilitator and more active partner**
 
 At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
 
 Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
 Perhaps in the field of participatory design.
+
+
+#### **Rapid prototyping**
+
+As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
+
+- Well suited to build a repeated design practice.
+- Especially with starting documents,
+- Small changes had big effects.
+- Variable changes needed immediate testing.  
+
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+
+A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
 

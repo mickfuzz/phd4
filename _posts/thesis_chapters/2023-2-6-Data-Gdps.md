@@ -731,15 +731,13 @@ It is of value to explore during which design stages is the child is most active
  Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
 
 
-
-
 ### GDPs supporting ideation processes
+
+The design chapter explored the tension between reduced choice of genre of game,  
 
 The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
 
-This was welcome show by Ma's comment.
-"It did go on for too long."
-
+<!-- The reduction on the length of the course was welcome show by Ma's comment. "It did go on for too long." -->
 
 #### Paper prototyping
 
@@ -775,9 +773,9 @@ These kinds of shifts of activity and cultural practices brought by the particip
 
 #### Other ideation methods supported  GDPs
 
-Exploring the granular and grokkable nature of GDPs
+**Exploring the granular and grokkable nature of GDPs**
 
-Another example of ideation helped by GDPs is the following featuring Te and Da  - 10-15 mins transcribe in more detail.
+Another example of ideation helped by GDPs is the following example which shows Te and Da are creating a new tilemap for a maze game. Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.
 
     They thinking of a feature – wrap around like Pac-man
     Da – Yeah we can do that. Save that for version 1.1
@@ -786,9 +784,18 @@ Another example of ideation helped by GDPs is the following featuring Te and Da 
     Da – sketch it on paper?
     Te – I’m just going with it.
 
-Changes in GDP are apparent in the emerging game,   
+As aligned with the learning design principle of rapid feedback, changes in the code which Te is altering to impact on the new design pattern of a top down game, are immediately apparent in the preview window.
 
-In the example above where Te and Da are creating a new tilemap for a maze game, Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.  
+As such, Te does not feel the need to prototype on paper. GDPs if well designed can be accessible in this grokkable way.
+
+The term grok is used here to indicate an embodied, intuative understanding that mirrors the concept of deep learning. https://en.wikipedia.org/wiki/Grok
+
+Repeated practice is an important part of this process.
+
+Other examples of grokking concepts?
+
+<!--
+NOTE - IS THIS ALREADY COVERED IN PREVIOUS CHAPTER - COMPLEX DESIGN PROCESSES? ()
 
 - Well suited to build a repeated design practice.
 - Especially with starting documents,
@@ -797,7 +804,7 @@ In the example above where Te and Da are creating a new tilemap for a maze game,
 
 While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
 
-A later discussion section in this chapter illustrates a more complex interaction with design stages.
+A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
 ### GDPs facilitating designing for others
 
@@ -833,8 +840,6 @@ Shifts can be described as shifting between levels of activity if viewing activi
 There are different levels of designing for others. One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward.
 
 We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour. Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
-
-FIND RESEARCH TO SUPPORT
 
 I also propose that the use of GDP as a unit of activity may help  the overall process of design for others by providing the FOLLOWING
 
@@ -895,7 +900,6 @@ In this interaction the parent is focused on completing the action of creating a
 
 While the final an operation for some participants it would be a more conscious process, for others it has become second nature.
 
-
 Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on.
 Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
 
@@ -920,14 +924,11 @@ her role in the community can be explored here.
 
 #### Other examples of GDP driving adoption of technical processes
 
-
 There are many other examples of processes being driven by desire to adopt an new GDP or more frequently to make frequent alterations to one that has a significant impact on player experience.
 
 A fluid navigation to the relevant area of code to make key changes, especially level design is shown in vignette A by Sh.
 
 A similar fluidity of navigation between playing and coding window shown by all younger participants and many adults.
-
-
 
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
@@ -1168,7 +1169,7 @@ Agency was
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game.
 
-### Tensions between facilitating agency and norming practices (Possible Link to Next Chapter)
+### Tensions between facilitating agency and norming practices
 
 This chapter has explored the use of game design patterns by participants to aid the development of their game making practices. Participants are able to use the affordances of the existing learning design and add their own evolving practice to them as a way of expressing and building agency. Examples of this dynamic agency include the use of graphical code structures, asking for peer or facilitator support etc.
 

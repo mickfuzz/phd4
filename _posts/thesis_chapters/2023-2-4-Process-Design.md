@@ -22,9 +22,8 @@ title: Process: Emerging Learning Design
 - Evolution of learning design in stages
 - Emergence of GDP as core unit of activity
   - Activity, actions & operations
-
 - Analysis of Tensions in design and how this guided Evolution
-
+  - Menu of GDPs and starting template speeded up ideation process but restricted scope of creativity  
 
   - Where to put physical maps section?
 
@@ -371,6 +370,10 @@ Connecting arcade buttons to the computer via simple electronics is a project wh
 
 
 
+**Online resources vs Print outs**
+Also a tension of moving online with resources, via having them available in the class.
+Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
+
 
 ## Evolving design of Support Materials and Documentation
 
@@ -659,3 +662,12 @@ A much more collaborative online map which showed other peoples progress would b
 Also a tension of moving online with resources, via having them available in the class.
 
 Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
+
+
+
+
+## List of appendices for this chapter
+
+### Tensions of the 3M design evolution
+
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
