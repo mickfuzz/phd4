@@ -468,15 +468,13 @@ Code examples were initially the starting resource. The idea being it was quick 
 
 The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
 
-in 2019-03-18 - 7.50 onwards.
+in 2019-03-18-te -
 
-6.00-8.00: Te begins the main part of this session by playtesting his game. Piskel and documentation tabs are already loaded onto his screen as part of the setting up process by facilitator. 
-8.00: Te tries different tabs on the browser until he find the grapich
+Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
-
-
-
-FIND the transcript in 2019-03-18
+ALSO
+FIND the transcript in 2019-05-
+Te tries to find code example for a top down game.
 
 
 
