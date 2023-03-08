@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
-
 -   [Introduction to This Writing](#introduction-to-this-writing)
 -   [Chapter introduction](#chapter-introduction)
 -   [Study of Vignette A](#study-of-vignette-a)
@@ -36,10 +35,12 @@ title: Findings Chapter 2 - It’s like a project in itself really
         labour](#gdps-aiding-the-process-of-division-of-labour)
     -   [GDPs supporting ideation
         processes](#gdps-supporting-ideation-processes)
+    -   [Use of evolving GDP terminology to facilitate working
+        practices](#use-of-evolving-gdp-terminology-to-facilitate-working-practices)
     -   [GDPs facilitating designing for
         others](#gdps-facilitating-designing-for-others)
-    -   [GDP driving adoption of technical
-        processes](#gdp-driving-adoption-of-technical-processes)
+    -   [GDP driving adoption of emerging technical
+        processes](#gdp-driving-adoption-of-emerging-technical-processes)
 -   [The use of GDPs explored from a personal
     focus](#the-use-of-gdps-explored-from-a-personal-focus)
     -   [GDPs used to support debugging and the product revision
@@ -55,9 +56,8 @@ title: Findings Chapter 2 - It’s like a project in itself really
         competency](#game-design-patterns-as-a-middle-level-construct-to-facilitate-developing-coding-competency)
     -   [Agency, Autonomy and Walled
         Gardens](#agency-autonomy-and-walled-gardens)
-    -   [Tensions between facilitating agency and norming practices
-        (Possible Link to Next
-        Chapter)](#tensions-between-facilitating-agency-and-norming-practices-possible-link-to-next-chapter)
+    -   [Tensions between facilitating agency and norming
+        practices](#tensions-between-facilitating-agency-and-norming-practices)
 
 
 ## Introduction to This Writing
@@ -117,9 +117,6 @@ https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/
 -->
 
 For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
-
-
-
 
 <!--
 |**Dialogue**|**Activity**|
@@ -311,40 +308,6 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!--  NOTE - DROp? This section will explore the particular role of GDPs within the process of x
  using an example about one of the core GDP of the platform game, that of jumping. -->
 
-#### Use of evolving GDP terminology to faciliate community participation (more like direct help?)
-
-**Language which has been introduced facilitator interventions is then modified and used organically through community interaction.**
-
-The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
-
-The parent Mi and her daughter Ne, the mother wants to export an image from the graphical editing tool and to import this into the game.
-
-    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
-    Ne – Gold coins.
-    Mi - Right so, What are you doing? Do you know what you are doing?
-    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
-    Mi: Poop Ping? (alarmed) What are you doing? What's poop ping.
-    Where's my spaceman?
-    Ne: Wait! What do you want the aliens as?
-    Mi: The hazards.
-    Mi: Yaaay!
-    Mi: And now the rocket thing as the like you know the good thing - the reward.
-    Ne: Who wants a rocket for their reward?
-    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
-    Ne: It's a very violent game.
-    Mi: What?
-    Ne: It's a very violent game.  
-
-As background information on this pair, the mother's focus has been on creating graphics and has expressed prid in this her growing expertise in this area.
-
-The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter "Do you even know what export means?".
-
-In any case this enables a more technical and critical discussion between them. "Who wants a rocket for their reward?"
-
-Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
-
-Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
-
 
 #### Developing a language in informal feedback to direct modification of games
 
@@ -427,6 +390,7 @@ FIND THE EXAMPLE BEFORE DEVELOPING.
 For example the emergence of the concept of safe zone in the game of Ch and Pa -
 The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
 
+
 ### GDPs propagation through peer activity leading from Playtesting
 
 The implementation of similar GDP by participant groups and individuals often spread through peer activity that often emerged from play testing.
@@ -463,6 +427,8 @@ Another examples of propagating patterns include placing hazards in tricky place
 
 While the example above shows a fully peer implementation with a request and direct support happening between peers, another common patterns of propagation was to notice and comment on a key dynamic in a game during playtesting, for example a health bar,and then to locate supporting resources to implement that pattern.
 
+In addition to the propagation of main game design patterns, sub patterns and related design concepts emerged organically from the community. The concept of safe zone in the game of Ch and Pa arrived as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
+
 ### GDP used to allow exploration of home funds of knowledge
 
 GDPs allow participants to share and explore their home funds on knowledge in the emerging learning community.  
@@ -487,8 +453,6 @@ Article on intangibility of game feel.
 
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
-
-
 ### GDPs and the role of documentation and supporting resources
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
@@ -497,11 +461,24 @@ Article on intangibility of game feel.
 A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 
 #### Use of simple code examples which demonstrate the pattern in isolation
-DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER)
+
+<!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
 
 Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
 
-FIND the transcript
+The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
+
+in 2019-03-18 - 7.50 onwards.
+
+6.00-8.00: Te begins the main part of this session by playtesting his game. Piskel and documentation tabs are already loaded onto his screen as part of the setting up process by facilitator. 
+8.00: Te tries different tabs on the browser until he find the grapich
+
+
+
+
+FIND the transcript in 2019-03-18
+
+
 
 #### Example of use of professional practices of diverging from codebases accessing professional documentation
 
@@ -638,8 +615,6 @@ Father describes previous behaviour as 'skipping around like that' or 'jumping a
 ### GDPs aiding the process of division of labour
 
 To continue this exchange, as the parent begins to be overwhelmed by the process of following documentation, an informal division of labour suggested by the child.
-
-
 
     Ma: Quite complicated. But we can do it. But it would mean a lot of mucking around
     Fi: Ah Er
@@ -806,6 +781,39 @@ While the design suits repeated design practice as illustrated by the example ab
 
 A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
+### Use of evolving GDP terminology to facilitate working practices
+
+**Language which has been introduced facilitator interventions is then modified and used organically through community interaction.**
+
+The following example shows a patchy but evolving use of some of the terminology that has been introduced partly by facilitator interventions and partly emerging organically through community interaction.
+
+As background information on this pair, the mother's focus has been on creating graphics and has expressed pride in this her growing expertise in this area.
+
+The mother wants to export an image from the graphical editing tool and to import this into the game.
+
+    Mi: Right so I don't want this rocket here. I want the rocket to be the yellow thingie.
+    Ne – Gold coins.
+    Mi - Right so, What are you doing? Do you know what you are doing?
+    I want the aliens to be the hazard, the rockets to be the gold coins and the spaceman to be the character.
+    Mi: Poop Ping? (alarmed) What are you doing? What's poop ping.
+    Where's my spaceman?
+    Ne: Wait! What do you want the aliens as?
+    Mi: The hazards.
+    Mi: Yaaay!
+    Mi: And now the rocket thing as the like you know the good thing - the reward.
+    Ne: Who wants a rocket for their reward?
+    Mi: Because if a spaceman gets to a rocket he can get home. But if he doesn't then the aliens get him.
+    Ne: It's a very violent game.
+    Mi: What?
+    Ne: It's a very violent game.  
+
+
+The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter about her use of technical language. "Do you even know what export means?". Ne also appears to enjoy using the language and norms of game culture to tease her mother. "Who wants a rocket for their reward?" Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
+
+
+
+
+
 ### GDPs facilitating designing for others
 
 As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
@@ -852,9 +860,9 @@ Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
 NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
 
-### GDP driving adoption of technical processes
+### GDP driving adoption of emerging technical processes
 
-The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP.
+The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on.  
 
 Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in accessing documentation.
 
@@ -864,6 +872,7 @@ DIRECTION of DA TO TE IN USE OF DOCS
 
 Sometimes technical processes are shown more implicitly in more casual help interactions.
 
+Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
     Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
     Mi asks for help from partner but receives misleading advice which does not help her progress.
@@ -923,6 +932,19 @@ her role in the community can be explored here.
 
 
 #### Other examples of GDP driving adoption of technical processes
+
+References to such emerging practices driven by GDPs were present in many exchanges during directed playtesting and pair interactions.
+
+In a previous example Fi commented on Mi's
+
+    Fi gives advice about tidying up the sprite outlines.
+    Fi – for people with background like yours You can use the “cramping tool””
+    Ma and Fi – then explain – SEE THEIR RECORDING
+    So that the background is clearer.
+
+While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
+
+FIND THE EXAMPLE BEFORE DEVELOPING
 
 There are many other examples of processes being driven by desire to adopt an new GDP or more frequently to make frequent alterations to one that has a significant impact on player experience.
 

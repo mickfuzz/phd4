@@ -24,10 +24,12 @@
         labour](#gdps-aiding-the-process-of-division-of-labour)
     -   [GDPs supporting ideation
         processes](#gdps-supporting-ideation-processes)
+    -   [Use of evolving GDP terminology to facilitate working
+        practices](#use-of-evolving-gdp-terminology-to-facilitate-working-practices)
     -   [GDPs facilitating designing for
         others](#gdps-facilitating-designing-for-others)
-    -   [GDP driving adoption of technical
-        processes](#gdp-driving-adoption-of-technical-processes)
+    -   [GDP driving adoption of emerging technical
+        processes](#gdp-driving-adoption-of-emerging-technical-processes)
 -   [The use of GDPs explored from a personal
     focus](#the-use-of-gdps-explored-from-a-personal-focus)
     -   [GDPs used to support debugging and the product revision
@@ -43,6 +45,5 @@
         competency](#game-design-patterns-as-a-middle-level-construct-to-facilitate-developing-coding-competency)
     -   [Agency, Autonomy and Walled
         Gardens](#agency-autonomy-and-walled-gardens)
-    -   [Tensions between facilitating agency and norming practices
-        (Possible Link to Next
-        Chapter)](#tensions-between-facilitating-agency-and-norming-practices-possible-link-to-next-chapter)
+    -   [Tensions between facilitating agency and norming
+        practices](#tensions-between-facilitating-agency-and-norming-practices)
