@@ -299,24 +299,20 @@ In the previous chapter the role of cultural activities to engage and sustain en
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
 
-### GDPs and the emergence of gameplay concepts and practices through Playtesting
-
-<!--  NOTE - DROp? This section will explore the particular role of GDPs within the process of x
- using an example about one of the core GDP of the platform game, that of jumping. -->
 
 
-#### Developing a language in informal feedback to direct modification of games
+### Developing a language for informal feedback for peers to influence modification of games
 
 **The concepts of game challenge and game feel evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players.**
 
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies.
-
-In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
 The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on.
 
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about  the relevant game variables. PERHAPS INSERT HOW - SCREEN SHOT?
+Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables.
+
+PERHAPS INSERT HOW - SCREEN SHOT?
 
 In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
 
@@ -328,7 +324,7 @@ Player jump (y) velocity was set very high but left right (x) velocity was slow.
     Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
     Mick: So it look like you bump your head and fall down.
     Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.
+    Mi: Oh right yeah.direct
     Mick: Yeah.
     Mi: Yeah, actually that's a good idea.
     Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
@@ -342,7 +338,8 @@ Ch likes the look of the game and begins with that as a comment.
 
     Ch: It jumps super high but so slow  
     Pause.
-    Mi: He has to go slow because he's an astronaut, you see.    
+    Mi: He has to go slow be### GDPs and the emergence of gameplay concepts and practices through Playtesting
+cause he's an astronaut, you see.    
 
     Ch: It's hard.
     Ch then leaves
@@ -358,38 +355,14 @@ We can see that Mi justifies the game feel of a very high fast jump with a narra
 
 Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating."
 
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation with an offer of help made in return, perhaps as a gesture of no hard feelings after the critique of the game (my speculation).
+In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
 
-The emergence of this emerging community norm of jump feel comes from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game.
+While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in Lit review [@rogoff_cultural_2003].
+EXPAND EITHER HERE OR IN DISCUSSION.
 
-This indirect comments aimed to direct direction of design mirrors some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues [find work]. ( NOTE EXPLORE THIS PREVIOUSLY?)
+### The propagation of use of GDPs and associated practices stemming from playtesting
 
-The players do not, apart from Mi's daughter, tell Mi directly to change the game.
-
-#### Other examples of emerging concepts / practices
-
-References to such emerging concepts and practices were present in many exchanges during directed playtesting and pair interactions.
-
-In the example above after comments on the jump speed Fi continues.
-
-    Fi: How much jump speed to you have?
-    Fi: Your jump speed is massive.
-    Fi gives advice about tidying up the sprite outlines.
-    Fi – for people with background like yours You can use the “cramping tool””
-    Ma and Fi – then explain – SEE THEIR RECORDING
-    So that the background is clearer.
-
-While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
-FIND THE EXAMPLE BEFORE DEVELOPING.
-
-
-For example the emergence of the concept of safe zone in the game of Ch and Pa -
-The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
-
-
-### GDPs propagation through peer activity leading from Playtesting
-
-The implementation of similar GDP by participant groups and individuals often spread through peer activity that often emerged from play testing.
+**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity incorporating or emerging from playtesting.**
 
 For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
 
@@ -411,38 +384,48 @@ For example, the work of the child to add 21 levels to their own game served as 
 
 When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te uses the keyboard completes this work, Ch reads aloud the code which is being typed in by Te.
 
-Exchanges like this allow the propagation of GDPs
-
-The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same.
-
-**Other examples of propagation**
-
-While some participants were diligent and deliberate in their use of documentation, peer propagation was the default mode of adding new GDPs for many of the younger participants able to work independently.
-
-Another examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies, changes to jump dynamics,   
-
-While the example above shows a fully peer implementation with a request and direct support happening between peers, another common patterns of propagation was to notice and comment on a key dynamic in a game during playtesting, for example a health bar,and then to locate supporting resources to implement that pattern.
+Exchanges like this allow the propagation of GDPs. The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example, the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same. The propagation here is emerges from and is completed entirely through peer activity. A different and more common pattern of propagation was that participants notice and comment on a game element or pattern during during playtesting, and then to use supporting resources or facilitator help to implement it. A less frequent pattern involved participants' diligent and deliberate use of supporting resources to identify and implement features without peer influence. Typical examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies and changes to jump dynamics.
 
 In addition to the propagation of main game design patterns, sub patterns and related design concepts emerged organically from the community. The concept of safe zone in the game of Ch and Pa arrived as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
 
-### GDP used to allow exploration of home funds of knowledge
+For example the emergence of the concept of safe zone in the game of Ch and Pa -
+The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
 
-GDPs allow participants to share and explore their home funds on knowledge in the emerging learning community.  
+Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
 
-In the previous chapter the ability for participants to bring home funds of knowledge into the new learning community was explored in relation to the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping..
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
+    Fi gives advice about tidying up the sprite outlines.
+    Fi – for people with background like yours You can use the “cramping tool””
+    Ma and Fi – then explain – SEE THEIR RECORDING
+    So that the background is clearer.
+
+While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
+
+FIND THE EXAMPLE BEFORE DEVELOPING.
+
+
+### GDP used to allow exploration of home and professional funds of knowledge and practices
+
+**GDPs allow participants to share and explore their home funds of knowledge and practices in the emerging learning community.**  
+
+In the previous chapter, the ability for participants to bring home funds of knowledge (as per Lit review) into the new learning community was explored via the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping.
 
     Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
     Te: Er not really.
     Ch: Or seen it?
 
- Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately.
-
-Ch is makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community. While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help.
+Parcour in Minecraft and Wipe out are both  game experiences whose main mechanic is about judging jumps to landing accurately. Ch makes links to his existing experience of games making comparisons between Te's game, commercial games and his own. In doing so Ch is able to show his knowledge and analysis of gameplay patterns to this community. While his motivation is not clear, one interpretation is that Ch could be making this contribution not only to openly share experience but also as a offering in return for his request for help which he has just made.
 
 <!-- In addition to the previous chapters observations....
 ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ... -->
 
 In the following example home funds of knowledge are utilised not only in terms of home experiences of games but also in terms of design and problem solving practices. Da and Te are working closely as a pair. Da invites thinking outside of the constraints of the suggested design early in this first session. The following interaction shows a rich interchange where the parent is trying to draw on the game playing experiences to promote innovation in the design of the existing template.
+
+<!--
+The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources. Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
+-->
+
 
     Da: Have you thought about pushing it a bit further and have a different style of game?
     Te: What do you mean?
@@ -450,8 +433,7 @@ In the following example home funds of knowledge are utilised not only in terms 
     Te: Pause. I don’t know what to do thought.
     Da: Well quite but what other games are there?
 
-Te adopts with this suggestion readily once he understands Da's suggestion in full.
-He approaches Mick with a suggestion.  
+Te adopts with this suggestion readily once he understands Da's suggestion. He then approaches Mick with a suggestion.  
 
     Te: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
     Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
@@ -472,16 +454,13 @@ Mick takes this to a different level by making reference to a key change of code
 NOTE - LINK THIS TO LOA -
 -->
 
-Da speech show desire to for the pair to try something new to step outside of the existing walled garden of choices offered as existing guides. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games). This decision can be triangulated with interview data from Da on the motivation behind his involvement in volunteering at Coder Dojos.  
+Da expresses his desire to for the pair to try something new by implementing a pattern not in the menu of GDPs provided. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games). This decision can be triangulated with interview data from Da on the motivation behind his involvement in volunteering at Coder Dojos.  
 
     Honestly, it's just it's just my hobby and I love it is the main reason. In fact, it's probably the only reason. If I can, if I can persuade / cajole / trick my kids into being involved at the same time, then that's even better. Personally, I think that's about it. I've always been interested in computers. I love, I love, I love programming. I'm no good at pencils and pens drawing or anything like that. But writing software is the closest I get to a creative outlet. So I just love doing that.  
 
-Given this perspective, I interpret the desire to divert as a way of embracing a creative challenge and bringing his child along for the ride.
+Given this additional perspective, I interpret Da's influence to divert as a way of embracing a creative challenge and bringing his child along for the ride. However, Da is also aware of potential challenges of straying too far from the template. He does not want to "mess things up". This tension has a parallel to a professional practice of "forking" code-bases in open-source code communities. The practice of forking can involve taking a code base in a new direction and the benefits of adaption may be out-weighed by disadvantages including the friction involved in splitting an existing community and duplication of effort. The parent checking with a Mick a guiding community member about the advantages and disadvantages of a major fork in the code structure mirrors this professional tension.
 
-However Da is still aware of potential challenges of straying too far from the template. He does not want to "mess things up".
-
-This interaction has a parallel to a professional practice of "forking" code-bases in open-source code communities.
-The parent checking with a guiding community member about the advantages and disadvantages of a major fork in the code structure.
+My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
 <!--
 Article on intangibility of game feel.
@@ -501,17 +480,16 @@ A broader description of the design and use of supporting documentation is explo
 
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.
-
-The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
-
-in 2019-03-18-te -
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants. The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
 
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
 The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
 
-In the next iteration of game making Te works with his father Da. Te
+In the next iteration of game making Te works with his father Da.
+Te
+
+Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
     extract from 2019-05-08 - 20 mins
     Te – Right what shall we add next? So it follows?
@@ -525,47 +503,36 @@ In the next iteration of game making Te works with his father Da. Te
     Da – ah we could google it.
     They google "phaser pacman"
 
-Te looks to
+Te looks to try replicate a previous pattern of work where he scans the provided menu of patterns to
 
-Da's  way of approaching the task is very different from previous example of code patching.
-
-The interactions with grandparents on a previous iteration are much less directed.  
+The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
 
 
-#### Example of use of professional practices of diverging from codebases accessing professional documentation
-
-The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources.
-
+NOTE - INTEGRATE THE FOLLOWING INTO THE EXAMPLE ABOVE. REDUCE DOWN A LOT
+PERHAPS MOVE SOME TO DISCUSSION
 
 
-**Regarding code fork / paradigm change...**
-Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
+#### Example of use of professional practices of accessing professional documentation
 
-My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
+To explore the use of of professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
 
-There are cultural elements here of a family learning culture between these two playing out in this space.
+NEED TO DEVELOP THIS WITH AN EXAMPLE
 
-This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
+<!-- NOTE - dropping pair programming
 
-In this example the father starts as a facilitator, and takes on the direction of the child. However, as the dialogue progresses he is more directive, initially by asking leading questions, testing existing knowledge then when reaching the edge of the childs knowledge via more direct instructions.
-
-This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary).
-
-In interview data De notes his approach involves consciously not taking on the keyboard and mouse use.
-
-This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview.
-
-
-The potential tension here between walled garden and the wild west turned up by google searches is over come by the professional experiences of the parent.
-
-The choice to divert is made possible by Da's expertise.
-It also opens up the possibilities of other pairs to follow this path.
-In a way opening up a new seam of community activity and family of GDPs associated with a maze
-game.
-
-There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
 
 These two examples stem from the wider cultural experiences and practices of the pair's home coding style and the parents experience taking part in professional community coding activities.
+
+There are cultural elements here of a family learning culture between these two playing out in this space. This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
+
+In this example the father starts as a facilitator, and takes on the direction of the child. However, as the dialogue progresses he is more directive, initially by asking leading questions, testing existing knowledge then when reaching the edge of the childs knowledge via more direct instructions. This appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary).
+
+In interview data De notes his approach involves consciously not taking on the keyboard and mouse use.
+This process of active guiding but suggesting and seeking for the right answer appears as intentional from the consistent nature of the interaction and from a supporting interview. The potential tension here between walled garden and the wild west turned up by google searches is over come by the professional experiences of the parent.
+
+In a way opening up a new seam of community activity and family of GDPs associated with a maze
+game. There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
+ -->
 
 TRANSITION -
 While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
@@ -584,8 +551,6 @@ This section examines the use of GDPs to facilitate guided participation via int
 <!-- informal task division -->
 
 The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
-
-
 <!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
 
     M: I’ve brought the music, and also we could just concentrate on one thing and just change that.
@@ -734,7 +699,6 @@ NOTE - RETURN TO THIS IN ANALYSIS OF TADS -
 More on role of parent and child to negotiate approaches which maximise engagement / progress / keep flow .
 
 - Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
-
 - Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
 
 This pattern completion is mirrored in the work of other pairs.
@@ -809,9 +773,6 @@ The mother wants to export an image from the graphical editing tool and to impor
 
 
 The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter about her use of technical language. "Do you even know what export means?". Ne also appears to enjoy using the language and norms of game culture to tease her mother. "Who wants a rocket for their reward?" Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
-
-
-
 
 
 ### GDPs facilitating designing for others
