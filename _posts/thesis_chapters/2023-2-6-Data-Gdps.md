@@ -650,7 +650,6 @@ The parent outlines her strategies used to address lack of reading ability as a 
 
 In this pair, complex tensions emerged between varied goals of activities. Namely to complete the game, to keep the child involved in different parts of the design process. Both the parent and child adopted varied strategies to navigate solutions to these tensions.
 
-
 While the child makes direct delegation they are free to undertake other activities. At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of attention.
 
 At times the parent asked the child to seek help from facilitator.  
