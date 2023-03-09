@@ -7,13 +7,15 @@
     GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
 -   [The use of GDPs explored from a cultural
     focus](#the-use-of-gdps-explored-from-a-cultural-focus)
-    -   [GDPs and the emergence of gameplay concepts and practices
-        through
-        Playtesting](#gdps-and-the-emergence-of-gameplay-concepts-and-practices-through-playtesting)
-    -   [GDPs propagation through peer activity leading from
-        Playtesting](#gdps-propagation-through-peer-activity-leading-from-playtesting)
-    -   [GDP used to allow exploration of home funds of
-        knowledge](#gdp-used-to-allow-exploration-of-home-funds-of-knowledge)
+    -   [Developing a language for informal feedback for peers to
+        influence modification of
+        games](#developing-a-language-for-informal-feedback-for-peers-to-influence-modification-of-games)
+    -   [The propagation of use of GDPs and associated practices
+        stemming from
+        playtesting](#the-propagation-of-use-of-gdps-and-associated-practices-stemming-from-playtesting)
+    -   [GDP used to allow exploration of home and professional funds of
+        knowledge and
+        practices](#gdp-used-to-allow-exploration-of-home-and-professional-funds-of-knowledge-and-practices)
     -   [GDPs and the role of documentation and supporting
         resources](#gdps-and-the-role-of-documentation-and-supporting-resources)
 -   [The use of GDPs examined from an interpersonal
