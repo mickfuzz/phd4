@@ -568,16 +568,23 @@ The following exchange between participants Fi and Ma shows GDPs being used to o
     Long pause
     M: Well I’ll have a look at the code and see if I can make sense of that.
 
-This example shows the use of the approximate names number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune. Patterns and the multiple actions and operations they entail are referred to briefly using short cut names. At this stage of the design some patterns have been imagined and perhaps partly worked on and dis-guarded. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and potential resolution with parental dialogue prioritising work to be done.
+This example shows the use of the approximate names of a number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune. At this stage of their process, some of these patterns have been discussed and sketched out some started but only partially completed. For example, the child has designed different frames of animation but this has not been exported to the right format or implemented in code form. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and a parental motivation to prioritise one work to be done. This tension is outlined when the parent gives an update on progress.  
+
+<!-- Patterns and the multiple actions and operations they entail are referred to briefly using short cut names.   -->
 
     Mick: Hello
     Ma: Hi Mick
-    Ma: So we’ve made quite a lot of progress this week. I think the issue we’re having is that Fi’s super excited so we’re kind of jumping form one thing to another and that’s kinda overwhelming me a bit.
+    Ma: So we’ve made quite a lot of progress this week. I think the issue we’re having is that Fi’s super excited so we’re kind of jumping from one thing to another and that’s kinda overwhelming me a bit.
 
+The father describes previous behaviour as 'skipping around like that' or 'jumping all over the place' (in the above comment to Mick) as unproductive, but reviewing video data shows a more complex picture. While the father seems keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. Ironically, it is the father that becomes distracted from his stated task rather than the child.
 
-Father describes previous behaviour as 'skipping around like that' or 'jumping all over the place' (in the above comment to Mick) as unproductive, but reviewing video data shows a more complex picture. While the father seems keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. Ironically, it is the father that becomes distracted from his stated task rather than the child.
+**Other examples of use of GDPs for prioritisation** can be seen in the following participants.
+TO COME
+Find some more straightforward examples.
 
 ### GDPs aiding the process of division of labour
+
+In the last section,  Fi and Ma used GDPs to try to  prioritise work. They progress to more sucessfully divide their labour informally. 
 
 To continue this exchange, as the parent begins to be overwhelmed by the process of following documentation, an informal division of labour suggested by the child.
 
