@@ -207,10 +207,6 @@ For the previous five minutes the parent and child dyad have faced a blockage of
 |T: Yes (laughs) Yes. Why could that be? That’s silly| |
 |S: I’m just going to go see something.|S dives into the code to try to troubleshoot the problem. T watches for a short while becomes disengaged. She then leaves mother to explore the wider environment of the room and objects within it.| -->
 
-
-
-
-
 <!--
 #### Summary Commentary on Annotation and Content of Vignette
 
