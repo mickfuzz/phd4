@@ -643,6 +643,11 @@ The utterance by the child "Key Door Person"  work on the game design pattern ca
 The parent outlines her strategies used to address lack of reading ability as a barrier to participation. The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.  After the child has delegated a coding task to her mother she undertakes other activities. At times her activities directly contribute to the main goal of game making. At times the parent asked the child to seek help from facilitator. On another occasion when the child appeared bored of waiting for parent to solve a code problem, she approached the facilitator to ask for help on behalf of the adult without prompting. At other times she engages more peripheral activities such as watching older children playtest each others games, or observing community activity from under the table.
 <!-- MORE EXAMPLES  ? -->
 
+<!--
+NOTE - check if this fits
+Once the code for the new game mechanic has been added, the child is guided to take on challenge of making smaller changes that give rapid feedback.  To aid the process the parent navigates to a particular part of the code for child to alter design. The changes the child makes have a large impact on the end users experience.
+ -->
+
 While this activity away from the screen could, in a conventional educational model, be seen an non-productive in a community model of learning this can be interpreted differently. For example as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].  The possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
 
 <!-- COMMENTARY /WITH A FOCUS ON AGENCY -->
@@ -779,27 +784,42 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 As explored previously, playtesing as a regular practice can shift learners designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs.   
 
-In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
+In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter). This interaction shows the use of terms from GDPs to both explain and negociate a conflict over the imagined user experience.
 
-This interaction shows the use of terms from GDPs to help explain the user experience.
+Later Th interacts with one of the student helpers and outlines her motivations in design.
 
-GET THE TRANSCRIPT FROM LATER IN HERE.
+    H1: Have you enjoyed making the game?
+    Th: Yes
+    H1- Has it been a lot of fun
+    Th: Yes and I like making it frustrating. that other people find it frustrating!
 
-Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
+    Th: You’ve nearly got to mine. Mine’s very hard to get to.
+    H1. Is it?
+    Th: You’ll like it when you get to it.
+    H 1: How many levels do you have?
+    Th: Four. Mine’s the last one. And it’s very fun. Do you want to guess about it?
+    H1: Erghm. Is there lots of bikes?
+    Th: Yes guess how many there are?
+    H1: Is it the whole screen?
+    Th: YES! Laughs
+    ...
+    H1: I will get it to your level
+    Th: You seem to not give up. that’s good
+    Th turns and gets hug from mum
+    H1: I got to your level
+    Th: Good! (laughs)
+    Th: It’s a secret, special one.
 
-I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
+Th comments that she wants players to bes frustrated when playing the game and that this is a contrast to final level which has only rewards and no hazards. This being a secret, special experience which plays against the norms of platform game design, thus provoking player surprise and fun.
 
-Once the code for the new game mechanic has been added, the child is guided to take on challenge of making smaller changes that give rapid feedback.  To aid the process the parent navigates to a particular part of the code for child to alter design. The changes the child makes have a large impact on the end users experience.
-
-
-#### Other examples and interpretation on designing for others / shifts of perspective
-
+<!-- #### Other examples and interpretation on designing for others / shifts of perspective
+In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations of additions.
 PRIORITY HIGH
-Find other examples...
+Find other examples... -->
 
-####  Discussion on designing for others
 
-Shifts can be described as shifting between levels of activity if viewing activity through an AT lens that encompasses nested levels of activity systems.
+<!-- Shifts can be described as shifting between levels of activity if viewing activity through an AT lens that encompasses nested levels of activity systems. -->
+REWORD
 
 There are different levels of designing for others. One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward.
 
@@ -815,6 +835,10 @@ I also propose that the use of GDP as a unit of activity may help  the overall p
 Designing for others - as a key perspective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
 NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
+
+#### Other examples and interpretation on designing for others / shifts of perspective
+In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations.
+
 
 ### GDP driving adoption of emerging technical processes
 
