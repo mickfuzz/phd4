@@ -670,7 +670,7 @@ Mi - Oh thank you very much. I'm very proud.
  -->
 
 
-### GDPs supporting ideation processes
+### GDPs used to scaffold ideation processes
 
 The design chapter explored the tension between reduced choice of genre of game. In my journal notes and observations of the games created, I note that the provision of a graphical menu of GDPs significantly decreased in time spend in ideation phase by providing scaffolding and a restriction of choice. Analysis of participant use of the menu as detailed in the documentation section above Te supports this analysis. Other techniques that leveraged the characteristics of game design patterns to support the ideation process emerged in community design activities.
 
@@ -694,9 +694,9 @@ There are other examples of the use of paper prototyping of GDPs being used by p
     Mi: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
     Ma: What for the things that we need to do to it to finish it?
     Mi: Yeah. Oh, just even from the beginning point. How did you plan together as well?
-    Ma: Well we started off on Paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
+    Ma: Well we started off on paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
 
-However later in the interaction, direct sketching in software was outlined.
+Later in the interaction, the parent outlines a different use of prototyping, that of sketching directly into software. For this pair, the child appears to prefer sketching directly into software. The father also appreciates potential problems of translating ideas from paper into a digital format.
 
     Ma: I was very excited by seeing Fi playing with this because it's interesting that everything doesn't have to be a paper and pen.
     It's nice to just for the kids to feel that they can sketch on Piskel straight off the bat without taking a tutorial or being told by an adult.  It's really intuitive and you just go straight into it.
@@ -781,7 +781,7 @@ As explored previously, playtesing as a regular practice can shift learners desi
 
 In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
 
-This interaction shows the use of terms from GDPs to help explain the user experience. 
+This interaction shows the use of terms from GDPs to help explain the user experience.
 
 GET THE TRANSCRIPT FROM LATER IN HERE.
 
