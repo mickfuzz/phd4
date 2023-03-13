@@ -777,29 +777,19 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 ### GDPs facilitating designing for others
 
-While some GDPs facilitate digital or paper sketching as outlined in the previous section, others provoked participants to i
+As explored previously, playtesing as a regular practice can shift learners designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs.   
 
+In the starting vignette of the chapter Th and Sh come into conflict over it. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
 
-GDPs support the proecess of des
+This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs.
 
+GET THE TRANSCRIPT FROM LATER IN HERE. 
 
-In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it. As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
-
-This helps a focus on a noticeable change in game play.  something that others will observe and thus help participants to design for others.
-
-Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
-
+Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
 
 I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
 
-
 Once the code for the new game mechanic has been added, the child is guided to take on challenge of making smaller changes that give rapid feedback.  To aid the process the parent navigates to a particular part of the code for child to alter design. The changes the child makes have a large impact on the end users experience.
-
-The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. “It’s no fun having a game without any hazards to avoid.” The child seems determined to remove all hazards. "It is for me!" the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
-
-This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. This process is repeated by this parent for other patterns in other interactions. In the vignette for example, Sh shares "Must be quite hard to get through that door." when Sh places the exit door high above a platform.  
-
-Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
 
 
 #### Other examples and interpretation on designing for others / shifts of perspective
