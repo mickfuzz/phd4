@@ -310,9 +310,7 @@ In the previous chapter the role of cultural activities to engage and sustain en
 The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on.
-
-Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables.
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on. Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables.
 
 PERHAPS INSERT HOW - SCREEN SHOT?
 
@@ -643,25 +641,17 @@ The utterance by the child "Key Door Person"  work on the game design pattern ca
 
     "Th got on better during the coding once the student who was hovering initially left us alone. Because every time Th hesitated, she jumped in to do it for her. Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
 
-The parent outlines her strategies used to address lack of reading ability as a barrier to participation. The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.
+The parent outlines her strategies used to address lack of reading ability as a barrier to participation. The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.  After the child has delegated a coding task to her mother she undertakes other activities. At times her activities directly contribute to the main goal of game making. At times the parent asked the child to seek help from facilitator. On another occasion when the child appeared bored of waiting for parent to solve a code problem, she approached the facilitator to ask for help on behalf of the adult without prompting. At other times she engages more peripheral activities such as watching older children playtest each others games, or observing community activity from under the table.
+<!-- MORE EXAMPLES  ? -->
+
+While this activity away from the screen could, in a conventional educational model, be seen an non-productive in a community model of learning this can be interpreted differently. For example as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].  The possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
+
+<!-- COMMENTARY /WITH A FOCUS ON AGENCY -->
+
+This arrangement seems mutually suitable for these participants. For this pair, complex tensions emerged between varied goals of activities. Namely to complete the game, to keep the child involved in different parts of the design process. Study of there interactions show woth the parent and child adopting varied strategies to navigate solutions to these tensions.
 
 
-<!-- It is of value to explore during which design stages is the child is most active and engaged. -->
-
-In this pair, complex tensions emerged between varied goals of activities. Namely to complete the game, to keep the child involved in different parts of the design process. Both the parent and child adopted varied strategies to navigate solutions to these tensions.
-
-While the child makes direct delegation they are free to undertake other activities. At certain points in the create stage the parent needs total concentration and is not able to respond effectively to requests of attention.
-
-At times the parent asked the child to seek help from facilitator.  
-
-At another time, when the child was bored waiting for parent debugging, she approached the facilitator to ask for help on behalf of the adult without prompting.  
-
-
-This activity away from the screen could in some models be seen an non-productive. However, in a community model of learning this can be seen as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014]. Indeed while this arrangement seems mutually suitable, the possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
-
-
-NOTE - LINK TO PREVIOUS CHAPTER ON FLEXIBILITY OF DESIGN
-
+<!-- NOTE - LINK TO PREVIOUS CHAPTER ON FLEXIBILITY OF DESIGN -->
 
 **Other examples of division of labour**
 
@@ -681,18 +671,18 @@ Mi - Oh thank you very much. I'm very proud.
  -->
 
 
-
-
 ### GDPs supporting ideation processes
 
-The design chapter explored the tension between reduced choice of genre of game,  
-The provision of the menu of GDPs saw a rapid increase in speed or decrease in time spend in ideation phase.
+The design chapter explored the tension between reduced choice of genre of game. In my journal notes and observations of the games created, I note that the provision of a graphical menu of GDPs significantly decreased in time spend in ideation phase by providing scaffolding and a restriction of choice. Analysis of participant use of the menu as detailed in the documentation section above Te supports this analysis. Other techniques that leveraged the characteristics of game design patterns to support the ideation process emerged in community design activities.
 
 <!-- The reduction on the length of the course was welcome show by Ma's comment. "It did go on for too long." -->
 
-#### Paper prototyping
+The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 
-When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect. In one example the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent then transcribes the design while engaging the child by checking she has interpreted the design correctly.
+
+
+When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect.
+
 
 INSERT CODE EXAMPLE FROM VIGNETTE - TO CLEARLY SHOW GRAPHICAL NATURE OF ARRAY IN CODE
 
@@ -759,16 +749,15 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 ### GDPs facilitating designing for others
 
-As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
-This helps a focus on a noticeable change in game play.  something  that others will observe and thus help participants to design for others.
+In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it. As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
+This helps a focus on a noticeable change in game play.  something that others will observe and thus help participants to design for others.
 
-<!-- AS COMPARED TO WHAT? WHAT WOULDN'T BE NOTICEABLE? -->
+Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
 
-As explored, Playtesing as a regular practice is another way to shift learners into a perspective designing for others. This was explored from a cultural plane previously but the process also was observed in practices in this study and in relevant research (set up for discussion on this)
+
 
 I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
 
-In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it.
 
 Once the code for the new game mechanic has been added, the child is guided to take on challenge of making smaller changes that give rapid feedback.  To aid the process the parent navigates to a particular part of the code for child to alter design. The changes the child makes have a large impact on the end users experience.
 
