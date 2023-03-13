@@ -779,11 +779,11 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 As explored previously, playtesing as a regular practice can shift learners designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs.   
 
-In the starting vignette of the chapter Th and Sh come into conflict over it. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
+In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter).
 
-This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs.
+This interaction shows the use of terms from GDPs to help explain the user experience. 
 
-GET THE TRANSCRIPT FROM LATER IN HERE. 
+GET THE TRANSCRIPT FROM LATER IN HERE.
 
 Th - comments on wanting students to be frustrated when playing it, it's fun - then the final level being a secret fun experience playing against the norms of platform game design, thus illiciting surprise.
 
