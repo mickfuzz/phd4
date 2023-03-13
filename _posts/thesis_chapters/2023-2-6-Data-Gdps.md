@@ -819,7 +819,7 @@ Find other examples... -->
 
 
 <!-- Shifts can be described as shifting between levels of activity if viewing activity through an AT lens that encompasses nested levels of activity systems. -->
-REWORD
+REWORD DISCUSSION 
 
 There are different levels of designing for others. One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward.
 
