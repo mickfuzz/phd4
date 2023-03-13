@@ -823,9 +823,9 @@ REWORD DISCUSSION
 
 There are different levels of designing for others. One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward.
 
-We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience, Latour. Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
+We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience. Other researchers propose that early (all) stages of ask and imagine are more productive when informed by a realistic sense of what the end user experience is.
 
-I also propose that the use of GDP as a unit of activity may help  the overall process of design for others by providing the FOLLOWING
+Do GDPs  the overall process of design for others by providing the FOLLOWING
 
 - discreet and clear goals which are nested in the wider goal of making an engaging game
 - clear terms to use as a lingua-franca during self testing and playtesting.
@@ -907,7 +907,7 @@ As a common example the process of "getting it in the game".
     Mi: I know what export means!
     Ne- Ok then smartie pants.
 
-the ineraction also shows positive affect of child.
+the interaction also shows positive affect of child.
 her role in the community can be explored here.
 
 
