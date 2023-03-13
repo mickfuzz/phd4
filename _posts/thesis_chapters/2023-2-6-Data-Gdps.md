@@ -64,8 +64,7 @@ title: Findings Chapter 2 - It’s like a project in itself really
 
 ## Introduction to This Writing
 
- While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. Other emerging chapters are online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
-
+While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. Other emerging chapters are online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
 
 To help the reader understand the data in this chapter the following notes on methods/ methodology are included.
 
@@ -676,28 +675,24 @@ Mi - Oh thank you very much. I'm very proud.
 The design chapter explored the tension between reduced choice of genre of game. In my journal notes and observations of the games created, I note that the provision of a graphical menu of GDPs significantly decreased in time spend in ideation phase by providing scaffolding and a restriction of choice. Analysis of participant use of the menu as detailed in the documentation section above Te supports this analysis. Other techniques that leveraged the characteristics of game design patterns to support the ideation process emerged in community design activities.
 
 <!-- The reduction on the length of the course was welcome show by Ma's comment. "It did go on for too long." -->
-
 The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 
+![](./Pictures/vign_a_1.png)
+![Graphical representation of code]({{ site.baseurl }}/Pictures/vign_a_1.png)
 
 
-When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect. The use of varied tools and practices are a contributing factor to this effect.
+The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
 
 
-INSERT CODE EXAMPLE FROM VIGNETTE - TO CLEARLY SHOW GRAPHICAL NATURE OF ARRAY IN CODE
-
-The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper.
-The parent, when faced with a blockage,
-
-and the process of turning that into reality on the screen and sharing with others is transformative in terms of energy level and interaction during the course of the session.
-
-NOTE - RETURN TO THIS IN ANALYSIS OF TADS -
-
-<!-- - in planning stages the parent provides scaffolding to help the child. -->
-
+<!-- NOTE - RETURN TO THIS IN ANALYSIS OF TADS - -->
+<!-- - in planning stages the parent provides scaffolding to help the child.
+When GDP was completed and participant or pair move to a new phase there is evidence of a reenergising effect.
 More on role of parent and child to negotiate approaches which maximise engagement / progress / keep flow .
+Somethinkg about more direct link between code and output. - as with block coding - this is an intermediate step.
+-->
 
-- Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
+There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their childrens. When invited to share about their design process in a post session interview, Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
+
 - Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
 
 This pattern completion is mirrored in the work of other pairs.
@@ -753,7 +748,6 @@ In the starting vignette of the chapter both Th and Sh imagine the user experien
 This helps a focus on a noticeable change in game play.  something that others will observe and thus help participants to design for others.
 
 Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
-
 
 
 I found many examples of pair partners and peers nudging others into imagining others user experience to suggest game design alterations of additions.
