@@ -805,7 +805,7 @@ Later Th interacts with one of the student helpers and outlines her motivations 
     ...
     H1: I will get it to your level
     Th: You seem to not give up. that’s good
-    Th turns and gets hug from mum
+    Th turns away to get a hug from her mother.
     H1: I got to your level
     Th: Good! (laughs)
     Th: It’s a secret, special one.
@@ -819,7 +819,7 @@ Find other examples... -->
 
 
 <!-- Shifts can be described as shifting between levels of activity if viewing activity through an AT lens that encompasses nested levels of activity systems. -->
-REWORD DISCUSSION 
+REWORD DISCUSSION
 
 There are different levels of designing for others. One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward.
 
@@ -915,12 +915,29 @@ her role in the community can be explored here.
 
 References to such emerging practices driven by GDPs were present in many exchanges during directed playtesting and pair interactions.
 
-In a previous example Fi commented on Mi's
+In a previous example Fi commented on Mi's game in terms of giving feedback on the jump speed. He goes on to recommend a way to remove extra space at the edges of sprite design.
 
-    Fi gives advice about tidying up the sprite outlines.
-    Fi – for people with background like yours You can use the “cramping tool””
-    Ma and Fi – then explain – SEE THEIR RECORDING
-    So that the background is clearer.
+    Fi – for people with background like yours You can use the cramping tool.
+
+Fi leads Mi to his workstation and involves his father in the process.
+
+    Ma: Show what? What are we doing?
+    Fi: On this one it’s like this.
+    Mi: Oh that’s good how did you do that?
+    Fi: The cramping tool. (laughs nervously)
+    Ma: The what?
+    Fi: What… Is it cramping? (gestures with hands as scrunching / clutching motion)
+    Ma: For doing what? What did we do? I don’t know what we’ve done.
+    Fi: People have used the whole block.
+    Ma: Oh yeah. We’ve just cropped it. So it’s got no border around it. So you don’t set things off when you get really close to them.
+    Mi: Aaaah. I see yes. Cos the corners actually could have. (makes a small square gesture with fingers)
+    Ma: In Piskel. You can crop it to the sprite  - cause it take that area too. (gestures – draws a large square with hands – then gestures to the edges). You approach an enemy if you’re close to it, it’ll trigger it.
+    Mi: ‘cause, sometimes you think how am I just sitting on this ledge here?
+    Ma: And you’re floating?
+    Mi: Yeah. Yeah that’s what’s happening. So..
+    Ma: So you can put you’re sprite back in again and you can crop it down.
+
+
 
 While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
 
