@@ -670,7 +670,7 @@ Mi - Oh thank you very much. I'm very proud.
  -->
 
 
-### GDPs supporting ideation processes
+### GDPs used to scaffold ideation processes
 
 The design chapter explored the tension between reduced choice of genre of game. In my journal notes and observations of the games created, I note that the provision of a graphical menu of GDPs significantly decreased in time spend in ideation phase by providing scaffolding and a restriction of choice. Analysis of participant use of the menu as detailed in the documentation section above Te supports this analysis. Other techniques that leveraged the characteristics of game design patterns to support the ideation process emerged in community design activities.
 
@@ -696,14 +696,16 @@ There are other examples of the use of paper prototyping of GDPs being used by p
     Mi: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
     Ma: What for the things that we need to do to it to finish it?
     Mi: Yeah. Oh, just even from the beginning point. How did you plan together as well?
-    Ma: Well we started off on Paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
+    Ma: Well we started off on paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
 
-However later in the interaction, direct sketching in sofware was outlined. 
+Later in the interaction, the parent outlines a different use of prototyping, that of sketching directly into software.
 
+     Ma: insert example here.
 
+For this pair, the child appears to prefer sketching directly into software. The father also appreciates potential problems of translating ideas from paper into a digital format.
 
-
-- Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
+Another pair Te and De echo this interaction
+ Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
 
 This pattern completion is mirrored in the work of other pairs.
 
