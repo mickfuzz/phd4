@@ -680,9 +680,7 @@ The use of paper prototypes was one technique used by several parents to support
 ![](./Pictures/vign_a_1.png)
 ![Graphical representation of code]({{ site.baseurl }}/Pictures/vign_a_1.png)
 
-
 The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
-
 
 <!-- NOTE - RETURN TO THIS IN ANALYSIS OF TADS - -->
 <!-- - in planning stages the parent provides scaffolding to help the child.
@@ -698,19 +696,44 @@ There are other examples of the use of paper prototyping of GDPs being used by p
     Mi: Yeah. Oh, just even from the beginning point. How did you plan together as well?
     Ma: Well we started off on Paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
 
-However later in the interaction, direct sketching in sofware was outlined. 
+However later in the interaction, direct sketching in software was outlined.
+
+    Ma: I was very excited by seeing Fi playing with this because it's interesting that everything doesn't have to be a paper and pen.
+    It's nice to just for the kids to feel that they can sketch on Piskel straight off the bat without taking a tutorial or being told by an adult.  It's really intuitive and you just go straight into it.
+
+    Mi: That's an interesting thing because in some ways it started off with people working on paper because I thought that would be really accessible. Yeah. And maybe it was through observations of people just going “Do you know what I’m just happy sketching on Piskel”.
+    Ma: (Animatedly) The kids, all the kids I saw not just Fi.
+    Mi: Digital sketching.
+    Ma: Yeah.
+    Mi: It seemed to have little value in that you were just doing it in the same format that you would use for the game.
+
+    Ma:   Yeah. I think it's really important. I think the pencil and pen thing just didn't work did it. We sketched... It's got its place. But it's, the kids weren't that interested in using the graph paper to block out Piskel. It didn't translate. It was just easier to block it out straight in software.
+
+A similar sentiment is expressed by another pair as use the they ideation helped by GDPs is the following example which shows Te and Da are creating a new tilemap for a maze game. Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.
+
+    Te: Oo. Shall we try to make it (unintelligible). Cos in pac man you can go off the edge.
+    Da: and you wrap round the other way?
+    Da:Yeah, yeah. We can do that. Save that for version 1.1
+    Da: What’s the theme? What are you drawing?
+    Te: What? I’m trying to make like a pac-man type thing.
+    Da: Alright. What if you sketched it on paper first? Or have you got it in your head?
+    Te: I’m just kinda going for it it. (laughs)
+    Da: Ok go for it, see what you get up to.
+    Te: I’ll leave a hole there.
+
+As aligned with the learning design principle of rapid feedback, changes in the code which Te is altering to impact on the new design pattern of a top down game, are immediately apparent in the preview window. As such, Te does not feel the need to prototype on paper.
+
+**Other examples of GPDs helping the ideation process (and discussion?):**
+
+To come.
+NOTE - are there.
+
+In summary, some GDPs allow the spacial exploration of design in a way that suits being mapped onto paper, or onto graphical software which allows for a similar sketching experience.  
 
 
-
-
-- Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
-
-This pattern completion is mirrored in the work of other pairs.
-
-Thus replicating is a kind of participation in an emerging community.
-There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed.
-
-These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved.
+<!-- This pattern completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
+There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed. -->
+<!-- These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved. -->
 
 <!--
 NOTE - IS THIS ALREADY COVERED IN PREVIOUS CHAPTER - COMPLEX DESIGN PROCESSES? ()
@@ -724,7 +747,7 @@ While the design suits repeated design practice as illustrated by the example ab
 
 A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
-### Use of evolving GDP terminology to facilitate working practices
+<!-- ### Use of evolving GDP terminology to facilitate working practices - IS THERE ENOUGH HERE FOR A WHOLE SECTION?
 
 **Language which has been introduced facilitator interventions is then modified and used organically through community interaction.**
 
@@ -750,11 +773,18 @@ The mother wants to export an image from the graphical editing tool and to impor
     Mi: What?
     Ne: It's a very violent game.  
 
-The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter about her use of technical language. "Do you even know what export means?". Ne also appears to enjoy using the language and norms of game culture to tease her mother. "Who wants a rocket for their reward?" Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players.
+The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter about her use of technical language. "Do you even know what export means?". Ne also appears to enjoy using the language and norms of game culture to tease her mother. "Who wants a rocket for their reward?" Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players. -->
 
 ### GDPs facilitating designing for others
 
+While some GDPs facilitate digital or paper sketching as outlined in the previous section, others provoked participants to i
+
+
+GDPs support the proecess of des
+
+
 In the starting vignette of the chapter both Th and Sh imagine the user experience and begin a conflict over it. As discussed, one interpretation - the one used here - of GDP focus on recognisable behaviour rather than hidden constructs or code patterns.
+
 This helps a focus on a noticeable change in game play.  something that others will observe and thus help participants to design for others.
 
 Playtesing as a regular practice is another way to shift learners into a perspective designing for others.
@@ -1078,18 +1108,7 @@ As per last chapter but develop in relation to GDPs -->
 
 **Exploring the grokkable nature of GDPs**
 
-Another example of ideation helped by GDPs is the following example which shows Te and Da are creating a new tilemap for a maze game. Te is able to map existing knowledge of tools and home knowledge of the kid of game he is imagining to rapidly make revisions.
-
-    They thinking of a feature – wrap around like Pac-man
-    Da – Yeah we can do that. Save that for version 1.1
-
-    Da – what’s the theme
-    Da – sketch it on paper?
-    Te – I’m just going with it.
-
-As aligned with the learning design principle of rapid feedback, changes in the code which Te is altering to impact on the new design pattern of a top down game, are immediately apparent in the preview window.
-
-As such, Te does not feel the need to prototype on paper. GDPs if well designed can be accessible in this grokkable way.
+ GDPs if well designed can be accessible in this grokkable way.
 The term grok is used here to indicate an embodied, intuitive understanding that mirrors the concept of deep learning. https://en.wikipedia.org/wiki/Grok
 
 Repeated practice is an important part of this process.
