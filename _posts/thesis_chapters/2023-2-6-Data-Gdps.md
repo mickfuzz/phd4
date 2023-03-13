@@ -691,7 +691,17 @@ More on role of parent and child to negotiate approaches which maximise engageme
 Somethinkg about more direct link between code and output. - as with block coding - this is an intermediate step.
 -->
 
-There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their childrens. When invited to share about their design process in a post session interview, Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data.
+There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their childrens. When invited to share about their design process in a post session interview, Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Ma prompts
+
+    Mi: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
+    Ma: What for the things that we need to do to it to finish it?
+    Mi: Yeah. Oh, just even from the beginning point. How did you plan together as well?
+    Ma: Well we started off on Paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
+
+However later in the interaction, direct sketching in sofware was outlined. 
+
+
+
 
 - Da - invites move to paper but Te happy to work on the screen for immediate feedback. keeping flow going.
 

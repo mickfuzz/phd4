@@ -470,6 +470,34 @@ The source of Pa's hesitancy to share more is not clear. However her willingness
 
 Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
 
+
+    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing. 
+    Ma - Oh, definitely. Yeah.
+    Mi: Let's ask Fi that as well.
+    Ma: Yeah.
+    Mi: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
+    Fi: Yeah. The Fireman.
+    Ma: Yeah, well, tell us about that game. Tell about your interests and stuff?
+    FI: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
+    ....
+    Ma: What is your aspiration for your life?
+    Fi: I wanna be a fireman.
+    Ma: On a...
+    Fa: Train.
+    Ma: Steam train.
+    ...
+    Fi: I really like trains, since like I was very, very young.
+
+    Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
+    Ma: I think it excited you to have to build a fireman sprite? Is that right?
+    Fi: Yeah?
+    Ma: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
+    Fi:  Yeah.
+    Ma: Because the whole theme of it. Just I know just you're eyes lit up when you realised you could expand your interests into gaming.
+
+
+
+
 In an interview exchange this pair
 NOTE ADD IN EXCHANGE FROM INTERVIEW ABOUT INCOPORATING INTERESTS Fi and Ma
 
