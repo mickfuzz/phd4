@@ -65,14 +65,14 @@ title: Findings Chapter 2 - It’s like a project in itself really
 
 While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. Other emerging chapters are online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
 
-To help the reader understand the data in this chapter the following notes on methods/ methodology are included.
+To help the reader understand the data in this chapter the following notes on indicative content of other chapters are included.
 
 - Introduction: Research landscape to develop coding and design practices in line with social understandings of learning. In particular, the intentional development of a communities of designers and coders with an educational aims has been explored paying particular attention strategies that educators can use to aid these processes.
 - The study uses mixed methods in methodology. Informed by analysis of journal diary, notes, video data and interviews (Methodology)
 - The research design evolved as the game making program was underway based on feedback and reactions of the participants (supported precedent in design-based research) (Methodology)
 - A long pilot course and development stage resulted in extensive support materials and activities which I have structured into a learning design called 3M (Methodology + see recent chapter on 3M model)
 - Game making is based on remixing code from an existing incomplete game template (half-baked games & scratch community processes) (Literature review and Design)
-- A narrow data samples has been used for this study. This prioritises a greater depth of analysis on interactions over generalisation. This is justified in a section on data validity in Methdology chpater.  
+- A narrow data samples has been used for this study. This prioritises a greater depth of analysis on interactions over generalisation. This is justified in a section on data validity in methodology chapter.  
 - Results chapters use Rogoff's 3 planes of analysis (Cultural, Interpersonal and Personal) which aligns well with AT (Methodology)
 - The concepts of resolving tensions within activity from Activity Theory are used to explore the evolution of the design of activities and resources. (Design results)
 - The working definition of game design patterns (GDPs) is explored in the literature review and enhanced in the design chapter is augmented with analysis of specific examples of their use by participants in practice.
@@ -87,10 +87,13 @@ To help the reader understand the data in this chapter the following notes on me
 The purpose of this chapter is to explore how the data gathered informs thinking on two research questions of this study.  
 
 - How can game design patterns support the development of coding practices by novices?
-- How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 - **New question** - How can learners build agency in an evolving community of game makers?
+- How can the experience of fostering community focused digital game making practices inform wider practice in this area? (begun here but mostly in next / discussion chapter)
 
-In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns (GDPs). The implementation of GDPs as a unit of activity allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern. In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants. This chapter begins with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
+In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns (GDPs). In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants. This chapter begins with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data. The chapter then focuses on the use of game design patterns by participants in these interactions and then in reference to  cultural, interpersonal and personal planes of activity. Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
+
+<!-- In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept.  The implementation of GDPs as a unit of activity allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern.  -->
+
 
 
 <!-- ## Other Documents
@@ -954,7 +957,67 @@ A similar fluidity of navigation between playing and coding window shown by all 
 
 ## The use of GDPs explored from a personal focus
 
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here. In this section the processes of personal appropriation of experience and knowledge emerging from game making are examined closely in relation to participants experience of GDPs.
+
+Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
+
+In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. This section also explores these tensions in broad strokes in relation to participants experience of GDPs as well as a more focused look at the practice of debugging and product revision.
+
+### Use of GDPs in personal dimensions of community participation
+
+When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others. The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
+
+This chapters' examples  of interaction of the participants shows the delevopment of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation.
+
+When I consult my journal, there is a ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract curriculum-based knowledge.
+
+My concern hinged on the potential disorientation of the learner that imposed shifts of focus/scope may provoke.
+
+Learners
+
+For example metacognitive activities could be developed to link completion of each GDP with a reflective activity to expressly explore CT and systems.
+
+In AT the change of activity is a shift in scope of activity system.
+Different AT scopes allow for different use of volitional TADS. Different affordences are presented.
+
+
+Instead, learners should take charge,
+Also when directing attention back on track GDPs is more linked to main mission
+Although the full picture is more nuanced.
+
+
+<!--
+ Elements that may resurface here.
+
+#### Expression of evolution of practices
+#### Expression of evolution of practices
+-->
+
+<!-- #### Expression of evolution of practices
+Increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
+**Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
+
+We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.  
+using language afforded by GDPs?
+
+HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
+FIND THIS EXCERPT  -->
+<!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
+The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
+
+**Discussion on Personal Focus**
+
+NOTE - Sumarise this and shift to another section.
+Probably Discussion
+
+The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
+In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
+
+My work on a learning dimensions framework for this intervention was driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
+
+
+
+-->
+
 
 <!-- NOTE - REMOVE THIS. INCORPORATE HERE?
 The personal plane is explored in a following chapter (working title Maps).
@@ -1007,51 +1070,6 @@ There are several examples of CT arising in the wild without being explicitly ta
 
 THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - ADD THIS IN?
 
-### Use of GDPs in personal dimensions of community participation
-
-When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
-
-The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
-
-In a previous section we examined GDPs used to build emerging community activity.
-Here I focus on the demonstration of individuals of the growth in use of practices & concepts.
-
-NOTE TRY TO USE ALREADY EXISITNG EXAMPLES - AND REFRAME
-
-<!-- #### Expression of evolution of practices
-Increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
-**Example - 2019-03-18 - Sh & Th in the same session as Vignette A.**
-
-We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.  
-using language afforded by GDPs?
-
-HERE INCLUDE  excerpt -  1.05 - Looking for Th using GDP language - as well ask drawing on other home interests.
-FIND THIS EXCERPT  -->
-<!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
-The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
--->
-
-**Discussion on Personal Focus**
-
-NOTE - Sumarise this and shift to another section.
-
-The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
-In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
-
-My work on a learning dimensions framework for this intervention was driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
-
-
-In AT the change of activity is a shift in scope of activity system.
-Different AT scopes allow for different use of volitional TADS. Different affordences are presented.
-
-For example metacognitive activities could be developed to link completion of each GDP with a reflective activity to expressly explore CT and systems.
-
-When I consult my journal, there is a ongoing reluctance to shift learners and to focus on more abstract knowledge.
-I propose that imposed shifts of focus/scope may be disorientating to the learner.
-
-Instead, learners should take charge,
-Also when directing attention back on track GDPs is more linked to main mission
-Although the full picture is more nuanced.
 <!--
 NOTE - REINTEGRATE IF USEFUL
 QUICK SUMMARY - MOVE TO DISCUSSION
