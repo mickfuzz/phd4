@@ -1109,7 +1109,11 @@ In addition, the use of code playground abstracts away complexities of a develop
 See notes here
 https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
 
-In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques [@dearden_pattern_2006]. The idea of middle level construct is also present in the research of eriksson and colleagues using GDP to collaboratively design games with young people. [-@eriksson_using_2019]
+In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques [@dearden_pattern_2006].
+
+    In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
+
+ The idea of middle level construct is also present in the research of eriksson and colleagues using GDP to collaboratively design games with young people. [-@eriksson_using_2019]
 
 The concept of levels abstraction can also be applied to our analysis of the game making practices with AT concepts.
  - most abstract - Activity - making an engaging game
