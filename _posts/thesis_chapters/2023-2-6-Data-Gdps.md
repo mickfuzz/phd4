@@ -1083,7 +1083,7 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 <!-- A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research.  -->
 
-### Game design patterns as a "middle level" construct to facilitate developing coding fluency
+### Game design patterns as a intermediate-level construct to facilitate developing coding fluency
 
 <!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure.
 -->
@@ -1109,20 +1109,27 @@ In addition, the use of code playground abstracts away complexities of a develop
 See notes here
 https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
 
-In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques [@dearden_pattern_2006].
+In professional coding programmes design patterns, particularly in object-oriented approaches and in the domains HCI are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
 
     In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
 
- The idea of middle level construct is also present in the research of eriksson and colleagues using GDP to collaboratively design games with young people. [-@eriksson_using_2019]
+In their research Eriksson and colleagues on using gameplay design patterns to collaboratively design games with young people [-@eriksson_using_2019] draw inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by [@barendregt_intermediate-level_2018].
 
+
+LINK TO WILENSKYS' DEFINITION OF ABSTRACT AS UNFAMILIAR.
 The concept of levels abstraction can also be applied to our analysis of the game making practices with AT concepts.
  - most abstract - Activity - making an engaging game
  - most abstract - Action  - choosing a GDP
  - most concrete - Operation - enacting in code
 
+In this framework, previously abstract concepts or processes become concrete through familiarisation via repeated use. hared design short cuts like "get it in the game" stand in for previously tricky to complete set of actions.  
 
-The observations of this chapter show the advantages of GDP as a tangible, middle level unit of activity=to help not only the creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
 
+The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to
+
+The benefits and challenges can be summarised below.
+
+The creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
 
 
 #### GDP as concrete enough to be understandable but abstract enough to be replicable
