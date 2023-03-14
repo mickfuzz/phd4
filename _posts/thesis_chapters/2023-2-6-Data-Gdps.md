@@ -1011,27 +1011,33 @@ May need a way to differential this chapters discussion of GDP - and that of the
 
 ### Use of GDPs to support debugging and the product revision process
 
-Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data
-This rapid revision was often a solo effort. This process showed a personal appropriation of concepts like game feel and challenge.
+Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. (NOTE - I may be able to extract this from coding data).
 
-Certain debugging practices that were transmitted through interaction with the facilitator that were adopted and use.
-MIRRORING TECHNICAL PROCESSES
+In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and use.
+
+
+<!-- Unlike many processes however these techniques did not propagate  -->
+**Building fluidity of process.**
+
+This process showed a personal appropriation of concepts like game feel and challenge.
+
+The use of these tools and processes are introduced to solve a particular problem in implementing one GDP.
+
+However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
+
+
+
 
 In addition, the debugging tools which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The process of repeating the process of using the debugging tools and process builds fluidity.
 
+
 **Reflection on debugging:**
 
-The experience of debugging appears to be a particular practice evoking certain feelings.
-frustration and elation
+The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration and elation
 
-As I build proficiency as a facilitator I began to identify different kinds of errors emerging.
+As I build proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of
 
-**Building fluidity on process.**
 
-The use of these tools and processes are introduced to solve a particular problem in implementing one GDP.
-As per debugging.
-
-However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 
 ### GDPs as a way to surface and discuss Computational Thinking and Systems Concepts
 

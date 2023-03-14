@@ -255,7 +255,7 @@ Glitch errors can be productive.
 **Productive in exploring code / creating new game opportunites**
 An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
 
-**Productive in in **
+**Productive in in**
 
 - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
 
@@ -471,7 +471,7 @@ The source of Pa's hesitancy to share more is not clear. However her willingness
 Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
 
 
-    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing. 
+    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
     Ma - Oh, definitely. Yeah.
     Mi: Let's ask Fi that as well.
     Ma: Yeah.
