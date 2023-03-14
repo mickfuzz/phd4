@@ -35,10 +35,10 @@ title: Findings Chapter 2 - It’s like a project in itself really
         prioritisation](#gdps-used-to-facilitate-prioritisation)
     -   [GDPs aiding the process of division of
         labour](#gdps-aiding-the-process-of-division-of-labour)
-    -   [GDPs supporting ideation
-        processes](#gdps-supporting-ideation-processes)
-    -   [Use of evolving GDP terminology to facilitate working
-        practices](#use-of-evolving-gdp-terminology-to-facilitate-working-practices)
+    -   [GDPs aiding the process of division of
+        labour](#gdps-aiding-the-process-of-division-of-labour-1)
+    -   [GDPs used to scaffold ideation
+        processes](#gdps-used-to-scaffold-ideation-processes)
     -   [GDPs facilitating designing for
         others](#gdps-facilitating-designing-for-others)
     -   [GDP driving adoption of emerging technical
@@ -60,7 +60,6 @@ title: Findings Chapter 2 - It’s like a project in itself really
         Gardens](#agency-autonomy-and-walled-gardens)
     -   [Tensions between facilitating agency and norming
         practices](#tensions-between-facilitating-agency-and-norming-practices)
-
 
 ## Introduction to This Writing
 
@@ -709,7 +708,7 @@ Later in the interaction, the parent outlines a different use of prototyping, th
     Ma: (Animatedly) The kids, all the kids I saw not just Fi.
     Mi: Digital sketching.
     Ma: Yeah.
-    Mi: It seemed to have little value in that you were just doing it in the same format that you would use for the game.
+    Mi: It seemed to have value in that you were just doing it in the same format that you would use for the game.
 
     Ma:   Yeah. I think it's really important. I think the pencil and pen thing just didn't work did it. We sketched... It's got its place. But it's, the kids weren't that interested in using the graph paper to block out Piskel. It didn't translate. It was just easier to block it out straight in software.
 
@@ -717,7 +716,8 @@ A similar sentiment is expressed by another pair as use the they ideation helped
 
     Te: Oo. Shall we try to make it (unintelligible). Cos in pac man you can go off the edge.
     Da: and you wrap round the other way?
-    Da:Yeah, yeah. We can do that. Save that for version 1.1
+    Da: Yeah, yeah. We can do that. Save that for version 1.1
+    Te continues making changes to the code design.
     Da: What’s the theme? What are you drawing?
     Te: What? I’m trying to make like a pac-man type thing.
     Da: Alright. What if you sketched it on paper first? Or have you got it in your head?
@@ -729,10 +729,12 @@ As aligned with the learning design principle of rapid feedback, changes in the 
 
 **Other examples and discussion of GPDs helping the ideation process**
 
-To come.
+Other examples or To come.
 NOTE - are there.
 
 In summary, some GDPs allow the spacial exploration of design in a way that suits being mapped onto paper, or onto graphical software which allows for a similar sketching experience.  
+
+
 
 <!-- This pattern completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed. -->
@@ -1083,6 +1085,14 @@ In the introduction of this thesis I highlighted some of the challenges for incl
 In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
 To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
+
+An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
+"Abstraction level as a reflection of the so-called processobject duality"
+
+In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective.
+
+- In the process of using sketching of GDPs of level design, the use of a graphical representation of a programmatic construct combined with the use of code playground that updated immediately allowed a fluid and rapid interchange between the  
+
 <!-- See notes here
 https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
 
@@ -1093,7 +1103,9 @@ The concept of levels abstraction can also be applied to our analysis of the gam
  - most abstract - Action  - choosing a GDP
  - most concrete - Operation - enacting in code
 
-The observations of this chapter show the advantages of GDP as a tangible, middle level unit of activity to help not only the creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
+
+The observations of this chapter show the advantages of GDP as a tangible, middle level unit of activity=to help not only the creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
+
 
 
 #### GDP as concrete enough to be understandable but abstract enough to be replicable

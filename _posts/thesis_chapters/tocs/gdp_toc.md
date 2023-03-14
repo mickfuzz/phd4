@@ -24,10 +24,10 @@
         prioritisation](#gdps-used-to-facilitate-prioritisation)
     -   [GDPs aiding the process of division of
         labour](#gdps-aiding-the-process-of-division-of-labour)
-    -   [GDPs supporting ideation
-        processes](#gdps-supporting-ideation-processes)
-    -   [Use of evolving GDP terminology to facilitate working
-        practices](#use-of-evolving-gdp-terminology-to-facilitate-working-practices)
+    -   [GDPs aiding the process of division of
+        labour](#gdps-aiding-the-process-of-division-of-labour-1)
+    -   [GDPs used to scaffold ideation
+        processes](#gdps-used-to-scaffold-ideation-processes)
     -   [GDPs facilitating designing for
         others](#gdps-facilitating-designing-for-others)
     -   [GDP driving adoption of emerging technical
