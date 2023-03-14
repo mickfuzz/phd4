@@ -960,29 +960,8 @@ A similar fluidity of navigation between playing and coding window shown by all 
 
 Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
-In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. This section also explores these tensions in broad strokes in relation to participants experience of GDPs as well as a more focused look at the practice of debugging and product revision.
+This chapters' examples of interaction of the participants shows the development of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation. This section explore participants experience of GDPs from a personal focus and in particular an examination of and practices of debugging and product revision.
 
-### Use of GDPs in personal dimensions of community participation
-
-When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others. The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
-
-This chapters' examples  of interaction of the participants shows the delevopment of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation.
-
-When I consult my journal, there is a ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract curriculum-based knowledge.
-
-My concern hinged on the potential disorientation of the learner that imposed shifts of focus/scope may provoke.
-
-Learners
-
-For example metacognitive activities could be developed to link completion of each GDP with a reflective activity to expressly explore CT and systems.
-
-In AT the change of activity is a shift in scope of activity system.
-Different AT scopes allow for different use of volitional TADS. Different affordences are presented.
-
-
-Instead, learners should take charge,
-Also when directing attention back on track GDPs is more linked to main mission
-Although the full picture is more nuanced.
 
 
 <!--
@@ -1030,17 +1009,22 @@ May need a way to differential this chapters discussion of GDP - and that of the
 <!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
 
 
-### GDPs used to support debugging and the product revision process
+### Use of GDPs to support debugging and the product revision process
 
-Participants spend much time improve, test and fix smaller coding errors in their games. This rapid revision is often as solo effort. This process showed a personal appropriation of concepts like game feel and challenge.
+Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data
+This rapid revision was often a solo effort. This process showed a personal appropriation of concepts like game feel and challenge.
 
-From video data I identified certain coding practices that were transmitted through interaction with the facilitator that this parent is quick to adopt and use. For example the use of the project documentation website. In addition, the debugging tools which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The process of repeating the process of using the debugging tools and process builds fluidity.
+Certain debugging practices that were transmitted through interaction with the facilitator that were adopted and use.
+MIRRORING TECHNICAL PROCESSES
+
+In addition, the debugging tools which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The process of repeating the process of using the debugging tools and process builds fluidity.
 
 **Reflection on debugging:**
 
 The experience of debugging appears to be a particular practice evoking certain feelings.
 frustration and elation
-See kinds of errors ??
+
+As I build proficiency as a facilitator I began to identify different kinds of errors emerging.
 
 **Building fluidity on process.**
 
@@ -1048,7 +1032,6 @@ The use of these tools and processes are introduced to solve a particular proble
 As per debugging.
 
 However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
-
 
 ### GDPs as a way to surface and discuss Computational Thinking and Systems Concepts
 
@@ -1069,6 +1052,25 @@ There are several examples of CT arising in the wild without being explicitly ta
 **Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital importance.  
 
 THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - ADD THIS IN?
+
+
+
+### Use of GDPs in personal dimensions of community participation
+
+In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
+
+My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP. In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
+
+In this respect, it is of value to examine the learning context and the motivations of the learners both children and adults. In formal schooling setting the requirements of teaching to a curriculum and exam.
+
+Different AT scopes allow for different use of volitional TADS. Different affordences are presented.
+Instead, learners should take charge,
+Also when directing attention back on track GDPs is more linked to main mission
+Although the full picture is more nuanced.
+
+When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others. The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
+
+
 
 <!--
 NOTE - REINTEGRATE IF USEFUL
