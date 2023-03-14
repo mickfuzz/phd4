@@ -1042,8 +1042,6 @@ _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper 
 LINK
 The process of abstraction is present in a tacit way in the process of actions becoming operations.
 
-
-
 ### Use of GDPs in personal dimensions of community participation
 
 In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
@@ -1085,11 +1083,18 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 <!-- A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research.  -->
 
-### Game design patterns as a "middle level" construct to facilitate developing coding competency
+### Game design patterns as a "middle level" construct to facilitate developing coding fluency
 
 <!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure.
 -->
-In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a prescriptive approach to Computational Thinking. We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+
+**Summary:** Game design patterns provide learners with a suitable vehicle to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
+
+#### The challenge of context
+
+In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a approach to computational thinking from first principles . 
+
+We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
 In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
