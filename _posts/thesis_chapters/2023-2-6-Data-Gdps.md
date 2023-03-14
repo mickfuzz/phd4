@@ -1026,16 +1026,11 @@ The use of these tools and processes are introduced to solve a particular proble
 However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 
 
-
-
-In addition, the debugging tools which the parent notices the facilitator using in this interaction is used by the parent in later sessions. The process of repeating the process of using the debugging tools and process builds fluidity.
-
-
 **Reflection on debugging:**
 
 The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration and elation
 
-As I build proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of
+As I build proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour 
 
 
 
