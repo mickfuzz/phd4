@@ -957,12 +957,9 @@ A similar fluidity of navigation between playing and coding window shown by all 
 
 ## The use of GDPs explored from a personal focus
 
-
-Personal knowledge and practices are harder to observe in the video data of mostly pair interaction. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
+In line with conventional schooling approaches, computing education in formal settings has large focus on the acquisition and testing of personal knowledge and skills. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
 This chapters' examples of interaction of the participants shows the development of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation. This section explore participants experience of GDPs from a personal focus and in particular an examination of and practices of debugging and product revision.
-
-
 
 <!--
  Elements that may resurface here.
@@ -992,12 +989,7 @@ The process of being able to map the demonstrations of development of understand
 In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
 
 My work on a learning dimensions framework for this intervention was driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
-
-
-
 -->
-
-
 <!-- NOTE - REMOVE THIS. INCORPORATE HERE?
 The personal plane is explored in a following chapter (working title Maps).
 This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
@@ -1013,46 +1005,42 @@ May need a way to differential this chapters discussion of GDP - and that of the
 
 Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. (NOTE - I may be able to extract this from coding data).
 
-In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and use.
+In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug Javascript errors or the process of hovering over red dots in the code playground to explore error messages.
+PERHAPS PULL UP DETAILS OF DEBUGGING.
 
+In the area of product revision the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge.
 
-<!-- Unlike many processes however these techniques did not propagate  -->
-**Building fluidity of process.**
+The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern.
 
-This process showed a personal appropriation of concepts like game feel and challenge.
+The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
 
-The use of these tools and processes are introduced to solve a particular problem in implementing one GDP.
-
-However the same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, the parent shows an evolution of problem solving knowledge and processes in relation to coding through their independent work.
-
-
-**Reflection on debugging:**
-
-The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration and elation
-
-As I build proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour 
-
+<!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
+CAN i FIND ANY KEY EXAMPLES OF THIS?
+-->
 
 
 ### GDPs as a way to surface and discuss Computational Thinking and Systems Concepts
 
-While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process. In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from teh participants drives to implement particular patterns.   
+<!-- While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process.  -->
 
-#### CTs emerging in the wild.
+<!-- In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from the participants drives to implement particular patterns.    -->
 
-There are several examples of CT arising in the wild without being explicitly taught. Here the focus is on Wing's narrower take rather than including general practices.
+As explored in the last section, the implemenation of GDPs and resulting errors can surface computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. Taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
-**Decomposition:** in 2019-05-08-te-da - Da the parent suggests revisions to the agreed overall goal which break a larger problems into more manageable steps. It can be legitimately questioned if this is a specialist skill rather than general good creative practice.
+_Decomposition_ is shown in several of the examples revisions to the agreed overall goal which break a larger problems into more manageable steps. For example Da the parent suggests to his child "Save that for version 1.1".  _Generalisation / pattern recognition_ is present in the work of nearly all participants as The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+_Sequencing / algorithms_  are frequently explored in the resolution of errors with participants. In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing.  
+PERHAPS INCLUDE AS APPENDIX?
 
-**Abstraction:** This concept can be concretely taught using the code structure of functions - There is scope for doing this. In my journal notes and notes following interactions I notice when there is a call for a new function.
-
-**Generalisation / Pattern recognition:** Present in the work of Te to find patterns and to duplicate them in different situations. 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+<!--
+Te to find patterns and to duplicate them in different situations.
+ 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added. -->
 <!--
  Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down -->
 
-**Sequencing / Algorithms:** Sequencing and writing algorithms is one of the most common CT principles explored in research. In interactions with Sh the process of understanding how a bracket places in the wrong place cause such a fuss was of vital importance.  
+_Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination. Abstraction can be taught in an applied way using the code structure of functions. In my journal notes and notes following interactions I notice when there is a call for a new function.
 
-THERE IS A GOOD EXAMPLE OF THIS SH AND MICK INTERACTION - START OF VIGNETTE A - ADD THIS IN?
+LINK
+The process of abstraction is present in a tacit way in the process of actions becoming operations.
 
 
 
