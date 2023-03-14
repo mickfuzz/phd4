@@ -1092,22 +1092,21 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 #### The challenge of context
 
-In the introduction of this thesis I highlighted some of the challenges for inclusivity and motivation of more abstract approaches including a approach to computational thinking from first principles . 
+Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software. While Wing's technical approach to CT has merit [@lodi_computational_2021], I agree with the thrush of their interpretation of challenges for inclusivity and motivation of more abstract approaches including a approach to computational thinking from first principles for novice coders.
 
-We have seen how Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software.  In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
 In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
 To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
-An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
-"Abstraction level as a reflection of the so-called processobject duality"
+<!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
+"Abstraction level as a reflection of the so-called processobject duality" -->
 
-In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective.
-
-- In the process of using sketching of GDPs of level design, the use of a graphical representation of a programmatic construct combined with the use of code playground that updated immediately allowed a fluid and rapid interchange between the  
-
-<!-- See notes here
+In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
+In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output.
+<!--
+See notes here
 https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
 
 In professional coding programmes design patterns, particularly in object-oriented approaches, are seen as a useful middle ground between abstract CT concepts and more concrete techniques [@dearden_pattern_2006]. The idea of middle level construct is also present in the research of eriksson and colleagues using GDP to collaboratively design games with young people. [-@eriksson_using_2019]
