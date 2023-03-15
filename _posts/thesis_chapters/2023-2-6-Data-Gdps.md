@@ -504,7 +504,7 @@ Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1w
     Da – ah we could google it.
     They google "phaser pacman"
 
-Te looks to try replicate a previous pattern of work where he scans the provided menu of patterns to
+In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to
 
 The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
 
@@ -730,10 +730,9 @@ A similar sentiment is expressed by another pair as use the they ideation helped
 
 As aligned with the learning design principle of rapid feedback, changes in the code which Te is altering to impact on the new design pattern of a top down game, are immediately apparent in the preview window. As such, Te does not feel the need to prototype on paper.
 
-**Other examples and discussion of GPDs helping the ideation process**
+**Other examples of GPDs helping the ideation process**
 
-Other examples or To come.
-NOTE - are there.
+The use of GDPs to scaffold the ideation process was a common pattern used by X of the Y sessions analysed.
 
 In summary, some GDPs allow the spacial exploration of design in a way that suits being mapped onto paper, or onto graphical software which allows for a similar sketching experience.  
 
@@ -787,7 +786,7 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 As explored previously, playtesing as a regular practice can shift learners to a perspective of designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs. EXPLAIN.    
 
-In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter). This interaction shows the use of terms from GDPs to both explain and negociate a conflict over the imagined user experience.
+In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter). This interaction shows the use of terms from GDPs to both explain and negotiate a conflict over the imagined user experience.
 
 Later Th interacts with one of the student helpers and outlines her motivations in design.
 
@@ -841,18 +840,9 @@ AND SO?
 #### Other examples and interpretation on designing for others / shifts of perspective
 In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations.
 
-
 ### GDP driving adoption of emerging technical processes
 
-The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on.  
-
-Sometimes very explicitly as a parent explains, facilitates or guides a process, as in the case of Te & Da in accessing documentation.
-
-HERE FIND TE AND DA -
-MORE EXPLICIT GUIDANCE
-DIRECTION of DA TO TE IN USE OF DOCS
-
-Sometimes technical processes are shown more implicitly in more casual help interactions.
+The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on. Sometimes very explicitly as a parent explains, facilitates or guides a process as with Te and Da in the last chapter with documentation. At times technical processes are passed on informally in more casual help interactions.
 
 Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
@@ -901,10 +891,7 @@ As a common example the process of "getting it in the game".
 
     Mi: Do you know how to get it in the game?
     Ne: Oh my god!
-    Mi: Well . First of all save it to the gallery. How do you save it?
-    Ah there you are. Save it.
-    Is it saved?
-    Right now export it.
+    Mi: Well . First of all save it to the gallery. How do you save it? Ah there you are. Save it. Is it saved?   Right now export it.
     Ne: Do you even know what export means?  
     Mi: I know what export means!
     Ne- Ok then smartie pants.
@@ -1077,26 +1064,19 @@ Situation
 
 
 
-## Additional Chapter Discussion
+## Discussion on game design patterns
 
 The majority of this chapter has focused on interpretation of observations of participant interactions. A deeper exploration of concepts is present in the following chapter which synthesises the observations of this study in relation to broader research. The remainder of this chapter begins this process with a closer look at the use of game design patterns as a intermediate design construct to facilitate coding education and at learner agency in relation to the user of GDPs in this data.
 
 <!-- A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research.  -->
 
-### Wall gardens and playgrounds
+### The freedoms and restrictions of playgrounds
 
 The process of creating a learning design where students were able to choose from a curated set of game design patterns is covered in the design chapter of this thesis. In this section the response of users is explored in relation to other research on this areas.
 
-Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976].
+Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention to suit a younger audience Eriksson seeks to reduce the potential for excessive learner choice of the extensive pattern collections  [@bjork_patterns_2005; @dearden_pattern_2006], by The process of curating a restricted set of game design patterns [@eriksson_using_2019]
 
-The process of curating a restricted set of patterns is developed from the work on game design patterns by [bjork]
-
-The pattern collection is reduced to create a smaller collection of in an intervention  to suit a younger audience within a restricted time frame [@eriksson_using_2019]
-
-This reasearch outlines some of the advatangates and challenges of the process. It alternates between the pwerspective of designers and participants.
-
-It is useful to compare the supports and approach of this study with that of the 3M intervention.
-
+It is useful to compare the supports and approach of Eriksson's study with that of the 3M intervention. While  research outlines some of the advantages and challenges of the process. It alternates between the perspective of designers and participants.
 
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
