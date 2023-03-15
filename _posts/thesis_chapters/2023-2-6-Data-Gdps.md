@@ -1012,7 +1012,7 @@ CAN i FIND ANY KEY EXAMPLES OF THIS?
 
 <!-- In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from the participants drives to implement particular patterns.    -->
 
-As explored in the last section, the implemenation of GDPs and resulting errors can surface computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. Taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
+As explored in the last section, the implementation of GDPs and resulting errors can surface computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. Taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
 _Decomposition_ is shown in several of the examples revisions to the agreed overall goal which break a larger problems into more manageable steps. For example Da the parent suggests to his child "Save that for version 1.1".  _Generalisation / pattern recognition_ is present in the work of nearly all participants as The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 _Sequencing / algorithms_  are frequently explored in the resolution of errors with participants. In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing.  
@@ -1026,8 +1026,10 @@ Te to find patterns and to duplicate them in different situations.
 
 _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination. Abstraction can be taught in an applied way using the code structure of functions. In my journal notes and notes following interactions I notice when there is a call for a new function.
 
-LINK
-The process of abstraction is present in a tacit way in the process of actions becoming operations.
+
+
+<!-- LINK
+The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
 
 ### Use of GDPs in personal dimensions of community participation
 
@@ -1074,11 +1076,29 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 The process of creating a learning design where students were able to choose from a curated set of game design patterns is covered in the design chapter of this thesis. In this section the response of users is explored in relation to other research on this areas.
 
-Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention to suit a younger audience Eriksson and colleagues  [@eriksson_using_2019] seek to benefit from the advantages of pattern collections while  reduce the potential for excessive learner choice of the extensive pattern collections [@bjork_patterns_2005; @dearden_pattern_2006], by the process of curating a restricted set of game design patterns. It is useful to compare the supports and approach of Eriksson's study with that of the 3M intervention.
+Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to a collaborative game. It is useful to compare the supports and approach of Eriksson's study with that of the 3M intervention of this study.
 
-The research outlines some of the advantages and challenges of the process the analysis alternates between the perspective of designers and participants.
+A key differences is that while Eriksson's study involved learner analyis of games and co-design of conceptual changes to existing games, it did not involved the learners creating prototypes or finished games using code.  
 
-Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter) or the an unguided process of working on an totally unstructured, project which some learners found unmanageable.
+One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options. Eriksson's study selected 15. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
+
+ <!-- Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter)  -->
+
+In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study.
+
+However the process of selection differed in that in Eriksson's study the authours selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].  In addition the results of their research outlines some of the advantages and challenges of the process the analysis from both the perspective of designers and participants.
+
+For participants, advantages include
+
+For researchers, advantages include 
+
+Because game making is not goal for participants, at times it is not clear exactly the motivation for the participants is in terms of using GDP terms.
+Data is lacking.
+
+<!--
+Wider commentary on pattern selection
+ [@dearden_pattern_2006] -->
+
 
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
@@ -1193,14 +1213,14 @@ There is also evidence that the process of technical processes becoming second n
 <!-- ### Call back to design practices
 As per last chapter but develop in relation to GDPs -->
 <!-- However from the novice designers' perspective, there are elements of patterns involved. -->
-
+<!--
 **Exploring the grokkable nature of GDPs**
 
  GDPs if well designed can be accessible in this grokkable way.
 The term grok is used here to indicate an embodied, intuitive understanding that mirrors the concept of deep learning. https://en.wikipedia.org/wiki/Grok
 
 Repeated practice is an important part of this process.
-Other examples of grokking concepts?
+Other examples of grokking concepts? -->
 
 
 
