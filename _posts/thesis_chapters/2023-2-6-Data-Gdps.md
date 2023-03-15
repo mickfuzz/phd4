@@ -1074,15 +1074,15 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 The process of creating a learning design where students were able to choose from a curated set of game design patterns is covered in the design chapter of this thesis. In this section the response of users is explored in relation to other research on this areas.
 
-Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention to suit a younger audience Eriksson seeks to reduce the potential for excessive learner choice of the extensive pattern collections  [@bjork_patterns_2005; @dearden_pattern_2006], by The process of curating a restricted set of game design patterns [@eriksson_using_2019]
+Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention to suit a younger audience Eriksson and colleagues  [@eriksson_using_2019] seek to benefit from the advantages of pattern collections while  reduce the potential for excessive learner choice of the extensive pattern collections [@bjork_patterns_2005; @dearden_pattern_2006], by the process of curating a restricted set of game design patterns. It is useful to compare the supports and approach of Eriksson's study with that of the 3M intervention.
 
-It is useful to compare the supports and approach of Eriksson's study with that of the 3M intervention. While  research outlines some of the advantages and challenges of the process. It alternates between the perspective of designers and participants.
+The research outlines some of the advantages and challenges of the process the analysis alternates between the perspective of designers and participants.
+
+Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter) or the an unguided process of working on an totally unstructured, project which some learners found unmanageable.
 
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
-- outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
-- compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable
-- but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
+Blockage still occur, and participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
 
 
 **Play testing, playgrounds and a walled garden - impact on agency**
