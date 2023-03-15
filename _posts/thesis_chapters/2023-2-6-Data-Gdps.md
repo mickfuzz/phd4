@@ -1086,7 +1086,7 @@ The majority of this chapter has focused on interpretation of observations of pa
 ### Wall gardens and playgrounds
 
 Restricted set of patterns.
-For designers and then for partipants - Bjork 
+For designers and then for partipants - Bjork
 Play theory - magic circle.
 
 Move towards freedom and agency
@@ -1122,18 +1122,32 @@ but which in with participants have to work with facilitators in depth to overco
 
 The use of GDP by practitioners are compared to those of participants and synergigies are explored.
 
-#### The challenge of context
+#### Problematising the context of abstract / concrete concepts in computing education.
 
-Papert and Turkle celebration of diversity in approaches and in particular concrete coding approaches has influenced the design of popular educational programming software. While Wing's technical approach to CT has merit [@lodi_computational_2021], I agree with the thrush of their interpretation of challenges for inclusivity and motivation of more abstract approaches including a approach to computational thinking from first principles for novice coders.
+The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review).
 
-In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as highlighted in Wing's take on CT. This is not to argue that Wing's approach to CT has technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing lead to mechanistic teaching of decontextualised concepts via formal teaching methods rather than hands-on exploration initial advocated by Papert's school [@resnick_coding_2020].
+
+
+In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
 In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
 
 To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
+
+
+
+including a approach to computational thinking from first principles for novice coders -
+
+In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+
+
 <!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
 "Abstraction level as a reflection of the so-called processobject duality" -->
+
+MOVE LATER?
+As we have explored in this chapter game making using game design patterns creates a tangible link between player experience and the creative process.  
 
 In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
 In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output.
