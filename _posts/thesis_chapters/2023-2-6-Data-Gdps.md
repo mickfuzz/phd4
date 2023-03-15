@@ -1085,24 +1085,38 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 ### Wall gardens and playgrounds
 
-Restricted set of patterns.
-For designers and then for partipants - Bjork
-Play theory - magic circle.
+The process of creating a learning design where students were able to choose from a curated set of game design patterns is covered in the design chapter of this thesis. In this section the response of users is explored in relation to other research on this areas.
 
-Move towards freedom and agency
+Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976].
 
+The process of curating a restricted set of patterns is developed from the work on game design patterns by [bjork]
 
-#### Use of restricted set of collated GDP patterns
+The pattern collection is reduced to create a smaller collection of in an intervention  to suit a younger audience within a restricted time frame [@eriksson_using_2019]
+
+This reasearch outlines some of the advatangates and challenges of the process. It alternates between the pwerspective of designers and participants.
+
+It is useful to compare the supports and approach of this study with that of the 3M intervention.
+
 
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
 - outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
 - compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable
 - but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
-- The reduced list of GDPs in a framework in Eriksson's intervention [-@eriksson_using_2019], to suit a younger audience / restricted time frame
 
 
 **Play testing, playgrounds and a walled garden - impact on agency**
+
+Similar metaphors emerge in experimental code processes.
+
+Sandboxes, Code Playground, playtesting.
+
+While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
+
+These metaphors can be linked to theoretical conceptions of play as a magic circle.
+Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced.
+
+Move towards freedom and agency
 
 Pair and peer playtesting emerges as a key practice to facilitate learner agency.
 
@@ -1124,21 +1138,14 @@ The use of GDP by practitioners are compared to those of participants and synerg
 
 #### Problematising the context of abstract / concrete concepts in computing education.
 
-The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review).
+The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as highlighted in Wing's take on CT. This is not to argue that Wing's approach to CT has technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing lead to mechanistic teaching of decontextualised concepts via formal teaching methods rather than hands-on exploration initial advocated by Papert's school [@resnick_coding_2020].
 
+NOTE - rework this and move to Literature Review.
+In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them undertand the level of abstraction that they are working at  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
-In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
-
-In teaching computing pedagogy the concepts of levels of abstraction is explored in some depth with an aim of  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1].
-
-To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
-
-
-
-
-including a approach to computational thinking from first principles for novice coders -
+This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Throught this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmentals story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
 
 In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
@@ -1161,24 +1168,13 @@ In professional coding programmes design patterns, particularly in object-orient
 
 In their research Eriksson and colleagues on using gameplay design patterns to collaboratively design games with young people [-@eriksson_using_2019] draw inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by [@barendregt_intermediate-level_2018].
 
-
-LINK TO WILENSKYS' DEFINITION OF ABSTRACT AS UNFAMILIAR.
-The concept of levels abstraction can also be applied to our analysis of the game making practices with AT concepts.
- - most abstract - Activity - making an engaging game
- - most abstract - Action  - choosing a GDP
- - most concrete - Operation - enacting in code
-
 In this framework, previously abstract concepts or processes become concrete through familiarisation via repeated use. hared design short cuts like "get it in the game" stand in for previously tricky to complete set of actions.  
-
 
 The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to
 
 The benefits and challenges can be summarised below.
 
 The creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
-
-
-
 
 #### GDP as concrete enough to be understandable but abstract enough to be replicable
 
@@ -1230,6 +1226,11 @@ Other examples of grokking concepts?
 
 
 ### Emerging concepts of learner agency in the design
+
+Using a core concepts of activity theory that of double stimulation and rising from the concrete to the abstract, Sannino [-@sannino_activity_2011] explores several interventionist educational design experiments and the potential to identify a germ cell of activity.
+
+<!-- NOTE - Explore utility of this - begin link to double stimulation to explore agency.  -->
+
 
 This section continues a discussion on the nature and evolution of agency in the practices of the participants in this research. In this section, the varied use of GDPs is examined through the lens on agency in broad terms. The theme is expanded upon in the following chapter.
 
