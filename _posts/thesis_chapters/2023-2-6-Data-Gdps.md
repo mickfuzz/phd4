@@ -1083,6 +1083,35 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 <!-- A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research.  -->
 
+### Wall gardens and playgrounds
+
+Restricted set of patterns.
+Play theory - magic circle.
+
+Move towards freedom and agency
+
+
+#### Use of restricted set of collated GDP patterns
+
+<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
+
+- outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
+- compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable
+- but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
+- The reduced list of GDPs in a framework in Eriksson's intervention [-@eriksson_using_2019], to suit a younger audience / restricted time frame
+
+
+**Play testing, playgrounds and a walled garden - impact on agency**
+
+Pair and peer playtesting emerges as a key practice to facilitate learner agency.
+
+In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
+
+<!-- Or is the process of working on a sprawling problem which seems unmanagable,
+but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
+
+
+
 ### Game design patterns as a intermediate-level construct to facilitate developing coding fluency
 
 <!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure.
@@ -1134,6 +1163,8 @@ The benefits and challenges can be summarised below.
 The creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
 
 
+
+
 #### GDP as concrete enough to be understandable but abstract enough to be replicable
 
 In this context replicable means that once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners.
@@ -1181,32 +1212,6 @@ Repeated practice is an important part of this process.
 Other examples of grokking concepts?
 
 
-### Wall gardens and playgrounds
-
-Restricted set of patterns.
-Play theory - magic circle.
-
-Move towards freedom and agency
-
-
-#### Use of restricted set of collated GDP patterns
-
-<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
-
-- outlines the advantages to using a restricted set of collaged GDPs which participants cover step by step.
-- compares again to instructional tutorials (previously explored in methods chapter)AND to the process of working on a sprawling problem which seems unmanagable
-- but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
-- The reduced list of GDPs in a framework in Eriksson's intervention [-@eriksson_using_2019], to suit a younger audience / restricted time frame
-
-
-**Play testing, playgrounds and a walled garden - impact on agency**
-
-Pair and peer playtesting emerges as a key practice to facilitate learner agency.
-
-In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
-
-<!-- Or is the process of working on a sprawling problem which seems unmanagable,
-but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
 
 
 ### Emerging concepts of learner agency in the design
