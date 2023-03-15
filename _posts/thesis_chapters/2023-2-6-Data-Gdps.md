@@ -1086,6 +1086,7 @@ The majority of this chapter has focused on interpretation of observations of pa
 ### Wall gardens and playgrounds
 
 Restricted set of patterns.
+For designers and then for partipants - Bjork 
 Play theory - magic circle.
 
 Move towards freedom and agency
