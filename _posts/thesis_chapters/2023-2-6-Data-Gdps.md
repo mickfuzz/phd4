@@ -120,10 +120,6 @@ https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/
 
 For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
 
-
-INSERT VIGNETTE TABLE HERE  
-
-
 <!--
 |**Dialogue**|**Activity**|
 |:----|:----|
@@ -318,7 +314,9 @@ The regular playtesting of games allowed participants to give each other feedbac
 
 PERHAPS INSERT HOW - SCREEN SHOT?
 
-In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." In Mi's game player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
+
+Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
     Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
     Mick: How are you getting on Mi? It's looking good.
@@ -326,7 +324,7 @@ In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's 
     Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
     Mick: So it look like you bump your head and fall down.
     Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.
+    Mi: Oh right yeah.direct
     Mick: Yeah.
     Mi: Yeah, actually that's a good idea.
     Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
@@ -341,14 +339,14 @@ Ch likes the look of the game and begins with that as a comment.
     Ch: It jumps super high but so slow  
     Pause.
     Mi: He has to go slow be### GDPs and the emergence of gameplay concepts and practices through Playtesting
-    cause he's an astronaut, you see.    
+cause he's an astronaut, you see.    
 
     Ch: It's hard.
     Ch then leaves
 
     Mi: (to peer parent with proud tone.) It's hard. Wow.
 
-    Fi comes to play the game.
+Fi comes to play the game
 
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
@@ -359,7 +357,8 @@ Other children come and play the game but only for less than a minute before lea
 
 In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
 
-While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review.  [@rogoff_cultural_2003].
+While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in Lit review [@rogoff_cultural_2003].
+EXPAND EITHER HERE OR IN DISCUSSION.
 
 ### The propagation of use of GDPs and associated practices stemming from playtesting
 
@@ -475,34 +474,42 @@ Article on intangibility of game feel.
 
 A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 
+#### Use of simple code examples which demonstrate the pattern in isolation
+
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The use of code examples by Te shows the effectiveness of the use of code examples by participants. The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants. The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
 
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
 The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
 
-In the next iteration of game making Te works with his father Da and tries replicate a previous process of work where he scans the provided menu of patterns but fails partly as the pair have diverted from one of the core paradigms of the templated example.
+In the next iteration of game making Te works with his father Da.
 
 <!-- Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 Extract from 2019-05-08 - 20 mins -->
-    NOTE - REPLACE WITH TABLE AND DEVELOP WITH INLINE INTEPRETATION / SCREENSHOT
+    NOTE - REPLACE WITH TABLE
     Te: Right what shall we add next? So it follows?
     Da: yeah that would be interesting wouldn’t it.
     Te: you know like the ghost in pac-man
-    Te: I think it’ll be in here. (Te navigates to the online pattern menu. Te scans the menu of GDPs but can not see one which matches his criteria)
+    Te: I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
+    _Te navigates to the online pattern menu._
     Te: We could add some player health.
-    Da indicates at the moment this aspect of the game works ok.
-    Te: Shall we try to get Mick for this
-    Da: Ah we could google it.
-    _They google "phaser pacman" and start a lengthy process of navigating developer documentation and professional coding forums to scan for relevant solutions._
+    Da indicates at the moment this work ok.
+    Te: shall we try to get Mick for this
+    Da: ah we could google it.
+    They google "phaser pacman"
+
+In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to
 
 The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
 
-The process of leaving the sandbox of provided patterns involves a higher risk approach to finding supporing documentation. 
 
-To explore the use of  professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
+
+
+#### Example of use of professional practices of accessing professional documentation
+
+To explore the use of of professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
 
 NEED TO DEVELOP THIS WITH AN EXAMPLE
 
@@ -522,8 +529,10 @@ In a way opening up a new seam of community activity and family of GDPs associat
 game. There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
  -->
 
+TRANSITION -
+While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
 
-While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to check the comprehension of his child. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
+In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 ## The use of GDPs examined from an interpersonal focus
 
@@ -1091,6 +1100,7 @@ but which in with participants have to work with facilitators in depth to overco
 
 #### Problematising the context of abstract / concrete concepts in computing education.
 
+
 The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as highlighted in Wing's take on CT. This is not to argue that Wing's approach to CT has technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing lead to mechanistic teaching of decontextualised concepts via formal teaching methods rather than hands-on exploration initial advocated by Papert's school [@resnick_coding_2020].
@@ -1100,22 +1110,8 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 
 This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
 
-In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
-<!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
-"Abstraction level as a reflection of the so-called processobject duality" -->
-<!-- LINK
-The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
-
-
-
-
-
-In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
-In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output.
-<!--
-See notes here
-https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
+#### Implications for facilitators and designers
 
 In professional coding programmes design patterns, particularly in object-oriented approaches and in the domains HCI are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
 
@@ -1123,17 +1119,28 @@ In professional coding programmes design patterns, particularly in object-orient
 
 In their research Eriksson and colleagues on using gameplay design patterns to collaboratively design games with young people [-@eriksson_using_2019] draw inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by [@barendregt_intermediate-level_2018].
 
-In this framework, previously abstract concepts or processes become concrete through familiarisation via repeated use. hared design short cuts like "get it in the game" stand in for previously tricky to complete set of actions.  
+In this framework, previously abstract concepts or processes become concrete through familiarisation via repeated use. hared design short cuts like "get it in the game" stand in for previously tricky to complete set of actions. 
+
+In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+
+<!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
+"Abstraction level as a reflection of the so-called processobject duality" -->
+<!-- LINK
+The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
+
+In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
+In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output.
+<!--
+See notes here
+https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
+
+
 
 The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to be repeated and too
 
-The benefits and challenges can be summarised below.
+As we have explored in this chapter game making using game design patterns creates a tangible link between concrete player experience and the affordances of a guided creative process.
 
 The creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
-
-#### GDP as concrete enough to be understandable but abstract enough to be replicable
-
-As we have explored in this chapter game making using game design patterns creates a tangible link between concrete player experience and the affordances of a guided creative process.
 
 In this context replicable in part refer to replication of design cycle. Once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners.
 
