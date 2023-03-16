@@ -1027,7 +1027,6 @@ Te to find patterns and to duplicate them in different situations.
 _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination. Abstraction can be taught in an applied way using the code structure of functions. In my journal notes and notes following interactions I notice when there is a call for a new function.
 
 
-
 <!-- LINK
 The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
 
@@ -1037,15 +1036,17 @@ In the previous chapter, the use of a map of learning dimension in the studies d
 
 My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP. In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
 
-In this respect, it is of value to examine the learning context and the motivations of the learners both children and adults. In formal schooling setting the requirements of teaching to a curriculum and exam.
+In the literature review and methodology chapter we examined different interpretations of agency used by researchers using activity theory [@hopwood_agency_2022]. In interpreting the results of this chapter it is of value to explore Sannino's concept of transformative agency by double stimulation (TADS). This concept of agency is of particular value for this study as it acknowledges both the transformative role of the learner to the learning environment in a way which reflects the mutual development of this design.  
 
-Different AT scopes allow for different use of volitional TADS. Different affordences are presented.
-Instead, learners should take charge,
-Also when directing attention back on track GDPs is more linked to main mission
-Although the full picture is more nuanced.
+My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
 
-When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others. The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
+It is of value to examine the learning context and the motivations of the learners both children and adults. Unlike formal schooling setting there are requirements of teaching to a curriculum and potential exam content. Thus as there was no external imposition, and no organic desire to explore more abstract concepts, I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
 
+Instead of through structured activities personal appropriation of practices and concepts is demonstrated in community activity as explored in a previous part of this chapter. 
+
+When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
+
+The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
 
 
 <!--
@@ -1065,8 +1066,7 @@ Situation
 -->
 
 
-
-## Discussion on game design patterns
+## Discussion on the use of game design patterns in the 3M learning design
 
 The majority of this chapter has focused on interpretation of observations of participant interactions. A deeper exploration of concepts is present in the following chapter which synthesises the observations of this study in relation to broader research. The remainder of this chapter begins this process with a closer look at the use of game design patterns as a intermediate design construct to facilitate coding education and at learner agency in relation to the user of GDPs in this data.
 
@@ -1087,14 +1087,11 @@ One similarity is the number of patterns presented to learners. In this iteratio
 
 In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study. However, in Eriksson's study the authours selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].
 
-While their results on the advantages and challenges of patterns use focus principally on the perspective of designers, the participant is also shared. I explore some of the opportunities and challenges they surface addressing learner perspective.  
+While their results on the advantages and challenges of patterns use focus principally on the perspective of designers (as a way to frame analysis of the activity and shifting interpretations of pattern interpretations), the participant is also shared. I explore some of the opportunities and challenges they surface addressing learner perspective.  
 
-Providing a common language; GDPs served both researchers and participants to clearer in their analysis of gameplay experience    
+GDPs served both researchers and participants by _providing a common language_ to clarify first learner expression and researcher's analysis of gameplay experience. Gdps functioned as an _inspirational structured design tool_ Eriksson's study outlines the utility notes teacher observations that GDPs served to stimulate learner imagination and ideation stages. The use of a patterns and their collection as a form _intermediate-level knowledge_ by both researchers and participants is under-explored in this study but builds on related work by two of the authors and is explored in the next part of this chapter.  
 
-- 
-
-inspirational structured design tool, framing of the activity, bleed of pattern use, intermediate level knowledge
-
+In 3M the
 
 
 For researchers, advantages include
