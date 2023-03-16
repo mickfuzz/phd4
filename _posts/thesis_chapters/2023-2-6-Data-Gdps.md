@@ -500,7 +500,9 @@ Extract from 2019-05-08 - 20 mins -->
 
 The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
 
-To explore the use of of professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
+The process of leaving the sandbox of provided patterns involves a higher risk approach to finding supporing documentation. 
+
+To explore the use of  professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
 
 NEED TO DEVELOP THIS WITH AN EXAMPLE
 
