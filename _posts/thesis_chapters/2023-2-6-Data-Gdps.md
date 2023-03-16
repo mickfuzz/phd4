@@ -1084,22 +1084,16 @@ Wider commentary on pattern selection
 
 Blockage still occur, and participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
 
-
-
 <!-- Or is the process of working on a sprawling problem which seems unmanagable,
 but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
 
 ### Game design patterns as a intermediate-level construct to facilitate developing coding fluency
 
-<!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure.
--->
+<!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure. -->
 
 **Summary:** Game design patterns provide learners with a suitable vehicle to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
 
-
-
-#### Problematising the context of abstract / concrete concepts in computing education.
-
+#### Problematising conceptions of abstract / concrete concepts in computing education.
 
 The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
@@ -1110,42 +1104,23 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 
 This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
 
-
 #### Implications for facilitators and designers
 
 In professional coding programmes design patterns, particularly in object-oriented approaches and in the domains HCI are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
 
     In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
 
-In their research Eriksson and colleagues on using gameplay design patterns to collaboratively design games with young people [-@eriksson_using_2019] draw inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by [@barendregt_intermediate-level_2018].
+Earlier in this chapter the work of Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] draw inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
 
-In this framework, previously abstract concepts or processes become concrete through familiarisation via repeated use. hared design short cuts like "get it in the game" stand in for previously tricky to complete set of actions. 
+The implementation of GDP to be the key unit of activity for this study as it was at this level that there was a richest use and development of tools and processes by the emerging community.
 
-In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
+The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to be repeated and too abstract to be grasped by novice game makers. GDPs create a tangible link between concrete player experience and the affordances of a guided creative process. Learners use of GDP as relatable and flexible constructs that facilitate  communication, sustaining engagement, planning and division of labour.
 
-<!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
-"Abstraction level as a reflection of the so-called processobject duality" -->
-<!-- LINK
-The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
+The creation of designed objects using GDPS aid the personal appropriation and the propagation of technical and social processes game making practices.  Previously abstract concepts or processes become concrete through familiarisation via direct use and indirect observations through community participation.
 
-In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
-In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output.
-<!--
-See notes here
-https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
+Both the GDPs and the sub-actions of the wider activity  design short cuts like "get it in the game" stand in for previously tricky to complete set of actions. In this context replicable in part refer to replication of design cycle. Once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners The process of operationalisation of these sets of actions helps create an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
 
-
-
-The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to be repeated and too
-
-As we have explored in this chapter game making using game design patterns creates a tangible link between concrete player experience and the affordances of a guided creative process.
-
-The creation of designed objects and the development of personal knowledge but also the emergence of a community of practice.
-
-In this context replicable in part refer to replication of design cycle. Once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners.
-
-<!-- In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation. -->
-<!-- Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter. -->
+NOTE - AT SOME POINT MORE SPECIFICS EXAMPLES / CALL BACKS ARE NEEDED TO SUPPORT THE ABOVE
 
 Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or get it in the game (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
 
@@ -1154,6 +1129,25 @@ However, there are challenges of the use of these short cuts. There may be confu
 These issues reflect the nature of the process of operationalising discreet actions that make up the implementation stages of each design pattern. Tensions may be overcome with help from peer group and facilitators.
 
 There is also evidence that the process of technical processes becoming second nature, and the ability to show this to family and other peer groups members in empowering. The next section addresses the development and nature of agency in this learning design.
+
+
+
+In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
+
+<!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
+"Abstraction level as a reflection of the so-called processobject duality" -->
+<!-- LINK
+The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
+
+
+<!-- In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output. -->
+<!--
+See notes here
+https://docs.google.com/document/d/1my3iDjivq64gdcXsmwqKVP0QJMDvfBN3MsD0FoeI4Qs/edit -->
+
+<!-- In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation. -->
+<!-- Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter. -->
+
 
 <!-- ### Use of GDP as communication short cuts (SYNTHESIS)
  **Discussing Game design patterns as a tool to expose and give participants a language to discuss and resolve tensions (Practitioner focus)**
