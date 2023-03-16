@@ -187,8 +187,6 @@ Elements of contrast with 3M include;
 - Code patching from existing code examples, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use.
 
 
-
-
 ##  Commentary / Discussion on Learning Dimensions
 
 More discussion  on the practical value of CT concepts
@@ -219,11 +217,6 @@ UMC on the other hand while being less described and open to interpretation seem
 ### Different strokes
 
 A different strokes commentary. Depending on aims of the practitioner and context of the game making different tactics may be applicable.
-
-
-
-
-
 
 
 ## Representing Coded the Patterns of Activity via coded data
@@ -501,3 +494,9 @@ Some GDPs were not made a part of the menu of options as they were already in th
 For example Reward.
 
 Is this a missed opportunity to surface and discuss those patterns? cf [@eriksson_using_2019]
+
+### Breaking out of the walled garden:
+
+Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
+A potential tension which was resolved quickly in some ways.
+But at the cost of maintaining a working game.

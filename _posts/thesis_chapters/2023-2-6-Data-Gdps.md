@@ -366,23 +366,22 @@ EXPAND EITHER HERE OR IN DISCUSSION.
 
 **The implementation of particular GDPs by participant pairs or individuals often spread through peer activity incorporating or emerging from playtesting.**
 
-For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch how to add new levels.
+For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch1 how to add new levels.
 
-    Ch: Why’s that enemy in every level
+    Ch1: Why’s that enemy in every level
     Te: He’s not.
-    Ch: Can you show me how you add more levels on to yours?
+    Ch1: Can you show me how you add more levels on to yours?
     Te: Yeah sure.
     Pause
     Te: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
     Pause
-    Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
+    Ch1: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
     Te: Er not really.
-    Ch: Or seen it?
-    Ch: That’s like my second level.
+    Ch1: Or seen it?
+    Ch1: That’s like my second level.
     Te: Ah so hard (Te fails at a high level on his game and starts to move off)
-
     Te: (To someone else  calling for attention)  No I’m helping (Ch)..
-    (Te then follows Ch to his workstation to help him implement more levels.)
+    _(Te then follows Ch to his workstation to help him implement more levels.)_
 
 When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te uses the keyboard completes this work, Ch reads aloud the code which is being typed in by Te.
 
@@ -393,18 +392,17 @@ In addition to the propagation of main game design patterns, sub patterns and re
 For example the emergence of the concept of safe zone in the game of Ch and Pa -
 The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
 
-Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
+<!-- Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
 
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
     Fi gives advice about tidying up the sprite outlines.
-    Fi – for people with background like yours You can use the “cramping tool””
-    Ma and Fi – then explain – SEE THEIR RECORDING
+    Fi: for people with background like yours You can use the “cramping tool””
+    Ma and Fi then explain – SEE THEIR RECORDING
     So that the background is clearer.
 
-While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
+While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme -->
 
-FIND THE EXAMPLE BEFORE DEVELOPING.
 
 
 ### GDP used to allow exploration of home and professional funds of knowledge and practices
@@ -433,7 +431,7 @@ The following exchange shows how the use of GDPs help participants navigate the 
     Te: What do you mean?
     Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
     Te: Pause. I don’t know what to do thought.
-    Da: Well quite but what other games are there?
+    Da: Well quite but what other games are there? again
 
 Te adopts with this suggestion readily once he understands Da's suggestion. He then approaches Mick with a suggestion.  
 
@@ -454,7 +452,7 @@ Te is implicit in the use of is process, saying "I was thinking can we make like
 Da is more explicit naming the shift of perspective but also implying
 Mick takes this to a different level by making reference to a key change of code that would be involved.
 NOTE - LINK THIS TO LOA -
--->
+--> –
 
 Da expresses his desire to for the pair to try something new by implementing a pattern not in the menu of GDPs provided. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games). This decision can be triangulated with interview data from Da on the motivation behind his involvement in volunteering at Coder Dojos.  
 
@@ -489,20 +487,19 @@ Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNP
 The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
 
 In the next iteration of game making Te works with his father Da.
-Te
 
-Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
-
-    extract from 2019-05-08 - 20 mins
-    Te – Right what shall we add next? So it follows?
-    Da – yeah that would be interesting wouldn’t it.
-    Te – you know like the ghost in pac-man
-    Te – I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
-    Te- Link to tutorials – goes to the online tutorials on flossmanuals
-    Te – we could add some player health
+<!-- Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
+Extract from 2019-05-08 - 20 mins -->
+    NOTE - REPLACE WITH TABLE
+    Te: Right what shall we add next? So it follows?
+    Da: yeah that would be interesting wouldn’t it.
+    Te: you know like the ghost in pac-man
+    Te: I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
+    _Te navigates to the online pattern menu._
+    Te: We could add some player health.
     Da indicates at the moment this work ok.
-    Te – shall we try to get Mick for this
-    Da – ah we could google it.
+    Te: shall we try to get Mick for this
+    Da: ah we could google it.
     They google "phaser pacman"
 
 In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to
@@ -510,8 +507,6 @@ In this interchange Te looks to try replicate a previous process of work where h
 The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
 
 
-NOTE - INTEGRATE THE FOLLOWING INTO THE EXAMPLE ABOVE. REDUCE DOWN A LOT
-PERHAPS MOVE SOME TO DISCUSSION
 
 
 #### Example of use of professional practices of accessing professional documentation
@@ -737,8 +732,6 @@ The use of GDPs to scaffold the ideation process was a common pattern used by X 
 
 In summary, some GDPs allow the spacial exploration of design in a way that suits being mapped onto paper, or onto graphical software which allows for a similar sketching experience.  
 
-
-
 <!-- This pattern completion is mirrored in the work of other pairs. Thus replicating is a kind of participation in an emerging community.
 There is also a link made by the parent to previous working practices. Using a paper book to make a sketch of the work to be completed. -->
 <!-- These kinds of shifts of activity and cultural practices brought by the participants also feed into the ongoing culture of the game making community. For example the use of paper designs and paper prototyping that for some of the home ed families was a familiar practice was something that I adopted more broadly after observing the families involved. -->
@@ -834,11 +827,13 @@ NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
 GDPs aid the overall process of design for others by providing discreet and clear goals which are nested in the wider goal of making an engaging game. This process involves shifts in perspectives from participants as they engaging with objectives on different scopes of activity. For example, participants may get caught up in a particular design goal on a micro-level, engagement may drive an implementation of a quirky characteristic. When this game is self-tested or playtested, that characteristic may not withstand the shift in perspective to the wider goal of making an engaging game.
 
 <!-- - clear terms to use as a lingua-franca during self testing and playtesting. -->
-We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience [@ratto_critical_2011].
-AND SO?
+
+<!-- We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience [@ratto_critical_2011].
+AND SO? -->
 
 
 #### Other examples and interpretation on designing for others / shifts of perspective
+
 In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations.
 
 ### GDP driving adoption of emerging technical processes
@@ -847,30 +842,29 @@ The emergence of technical processes happens particularly on a pair level. It is
 
 Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
 
-    Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour.
-    Mi asks for help from partner but receives misleading advice which does not help her progress.
+    NOTE - COVERT TO TABLE
+    Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
 
-    Mi – Oh no it’s not done that has it?
+    Mi:  Oh no it’s not done that has it?
 
     Mi calls the name of her child across room with theatrical gesture and loud whisper voice
-    Mi – “Ne!”
+    Mi: “Ne!”
     Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
-
     Ne arrives to help.
-    Mi – I’m trying to delete them but they turn light grey.
-    Ne – So you want to get rid of them?
-    Mi – What are you doing? You have to tell me what you are doing so I can do it myself.
-    Mi – laughs
-    Ne – laughs.
-    Mi – I’ll just have to keep shouting at you if you don’t tell me.  
+    Mi: I’m trying to delete them but they turn light grey.
+    Ne: So you want to get rid of them?
+    Mi: What are you doing? You have to tell me what you are doing so I can do it myself.
+    Mi: laughs
+    Ne: laughs.
+    Mi: I’ll just have to keep shouting at you if you don’t tell me.  
     Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
     Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
     Parent peer laughs
     Ne bounces up in place and smiles broadly.
     Mi- Thanks
-    Mi – So am I like back with the black now?  
-    Ne – Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
-    Mi – Oh X. Alright Bubs. Thanks.
+    Mi: So am I like back with the black now?  
+    Ne: Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+    Mi: Oh X. Alright Bubs. Thanks.
 
 <!-- Taking a more focused view of the activity here would be implementing a game design pattern - e.g. adding keys and doors pattern in this case. On the level of action, creating a graphical asset of a key and adding this to the level design. The operation would be the exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool. -->
 
@@ -885,8 +879,7 @@ While the final an operation for some participants it would be a more conscious 
 Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on.
 Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
 
-This is seen in a similar example.
-As a common example the process of "getting it in the game".
+<!-- This is seen in a similar example. As a common example the process of "getting it in the game".
 
     Mi - Ne!, Ne! Ne.
 
@@ -898,18 +891,16 @@ As a common example the process of "getting it in the game".
     Ne- Ok then smartie pants.
 
 the interaction also shows positive affect of child.
-her role in the community can be explored here.
+her role in the community can be explored here. -->
 
 
 #### Other examples of GDP driving adoption of technical processes
 
-References to such emerging practices driven by GDPs were present in many exchanges during directed playtesting and pair interactions.
+References to such emerging practices driven by GDPs were present in many exchanges during directed playtesting and pair interactions. For example, after Fi gave feedback on the jump speed Mi's game, he continued by sharing a process to redundant space at the edges of design sprite characters.
 
-In a previous example Fi commented on Mi's game in terms of giving feedback on the jump speed. He goes on to recommend a way to remove extra space at the edges of sprite design.
-
-    Fi – for people with background like yours You can use the cramping tool.
-
-Fi leads Mi to his workstation and involves his father in the process.
+    NOTE - COVERT TO TABLE
+    Fi: for people with background like yours You can use the cramping tool.
+    Fi leads Mi to his workstation and involves his father in the process.
 
     Ma: Show what? What are we doing?
     Fi: On this one it’s like this.
@@ -1007,7 +998,7 @@ CAN i FIND ANY KEY EXAMPLES OF THIS?
 -->
 
 
-### GDPs as a way to surface and discuss Computational Thinking and Systems Concepts
+### GDPs as a way to surface and discuss embedded computational, design and systems concepts
 
 <!-- While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process.  -->
 
@@ -1015,9 +1006,8 @@ CAN i FIND ANY KEY EXAMPLES OF THIS?
 
 As explored in the last section, the implementation of GDPs and resulting errors can surface computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. Taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
-_Decomposition_ is shown in several of the examples revisions to the agreed overall goal which break a larger problems into more manageable steps. For example Da the parent suggests to his child "Save that for version 1.1".  _Generalisation / pattern recognition_ is present in the work of nearly all participants as The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
-_Sequencing / algorithms_  are frequently explored in the resolution of errors with participants. In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing.  
-PERHAPS INCLUDE AS APPENDIX?
+_Decomposition_ is shown in several of the examples revisions to the agreed overall goal which break a larger problems into more manageable steps. For example Da the parent suggests to his child "Save that for version 1.1".  _Generalisation / pattern recognition_ is present in the work of nearly all participants as The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added. _Sequencing / algorithms_  are frequently explored in the resolution of errors with participants. In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?). _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter.
+
 
 <!--
 Te to find patterns and to duplicate them in different situations.
@@ -1025,15 +1015,9 @@ Te to find patterns and to duplicate them in different situations.
 <!--
  Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down -->
 
-_Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination. Abstraction can be taught in an applied way using the code structure of functions. In my journal notes and notes following interactions I notice when there is a call for a new function.
+#### GDPs and tensions between
 
-
-<!-- LINK
-The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
-
-### Use of GDPs in personal dimensions of community participation - CHANGE TITLE HERE?
-
-In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
+In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
 
 My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP. In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
 
@@ -1091,12 +1075,9 @@ While their results on the advantages and challenges of patterns use focus princ
 
 GDPs served both researchers and participants by _providing a common language_ to clarify first learner expression and researcher's analysis of gameplay experience. Gdps functioned as an _inspirational structured design tool_ Eriksson's study outlines the utility notes teacher observations that GDPs served to stimulate learner imagination and ideation stages. The use of a patterns and their collection as a form _intermediate-level knowledge_ by both researchers and participants is under-explored in this study but builds on related work by two of the authors and is explored in the next part of this chapter.  
 
-In 3M the use of GDPs by participants has been outlined in this chapter
+In 3M the use of GDPs by participants has been outlined in this chapter. A summary is included in Table 6.x
 
-NOTE - PULL TOGETHER A SUMMARY - PERHAPS A TABLE HERE?
-
-
-
+SUMMARY  - PERHAPS A TABLE HERE?
 
 <!--
 Wider commentary on pattern selection
@@ -1105,26 +1086,7 @@ Wider commentary on pattern selection
 
 Blockage still occur, and participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
 
-### The freedoms and restrictions of playgrounds
 
-**Play testing, playgrounds and a walled garden - impact on agency**
-
-Similar metaphors emerge in experimental code processes.
-
-Sandboxes, Code Playground, playtesting.
-
-While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
-
-These metaphors can be linked to theoretical conceptions of play as a magic circle.
-Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced.
-
-**Impact on agency**
-
-Move towards freedom and agency
-
-Pair and peer playtesting emerges as a key practice to facilitate learner agency.
-
-In the language of double stimulation, a tension of relative inactivity at times is overcome by invitation to play test and resulting interaction.
 
 <!-- Or is the process of working on a sprawling problem which seems unmanagable,
 but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
@@ -1154,6 +1116,10 @@ In this chapter we have encounter examples of the use of GDP as a concrete and r
 
 <!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
 "Abstraction level as a reflection of the so-called processobject duality" -->
+
+<!-- LINK
+The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
+
 
 MOVE LATER?
 As we have explored in this chapter game making using game design patterns creates a tangible link between player experience and the creative process.  
@@ -1258,19 +1224,31 @@ The community of learners began to pitch in in their own ways and develop their 
 Agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners.
 
 
+<!--
+
+MOVE to Discussion?
 **Breaking out of the walled garden:**
 
 Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
-
 A potential tension which was resolved quickly in some ways.
-
-But at the cost of maintaining a working game.
+But at the cost of maintaining a working game. -->
 
 **Tensions between facilitating agency and norming practices**
 
 This chapter has explored the use of game design patterns by participants to aid the development of their game making practices. Participants are able to use the affordances of the existing learning design and add their own evolving practice to them as a way of expressing and building agency. Examples of this dynamic agency include the use of graphical code structures, asking for peer or facilitator support etc.
 
 However as a seeming counterpoint to this growing agency is the norming effects of concepts that gain community currency in playtesting. The repeated attempts by participants to make the jumping mechanic of Mi less frustrating can be seen as a potential drag on the agency or autonomy of Mi as a designer. However this may be a false dichotomy. Such norming practices can be seen from a different perspective. The following chapter begins with a deeper exploration of learner agency in relation to existing research in this domain.
+
+**The freedoms and restrictions of playgrounds**
+
+In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
+
+These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explore the intersection of these elements in more detail.
+
+
+<!-- For exa In the language of double stimulation, a tension of relative inactivity at times is overcome by invitations to playtest and resulting interaction. -->
+
+
 
 <!-- ### Link Paragraph to next chapter
 
