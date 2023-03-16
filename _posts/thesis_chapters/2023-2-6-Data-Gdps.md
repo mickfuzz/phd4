@@ -916,12 +916,6 @@ References to such emerging practices driven by GDPs were present in many exchan
     Mi: Yeah. Yeah that’s what’s happening. So..
     Ma: So you can put you’re sprite back in again and you can crop it down.
 
-
-
-While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme
-
-FIND THE EXAMPLE BEFORE DEVELOPING
-
 There are many other examples of processes being driven by desire to adopt an new GDP or more frequently to make frequent alterations to one that has a significant impact on player experience.
 
 A fluid navigation to the relevant area of code to make key changes, especially level design is shown in vignette A by Sh.
