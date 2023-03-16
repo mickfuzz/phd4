@@ -120,6 +120,10 @@ https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/
 
 For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
 
+
+INSERT VIGNETTE TABLE HERE  
+
+
 <!--
 |**Dialogue**|**Activity**|
 |:----|:----|
@@ -314,9 +318,7 @@ The regular playtesting of games allowed participants to give each other feedbac
 
 PERHAPS INSERT HOW - SCREEN SHOT?
 
-In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
-
-Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." In Mi's game player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
     Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
     Mick: How are you getting on Mi? It's looking good.
@@ -324,7 +326,7 @@ Player jump (y) velocity was set very high but left right (x) velocity was slow.
     Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
     Mick: So it look like you bump your head and fall down.
     Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.direct
+    Mi: Oh right yeah.
     Mick: Yeah.
     Mi: Yeah, actually that's a good idea.
     Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
@@ -339,14 +341,14 @@ Ch likes the look of the game and begins with that as a comment.
     Ch: It jumps super high but so slow  
     Pause.
     Mi: He has to go slow be### GDPs and the emergence of gameplay concepts and practices through Playtesting
-cause he's an astronaut, you see.    
+    cause he's an astronaut, you see.    
 
     Ch: It's hard.
     Ch then leaves
 
     Mi: (to peer parent with proud tone.) It's hard. Wow.
 
-Fi comes to play the game
+    Fi comes to play the game.
 
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
@@ -357,8 +359,7 @@ Other children come and play the game but only for less than a minute before lea
 
 In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
 
-While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in Lit review [@rogoff_cultural_2003].
-EXPAND EITHER HERE OR IN DISCUSSION.
+While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review.  [@rogoff_cultural_2003].
 
 ### The propagation of use of GDPs and associated practices stemming from playtesting
 
@@ -474,40 +475,30 @@ Article on intangibility of game feel.
 
 A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 
-#### Use of simple code examples which demonstrate the pattern in isolation
-
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants. The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
+Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The use of code examples by Te shows the effectiveness of the use of code examples by participants. The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
 
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
 The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
 
-In the next iteration of game making Te works with his father Da.
+In the next iteration of game making Te works with his father Da and tries replicate a previous process of work where he scans the provided menu of patterns but fails partly as the pair have diverted from one of the core paradigms of the templated example.
 
 <!-- Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 Extract from 2019-05-08 - 20 mins -->
-    NOTE - REPLACE WITH TABLE
+    NOTE - REPLACE WITH TABLE AND DEVELOP WITH INLINE INTEPRETATION / SCREENSHOT
     Te: Right what shall we add next? So it follows?
     Da: yeah that would be interesting wouldn’t it.
     Te: you know like the ghost in pac-man
-    Te: I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
-    _Te navigates to the online pattern menu._
+    Te: I think it’ll be in here. (Te navigates to the online pattern menu. Te scans the menu of GDPs but can not see one which matches his criteria)
     Te: We could add some player health.
-    Da indicates at the moment this work ok.
-    Te: shall we try to get Mick for this
-    Da: ah we could google it.
-    They google "phaser pacman"
-
-In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to
+    Da indicates at the moment this aspect of the game works ok.
+    Te: Shall we try to get Mick for this
+    Da: Ah we could google it.
+    _They google "phaser pacman" and start a lengthy process of navigating developer documentation and professional coding forums to scan for relevant solutions._
 
 The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
-
-
-
-
-#### Example of use of professional practices of accessing professional documentation
 
 To explore the use of of professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
 
@@ -529,10 +520,8 @@ In a way opening up a new seam of community activity and family of GDPs associat
 game. There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
  -->
 
-TRANSITION -
-While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
 
-In the next section, the guided participation of other family pairs and more temporary pairings are explored.
+While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to check the comprehension of his child. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 ## The use of GDPs examined from an interpersonal focus
 
