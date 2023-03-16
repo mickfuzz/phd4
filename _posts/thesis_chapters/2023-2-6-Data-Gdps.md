@@ -45,21 +45,22 @@ title: Findings Chapter 2 - It’s like a project in itself really
         processes](#gdp-driving-adoption-of-emerging-technical-processes)
 -   [The use of GDPs explored from a personal
     focus](#the-use-of-gdps-explored-from-a-personal-focus)
-    -   [GDPs used to support debugging and the product revision
-        process](#gdps-used-to-support-debugging-and-the-product-revision-process)
+    -   [Use of GDPs to support debugging and the product revision
+        process](#use-of-gdps-to-support-debugging-and-the-product-revision-process)
     -   [GDPs as a way to surface and discuss Computational Thinking and
         Systems
         Concepts](#gdps-as-a-way-to-surface-and-discuss-computational-thinking-and-systems-concepts)
     -   [Use of GDPs in personal dimensions of community
         participation](#use-of-gdps-in-personal-dimensions-of-community-participation)
--   [Additional Chapter Discussion](#additional-chapter-discussion)
-    -   [Game design patterns as a "middle level" construct to
+-   [Discussion on the use of game design patterns in the 3M learning
+    design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
+    -   [The freedoms and restrictions of
+        playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+    -   [Game design patterns as a intermediate-level construct to
         facilitate developing coding
-        competency](#game-design-patterns-as-a-middle-level-construct-to-facilitate-developing-coding-competency)
-    -   [Agency, Autonomy and Walled
-        Gardens](#agency-autonomy-and-walled-gardens)
-    -   [Tensions between facilitating agency and norming
-        practices](#tensions-between-facilitating-agency-and-norming-practices)
+        fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
+    -   [Emerging concepts of learner agency in the
+        design](#emerging-concepts-of-learner-agency-in-the-design)
 
 ## Introduction to This Writing
 
@@ -1030,7 +1031,7 @@ _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper 
 <!-- LINK
 The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
 
-### Use of GDPs in personal dimensions of community participation
+### Use of GDPs in personal dimensions of community participation - CHANGE TITLE HERE?
 
 In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
 
@@ -1042,7 +1043,7 @@ My intuitive reluctance to impose shifts in the scope of activity systems, can b
 
 It is of value to examine the learning context and the motivations of the learners both children and adults. Unlike formal schooling setting there are requirements of teaching to a curriculum and potential exam content. Thus as there was no external imposition, and no organic desire to explore more abstract concepts, I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
 
-Instead of through structured activities personal appropriation of practices and concepts is demonstrated in community activity as explored in a previous part of this chapter. 
+Instead of through structured activities personal appropriation of practices and concepts is demonstrated in community activity as explored in a previous part of this chapter.
 
 When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
 
@@ -1071,8 +1072,7 @@ Situation
 The majority of this chapter has focused on interpretation of observations of participant interactions. A deeper exploration of concepts is present in the following chapter which synthesises the observations of this study in relation to broader research. The remainder of this chapter begins this process with a closer look at the use of game design patterns as a intermediate design construct to facilitate coding education and at learner agency in relation to the user of GDPs in this data.
 
 <!-- A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research.  -->
-
-### The freedoms and restrictions of playgrounds
+### Discussion on the use of design patterns and pattern catalogues
 
 The process of creating a learning design where students were able to choose from a curated set of game design patterns is covered in the design chapter of this thesis. In this section the response of users is explored in relation to other research on this areas.
 
@@ -1081,7 +1081,7 @@ Firstly the concept of a restricted activity is well trodden ground outlined in 
 The overall goal of the analysis of GDPs also differ, in the 3M study the principle goal is analysis of the use of GDPs by learners to aid their goals in creating their own games. In Eriksson's study the principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019]
 The Stringforce study involved learner analysis of games, the ability to change level design via graphical editor and co-design of proposed conceptual changes to existing games. Unlike 3M it did not involved the learners then adding new patterns to games using code.  
 
-One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options. The Stringforce study selected 14. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
+One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options and the Stringforce study selected 14. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
 
  <!-- Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter)  -->
 
@@ -1091,13 +1091,12 @@ While their results on the advantages and challenges of patterns use focus princ
 
 GDPs served both researchers and participants by _providing a common language_ to clarify first learner expression and researcher's analysis of gameplay experience. Gdps functioned as an _inspirational structured design tool_ Eriksson's study outlines the utility notes teacher observations that GDPs served to stimulate learner imagination and ideation stages. The use of a patterns and their collection as a form _intermediate-level knowledge_ by both researchers and participants is under-explored in this study but builds on related work by two of the authors and is explored in the next part of this chapter.  
 
-In 3M the
+In 3M the use of GDPs by participants has been outlined in this chapter
+
+NOTE - PULL TOGETHER A SUMMARY - PERHAPS A TABLE HERE?
 
 
-For researchers, advantages include
 
-Because game making is not goal for participants, at times it is not clear exactly the motivation for the participants is in terms of using GDP terms.
-Data is lacking.
 
 <!--
 Wider commentary on pattern selection
@@ -1105,6 +1104,8 @@ Wider commentary on pattern selection
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
 Blockage still occur, and participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
+
+### The freedoms and restrictions of playgrounds
 
 **Play testing, playgrounds and a walled garden - impact on agency**
 
@@ -1117,6 +1118,8 @@ While some of this language is specific to the creation of games, other terms ar
 These metaphors can be linked to theoretical conceptions of play as a magic circle.
 Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced.
 
+**Impact on agency**
+
 Move towards freedom and agency
 
 Pair and peer playtesting emerges as a key practice to facilitate learner agency.
@@ -1125,8 +1128,6 @@ In the language of double stimulation, a tension of relative inactivity at times
 
 <!-- Or is the process of working on a sprawling problem which seems unmanagable,
 but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
-
-
 
 ### Game design patterns as a intermediate-level construct to facilitate developing coding fluency
 
@@ -1224,49 +1225,48 @@ Repeated practice is an important part of this process.
 Other examples of grokking concepts? -->
 
 
-
-
 ### Emerging concepts of learner agency in the design
 
-Using a core concepts of activity theory that of double stimulation and rising from the concrete to the abstract, Sannino [-@sannino_activity_2011] explores several interventionist educational design experiments and the potential to identify a germ cell of activity.
+<!-- Using a core concepts of activity theory that of double stimulation and rising from the concrete to the abstract, Sannino [-@sannino_activity_2011] explores several interventionist educational design experiments and the potential to identify a germ cell of activity. -->
 
 <!-- NOTE - Explore utility of this - begin link to double stimulation to explore agency.  -->
 
+This chapter has begun a process of exploration of the nature and evolution of agency in the practices of the participants through the varied use of GDPs.  In this final section I continue to explore emerging thoughts on learner agency in my design through the lens of existing research. The theme of conceptions of learner agency in this practice will be expanded upon in the following discussion chapter.
 
-This section continues a discussion on the nature and evolution of agency in the practices of the participants in this research. In this section, the varied use of GDPs is examined through the lens on agency in broad terms. The theme is expanded upon in the following chapter.
-
-**On affordances and anchors - swinging on gargoyles**
+**On affordances and anchors:**
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
 
-Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it. [@ba_erentsen_activity_2002]
-Give example?
+Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
+
+Sannino augments the concept of transformative agency by double stimulation (TADS)
 
 Then can be viewed together with the anchor metaphor as a catching point. Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them.
 [@hopwood_agency_2022].
 
 
-
-#### Breaking out - on the organic evolution of the design
-
-**Evolving Peer practices**
+**Evolving Peer practices**:
 
 - One to one instruction to explain concepts and allow freedom of choice is ideal but unrealistic in classrooms.
 
-Even with a restricted set of patterns not all participants were able to patch in from the documentsation.
+Even with a restricted set of patterns not all participants were able to patch in from the documentation.
 
 Thus the community started to teach each other, and this evolved in some unexpected directions.
 
 The community of learners began to pitch in in their own ways and develop their own practices.
-Agency was
+
+Agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners.
 
 
-**Breaking out**
-- Te and Da's decision to explore a different starting point and add uncharded GDPs like following enemies.
+**Breaking out of the walled garden:**
+
+Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
+
 A potential tension which was resolved quickly in some ways.
+
 But at the cost of maintaining a working game.
 
-### Tensions between facilitating agency and norming practices
+**Tensions between facilitating agency and norming practices**
 
 This chapter has explored the use of game design patterns by participants to aid the development of their game making practices. Participants are able to use the affordances of the existing learning design and add their own evolving practice to them as a way of expressing and building agency. Examples of this dynamic agency include the use of graphical code structures, asking for peer or facilitator support etc.
 

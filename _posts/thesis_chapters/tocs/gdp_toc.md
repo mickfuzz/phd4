@@ -34,18 +34,19 @@
         processes](#gdp-driving-adoption-of-emerging-technical-processes)
 -   [The use of GDPs explored from a personal
     focus](#the-use-of-gdps-explored-from-a-personal-focus)
-    -   [GDPs used to support debugging and the product revision
-        process](#gdps-used-to-support-debugging-and-the-product-revision-process)
+    -   [Use of GDPs to support debugging and the product revision
+        process](#use-of-gdps-to-support-debugging-and-the-product-revision-process)
     -   [GDPs as a way to surface and discuss Computational Thinking and
         Systems
         Concepts](#gdps-as-a-way-to-surface-and-discuss-computational-thinking-and-systems-concepts)
     -   [Use of GDPs in personal dimensions of community
         participation](#use-of-gdps-in-personal-dimensions-of-community-participation)
--   [Additional Chapter Discussion](#additional-chapter-discussion)
-    -   [Game design patterns as a "middle level" construct to
+-   [Discussion on the use of game design patterns in the 3M learning
+    design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
+    -   [The freedoms and restrictions of
+        playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+    -   [Game design patterns as a intermediate-level construct to
         facilitate developing coding
-        competency](#game-design-patterns-as-a-middle-level-construct-to-facilitate-developing-coding-competency)
-    -   [Agency, Autonomy and Walled
-        Gardens](#agency-autonomy-and-walled-gardens)
-    -   [Tensions between facilitating agency and norming
-        practices](#tensions-between-facilitating-agency-and-norming-practices)
+        fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
+    -   [Emerging concepts of learner agency in the
+        design](#emerging-concepts-of-learner-agency-in-the-design)
