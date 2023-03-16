@@ -339,14 +339,14 @@ Ch likes the look of the game and begins with that as a comment.
     Ch: It jumps super high but so slow  
     Pause.
     Mi: He has to go slow be### GDPs and the emergence of gameplay concepts and practices through Playtesting
-cause he's an astronaut, you see.    
+    cause he's an astronaut, you see.    
 
     Ch: It's hard.
     Ch then leaves
 
     Mi: (to peer parent with proud tone.) It's hard. Wow.
 
-Fi comes to play the game
+    Fi comes to play the game
 
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
@@ -358,7 +358,7 @@ Other children come and play the game but only for less than a minute before lea
 In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
 
 While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in Lit review [@rogoff_cultural_2003].
-EXPAND EITHER HERE OR IN DISCUSSION.
+NOTE EXPAND EITHER HERE OR IN DISCUSSION.
 
 ### The propagation of use of GDPs and associated practices stemming from playtesting
 
@@ -386,9 +386,6 @@ When Te moves to Ch's game he playtests it and then looks at the code. He notes 
 Exchanges like this allow the propagation of GDPs. The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example, the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same. The propagation here is emerges from and is completed entirely through peer activity. A different and more common pattern of propagation was that participants notice and comment on a game element or pattern during during playtesting, and then to use supporting resources or facilitator help to implement it. A less frequent pattern involved participants' diligent and deliberate use of supporting resources to identify and implement features without peer influence. Typical examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies and changes to jump dynamics.
 
 In addition to the propagation of main game design patterns, sub patterns and related design concepts emerged organically from the community. The concept of safe zone in the game of Ch and Pa arrived as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
-
-For example the emergence of the concept of safe zone in the game of Ch and Pa -
-The concept of a safe zone arrives as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
 
 <!-- Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
 
@@ -474,7 +471,7 @@ Article on intangibility of game feel.
 
 A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 
-#### Use of simple code examples which demonstrate the pattern in isolation
+<!-- #### Use of simple code examples which demonstrate the pattern in isolation -->
 
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
 
@@ -504,10 +501,7 @@ In this interchange Te looks to try replicate a previous process of work where h
 
 The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
 
-
-
-
-#### Example of use of professional practices of accessing professional documentation
+NOTE DESCRIPTION TO COME.
 
 To explore the use of of professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
 
@@ -529,10 +523,11 @@ In a way opening up a new seam of community activity and family of GDPs associat
 game. There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
  -->
 
-TRANSITION -
-While these examples highlight the use of professional practices and documentation, the interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking  
 
-In the next section, the guided participation of other family pairs and more temporary pairings are explored.
+These range of use of supporting documents from code examples, bespoke step by step examples and the use of professional practices and documentation,
+COMPLETE
+
+The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 ## The use of GDPs examined from an interpersonal focus
 
@@ -588,7 +583,6 @@ Te and Da are discussing possible features early in the process if ideation.
 
 They thinking of a feature – wrap around like Pac-man
 Da – Yeah we can do that. Save that for version 1.1
-
 -->
 
 ### GDPs aiding the process of division of labour
@@ -653,9 +647,9 @@ This arrangement seems mutually suitable for these participants. For this pair, 
 <!-- NOTE - LINK TO PREVIOUS CHAPTER ON FLEXIBILITY OF DESIGN -->
 
 **Other examples of division of labour**
+TO COME
 
-In a following example we see child Ne helping her mother to overcome coding blockages.
-
+<!-- In a following example we see child Ne helping her mother to overcome coding blockages. -->**
 <!--
 A SECTION HERE THAT COULD BE REPLACED.
 Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
@@ -689,7 +683,7 @@ More on role of parent and child to negotiate approaches which maximise engageme
 Somethinkg about more direct link between code and output. - as with block coding - this is an intermediate step.
 -->
 
-There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their childrens. When invited to share about their design process in a post session interview, Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Ma prompts
+There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their children. When invited to share about their design process in a post session interview, Fi and Ma also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Ma prompts
 
     Mi: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
     Ma: What for the things that we need to do to it to finish it?
@@ -700,7 +694,6 @@ Later in the interaction, the parent outlines a different use of prototyping, th
 
     Ma: I was very excited by seeing Fi playing with this because it's interesting that everything doesn't have to be a paper and pen.
     It's nice to just for the kids to feel that they can sketch on Piskel straight off the bat without taking a tutorial or being told by an adult.  It's really intuitive and you just go straight into it.
-
     Mi: That's an interesting thing because in some ways it started off with people working on paper because I thought that would be really accessible. Yeah. And maybe it was through observations of people just going “Do you know what I’m just happy sketching on Piskel”.
     Ma: (Animatedly) The kids, all the kids I saw not just Fi.
     Mi: Digital sketching.
@@ -829,8 +822,7 @@ GDPs aid the overall process of design for others by providing discreet and clea
 <!-- We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience [@ratto_critical_2011].
 AND SO? -->
 
-
-#### Other examples and interpretation on designing for others / shifts of perspective
+**Other examples and interpretation on designing for others / shifts of perspective**
 
 In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations.
 
@@ -872,10 +864,9 @@ We can explore this behaviour from the child's perspective using terms from Acti
 
 In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
 
-While the final an operation for some participants it would be a more conscious process, for others it has become second nature.
+<!-- While the final an operation for some participants it would be a more conscious process, for others it has become second nature. -->
 
-Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on.
-Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
+Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on. Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
 
 <!-- This is seen in a similar example. As a common example the process of "getting it in the game".
 
@@ -917,7 +908,7 @@ References to such emerging practices driven by GDPs were present in many exchan
     Ma: So you can put you’re sprite back in again and you can crop it down.
 
 There are many other examples of processes being driven by desire to adopt an new GDP or more frequently to make frequent alterations to one that has a significant impact on player experience.
-
+COMPLETE OR REMOVE
 A fluid navigation to the relevant area of code to make key changes, especially level design is shown in vignette A by Sh.
 
 A similar fluidity of navigation between playing and coding window shown by all younger participants and many adults.
@@ -1071,12 +1062,15 @@ In 3M the use of GDPs by participants has been outlined in this chapter. A summa
 
 SUMMARY  - PERHAPS A TABLE HERE?
 
-<!--
-Wider commentary on pattern selection
+<!--Wider commentary on pattern selection
  [@dearden_pattern_2006] -->
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
-Blockage still occur, and participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
+**Game design patterns still allow complexity**
+
+Blockage still occur, and participants have to work with facilitators in depth to overcome issues
+This makes it possible for learners
+While the process of direction may be less totally learner-driven approach (as per first iteration). The advantages outweigh disadvantages.
 
 <!-- Or is the process of working on a sprawling problem which seems unmanagable,
 but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
@@ -1093,7 +1087,7 @@ The term abstraction has varied interpretation even within the field of computer
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as highlighted in Wing's take on CT. This is not to argue that Wing's approach to CT has technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing lead to mechanistic teaching of decontextualised concepts via formal teaching methods rather than hands-on exploration initial advocated by Papert's school [@resnick_coding_2020].
 
-NOTE - rework this and move to Literature Review.
+NOTE - PARTS OF THIS WILL LIVE IN Literature Review.
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them undertand the level of abstraction that they are working at  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
 This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
