@@ -1118,21 +1118,22 @@ The observations of this chapter show the advantages of GDP as an intermediate d
 
 The creation of designed objects using GDPS aid the personal appropriation and the propagation of technical and social processes game making practices.  Previously abstract concepts or processes become concrete through familiarisation via direct use and indirect observations through community participation.
 
-Both the GDPs and the sub-actions of the wider activity  design short cuts like "get it in the game" stand in for previously tricky to complete set of actions. In this context replicable in part refer to replication of design cycle. Once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners The process of operationalisation of these sets of actions helps create an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
+In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct,
 
-NOTE - AT SOME POINT MORE SPECIFICS EXAMPLES / CALL BACKS ARE NEEDED TO SUPPORT THE ABOVE
+Both the GDPs and the sub-actions of the wider activity design short cuts stand in for previously tricky to complete set of actions. Rather than concept transfer to other domains learners build competency in participation in replicable processes which aid future iterations of the GDP implementation design cycle. The process of operationalisation of these sets of actions contributes to the creation of an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
 
-Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or get it in the game (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
+Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or _get it in the game_ (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
 
-However, there are challenges of the use of these short cuts. There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming".
+There are challenges of the use of these short cuts and at a more general the design choice to lead with a menu of intermediate-level constructs in the form of a menu of GDPs.
 
-These issues reflect the nature of the process of operationalising discreet actions that make up the implementation stages of each design pattern. Tensions may be overcome with help from peer group and facilitators.
+IS THIS THE RIGHT PLACE FOR DRAWBACKS OF GDPS - OR IN THE ABOVE SECTION.
 
-There is also evidence that the process of technical processes becoming second nature, and the ability to show this to family and other peer groups members in empowering. The next section addresses the development and nature of agency in this learning design.
+There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming".
 
+GDPs can limit the ideation process through an accelerated approach. Also as the menus themselves are not all used by students, and while GDPs do propagate from student to student, which risk further constraints on the process of asking questions about user experience and exploring ideas before committing to implementation.
+NOTE - SUPPORT NEEDED FOR SOME OF THE ABOVE.  
 
-
-In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
+Participants show positive affect towards technical processes becoming second nature to them and their ability to share them with family and other peer groups. The next section addresses the development and nature of agency in this learning design.
 
 <!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
 "Abstraction level as a reflection of the so-called processobject duality" -->
