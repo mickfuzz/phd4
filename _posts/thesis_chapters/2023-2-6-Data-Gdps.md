@@ -47,20 +47,18 @@ title: Findings Chapter 2 - It’s like a project in itself really
     focus](#the-use-of-gdps-explored-from-a-personal-focus)
     -   [Use of GDPs to support debugging and the product revision
         process](#use-of-gdps-to-support-debugging-and-the-product-revision-process)
-    -   [GDPs as a way to surface and discuss Computational Thinking and
-        Systems
-        Concepts](#gdps-as-a-way-to-surface-and-discuss-computational-thinking-and-systems-concepts)
-    -   [Use of GDPs in personal dimensions of community
-        participation](#use-of-gdps-in-personal-dimensions-of-community-participation)
+    -   [GDPs as a way to surface and discuss embedded computational,
+        design and systems
+        concepts](#gdps-as-a-way-to-surface-and-discuss-embedded-computational-design-and-systems-concepts)
 -   [Discussion on the use of game design patterns in the 3M learning
     design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
-    -   [The freedoms and restrictions of
-        playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-    -   [Game design patterns as a intermediate-level construct to
-        facilitate developing coding
+    -   [Discussion on the use of design patterns and pattern
+        catalogues](#discussion-on-the-use-of-design-patterns-and-pattern-catalogues)
+    -   [Game design patterns as a intermediate-level construct to facilitate developing coding
         fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
     -   [Emerging concepts of learner agency in the
         design](#emerging-concepts-of-learner-agency-in-the-design)
+
 
 ## Introduction to This Writing
 
@@ -1098,7 +1096,7 @@ but which in with participants have to work with facilitators in depth to overco
 
 **Summary:** Game design patterns provide learners with a suitable vehicle to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
 
-The use of GDP by practitioners are compared to those of participants and synergigies are explored.
+
 
 #### Problematising the context of abstract / concrete concepts in computing education.
 
@@ -1109,20 +1107,18 @@ Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narr
 NOTE - rework this and move to Literature Review.
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them undertand the level of abstraction that they are working at  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
-This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Throught this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmentals story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
+This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
 
 In this chapter we have encounter examples of the use of GDP as a concrete and relatable construct that facilitates communication, engagement, planning and division of labour. Then enactment of GDP emerged from this exploratory design to be the key unit of activity.
 
-
 <!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
 "Abstraction level as a reflection of the so-called processobject duality" -->
-
 <!-- LINK
 The process of abstraction is present in a tacit way in the process of actions becoming operations. -->
 
 
-MOVE LATER?
-As we have explored in this chapter game making using game design patterns creates a tangible link between player experience and the creative process.  
+
+
 
 In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct, AND
 In addition, the use of code playground abstracts away complexities of a development environment, and the immediacy of feedback facilitates  fluid and rapid interchange between the code view and resulting web output.
@@ -1138,7 +1134,7 @@ In their research Eriksson and colleagues on using gameplay design patterns to c
 
 In this framework, previously abstract concepts or processes become concrete through familiarisation via repeated use. hared design short cuts like "get it in the game" stand in for previously tricky to complete set of actions.  
 
-The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to
+The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to be repeated and too
 
 The benefits and challenges can be summarised below.
 
@@ -1146,11 +1142,12 @@ The creation of designed objects and the development of personal knowledge but a
 
 #### GDP as concrete enough to be understandable but abstract enough to be replicable
 
-In this context replicable means that once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners.
+As we have explored in this chapter game making using game design patterns creates a tangible link between concrete player experience and the affordances of a guided creative process.
 
-In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
+In this context replicable in part refer to replication of design cycle. Once the implementation of one GDP is complete, the process of implementing another shares similar practices, thus building competency of learners.
 
-Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
+<!-- In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation. -->
+<!-- Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter. -->
 
 Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or get it in the game (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
 

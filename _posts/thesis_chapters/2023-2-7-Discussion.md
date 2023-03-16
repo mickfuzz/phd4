@@ -500,3 +500,13 @@ Is this a missed opportunity to surface and discuss those patterns? cf [@eriksso
 Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game.
+
+
+### Synergies of use of GDP by practioners and learners in research designs
+
+The use of GDP by practitioners are compared to those of participants and synergies are explored.
+
+
+### On transfer of gdps - debates
+In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
+Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.

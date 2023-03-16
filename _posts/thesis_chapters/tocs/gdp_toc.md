@@ -36,15 +36,13 @@
     focus](#the-use-of-gdps-explored-from-a-personal-focus)
     -   [Use of GDPs to support debugging and the product revision
         process](#use-of-gdps-to-support-debugging-and-the-product-revision-process)
-    -   [GDPs as a way to surface and discuss Computational Thinking and
-        Systems
-        Concepts](#gdps-as-a-way-to-surface-and-discuss-computational-thinking-and-systems-concepts)
-    -   [Use of GDPs in personal dimensions of community
-        participation](#use-of-gdps-in-personal-dimensions-of-community-participation)
+    -   [GDPs as a way to surface and discuss embedded computational,
+        design and systems
+        concepts](#gdps-as-a-way-to-surface-and-discuss-embedded-computational-design-and-systems-concepts)
 -   [Discussion on the use of game design patterns in the 3M learning
     design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
-    -   [The freedoms and restrictions of
-        playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+    -   [Discussion on the use of design patterns and pattern
+        catalogues](#discussion-on-the-use-of-design-patterns-and-pattern-catalogues)
     -   [Game design patterns as a intermediate-level construct to
         facilitate developing coding
         fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
