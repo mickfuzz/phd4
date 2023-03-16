@@ -490,3 +490,14 @@ Another example shows an evolving fluidity in response. Ch incorporates a boost 
 Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
 
 This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
+
+
+
+## Thoughts Log - things that may end up here.
+
+### GDPs that are already in the template
+
+Some GDPs were not made a part of the menu of options as they were already in the template.
+For example Reward.
+
+Is this a missed opportunity to surface and discuss those patterns? cf [@eriksson_using_2019]

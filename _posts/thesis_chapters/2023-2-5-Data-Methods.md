@@ -60,6 +60,11 @@ Based on Specific Interventions/ Design Choices and responses
 
 ### Creating Community Activity   
 
+- Theortical context
+  - Collaration from AT perspective - "collaborative activity" see [@eriksson_using_2019] for an overview
+
+
+
 - Peer - side by side coding.
   - Parents coding too. See the comments by Mi and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
 

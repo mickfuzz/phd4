@@ -1076,21 +1076,28 @@ The majority of this chapter has focused on interpretation of observations of pa
 
 The process of creating a learning design where students were able to choose from a curated set of game design patterns is covered in the design chapter of this thesis. In this section the response of users is explored in relation to other research on this areas.
 
-Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to a collaborative game. It is useful to compare the supports and approach of Eriksson's study with that of the 3M intervention of this study.
+Firstly the concept of a restricted activity is well trodden ground outlined in many guidelines including Bruner's reducing degrees of freedom [@wood_role_1976]. In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game called Stringforce. It is useful to compare the supports and approach of Eriksson's Stringforce study with that of the 3M intervention of this study.
 
-A key differences is that while Eriksson's study involved learner analyis of games and co-design of conceptual changes to existing games, it did not involved the learners creating prototypes or finished games using code.  
+The overall goal of the analysis of GDPs also differ, in the 3M study the principle goal is analysis of the use of GDPs by learners to aid their goals in creating their own games. In Eriksson's study the principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019]
+The Stringforce study involved learner analysis of games, the ability to change level design via graphical editor and co-design of proposed conceptual changes to existing games. Unlike 3M it did not involved the learners then adding new patterns to games using code.  
 
-One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options. Eriksson's study selected 15. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
+One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options. The Stringforce study selected 14. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
 
  <!-- Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter)  -->
 
-In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study.
+In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study. However, in Eriksson's study the authours selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].
 
-However the process of selection differed in that in Eriksson's study the authours selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].  In addition the results of their research outlines some of the advantages and challenges of the process the analysis from both the perspective of designers and participants.
+While their results on the advantages and challenges of patterns use focus principally on the perspective of designers, the participant is also shared. I explore some of the opportunities and challenges they surface addressing learner perspective.  
 
-For participants, advantages include
+Providing a common language; GDPs served both researchers and participants to clearer in their analysis of gameplay experience    
 
-For researchers, advantages include 
+- 
+
+inspirational structured design tool, framing of the activity, bleed of pattern use, intermediate level knowledge
+
+
+
+For researchers, advantages include
 
 Because game making is not goal for participants, at times it is not clear exactly the motivation for the participants is in terms of using GDP terms.
 Data is lacking.
@@ -1098,12 +1105,9 @@ Data is lacking.
 <!--
 Wider commentary on pattern selection
  [@dearden_pattern_2006] -->
-
-
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
 Blockage still occur, and participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach (as per first iteration)
-
 
 **Play testing, playgrounds and a walled garden - impact on agency**
 
