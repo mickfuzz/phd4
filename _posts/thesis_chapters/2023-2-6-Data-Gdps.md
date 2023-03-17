@@ -226,37 +226,12 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 
 ### Descriptive Commentary on Vignette A
-<!-- ## WAS Observations of use of Game Design Patterns in Vignette A -->
-
-<!-- NOTE - COULD AT 3RD GEN TERMS - COMMUNITY, RULES ETC BE USED FOR THIS ACTIVITY SYSTEM IN THIS COMMENTARY - TRY IT?
-BUT WHY NOT 3 PLANES - THAT MAY BE BEST FOR CONSISTENCY - TRY ONE -->
-<!-- RESPONSE - It may be better even to compress this down and not use too much in the way of concpts.  
-
-Perhaps just mention 3 foci at the end of this section?
-NOTE - Commentary on replacing of level of analysis (confusing to some as hierachical ), with the term foci of analysis.
-
--->
-
-
-
- <!-- using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. More detailed interpretation and analyis of these interactions follow in later sections.   -->
-<!-- Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction. -->
-
 
 The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The child wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
 
-<!-- The process of adding new levels is something that one participant Te has been teaching other children to do via peer support. He has added so many levels to his own game that children and parents in this session are commenting in on it.  -->
-
-<!-- For  Mi and Other Parent - "Have you seen Te's game it has 21 levels." -->
-<!-- NOTE - CHECK THE GLITCHING / PLANNING TERMS WITH PREVIOUS CHAPTER -->
-
-For both parent and child there is an explicit awareness of game making patterns, the cultural conventions of a platformer game and concept of the game as a dynamic system. These awarenesses drive their work on the design and coding mechanics of the game.  The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying .
+For both parent and child there is an explicit awareness of game making patterns, the cultural conventions of a platformer game and concept of the game as a dynamic system. This awareness drives their work on the design and coding mechanics of the game.  The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying .
 
 Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a desire to play against game conventions with a desire to confuse or disorient players.
-
-
-<!-- Drop tool use here - not specifically GDPs
- One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
