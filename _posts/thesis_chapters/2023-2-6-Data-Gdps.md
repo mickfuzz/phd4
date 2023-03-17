@@ -513,39 +513,37 @@ This section examines the use of GDPs to facilitate guided participation via int
 ### GDPs used to facilitate prioritisation
 
 <!-- informal task division -->
-
-The following exchange between participants Fi and Ma shows GDPs being used to organise future activity.
+The following exchange between participants Fi and Ma shows GDPs being used to try to organise future activity.
 <!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
 
-    Ma: I’ve brought the music, and also we could just concentrate on one thing and just change that.
-    You know, keep working through.
+
+    TURN IN TO TABLE WITH DESCRIPTION
+    Ma: I’ve brought the music, and also we could just concentrate on one thing and just change that. You know, keep working through.
     Fi: Yeah. I think I want to get an enemy in - oh no - my person animated.
     Ma: So you want to get your person animated that’s the main thing.
     Ma: Shall we concentrate on that and changing the platforms into something different?
     Fi: Yeah.
     Ma: Yeah?
     Fi: I also want to make a theme tune.
-    Ma: Yeah it’s, that’s what I mean, you can’t just skip around like that.
-    Fi: hmmm
-    Ma: just cos it gets really overwhelming.
+    Ma: Yeah. It’s, that’s what I mean, you can’t just skip around like that.
+    Fi: Hmmm.
+    Ma: Just cos it gets really overwhelming.
     Ma: Yeah..? So…?
-    Long pause
+    Long pause.
     Ma: Well I’ll have a look at the code and see if I can make sense of that.
 
-At this point the parent engages with a print out of supporting documentation on added an animation to the main character. This example shows the use of the approximate names of a number of game design patterns by the child adult. These are get the person animated, get an enemy in, changing the platforms into something different, make a theme tune. At this stage of their process, some of these patterns have been discussed and sketched out some started but only partially completed. For example, the child has designed different frames of animation but this has not been exported to the right format or implemented in code form. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and a parental motivation to prioritise one work to be done. This tension is outlined when the parent gives an update on progress.  
+At this point the parent engages with a print out of supporting documentation on added an animation to the main character. This example shows the use of the approximate names of a number of game design patterns by the child adult. These are _get the person animated_, _get an enemy in_, _changing the platforms into something different_, _make a theme tune_. At this stage of their process, some of these patterns have been discussed and sketched out some started but only partially completed. For example, the child has designed different frames of animation but this has not been exported to the right format or implemented in code form. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and a parental motivation to prioritise one work to be done. This tension is outlined when the parent gives an update on progress.  
 
 <!-- Patterns and the multiple actions and operations they entail are referred to briefly using short cut names.   -->
 
-    Mick: Hello
-    Ma: Hi Mick
-    Ma: So we’ve made quite a lot of progress this week. I think the issue we’re having is that Fi’s super excited so we’re kind of jumping from one thing to another and that’s kinda overwhelming me a bit.
+    Mick: Hello.
+    Ma: Hi Mick.
+    Ma: So, we’ve made quite a lot of progress this week. I think the issue we’re having is that Fi’s super excited so we’re kind of jumping from one thing to another and that’s kinda overwhelming me a bit.
 
-The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process however the parent seems to lack the skill to map these out and then to work together to prioritise them. Instead he appears to be keen to quickly pick one delving into the difficulty of the documentation.
+The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process. However the parent seems to lack a process to map these out and then to work together to prioritise them. Instead he appears to be keen to quickly pick one. His suggested process is to then work through the documentation on that pattern. Fi appears reluctant to adopt this working process which creates a tension which is explore in the next part of this chapter.
 
-<!--
-Discussion later or before??? Maps -
-GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory.
-Some kind of support help scaffold this process would be potentially productive. Changes to the emerging 3M design to  provide such support are explored in the following chapter. -->
+<!-- Discussion later or before??? Maps -
+GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive. Changes to the emerging 3M design to  provide such support are explored in the following chapter. -->
 
 **Other examples of use of GDPs for prioritisation** can be seen in the following participants.
 TO COME
@@ -581,19 +579,19 @@ THIS DOESN'T SEEM RIGHT
 Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's
 compliance may be a kind or pragmatic decision to allow smoother progress. -->
 
-The father describes previous lack of prioritisation as 'skipping around like that' or 'jumping all over the place' as 'overwhelming' the child seems happy to takes a more piecemeal approach. The child suggests a possible resolution to the current blockage. He suggests splitting and using one laptop each. He names one of the other pattern. The listing of GDPs in the previous exchange seems to empower the young person to direct an informal division on labour.
+The father describes previous lack of prioritisation as 'skipping around like that' or 'jumping all over the place' as 'overwhelming' the child seems happy to takes a more piecemeal approach. The child suggests a possible resolution to the current blockage. He suggests splitting and using one laptop each. He names one of the other pattern. The listing of GDPs in the previous exchange seems to empower the young person to direct an informal division on labour. The child continues to work on parallel patterns or component actions of pattern using tools and processes which he is more familiar with. This child also begins researching other toolsets, in this session, research to identify an online tool to create an short audio soundtrack. This serves the child as it allows them to avoid waiting for their father and moving different parts of the overall project forward.
 
-### GDPs aiding the process of division of labour
+The implementation of some GDP involved the use of different tools and activities. As learners build the familiarity with the component actions needed to implement design patterns, some start to specialise as they divide labour between pairs or peers, For example in this case the child appears to make a tactical decision allowing the father to decipher technical instructions and implement them in the code of their game as they creating assets in non-code / GUI environments.
 
-The implementation of some GDP involved the use of different tools and activities. For example, the design of a graphical element suited some learners and they depended on the support of others to implement those changes in code. In this exchange, the child suggests continuing with activities to fit his existing skill set of creating assets in non-code / GUI environments. The child appears to make a tactical decision allowing the father to decipher technical instructions and implement them in the code of their game.
+<!--
+NOTE - MOVE TO LATER CHAPTER AS ILLUSTRATIVE OF FLEXIBLE DESIGN?
 
+ While the father was keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. The father becomes distracted from his stated task as he is responsive to help the child when they get stuck on an alternative pathway they have chosen to avoid waiting on the parent. While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent. -->
  <!-- both with the familiar graphical asset tool Piskel and exploring new territory by researching an seeking a new tool for creating audio assets, specifically a background theme tune .  -->
-
-The child is able to jump around and work on parallel projects using their existing tools set, or even taking on researching other toolsets, for example independent work to find an online tool to created. This serves the child as it allows them to keep busy and moving different parts of the overall project forward. While the father was keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. The father becomes distracted from his stated task as he is responsive to help the child when they get stuck on an alternative pathway they have chosen to avoid waiting on the parent. While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent.
 
  <!-- While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations. -->
 
-Different pairs approached division of labour in various ways. Sh and Th also relied on the parent to do the majority of code implementation but shared one computer. The opening vignette shows the child use the name of a GDP as a way to communicate about the shared work of making a game.
+Different pairs approached division of labour in various ways. In a later example, we see how although Mi and her daugher Ne are working on differnet projects on a fair distance from each other, Mi relies on Ne's coding help. Sh and Th relied on the parent to do the majority of code implementation and shared one computer. The opening vignette shows the child use the name of a GDP as a way to communicate about the shared work of making a game.
 
      Th: Go on then. Key - Door - Person.
      Sh: Person?
@@ -615,13 +613,10 @@ While the child's activity away from the screen and the main objective of coding
 
 <!-- COMMENTARY /WITH A FOCUS ON AGENCY -->
 
-This arrangement seems mutually suitable for these participants. For this pair, complex tensions emerged between varied goals of activities. Namely to complete the game, to keep the child involved in different parts of the design process. Study of there interactions show woth the parent and child adopting varied strategies to navigate solutions to these tensions.
-
+These divisions of labour seem beneficial for many participants however complex tensions emerge between varied goals as focal activities shift. Study of there interactions show the parents and children adopting varied strategies to navigate solutions to these tensions. The complexities of this design process are explored in more depth in the following discussion chapter.
 
 <!-- NOTE - LINK TO PREVIOUS CHAPTER ON FLEXIBILITY OF DESIGN -->
 
-**Other examples of division of labour**
-TO COME
 
 <!-- In a following example we see child Ne helping her mother to overcome coding blockages. -->**
 <!--
