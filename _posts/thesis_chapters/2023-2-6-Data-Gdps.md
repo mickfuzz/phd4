@@ -36,8 +36,6 @@ title: Findings Chapter 2 - It’s like a project in itself really
         prioritisation](#gdps-used-to-facilitate-prioritisation)
     -   [GDPs aiding the process of division of
         labour](#gdps-aiding-the-process-of-division-of-labour)
-    -   [GDPs aiding the process of division of
-        labour](#gdps-aiding-the-process-of-division-of-labour-1)
     -   [GDPs used to scaffold ideation
         processes](#gdps-used-to-scaffold-ideation-processes)
     -   [GDPs facilitating designing for
@@ -688,6 +686,7 @@ As aligned with the learning design principle of rapid feedback, changes in the 
 
 **Other examples of GPDs helping the ideation process**
 
+NOTE - TO DEVELOP AFTER MORE ANALYSIS OF VIDEO DATA.
 The use of GDPs to scaffold the ideation process was a common pattern used by X of the Y sessions analysed.
 
 In summary, some GDPs allow the spacial exploration of design in a way that suits being mapped onto paper, or onto graphical software which allows for a similar sketching experience.  
@@ -738,7 +737,7 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 ### GDPs facilitating designing for others
 
-As explored previously, playtesing as a regular practice can shift learners to a perspective of designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs. EXPLAIN.    
+As explored previously, playtesing as a regular practice can shift learners to a perspective of designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs.
 
 In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter). This interaction shows the use of terms from GDPs to both explain and negotiate a conflict over the imagined user experience.
 
@@ -797,13 +796,10 @@ In interpreting data there were other examples of pair partners and peers either
 
 ### GDP driving adoption of emerging technical processes
 
-The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on. Sometimes very explicitly as a parent explains, facilitates or guides a process as with Te and Da in the last chapter with documentation. At times technical processes are passed on informally in more casual help interactions.
-
-Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot then follow or replicate.
+The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on. Sometimes very explicitly as a parent explains, facilitates or guides a process as with Te and Da in the last chapter with documentation. At times technical processes are passed on informally in more casual help interactions as illustrated in the following example.
 
     NOTE - COVERT TO TABLE
     Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
-
     Mi:  Oh no it’s not done that has it?
 
     Mi calls the name of her child across room with theatrical gesture and loud whisper voice
@@ -827,16 +823,11 @@ Ne appears reluctant to help at first and when she does she is mostly non-verbal
 
 <!-- Taking a more focused view of the activity here would be implementing a game design pattern - e.g. adding keys and doors pattern in this case. On the level of action, creating a graphical asset of a key and adding this to the level design. The operation would be the exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool. -->
 
-The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
+In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. Ne appears reluctant to help at first and when she does she is mostly non-verbal and makes changes quickly in a way that her mother cannot initially follow or replicate. The process of explaining this to her parent would be more time consuming. There may also be a power dynamic happening as well with the child enjoying showing proficiency without sharing the process perhaps as a performative demonstration agency or growing status within this community.  
 
-We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.
-
-In this interaction the parent is focused on completing the action of creating a graphical asset of a hazard as part of the activity of adding the GDP of including a hazard into the game. We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency.
+We can explore this behaviour from the child's perspective using terms from Activity Theory. The process of exporting and importing has become an 'operation' for Ne through repeated practice.  We can see that the operation of changing pen colours on the graphical tool is one which the child has been able to translate into a effortless process whereas the parent is still consciously building her competency. Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on. Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
 
 <!-- While the final an operation for some participants it would be a more conscious process, for others it has become second nature. -->
-
-Ne has operationalised the process and it becomes part of the toolset of practices that she can draw on. Mi also benefits, as she is able to draw on the expertise of her child to undertake that process. She is also keen to develop her own competency as indicated by her asking child to explain the process.
-
 <!-- This is seen in a similar example. As a common example the process of "getting it in the game".
 
     Mi - Ne!, Ne! Ne.
@@ -876,12 +867,7 @@ References to such emerging practices driven by GDPs were present in many exchan
     Mi: Yeah. Yeah that’s what’s happening. So..
     Ma: So you can put you’re sprite back in again and you can crop it down.
 
-There are many other examples of processes being driven by desire to adopt an new GDP or more frequently to make frequent alterations to one that has a significant impact on player experience.
-COMPLETE OR REMOVE
-A fluid navigation to the relevant area of code to make key changes, especially level design is shown in vignette A by Sh.
-
-A similar fluidity of navigation between playing and coding window shown by all younger participants and many adults.
-
+There are many other examples of processes being adopted by participants through the implementation of GDPs including the fluidity of navigation between playing and coding window shown by all younger participants and many adults and the development of keyboard and mouse coordination to facilitate navigation within the code environment and external support resources to facilitate the code patching process.
 
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
@@ -934,22 +920,17 @@ May need a way to differential this chapters discussion of GDP - and that of the
 
 ### Use of GDPs to support debugging and the product revision process
 
-Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. (NOTE - I may be able to extract this from coding data).
+_NOTE - This section is particularly underdeveloped at this stage_
 
-In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug Javascript errors or the process of hovering over red dots in the code playground to explore error messages.
+Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug JavaScript errors or the process of hovering over red dots in the code playground to explore error messages.
 
 <!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
 
-In the area of product revision the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge.
-
-The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern.
-
-The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
+In the area of product revision the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge. The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern. The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
 
 <!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 CAN i FIND ANY KEY EXAMPLES OF THIS?
 -->
-
 
 ### GDPs as a way to surface and discuss embedded computational, design and systems concepts
 
@@ -980,10 +961,7 @@ It is of value to examine the learning context and the motivations of the learne
 
 Indeed following foundational literature of this study on CoP and CoL,  personal appropriation of practices and concepts is demonstrated in community activity through evolving peer practices. As explored previously pairs or individuals alternate between community playtesting and pair/individual design work. They share comments and the are guided in future design decisions by their interaction with the games of others.
 
-The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
-
-One to one instruction from facilitators was limited which encouraged the community to teach each other. The community of learners began to pitch in in their own ways and develop their own practices. Here learner agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners.
-
+One to one instruction from facilitators was limited which encouraged the community to teach each other. The community of learners began to pitch in in their own ways and develop their own practices. Here learner agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners. The process of playtesting other games allowed participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
 
 <!--
 NOTE - REINTEGRATE IF USEFUL
@@ -1026,73 +1004,48 @@ While their results on the advantages and challenges of patterns use focus princ
 
 GDPs served both researchers and participants by _providing a common language_ to clarify first learner expression and researcher's analysis of gameplay experience. Gdps functioned as an _inspirational structured design tool_ Eriksson's study outlines the utility notes teacher observations that GDPs served to stimulate learner imagination and ideation stages. The use of a patterns and their collection as a form _intermediate-level knowledge_ by both researchers and participants is under-explored in this study but builds on related work by two of the authors and is explored in the next part of this chapter.  
 
-
-
 In 3M the use of GDPs by participants has been outlined in this chapter. A summary is included in Table 6.x
 
 SUMMARY TABLE HERE -
 
-There is a start of a table which could be developed by adding a column "Summary of user actions (use perspective of agency and affordances in processes)"
+This table will be developed by adding a column "Summary of user actions (use perspective of agency and affordances in processes)"
 
 https://docs.google.com/document/d/1gBAwPkOtvyFJyoJeoK6HmOTyZ6np5fcqn5Jf5_j2ZLA/edit#
 
-
-<!--Wider commentary on pattern selection
- [@dearden_pattern_2006] -->
-<!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
-
-
-
-<!-- Or is the process of working on a sprawling problem which seems unmanagable,
-but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
-
 ### Game design patterns as a intermediate-level construct to facilitate developing coding fluency
-
-<!-- NOTE how much to pitch to exploring Abstract concepts or not I'm not sure. -->
 
 **Summary:** Game design patterns provide learners with a suitable vehicle to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
 
 #### Problematising conceptions of abstract / concrete concepts in computing education.
 
+NOTE - PARTS OF THIS WILL LIVE IN LIT REVIEW.
+
 The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
-Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as highlighted in Wing's take on CT. This is not to argue that Wing's approach to CT has technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing lead to mechanistic teaching of decontextualised concepts via formal teaching methods rather than hands-on exploration initial advocated by Papert's school [@resnick_coding_2020].
+Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
 
-NOTE - PARTS OF THIS WILL LIVE IN Literature Review.
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them undertand the level of abstraction that they are working at  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
 This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
 
 #### Implications for facilitators and designers
 
-In professional coding programmes design patterns, particularly in object-oriented approaches and in the domains HCI are seen as a useful middle ground between abstract CT concepts and more concrete techniques.
+In professional coding environment and training programmes design patterns, particularly in object-oriented approaches and in the domains HCI are seen as a middle ground between abstract CT concepts and more concrete techniques.
 
     In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
 
-Earlier in this chapter the work of Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] draw inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
+Earlier in this chapter the work of Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018]. Similarly, the implementation GDPs was the identification as a key unit of activity and analysis for this study, the justification being that it was at this level that richest use and development of tools and processes by the emerging community took place.
 
-The implementation of GDP to be the key unit of activity for this study as it was at this level that there was a richest use and development of tools and processes by the emerging community.
+The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to be repeated and too abstract to be grasped by novice game makers. GDPs create a tangible link between concrete player experience and the affordances of a guided creative process. Learners use of GDP as relatable and flexible constructs that facilitate  communication, sustaining engagement, planning and division of labour. The creation of designed objects using GDPS aid the personal appropriation and the propagation of technical and social processes game making practices.  Previously abstract concepts or processes become concrete through familiarisation via direct use and indirect observations through community participation. In many of the outlined uses of GDPs in chapter we can see processes at play that help bridge shifts in design perspective. Both the GDPs and the sub-actions of the wider activity design become short-cuts which stand in for previously tricky to complete set of actions. Rather than promising the transfer abstract concepts to other domains, we see learners build competency in participation in replicable processes. These processes which aid future iterations of the GDP implementation design cycle. The process of operationalisation of these sets of actions contributes to the creation of an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
 
-The observations of this chapter show the advantages of GDP as an intermediate design concept, hovering in the space between too concrete to be repeated and too abstract to be grasped by novice game makers. GDPs create a tangible link between concrete player experience and the affordances of a guided creative process. Learners use of GDP as relatable and flexible constructs that facilitate  communication, sustaining engagement, planning and division of labour.
+Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or _get it in the game_ (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed, to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
 
-The creation of designed objects using GDPS aid the personal appropriation and the propagation of technical and social processes game making practices.  Previously abstract concepts or processes become concrete through familiarisation via direct use and indirect observations through community participation.
 
-In some of the outlined uses of chapter we can see process at play that helps bridge shifts in design perspective including; the use of a graphical representation of a programmatic construct,
+NOTE - SUPPORT NEEDED FOR SOME OF THE BELOW - AND MORE DISCUSSION NEEDED ON CHALLENGE IN GENERAL
 
-Both the GDPs and the sub-actions of the wider activity design short cuts stand in for previously tricky to complete set of actions. Rather than concept transfer to other domains learners build competency in participation in replicable processes which aid future iterations of the GDP implementation design cycle. The process of operationalisation of these sets of actions contributes to the creation of an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
+There are challenges of the use of these short cuts and at a more general the design choice to lead with a menu of intermediate-level constructs in the form of a menu of GDPs. There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming". GDPs can limit the ideation process through an accelerated approach. Also as the menus themselves are not all used by students, and while GDPs do propagate from student to student, which risk further constraints on the process of asking questions about user experience and exploring ideas before committing to implementation.
 
-Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or _get it in the game_ (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
-
-There are challenges of the use of these short cuts and at a more general the design choice to lead with a menu of intermediate-level constructs in the form of a menu of GDPs.
-
-IS THIS THE RIGHT PLACE FOR DRAWBACKS OF GDPS - OR IN THE ABOVE SECTION.
-
-There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Fi and Ma's interaction hides a large amount of problems solving which seems "overwhelming".
-
-GDPs can limit the ideation process through an accelerated approach. Also as the menus themselves are not all used by students, and while GDPs do propagate from student to student, which risk further constraints on the process of asking questions about user experience and exploring ideas before committing to implementation.
-NOTE - SUPPORT NEEDED FOR SOME OF THE ABOVE.  
-
-Participants show positive affect towards technical processes becoming second nature to them and their ability to share them with family and other peer groups. The next section addresses the development and nature of agency in this learning design.
+Despite these challenges, research of data overwhelmingly indicates the positive affect of participants in implementation of GDPs. This is shown particularly in a growing sense of mastery towards technical processes becoming second nature and the resulting ability to share them with family and other peer groups. On a related note, the next section addresses the development and nature of agency in this learning design.
 
 <!-- An alternative take [@perrenet_exploring_nodate-1] looks at abstraction as...
 "Abstraction level as a reflection of the so-called processobject duality" -->
@@ -1188,7 +1141,7 @@ While the process of direction may be less totally learner-driven approach than 
 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
 
-These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explore the intersection of these elements in more detail.
+These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
 
 
 <!-- For exa In the language of double stimulation, a tension of relative inactivity at times is overcome by invitations to playtest and resulting interaction. -->
