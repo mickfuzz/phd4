@@ -358,9 +358,7 @@ Other children come and play the game but only for less than a minute before lea
 
 While the players do not tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
 
-
 <!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
-
 
 ### The propagation of use of GDPs and associated practices stemming from playtesting
 
@@ -422,7 +420,6 @@ In the following example home funds of knowledge are utilised not only in terms 
 <!--
 The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources. Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
 -->
-
 
     Da: Have you thought about pushing it a bit further and have a different style of game?
     Te: What do you mean?
@@ -491,27 +488,27 @@ Extract from 2019-05-08 - 20 mins -->
     Te: Right what shall we add next? So it follows?
     Da: yeah that would be interesting wouldn’t it.
     Te: you know like the ghost in pac-man
-    Te: I think it’ll be in here. (Looking at menu of Game Mechanics – can’t see it)
-    _Te navigates to the online pattern menu._
+    Te: I think it’ll be in here.
+    Te navigates to the online pattern menu.(Looking at menu of Game Mechanics. He can’t see what he is looking for.
+
     Te: We could add some player health.
-    Da indicates at the moment this work ok.
-    Te: shall we try to get Mick for this
-    Da: ah we could google it.
+    Da indicates at the moment this works in the game. They appear to be at a blockage
+
+    Te: Shall we try to get Mick for this?
+    Da: Ah we could google it.
     They google "phaser pacman"
 
-In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to
+In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to find one that matches his goal. Rather than persist with the imagined pattern Te suggests progressing by changing goals to one which is listed in the pattern menu. The father resists this diversion by suggesting that they use a search engine to step outside the sandbox of provided tutorials and code examples to find resources from communities on the internet.
 
-The pair's process here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples.
+The pair's process of using supporting documents here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples. The professional practices of accessing professional documentation involves cultural elements here of a family learning culture between these two playing out in these processes. Te and Da's design process is more guided and focused than many other participants. As this interchange exploring professional documentation resources continues, the father starts as a facilitator  taking a lead from the direction of the child. However, as the dialogue progresses he begins to be more directive, initially by asking leading questions and testing existing knowledge. Finally in order to complete the research task after reaching the beyond of the child's knowledge, the father issues a series of more direct instruction, directing the research and proposing a coding solution for their new game design pattern. (INCLUDE TRANSCRIPT AS APPENDIX?)
 
-NOTE DESCRIPTION TO COME.
+This approach appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary). Interview extracts (included as appendices) show a direction to support the novices direction as a facilitator where possible.
 
-To explore the use of of professional practices of accessing professional documentation the previous exchanges between Te and Da can be revisited.
+    I try never to touch the keyboard of who's there. If they are stuck on something I always tell them what to do. Even if it's then taken me five minutes to explain what a semicolon is. And point. It's that key. Because it was just, I could do it so effortlessly. I think I'm sure I put people off very quickly by "Dave did something really quickly. I don't know what it was.".
 
-NEED TO DEVELOP THIS WITH AN EXAMPLE
+ This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
 
 <!-- NOTE - dropping pair programming
-
-
 These two examples stem from the wider cultural experiences and practices of the pair's home coding style and the parents experience taking part in professional community coding activities.
 
 There are cultural elements here of a family learning culture between these two playing out in this space. This example is typical of other interactions of this pair. Te and Da's design process is more guided and focused than many other participants.
@@ -525,15 +522,15 @@ In a way opening up a new seam of community activity and family of GDPs associat
 game. There is a parallel here to play theory which identifies the value of playful environments to provide challenge but within some boundaries of safety. Here the pair step outside of the magic circle? to expand the circle? Shifting the tools and norms of the wider activity.
  -->
 
-
+<!--
 These range of use of supporting documents from code examples, bespoke step by step examples and the use of professional practices and documentation,
-COMPLETE
+COMPLETE -->
 
 The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 ## The use of GDPs examined from an interpersonal focus
 
-This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch in adding levels to his game.
+This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch1 in adding levels to his game.
 
 <!-- DROP LARGER CATEGORISATION - TOO ARBITRARY
 ### GDPs for project organisation / coordination -->
@@ -623,9 +620,9 @@ The child is able to jump around and work on parallel projects using their exist
 
 Different pairs approached division of labour in various ways. Sh and Th also relied on the parent to do the majority of code implementation but shared one computer. The opening vignette shows the child use the name of a GDP as a way to communicate about the shared work of making a game.
 
-     T: Go on then. Key - Door - Person.
-     S: Person?
-     T: Key Door Person.
+     Th: Go on then. Key - Door - Person.
+     Sh: Person?
+     Th: Key Door Person.
      T gestures with her hands to indicate that her mother is the person she is referring to.
 
 The utterance by the child "Key Door Person"  work on the game design pattern called Keys and Doors to the adult. The child appears to consider the level of complexity needed to add a new pattern into the code to be beyond her ability and thus directly delegate the task to her mother. Feedback from the parent indicated that this division of labour was partly due to reading ability.  
