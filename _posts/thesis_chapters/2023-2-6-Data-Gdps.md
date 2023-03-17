@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: Findings Chapter 2 - It’s like a project in itself really
 ---
+
 -   [Introduction to This Writing](#introduction-to-this-writing)
 -   [Chapter introduction](#chapter-introduction)
 -   [Study of Vignette A](#study-of-vignette-a)
@@ -54,7 +55,8 @@ title: Findings Chapter 2 - It’s like a project in itself really
     design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
     -   [Discussion on the use of design patterns and pattern
         catalogues](#discussion-on-the-use-of-design-patterns-and-pattern-catalogues)
-    -   [Game design patterns as a intermediate-level construct to facilitate developing coding
+    -   [Game design patterns as a intermediate-level construct to
+        facilitate developing coding
         fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
     -   [Emerging concepts of learner agency in the
         design](#emerging-concepts-of-learner-agency-in-the-design)
@@ -110,7 +112,7 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 ## Study of Vignette A
 
-To begin more detailed study of participant interactions taken from video recordings I use vignette to give a snapshot of the interactions of one family.
+In this section, to give an overview of the specifics of the learning design, and participant interactions I use vignette to give a snapshot of the interactions of one family. This comprises a table of participant dialogue, screenshots and description of their interactions including gestures followed by a summary interpretation of interactions.
 
 <!--
 // On line version is here
@@ -118,7 +120,9 @@ https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/
 
 -->
 
-For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
+_Context:_ For the previous five minutes the parent and child dyad have faced a blockage of a glitch in the software which prevents their wider objective of adding game design pattern of adding keys and doors to their game. In short, in this pattern the users must collect a key and then navigate to a door to progress to the next level. The parent Sh has been trying many different things and changing things in the code while the child Th has been expressing boredom. In response, Sh has expressed frustration and irritation. Finally Sh suggests that Th asks the facilitator Mick for help to resolve the coding blockage.
+
+INSERT VIGNETTE TABLE HERE
 
 <!--
 |**Dialogue**|**Activity**|
@@ -233,14 +237,11 @@ NOTE - Commentary on replacing of level of analysis (confusing to some as hierac
 
 -->
 
-In this section a summary of the interaction observed in the above vignette is described in broad strokes.
+
 
  <!-- using the foci of cultural, interpersonal and personal activity [@rogoff_observing_1995-1]. More detailed interpretation and analyis of these interactions follow in later sections.   -->
-
-
 <!-- Where appropriate I make observations on similar patterns of behaviour from the same pair from outside the scope of this interaction. -->
 
-<!-- **Cultural Focus:**  -->
 
 The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The child wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
 
@@ -257,27 +258,21 @@ Understanding of the game as a dynamic system is seen clearly in the parent’s 
 <!-- Drop tool use here - not specifically GDPs
  One interaction with the facilitator uses the debugging tool of the browser. [Move?] -->
 
-Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child.
+Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
-
-Cracking open a this seam allows for new possibilities. The process of working on a new GDP seems to motivate and sustain the child's activity. The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent.  The implementing a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child.
-
-The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
+Cracking open a this seam allows for new possibilities. The process of working on a new GDP seems to motivate and sustain the child's activity. The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementation of a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
 <!-- I propose that a contributing factor to this motivation is the ability to replicate a familiar pattern of game play via her own work in construction. It is the ability to translate this home knowledge into her own artefact which gives a sense of mastery over an otherwise foreign environment. -->
-
-
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-The adult is building proficiency in coding practice. This is shown in a variety of ways. Firstly through the process of adding code from documentation, but also in the fluidity of her navigation between advance coding, playtesting and then back to set up the coding environment for more basic coding of her child.
+The adult is building proficiency in coding practice. This is shown in a variety of ways including; finding and comprehending supporting documentation, fluidly navigating between undertaking more advanced coding to implement new GDPs, playtesting and preparing the coding environment for more basic coding of her child.
 
-The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background."
+This chapter now expands to represent the diversity of the coding and community practices of participants through focusing on their use of game design patterns.
 
-
+<!-- The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background." -->
 <!--
 #### TO INTEGRATE - Sustaining Engagement: Parental prompts aligned with ideation stages
 The parent navigates this process skilfully and is able to incorporate the child's interests.
@@ -307,14 +302,19 @@ In the previous chapter the role of cultural activities to engage and sustain en
 
 **The concepts of game challenge and game feel evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players.**
 
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.  
+The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity.
+
+<!-- The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.   -->
+
 <!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
 
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on. Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables.
+The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on.
 
-PERHAPS INSERT HOW - SCREEN SHOT?
+<!-- Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables. -->
 
-In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
+<!-- PERHAPS INSERT HOW - SCREEN SHOT? -->
+
+<!-- In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
 
 Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
 
@@ -327,38 +327,40 @@ Player jump (y) velocity was set very high but left right (x) velocity was slow.
     Mi: Oh right yeah.direct
     Mick: Yeah.
     Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.  
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.   -->
+    <!-- PERHAPS INSERT HOW - SCREEN SHOT? -->
 
-I share direct feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
+Parent Mi had been focused mostly on completing asset design. The only changes she had made to the deliberately frustrating initial player movement (discussed in design chapter) was to change player jump velocity. Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel.
 
-Ch likes the look of the game and begins with that as a comment.
+<!-- She had been made aware by her daughter Ne about the relevant game variables.
+In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." -->
 
-    Ch: That looks nice (referring to the graphical look of the game)
+As a facilitator, I shared feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
+
+    Ch1: That looks nice (referring to the graphical look of the game)
+
     Mi invites Ch to play as she can't progress due to the difficult game controls.
 
-    Ch: It jumps super high but so slow  
-    Pause.
-    Mi: He has to go slow be### GDPs and the emergence of gameplay concepts and practices through Playtesting
-    cause he's an astronaut, you see.    
-
-    Ch: It's hard.
-    Ch then leaves
-
+    Ch1: It jumps super high but so slow  
+    Pause
+    Mi: He has to go slow be  cause he's an astronaut, you see.    
+    Ch1: It's hard.
+    Ch1 leaves.
     Mi: (to peer parent with proud tone.) It's hard. Wow.
 
-    Fi comes to play the game
-
+    Fi comes to play the game.
     Fi: How much jump speed to you have?
     Fi: Your jump speed is massive.
 
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game. As a caveat, it is hard to be clear about the motives or decisions of Mi in this situation.
+We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
 
-Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating."
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
 
-In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
+While the players do not tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
 
-While the players do not, apart from Mi's daughter, tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in Lit review [@rogoff_cultural_2003].
-NOTE EXPAND EITHER HERE OR IN DISCUSSION.
+
+<!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
+
 
 ### The propagation of use of GDPs and associated practices stemming from playtesting
 
@@ -968,7 +970,8 @@ May need a way to differential this chapters discussion of GDP - and that of the
 Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. (NOTE - I may be able to extract this from coding data).
 
 In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug Javascript errors or the process of hovering over red dots in the code playground to explore error messages.
-PERHAPS PULL UP DETAILS OF DEBUGGING.
+
+<!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
 
 In the area of product revision the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge.
 
@@ -991,14 +994,11 @@ As explored in the last section, the implementation of GDPs and resulting errors
 
 _Decomposition_ is shown in several of the examples revisions to the agreed overall goal which break a larger problems into more manageable steps. For example Da the parent suggests to his child "Save that for version 1.1".  _Generalisation / pattern recognition_ is present in the work of nearly all participants as The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added. _Sequencing / algorithms_  are frequently explored in the resolution of errors with participants. In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?). _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter.
 
-
 <!--
 Te to find patterns and to duplicate them in different situations.
  2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added. -->
 <!--
  Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down -->
-
-#### GDPs and tensions between
 
 In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
 
@@ -1007,14 +1007,15 @@ My concern hinged on the potential disorientation of the learner that imposed sh
 In the literature review and methodology chapter we examined different interpretations of agency used by researchers using activity theory [@hopwood_agency_2022]. In interpreting the results of this chapter it is of value to explore Sannino's concept of transformative agency by double stimulation (TADS). This concept of agency is of particular value for this study as it acknowledges both the transformative role of the learner to the learning environment in a way which reflects the mutual development of this design.  
 
 My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
+THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
 
 It is of value to examine the learning context and the motivations of the learners both children and adults. Unlike formal schooling setting there are requirements of teaching to a curriculum and potential exam content. Thus as there was no external imposition, and no organic desire to explore more abstract concepts, I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
 
-Instead of through structured activities personal appropriation of practices and concepts is demonstrated in community activity as explored in a previous part of this chapter.
-
-When pairs or individuals return from playtesting to pair design work they share comments and the are guided in future design decisions by their interaction with the games of others.
+Indeed following foundational literature of this study on CoP and CoL,  personal appropriation of practices and concepts is demonstrated in community activity through evolving peer practices. As explored previously pairs or individuals alternate between community playtesting and pair/individual design work. They share comments and the are guided in future design decisions by their interaction with the games of others.
 
 The process of playtesting other games allows participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly.
+
+One to one instruction from facilitators was limited which encouraged the community to teach each other. The community of learners began to pitch in in their own ways and develop their own practices. Here learner agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners.
 
 
 <!--
@@ -1058,19 +1059,22 @@ While their results on the advantages and challenges of patterns use focus princ
 
 GDPs served both researchers and participants by _providing a common language_ to clarify first learner expression and researcher's analysis of gameplay experience. Gdps functioned as an _inspirational structured design tool_ Eriksson's study outlines the utility notes teacher observations that GDPs served to stimulate learner imagination and ideation stages. The use of a patterns and their collection as a form _intermediate-level knowledge_ by both researchers and participants is under-explored in this study but builds on related work by two of the authors and is explored in the next part of this chapter.  
 
+
+
 In 3M the use of GDPs by participants has been outlined in this chapter. A summary is included in Table 6.x
 
-SUMMARY  - PERHAPS A TABLE HERE?
+SUMMARY TABLE HERE -
+
+There is a start of a table which could be developed by adding a column "Summary of user actions (use perspective of agency and affordances in processes)"
+
+https://docs.google.com/document/d/1gBAwPkOtvyFJyoJeoK6HmOTyZ6np5fcqn5Jf5_j2ZLA/edit#
+
 
 <!--Wider commentary on pattern selection
  [@dearden_pattern_2006] -->
 <!-- NOTE: discuss the non-linear resources provided. Link this to Eriksson and collegeagues research. -->
 
-**Game design patterns still allow complexity**
 
-Blockage still occur, and participants have to work with facilitators in depth to overcome issues
-This makes it possible for learners
-While the process of direction may be less totally learner-driven approach (as per first iteration). The advantages outweigh disadvantages.
 
 <!-- Or is the process of working on a sprawling problem which seems unmanagable,
 but which in with participants have to work with facilitators in depth to overcome issues to preserve a totally learner-driven approach.  -->
@@ -1177,33 +1181,25 @@ Other examples of grokking concepts? -->
 
 This chapter has begun a process of exploration of the nature and evolution of agency in the practices of the participants through the varied use of GDPs.  In this final section I continue to explore emerging thoughts on learner agency in my design through the lens of existing research. The theme of conceptions of learner agency in this practice will be expanded upon in the following discussion chapter.
 
-**On affordances and anchors:**
+
+**On affordances and anchors**
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
 
-Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
+Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
-Sannino augments the concept of transformative agency by double stimulation (TADS)
+    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
 
-Then can be viewed together with the anchor metaphor as a catching point. Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them.
-[@hopwood_agency_2022].
+In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
+Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
 
+Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning).
 
-**Evolving Peer practices**:
-
-- One to one instruction to explain concepts and allow freedom of choice is ideal but unrealistic in classrooms.
-
-Even with a restricted set of patterns not all participants were able to patch in from the documentation.
-
-Thus the community started to teach each other, and this evolved in some unexpected directions.
-
-The community of learners began to pitch in in their own ways and develop their own practices.
-
-Agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners.
+In the next chapter, I propose that The implications of these combination of concepts the practice of designing and facilitating effective and engaging creative and technical learning environments. I will extract observations from this research that extend beyond the process of coding into other domains.  
 
 
+ <!-- Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them. -->
 <!--
-
 MOVE to Discussion?
 **Breaking out of the walled garden:**
 
@@ -1213,11 +1209,15 @@ But at the cost of maintaining a working game. -->
 
 **Tensions between facilitating agency and norming practices**
 
-This chapter has explored the use of game design patterns by participants to aid the development of their game making practices. Participants are able to use the affordances of the existing learning design and add their own evolving practice to them as a way of expressing and building agency. Examples of this dynamic agency include the use of graphical code structures, asking for peer or facilitator support etc.
+This chapter has explored the use of game design patterns by participants to aid the development of their game making practices. Participants are able to use the affordances of the existing learning design and add their own evolving practice to them as a way of expressing and building agency.
+
+<!-- Examples of this dynamic agency include the use of graphical code structures, asking for peer or facilitator support etc. -->
 
 However as a seeming counterpoint to this growing agency is the norming effects of concepts that gain community currency in playtesting. The repeated attempts by participants to make the jumping mechanic of Mi less frustrating can be seen as a potential drag on the agency or autonomy of Mi as a designer. However this may be a false dichotomy. Such norming practices can be seen from a different perspective. The following chapter begins with a deeper exploration of learner agency in relation to existing research in this domain.
 
 **The freedoms and restrictions of playgrounds**
+
+While the process of direction may be less totally learner-driven approach than the first iteration of the learning design P1, working with a starting menu of game patterns with support still provides challenges to learners and complexity of working processes. Design blockages still occur, and participants have to work with facilitators in depth to overcome issues. There is the possibility to adapt existing patterns, to add new patterns from outside the curated collection or to shift to new game paradigm requiring a different set of patterns altogether.  
 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
 
