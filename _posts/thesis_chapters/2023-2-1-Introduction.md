@@ -87,6 +87,12 @@ title: Introduction
 
 ## Abstract
 
+## Research Questions
+
+- What game making pedagogies exist? (with a focus on community-approaches)
+- How can game design patterns support the development of coding practices with novices?
+- How can/do learners build agency in an evolving community of game makers?
+- How can the experience of fostering community focused digital game making practices inform wider practice in this area?
 
 ## Starting thoughts for contents of introduction
 
