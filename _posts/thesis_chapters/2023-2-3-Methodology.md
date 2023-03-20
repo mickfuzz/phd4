@@ -138,7 +138,7 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 
 #### LOA in Computing pedagogy
 
-Call back to PRIMM and Waite Sentence's work here 
+Call back to PRIMM and Waite Sentence's work here
 
 ## Sociocultural Methods of Analysis
 
@@ -313,13 +313,12 @@ A page of quick analysis of the files online here helped to shape that decision.
 
 https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
 
-Criteria include
+Criteria include:
 
-- In the first two runs of data collection - single technology
 - Good quality recording
 - Diversity of kinds of participants, ages especially
-- Diversity on participant actions
-- Diversity of interactions between participants present across choices
+- Diversity of participant actions in terms of tasks being worked on
+- Diversity of kinds of pair and peer interactions
 
 
 #### Using a 3 Planes Approach
