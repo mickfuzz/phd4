@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Results Methods
+title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
 
 ## Overview in points
@@ -15,20 +15,22 @@ title: Results Methods
 - Playing games to start and ongoing play-testing
 - Remixing / Half-baked - impact, examples
 - Scenarios - drama processes
-- Player and Maker Types
-  - example of flexible design approaches valued / highlighted by types
-- Creating a _walled garden_ for GDP - an overview from a cultural, community perspective? (NOTE - duplication?)
-- Working with Assets - personal expression - SHIFTED WHOLESALE HERE
+- Personal expression - Funds of Knowledge
+  - Working with Assets
+  - Narratives   
 - Letting flexible design practices emerge
+  - Player and Maker Types
+    - example of flexible design approaches valued / highlighted by types
+  - Creating a _walled garden_ for GDP - an overview from a cultural, community perspective? (NOTE - duplication?) - perhaps a transition
 
 - Discussion / synthesis
   - Agency through lens of double stimulation, explore in relation other research.  
   -  Design stages and Maker types.  Value as TADS?
 
-This needs work to structure effectively AND a focus on agency?
+
+## Introduction - Chapter - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 
 
-## Culturally Inclusive Methods to Kick Start Game Making Communities
 
 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
 
