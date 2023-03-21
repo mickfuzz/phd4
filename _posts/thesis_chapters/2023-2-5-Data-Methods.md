@@ -30,8 +30,6 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
 
 ## Introduction - Chapter - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 
-
-
 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
 
 Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them.
