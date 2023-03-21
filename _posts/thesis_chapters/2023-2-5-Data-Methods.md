@@ -14,11 +14,12 @@ title: Results Methods
 
 - Playing games to start and ongoing play-testing
 - Remixing / Half-baked - impact, examples
-- Scenarios
+- Scenarios - drama processes
 - Player and Maker Types
   - example of flexible design approaches valued / highlighted by types
-- Creating a walled garden for GDP - an overview from a cultural, community perspective?
+- Creating a _walled garden_ for GDP - an overview from a cultural, community perspective? (NOTE - duplication?)
 - Working with Assets - personal expression - SHIFTED WHOLESALE HERE
+- Letting flexible design practices emerge
 
 - Discussion / synthesis
   - Agency through lens of double stimulation, explore in relation other research.  
