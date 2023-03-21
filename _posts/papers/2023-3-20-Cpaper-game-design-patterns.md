@@ -7,17 +7,14 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: paper
-title: Using a game design pattern collection to kickstart a community of novice game coders
+title: Using a gameplay design pattern collection to kickstart a community of novice game coders
 ---
 
 
 ## Abstract
 
-In a recent study, I drew on the experience of families playing platformer video games to help kickstart a program of collaborative game coding.
+Gameplay design patterns are common clusters of game elements that occur in different forms of games. They are commonly used by professional game designers as a lingua franca to inspire and explore the game creation. However, their potential use by educators to facilitate the teaching of coding as a practice is under-explored. In a recent study, I drew on the experience of families playing platformer video games to help kickstart a program of collaborative game coding. I outline ways in which the use of game design patterns can support the development of coding practices by novices. I also make observations on how learners can build agency in an evolving community of game makers. I end by inviting discussion on how this experience of fostering community-focused digital game making practices may inform wider practice in this area.
 
- seed the practices of   
-
-The gameplay design patterns
 
 ## Introduction to This Writing
 
