@@ -292,6 +292,21 @@ To make a quantitative approach work better X,Y and Z would need to be in place 
 - time discussing game features with parent -->
 
 
+## Further Areas of Research
+
+
+### Physical Computing and Game Making:
+
+- There is scant evidence for this in the video data.
+- I can make observations from journal notes and try to find mention of it in interviews.
+
+(Imported Writing)
+**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
+
+
+<!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
+
+
 ## Thoughts Log - things that may end up here.
 
 ### GDPs that are already in the template

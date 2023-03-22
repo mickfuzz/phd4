@@ -187,7 +187,7 @@ Older participants often used this as a way of being supportive to both parents 
 - praising graphical content
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
-#### Game playing at start of program - no observations but sets context
+## Game playing at start of program - no observations but sets context
 
 Find examples
 
@@ -206,18 +206,9 @@ what is there ? - included
 - calling across room
 - clustering, remaining on outskirts.
 
-## Physical Computing and Game Making:
+## The impact of remixing a half-baked game in a code playground  
 
-- There is scant evidence for this in the video data.
-- I can make observations from journal notes and try to find mention of it in interviews.
-
-(Imported Writing)
-**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
-
-
-<!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
-
-## Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework
+**Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework**
 
 Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
 
@@ -230,9 +221,7 @@ Bring out detail from the study to this section.
 
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
 
-## Remixing / Half-baked - impact, examples
-
-### Why Glitch and Code Playgrounds
+**Why Glitch and Code Playgrounds**
 
 [THIS IS FROM MY PERSPECTIVE SO SHIFT TO PREVIOUS CHAPTER?]
 
@@ -248,7 +237,10 @@ other unexpected Benefits
 
 Tensions compared to other more walled garden approaches - see below in tensions / move to make code.
 
-### Code Examples and Step By Step Tutorials
+
+### Documentation Types
+
+#### Code Examples and Step By Step Tutorials
 
 Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive.
 
