@@ -12,7 +12,8 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
 
 ## Overview in points
 
-- Playing games to start and ongoing play-testing
+- Introduction to use of culturally inclusive methods
+- The impact of playing games and ongoing play-testing
 - Remixing / Half-baked - impact, examples
 - Scenarios - drama processes
 - Personal expression - Funds of Knowledge
@@ -28,7 +29,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
   -  Design stages and Maker types.  Value as TADS?
 
 
-## Introduction - Chapter - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
+## Introduction - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 
 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
 
@@ -64,8 +65,6 @@ Based on Specific Interventions/ Design Choices and responses
 - Theortical context
   - Collaration from AT perspective - "collaborative activity" see [@eriksson_using_2019] for an overview
 
-
-
 - Peer - side by side coding.
   - Parents coding too. See the comments by Mi and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
 
@@ -77,7 +76,8 @@ Based on Specific Interventions/ Design Choices and responses
  - differencing attitudes to games and technology
  - a reflective process to avoid distracting from activity & to share goals and process publically
 
-### Bridging Norms and Values   
+### Drawing on Funds 
+Bridging Norms and Values   
 
 - Drawing on Funds of Game cultures
    - player and maker types
