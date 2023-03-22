@@ -11,15 +11,20 @@ title: Conclusion
 ---
 
 
-## Chapter Outline 
+## Chapter Outline
 
 - Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
   - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
   - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
-- Recap analyis of framework to facilitate designing for an emerging community of coders
+- Recap analysis of framework to facilitate designing for an emerging community of coders
   - Explore possibility to extend this to other domains
-
-
+- Recommendations arising from this research
+    - Recommendations for facilitators
+    - Recommendations for researchers
+- Related next steps for research
+  - Directly relevant next steps for research to address limitations
+  - Tangential next steps for research  
+    - Use of physical computing elements and embodied approaches
 
 ## Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
 
