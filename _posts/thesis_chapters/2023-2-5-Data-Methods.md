@@ -175,6 +175,8 @@ Here we are looking at something cultural?? -->
 
 Extract/s from Interview Ma  - A summary of the aliens / feedback - Missions ideally as a follow up.
 
+// TO DO, transcribe aliens feedback
+
 ## The impact of playing games and ongoing play-testing
 
 <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
