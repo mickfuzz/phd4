@@ -167,17 +167,6 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 ### Vignette - Starting the Alien Drama of the Weean.
 
-<!-- Choices
-- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.
-- Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
-
-<!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
-describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
-Here we are looking at something cultural?? -->
-
-Extract/s from Interview Ma  - A summary of the aliens / feedback - Missions ideally as a follow up.
-
-// TO DO, transcribe aliens feedback
 
 This sections starts with a vignette of the start of an game making programme.
 
@@ -200,9 +189,25 @@ I then gain their attention and start by
 I have a recording which really makes me laugh. People - including myself - taking things very seriously but having a great time too.
 
 
-**Motivations of the Challenges**
+**Motivations of the social challenges / missions**
+
+In the transcript there is the mention and some examples of some of the missions given by the aliens.
+This came as a result of analysis of interactions during game making.
+Examples of interactions? Some kind of coded data?
+
+Secret missions and public missions -
+https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
+
+<!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
 
 Partly through observation of social coding of people like Mi.
+
+<!-- Choices
+- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.
+- Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
+<!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
+describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
+Here we are looking at something cultural?? -->
 
 
 
