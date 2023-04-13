@@ -72,10 +72,10 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
 
 ## Overview in points
 
-- Introduction to use of culturally inclusive methods
-- Scenarios - drama processes
-- The impact of playing games and ongoing play-testing
-- Remixing / Half-baked - impact, examples
+- Introduction
+- Scenarios - drama processes -
+- The impact of playing games and ongoing play-testing - as a playful inclusive process to coding
+  - Remixing / Half-baked - impact, examples (less important? - already covered - need something linked other parts of chapter)
 - Personal expression - Funds of Knowledge
   - Working with Assets
   - Narratives   
@@ -88,22 +88,33 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
   - Agency through lens of double stimulation, explore in relation other research.  
   -  Design stages and Maker types.  Value as TADS?
 
-### Cross referencing and dependencies - with with lit review and other chapters.
+### PLANNING SECTION - Cross referencing and dependencies - with with lit review and other chapters.
 
-List what is needed / referenced - e.g.
+List what is needed / referenced in broad terms to help with planning - e.g.
 
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
+- Remixing / Half Baked games []
+- Etc
 
-## Introduction to use of culturally inclusive methods
+## Introduction
 
-Theme of the chapter - Inclusion and/or Agency.
+This chapter addresses inclusive methods . It also surfaces and begins discussion on results outling evolutions of user agency.
 Specifically observable responses to design interventions and resulting discussions.
+
+The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review.
+
+
+
+<!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
+<!-- 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
+
+Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them. -->
 
 <!--
 NOTE - When to put data about TOOLS in this chapter or that of the design chapter.
 As interlinked.  Data in design chapter when it is based on journal notes and personal / literature based decisions. -->
 <!-- NOTE - PULL FROM ALL SOURCES HERE - JOURNAL, VIDEO, INTERVIEWS -->
-### Overview of contents of chapter (NOTES)
+<!-- ### Overview of contents of chapter (NOTES) -->
 
 <!-- ### Tools
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
@@ -150,15 +161,11 @@ Relevant theory / studies.
 - AT theory for sub missions, in preparation for chapter on main mission / unit of activity
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
-### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 
-2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
-
-Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them.
 
 ## Scenarios - drama processes
 
-### Vignette to start this section - something Cultural - Drama scenario - and response via interviews
+### Vignette to start this section - Drama games and scenario - and response via interviews
 
 <!-- Choices
 
@@ -176,6 +183,17 @@ Here we are looking at something cultural?? -->
 Extract/s from Interview Ma  - A summary of the aliens / feedback - Missions ideally as a follow up.
 
 // TO DO, transcribe aliens feedback
+
+This sections starts with a vignette of the start of an game making programme.
+
+The session starts with participants entering and playing web games and past games and chatting.
+I then gain their attention and start by
+I have a recording which really makes me laugh. People taking things very seriously.
+
+So
+
+
+
 
 ## The impact of playing games and ongoing play-testing
 
