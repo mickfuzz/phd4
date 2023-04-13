@@ -165,14 +165,9 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 ## Scenarios - drama processes
 
-### Vignette to start this section - Drama games and scenario - and response via interviews
+### Vignette - Starting the Alien Drama of the Weean.
 
 <!-- Choices
-
-- Something about aliens / feedback? Sub- Missions?
-- perhaps a feedback session?
-- Something about drawing on home interests.
-- an example of playtesting?
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.
 - Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
 
@@ -186,12 +181,41 @@ Extract/s from Interview Ma  - A summary of the aliens / feedback - Missions ide
 
 This sections starts with a vignette of the start of an game making programme.
 
+
+### Transcript of Opening Session, starting game & establishing scenario.
+
+See online -
+https://docs.google.com/document/d/1AE1LQCKWsWGvOvl94nsF_yEnibI8lBpabNswFSZQbc8/edit
+
+### Commentary on Transcript
+
+q: How much to reference back to previous chapter?
+
+**Starting Game**
+
 The session starts with participants entering and playing web games and past games and chatting.
+
 I then gain their attention and start by
-I have a recording which really makes me laugh. People taking things very seriously.
 
-So
+I have a recording which really makes me laugh. People - including myself - taking things very seriously but having a great time too.
 
+
+**Motivations of the Challenges**
+
+Partly through observation of social coding of people like Mi.
+
+
+
+### Evidence of impact from interview data and recordings
+
+Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
+
+**My reflections as a practioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
+
+Justify including these reflections.
+
+ - a way to decentre myself from the process of giving boundaries. I list boundaries. Similar to outlining the rules of a game. I am much more relaxed restricting choice in role, or via a proxy of a playful encounter.
+- as a way to bring attention to an imagined audience. I reference that the games are online.
 
 
 
