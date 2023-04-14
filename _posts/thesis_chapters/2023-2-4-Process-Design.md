@@ -506,28 +506,25 @@ In this section I outline Rogoff's initial conceptions of activities happening i
 This document is being fleshed out with examples from video data.
 https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit#gid=0
 
-### Cultural Elements of the Design - MOVE
+### Cultural Elements of the Design -
 
-These sections could follow a pattern of
+<!-- These sections could follow a pattern of
  - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter.
  - my model examples
  - other links to PBL frameworks and/or educational concepts and contrast analysis
 
-In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE ..
+In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE .. -->
 
 The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
 
 At this stage of writing I include a bullet point list of design relevant features to be expanded later.
 
-- Shared repositories of resources - users shared a log in so they could see the work created by others. - Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
+- Shared repositories of resources - users shared a log in so they could see the work created by others.
+- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
 - Drama Games: the process of warming up, creates community and sets a tone
 - Drama Process: specifically designed ot overcome limits of the classroom.
 - Playtesting: the process of playtesting, either self or peer links back to a community purpose
-- Shared repositories of resources - users shared a log in so they could see the work created by others.
 
-DON'T PEAK TOO SOON AS THESE MAY BE EXPLORED IN SEPARATE CHAPTERS
-PBL theory also highlights the value of linking learning to authentic environments
-Mantle of the Expert
 
 ##### Cultural influenced on my choice of Learning DESIGN - MOVE
 
@@ -537,13 +534,14 @@ Mantle of the Expert
  - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches.
 - Other examples from the interviews with practitioners are relevant to include here.
 
-### Interpersonal Elements of the Design - Guided Participation - MOVE
+### Tension choosing patterns - resolve via collection -
 
-Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
+How much to write on this here? Or later chapter?
+
+<!-- Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
 
 The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
-
-The core activity of my participants was implementation of chosen game design patterns.
+The core activity of my participants was implementation of chosen game design patterns. -->
 
 In starting experiments we saw that the long time in building the relevant knowledge to identify, agree on and implement game patterns negatively impacted motivation.
 
@@ -551,11 +549,8 @@ In order to accelerate the process of making a game to fit into contextual expec
 
 In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning.  
 <!--
-
 MOVED TO DISCUSSION CHAPTER??
-
 ### Personal Dimension of the Learning - Personal Appropriation
-
 In line with sociocultural approaches Rogoff points out the limits of an understanding of knowledge which promotes a view of knowledge as transmission from teacher to learner and is thus an individual process. Instead this exploration of knowledge and practices is framed as a mutual process.
 
 While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
