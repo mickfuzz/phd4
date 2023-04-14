@@ -486,7 +486,7 @@ Note - while the use of these skills is not unique to game making and common to 
 NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
 
 
-## Adaptations to the 3M model to facilitate the use of Learning Dimensions map
+## Adaptations to the 3M model to facilitate the use of Learning Dimensions map - DROP? MOVE?
 
 ### Addition of a Game Challenge section
 
@@ -537,7 +537,7 @@ For example, the use of CT concepts in a framework, listed as part of the initia
 
 
 
-### Using 3 Foci approach to frame data analysis
+### Using 3 Foci approach to frame data analysis - MOVE AND/OR FIND A PLACE FOR START IN THIS CHAPTER
 
 I WAS PLANNING TO DROP THIS FROM THE CHAPTER
 BUT CULTURAL ELEMENTS AT LEAST ARE IMPORTANT.
