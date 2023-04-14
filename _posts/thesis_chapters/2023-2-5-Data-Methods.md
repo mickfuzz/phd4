@@ -236,11 +236,15 @@ Older participants often used this as a way of being supportive to both parents 
 - praising graphical content
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
-## Game playing at start of program - no observations but sets context
+### Game playing at start of program - no observations but sets context
+NOTE - this is not a strong section in the overall flow - PERHAPS DROP
 
-Find examples
+Find examples - some of these from journal.
 
-#### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+- One participant no games at home - came back showing kirby as an example of a platformer.
+-
+
+#### Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
 
 Find examples
 
@@ -255,7 +259,7 @@ what is there ? - included
 - calling across room
 - clustering, remaining on outskirts.
 
-## The impact of remixing a half-baked game in a code playground  
+## tOOL USE - The impact of remixing a half-baked game in a code playground  
 
 **Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework**
 
