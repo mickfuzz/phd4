@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: archive
 title: Process: Emerging Learning Design
 ---
 
@@ -85,19 +85,6 @@ I have carried out four stages of workshops and development with home educator f
 - (Jan 2020 - May 2020: Make Code Arcade)
 
 See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-This has a focus on research methods - not the resources used.
-a table with a simple summary of the Resource used is needed - linking to descriptions in the appendix
-
-Also see...
-Table of Tensions & resolutions of 3M design - also should reference the resources.
-This is probably good for final chapter. But start the process in this chapter. Do a different table? Abbreviated? or just for Maps?
-https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-
-3 foci and 3M element compared
-https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60
-
-
-
 
 
 #### Phase One - Initial Experimentation
@@ -207,16 +194,85 @@ More detailed analysis - thoughts on validity of data -->
 
 
 
-## Incorporating findings into a 3M pedagogical model for participants
+## Summary of the Learning design & Emergence of GDP as core unit of activity
+
+### Recap of Nested Levels of Activity
+
+
+
+
+## GDP as a unit of analysis as an aid to design
+
+MOVING FROM GDP CHAPTER - CHECK HOW IT SITS HERE.
+
+## Identifying of the implementation of GDP as a key unit of analysis
+
+
+Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
+
+- larger - learning computing skills and concepts as a home education project
+- larger - participating with other home educators in a creative environment and thus building team and communication skills
+- larger - learning transferable design skills and processes
+- large - creating a game which is fun to play and communicate an environmental theme
+- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
+- smaller - creating, changing and transporting game assets to enact or change GDPs
+- smaller - implementing or changing code constructs to enact or change GDPs
+
+#### Discussion on scope of activity systems (MAY MOVE)
+
+NOTE - this may move, it seems to get in the way here. Thus this is partly in note / bullet point form.
+
+In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
+
+DUPLICATION IN GDP CHAPTER CURRENTLY.
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
+
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
+
+The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
+
+- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
+- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
+- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
+- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
+- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
+
+This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
+
+
+### Activity, Actions and Operations.
+
+Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
+
+RECAP - from Lit Review
+
+In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+
+
+<!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
+<!-- From Eriksson article - explore in more depth in Lit Review..
+
+Could move some of this to the results discussion -
+"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
+- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
+- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
+- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+
+
+
+## Incorporating findings into a pedagogical model for participants
+
+Note: I'm not yet sure how much of the 3M model will be described in the "Results-Design" chapter. A short recap here seems appropriate.
 
 As previously discussed, the process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well.
 
 Note: To do this some areas of context are outlined which may end up in the opening chapters.
-
-### Methods (Inclusive)
-
-Overview - prep for next chapter
-
 
 ### Presenting GDP to participants as "Missions"
 
@@ -256,87 +312,16 @@ PRINTED CARD TEXT ENDS
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
 
-### Maps - more detailed in this chapter
-
-Move some of the below here? if it sits right?
-
-## Evolution of tool use analysed via scope of activity
-
-A description of the nested levels of activity via analysis of tools used.
-
-REWRITE THE BELOW - CHANGE FOCUS TO TOOLS /RESOURCES
-
-Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
-
-- larger - learning computing skills and concepts as a home education project
-- larger - participating with other home educators in a creative environment and thus building team and communication skills
-- larger - learning transferable design skills and processes
-- large - creating a game which is fun to play and communicate an environmental theme
-- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
-- smaller - creating, changing and transporting game assets to enact or change GDPs
-- smaller - implementing or changing code constructs to enact or change GDPs
-
-### Activity, Actions and Operations.
-
-Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
-
-RECAP - from Lit Review
-
-In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
-
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
-
-REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS
-
-DUPLICATION IN GDP CHAPTER CURRENTLY.
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
-
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
-
-- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
-- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
-- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
-- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
-
-This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
-
-
-
-
-
-<!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
-<!-- From Eriksson article - explore in more depth in Lit Review..
-
-Could move some of this to the results discussion -
-"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
-- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
-- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
-
-
-
-
-
-Move starting material here for size of scope
-
-Activity as a Project -  
-
-Create a Table? How to align with 3M & 3 dimensions
+## Evolution of the Learning Design in response to emerging tensions
 
 Use the 3M framework as a guide for MakeCode
 Revisit FM book as a guide for Glitch/ Phaser
 Use tensions as the base?
 
-### Exploring tensions emerging in tool use
+### Evolution of game template and supporting resources
+
+
+### Description of Tensions Emerging
 
 NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP
 
