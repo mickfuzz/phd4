@@ -1,5 +1,4 @@
 ---
-# all the regular stuff you have here
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
@@ -7,10 +6,10 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Process: Emerging Learning Design
+title: Process - Emerging Learning Designs
 ---
 
-## Bullet points of things to add
+# Bullet points of things to add
 
 - Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
 - Physical maps section added at end - what overlap is there for the next chapter?
@@ -19,15 +18,12 @@ title: Process: Emerging Learning Design
 ## Chapter Introduction  outline
 
 - Recap of context and specifics of designing for informal learning
-- Evolution of learning design in stages
-- Emergence of GDP as core unit of activity
-  - Activity, actions & operations
+- Identifying units / scopes of activity
+- Learning design in stages
 - Analysis of Tensions in design and how this guided Evolution
-  - Menu of GDPs and starting template speeded up ideation process but restricted scope of creativity  
+- Docs and Tools
 
-  - Where to put physical maps section?
 
-  NOTE - would this chapter benefit from a short vignette? to ground discussion / terms
 
 ## Recap of context and specifics of designing for informal learning
 
@@ -72,155 +68,6 @@ There's lots to add in here.
 chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
-
-## Evolution of Design
-
-### Description of Phases
-
-I have carried out four stages of workshops and development with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
-
-- Oct 2017 - Mar 2018: Experimental Course
-- May 2018 - Dec 2018: Resource Development Stage
-- Jan 2019 - Dec 2019: Glitch Game Club
-- (Jan 2020 - May 2020: Make Code Arcade)
-
-See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-This has a focus on research methods - not the resources used.
-a table with a simple summary of the Resource used is needed - linking to descriptions in the appendix
-
-Also see...
-Table of Tensions & resolutions of 3M design - also should reference the resources.
-This is probably good for final chapter. But start the process in this chapter. Do a different table? Abbreviated? or just for Maps?
-https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-
-3 foci and 3M element compared
-https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60
-
-
-#### Phase One
-
-This phase took place before the official start of this research and relevant ethics application. As such, this stage was initially aimed not at collecting user data rather than building my own background knowledge and competency. Some of methods emerged from the start including play testing of other games, a final public showcase, and the use of drama / warm up games.
-
-The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted an open project based approach which integrated drama games to aid group bonding and reflection.
-
-I chose a tool set which drew on relevant design principles explored earlier (Resnick and Rosenbaum, 2013).
-
-The tools allow participants to create games using a combination of a free to use online tools. They comprise a coding environment using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone).
-
-One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
-
-In terms of supporting resources, stage one was exploratory and responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
-
-At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
-
-#### Phase Two
-
-
-The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game.
-
-I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019).
-
-<!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
-
-
-
-
-#### Phase Three
-
-<!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
-
-Second iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department [@pattersonDramaSTEM2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
-
-I revised the an online project-hub to link to the project chapters rather than the code examples.
-
-#### Phase Four - MakeCode Arcade
-(Jan 2020 - July 2020)
-
-I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.
-
-However, there were some additional changes in the way that design patterns were presented to learners. In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources.
-
-Learning Map design and expression of patterns in modified traditional GDP form.
-
-
-#### Common between Phases
-
-Certain features either common practice, or inspired by research and interviews, were common to all phases.
-
-* Playtesting
-* Showcase
-
-
-
-
-
-
-<!-- ### Stages of Design
-
-#### Evolution of Template and supporting resources
-I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
-Go into more detail than previously on the choice and use of tools.
-Use the 3M framework as a guide for MakeCode
-Revisit FM book as a guide for Glitch/ Phaser
-
-
-### Issues Emerging from Evolution of Design
-More detailed analysis - thoughts on validity of data -->
-
-
-
-## Incorporating findings into a 3M pedagogical model for participants
-
-As previously discussed, the process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well.
-
-Note: To do this some areas of context are outlined which may end up in the opening chapters.
-
-### Methods (Inclusive)
-
-Overview - prep for next chapter
-
-
-### Presenting GDP to participants as "Missions"
-
-Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency.
-
-To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
-
-Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
-
-<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
-THIS CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
-In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
-
-<!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
-
-In my final implementation of the 3M model students picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
-
-PRINTED CARD TEXT BEGINS
-
-Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
-
-* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
-
-* **Type Pattern:** Game Mechanic
-
-* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
-
-* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
-
-* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
-
-* **Links to other Computing Patterns:** Systems Dynamics[^10]
-
-* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
-
-PRINTED CARD TEXT ENDS
-
-In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
-
-### Maps - more detailed in this chapter
-
-Move some of the below here? if it sits right?
 
 ## Evolution of tool use analysed via scope of activity
 
@@ -272,22 +119,6 @@ The implementation of GDPs as a unit of analysis for the researcher also has the
 This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
 
 
-
-
-
-<!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
-<!-- From Eriksson article - explore in more depth in Lit Review..
-
-Could move some of this to the results discussion -
-"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
-- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
-- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
-
-
-
-
-
 Move starting material here for size of scope
 
 Activity as a Project -  
@@ -298,7 +129,152 @@ Use the 3M framework as a guide for MakeCode
 Revisit FM book as a guide for Glitch/ Phaser
 Use tensions as the base?
 
-### Exploring tensions emerging in tool use
+
+
+## Evolution of Design
+
+### Description of Phases
+
+I have carried out four stages of workshops and development with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
+
+<!-- - Oct 2017 - Mar 2018: Experimental Course
+- May 2018 - Dec 2018: Resource Development Stage
+- Jan 2019 - Dec 2019: Glitch Game Club
+- (Jan 2020 - May 2020: Make Code Arcade) -->
+
+See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
+This has a focus on research methods - not the resources used.
+a table with a simple summary of the Resource used is needed - linking to descriptions in the appendix
+
+Also see...
+Table of Tensions & resolutions of 3M design - also should reference the resources.
+This is probably good for final chapter. But start the process in this chapter. Do a different table? Abbreviated? or just for Maps?
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+
+3 foci and 3M element compared
+https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60
+
+
+#### Phase One
+
+This phase took place before the official start of this research and relevant ethics application. As such, this stage was initially aimed not at collecting user data rather than building my own background knowledge and competency. Some of methods emerged from the start including play testing of other games, a final public showcase, and the use of drama / warm up games.
+
+The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted an open project based approach which integrated drama games to aid group bonding and reflection.
+
+I chose a tool set which drew on relevant design principles explored earlier (Resnick and Rosenbaum, 2013).
+
+The tools allow participants to create games using a combination of a free to use online tools. They comprise a coding environment using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone).
+
+One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
+
+In terms of supporting resources, stage one was exploratory and responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
+
+At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+
+#### Phase Two
+
+The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game.
+
+I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019).
+
+<!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
+
+#### Phase Three
+
+<!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
+
+Second iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department [@pattersonDramaSTEM2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
+
+I revised the an online project-hub to link to the project chapters rather than the code examples.
+
+#### Phase Four - MakeCode Arcade
+(Jan 2020 - July 2020)
+
+I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.
+
+However, there were some additional changes in the way that design patterns were presented to learners. In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources.
+
+Learning Map design and expression of patterns in modified traditional GDP form.
+
+
+#### Common between Phases
+
+Certain features either common practice, or inspired by research and interviews, were common to all phases.
+
+* Playtesting
+* Showcase
+
+<!-- ### Stages of Design
+
+#### Evolution of Template and supporting resources
+I'm not sure if this even goes into this chapter - it certainly starts to answer some of the research questions.
+Go into more detail than previously on the choice and use of tools.
+Use the 3M framework as a guide for MakeCode
+Revisit FM book as a guide for Glitch/ Phaser
+
+
+### Issues Emerging from Evolution of Design
+More detailed analysis - thoughts on validity of data -->
+
+
+
+## Incorporating findings into a 3M pedagogical model for participants
+
+As previously discussed, the process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well.
+
+Note: To do this some areas of context are outlined which may end up in the opening chapters.
+
+### Methods (Inclusive)
+
+Overview - prep for next chapter
+
+
+### Presenting GDP to participants as "Missions"
+
+Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency.
+
+To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
+
+Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
+
+<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
+
+THIS CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
+
+In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+
+<!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
+
+In my final implementation of the 3M model students picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
+
+PRINTED CARD TEXT BEGINS
+
+Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
+
+* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+
+* **Type Pattern:** Game Mechanic
+
+* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+
+* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
+
+* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
+
+* **Links to other Computing Patterns:** Systems Dynamics[^10]
+
+* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+
+PRINTED CARD TEXT ENDS
+
+In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
+
+### Maps - more detailed in this chapter
+
+Move some of the below here? if it sits right?
+
+
+### Exploring tensions emerging in design / tool use
 
 NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP
 
@@ -311,7 +287,6 @@ The following are a list of tensions observed in early game making experiments t
 **Learner frustration if they are not able to choose what feature they add to the game next:** Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions). This facilitates engagement and motivation.
 
 **Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  
-
 Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
 
 **Learners take on features which are too advanced or complex for their current coding level**
@@ -543,7 +518,6 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
 
 At this stage of writing I include a bullet point list of design relevant features to be expanded later.
-
 
 - Shared repositories of resources - users shared a log in so they could see the work created by others. - Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
 - Drama Games: the process of warming up, creates community and sets a tone
