@@ -18,7 +18,7 @@ title: Process - Emerging Learning Designs
 ## Chapter Introduction  outline
 
 - Recap of context and specifics of designing for informal learning
-- Vignette shifts between scopes
+- Vignette showing shifts between scopes
 - Identifying units / scopes of activity
 - Learning design in stages
 - Analysis of Tensions in design and how this guided Evolution
@@ -69,6 +69,9 @@ There's lots to add in here.
 chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
+
+## Short Vignette illustrating shifts in scope of activity
+
 
 ## Evolution of tool use analysed via scope of activity
 
