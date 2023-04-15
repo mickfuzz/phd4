@@ -70,14 +70,27 @@ chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
 
-## Short Vignette illustrating shifts in scope of activity
 
 
-## Evolution of tool use analysed via scope of activity
 
-A description of the nested levels of activity via analysis of tools used.
+## Evolution of learning design / tool use analysed via scope of activity
+
+The process of designing a learning intervention took place over stages marked by short series of game making sessions and intervening periods.
+
+PROPOSAL -
+
+### Short vignette illustrating shifts in scope of activity
+
+Short vignette - GLOBAL OVERVIEW - screen shot - various screens - as user shifts.
+
+Menu - Game code - Game itself - resource - code example
+Perhaps Te - no talking as such. 
+
+### Description of the nested levels of activity via analysis of tools used.
 
 REWRITE THE BELOW - CHANGE FOCUS TO TOOLS /RESOURCES
+
+
 
 Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
 
