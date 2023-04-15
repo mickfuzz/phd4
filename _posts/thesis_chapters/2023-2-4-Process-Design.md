@@ -18,6 +18,7 @@ title: Process - Emerging Learning Designs
 ## Chapter Introduction  outline
 
 - Recap of context and specifics of designing for informal learning
+- Vignette shifts between scopes
 - Identifying units / scopes of activity
 - Learning design in stages
 - Analysis of Tensions in design and how this guided Evolution
