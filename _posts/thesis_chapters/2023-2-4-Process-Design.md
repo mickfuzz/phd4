@@ -84,7 +84,7 @@ PROPOSAL -
 Short vignette - GLOBAL OVERVIEW - screen shot - various screens - as user shifts.
 
 Menu - Game code - Game itself - resource - code example
-Perhaps Te - no talking as such. 
+Perhaps Te - no talking as such.
 
 ### Description of the nested levels of activity via analysis of tools used.
 
@@ -407,7 +407,10 @@ Narratively the equivalent of a prequel.
 ## Learning Dimensions Map
 
 ### Overview - Move to Design Chapter
-In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes. Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
+In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
+
+// REWRITE FOLLOWING 
+Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
