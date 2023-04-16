@@ -10,9 +10,7 @@ title: Process - Emerging Learning Designs
 ---
 
 
-
-
-## Chapter Introduction  outline
+## Outline
 
 - Recap of context and specifics of designing for informal learning
 - Vignette showing shifts between scopes
@@ -21,6 +19,10 @@ title: Process - Emerging Learning Designs
 - Analysis of Tensions in design and how this guided Evolution
 - Docs and Tools
 
+Missing?
+
+
+
 
 ## Chapter Introduction  
 
@@ -28,17 +30,9 @@ This chapter charts the evolution of the learning design. It draws on immediate 
 
 The first section is a short summary of the phases of the design.
 
-<!-- The design description is framed within DBR language and concepts.
-HOW TO DO THIS? -->
 
-<!-- It is grounded with reference to existing reserach and concepts of game making as an educational activity. -->
-
+<!-- The design description is framed within DBR language and concepts. -->
 <!-- Section describing  Game Design Patterns as  the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014]. -->
-
-A section which explores tensions and resolutions to those tensions using language of AT.
-
-The third part starts to analyse the tensions and responses - (and set up some context of the future results chapters)
-
 
 <!--
 There's lots to add in here.
@@ -47,53 +41,19 @@ https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
 
 
-## Evolution of learning design / tool use analysed via scope of activity
-
-The process of designing a learning intervention took place over stages marked by short series of game making sessions and intervening periods.
-
-PROPOSAL -
-
-
-
-### Recap of context and specifics of designing for informal learning
 ### Contextual factors from practitioner perspective influencing design
 
+NOTE - move some of this to a discussion section?
 
+**Recap of context and specifics of designing for informal learning**
 
-NOTE GO BACK OVER NOTES TO FIND THIS
-
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
-
-- Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
-
-Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
+- design based experiments - some factors
+- informal learning - recap rogoff and similar - issues of designing for informal settings
 
 I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
 
 
-
-**Cultural Elements of the Design**
-
-<!-- These sections could follow a pattern of
- - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter.
- - my model examples
- - other links to PBL frameworks and/or educational concepts and contrast analysis
-
-In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE .. -->
-
-The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
-
-At this stage of writing I include a bullet point list of design relevant features to be expanded later.
-
-- Shared repositories of resources - users shared a log in so they could see the work created by others.
-- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
-- Drama Games: the process of warming up, creates community and sets a tone
-- Drama Process: specifically designed ot overcome limits of the classroom.
-- Playtesting: the process of playtesting, either self or peer links back to a community purpose
-
-
-
-Cultural influenced on my choice of Learning DESIGN - MOVE
+**Cultural influences on my choice of learning design**
 
  - a desire to increase engagement based on my experiences in classroom and out of classroom - Home Ed / coder dojo experiences
  - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
@@ -102,14 +62,39 @@ Cultural influenced on my choice of Learning DESIGN - MOVE
 - Other examples from the interviews with practitioners are relevant to include here.
 
 
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+
+- Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+
+Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
+
+
+The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
+
+
+
+<!-- These sections could follow a pattern of
+ - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter.
+ - my model examples
+ - other links to PBL frameworks and/or educational concepts and contrast analysis
+
+In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE .. -->
+
+
+<!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
+
+- Shared repositories of resources - users shared a log in so they could see the work created by others.
+- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
+- Drama Games: the process of warming up, creates community and sets a tone
+- Drama Process: specifically designed ot overcome limits of the classroom.
+- Playtesting: the process of playtesting, either self or peer links back to a community purpose
+ -->
+
+
 
 ### Short vignette illustrating shifts in scope of activity
 
-The
-
-The following vignette, consisting of extracts of participant activity, is presented as an summary of different scopes of activity. The participant is the child Terry who in this session has been working independently.
-
-The
+The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Terry who in this session has been working independently.
 
 Terry then starts to test and revise his game. He alternates between two internet browser tabs which hold the code of his game and a working version of the game. He makes small changes to existing code.
 
@@ -155,13 +140,16 @@ These include:
 - smaller - creating, changing and transporting game assets to enact or change GDPs
 - smaller - implementing or changing code constructs to enact or change GDPs -->
 
-### Activity, Actions and Operations.
+**Activity, Actions and Operations**
+
 MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
 Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 
 RECAP - from Lit Review
 
-In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+In my own game making model students picked missions from a choice of printed resources.
+
+There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
 
 In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
 
@@ -380,7 +368,6 @@ Added game design patterns based on challenge - find source Schnell & GSM litera
 And then updated the learning map to highlight potential concepts to be learned.
 
 
-
 #### Common between Phases
 
 Certain features either common practice, or inspired by research and interviews, were common to all phases.
@@ -401,7 +388,7 @@ Revisit FM book as a guide for Glitch/ Phaser
 More detailed analysis - thoughts on validity of data -->
 
 
-## Exploring tensions emerging in design / tool use
+## Exploring tensions emerging in design
 
 NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP - and some in the final discussions - Select 2 or 3 most relevant to this chapter
 
