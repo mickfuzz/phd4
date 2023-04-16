@@ -148,9 +148,10 @@ The process of developing the learning design happened in tandem with the data g
 The following sections outlines resources designed to be practitioners and participants as well as fellow researchers.
 
 <!-- Note: To do this some areas of context are outlined which may end up in the opening chapters. -->
-The 3M model is illustrated using supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
+The 3M model is illustrated using supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted.
 
 ![Figure 1.3. Synthesising diagram of 3M Game Making Model](./Pictures/3msynthesis.png){ width=80% }
+
 
 
 | **Missions**         | **Maps**             | **Methods**          |
@@ -163,6 +164,7 @@ The 3M model is illustrated using supporting resources that have emerged from th
 
 Table 1.2.  Key Features of 3M Game Making Model
 
+![Figure 1.4. Synthesising table of 3M Game Making Model](./Pictures/3m_synthesis_table.png){ width=80% }
 
 
 ### Methods (Inclusive)
