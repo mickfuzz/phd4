@@ -25,44 +25,23 @@ title: Process - Emerging Learning Designs
 - Docs and Tools
 
 
-
-## Recap of context and specifics of designing for informal learning
-
-### Adapting to the Informal
-NOTE FIND A GOOD PLACE TO PUT THIS
-
-As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
-The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
-
-My design pivoted to this stage after introducing design patterns based challenge cards and inviting participants into game playing via older arcade games.
-This was in response to tension of teaching PGCE students in a smaller time scale but wanting to capture the essessce of the pedagogy. And in the process of preparing for Mozilla conference.
-
-NOTE GO BACK OVER NOTES TO FIND THIS
-
-### Contextual factors from practitioner perspective influencing design
-
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
-Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
-
-Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
-
-I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
-
 ## Chapter Introduction  
-
 
 This chapter charts the evolution of the learning design. It draws on immediate analysis of participants reactions and contributions from journal notes, participant interviews and analysis of changes in the learning resources created.
 
-The first section is a short summary of the phases of the design. IS THIS OVERLAP WITH PREVIOUS CHAPTER?
-The design description is framed within DBR language and concepts. HOW TO DO THIS?
-It is grounded with reference to existing reserach and concepts of game making as an educational activity.
+The first section is a short summary of the phases of the design.
 
-Section describing  Game Design Patterns as  the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014].
+<!-- The design description is framed within DBR language and concepts.
+HOW TO DO THIS? -->
+
+<!-- It is grounded with reference to existing reserach and concepts of game making as an educational activity. -->
+
+<!-- Section describing  Game Design Patterns as  the main unit of Activity. See Blunden to frame this and to describe the utility of the idea  [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014]. -->
 
 A section which explores tensions and resolutions to those tensions using language of AT.
 
 The third part starts to analyse the tensions and responses - (and set up some context of the future results chapters)
-( DROP - using the 3 foci of Rogoff 3 planes model)
+
 
 <!--
 There's lots to add in here.
@@ -77,24 +56,107 @@ The process of designing a learning intervention took place over stages marked b
 
 PROPOSAL -
 
+
+
+### Recap of context and specifics of designing for informal learning
+### Contextual factors from practitioner perspective influencing design
+
+
+
+NOTE GO BACK OVER NOTES TO FIND THIS
+
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+
+- Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+
+Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
+
+
+
+**Cultural Elements of the Design**
+
+<!-- These sections could follow a pattern of
+ - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter.
+ - my model examples
+ - other links to PBL frameworks and/or educational concepts and contrast analysis
+
+In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE .. -->
+
+The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
+
+At this stage of writing I include a bullet point list of design relevant features to be expanded later.
+
+- Shared repositories of resources - users shared a log in so they could see the work created by others.
+- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
+- Drama Games: the process of warming up, creates community and sets a tone
+- Drama Process: specifically designed ot overcome limits of the classroom.
+- Playtesting: the process of playtesting, either self or peer links back to a community purpose
+
+
+
+Cultural influenced on my choice of Learning DESIGN - MOVE
+
+ - a desire to increase engagement based on my experiences in classroom and out of classroom - Home Ed / coder dojo experiences
+ - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
+ - other experiences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
+ <!-- - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches. -->
+- Other examples from the interviews with practitioners are relevant to include here.
+
+
+
 ### Short vignette illustrating shifts in scope of activity
 
-Short vignette - GLOBAL OVERVIEW - screen shot - various screens - as user shifts.
-Menu - Game code - Game itself - resource - code example
-Perhaps Te - no talking as such.
+The
+
+The following vignette, consisting of extracts of participant activity, is presented as an summary of different scopes of activity. The participant is the child Terry who in this session has been working independently.
+
+The
+
+Terry then starts to test and revise his game. He alternates between two internet browser tabs which hold the code of his game and a working version of the game. He makes small changes to existing code.
+
+__Insert image of code__
+
+The code of the game.
+
+While the code is made up of various elements, only the javascript file is normally altered by participants.
+
+The complexity is hidden away from the end user.
+
+__Insert image of game in browser__
+
+On the screen you can see the game.
+
+Terry then decides he wants to add a new element to his game.
+
+He browses the list of game design patterns.
+
+There is a tension where he is hesitant about where to place code.
+
+Screen shot of the menu of choices.
+
+
 
 ### Description of the nested levels of activity via analysis of tools used.
 
-REWRITE THE BELOW - CHANGE FOCUS TO TOOLS /RESOURCES
-Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale. These include:
+<!-- REWRITE THE BELOW - CHANGE FOCUS TO TOOLS /RESOURCES -->
 
-- larger - learning computing skills and concepts as a home education project
+Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale.
+
+These include:
+
+- large - creating a game which is fun to play and communicate an environmental theme
+- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
+- smaller - creating, changing and transporting game assets or changing code constructs to enact or change game elements.
+
+<!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
 - larger - learning transferable design skills and processes
 - large - creating a game which is fun to play and communicate an environmental theme
 - medium - identifying and implementing key game features (Game Design Patterns) to add to the games
 - smaller - creating, changing and transporting game assets to enact or change GDPs
-- smaller - implementing or changing code constructs to enact or change GDPs
+- smaller - implementing or changing code constructs to enact or change GDPs -->
 
 ### Activity, Actions and Operations.
 MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
@@ -108,14 +170,14 @@ In the methodology chapter the concept of activity as a primary unit for analysi
 
 REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS
 
-DUPLICATION IN GDP CHAPTER CURRENTLY.
+<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
 From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
 
 - the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
 - the utility of the smaller unit of analysis in aiding resource creation
 - the value of completing something concrete a sense of sustaining achievement.
 - the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
 
 <!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
 
@@ -236,16 +298,20 @@ I have carried out four stages of workshops and development with home educator f
 - (Jan 2020 - May 2020: Make Code Arcade) -->
 
 See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-This has a focus on research methods - not the resources used.
-a table with a simple summary of the Resource used is needed - linking to descriptions in the appendix
+also should reference the resources - in appendix and online.
 
-Also see...
-Table of Tensions & resolutions of 3M design - also should reference the resources.
-This is probably good for final chapter. But start the process in this chapter. Do a different table? Abbreviated? or just for Maps?
+Table of Tensions & resolutions of 3M design - also should reference the resources - in appendix and online.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+NOT SURE WHERE TO PLACE THIS IN THE CHAPTER. 
 
-3 foci and 3M element compared - save for the conclusion/ discussion?
-https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60
+
+<!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
+https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
+
+
+
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#
+CREATE THE SUMMARY TABLE FIRST THEN REVISE THE BELOW
 
 
 #### Phase One
@@ -258,17 +324,29 @@ The first phase of delivery in late 2018 was based on initial research stage; I 
 
 I chose a tool set which drew on relevant design principles explored earlier (Resnick and Rosenbaum, 2013).
 
-The tools allow participants to create games using a combination of a free to use online tools. They comprise a coding environment using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone).
+The tools allow participants to create games using a combination of a free to use online tools.
+
+an online  coding environment
+using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone).
 
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 In terms of supporting resources, stage one was exploratory and responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
 
-
-
 At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
 
 #### Phase Two
+
+**Planning**
+As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
+
+The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
+
+My design pivoted to this stage after introducing design patterns based challenge cards and inviting participants into game playing via older arcade games.
+
+This was in response to tension of teaching PGCE students in a smaller time scale but wanting to capture the essessce of the pedagogy. And in the process of preparing for Mozilla conference.
+
+**Delivery**
 
 The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game.
 
@@ -594,35 +672,6 @@ In this section I outline Rogoff's initial conceptions of activities happening i
 
 This document is being fleshed out with examples from video data.
 https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit#gid=0
-
-### Cultural Elements of the Design -
-
-<!-- These sections could follow a pattern of
- - rogoff's description / examples - but likely include a larger breakdown of 3 foci in Methodology Chapter.
- - my model examples
- - other links to PBL frameworks and/or educational concepts and contrast analysis
-
-In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the process of being inculcated into community practices existing in a cultural plane. AN EXAMPLE .. -->
-
-The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
-
-At this stage of writing I include a bullet point list of design relevant features to be expanded later.
-
-- Shared repositories of resources - users shared a log in so they could see the work created by others.
-- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
-- Drama Games: the process of warming up, creates community and sets a tone
-- Drama Process: specifically designed ot overcome limits of the classroom.
-- Playtesting: the process of playtesting, either self or peer links back to a community purpose
-
-
-##### Cultural influenced on my choice of Learning DESIGN - MOVE
-
- - a desire to increase engagement based on my experiences in classroom and out of classroom - Home Ed / coder dojo experiences
- - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
- - other experiences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
- - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches.
-- Other examples from the interviews with practitioners are relevant to include here.
-
 
 
 ## Using Physical Maps of Missions as Game Design Patterns
