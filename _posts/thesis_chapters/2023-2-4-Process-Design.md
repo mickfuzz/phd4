@@ -80,7 +80,6 @@ PROPOSAL -
 ### Short vignette illustrating shifts in scope of activity
 
 Short vignette - GLOBAL OVERVIEW - screen shot - various screens - as user shifts.
-
 Menu - Game code - Game itself - resource - code example
 Perhaps Te - no talking as such.
 
@@ -98,7 +97,7 @@ Activity Theory allows researchers to identify intersecting or nested systems of
 - smaller - implementing or changing code constructs to enact or change GDPs
 
 ### Activity, Actions and Operations.
-
+MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
 Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 
 RECAP - from Lit Review
@@ -132,9 +131,7 @@ This sentiment is echoed by something I found in the video data. As one parent F
 
 
 Move starting material here for size of scope
-
 Activity as a Project -  
-
 Create a Table? How to align with 3M & 3 dimensions
 
 Use the 3M framework as a guide for MakeCode
@@ -172,19 +169,28 @@ Table 1.2.  Key Features of 3M Game Making Model
 Overview - prep for next chapter
 
 
-### Presenting GDP to participants as "Missions"
+### Missions (Main Missions)
 
-Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency.
+<!-- Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. -->
 
-To mirror this approach, the main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts. In addition, side missions encourage social and playful coding approaches which help develop a community of coders.
+The main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game.
 
-Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps already covered in previous chapter
+In addition, side missions encourage social and playful coding approaches which help develop a community of coders. The purpose of mirroring the language of adventure game experience is to create a playful environment, a theme explored in the following chapter.
+
+<!-- This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts.  -->
+
+<!-- In addition, side missions encourage social and playful coding approaches which help develop a community of coders. -->
+
+<!-- Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps to covered in previous chapter -->
 
 <!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
 
-THIS CONTEXT PROBABLY COVERED IN RESULTS-DESIGN CHAPTER:
+In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose.
 
-In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature is described as a mission. This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+Each feature or pattern is described as a mission.
+
+
+This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 <!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
 
@@ -417,7 +423,6 @@ Try to resolve with a summary as a laminated card, and then online as well - thi
 
 ## Evolving design of Support Materials and Documentation
 
-#hapter but the specific use of GDP related support is explored in this section.
 
 <!-- NOTE -
 The language used, affordances, 2nd stimulation, practices, needs clarification.
