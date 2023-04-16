@@ -123,6 +123,33 @@ My end design highlights game patterns as a starting point for user interest and
 - Discussion -  Rising to the concrete - as a key AT concept - how does this fit?
 
 
+
+#### Tensions  choosing patterns - resolve via collection o -
+
+How much to write on this here? Or later chapter?
+
+<!-- Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
+
+The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
+The core activity of my participants was implementation of chosen game design patterns. -->
+
+In starting experiments we saw that the long time in building the relevant knowledge to identify, agree on and implement game patterns negatively impacted motivation.
+
+In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made and pre-prepared a set of coded example and tutorials to implement a range of game design patterns.
+
+In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning.  
+<!--
+MOVED TO DISCUSSION CHAPTER??
+### Personal Dimension of the Learning - Personal Appropriation
+In line with sociocultural approaches Rogoff points out the limits of an understanding of knowledge which promotes a view of knowledge as transmission from teacher to learner and is thus an individual process. Instead this exploration of knowledge and practices is framed as a mutual process.
+
+While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
+
+One significant tension I felt in evolving design was a nagging feeling that learning happening should be documented, or linked to some kind of curriculum. There are elements of the design which suit development of coding concepts and Computational Thinking.
+However, I felt reluctance to explicitly teach these links via direct transmission. -->
+
+
+
 #### GDP, CT & Transfer
 The heart of the matter here is how transferable knowledge is without a contextual meaning attached.  This is a contested area.
 Firstly how wide should reuse be imagined? To other coding projects? Or wider claims as with Wing's interpretation of CT.

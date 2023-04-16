@@ -7,21 +7,26 @@
             influencing
             design](#contextual-factors-from-practitioner-perspective-influencing-design)
     -   [Chapter Introduction](#chapter-introduction)
-    -   [Evolution of Design](#evolution-of-design)
-        -   [Description of Phases](#description-of-phases)
-    -   [Incorporating findings into a 3M pedagogical model for
-        participants](#incorporating-findings-into-a-3m-pedagogical-model-for-participants)
+    -   [Evolution of learning design / tool use analysed via scope of
+        activity](#evolution-of-learning-design-tool-use-analysed-via-scope-of-activity)
+        -   [Short vignette illustrating shifts in scope of
+            activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
+        -   [Description of the nested levels of activity via analysis
+            of tools
+            used.](#description-of-the-nested-levels-of-activity-via-analysis-of-tools-used.)
+        -   [Activity, Actions and
+            Operations.](#activity-actions-and-operations.)
+    -   [Overview of 3M pedagogical
+        model](#overview-of-3m-pedagogical-model)
         -   [Methods (Inclusive)](#methods-inclusive)
         -   [Presenting GDP to participants as
             "Missions"](#presenting-gdp-to-participants-as-missions)
         -   [Maps - more detailed in this
             chapter](#maps---more-detailed-in-this-chapter)
-    -   [Evolution of tool use analysed via scope of
-        activity](#evolution-of-tool-use-analysed-via-scope-of-activity)
-        -   [Activity, Actions and
-            Operations.](#activity-actions-and-operations.)
-        -   [Exploring tensions emerging in design / tool
-            use](#exploring-tensions-emerging-in-design-tool-use)
+    -   [Evolution of Design](#evolution-of-design)
+        -   [Description of Phases](#description-of-phases)
+    -   [Exploring tensions emerging in design / tool
+        use](#exploring-tensions-emerging-in-design-tool-use)
     -   [Evolving design of Support Materials and
         Documentation](#evolving-design-of-support-materials-and-documentation)
         -   [Use of Help and Documentation NOT related to
@@ -46,11 +51,10 @@
         -   [Using 3 Foci approach to frame data analysis - MOVE AND/OR
             FIND A PLACE FOR START IN THIS
             CHAPTER](#using-3-foci-approach-to-frame-data-analysis---move-andor-find-a-place-for-start-in-this-chapter)
-        -   [Cultural Elements of the Design -
-            MOVE](#cultural-elements-of-the-design---move)
-        -   [Interpersonal Elements of the Design - Guided
-            Participation -
-            MOVE](#interpersonal-elements-of-the-design---guided-participation---move)
+        -   [Cultural Elements of the
+            Design -](#cultural-elements-of-the-design--)
+        -   [Tension choosing patterns - resolve via
+            collection -](#tension-choosing-patterns---resolve-via-collection--)
     -   [Using Physical Maps of Missions as Game Design
         Patterns](#using-physical-maps-of-missions-as-game-design-patterns)
         -   [Overview -](#overview--)
