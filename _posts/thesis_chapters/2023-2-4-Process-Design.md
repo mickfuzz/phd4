@@ -9,7 +9,7 @@ categories: chapter
 title: Process - Emerging Learning Designs
 ---
 
-# Bullet points of things to add
+## Bullet points of things to add
 
 - Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
 - Physical maps section added at end - what overlap is there for the next chapter?
@@ -224,6 +224,8 @@ https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/
 
 #### Phase One
 
+<!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
+
 This phase took place before the official start of this research and relevant ethics application. As such, this stage was initially aimed not at collecting user data rather than building my own background knowledge and competency. Some of methods emerged from the start including play testing of other games, a final public showcase, and the use of drama / warm up games.
 
 The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted an open project based approach which integrated drama games to aid group bonding and reflection.
@@ -235,6 +237,8 @@ The tools allow participants to create games using a combination of a free to us
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 In terms of supporting resources, stage one was exploratory and responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
+
+
 
 At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
 
@@ -284,10 +288,6 @@ Revisit FM book as a guide for Glitch/ Phaser
 More detailed analysis - thoughts on validity of data -->
 
 
-
-
-
-
 ## Exploring tensions emerging in design / tool use
 
 NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP - and some in the final discussions - Select 2 or 3 most relevant to this chapter
@@ -334,6 +334,35 @@ Limit the type of game to one kind. Offer a significant but limited menu of miss
 Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
 
+**Tension choosing patterns - resolve via a pattern collection**
+
+<!-- How much to write on this here? Or the discussion chapter? -->
+
+<!-- Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
+
+The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
+The core activity of my participants was implementation of chosen game design patterns. -->
+
+In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning.
+
+Howver, in starting experiments I observed that the long time in building the relevant knowledge to identify, agree on and implement game patterns negatively impacted motivation.
+
+In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made and based on my previous teaching experience, analysis of literature and knowledge of platform games, I pre-prepared a set of coded example and tutorials to implement a range of game design patterns.
+
+
+<!--
+MOVED TO DISCUSSION CHAPTER??
+### Personal Dimension of the Learning - Personal Appropriation
+In line with sociocultural approaches Rogoff points out the limits of an understanding of knowledge which promotes a view of knowledge as transmission from teacher to learner and is thus an individual process. Instead this exploration of knowledge and practices is framed as a mutual process.
+
+While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
+
+One significant tension I felt in evolving design was a nagging feeling that learning happening should be documented, or linked to some kind of curriculum. There are elements of the design which suit development of coding concepts and Computational Thinking.
+However, I felt reluctance to explicitly teach these links via direct transmission. -->
+
+
+
+
 
 #### Tensions related to funds on knowledge / culture
 
@@ -364,16 +393,11 @@ Also a tension of moving online with resources, via having them available in the
 Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
 
 
+
+
 ## Evolving design of Support Materials and Documentation
 
-### Use of Help and Documentation NOT related to GDP
-
- - COULD START TO SKETCH THIS OUT SOON
-COMPRESS THIS DOWN HERE
-
-<!-- NOTE - Keep only the parts specifically on GDP -->
-
-The use of help files and other documentation was explored in the last chapter but the specific use of GDP related support is explored in this section.
+#hapter but the specific use of GDP related support is explored in this section.
 
 <!-- NOTE -
 The language used, affordances, 2nd stimulation, practices, needs clarification.
@@ -574,30 +598,6 @@ At this stage of writing I include a bullet point list of design relevant featur
  - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches.
 - Other examples from the interviews with practitioners are relevant to include here.
 
-### Tension choosing patterns - resolve via collection -
-
-How much to write on this here? Or later chapter?
-
-<!-- Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
-
-The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
-The core activity of my participants was implementation of chosen game design patterns. -->
-
-In starting experiments we saw that the long time in building the relevant knowledge to identify, agree on and implement game patterns negatively impacted motivation.
-
-In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made and pre-prepared a set of coded example and tutorials to implement a range of game design patterns.
-
-In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning.  
-<!--
-MOVED TO DISCUSSION CHAPTER??
-### Personal Dimension of the Learning - Personal Appropriation
-In line with sociocultural approaches Rogoff points out the limits of an understanding of knowledge which promotes a view of knowledge as transmission from teacher to learner and is thus an individual process. Instead this exploration of knowledge and practices is framed as a mutual process.
-
-While, this is potentially problematic in classroom environments, the mutuality of the process is evident in my responses to tensions via changes in design and spontaneous practices and understandings of knowledge required to make games enacted by participants.  
-
-One significant tension I felt in evolving design was a nagging feeling that learning happening should be documented, or linked to some kind of curriculum. There are elements of the design which suit development of coding concepts and Computational Thinking.
-However, I felt reluctance to explicitly teach these links via direct transmission. -->
-
 
 
 ## Using Physical Maps of Missions as Game Design Patterns
@@ -605,7 +605,7 @@ However, I felt reluctance to explicitly teach these links via direct transmissi
 Maps in the 3M model were explored partly as a way of representing the personal dimension of learning.
 
 
-### Overview -
+### Overview - Physical Maps
 
 To support younger coders unsure what to do next or who struggle to stay on task, I sought to create another kind of map to help them navigate their game making journey. I printed out a large-scale colour map of a coastal landscape stylised in a way that mirrored a map used for navigation in a quest-themed computer game.
 
@@ -634,16 +634,12 @@ This section highlights key tensions in the design that still need to be overcom
 
 It explores these tensions in relation to existing research and contains further discussion to inform possible future directions of research.
 
-#### Individuals vs Collective Mapping of Progress & Online / Offline issues.
+<!-- #### Individuals vs Collective Mapping of Progress & Online / Offline issues.
 
 The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
 
-A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere.
+A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere. -->
 
-#### Tensions - Online resources vs Print outs
-Also a tension of moving online with resources, via having them available in the class.
-
-Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
 
 
 
