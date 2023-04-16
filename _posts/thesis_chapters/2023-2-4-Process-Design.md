@@ -297,6 +297,16 @@ The following are a list of tensions observed in early game making experiments t
 
  - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
 
+#### Tensions related to different learning approaches
+
+ **Facilitators may have a more linear and limited view of ‘progress’ than learners:**
+
+ Side missions which explore and celebrate different ‘maker types’ (informed by Bartle’s player types) can provide the opportunity to discuss characteristics of different making/design approaches.  
+
+ **Systems concepts are embedded in many games but the process of direct teaching of such systems can be complex and interrupt and distract from other design activities.**
+
+ Extra missions which highlight game challenge and user experience may help learners to explore systems concepts within the game context
+
 **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
 
 Find evidence
@@ -324,15 +334,7 @@ Limit the type of game to one kind. Offer a significant but limited menu of miss
 **Learners take on features which are too advanced or complex for their current coding level**
 Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
-#### Tensions related to different learning approaches
 
-**Facilitators may have a more linear and limited view of ‘progress’ than learners:**
-
-Side missions which explore and celebrate different ‘maker types’ (informed by Bartle’s player types) can provide the opportunity to discuss characteristics of different making/design approaches.  
-
-**Systems concepts are embedded in many games but the process of direct teaching of such systems can be complex and interrupt and distract from other design activities.**
-
-Extra missions which highlight game challenge and user experience may help learners to explore systems concepts within the game context
 
 #### Tensions related to funds on knowledge / culture
 
