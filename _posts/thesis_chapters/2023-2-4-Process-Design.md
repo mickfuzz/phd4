@@ -9,10 +9,7 @@ categories: chapter
 title: Process - Emerging Learning Designs
 ---
 
-## Bullet points of things to add
 
-- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
-- Physical maps section added at end - what overlap is there for the next chapter?
 
 
 ## Chapter Introduction  outline
@@ -430,16 +427,17 @@ In journal notes, I reflect on avoiding stopping making to share points.
 
 - Facilitator avoids demonstrations on the screen.
 
-
 - Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
-
 
 
 #### Tensions related to choice of pathways
 
 **Learner frustration if they are not able to choose what feature they add to the game next:**
 
- Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
+- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
+
+
+Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
 
  This facilitates engagement and motivation.
 
