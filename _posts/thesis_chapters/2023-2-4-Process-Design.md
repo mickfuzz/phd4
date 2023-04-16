@@ -71,8 +71,6 @@ https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
 
 
-
-
 ## Evolution of learning design / tool use analysed via scope of activity
 
 The process of designing a learning intervention took place over stages marked by short series of game making sessions and intervening periods.
@@ -293,21 +291,40 @@ Move some of the below here? if it sits right?
 
 ### Exploring tensions emerging in design / tool use
 
-NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP
+NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP - and some in the final discussions - Select 2 or 3 most relevant to this chapter
 
 The following are a list of tensions observed in early game making experiments that I recorded in journal form. More likely have some starting tensions from early design stages, that are then analysed in relation to other sources and data, and other resolutions that are more general or sophisticated emerge.
 
  - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
 
-**Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)** - Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
+**Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
 
-**Learner frustration if they are not able to choose what feature they add to the game next:** Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions). This facilitates engagement and motivation.
+Find evidence
+
+In journal notes, I reflect on avoiding stopping making to share points.
+
+- Facilitator avoids demonstrations on the screen.
+
+
+- Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
+
+
+
+#### Tensions related to choice of pathways
+
+**Learner frustration if they are not able to choose what feature they add to the game next:**
+
+ Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
+
+ This facilitates engagement and motivation.
 
 **Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  
 Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
 
 **Learners take on features which are too advanced or complex for their current coding level**
 Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+#### Tensions related to different learning approaches
 
 **Facilitators may have a more linear and limited view of ‘progress’ than learners:**
 
@@ -316,6 +333,8 @@ Side missions which explore and celebrate different ‘maker types’ (informed 
 **Systems concepts are embedded in many games but the process of direct teaching of such systems can be complex and interrupt and distract from other design activities.**
 
 Extra missions which highlight game challenge and user experience may help learners to explore systems concepts within the game context
+
+#### Tensions related to funds on knowledge / culture
 
 **Parents may feel a lack of confidence in taking part in coding activities which they have little cultural connection to**.
 Side missions which explore and celebrate both Bartle player types and
@@ -409,7 +428,7 @@ Narratively the equivalent of a prequel.
 ### Overview - Move to Design Chapter
 In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
 
-// REWRITE FOLLOWING 
+// REWRITE FOLLOWING
 Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
