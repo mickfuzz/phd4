@@ -35,6 +35,11 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
   - differing focus on the role of the designer
   - similarities in process - iterative, empowerment
 
+**Diagrams / Illustrations**
+
+3 foci and 3M element compared - save for the conclusion/ discussion?
+  https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60  
+
 ## 3M through the lens of agency
 
 In previous chapters, we have looked at broad conceptions of agency in the emergence of learning communities.
