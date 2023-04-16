@@ -143,9 +143,27 @@ Use tensions as the base?
 
 ## Overview of 3M pedagogical model
 
-The process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. The following sections shift perspective slightly from a research perspective which seeks to inform research in the area of collaborative game making to an academic audience to a framing which will be accessible to practitioners and participants as well.
+The process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions.
 
-Note: To do this some areas of context are outlined which may end up in the opening chapters.
+The following sections outlines resources designed to be practitioners and participants as well as fellow researchers.
+
+<!-- Note: To do this some areas of context are outlined which may end up in the opening chapters. -->
+The 3M model is illustrated using supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted. A full description of resources created for Make Code is presented below and a summary of those created for Glitch and Phaser.
+
+![Figure 1.3. Synthesising diagram of 3M Game Making Model](./Pictures/3msynthesis.png){ width=80% }
+
+
+| **Missions**         | **Maps**             | **Methods**          |
+|----------------|-----------|------------|
+| Simple code changes yield quick feedback  | A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators       | Play Testing in each session aids short term motivation.  Showcase events help longer-term motivation and aid project prioritisation   |
+| Free choice of Patterns increases learner engagement and ownership   | Tracing the learner pathway on an attractive physical map in the learning space can help integrate navigation and reflection into the creative process | Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role          |
+| Restrict Game Type and number of Patterns to reduce Facilitator stress       |                      | Adding electronics to control the game via arcade buttons and cabinets increases engagement and perceptions of project authenticity |
+| Limit  complexity of patterns. Some are simple but cause a large change in the game       |    |        |
+| Side missions which explore and celebrate different ‘maker types’ (from  Bartle’s player types)          |        |     |
+
+Table 1.2.  Key Features of 3M Game Making Model
+
+
 
 ### Methods (Inclusive)
 
