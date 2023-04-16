@@ -1,10 +1,5 @@
--   [Bullet points of things to add](#bullet-points-of-things-to-add)
--   [Chapter Introduction outline](#chapter-introduction-outline)
+-   [Outline](#outline)
 -   [Chapter Introduction](#chapter-introduction)
--   [Evolution of learning design / tool use analysed via scope of
-    activity](#evolution-of-learning-design-tool-use-analysed-via-scope-of-activity)
-    -   [Recap of context and specifics of designing for informal
-        learning](#recap-of-context-and-specifics-of-designing-for-informal-learning)
     -   [Contextual factors from practitioner perspective influencing
         design](#contextual-factors-from-practitioner-perspective-influencing-design)
     -   [Short vignette illustrating shifts in scope of
@@ -12,8 +7,6 @@
     -   [Description of the nested levels of activity via analysis of
         tools
         used.](#description-of-the-nested-levels-of-activity-via-analysis-of-tools-used.)
-    -   [Activity, Actions and
-        Operations.](#activity-actions-and-operations.)
 -   [Overview of 3M pedagogical
     model](#overview-of-3m-pedagogical-model)
     -   [Methods (Inclusive)](#methods-inclusive)
@@ -22,8 +15,8 @@
         chapter](#maps---more-detailed-in-this-chapter)
 -   [Evolution of Design](#evolution-of-design)
     -   [Description of Phases](#description-of-phases)
--   [Exploring tensions emerging in design / tool
-    use](#exploring-tensions-emerging-in-design-tool-use)
+-   [Exploring tensions emerging in
+    design](#exploring-tensions-emerging-in-design)
 -   [Evolving design of Support Materials and
     Documentation](#evolving-design-of-support-materials-and-documentation)
 -   [Learning Dimensions Map](#learning-dimensions-map)
