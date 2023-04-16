@@ -302,7 +302,7 @@ also should reference the resources - in appendix and online.
 
 Table of Tensions & resolutions of 3M design - also should reference the resources - in appendix and online.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-NOT SURE WHERE TO PLACE THIS IN THE CHAPTER. 
+NOT SURE WHERE TO PLACE THIS IN THE CHAPTER.
 
 
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
@@ -370,6 +370,18 @@ I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade to
 However, there were some additional changes in the way that design patterns were presented to learners. In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources.
 
 Learning Map design and expression of patterns in modified traditional GDP form.
+
+
+**Addition of a Game Challenge section**
+
+I wanted to explore the possibility to use this model to explore systems thinking. There is precedent to do this in GSM.
+
+It was driven in a response to meaningful missions which helped guide a focus on game play.
+
+I created such missions (outlined in Methods chapter)
+Added game design patterns based on challenge - find source Schnell & GSM literature (their terminology is Game elements)
+And then updated the learning map to highlight potential concepts to be learned.
+
 
 
 #### Common between Phases
@@ -553,7 +565,13 @@ Narratively the equivalent of a prequel.
 
 ## Learning Dimensions Map
 
-### Overview - Move to Design Chapter
+The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
+
+One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
+DEVELOP MOTIVATION - OPEN THIS TO RETURN TO IT LATER IN DISCUSSION.
+
+### Overview -
+
 In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
 
 // REWRITE FOLLOWING
@@ -601,45 +619,17 @@ Note - while the use of these skills is not unique to game making and common to 
 NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
 
 
-## Adaptations to the 3M model to facilitate the use of Learning Dimensions map - DROP? MOVE?
-
-### Addition of a Game Challenge section
-
-I wanted to explore the possibility to use this model to explore systems thinking.
-There is precedent to do this in GSM.
-It was driven in a response to meaningful missions which helped guide a focus on game play.
-I created such missions (outlined in Methods chapter)
-Added game design patterns based on challenge - find source Schnell & GSM literature (their terminology is Game elements)
-And then updated the learning map to highlight potential concepts to be learned.
 
 
 ### Including Coding Concepts in the Learning Map and including Code Cards with links to online Concepts
 
 Recap here the choice of coding concepts rather that CT in more abstract terms.
 
-
 - Make Code cards which contained links to game design patterns and the different component concepts
 - (see Eriksson and Bjork)
 - Draw on material and critique in chapter on semantic profiles / waves.
 
 
-
-## Analysing learner responses to design - MOVE ALL OF THIS TO NEXT CHAPTERS?
-
-The first part of this chapter has dealt with the evolution of design in initial phases and responses to learner experience to resolve tensions. Due to the complexity and many moving parts of the design it has been mostly descriptive.
-
-While CHAT provides the technique of highlighting emerging tensions and resolutions, to undertake deeper analysis I will an analytical process proposed by Rogoff which examines learning communities using 3 foci.
-
-This process begins in this chapter with a focus on evolving design and continues in with three following chapters with a greater focus on the learner response to challenges of game making in the recorded sessions.
-
-
-## Old Introduction to Maps - FIND A PLACE FOR THIS IN THIS CHAPTER
-
-The findings of this chapter broadly align with the personal foci from Rogoff's three foci model.
-
-The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
-These include resources created after, and partly in response to, the interactions documented in the previous chapter.
-One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
 
 <!-- A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
 
@@ -652,26 +642,23 @@ For example, the use of CT concepts in a framework, listed as part of the initia
 
 
 
-### Using 3 Foci approach to frame data analysis - MOVE AND/OR FIND A PLACE FOR START IN THIS CHAPTER
-
-I WAS PLANNING TO DROP THIS FROM THE CHAPTER
-BUT CULTURAL ELEMENTS AT LEAST ARE IMPORTANT.
-BUT MAYBE MOVE THE FIRST DESCRIPTION TO METHODOLOGY CHAPTER?
+<!-- ### Using 3 Foci approach to frame data analysis - MOVE AND/OR FIND A PLACE FOR START IN THIS CHAPTER -->
 
 <!-- Draw on this document to give an overview of the framework and approach.
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#
 Thus setting out a path for the following chapters. -->
 
-Rogoff's [-@rogoff_observing_1995-1] describes three planes of personal, social and community activity which she advocates as foci for analysis. The model problematises the dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009] in a way which suits the space between formal and informal learning that this community based model of game making occupies.
+<!-- Rogoff's [-@rogoff_observing_1995-1] describes three planes of personal, social and community activity which she advocates as foci for analysis. The model problematises the dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009] in a way which suits the space between formal and informal learning that this community based model of game making occupies.
 
 While the author's original research was on indigenous cultural practices on a village level, the model has been applied in both formal and informal educational settings; including FIND THREE EXAMPLES -
 
-In this research I am interested in the way that facilitators can help nurture community practices and also in the way that participants have co-created the learning design created in this research and how participant practices have evolved.
+In this research I am interested in the way that facilitators can help nurture community practices and also in the way that participants have co-created the learning design created in this research and how participant practices have evolved. -->
 
+<!--
 In this section I outline Rogoff's initial conceptions of activities happening in three planes and related them to emergent activities in the game making community of this research. _I will also bring in critical counterpoints from relevant theory and compare to other "authentic"  teaching frameworks including PBL as a way to widening this analysis._
 
 This document is being fleshed out with examples from video data.
-https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit#gid=0
+https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit#gid=0 -->
 
 
 ## Using Physical Maps of Missions as Game Design Patterns
@@ -697,10 +684,10 @@ _Missions as Islands_
 Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process.
 
 Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion.
+
 EXAMPLE - ma & fi
 
 Having GDP mapped out had some of the following possibilities.
-
 
 Maps as an area seems to be the weakest point in this process. I may have neglected this plane as it is normally well explored in other research based in formal settings, and I was particularly interested in nurturing an organically forming game making community.
 
@@ -714,6 +701,16 @@ The move towards a more individual map in MakeCode iteration which is digital an
 
 A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere. -->
 
+
+## Link to next chapter
+
+This chapter has dealt with the evolution of design in initial phases and responses to learner experience to resolve tensions.
+
+Due to the complexity and many moving parts of the design it has been mostly descriptive.
+
+While CHAT provides the technique of highlighting emerging tensions and resolutions, to undertake deeper analysis I will an analytical process proposed by Rogoff which examines learning communities using 3 foci.
+
+This process begins in this chapter with a focus on evolving design and continues in with three following chapters with a greater focus on the learner response to challenges of game making in the recorded sessions.
 
 
 
