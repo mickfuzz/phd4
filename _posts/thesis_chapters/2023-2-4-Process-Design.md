@@ -54,13 +54,14 @@ title: Process - Emerging Learning Designs
 - Recap of context and specifics of designing for informal learning
 - Vignette showing shifts between scopes
 - Identifying units / scopes of activity
+- Overview of 3M pedagogical model
 - Learning design in stages
 - Analysis of Tensions in design and how this guided Evolution
 - Docs and Tools
+- maps - learning dimensions
+- maps - physical
 
 Missing?
-
-
 
 
 ## Chapter Introduction  
