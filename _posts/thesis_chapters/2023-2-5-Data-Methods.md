@@ -167,8 +167,10 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 ### Vignette - Starting the Alien Drama of the Weean.
 
-
 This sections starts with a vignette of the start of an game making programme.
+
+It takes place during the third iteration of the game making programme.
+
 
 
 ### Transcript of Opening Session, starting game & establishing scenario.
@@ -221,7 +223,7 @@ Justify including these reflections.
 
  - a way to decentre myself from the process of giving boundaries. I list boundaries. Similar to outlining the rules of a game. I am much more relaxed restricting choice in role, or via a proxy of a playful encounter.
 - as a way to bring attention to an imagined audience. I reference that the games are online.
-
+``
 
 
 ## The impact of playing games and ongoing play-testing

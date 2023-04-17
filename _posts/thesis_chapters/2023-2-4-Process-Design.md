@@ -134,28 +134,24 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 
 ### Short vignette illustrating shifts in scope of activity
 
-The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Terry who in this session has been working independently.
+The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Toby who in this session has been working independently.
 
-Terry then starts to test and revise his game. He alternates between two internet browser tabs which hold the code of his game and a working version of the game. He makes small changes to existing code.
+Change to markdown?
+https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
 __Insert image of code__
 
 The code of the game.
 
 While the code is made up of various elements, only the javascript file is normally altered by participants.
-
 The complexity is hidden away from the end user.
 
 __Insert image of game in browser__
 
 On the screen you can see the game.
-
-Terry then decides he wants to add a new element to his game.
-
+Toby then decides he wants to add a new element to his game.
 He browses the list of game design patterns.
-
 There is a tension where he is hesitant about where to place code.
-
 Screen shot of the menu of choices.
 
 
