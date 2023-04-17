@@ -80,7 +80,6 @@ chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
 
-
 ### Contextual factors from practitioner perspective influencing design
 
 NOTE - move some of this to a discussion section?
@@ -90,10 +89,12 @@ NOTE - move some of this to a discussion section?
 - design based experiments - some factors
 - informal learning - recap rogoff and similar - issues of designing for informal settings
 
-I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
+
 
 
 **Cultural influences on my choice of learning design**
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
 
  - a desire to increase engagement based on my experiences in classroom and out of classroom - Home Ed / coder dojo experiences
  - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
@@ -101,6 +102,7 @@ I set up the working pattern based on my professional experiences and my own aca
  <!-- - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches. -->
 - Other examples from the interviews with practitioners are relevant to include here.
 
+**Practical factors**
 
 It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
 
@@ -108,6 +110,7 @@ It is important to address contextual factors that facilitated and shaped develo
 
 Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
 
+**Key questions / motivations in creating a new learning community**
 
 The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
 
