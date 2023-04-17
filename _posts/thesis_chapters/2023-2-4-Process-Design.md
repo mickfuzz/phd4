@@ -89,9 +89,6 @@ NOTE - move some of this to a discussion section?
 - design based experiments - some factors
 - informal learning - recap rogoff and similar - issues of designing for informal settings
 
-
-
-
 **Cultural influences on my choice of learning design**
 
 I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
