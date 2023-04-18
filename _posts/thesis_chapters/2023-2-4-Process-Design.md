@@ -167,16 +167,21 @@ Activity Theory allows researchers to identify intersecting or nested systems of
 
 These include:
 
-- Higher-level objective: creating a game which is fun to play and communicate an environmental theme.
+- Larger-scoped objective: creating a game which is fun to play and communicate an environmental theme.
 - Mid-level objectives: identifying and implementing key game features to add to the game.
 - Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements.
 
-While these are the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills. 
+While these are the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
 
-A short description of the activity systems follows will illustrative diagrams.
+A short description of the activity systems follows will illustrative diagrams / table
+
+| **Subject**         | **Objective**             | **Tools / Processes**          |
+|----------------|-----------|------------|
+| Large-scope - whole community  | Make fun games about x     | Instruction and..   |
 
 
 
+Higher-level objective
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
 - larger - learning transferable design skills and processes
