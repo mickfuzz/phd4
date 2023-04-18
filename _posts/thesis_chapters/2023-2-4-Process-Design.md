@@ -176,16 +176,16 @@ These include:
 - smaller - creating, changing and transporting game assets to enact or change GDPs
 - smaller - implementing or changing code constructs to enact or change GDPs -->
 
+
+Students picked missions from a choice of printed resources.
+There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+
 **Activity, Actions and Operations**
 
 MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
 Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 
-RECAP - from Lit Review
 
-In my own game making model students picked missions from a choice of printed resources.
-
-There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
 
 In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
 
