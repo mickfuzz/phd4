@@ -24,6 +24,10 @@ Full table of tensions?
 
 Full print out of the design pattern cards  - x 4 as samples.
 
+### Drama Process
+
+- Printout of alien drama process
+ Missions
 
 ## Transcript Excerpts
 

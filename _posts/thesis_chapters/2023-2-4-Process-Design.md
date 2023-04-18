@@ -179,48 +179,6 @@ These include:
 
 Students picked missions from a choice of printed resources.
 There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
-
-**Activity, Actions and Operations**
-
-MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
-Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
-
-
-
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
-
-REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS
-
-<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
-
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
-
-- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
-- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
-- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
-- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
-
-This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
-
-
-Move starting material here for size of scope
-Activity as a Project -  
-Create a Table? How to align with 3M & 3 dimensions
-
-Use the 3M framework as a guide for MakeCode
-Revisit FM book as a guide for Glitch/ Phaser
-Use tensions as the base?
-
 ## Overview of 3M pedagogical model
 
 The process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions.
@@ -718,6 +676,12 @@ It explores these tensions in relation to existing research and contains further
 The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
 
 A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere. -->
+
+
+
+
+
+
 
 
 ## Link to next chapter

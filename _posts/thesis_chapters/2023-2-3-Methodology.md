@@ -106,6 +106,42 @@ From the perspective of participants, the goal of implementing individual game p
 - any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
 
 
+
+### Find a home for this writing
+
+**Activity, Actions and Operations**
+
+MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
+Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
+In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
+
+REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS
+
+<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
+
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
+
+The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
+
+- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
+- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
+- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
+- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
+- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
+
+This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
+
+
+
+
+
 NOTE REWRITE THIS
 
 Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].

@@ -235,7 +235,7 @@ And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
 
-### Commentary on Transcript
+### Commentary on Vignette
 
 <!-- q: How much to reference back to previous chapter? -->
 
@@ -250,7 +250,7 @@ ADD MORE COMMENTARY ON DRAMA PROCESS
 
 The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documenation more easily as I would be able to review it on their screen in captured data.
 
-
+### Additional data on alien drama process
 
 
 
