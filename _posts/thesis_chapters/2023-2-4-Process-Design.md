@@ -197,13 +197,13 @@ Students picked missions from a choice of printed resources. There were four col
 
 The process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions.
 
-The following sections outlines resources designed to be practitioners and participants as well as fellow researchers.
+In summer 2020 I began early dissemination of results and wanted to be able to present the essence of the learning resources and design to fellow practitioners and participants as well as researchers.
 
-<!-- Note: To do this some areas of context are outlined which may end up in the opening chapters. -->
-The 3M model is illustrated using supporting resources that have emerged from the research process. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted.
+To do this I created the frame of a 3M model, the aim being to simplify a complex set of resources and teaching processes.
 
-![Figure 1.3. Synthesising diagram of 3M Game Making Model](./Pictures/3msynthesis.png){ width=80% }
+The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted.
 
+![Figure 1.3. Synthesising diagram of 3M Game Making Model](./Pictures/3msynthesis.png){ width=95% }
 
 
 | **Missions**         | **Maps**             | **Methods**          |
@@ -278,6 +278,8 @@ Supporting resources help resolve tensions around learners getting stuck and nee
 
 Move some of the below here? if it sits right?
 
+
+
 ## Evolution of Design
 
 ### Description of Phases
@@ -289,7 +291,6 @@ I will outline decisions behind the design activities at key stage of activity  
 NOTE - NOT SURE WHERE TO PLACE THIS IN THE CHAPTER.
 Table of Tensions & resolutions of 3M design - also should reference the resources - in appendix and online.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-
 
 
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
@@ -355,7 +356,7 @@ I have brought the workshops resources together a book published on the FLOSS Ma
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
-Second iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department [@pattersonDramaSTEM2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
+Second iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019]   to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
 
 I revised the an online project-hub to link to the project chapters rather than the code examples.
 
