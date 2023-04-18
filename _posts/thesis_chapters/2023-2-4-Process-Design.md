@@ -213,10 +213,12 @@ Table 1.2.  Key Features of 3M Game Making Model
 
 ### Methods (Inclusive)
 
-Overview - prep for next chapter
+NOTE - CHECK NEXT CHAPTER - Revise this to prep for next chapter
 
+Explore other research that builds on lit review concepts and has a game making context.
+<!-- Keep in mind DBR, AT concepts, resolving tensions & agency -->
 
-### Missions (Main Missions)
+### Missions
 
 <!-- Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. -->
 
@@ -232,38 +234,29 @@ In addition, side missions encourage social and playful coding approaches which 
 
 <!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
 
-In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose.
+In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature or pattern is described as a mission.
 
-Each feature or pattern is described as a mission.
-
-
-This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 <!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
 
-In my final implementation of the 3M model students picked missions from a choice of printed cards. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
-
-NOTE - MOVE THIS? GDP CHAPTER? OR LATER?
-
-PRINTED CARD TEXT BEGINS
+In my final implementation of the 3M model students picked missions from a choice of printed cards or online resources. There were colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
 
 Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
 
-* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+    * **Name of Game Design Pattern:** Jumping on Enemies to Zap them
 
-* **Type Pattern:** Game Mechanic
+    * **Type Pattern:** Game Mechanic
 
-* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+    * **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
 
-* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
+    * **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
 
-* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
+    * **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
 
-* **Links to other Computing Patterns:** Systems Dynamics[^10]
+    * **Links to other Computing Patterns:** Systems Dynamics[^10]
 
-* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+    * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
 
-PRINTED CARD TEXT ENDS
 
 <!--
 
@@ -308,6 +301,8 @@ This phase took place before the official start of this research and relevant et
 
 The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted an open project based approach which integrated drama games to aid group bonding and reflection.
 
+Playing games, and game filled laptops.
+
 I chose a tool set which drew on relevant design principles explored earlier (Resnick and Rosenbaum, 2013).
 
 The tools allow participants to create games using a combination of a free to use online tools.
@@ -321,9 +316,10 @@ In terms of supporting resources, stage one was exploratory and responsive; I ha
 
 At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
 
+
 #### Phase Two
 
-**Planning**
+
 As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
 
 The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
@@ -331,6 +327,13 @@ The kinds of exhibits which invite extended play are of interest to this study. 
 My design pivoted to this stage after introducing design patterns based challenge cards and inviting participants into game playing via older arcade games.
 
 This was in response to tension of teaching PGCE students in a smaller time scale but wanting to capture the essessce of the pedagogy. And in the process of preparing for Mozilla conference.
+
+NOTE MOVE ANALYSIS LATER
+This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+
+
+
+#### Phase Three
 
 **Delivery**
 
@@ -340,7 +343,7 @@ I have brought the workshops resources together a book published on the FLOSS Ma
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
-#### Phase Three
+#### Phase Four
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
@@ -348,7 +351,7 @@ Second iteration in May 2019 I drew on previous work with the MMU Faculty of Edu
 
 I revised the an online project-hub to link to the project chapters rather than the code examples.
 
-#### Phase Four - MakeCode Arcade
+#### Phase Five - MakeCode Arcade
 (Jan 2020 - July 2020)
 
 I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.
@@ -369,12 +372,8 @@ Added game design patterns based on challenge - find source Schnell & GSM litera
 And then updated the learning map to highlight potential concepts to be learned.
 
 
-#### Common between Phases
 
-Certain features either common practice, or inspired by research and interviews, were common to all phases.
 
-* Playtesting
-* Showcase
 
 <!-- ### Stages of Design
 
