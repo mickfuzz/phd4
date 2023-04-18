@@ -175,7 +175,8 @@ It takes place during the third iteration of the game making programme. The part
 > Mick: Ok let’s make a start. Come to the front and I’ll do a super quick….
 I’ll do my favourite game which is where we have to count to 12 but we’re not allowed to go in a particular order of people. We do go in a particular order of people. And if two people say a number at the same time then we have to start again. We’ll give it a go. You’ll get the idea.
 
-> Mi: Is there a penalty if we do?
+> Molly: Is there a penalty if we do?
+
 > Mick: There’s no penalty. (Group laugh.)
 
 The game starts and participants try to complete the challenge to count to 12 without talking over each others. The game proceeds with a lot of funny developments. These are hard to describe but include many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and entreaties to give it one last go. The game ends in good hearted failure.
