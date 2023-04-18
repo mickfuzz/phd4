@@ -234,23 +234,17 @@ And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
 
-
-### Transcript of Opening Session, starting game & establishing scenario.
-
-See online -
-https://docs.google.com/document/d/1AE1LQCKWsWGvOvl94nsF_yEnibI8lBpabNswFSZQbc8/edit
-
 ### Commentary on Transcript
 
-q: How much to reference back to previous chapter?
+<!-- q: How much to reference back to previous chapter? -->
 
-**Starting Game**
+This transcript is a rare example of extended facilitator input as instruction. The vignette above covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation.
 
-The session starts with participants entering and playing web games and past games and chatting.
+The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation.
 
-I then gain their attention and start by
+The process of
 
-I have a recording which really makes me laugh. People - including myself - taking things very seriously but having a great time too.
+
 
 
 **Motivations of the social challenges / missions**
