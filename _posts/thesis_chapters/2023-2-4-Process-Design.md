@@ -131,15 +131,21 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
  -->
 
 
+## Summary of design evolution
 
-### Short vignette illustrating shifts in scope of activity
+[Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
+
+This is introduced to ground the reader by giving a brief overview of the stages and a link to examples of resources in the appendices and links to online examples.
+
+
+## Short vignette illustrating shifts in scope of activity
 
 The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Toby who in this session has been working independently.
 
 Change to markdown?
 https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
-__Insert image of code__
+<!-- __Insert image of code__
 
 The code of the game.
 
@@ -152,11 +158,11 @@ On the screen you can see the game.
 Toby then decides he wants to add a new element to his game.
 He browses the list of game design patterns.
 There is a tension where he is hesitant about where to place code.
-Screen shot of the menu of choices.
+Screen shot of the menu of choices. -->
 
 
 
-### Description of the nested levels of activity via analysis of tools used.
+### Commentary on Vignette - including a brief description of the nested levels of activity
 
 <!-- REWRITE THE BELOW - CHANGE FOCUS TO TOOLS /RESOURCES -->
 
@@ -177,8 +183,8 @@ These include:
 - smaller - implementing or changing code constructs to enact or change GDPs -->
 
 
-Students picked missions from a choice of printed resources.
-There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+Students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+
 ## Overview of 3M pedagogical model
 
 The process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions.
@@ -259,7 +265,13 @@ Your mission is to apply the following pattern to your game. There are supportin
 
 PRINTED CARD TEXT ENDS
 
-In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge. Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding.
+<!--
+
+NOTE - On supporting resources - move to relevant section.
+
+In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge.
+
+Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding. -->
 
 ### Maps - more detailed in this chapter
 
@@ -269,19 +281,14 @@ Move some of the below here? if it sits right?
 
 ### Description of Phases
 
-I have carried out four stages of workshops and development with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
+As outlined in the table above I carried out four stages of workshops and development with home educator families.
 
-<!-- - Oct 2017 - Mar 2018: Experimental Course
-- May 2018 - Dec 2018: Resource Development Stage
-- Jan 2019 - Dec 2019: Glitch Game Club
-- (Jan 2020 - May 2020: Make Code Arcade) -->
+I will outline decisions behind the design activities at key stage of activity  - AND INCLUDE TENSIONS IN EACH STAGE.
 
-See [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-also should reference the resources - in appendix and online.
-
+NOTE - NOT SURE WHERE TO PLACE THIS IN THE CHAPTER.
 Table of Tensions & resolutions of 3M design - also should reference the resources - in appendix and online.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-NOT SURE WHERE TO PLACE THIS IN THE CHAPTER.
+
 
 
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
