@@ -173,15 +173,25 @@ These include:
 
 While these are the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
 
-A short description of the activity systems follows will illustrative diagrams / table
+A short description of the activity systems follows will illustrative diagrams / table  
+eg
 
 | **Subject**         | **Objective**             | **Tools / Processes**          |
-|----------------|-----------|------------|
-| Large-scope - whole community  | Make fun games about x     | Instruction and..   |
+|--------------|-------------|------------|
+| Whole community  | creating games which are fun to play and communicate an environmental theme     | Code playground - glitch.   |
+|   |      | Piskel - pixel art graphic editor    |
+|   |      | Playtesting processes    |
 
 
+| **Subject**         | **Objective**             | **Tools / Processes**          |
+|--------------|-------------|------------|
+| Medium-scope  | Implementing game elements    | Overall mission   |
 
-Higher-level objective
+
+| **Subject**         | **Objective**             | **Tools / Processes**         
+|--------------|-------------|------------|
+| Medium-scope  | Implementing game elements    | Overall mission   |
+
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
 - larger - learning transferable design skills and processes
