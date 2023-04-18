@@ -130,13 +130,11 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 - Playtesting: the process of playtesting, either self or peer links back to a community purpose
  -->
 
-
 ## Summary of design evolution
 
 [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 
 This is introduced to ground the reader by giving a brief overview of the stages and a link to examples of resources in the appendices and links to online examples.
-
 
 ## Short vignette illustrating shifts in scope of activity
 
@@ -148,7 +146,6 @@ https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/
 <!-- __Insert image of code__
 
 The code of the game.
-
 While the code is made up of various elements, only the javascript file is normally altered by participants.
 The complexity is hidden away from the end user.
 
@@ -162,7 +159,7 @@ Screen shot of the menu of choices. -->
 
 
 
-### Commentary on Vignette - including a brief description of the nested levels of activity
+### Commentary on Vignette - including a brief description of the nested levels of activity & tools used
 
 <!-- REWRITE THE BELOW - CHANGE FOCUS TO TOOLS /RESOURCES -->
 
@@ -170,9 +167,15 @@ Activity Theory allows researchers to identify intersecting or nested systems of
 
 These include:
 
-- large - creating a game which is fun to play and communicate an environmental theme
-- medium - identifying and implementing key game features (Game Design Patterns) to add to the games
-- smaller - creating, changing and transporting game assets or changing code constructs to enact or change game elements.
+- Higher-level objective: creating a game which is fun to play and communicate an environmental theme.
+- Mid-level objectives: identifying and implementing key game features to add to the game.
+- Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements.
+
+While these are the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills. 
+
+A short description of the activity systems follows will illustrative diagrams.
+
+
 
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
