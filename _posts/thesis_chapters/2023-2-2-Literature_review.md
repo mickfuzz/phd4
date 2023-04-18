@@ -36,11 +36,11 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
     - PBL, UBL and other semi-formal interventions    
   - Examples informal community creation in practice and research
     - 5th dimension
-    - Mantle of the Expert
+    - Mantle of the Expert (and drama processes games)
   - Examples in existing game making practice and researched programs
     - Game playing and making communities - community activities around the game Gee / Ito
     - Games as funds of knowledge
-    - Parents as brokers in tech use / learning - Roque et al
+    - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
   - Tools and Concepts & Terminology  - see glossary at end
       - Code playgrounds
       - Game Design Patterns
