@@ -152,8 +152,7 @@ The following table is provided to give the reader an overview of the stages and
 |       |                   |                   | template          |
 |       |                   |                   | (Appendix R.4.1)  |
 |       |                   |                   |                   |
-|       |                   |                   | Various audio     |[Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
-
+|       |                   |                   | Various audio     |
 |       |                   |                   | creation tools    |
 |       |                   |                   | (Appendix R.5.x)  |
 +-------+-------------------+-------------------+-------------------+
@@ -208,8 +207,7 @@ The following table is provided to give the reader an overview of the stages and
 +-------+-------------------+-------------------+-------------------+
 | 5     | Jan 2020 -        | Two iterations of | Make Code Arcade  |
 |       | September 2020    | game making       | (MCA) tool        |
-|       |                   | course of 5-6     | (Appendix       [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
-  |
+|       |                   | course of 5-6     | (Appendix         |
 |       | Make Code Arcade  | weeks using       | RM.1.1)\          |
 |       |                   | MakeCode Arcade   | MCA Template      |
 |       |                   | tool.             | starting          |
@@ -238,9 +236,6 @@ The following table is provided to give the reader an overview of the stages and
 ## Short vignette illustrating shifts in scope of activity
 
 The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Toby who in this session has been working independently.
-
-Change to markdown?
-https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
 <!-- __Insert image of code__
 
