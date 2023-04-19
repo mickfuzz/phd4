@@ -118,11 +118,13 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 
 ## Summary of design evolution
 
-[Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
+<!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 
-This is introduced to ground the reader by giving a brief overview of the stages and a link to examples of resources in the appendices and links to online examples.
+see updated table in tables subdirectory  
 
+-->
 
+The following table is provided to give the reader an overview of the stages and a link to examples of resources in the appendices and links to online examples. The following sections describe the use of varied tools and processes in greater detail to explore the rationale for the creation and selection of these tools.
 
 +-------+-------------------+-------------------+-------------------+
 | Phase | Name and Date     | Description       | Resources Used    |
@@ -150,7 +152,8 @@ This is introduced to ground the reader by giving a brief overview of the stages
 |       |                   |                   | template          |
 |       |                   |                   | (Appendix R.4.1)  |
 |       |                   |                   |                   |
-|       |                   |                   | Various audio     |
+|       |                   |                   | Various audio     |[Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
+
 |       |                   |                   | creation tools    |
 |       |                   |                   | (Appendix R.5.x)  |
 +-------+-------------------+-------------------+-------------------+
@@ -205,7 +208,8 @@ This is introduced to ground the reader by giving a brief overview of the stages
 +-------+-------------------+-------------------+-------------------+
 | 5     | Jan 2020 -        | Two iterations of | Make Code Arcade  |
 |       | September 2020    | game making       | (MCA) tool        |
-|       |                   | course of 5-6     | (Appendix         |
+|       |                   | course of 5-6     | (Appendix       [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
+  |
 |       | Make Code Arcade  | weeks using       | RM.1.1)\          |
 |       |                   | MakeCode Arcade   | MCA Template      |
 |       |                   | tool.             | starting          |
