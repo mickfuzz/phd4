@@ -49,20 +49,6 @@ title: Process - Emerging Learning Designs
 
 
 
-## Outline
-
-- Recap of context and specifics of designing for informal learning
-- Vignette showing shifts between scopes
-- Identifying units / scopes of activity
-- Overview of 3M pedagogical model
-- Learning design in stages
-- Analysis of Tensions in design and how this guided Evolution
-- Docs and Tools
-- maps - learning dimensions
-- maps - physical
-
-Missing?
-
 
 ## Chapter Introduction  
 
@@ -136,6 +122,115 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 
 This is introduced to ground the reader by giving a brief overview of the stages and a link to examples of resources in the appendices and links to online examples.
 
+
+
++-------+-------------------+-------------------+-------------------+
+| Phase | Name and Date     | Description       | Resources Used    |
++-------+-------------------+-------------------+-------------------+
+| 1     | Oct 2017 - Mar    | Participants      | Phaser 2.6.2      |
+|       | 2018              | started with a    | javascript        |
+|       |                   | blank canvas and  | library (Appendix |
+|       | \                 | were asked to     | R.1.1)            |
+|       | Experimental      | plan and make a   |                   |
+|       | Course            | game in two       | Thimble code      |
+|       |                   | larger groups of  | playground.       |
+|       |                   | 5-6 participants  | (Appendix R.2.1)  |
+|       |                   | of mixed ages. A  |                   |
+|       |                   | minimal           | Online graphics   |
+|       |                   | incomplete        | editor            |
+|       |                   | starting game     | Piskel.(Appendix  |
+|       |                   | code template was | R.3.1)            |
+|       |                   | introduced to     |                   |
+|       |                   | support students  | Code recognition  |
+|       |                   | after the course  | activity.         |
+|       |                   | has started.      | (Appendix D.1.1)  |
+|       |                   |                   |                   |
+|       |                   |                   | An incomplete     |
+|       |                   |                   | game code         |
+|       |                   |                   | template          |
+|       |                   |                   | (Appendix R.4.1)  |
+|       |                   |                   |                   |
+|       |                   |                   | Various audio     |
+|       |                   |                   | creation tools    |
+|       |                   |                   | (Appendix R.5.x)  |
++-------+-------------------+-------------------+-------------------+
+| 2     | May 2018 - Dec    | One-off workshops | Phaser 2.6.2      |
+|       | 2018\             | at Mozilla and    | javascript        |
+|       | \                 | Feral Vector      | library (Appendix |
+|       | Resource          | conferences and   | R.1)              |
+|       | Development Stage | to PGCE computer  |                   |
+|       |                   | students helped   | Glitch code       |
+|       |                   | focus and the     | playground        |
+|       |                   | creation of a     | (Appendix R.2.1)  |
+|       |                   | "half baked" game |                   |
+|       |                   | template and      | Print out of      |
+|       |                   | supporting online | cards with simple |
+|       |                   | and printable     | coding missions   |
+|       |                   | resources.        | (Appendix R.5.1)  |
+|       |                   |                   |                   |
+|       |                   |                   | Revised           |
+|       |                   |                   | incomplete game   |
+|       |                   |                   | template          |
+|       |                   |                   | (Appendix R.4.2)  |
++-------+-------------------+-------------------+-------------------+
+| 3     | Jan - Feb 2019    | First iteration   | Phaser 2.6.2      |
+|       |                   | of game making    | javascript        |
+|       | Glitch Game Club  | course of 5-6     | library (Appendix |
+|       |                   | weeks. The        | R.1.1)\           |
+|       |                   | template and      | Glitch code       |
+|       |                   | resources created | playground        |
+|       |                   | in the previous   | (Appendix R.2.1)\ |
+|       |                   | stage were used   | Online graphics   |
+|       |                   | as a starting     | editor            |
+|       |                   | point but         | Piskel.(Appendix  |
+|       |                   | continued to      | R.3.1)            |
+|       |                   | evolve..          |                   |
+|       |                   |                   | Updated           |
+|       |                   |                   | incomplete game   |
+|       |                   |                   | template          |
+|       |                   |                   | (Appendix R.4.3)  |
+|       |                   |                   |                   |
+|       |                   |                   | Supporting        |
+|       |                   |                   | tutorials and     |
+|       |                   |                   | code examples\    |
+|       |                   |                   | (Appendix D.2.x)  |
++-------+-------------------+-------------------+-------------------+
+| 4     | May 2019          | Second iteration  | As per phase 3    |
+|       |                   | of game making    | and in addition:\ |
+|       | Glitch Game Club  | course of 4 weeks | Drama scenario    |
+|       |                   | using Phaser.js,  | (Appendix E.1.1)\ |
+|       |                   |                   | Interactive chat  |
+|       |                   |                   | page in glitch    |
+|       |                   |                   | (Appendix E.1.2)  |
++-------+-------------------+-------------------+-------------------+
+| 5     | Jan 2020 -        | Two iterations of | Make Code Arcade  |
+|       | September 2020    | game making       | (MCA) tool        |
+|       |                   | course of 5-6     | (Appendix         |
+|       | Make Code Arcade  | weeks using       | RM.1.1)\          |
+|       |                   | MakeCode Arcade   | MCA Template      |
+|       |                   | tool.             | starting          |
+|       |                   |                   | game(Appendix     |
+|       |                   | \                 | RM.1.2)           |
+|       |                   | \                 |                   |
+|       |                   |                   | MCA quick start   |
+|       |                   |                   | cards.(Appendix   |
+|       |                   |                   | RM.1.3)           |
+|       |                   |                   |                   |
+|       |                   |                   | MCA game pattern  |
+|       |                   |                   | menu (Appendix    |
+|       |                   |                   | RM.1.3)           |
+|       |                   |                   |                   |
+|       |                   |                   | MCA game pattern  |
+|       |                   |                   | tutorials         |
+|       |                   |                   | (Appendix RM.1.3) |
+|       |                   |                   |                   |
+|       |                   |                   | Learning          |
+|       |                   |                   | Dimensions Map    |
+|       |                   |                   | (Appendix M.1.1)  |
++-------+-------------------+-------------------+-------------------+
+
+
+
 ## Short vignette illustrating shifts in scope of activity
 
 The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Toby who in this session has been working independently.
@@ -167,30 +262,52 @@ Activity Theory allows researchers to identify intersecting or nested systems of
 
 These include:
 
-- Larger-scoped objective: creating a game which is fun to play and communicate an environmental theme.
-- Mid-level objectives: identifying and implementing key game features to add to the game.
-- Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements.
+- Larger-scoped objective: creating a game which is fun to play and communicate an environmental theme
+- Mid-level objectives: identifying and implementing key game features to add to the game
+- Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements
 
 While these are the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
 
-A short description of the activity systems follows will illustrative diagrams / table  
-eg
+A short description of the activity systems follows will illustrative diagrams / table.  
+
+<br />
+<br />
 
 | **Subject**         | **Objective**             | **Tools / Processes**          |
-|--------------|-------------|------------|
-| Whole community  | creating games which are fun to play and communicate an environmental theme     | Code playground - glitch.   |
-|   |      | Piskel - pixel art graphic editor    |
-|   |      | Playtesting processes    |
+|------|-------------|------------|
+| Community of novice game makers | Creating a game which is fun to play and communicates an environmental theme     | Shared log in to code playground (glitch.com)   |
+|   |      | Shared log in to graphic editor (Piskel)    |
+|   |      | Instructions from facilitator including the overall mission   |
+|   |      | Starting game template    |
+|   |      | Group playtesting     |
+Table 4.x.  Tools used in larger-scoped objective involving the wider community of notice coders collectively making separate games.
 
+<br />
+<br />
 
 | **Subject**         | **Objective**             | **Tools / Processes**          |
-|--------------|-------------|------------|
-| Medium-scope  | Implementing game elements    | Overall mission   |
+|------|-------------|------------|
+| Groups or individual participants | Implementing game elements   | Code editing tool (glitch)   |
+|   |   |  Code game preview tool (glitch) |
+|   |   |  Menu of game patterns at ggc-examples.glitch.me  |
+|   |   |  Step by step tutorials on FLOSS manuals  |
+|   |   |  Playtesting own game |
+Table 4.x.  Tools used in mid-level objectives when selecting and planning implementation of game elements.
 
+<br />
+<br />
 
 | **Subject**         | **Objective**             | **Tools / Processes**         
-|--------------|-------------|------------|
-| Medium-scope  | Implementing game elements    | Overall mission   |
+|------|-------------|------------|
+| Individuals (mostly)  | Implementing specific code or design tasks   |  Code editing tool (glitch)   |
+|   |   |  Code game preview tool (glitch) |
+|   |   |  Piskel online graphics editor   |
+|   |   |  Step by step tutorials on FLOSS manuals  |
+|   |   |  Stand-alone code examples on glitch.com  |
+Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets
+
+<br />
+<br />
 
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
@@ -224,7 +341,7 @@ The resources have been created under an open licence (CC-BY-SA) which allows th
 | Limit  complexity of patterns. Some are simple but cause a large change in the game       |    |        |
 | Side missions which explore and celebrate different ‘maker types’ (from  Bartle’s player types)          |        |     |
 
-Table 1.2.  Key Features of 3M Game Making Model
+Table 4.x.  Key Features of 3M Game Making Model
 
 ![Figure 1.4. Synthesising table of 3M Game Making Model](./Pictures/3m_synthesis_table.png){ width=80% }
 
@@ -259,26 +376,21 @@ In the 3M model rather than following a step-by-step tutorial learners start wit
 
 In my final implementation of the 3M model students picked missions from a choice of printed cards or online resources. There were colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows.
 
+START TEXT BOX
 Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
 
-    * **Name of Game Design Pattern:** Jumping on Enemies to Zap them
-
-    * **Type Pattern:** Game Mechanic
-
-    * **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
-
-    * **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
-
-    * **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
-
-    * **Links to other Computing Patterns:** Systems Dynamics[^10]
-
-    * **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
-
+* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+* **Type Pattern:** Game Mechanic
+* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
+* **Coding Concepts involved:** Arrays[^1], Change Listener[^2]
+* **Links to other Computing Patterns:** Systems Dynamics[^3]
+* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+END TEXT BOX
 
 <!--
 
-NOTE - On supporting resources - move to relevant section.
+NOTE - On supportAing resources - move to relevant section.
 
 In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge.
 
@@ -305,8 +417,6 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
-
-
 
 https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#
 CREATE THE SUMMARY TABLE FIRST THEN REVISE THE BELOW
@@ -727,3 +837,8 @@ This process begins in this chapter with a focus on evolving design and continue
 ### Tensions of the 3M design evolution
 
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+
+
+[^1]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#arrays
+[^2]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#change-listener
+[^3]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-dynamics
