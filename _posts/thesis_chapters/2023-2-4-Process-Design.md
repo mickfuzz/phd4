@@ -403,6 +403,9 @@ Some of methods emerged from the start including play testing of other games, th
 
 In my journal notes, I reflect on the difficulty of interupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
 
+**Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
+Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
+
 
 
 **Code playground provides immediate feedback**. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
@@ -424,10 +427,14 @@ In order to accelerate the process of making a game to fit into contextual expec
 
 Phase two presented key challenges. The first was to try to present the essence of my evolving learning design of phaser and a code playground to  PGCE students in a smaller time scale. And in the process of preparing a 90 minute workshop for the Mozilla conference
 
+With guidance, PGCE students created printable resources that highlighted particular key lines of code and variables that had a high impact on the game experiences. These include changing gravity, altering the player speed, background colour of the game and the game layout of the plaforms, hazards and food to collect.
 
+While this was more perscriptive than I would have been, it worked well.
 
+<!-- Have a look at this document
+https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
 
-
+ -->
 
 #### Phase Three
 
@@ -457,6 +464,15 @@ In PBL, UDL and other models - learner choice and building agency is shown to be
 
 So we return to choice vs feedback.
 
+
+**Learner frustration if they are not able to choose what feature they add to the game next:**
+
+- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
+Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
+
+ This facilitates engagement and motivation.
+
+
 <!-- While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game. -->
 
 <!-- I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019). -->
@@ -476,21 +492,35 @@ Limit the maximum complexity of missions and present patterns to encourage learn
 
 This iteration was very similar in terms of tool use to the previous phase with one small change. I revised the an online project-hub to link to the project chapters rather than the code examples.
 
-In addition, I drew on some previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
+In addition, I drew on some previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens. This element of the learning design was designed to increase engagement of young people, to scaffold meta-reflection processes, and to allow parents to explore digital issues.
+
+These aspects inform the first half of the next chapter which addresses the process of creating an inclusive creative coding environment.
+
+**Learners may feel alienated from coding as a practice and need a way into the process.**
+Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role.
+
+
+<!-- there's a limit here as the drama scenario is done on people already engaged
+so there's a problem in getting any data from this
+however the rationale is intact and  -->
+
+#### Phase Five
+
+I ran two iterations of game making course of 4-5 weeks using MakeCode Arcade tool. MakeCode Arcade uses block language system similar to that of Scratch, inheriting those advatages (list here or previous) FIND SOURCE - HOW TO BEST REFER BACK TO LIT REVIEW?
+
+The template, resources and facilitation approach was based closely on the previous stages but adapted to use screenshots of the block code of the MakeCode Arcade tool.
+
+**Facilitators may need to justify learning happening and struggle to see this in-situ if unfamiliar with the game making process. This may restrict openness of activities to better assess and support learning.**
+A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators.
 
 
 
 
+**tension adapting resources to a curriculum environment**
+There were some additional changes in the way that design patterns were presented to learners mirroring design patterns on other domains including: name; need ; related patterns. In addition related concepts in computational thinking and design processes which are promoted as part of the recent computing curriculum were included and linked to a learning dimensions map.
+ <!-- .  WHERE TO PUT EXAMPLE? of design pattern current -->
 
-#### Phase Five - MakeCode Arcade
-(Jan 2020 - July 2020)
-
-I ran two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.
-
-However, there were some additional changes in the way that design patterns were presented to learners. In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources.
-
-Learning Map design and expression of patterns in modified traditional GDP form.
-
+In addition, material which mapped and explained learning dimensions including design skills and computational concepts were included in the participant support resources.
 
 **Addition of a Game Challenge section**
 
@@ -502,9 +532,11 @@ I created such missions (outlined in Methods chapter)
 Added game design patterns based on challenge - find source Schnell & GSM literature (their terminology is Game elements)
 And then updated the learning map to highlight potential concepts to be learned.
 
+**Systems concepts are embedded in many games but the process of direct teaching of such systems can be complex and interrupt and distract from other design activities.**
 
+Systems related missions were designed. (If so not clearly tested) Challenge section in particular mirrors systems concepts.
 
-
+Extra missions which highlight game challenge and user experience may help learners to explore systems concepts within the game context
 
 <!-- ### Stages of Design
 
@@ -531,33 +563,17 @@ The following are a list of tensions observed in early game making experiments t
 
  - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
 
-#### Tensions related to different learning approaches
 
+
+<!-- NOT SURE WHAT TO DO WITH THIS IN THIS CHAPTER
  **Facilitators may have a more linear and limited view of ‘progress’ than learners:**
 
- Side missions which explore and celebrate different ‘maker types’ (informed by Bartle’s player types) can provide the opportunity to discuss characteristics of different making/design approaches.  
+ Side missions which explore and celebrate different ‘maker types’ (informed by Bartle’s player types) can provide the opportunity to discuss characteristics of different making/design approaches.   -->
 
- **Systems concepts are embedded in many games but the process of direct teaching of such systems can be complex and interrupt and distract from other design activities.**
+<!-- #### Tensions related to choice of pathways -->
 
- Extra missions which highlight game challenge and user experience may help learners to explore systems concepts within the game context
-
-
-
-
-#### Tensions related to choice of pathways
-
-**Learner frustration if they are not able to choose what feature they add to the game next:**
-
-- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
-
-
-Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
-
- This facilitates engagement and motivation.
-
-
-
-**Tension choosing patterns - resolve via a pattern collection**
+<!--
+**Tension choosing patterns - resolve via a pattern collection** -->
 
 <!-- How much to write on this here? Or the discussion chapter? -->
 
@@ -566,11 +582,11 @@ Present a wide range of different kinds of design patterns that learners can add
 The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
 The core activity of my participants was implementation of chosen game design patterns. -->
 
-In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning.
+<!-- In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning.
 
 Howver, in starting experiments I observed that the long time in building the relevant knowledge to identify, agree on and implement game patterns negatively impacted motivation.
 
-In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made and based on my previous teaching experience, analysis of literature and knowledge of platform games, I pre-prepared a set of coded example and tutorials to implement a range of game design patterns.
+In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made and based on my previous teaching experience, analysis of literature and knowledge of platform games, I pre-prepared a set of coded example and tutorials to implement a range of game design patterns. -->
 
 
 <!--
@@ -584,52 +600,56 @@ One significant tension I felt in evolving design was a nagging feeling that lea
 However, I felt reluctance to explicitly teach these links via direct transmission. -->
 
 
-#### Tensions related to funds on knowledge / culture
+<!-- #### Tensions related to funds on knowledge / culture -->
+
+
+<!-- **If it is not recorded, learners and facilitators may lose track of what has been covered in the process of making a game. Thus reducing opportunities for project reflection. However, stopping activity to record formally interrupts the enjoyment of game making.**
+
+Tracing the learner pathway on an attractive physical map in the learning space can help integrate navigation and reflection into the creative process. -->
 
 
 
-**Facilitators may need to justify learning happening and struggle to see this in-situ if unfamiliar with the game making process. This may restrict openness of activities to better assess and support learning.**
-A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators.
 
-**If it is not recorded, learners and facilitators may lose track of what has been covered in the process of making a game. Thus reducing opportunities for project reflection. However, stopping activity to record formally interrupts the enjoyment of game making.**
-Tracing the learner pathway on an attractive physical map in the learning space can help integrate navigation and reflection into the creative process.
-
-
-**Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
-Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
-
-**Learners may feel alienated from coding as a practice and need a way into the process.**
-Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role.
-
+<!--
+PERHAPS INCLUDE ABOVE IN PHASES IN PART
 **Learners interact with code primarily using the mouse keyboard and screen which does not take advantage of benefits of physical computing for learner engagement.**
 Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal
+ -->
 
-
-
+<!-- MOVE LATER?
 **Online resources vs Print outs**
 Also a tension of moving online with resources, via having them available in the class.
-Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen.
+Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen. -->
 
 
 
 
 ## Evolving design of Support Materials and Documentation
-
-
 <!-- NOTE -
 The language used, affordances, 2nd stimulation, practices, needs clarification.
  -->
 
+This section specifically addresses the evolution of documentation and will deepen the analysis of the development of the resources.
+
+
+<!-- NOTE - I am not totally sure it is necessary. Could it be collapsed or presented in another part of this chapter.
+NOTE - Try to summarise exactly what the message is here.  
+NOTE - how can this be more analytical.  -->
 
 **_Use of a non-linear menu of Gdp_**
 
-Learning resources were presented in a menu format with graphics focused on the player experience rather than underlying coding constructs. The purpose was to;
+Learning resources linked to game design patterns were presented in a menu format.
+
+They were made more accessible with graphics focused on the player experience rather than underlying coding constructs. The purpose of this design work was to;
 
 - increase learner engagement through accessible design
 - make documentation relatable to existing gameplay experience
 - develop use of common GPD terminology
 
+
+THE FOLLOWING IS EXPLORED IN EXAMPLE ABOVE - RELATE IT SOMEHOW AND FIND ANALYSIS HERE.
 There were two main ways of approaching adding a new pattern. One to examing a code example which was built around the same code base.
+
 This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
 
 **Use of simple code examples which demonstrate the pattern in isolation**
@@ -844,7 +864,6 @@ https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot
 ## Using Physical Maps of Missions as Game Design Patterns
 
 Maps in the 3M model were explored partly as a way of representing the personal dimension of learning.
-
 
 ### Overview - Physical Maps
 
