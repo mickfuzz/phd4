@@ -68,7 +68,6 @@ https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
 
 ### Contextual factors from practitioner perspective influencing design
 
-NOTE - move some of this to a discussion section?
 
 **Recap of context and specifics of designing for informal learning**
 
@@ -209,7 +208,13 @@ The following table is provided to give the reader an overview of the stages and
 |       | September 2020    | game making       | (MCA) tool        |
 |       |                   | course of 5-6     | (Appendix         |
 |       | Make Code Arcade  | weeks using       | RM.1.1)\          |
-|       |                   | MakeCode Arcade   | MCA Template      |
+|       |                   | MakeCode Arcade**Practical factors**
+
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+
+- Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+
+Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.   | MCA Template      |
 |       |                   | tool.             | starting          |
 |       |                   |                   | game(Appendix     |
 |       |                   | \                 | RM.1.2)           |
@@ -283,6 +288,15 @@ Table 4.x.  Tools used in larger-scoped objective involving the wider community 
 
 <br />
 <br />
+
+In this larger scoped activity system the ob
+
+
+
+<br />
+<br />
+
+
 
 | **Subject**         | **Objective**             | **Tools / Processes**          |
 |------|-------------|------------|
