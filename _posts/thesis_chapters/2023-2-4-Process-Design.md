@@ -313,7 +313,8 @@ Table 4.x.  Tools used in mid-level objectives when selecting and planning imple
 
 In the example above Toby progresses from playtesting his own game to altering it by adding a new platform to the game. Toby retests immediately by clicking on the preview element of the game.
 <!-- NOTE - THIS IS MISSING FROM THE VIGNETTE -->
-He then decides to add a new game element to it. He browses the web page of a menu of game design patterns.  
+He then browses the web page of a menu of game design patterns and selects moving enemies. At this scope of activity the goal is to increase the challenge and variety of the game experience. It appears probable that his is also guided by the expectations embodies in the page itself. EXPLAIN affordances OF DESIGN HERE.
+
 
 <br />
 <br />
@@ -322,16 +323,21 @@ He then decides to add a new game element to it. He browses the web page of a me
 |----------------|-----------|------------|
 | Individuals (mostly)  | Implementing specific code or design tasks   |  Code editing tool (glitch)   |
 |   |   |  Code game preview tool (glitch) |
-|   |   |  Piskel online graphics editor   |
+|   |   |  Piskel  online graphics editor   |
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Stand-alone code examples on glitch.com  |
 |        |     |
 
 Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets
 
+<br />
 
-<br />
-<br />
+In some of the more complicated game elements there were many different stages in implementing each game design pattern. For example, some patterns involve creating a new graphical element in a separate online editor called Piskel, exporting and downloading it to the laptop, and uploading it to the glitch code playground before making code changes in several parts of the code.
+
+Using the terminology of Activity Theory, each one of these stages can be viewed as a separate operation in the process of completing an action. Some of these operations are performed by Toby quickly and fluently by Toby indicating that he has performed them many times. One example is the quick navigation between the different tools. However some are new to Toby and are performed more hesitantly. For example, Toby is careful in his checking of the process of copying and pasting new code to his game code. In this example he is competent in the process of comparing the own code to the code example to
+
+He does not check the step by step tutorials which would provide more extensive, step-by-step help.   
+
 
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
