@@ -277,14 +277,20 @@ A short description of the activity systems follows will illustrative diagrams /
 |   |      | Instructions from facilitator including the overall mission   |
 |   |      | Starting game template    |
 |   |      | Group playtesting     |
+|        |     |
+
 Table 4.x.  Tools used in larger-scoped objective involving the wider community of notice coders collectively making separate games.
 
 <br />
 <br />
 
-In this larger scoped activity system the direct objective of the activity is to make a game which is fun for the intended audience to play and which explores an environmental theme. While this is the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
+In this larger scoped activity system the direct objective of the activity is to make a game which is fun for the intended audience to play and which explores an environmental theme. While this is the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills. While the primary audience for the created games are peers via ongoing informal testing, the theoretical end users are students and staff in the Manchester Met Brooks building where their games will be shared in arcade cabinets.
 
+INCLUDE PICTURE OF CABINET BEING PLAYED? - perhaps with branding
 
+ In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.   
+
+ Analysis TO COME.
 
 
 | Subject         | Objective             | Tools & Processes          |
@@ -298,6 +304,8 @@ In this larger scoped activity system the direct objective of the activity is to
 
 Table 4.x.  Tools used in mid-level objectives when selecting and planning implementation of game elements.
 
+One observation from he experimental course was that without significant support, The process of making a game is complex and there are many possible blockages in the process. In this iteration participants
+
 <br />
 <br />
 
@@ -308,8 +316,9 @@ Table 4.x.  Tools used in mid-level objectives when selecting and planning imple
 |   |   |  Piskel online graphics editor   |
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Stand-alone code examples on glitch.com  |
-Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets
 |        |     |
+Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets
+
 
 <br />
 <br />
