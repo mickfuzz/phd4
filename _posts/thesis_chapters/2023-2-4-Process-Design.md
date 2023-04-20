@@ -285,9 +285,6 @@ Table 4.x.  Tools used in larger-scoped objective involving the wider community 
 In this larger scoped activity system the direct objective of the activity is to make a game which is fun for the intended audience to play and which explores an environmental theme. While this is the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
 
 
-<br />
-<br />
-
 
 
 | Subject         | Objective             | Tools & Processes          |
@@ -297,6 +294,7 @@ In this larger scoped activity system the direct objective of the activity is to
 |   |   |  Menu of game patterns at ggc-examples.glitch.me  |
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Playtesting own game |
+|        |     |
 
 Table 4.x.  Tools used in mid-level objectives when selecting and planning implementation of game elements.
 
@@ -304,13 +302,14 @@ Table 4.x.  Tools used in mid-level objectives when selecting and planning imple
 <br />
 
 | **Subject**         | **Objective**             | **Tools / Processes**         
-|------|-------------|------------|
+|----------------|-----------|------------|
 | Individuals (mostly)  | Implementing specific code or design tasks   |  Code editing tool (glitch)   |
 |   |   |  Code game preview tool (glitch) |
 |   |   |  Piskel online graphics editor   |
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Stand-alone code examples on glitch.com  |
 Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets
+|        |     |
 
 <br />
 <br />
