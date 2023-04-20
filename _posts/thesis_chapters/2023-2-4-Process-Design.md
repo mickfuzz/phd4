@@ -74,6 +74,12 @@ https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
 - design based experiments - some factors
 - informal learning - recap rogoff and similar - issues of designing for informal settings
 
+<!-- As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
+
+The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
+ -->
+
+
 **Cultural influences on my choice of learning design**
 
 I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
@@ -128,6 +134,10 @@ see updated table in tables subdirectory
 -->
 
 The following table is provided to give the reader an overview of the stages and a link to examples of resources in the appendices and links to online examples. The following sections describe the use of varied tools and processes in greater detail to explore the rationale for the creation and selection of these tools.
+
+<!-- Table from
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
+
 
 +-------+-------------------+-------------------+-------------------+
 | Phase | Name and Date     | Description       | Resources Used    |
@@ -345,7 +355,6 @@ In this example he is competent in the process of comparing the own code to the 
 Others in the group did not experiment in this way and used more direct help or detailed written instructions.
 
 
-
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
 - larger - learning transferable design skills and processes
@@ -359,38 +368,38 @@ Others in the group did not experiment in this way and used more direct help or 
 
 ### Description of Phases
 
-As outlined in the table above I carried out four stages of workshops and development with home educator families.
+As outlined in the table above I carried out four stages of workshops and development with home educator families. I will outline decisions behind the design activities at key stage of activity  - AND INCLUDE TENSIONS IN EACH STAGE.
 
-I will outline decisions behind the design activities at key stage of activity  - AND INCLUDE TENSIONS IN EACH STAGE.
-
-NOTE - NOT SURE WHERE TO PLACE THIS IN THE CHAPTER.
-Table of Tensions & resolutions of 3M design - also should reference the resources - in appendix and online.
+**Table of Tensions & resolutions of 3M design - **
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
 
 
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
 
-https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#
-CREATE THE SUMMARY TABLE FIRST THEN REVISE THE BELOW
 
 
 #### Phase One
 
 <!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
 
-This phase took place before the official start of this research and relevant ethics application. As such, this stage was initially aimed not at collecting user data rather than building my own background knowledge and competency. Some of methods emerged from the start including play testing of other games, a final public showcase, and the use of drama / warm up games.
+This phase took place before the official start of this research and relevant ethics application. As such, this stage was initially aimed not at collecting user data rather than building my own background knowledge and competency.
 
-The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted an open project based approach which integrated drama games to aid group bonding and reflection.
+Some of methods emerged from the start including play testing of other games, a final public showcase, and the use of drama / warm up games.
 
-Playing games, and game filled laptops.
+The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted a project based approach.
 
-I chose a tool set which drew on relevant design principles explored earlier (Resnick and Rosenbaum, 2013).
+I chose a tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 
-The tools allow participants to create games using a combination of a free to use online tools.
+<!-- Game filled laptops.  
+Should this be added to the table above
+-->
+<!-- The tools allow participants to create games using a combination of a free to use online tools.
 
 an online  coding environment
-using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone).
+using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone). -->
+
+**Immediate Feedback**
 
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
@@ -401,10 +410,6 @@ At the end of this stage participants showed their games to students in the foye
 
 #### Phase Two
 
-
-As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
-
-The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
 
 My design pivoted to this stage after introducing design patterns based challenge cards and inviting participants into game playing via older arcade games.
 
