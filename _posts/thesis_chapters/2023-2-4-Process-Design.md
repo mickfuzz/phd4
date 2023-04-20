@@ -313,8 +313,12 @@ Table 4.x.  Tools used in mid-level objectives when selecting and planning imple
 
 In the example above Toby progresses from playtesting his own game to altering it by adding a new platform to the game. Toby retests immediately by clicking on the preview element of the game.
 <!-- NOTE - THIS IS MISSING FROM THE VIGNETTE -->
-He then browses the web page of a menu of game design patterns and selects moving enemies. At this scope of activity the goal is to increase the challenge and variety of the game experience. It appears probable that his is also guided by the expectations embodies in the page itself. EXPLAIN affordances OF DESIGN HERE.
 
+On this page participant can pick missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
+
+Toby then browses the web page of a menu of game design patterns and selects moving enemies. At this scope of activity the goal is to increase the challenge and variety of the game experience. It appears probable that his is also guided by the expectations embodies in the page itself. EXPLAIN affordances OF DESIGN HERE.
+
+Other participants were less proficient using this online resources and used printed out versions of documentation.
 
 <br />
 <br />
@@ -334,10 +338,11 @@ Table 4.x.  Tools used in lower-level objectives of implementing specific code s
 
 In some of the more complicated game elements there were many different stages in implementing each game design pattern. For example, some patterns involve creating a new graphical element in a separate online editor called Piskel, exporting and downloading it to the laptop, and uploading it to the glitch code playground before making code changes in several parts of the code.
 
-Using the terminology of Activity Theory, each one of these stages can be viewed as a separate operation in the process of completing an action. Some of these operations are performed by Toby quickly and fluently by Toby indicating that he has performed them many times. One example is the quick navigation between the different tools. However some are new to Toby and are performed more hesitantly. For example, Toby is careful in his checking of the process of copying and pasting new code to his game code. In this example he is competent in the process of comparing the own code to the code example to
+Using the terminology of Activity Theory, each one of these stages can be viewed as a separate operation in the process of completing an action. Some of these operations are performed by Toby quickly and fluently by Toby indicating that he has performed them many times. One example is the quick navigation between the different tools. However some are new to Toby and are performed more hesitantly. For example, Toby is careful in his checking of the process of copying and pasting new code to his game code.
 
-He does not check the step by step tutorials which would provide more extensive, step-by-step help.   
+In this example he is competent in the process of comparing the own code to the code example to work out what code is new and relevant to the desired behaviour. He does not check the step by step tutorials which would provide more extensive, step-by-step help.   
 
+We can compare this approach to that of others who feel less able to detect and experiment in this way and required more direct help or detailed written instructions.
 
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
@@ -346,11 +351,6 @@ He does not check the step by step tutorials which would provide more extensive,
 - medium - identifying and implementing key game features (Game Design Patterns) to add to the games
 - smaller - creating, changing and transporting game assets to enact or change GDPs
 - smaller - implementing or changing code constructs to enact or change GDPs -->
-
-
-Students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
-
-
 
 
 ## Evolution of Design
