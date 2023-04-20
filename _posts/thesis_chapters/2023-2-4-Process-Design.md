@@ -416,6 +416,9 @@ There was conflict over desire for a 3d game.
 
 As such I adapted a game template used in a Phaser tutorial. Thus the design started to follow the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. Using a starting template had a number of benefits: to increase speed of feedback from learner input, to reduce coding syntax knowledge needed in starting from scratch, x
 
+In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made and based on my previous teaching experience, analysis of literature and knowledge of platform games, I pre-prepared a set of coded example and tutorials to implement a range of game design patterns.
+
+
 
 #### Phase Two
 
@@ -423,7 +426,6 @@ Phase two presented key challenges. The first was to try to present the essence 
 
 
 
-We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 
 
@@ -433,9 +435,27 @@ The delivery of the second phase in early 2019 drew on this participant feedback
 
 The key addition built on the quick cards of the previous phase, that being to preprepare code examples illustrating key game features requested by participants.
 
-In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Others most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. And
+
+In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Some most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned other fundamental aspects concerning game space including: size of game world,
+
 Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
 
+We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+
+
+
+**Tension choosing patterns - resolve via a pattern collection**
+
+<!-- How much to write on this here? Or the discussion chapter? -->
+
+<!-- Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
+
+The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
+The core activity of my participants was implementation of chosen game design patterns. -->
+
+In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
+
+So we return to choice vs feedback.
 
 <!-- While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game. -->
 
@@ -443,13 +463,24 @@ Some requests did not fit into these categories - see Schell's lenses work for a
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
+**Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  
+Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
+
+**Learners take on features which are too advanced or complex for their current coding level**
+Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+
 #### Phase Four
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
-Second iteration in May 2019 I drew on previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019]   to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
+This iteration was very similar in terms of tool use to the previous phase with one small change. I revised the an online project-hub to link to the project chapters rather than the code examples.
 
-I revised the an online project-hub to link to the project chapters rather than the code examples.
+In addition, I drew on some previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens.
+
+
+
+
 
 #### Phase Five - MakeCode Arcade
 (Jan 2020 - July 2020)
@@ -488,9 +519,13 @@ Revisit FM book as a guide for Glitch/ Phaser
 More detailed analysis - thoughts on validity of data -->
 
 
-## Exploring tensions emerging in design
+## Further discussion of learning design
 
-NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP - and some in the final discussions - Select 2 or 3 most relevant to this chapter
+In the previous discussion surrounding tensions the focus was on tool use to directly achieve the objective of the activity. However, this ignore the lower community layer of the 3rd generation AT namely: division of labour; rules/norms; and community. In this section more cultural and community related tensions are explored.
+
+<!-- INSERT Diagram. AT generic. -->
+
+<!-- NOTE - SOME OF THESE TENSION MAY BE BETTER EXPLORED IN OTHER CHAPTERS IF THERE IS OVERLAP - and some in the final discussions - Select 2 or 3 most relevant to this chapter -->
 
 The following are a list of tensions observed in early game making experiments that I recorded in journal form. More likely have some starting tensions from early design stages, that are then analysed in relation to other sources and data, and other resolutions that are more general or sophisticated emerge.
 
@@ -520,11 +555,6 @@ Present a wide range of different kinds of design patterns that learners can add
 
  This facilitates engagement and motivation.
 
-**Teacher stress if they are not able to support a very diverse set of features demanded by students working on diverse kinds of games.**-  
-Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
-
-**Learners take on features which are too advanced or complex for their current coding level**
-Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
 
 **Tension choosing patterns - resolve via a pattern collection**
@@ -556,8 +586,6 @@ However, I felt reluctance to explicitly teach these links via direct transmissi
 
 #### Tensions related to funds on knowledge / culture
 
-**Parents may feel a lack of confidence in taking part in coding activities which they have little cultural connection to**.
-Side missions which explore and celebrate both Bartle player types and
 
 
 **Facilitators may need to justify learning happening and struggle to see this in-situ if unfamiliar with the game making process. This may restrict openness of activities to better assess and support learning.**
