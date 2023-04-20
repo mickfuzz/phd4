@@ -208,13 +208,7 @@ The following table is provided to give the reader an overview of the stages and
 |       | September 2020    | game making       | (MCA) tool        |
 |       |                   | course of 5-6     | (Appendix         |
 |       | Make Code Arcade  | weeks using       | RM.1.1)\          |
-|       |                   | MakeCode Arcade**Practical factors**
-
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
-
-- Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
-
-Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.   | MCA Template      |
+|       |                   | MakeCode Arcade   | MCA Template      |
 |       |                   | tool.             | starting          |
 |       |                   |                   | game(Appendix     |
 |       |                   | \                 | RM.1.2)           |
@@ -270,7 +264,6 @@ These include:
 - Mid-level objectives: identifying and implementing key game features to add to the game
 - Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements
 
-While these are the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
 
 A short description of the activity systems follows will illustrative diagrams / table.  
 
@@ -289,8 +282,7 @@ Table 4.x.  Tools used in larger-scoped objective involving the wider community 
 <br />
 <br />
 
-In this larger scoped activity system the ob
-
+In this larger scoped activity system the direct objective of the activity is to make a game which is fun for the intended audience to play and which explores an environmental theme. While this is the chief objectives other high level objectives are present but much less dominant in this setting. Other objectives include: research goals on the part of the researcher/ participant; desire to create a useful learning experience on the part of student helpers; learning computing skills and concepts as a home education project; and participating with other home educators in a creative environment and thus building team and communication skills.
 
 
 <br />
@@ -298,13 +290,14 @@ In this larger scoped activity system the ob
 
 
 
-| **Subject**         | **Objective**             | **Tools / Processes**          |
+| Subject         | Objective             | Tools & Processes          |
 |------|-------------|------------|
 | Groups or individual participants | Implementing game elements   | Code editing tool (glitch)   |
 |   |   |  Code game preview tool (glitch) |
 |   |   |  Menu of game patterns at ggc-examples.glitch.me  |
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Playtesting own game |
+
 Table 4.x.  Tools used in mid-level objectives when selecting and planning implementation of game elements.
 
 <br />
