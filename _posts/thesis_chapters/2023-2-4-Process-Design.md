@@ -270,7 +270,7 @@ A short description of the activity systems follows will illustrative diagrams /
 <br />
 <br />
 
-| **Subject**         | **Objective**             | **Tools / Processes**          |
+| **Subject**         | **Objective**             | **Tools & Processes**          |
 |------|-------------|------------|
 | Community of novice game makers | Creating a game which is fun to play and communicates an environmental theme     | Shared log in to code playground (glitch.com)   |
 |   |      | Shared log in to graphic editor (Piskel)    |
@@ -301,7 +301,7 @@ Table 4.x.  Tools used in mid-level objectives when selecting and planning imple
 <br />
 <br />
 
-| **Subject**         | **Objective**             | **Tools / Processes**         
+| **Subject**         | **Objective**             | **Tools & Processes**         
 |----------------|-----------|------------|
 | Individuals (mostly)  | Implementing specific code or design tasks   |  Code editing tool (glitch)   |
 |   |   |  Code game preview tool (glitch) |
