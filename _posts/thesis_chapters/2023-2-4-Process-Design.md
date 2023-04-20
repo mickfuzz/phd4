@@ -324,6 +324,7 @@ Table 4.x.  Tools used in mid-level objectives when selecting and planning imple
 In the example above Toby progresses from playtesting his own game to altering it by adding a new platform to the game. Toby retests immediately by clicking on the preview element of the game.
 <!-- NOTE - THIS IS MISSING FROM THE VIGNETTE -->
 
+MOVE TO PHASE ?
 On this page participant can pick missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game.
 
 Toby then browses the web page of a menu of game design patterns and selects moving enemies. At this scope of activity the goal is to increase the challenge and variety of the game experience. It appears probable that his is also guided by the expectations embodies in the page itself. EXPLAIN affordances OF DESIGN HERE.
@@ -377,19 +378,12 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
 
-
-
 #### Phase One
 
 <!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
+<!-- This phase took place before the official start of this research and relevant ethics application. As such,  -->
 
-This phase took place before the official start of this research and relevant ethics application. As such, this stage was initially aimed not at collecting user data rather than building my own background knowledge and competency.
-
-Some of methods emerged from the start including play testing of other games, a final public showcase, and the use of drama / warm up games.
-
-The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration. I adopted a project based approach.
-
-I chose a tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
+This stage was aimed not at collecting user data rather than building my own background knowledge and competency as a facilitator. The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration, adopting a project based approach inspired by design thinking. To inculcate parents and children in to the culture of retro video games I began initial sessions by inviting participants to older arcade games on laptops.
 
 <!-- Game filled laptops.  
 Should this be added to the table above
@@ -399,34 +393,53 @@ Should this be added to the table above
 an online  coding environment
 using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone). -->
 
-**Immediate Feedback**
+In terms of supporting resources, stage one was responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
 
+Some of methods emerged from the start including play testing of other games, the use of drama / warm up games and a final public showcase. At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+
+#### Exploring key tensions in phase one
+
+**Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
+
+In my journal notes, I reflect on the difficulty of interupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
+
+
+
+**Code playground provides immediate feedback**. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
-In terms of supporting resources, stage one was exploratory and responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
 
-At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+**Learner choice over game design vs templated approach**
+Learners stuggled with too much freedom of choice in a number of ways. Most specifically starting from scratch appeared unrealistic for this group.
+
+There was conflict over desire for a 3d game.
+
+As such I adapted a game template used in a Phaser tutorial. Thus the design started to follow the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. Using a starting template had a number of benefits: to increase speed of feedback from learner input, to reduce coding syntax knowledge needed in starting from scratch, x
 
 
 #### Phase Two
 
+Phase two presented key challenges. The first was to try to present the essence of my evolving learning design of phaser and a code playground to  PGCE students in a smaller time scale. And in the process of preparing a 90 minute workshop for the Mozilla conference
 
-My design pivoted to this stage after introducing design patterns based challenge cards and inviting participants into game playing via older arcade games.
 
-This was in response to tension of teaching PGCE students in a smaller time scale but wanting to capture the essessce of the pedagogy. And in the process of preparing for Mozilla conference.
 
-NOTE MOVE ANALYSIS LATER
-This approach follows the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. I worked with learners to create a wish list of game features to create a 2D platform game. These features included moving hazards, jumping on enemies, finding a door or flag to progress to the next level. We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 
 
 #### Phase Three
 
-**Delivery**
+The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme.
 
-The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme. While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game.
+The key addition built on the quick cards of the previous phase, that being to preprepare code examples illustrating key game features requested by participants.
 
-I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019).
+In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Others most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. And
+Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
+
+
+<!-- While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game. -->
+
+<!-- I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform (Chesterman, 2019) and an online project-hub linking to all resources (Chesterman and Potts, 2019). -->
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
@@ -493,15 +506,7 @@ The following are a list of tensions observed in early game making experiments t
 
  Extra missions which highlight game challenge and user experience may help learners to explore systems concepts within the game context
 
-**Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
 
-Find evidence
-
-In journal notes, I reflect on avoiding stopping making to share points.
-
-- Facilitator avoids demonstrations on the screen.
-
-- Learners start with a minimal game to improve. Using a template to increase speed of feedback from learner input.
 
 
 #### Tensions related to choice of pathways
