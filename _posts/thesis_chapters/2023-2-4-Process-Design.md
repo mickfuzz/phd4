@@ -86,9 +86,13 @@ I set up the working pattern based on my professional experiences and my own aca
 
 **Practical factors**
 
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices.
+It is important to address contextual factors that facilitated and shaped development of some initial creative practices. Including:
 
-- Research and teaching practices, the location at the university and being part of a research project. Eliza effect? If so how relevant?
+- Impact of research practicalities
+- The location at the university
+- Eliza effect of being part of a research project
+
+<!-- Eliza effect? If so how relevant? -->
 
 Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
 
@@ -264,8 +268,7 @@ These include:
 - Mid-level objectives: identifying and implementing key game features to add to the game
 - Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements
 
-
-A short description of the activity systems follows will illustrative diagrams / table.  
+A short description of the activity systems follows will illustrative diagrams / table followed by an illustrative commentary which makes references to the vignette above.   
 
 <br />
 <br />
@@ -288,7 +291,9 @@ In this larger scoped activity system the direct objective of the activity is to
 
 INCLUDE PICTURE OF CABINET BEING PLAYED? - perhaps with branding
 
- In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.   
+In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.   
+
+Toby begins the game making session playing his own game which he has developed from a shared starting template. During the session he invites many other group members to play his game. He initiates and responds to may conversations around the difficultly of the game he has designed.
 
  Analysis TO COME.
 
@@ -296,7 +301,7 @@ INCLUDE PICTURE OF CABINET BEING PLAYED? - perhaps with branding
 | Subject         | Objective             | Tools & Processes          |
 |------|-------------|------------|
 | Groups or individual participants | Implementing game elements   | Code editing tool (glitch)   |
-|   |   |  Code game preview tool (glitch) |
+|   |   |  Game preview tool (glitch) |
 |   |   |  Menu of game patterns at ggc-examples.glitch.me  |
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Playtesting own game |
@@ -304,7 +309,11 @@ INCLUDE PICTURE OF CABINET BEING PLAYED? - perhaps with branding
 
 Table 4.x.  Tools used in mid-level objectives when selecting and planning implementation of game elements.
 
-One observation from he experimental course was that without significant support, The process of making a game is complex and there are many possible blockages in the process. In this iteration participants
+<!-- One observation from he experimental course was that without significant support, the process of making a game is complex and there are many possible blockages in the process. -->
+
+In the example above Toby progresses from playtesting his own game to altering it by adding a new platform to the game. Toby retests immediately by clicking on the preview element of the game.
+<!-- NOTE - THIS IS MISSING FROM THE VIGNETTE -->
+He then decides to add a new game element to it. He browses the web page of a menu of game design patterns.  
 
 <br />
 <br />
