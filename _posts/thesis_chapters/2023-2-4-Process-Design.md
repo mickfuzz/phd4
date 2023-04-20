@@ -317,6 +317,7 @@ One observation from he experimental course was that without significant support
 |   |   |  Step by step tutorials on FLOSS manuals  |
 |   |   |  Stand-alone code examples on glitch.com  |
 |        |     |
+
 Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets
 
 
