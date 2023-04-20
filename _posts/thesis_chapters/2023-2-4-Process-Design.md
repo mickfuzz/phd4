@@ -342,7 +342,9 @@ Using the terminology of Activity Theory, each one of these stages can be viewed
 
 In this example he is competent in the process of comparing the own code to the code example to work out what code is new and relevant to the desired behaviour. He does not check the step by step tutorials which would provide more extensive, step-by-step help.   
 
-We can compare this approach to that of others who feel less able to detect and experiment in this way and required more direct help or detailed written instructions.
+Others in the group did not experiment in this way and used more direct help or detailed written instructions.
+
+
 
 <!-- - larger - learning computing skills and concepts as a home education project
 - larger - participating with other home educators in a creative environment and thus building team and communication skills
