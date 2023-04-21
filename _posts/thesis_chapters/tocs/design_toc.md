@@ -33,7 +33,3 @@
     -   [Emerging Findings & Discussion on use of Physical
         Maps](#emerging-findings-discussion-on-use-of-physical-maps)
 -   [Link to next chapter](#link-to-next-chapter)
--   [List of appendices for this
-    chapter](#list-of-appendices-for-this-chapter)
-    -   [Tensions of the 3M design
-        evolution](#tensions-of-the-3m-design-evolution)

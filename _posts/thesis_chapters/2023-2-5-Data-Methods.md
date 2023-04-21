@@ -34,25 +34,20 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     Knowledge](#personal-expression---funds-of-knowledge)
     -   [Building Identities as Game
         Makers](#building-identities-as-game-makers)
-    -   [Discussion - on assets and
-        participation](#discussion---on-assets-and-participation)
-    -   [Circulation of peers and
-        helpers](#circulation-of-peers-and-helpers)
--   [Discussion in Relation to Existing
-    Research](#discussion-in-relation-to-existing-research)
-    -   [GDPs and the sharing of personal experiences, identity and
-        preferences
-        (cultural) -](#gdps-and-the-sharing-of-personal-experiences-identity-and-preferences-cultural--)
+    -   [Narratives and aesthetics of Games driven by Home
+        Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
+    -   [Visual asset creation and
+        selection](#visual-asset-creation-and-selection)
+    -   [Discussion on asset creation and sharing of personal
+        experiences, identity and
+        preferences](#discussion-on-asset-creation-and-sharing-of-personal-experiences-identity-and-preferences)
 -   [Design stages or flexible design
     practices](#design-stages-or-flexible-design-practices)
     -   [Shifts in design practice](#shifts-in-design-practice)
+    -   [Other emerging design
+        processes](#other-emerging-design-processes)
     -   [Discussion on how design (not GDP) supports flexible design
         practices -](#discussion-on-how-design-not-gdp-supports-flexible-design-practices--)
-    -   [NOTE - MOVED FROM ANALYSIS OF TH AND SH Vingette Describing
-        design stages for this pair beyond this
-        interaction](#note---moved-from-analysis-of-th-and-sh-vingette-describing-design-stages-for-this-pair-beyond-this-interaction)
--   [Community Aspects of the 3M
-    design](#community-aspects-of-the-3m-design)
 -   [Discussion - Overcoming Tensions and Blockages related to Culture
     and
     Affect](#discussion---overcoming-tensions-and-blockages-related-to-culture-and-affect)
@@ -558,82 +553,7 @@ Examples? Ru and Ro ? in one of the later weeks? -->
 
 
 
-#### Discussion - on assets and participation
-
-Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
-This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
-
-**Tangled nature of graphics and narrative in this design**
-In the data analysed, young people
-
-
-**Limitation of asset work as a GDP**
-Note the limits of this interpretation.
-While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
-A tension here to be briefly explored or noted to explore later.
-
-
-<!-- #### Circulation of peers and helpers
-
-This often facilitates talk aloud of design decisions and justifications.
-Cross reference playtesting -->
-
-<!-- ### Accessing Help and Documentation
-
-In the emerging community there was a variety of help available including;
-
-- Written documentation from the learning design via step by step tutorials
-- A series of code examples in working code playgrounds
-- Facilitator help through asking for help
-- Student Helper attention and help
-- Peer support from parents and children -->
-
-#### Tactical use of in-session support time
-
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
-
-#### Accessing online, professional/community documentation
-
-Toby and Dan - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
-
-
-#### Tactics in accessing help from peers and facilitators
-
-A common teacher tactic is ask three then me.
-
-The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
-Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
-
-in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
-- Student helper to get online,
-- Peer parent about use of piskel, and then her son
-- Ne daughter
-- Mick overall facilitator
-
-
-#### Division of Labour - code patching and experimentation
-
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
-
-The documentation leads to a page with code examples.
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-
-
-## Discussion in Relation to Existing Research
-
-Make links and try to develop knowledge inline with...
-See summary at start of the chapter.
-
-
-### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
+### Discussion on asset creation and sharing of personal experiences, identity and preferences
 
 In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
 
@@ -689,6 +609,40 @@ So while structured to avoid
  -->
 
 
+
+Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+
+**Tangled nature of graphics and narrative in this design**
+In the data analysed, young people
+
+
+<!-- Perhaps move later after GDP chapter?  -->
+
+**Limitation of asset work as a GDP**
+Note the limits of this interpretation
+While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
+A tension here to be briefly explored or noted to explore later.
+
+
+<!-- #### Circulation of peers and helpers
+
+This often facilitates talk aloud of design decisions and justifications.
+Cross reference playtesting -->
+
+<!-- ### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children -->
+
+
+
+
 ## Design stages or flexible design practices
 
 Surfacing maker types (as per player types) can encourage epistemological pluralism [Papert] or flexible design practices.
@@ -732,6 +686,47 @@ While the design suits repeated design practice as illustrated by the example ab
 
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
+### Other emerging design processes
+
+#### Tactical use of in-session support time
+
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+#### Accessing online, professional/community documentation
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+
+
+#### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
+
+
+#### Division of Labour - code patching and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+The documentation leads to a page with code examples.
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+
+
 
 
 ### Discussion on how design (not GDP) supports flexible design practices -
@@ -752,7 +747,9 @@ To address this, this section looks as some of the emerging patterns which compl
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
 
-### NOTE - MOVED FROM ANALYSIS OF TH AND SH Vingette Describing design stages for this pair beyond this interaction
+<!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
+
+<!-- NOTE - MOVED FROM ANALYSIS OF TH AND SH  -->
 
  <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
  As such observations are listed in bullet point in case a lot restructuring is needed. -->
@@ -767,9 +764,9 @@ To address this, this section looks as some of the emerging patterns which compl
    -->
 
 
-#### Discussion on design stages and GDP for this pair - DROP THIS?
+<!-- #### Discussion on design stages and GDP for this pair - DROP THIS?
 
- <!-- - This grouping sometimes left early having completed more in code development than others but completed less social activities. -->
+ - This grouping sometimes left early having completed more in code development than others but completed less social activities.
  This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
 
  This parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles." This alternation is driven or facilitated by the different stages of implementing GDPs. The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
@@ -778,7 +775,7 @@ To address this, this section looks as some of the emerging patterns which compl
 
  The vignette shows evidence of that the actions of the parent to re-engage the child at different stages of the design cycle helped sustain the child's engagement in the more focused design process happening on the screen. However, an opposing pattern of behaviour may also be valid. When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation. The child's ability to legitimately disengage from pair coding to observe the work and interactions of others in this emerging community of learners may also be sustaining.
 
- It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system.
+ It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system. -->
 
  <!-- #### Comparing the activity patterns of this family to others
 
@@ -875,15 +872,15 @@ Other participants also demonstrate fluidity of response although to a less soph
 
 This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
 
-
-## Community Aspects of the 3M design
+<!--
+## Community Aspects of the 3M design -
 
 When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
 
 A bullet point summary follows
 
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
-- getting help from all sources possible
+- getting help from all sources possible -->
 
 
 ## Discussion - Overcoming Tensions and Blockages related to Culture and Affect

@@ -22,25 +22,20 @@
     Knowledge](#personal-expression---funds-of-knowledge)
     -   [Building Identities as Game
         Makers](#building-identities-as-game-makers)
-    -   [Discussion - on assets and
-        participation](#discussion---on-assets-and-participation)
-    -   [Circulation of peers and
-        helpers](#circulation-of-peers-and-helpers)
--   [Discussion in Relation to Existing
-    Research](#discussion-in-relation-to-existing-research)
-    -   [GDPs and the sharing of personal experiences, identity and
-        preferences
-        (cultural) -](#gdps-and-the-sharing-of-personal-experiences-identity-and-preferences-cultural--)
+    -   [Narratives and aesthetics of Games driven by Home
+        Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
+    -   [Visual asset creation and
+        selection](#visual-asset-creation-and-selection)
+    -   [Discussion on asset creation and sharing of personal
+        experiences, identity and
+        preferences](#discussion-on-asset-creation-and-sharing-of-personal-experiences-identity-and-preferences)
 -   [Design stages or flexible design
     practices](#design-stages-or-flexible-design-practices)
     -   [Shifts in design practice](#shifts-in-design-practice)
+    -   [Other emerging design
+        processes](#other-emerging-design-processes)
     -   [Discussion on how design (not GDP) supports flexible design
         practices -](#discussion-on-how-design-not-gdp-supports-flexible-design-practices--)
-    -   [NOTE - MOVED FROM ANALYSIS OF TH AND SH Vingette Describing
-        design stages for this pair beyond this
-        interaction](#note---moved-from-analysis-of-th-and-sh-vingette-describing-design-stages-for-this-pair-beyond-this-interaction)
--   [Community Aspects of the 3M
-    design](#community-aspects-of-the-3m-design)
 -   [Discussion - Overcoming Tensions and Blockages related to Culture
     and
     Affect](#discussion---overcoming-tensions-and-blockages-related-to-culture-and-affect)
