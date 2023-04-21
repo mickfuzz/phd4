@@ -95,6 +95,10 @@ The use of ap
 **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
 
+The chapter also starts to address the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners.
+Like swimming in a protected pool rather than in the sea. 
+
+
 <!--
 NARROW THIS DOWN
 
