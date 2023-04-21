@@ -410,6 +410,18 @@ Play Testing - each lesson can help with short term motivation of having a game 
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 
+<!-- An unusual approach so why?
+
+- involvement with mozilla / teach the web
+- authenticity - link between developer community and education, global in scope
+- can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
+
+other unexpected Benefits
+
+- could bring in other web creation resource, piskel, -->
+
+
+
 **Learner choice over game design vs templated approach**
 
 Learners struggled with too much freedom of choice in a number of ways. Most specifically starting from scratch appeared unrealistic for this group due to technical level of coding availability. Similarly, there was at times frustration if learners were not able to implement a feature they wanted to add to the game next:
@@ -816,8 +828,6 @@ Note - while the use of these skills is not unique to game making and common to 
 NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
 
 
-
-
 ### Including Coding Concepts in the Learning Map and including Code Cards with links to online Concepts
 
 Recap here the choice of coding concepts rather that CT in more abstract terms.
@@ -825,8 +835,6 @@ Recap here the choice of coding concepts rather that CT in more abstract terms.
 - Make Code cards which contained links to game design patterns and the different component concepts
 - (see Eriksson and Bjork)
 - Draw on material and critique in chapter on semantic profiles / waves.
-
-
 
 <!-- A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
 
@@ -870,7 +878,6 @@ The game pattern missions were represented as different islands . Learners took 
 
 ### Emerging Findings & Discussion on use of Physical Maps
 
-
 <!-- ![map of learning design]({{site.github.url}}/_posts/Pictures/maps_2000.png) -->
 
 ![learning islands](./Pictures/maps_2000.png)
@@ -879,7 +886,7 @@ _Missions as Islands_
 
 Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process.
 
-Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion.
+<!-- Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion. -->
 
 EXAMPLE - ma & fi
 
@@ -915,13 +922,13 @@ While CHAT provides the technique of highlighting emerging tensions and resoluti
 This process begins in this chapter with a focus on evolving design and continues in with three following chapters with a greater focus on the learner response to challenges of game making in the recorded sessions.
 
 
-
+<!--
 
 ## List of appendices for this chapter
 
 ### Tensions of the 3M design evolution
 
-https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
 
 [^1]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#arrays

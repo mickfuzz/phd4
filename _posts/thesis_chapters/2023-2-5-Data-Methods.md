@@ -10,32 +10,23 @@ categories: chapter
 title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
 
--   [Overview in points](#overview-in-points)
-    -   [Cross referencing with with lit review and other
-        chapters.](#cross-referencing-with-with-lit-review-and-other-chapters.)
--   [Introduction to use of culturally inclusive
-    methods](#introduction-to-use-of-culturally-inclusive-methods)
-    -   [Overview of contents of chapter
-        (NOTES)](#overview-of-contents-of-chapter-notes)
-    -   [Culturally Inclusive Methods to Kick Start Game Making
-        Communities (with agency in
-        mind)](#culturally-inclusive-methods-to-kick-start-game-making-communities-with-agency-in-mind)
+-   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
-    -   [Vignette to start this section - something Cultural - Drama
-        scenario - and response via
-        interviews](#vignette-to-start-this-section---something-cultural---drama-scenario---and-response-via-interviews)
+    -   [Vignette - Starting the Alien Drama of the
+        Weean.](#vignette---starting-the-alien-drama-of-the-weean.)
+    -   [Commentary on Vignette](#commentary-on-vignette)
+    -   [Additional data on alien drama
+        process](#additional-data-on-alien-drama-process)
+    -   [Evidence of impact of the alien drama in interview data and
+        recordings](#evidence-of-impact-of-the-alien-drama-in-interview-data-and-recordings)
 -   [The impact of playing games and ongoing
     play-testing](#the-impact-of-playing-games-and-ongoing-play-testing)
--   [Physical Computing and Game
-    Making:](#physical-computing-and-game-making)
--   [Tools: Specifics on Code Playgrounds and Phaser and a Javascript
-    framework](#tools-specifics-on-code-playgrounds-and-phaser-and-a-javascript-framework)
--   [Remixing / Half-baked - impact,
-    examples](#remixing-half-baked---impact-examples)
-    -   [Why Glitch and Code
-        Playgrounds](#why-glitch-and-code-playgrounds)
-    -   [Code Examples and Step By Step
-        Tutorials](#code-examples-and-step-by-step-tutorials)
+-   [Game playing at start of program - no observations but sets
+    context](#game-playing-at-start-of-program---no-observations-but-sets-context)
+-   [The impact of tools, documentation and emerging technical
+    processes](#the-impact-of-tools-documentation-and-emerging-technical-processes)
+    -   [Impact of Code Playgrounds and Phaser and a Javascript
+        framework](#impact-of-code-playgrounds-and-phaser-and-a-javascript-framework)
     -   [Guided Code Patching](#guided-code-patching)
     -   [On Debugging and Embracing Different Types of
         Errors](#on-debugging-and-embracing-different-types-of-errors)
@@ -43,23 +34,20 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     Knowledge](#personal-expression---funds-of-knowledge)
     -   [Building Identities as Game
         Makers](#building-identities-as-game-makers)
-    -   [Circulation of peers and helpers &
-        playtesting](#circulation-of-peers-and-helpers-playtesting)
-    -   [Accessing Help and
-        Documentation](#accessing-help-and-documentation)
+    -   [Discussion - on assets and
+        participation](#discussion---on-assets-and-participation)
+    -   [Circulation of peers and
+        helpers](#circulation-of-peers-and-helpers)
 -   [Discussion in Relation to Existing
     Research](#discussion-in-relation-to-existing-research)
     -   [GDPs and the sharing of personal experiences, identity and
         preferences
         (cultural) -](#gdps-and-the-sharing-of-personal-experiences-identity-and-preferences-cultural--)
-    -   [Discussion - on assets and
-        participation](#discussion---on-assets-and-participation)
 -   [Design stages or flexible design
     practices](#design-stages-or-flexible-design-practices)
     -   [Shifts in design practice](#shifts-in-design-practice)
-    -   [Design (not GDP) supports Flexible Design Practices -
-        Discussion?
-        MOVE?](#design-not-gdp-supports-flexible-design-practices---discussion-move)
+    -   [Discussion on how design (not GDP) supports flexible design
+        practices -](#discussion-on-how-design-not-gdp-supports-flexible-design-practices--)
     -   [NOTE - MOVED FROM ANALYSIS OF TH AND SH Vingette Describing
         design stages for this pair beyond this
         interaction](#note---moved-from-analysis-of-th-and-sh-vingette-describing-design-stages-for-this-pair-beyond-this-interaction)
@@ -70,7 +58,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     Affect](#discussion---overcoming-tensions-and-blockages-related-to-culture-and-affect)
 
 
-## Overview in points
+<!-- ## Overview in points
 
 - Introduction
 - Scenarios - drama processes -
@@ -94,7 +82,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Remixing / Half Baked games []
-- Etc
+- Etc -->
 
 ## Introduction
 
@@ -102,8 +90,6 @@ This chapter addresses inclusive methods . It also surfaces and begins discussio
 Specifically observable responses to design interventions and resulting discussions.
 
 The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review.
-
-
 
 <!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
 <!-- 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
@@ -252,13 +238,11 @@ The final part of this vignette gives an overview of the different kinds of docu
 
 ### Additional data on alien drama process
 
-
-
 **Motivations of the social challenges / missions**
 
 In the transcript there is the mention and some examples of some of the missions given by the aliens.
 This came as a result of analysis of interactions during game making.
-Examples of interactions? Some kind of coded data?
+<!-- Examples of interactions? Some kind of coded data? -->
 
 Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
@@ -276,7 +260,7 @@ Here we are looking at something cultural?? -->
 
 
 
-### Evidence of impact from interview data and recordings
+### Evidence of impact of the alien drama in interview data and recordings
 
 Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
 
@@ -287,7 +271,6 @@ Justify including these reflections.
  - a way to decentre myself from the process of giving boundaries. I list boundaries. Similar to outlining the rules of a game. I am much more relaxed restricting choice in role, or via a proxy of a playful encounter.
 - as a way to bring attention to an imagined audience. I reference that the games are online.
 ``
-
 
 ## The impact of playing games and ongoing play-testing
 
@@ -309,7 +292,6 @@ Find examples
 
 Find examples
 
-
 #### Play testing - and embodied participation in the games of others.
 
 study the body language of those play testing games.
@@ -320,57 +302,53 @@ what is there ? - included
 - calling across room
 - clustering, remaining on outskirts.
 
-## The impact of remixing a half-baked game in a code playground  
+## The impact of tools, documentation and emerging technical processes
 
-**Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework**
+This section looks in greater depth at the impact on learners of the design explored in the previous chapter.
+It also explores some of the emerging technical processes that the group adopts.
 
-Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+### Impact of Code Playgrounds and Phaser and a Javascript framework
+
+<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
 
 Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
+ -->
 
 The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions.
 
-Bring out detail from the study to this section.
+<!-- Bring out detail from the study to this section.
 
- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers
-
-**Why Glitch and Code Playgrounds**
-
-[THIS IS FROM MY PERSPECTIVE SO SHIFT TO PREVIOUS CHAPTER?]
-
-An unusual approach so why?
-
-- involvement with mozilla / teach the web
-- authenticity - link between developer community and education, global in scope
-- can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
-
-other unexpected Benefits
-
-- could bring in other web creation resource, piskel,
-
-Tensions compared to other more walled garden approaches - see below in tensions / move to make code.
+ - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
 
 
-### Documentation Types
+
+<!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
+
+
+<!-- ### Documentation Types
 
 #### Code Examples and Step By Step Tutorials
 
 Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive.
 
- In phase 2 I began to write up the implementation of the same game features but more closely integrated with the new starting code template used. Thus these individual tutorials became much directive. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants. I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform Chesterman, 2019).
+ In phase 2 I began to write up the implementation of the same game features but more closely integrated with the new starting code template used. Thus these individual tutorials became much directive. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants. I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform Chesterman, 2019). -->
 
 ### Guided Code Patching
 
-  In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+THERE IS DUPLICATION WITH PREVIOUS CHAPTER HERE - MOVE SOME OF IT - FOCUS HERE ON THE IMPACT - OBSERVABLE RESULTS
+
+In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
   ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
 
-  In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
   During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 
 ### On Debugging and Embracing Different Types of Errors
+
+NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
 
  In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
 
@@ -387,7 +365,7 @@ Sh & Th for example gets so frustrated that keeps moving on to create compound e
 One no behaviour bug can be worked around but a syntax bug stops everything.
 
 
-#### Glitch Examples
+#### Examples of Glitch types of errors
 
 Short examples of different types and the affect implications.
 
@@ -407,6 +385,8 @@ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new 
 Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
 Question - do more useful / less de-motivating errors result from remixing and game patching?
+Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
+
 
 Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
 
@@ -414,6 +394,9 @@ Aspects of the design encourage this kinds of error. Certainly the process of co
 
 
 ## Personal expression - Funds of Knowledge
+
+This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
+
 
 ### Building Identities as Game Makers
 
@@ -437,125 +420,7 @@ After the results were revealed, I then proposed as facilitator that my observat
 An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you.
 
 
-
-### Circulation of peers and helpers & playtesting
-
-This often facilitates talk aloud of design decisions and justifications.
-
-### Accessing Help and Documentation
-
-In the emerging community there was a variety of help available including;
-
-- Written documentation from the learning design via step by step tutorials
-- A series of code examples in working code playgrounds
-- Facilitator help through asking for help
-- Student Helper attention and help
-- Peer support from parents and children
-
-#### Tactical use of in-session support time
-
-Parent Ma made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
-
-#### Accessing online, professional/community documentation
-
-Te and Da - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
-
-
-#### Tactics in accessing help from peers and facilitators
-
-A common teacher tactic is ask three then me.
-
-The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
-Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
-
-in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
-- Student helper to get online,
-- Peer parent about use of piskel, and then her son
-- Ne daughter
-- Mick overall facilitator
-
-
-#### Division of Labour - code patching and experimentation
-
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
-
-The documentation leads to a page with code examples.
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-
-
-## Discussion in Relation to Existing Research
-
-Make links and try to develop knowledge inline with...
-
-See summary at start of the chapter.
-
-
-
-
-### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
-
-In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
-
-As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
-
-- design graphics
-- audio assets
-- narrative elements
-- physical computing
-
-<!-- Recap from Lit Review / Intro -->
-
-However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
-
-- time on asset design can detract from systemic and learning code concepts and syntax.
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
-- tension of a walled garden approach vs responding to freer design choices
-- list others, draw on Roque, Kafai and Papert
-
-This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
-
-- propagation of assets..
-- pride sharing back?
-- value of feedback, asset creation as a speciality
-
-This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets.
-
-<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
-(may need to move?)
-Just create a summary here.
-
-Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
--->
-
-<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
- -->
-
-<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?
-
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
-
-The core GDP involving game assets already exist in the starting template.
-- Objects as a reward to incentivise player exploration
-- Objects as a hazard penalising player progress
-
-The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
-
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
-So while structured to avoid
-
- -->
-
-#### Narratives and aesthetics of Games driven by Home Interests
+### Narratives and aesthetics of Games driven by Home Interests
 
 - Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
 <!--
@@ -628,8 +493,7 @@ how do these two sections work together? remove this one?
 While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
 
 
-
-#### Visual asset creation and selection   
+### Visual asset creation and selection   
 
 - Mi's interactions around graphics creation - write up transcript
 - Mi's exploration in others.
@@ -665,7 +529,7 @@ In this exerpt parent Mi has spent
 We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
 
 
-#### Other examples
+#### Other examples of asset creation allowing personal expression
 
 **Repurposing graphical assets  in a playful way**
 
@@ -694,7 +558,7 @@ Examples? Ru and Ro ? in one of the later weeks? -->
 
 
 
-### Discussion - on assets and participation
+#### Discussion - on assets and participation
 
 Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
 This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
@@ -708,6 +572,121 @@ Note the limits of this interpretation.
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
 A tension here to be briefly explored or noted to explore later.
 
+
+<!-- #### Circulation of peers and helpers
+
+This often facilitates talk aloud of design decisions and justifications.
+Cross reference playtesting -->
+
+<!-- ### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children -->
+
+#### Tactical use of in-session support time
+
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+#### Accessing online, professional/community documentation
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+
+
+#### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
+
+
+#### Division of Labour - code patching and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+The documentation leads to a page with code examples.
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+
+
+## Discussion in Relation to Existing Research
+
+Make links and try to develop knowledge inline with...
+See summary at start of the chapter.
+
+
+### GDPs and the sharing of personal experiences, identity and preferences  (cultural) -
+
+In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
+
+As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
+
+- design graphics
+- audio assets
+- narrative elements
+- physical computing
+
+<!-- Recap from Lit Review / Intro -->
+
+However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
+
+- time on asset design can detract from systemic and learning code concepts and syntax.
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+- tension of a walled garden approach vs responding to freer design choices
+- list others, draw on Roque, Kafai and Papert
+
+This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+
+- propagation of assets..
+- pride sharing back?
+- value of feedback, asset creation as a speciality
+
+This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets.
+
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
+(may need to move?)
+Just create a summary here.
+
+Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
+-->
+
+<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
+ -->
+
+<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?
+
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+
+The core GDP involving game assets already exist in the starting template.
+- Objects as a reward to incentivise player exploration
+- Objects as a hazard penalising player progress
+
+The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
+
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
+So while structured to avoid
+
+ -->
 
 
 ## Design stages or flexible design practices
@@ -755,11 +734,11 @@ A later discussion section in this chapter illustrates a more complex interactio
 
 
 
-### Design (not GDP) supports Flexible Design Practices - Discussion? MOVE?
+### Discussion on how design (not GDP) supports flexible design practices -
 
-HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
+<!-- HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
-SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS?
+SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
 
 Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
 
