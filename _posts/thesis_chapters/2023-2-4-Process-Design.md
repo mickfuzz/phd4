@@ -8,28 +8,29 @@ layout: post
 categories: chapter
 title: Process - Emerging Learning Designs
 ---
-
--   [Outline](#outline)
 -   [Chapter Introduction](#chapter-introduction)
     -   [Contextual factors from practitioner perspective influencing
         design](#contextual-factors-from-practitioner-perspective-influencing-design)
-    -   [Short vignette illustrating shifts in scope of
-        activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
-    -   [Description of the nested levels of activity via analysis of
-        tools
-        used.](#description-of-the-nested-levels-of-activity-via-analysis-of-tools-used.)
+-   [Summary of design evolution](#summary-of-design-evolution)
+-   [Short vignette illustrating shifts in scope of
+    activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
+    -   [Commentary on Vignette - including a brief description of the
+        nested levels of activity & tools
+        used](#commentary-on-vignette---including-a-brief-description-of-the-nested-levels-of-activity-tools-used)
+-   [Exploring the evolution of learning design via description of
+    tensions in activity in each
+    phase](#exploring-the-evolution-of-learning-design-via-description-of-tensions-in-activity-in-each-phase)
+    -   [Phase one - an exploratory series of game making
+        sessions](#phase-one---an-exploratory-series-of-game-making-sessions)
+    -   [Phase Two](#phase-two)
+-   [Further discussion of learning design - HOLDING SECTION
+    CURRENTLY](#further-discussion-of-learning-design---holding-section-currently)
 -   [Overview of 3M pedagogical
     model](#overview-of-3m-pedagogical-model)
     -   [Methods (Inclusive)](#methods-inclusive)
-    -   [Missions (Main Missions)](#missions-main-missions)
+    -   [Missions](#missions)
     -   [Maps - more detailed in this
         chapter](#maps---more-detailed-in-this-chapter)
--   [Evolution of Design](#evolution-of-design)
-    -   [Description of Phases](#description-of-phases)
--   [Exploring tensions emerging in
-    design](#exploring-tensions-emerging-in-design)
--   [Evolving design of Support Materials and
-    Documentation](#evolving-design-of-support-materials-and-documentation)
 -   [Learning Dimensions Map](#learning-dimensions-map)
     -   [Overview -](#overview--)
     -   [Limits to this map](#limits-to-this-map)
@@ -46,9 +47,6 @@ title: Process - Emerging Learning Designs
     chapter](#list-of-appendices-for-this-chapter)
     -   [Tensions of the 3M design
         evolution](#tensions-of-the-3m-design-evolution)
-
-
-
 
 ## Chapter Introduction  
 
@@ -365,20 +363,21 @@ Others in the group did not experiment in this way and used more direct help or 
 - smaller - implementing or changing code constructs to enact or change GDPs -->
 
 
-## Evolution of Design
+## Exploring the evolution of learning design via description of tensions in activity in each phase
 
-### Description of Phases
+As outlined in the table above I carried out four stages of workshops and development with home educator families. I will outline decisions behind the design activities at key stage of activity  
 
-As outlined in the table above I carried out four stages of workshops and development with home educator families. I will outline decisions behind the design activities at key stage of activity  - AND INCLUDE TENSIONS IN EACH STAGE.
+AND INCLUDE TENSIONS IN EACH STAGE.
+NOTE - this section contributes to an evolving table
+**Matrix of 3M Game Making Model - Pedagogical Features explored through Tensions and Resolutions**
 
-**Table of Tensions & resolutions of 3M design - **
+INCLUDE TABLE AS SEPARATE ATTACHMENT IT IS ONLINE HERE
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
-
 
 <!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
 https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
 
-#### Phase One
+### Phase one - an exploratory series of  game making sessions
 
 <!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
 <!-- This phase took place before the official start of this research and relevant ethics application. As such,  -->
@@ -399,6 +398,7 @@ Some of methods emerged from the start including play testing of other games, th
 
 #### Exploring key tensions in phase one
 
+
 **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
 
 In my journal notes, I reflect on the difficulty of interupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
@@ -406,16 +406,17 @@ In my journal notes, I reflect on the difficulty of interupting the flow of maki
 **Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
 Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
 
-
-
 **Code playground provides immediate feedback**. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 
 **Learner choice over game design vs templated approach**
-Learners stuggled with too much freedom of choice in a number of ways. Most specifically starting from scratch appeared unrealistic for this group.
 
-There was conflict over desire for a 3d game.
+Learners struggled with too much freedom of choice in a number of ways. Most specifically starting from scratch appeared unrealistic for this group due to technical level of coding availability. Similarly, there was at times frustration if learners were not able to implement a feature they wanted to add to the game next:
+
+
+While personal expression can facilitates engagement and motivation it can lead to confict if desired changes are not realistic. For example there was conflict over desire for a 3d game in this phase. A 3d bee design of one participant which happened when there was no framework.
+Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
 
 As such I adapted a game template used in a Phaser tutorial. Thus the design started to follow the Use-Modify-Create model to limit learner anxiety for novice coders and to scaffold the acquisition of coding and computational thinking concepts [@lee_computational_2011]. Using a starting template had a number of benefits: to increase speed of feedback from learner input, to reduce coding syntax knowledge needed in starting from scratch, x
 
@@ -423,18 +424,67 @@ In order to accelerate the process of making a game to fit into contextual expec
 
 
 
-#### Phase Two
+### Phase Two
+
+THIS SECTION NEEDS A LOT OF WORK - ADDRESSING DUPLICATION WITH THE ABOVE AND INTEGRATING ANALYSIS
 
 Phase two presented key challenges. The first was to try to present the essence of my evolving learning design of phaser and a code playground to  PGCE students in a smaller time scale. And in the process of preparing a 90 minute workshop for the Mozilla conference
 
-With guidance, PGCE students created printable resources that highlighted particular key lines of code and variables that had a high impact on the game experiences. These include changing gravity, altering the player speed, background colour of the game and the game layout of the plaforms, hazards and food to collect.
+With guidance, PGCE students created printable resources that highlighted particular key lines of code and variables that had a high impact on the game experiences. These include changing gravity, altering the player speed, background colour of the game and the game layout of the platforms, hazards and food to collect.
 
-While this was more perscriptive than I would have been, it worked well.
+This approach was more prescriptive than I would have adopted, however it worked well. I then made a connection between
 
-<!-- Have a look at this document
+<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
 https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
-
  -->
+
+#### Addressing tensions and related to support materials and documentation emerging in phase two
+ <!-- NOTE -
+ The language used, affordances, 2nd stimulation, practices, needs clarification.
+  -->
+
+Most forms of future documentation and support were originated at this stage. This section specifically addresses the evolution of documentation via analysis of the development of the resources.
+
+ <!-- NOTE - I am not totally sure it is necessary. Could it be collapsed or presented in another part of this chapter.
+ NOTE - Try to summarise exactly what the message is here.  
+ NOTE - how can this be more analytical.  -->
+
+
+
+
+
+ **Use of simple code examples which demonstrate the pattern in isolation**
+
+ Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
+
+ These code example are a staple of professional sharing and problem solving practice.
+ They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
+
+
+
+ **Non-linear step-by-step instructions**
+
+ Longer form step by step tutorials are common in computing education. Examples can be found in Code Academy, and in the education resources of RPi foundation. Many examples talking learners through steps to build a game can be found online with varied amount of explanation of underlying constructs and concepts. I started my journey learning JS games using some provided by Mozilla and the Phaser developers.
+
+ The approach used in the step based documentation I created varies from many in that rather than choosing a defined order users can choose which order they want to add game elements. The use of GDP aids the learner navigation of this process. This does add challenges however to the documentation authouring process.
+
+ <!-- An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
+
+ Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
+ FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION. -->
+
+ Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Some trailblazing participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon by other learners and sometimes adopted via peer teaching.
+
+ <!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+ **Linear support tutorials**
+
+ While a manual was available, few participants worked their way through it chapter by chapter. While I created this for the planners suited to this way of working and in response to feedback from parents in early designs that foundation knowledge would be useful, in practice, once their template game was up and running, there was little incentive to do use this resource. In terms of the objectives of making a playable game or adding particular patterns to the game the step by step resources would have involved backtracking. The process would have value to reinforce computing concepts present in the design.
+
+ The foundational concept here was that after making the game from a template. The linear resources would explain all underlying concepts that the starting template had initially abstracted away from the participants.
+
+ In my journal I named this concept _meeting yourself in the middle_ to represent the possibility of retracing the process of learning from first principles.
+ Narratively the equivalent of a prequel.   
 
 #### Phase Three
 
@@ -442,16 +492,32 @@ The delivery of the second phase in early 2019 drew on this participant feedback
 
 The key addition built on the quick cards of the previous phase, that being to preprepare code examples illustrating key game features requested by participants.
 
-
 In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Some most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned other fundamental aspects concerning game space including: size of game world,
 
 Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
 
 We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
+#### Tensions and related to navigation of various documentations sources
+
+The previous stage had created a variety of supporting documents and processes. In phase two I struggled to communicate these options consistently and effectively to students.
+
+**Use of a non-linear menu of game design patterns**
+
+In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
+
+Learning resources linked to game design patterns were presented in a menu format. They were made more accessible with graphics focused on the player experience rather than underlying coding constructs. The purpose of this design work was to;
+
+- increase learner engagement through accessible design
+- make documentation relatable to existing gameplay experience
+- develop use of common GPD terminology
+
+THE FOLLOWING IS EXPLORED IN EXAMPLE ABOVE - RELATE IT SOMEHOW AND FIND ANALYSIS HERE.
+There were two main ways of approaching adding a new pattern. One to examing a code example which was built around the same code base.
+
+This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
 
 
-**Tension choosing patterns - resolve via a pattern collection**
 
 <!-- How much to write on this here? Or the discussion chapter? -->
 
@@ -460,17 +526,10 @@ We can describe these features as game design patterns. Driven by the requests o
 The term expounds a view of learning as happening between the poles of direct instruction and free exploration. A
 The core activity of my participants was implementation of chosen game design patterns. -->
 
-In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
-
-So we return to choice vs feedback.
 
 
-**Learner frustration if they are not able to choose what feature they add to the game next:**
+<!-- NOTE - a return to choice vs feedback. -->
 
-- Challenge of personal expression. 3d bee design of one participant which happened when there was no framework.
-Present a wide range of different kinds of design patterns that learners can add to their game in the order they choose (with some exceptions).
-
- This facilitates engagement and motivation.
 
 
 <!-- While still driven by participant interests, it took a more structured approach. The resources included small scale starting challenges as A5 hand-outs, step-by-step tutorials as print outs, and code examples as online projects illustrating key additions to the game. -->
@@ -483,7 +542,8 @@ Present a wide range of different kinds of design patterns that learners can add
 Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
 
 **Learners take on features which are too advanced or complex for their current coding level**
-Limit the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+The use of a physical map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
 
 #### Phase Four
@@ -512,8 +572,6 @@ The template, resources and facilitation approach was based closely on the previ
 
 **Facilitators may need to justify learning happening and struggle to see this in-situ if unfamiliar with the game making process. This may restrict openness of activities to better assess and support learning.**
 A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators.
-
-
 
 
 **tension adapting resources to a curriculum environment**
@@ -551,7 +609,7 @@ Revisit FM book as a guide for Glitch/ Phaser
 More detailed analysis - thoughts on validity of data -->
 
 
-## Further discussion of learning design
+## Further discussion of learning design - HOLDING SECTION CURRENTLY
 
 In the previous discussion surrounding tensions the focus was on tool use to directly achieve the objective of the activity. However, this ignore the lower community layer of the 3rd generation AT namely: division of labour; rules/norms; and community. In this section more cultural and community related tensions are explored.
 
@@ -600,7 +658,8 @@ One significant tension I felt in evolving design was a nagging feeling that lea
 However, I felt reluctance to explicitly teach these links via direct transmission. -->
 
 
-<!-- #### Tensions related to funds on knowledge / culture -->
+<!-- #### Tensions related to fundsThe use of a physical map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+ on knowledge / culture -->
 
 
 <!-- **If it is not recorded, learners and facilitators may lose track of what has been covered in the process of making a game. Thus reducing opportunities for project reflection. However, stopping activity to record formally interrupts the enjoyment of game making.**
@@ -622,68 +681,6 @@ Also a tension of moving online with resources, via having them available in the
 Try to resolve with a summary as a laminated card, and then online as well - this tension is partly to do with the data gathering process, as it is easier to follow if it is visible on the screen. -->
 
 
-
-
-## Evolving design of Support Materials and Documentation
-<!-- NOTE -
-The language used, affordances, 2nd stimulation, practices, needs clarification.
- -->
-
-This section specifically addresses the evolution of documentation and will deepen the analysis of the development of the resources.
-
-
-<!-- NOTE - I am not totally sure it is necessary. Could it be collapsed or presented in another part of this chapter.
-NOTE - Try to summarise exactly what the message is here.  
-NOTE - how can this be more analytical.  -->
-
-**_Use of a non-linear menu of Gdp_**
-
-Learning resources linked to game design patterns were presented in a menu format.
-
-They were made more accessible with graphics focused on the player experience rather than underlying coding constructs. The purpose of this design work was to;
-
-- increase learner engagement through accessible design
-- make documentation relatable to existing gameplay experience
-- develop use of common GPD terminology
-
-
-THE FOLLOWING IS EXPLORED IN EXAMPLE ABOVE - RELATE IT SOMEHOW AND FIND ANALYSIS HERE.
-There were two main ways of approaching adding a new pattern. One to examing a code example which was built around the same code base.
-
-This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
-
-**Use of simple code examples which demonstrate the pattern in isolation**
-
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
-
-These code example are a staple of professional sharing and problem solving practice.
-They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
-
-**Non-linear step-by-step instructions**
-
-Longer form step by step tutorials are common in computing education. Examples can be found in Code Academy, and in the education resources of RPi foundation. Many examples talking learners through steps to build a game can be found online with varied amount of explanation of underlying constructs and concepts. I started my journey learning JS games using some provided by Mozilla and the Phaser developers.
-
-The approach used in the step based documentation I created varies from many in that rather than choosing a defined order users can choose which order they want to add game elements. The use of GDP aids the learner navigation of this process. This does add challenges however to the documentation authouring process.
-
-An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
-
-Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
-FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
-
-Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Kay participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon and taught in via peer to peer propagation.
-
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
-
-**_A linear / step-by-step resource_**
-
-While a manual was available, few participants worked their way through it chapter by chapter.
-
-While I created this for the planners suited to this way of working and in response to feedback from parents in early designs that foundation knowledge would be useful, in practice, once their template game was up and running, there was little incentive to do use this resource. In terms of the objectives of making a playable game or adding particular patterns to the game the step by step resources would have involved backtracking. The process would have value to reinforce computing concepts present in the design.
-
-The foundational concept here was that after making the game from a template. The linear resources would explain all underlying concepts that the starting template had initially abstracted away from the participants.
-
-In my journal I named this concept _meeting yourself in the middle_ to represent the possibility of retracing the process of learning from first principles.
-Narratively the equivalent of a prequel.   
 
 
 ## Overview of 3M pedagogical model
