@@ -86,8 +86,14 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter addresses inclusive methods . It also surfaces and begins discussion on results outling evolutions of user agency.
-Specifically observable responses to design interventions and resulting discussions.
+This chapter addresses inclusive methods .
+ Specifically observable responses to design interventions and resulting discussions.
+
+I examine key areas of the learning design through the lens of learner agency and authenticity of learning community context.
+The use of ap
+
+**Justifying selection of chapter contents**
+The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
 
 <!--
 NARROW THIS DOWN
@@ -559,7 +565,7 @@ To a great degree the designer of the starting toolset and mission has a large i
 
 Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
 
-In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially. 
+In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
 
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
