@@ -552,7 +552,7 @@ REPLACE WITH 360 OF MAPS
 
 <!-- Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion. -->
 
-EXAMPLE - ma & fi - Paper maps 
+EXAMPLE - ma & fi - Paper maps
 
 Having GDP mapped out had some of the following possibilities.
 
@@ -616,6 +616,83 @@ however the rationale is intact and  -->
 I ran two iterations of game making course of 4-5 weeks using MakeCode Arcade tool. MakeCode Arcade uses block language system similar to that of Scratch, inheriting those advatages (list here or previous) FIND SOURCE - HOW TO BEST REFER BACK TO LIT REVIEW?
 
 The template, resources and facilitation approach was based closely on the previous stages but adapted to use screenshots of the block code of the MakeCode Arcade tool.
+
+
+## Learning Dimensions Map
+
+The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
+
+One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
+DEVELOP MOTIVATION - OPEN THIS TO RETURN TO IT LATER IN DISCUSSION.
+
+### Overview -
+
+In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
+
+// REWRITE FOLLOWING
+Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+Table 1.1. Learning Dimensions of the 3M Game Making Model
+
+This process of mapping such frameworks may be overly time-consuming for many full-time teachers. However, teachers may also use and adapt existing maps and frameworks based on their own classroom experience to help their observation of students. Because these frameworks can also help students to navigate their own learning journey the effort serves a double purpose.
+
+<!--
+While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/. -->
+<!-- ![Learning Dimensions](Pictures/learning_dimensions.jpg)
+![Learning Dimensions]({{ site.baseurl }}/_posts/Pictures/learning_dimensions.jpg)
+_Map of Learning Dimensions of the 3M Game Making Approach_
+ -->
+
+### Limits to this map
+
+This map was designed to link with particular conceptions of learning whilst still retaining a sense of the uniqueness of the affordances of this design. The settings are, CT in school curriculums, systems thinking, design approaches. These align broadly with a STEM approach. The rationale behind this is that Game Making commonly aligns with these curriculum areas and they are particularly suited to explore via iterative game making.
+NOTE - EXPLAIN WHERE THAT IS EXPLORED IN MORE DETAIL.
+
+However, there are a broad range of other skills and literacies also relevant with evidence emerging in video data.
+
+My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme. This programme introduced a broad set of competencies name Web Literacies [@noauthor_learning/webliteracystandard/legacy/webliteracieswhitepaper_nodate] [@mozilla_foundation_webmaker_2014].
+
+- digital literacy - broad overview
+- web literacy - narrower
+- webmaker - and more specific affordances of key web based coding and exploring tools
+
+
+<!-- NOTE EXPAND IF USEFUL -->
+Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments.
+
+NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
+
+
+### Including Coding Concepts in the Learning Map and including Code Cards with links to online Concepts
+
+Recap here the choice of coding concepts rather that CT in more abstract terms.
+
+- Make Code cards which contained links to game design patterns and the different component concepts
+- (see Eriksson and Bjork)
+- Draw on material and critique in chapter on semantic profiles / waves.
+
+<!-- A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
+
+Examples include;
+
+- supporting reflection on design and coding concepts / skills.
+- navigation / organisational support - use of a physical map.
+
+For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
+
+
+
 
 **Facilitators may need to justify learning happening and struggle to see this in-situ if unfamiliar with the game making process. This may restrict openness of activities to better assess and support learning.**
 A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators.
@@ -729,79 +806,6 @@ Try to resolve with a summary as a laminated card, and then online as well - thi
 
 
 
-
-## Learning Dimensions Map
-
-The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
-
-One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
-DEVELOP MOTIVATION - OPEN THIS TO RETURN TO IT LATER IN DISCUSSION.
-
-### Overview -
-
-In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
-
-// REWRITE FOLLOWING
-Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
-
-|      Coding Concepts    | Systems Patterns    | Design Practices|
-|--------------|-----------|------------|
-| Sequences | Systems Elements      | Goal Setting        |
-| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
-| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
-| Loops | Balancing Feedback Loops      | Web Navigation    |
-| Arrays |       | Problem Solving        |
-| Creating Functions |       | Version Control    |
-| Change Listener |    | Debugging   |
-| Input Event |   | Reusing and Remixing      |
-
-Table 1.1. Learning Dimensions of the 3M Game Making Model
-
-This process of mapping such frameworks may be overly time-consuming for many full-time teachers. However, teachers may also use and adapt existing maps and frameworks based on their own classroom experience to help their observation of students. Because these frameworks can also help students to navigate their own learning journey the effort serves a double purpose.
-
-<!--
-While this is an informal way of using maps the are other approaches that are more formal including one called a concept map which is a visual representation of target specialised knowledge. There is a section on concept maps as part of the teach computing website here. https://blog.teachcomputing.org/how-we-teach-computing/. -->
-<!-- ![Learning Dimensions](Pictures/learning_dimensions.jpg)
-![Learning Dimensions]({{ site.baseurl }}/_posts/Pictures/learning_dimensions.jpg)
-_Map of Learning Dimensions of the 3M Game Making Approach_
- -->
-
-### Limits to this map
-
-This map was designed to link with particular conceptions of learning whilst still retaining a sense of the uniqueness of the affordances of this design. The settings are, CT in school curriculums, systems thinking, design approaches. These align broadly with a STEM approach. The rationale behind this is that Game Making commonly aligns with these curriculum areas and they are particularly suited to explore via iterative game making.
-NOTE - EXPLAIN WHERE THAT IS EXPLORED IN MORE DETAIL.
-
-However, there are a broad range of other skills and literacies also relevant with evidence emerging in video data.
-
-My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme. This programme introduced a broad set of competencies name Web Literacies [@noauthor_learning/webliteracystandard/legacy/webliteracieswhitepaper_nodate] [@mozilla_foundation_webmaker_2014].
-
-- digital literacy - broad overview
-- web literacy - narrower
-- webmaker - and more specific affordances of key web based coding and exploring tools
-
-
-<!-- NOTE EXPAND IF USEFUL -->
-Note - while the use of these skills is not unique to game making and common to pick up on many making situations, the use of external image and sound asset creation tools which then creates production pipeline process does engender key navigation and importing and exporting skills which are very valuable in online environments.
-
-NOTE - The map could easily be changed to reflect this or other foci of teachers / researchers.
-
-
-### Including Coding Concepts in the Learning Map and including Code Cards with links to online Concepts
-
-Recap here the choice of coding concepts rather that CT in more abstract terms.
-
-- Make Code cards which contained links to game design patterns and the different component concepts
-- (see Eriksson and Bjork)
-- Draw on material and critique in chapter on semantic profiles / waves.
-
-<!-- A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
-
-Examples include;
-
-- supporting reflection on design and coding concepts / skills.
-- navigation / organisational support - use of a physical map.
-
-For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
 
 
 
