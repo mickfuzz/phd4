@@ -620,9 +620,11 @@ The template, resources and facilitation approach was based closely on the previ
 
 ## Learning Dimensions Map
 
-The results of this chapter are drawn from journal entries and from the reflection on resources design which happens over several iterations of the game making design.
 
-One of the aims of adapting and extending resources to facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
+
+In this phas I adapted and extended resources to ...
+- facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
+
 DEVELOP MOTIVATION - OPEN THIS TO RETURN TO IT LATER IN DISCUSSION.
 
 
@@ -631,7 +633,9 @@ In learning environments where there is a lot of choice assessing learners via o
 When researching hands-on tinkering in Science museums Bevan and Petrich [-@petrich_it_2013] worked with educators to examine video footage of families interacting with exhibits to make a structured list of the learning they observed. The resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
 
 // REWRITE FOLLOWING
-Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects. One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 1.1. shows my resulting map of learning dimensions for the 3M game making model.
+<!-- Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects.  -->
+
+One of the outcomes of my research was to extract some of the concepts and practices that learners engaged with when making games from hours of recorded material. While some are common to existing Computational Thinking frameworks others, including systems thinking concepts, are more unique to game making. Table 4.x. shows my resulting map of learning dimensions for the 3M game making model.
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
@@ -644,7 +648,6 @@ Another chapter in this collection identified concept maps and observation as me
 | Change Listener |    | Debugging   |
 | Input Event |   | Reusing and Remixing      |
 
-Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 This process of mapping such frameworks may be overly time-consuming for many full-time teachers. However, teachers may also use and adapt existing maps and frameworks based on their own classroom experience to help their observation of students. Because these frameworks can also help students to navigate their own learning journey the effort serves a double purpose.
 
