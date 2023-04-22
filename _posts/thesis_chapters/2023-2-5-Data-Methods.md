@@ -81,10 +81,23 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter addresses inclusive methods . It also surfaces and begins discussion on results outling evolutions of user agency.
-Specifically observable responses to design interventions and resulting discussions.
+This chapter addresses inclusive methods .
+ Specifically observable responses to design interventions and resulting discussions.
 
-The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review.
+I examine key areas of the learning design through the lens of learner agency and authenticity of learning community context.
+The use of ap
+
+**Justifying selection of chapter contents**
+The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
+
+The chapter also starts to address the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners.
+Like swimming in a protected pool rather than in the sea. 
+
+
+<!--
+NARROW THIS DOWN
+
+The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review. -->
 
 <!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
 <!-- 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
@@ -267,36 +280,6 @@ Justify including these reflections.
 - as a way to bring attention to an imagined audience. I reference that the games are online.
 ``
 
-## The impact of playing games and ongoing play-testing
-
-<!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
-
-For participants, playtesting provided a diversity of community-building behaviour.
-
-Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
-
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
-- praising graphical content
-- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
-
-## Game playing at start of program - no observations but sets context
-
-Find examples
-
-#### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
-
-Find examples
-
-#### Play testing - and embodied participation in the games of others.
-
-study the body language of those play testing games.
-what is there ? - included
-
-- wrestling for control
-- movement around the room between screens
-- calling across room
-- clustering, remaining on outskirts.
-
 ## The impact of tools, documentation and emerging technical processes
 
 This section looks in greater depth at the impact on learners of the design explored in the previous chapter.
@@ -392,8 +375,8 @@ Aspects of the design encourage this kinds of error. Certainly the process of co
 
 This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
 
-
-### Building Identities as Game Makers
+<!--
+### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
 
 My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
@@ -412,7 +395,7 @@ The process was adapted so players moved around the room in response to each que
 
 After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
 
-An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you.
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
 
 
 ### Narratives and aesthetics of Games driven by Home Interests
@@ -488,6 +471,7 @@ how do these two sections work together? remove this one?
 While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
 
 
+<<<<<<< HEAD
 ### Visual asset creation and selection   
 
 - Mi's interactions around graphics creation - write up transcript
@@ -554,6 +538,70 @@ Examples? Ru and Ro ? in one of the later weeks? -->
 
 
 ### Discussion on asset creation and sharing of personal experiences, identity and preferences
+=======
+
+<!-- #### Circulation of peers and helpers
+
+This often facilitates talk aloud of design decisions and justifications.
+Cross reference playtesting -->
+
+<!-- ### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children -->
+
+#### Tactical use of in-session support time
+
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+#### Accessing online, professional/community documentation
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+
+
+#### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
+
+
+#### Division of Labour - code patching and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+The documentation leads to a page with code examples.
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+
+
+## Discussion in Relation to Existing Research
+
+Make links and try to develop knowledge inline with...
+See summary at start of the chapter.
+
+
+### Tensions associated with sharing of personal experiences, identity and preferences  (cultural) -
+>>>>>>> c08b5d14cc7bd6e12a3c41e9b04656a840225feb
 
 In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
 
@@ -579,7 +627,16 @@ This particularly salient to game making in a community context. As per work on 
 - pride sharing back?
 - value of feedback, asset creation as a speciality
 
-This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets.
+#### Implications when design for participation in coding community
+
+To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
+
+Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
+
+In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
+
+
+<!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
 
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
 (may need to move?)
@@ -745,6 +802,37 @@ As discussed a in previous section design thinking education has created a set n
 To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
+
+ ## The impact of playing games and ongoing play-testing - move to Design
+
+ <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
+
+ For participants, playtesting provided a diversity of community-building behaviour.
+ Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
+
+ Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+ - praising graphical content
+ - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+
+ ## Game playing at start of program - no observations but sets context
+
+ Find examples
+
+ #### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+
+ Find examples
+
+ #### Play testing - and embodied participation in the games of others.
+
+ study the body language of those play testing games.
+ what is there ? - included
+
+ - wrestling for control
+ - movement around the room between screens
+ - calling across room
+ - clustering, remaining on outskirts.
+
+
 
 
 <!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
