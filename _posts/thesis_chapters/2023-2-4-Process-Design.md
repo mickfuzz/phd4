@@ -654,7 +654,7 @@ While this is an informal way of using maps the are other approaches that are mo
 _Map of Learning Dimensions of the 3M Game Making Approach_
  -->
 
-### Limits to this map
+### Limits to this map - MOVE?
 
 This map was designed to link with particular conceptions of learning whilst still retaining a sense of the uniqueness of the affordances of this design. The settings are, CT in school curriculums, systems thinking, design approaches. These align broadly with a STEM approach. The rationale behind this is that Game Making commonly aligns with these curriculum areas and they are particularly suited to explore via iterative game making.
 NOTE - EXPLAIN WHERE THAT IS EXPLORED IN MORE DETAIL.
