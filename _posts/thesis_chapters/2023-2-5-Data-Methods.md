@@ -93,7 +93,177 @@ The following elements have emerged from many in the learning design as of merit
 The chapter also starts to address the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners.
 Like swimming in a protected pool rather than in the sea.
 
-PERHAPS INCLUDE FUNDS OF KNOWLEDGE INTRODUCTION HERE. 
+
+## Addressing use of home funds of knowledge as a way to bootstrap agency
+
+This section briefly examines this subject in data collected and comments on how my observations tally with existing research.
+
+- visual asset creation
+- use of narratives
+
+
+## Personal expression - Funds of Knowledge
+
+This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
+### Narratives and aesthetics of Games driven by Home Interests
+
+- Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
+<!--
+also in [erikssonUsingGameplayDesign2019;] -->
+
+As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
+Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
+
+The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+One pair Ch and Pa the grandparents of Te, included narrative text at the start of their game which explained their choice of graphical elements.
+
+     var starttext = "This is a game which pits a honey bee
+     against a swarm of Asian hornets,
+     which are alien invaders attacking bee
+     hives in the UK and which beekeepers
+     are trying to stop spreading here.
+     Try to guide the bee to collect all the
+     flowers without being caught by the
+     hornets.
+     Use the arrow keys to move the bee.
+              Press return to START.";
+
+
+In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+
+   zi: Have you done amazing things?
+
+The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
+
+The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game.
+
+Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
+
+
+    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
+    Ma - Oh, definitely. Yeah.
+    Mi: Let's ask Fi that as well.
+    Ma: Yeah.
+    Mi: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
+    Fi: Yeah. The Fireman.
+    Ma: Yeah, well, tell us about that game. Tell about your interests and stuff?
+    FI: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
+    ....
+    Ma: What is your aspiration for your life?
+    Fi: I wanna be a fireman.
+    Ma: On a...
+    Fa: Train.
+    Ma: Steam train.
+    ...
+    Fi: I really like trains, since like I was very, very young.
+
+    Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
+    Ma: I think it excited you to have to build a fireman sprite? Is that right?
+    Fi: Yeah?
+    Ma: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
+    Fi:  Yeah.
+    Ma: Because the whole theme of it. Just I know just you're eyes lit up when you realised you could expand your interests into gaming.
+
+
+
+
+In an interview exchange this pair
+NOTE ADD IN EXCHANGE FROM INTERVIEW ABOUT INCOPORATING INTERESTS Fi and Ma
+
+<!-- NOTE
+NARRATIVE / drama IN PREVIOUS CHAPTER?
+how do these two sections work together? remove this one?
+ -->
+While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
+
+
+
+<!-- #### Circulation of peers and helpers
+
+This often facilitates talk aloud of design decisions and justifications.
+Cross reference playtesting -->
+
+<!-- ### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children -->
+
+#### Tactical use of in-session support time
+
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+#### Accessing online, professional/community documentation
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+
+
+#### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
+
+
+#### Division of Labour - code patching and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+The documentation leads to a page with code examples.
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+
+
+## Discussion in Relation to Existing Research
+
+Make links and try to develop knowledge inline with...
+See summary at start of the chapter.
+
+
+### Tensions associated with sharing of personal experiences, identity and preferences  (cultural) -
+
+In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
+
+As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
+
+- design graphics
+- audio assets
+- narrative elements
+- physical computing
+
+<!-- Recap from Lit Review / Intro -->
+
+However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
+
+- time on asset design can detract from systemic and learning code concepts and syntax.
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+- tension of a walled garden approach vs responding to freer design choices
+- list others, draw on Roque, Kafai and Papert
+
+This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+
+- propagation of assets..
+- pride sharing back?
+- value of feedback, asset creation as a speciality
 
 
 <!--
@@ -373,9 +543,7 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
 
-## Personal expression - Funds of Knowledge
 
-This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
 
 <!--
 ### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
@@ -398,167 +566,6 @@ The process was adapted so players moved around the room in response to each que
 After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
 
 An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
-
-
-### Narratives and aesthetics of Games driven by Home Interests
-
-- Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
-<!--
-also in [erikssonUsingGameplayDesign2019;] -->
-
-As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
-Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
-
-The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-One pair Ch and Pa the grandparents of Te, included narrative text at the start of their game which explained their choice of graphical elements.
-
-     var starttext = "This is a game which pits a honey bee
-     against a swarm of Asian hornets,
-     which are alien invaders attacking bee
-     hives in the UK and which beekeepers
-     are trying to stop spreading here.
-     Try to guide the bee to collect all the
-     flowers without being caught by the
-     hornets.
-     Use the arrow keys to move the bee.
-              Press return to START.";
-
-
-In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
-
-   zi: Have you done amazing things?
-
-The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
-
-The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game.
-
-Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
-
-
-    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
-    Ma - Oh, definitely. Yeah.
-    Mi: Let's ask Fi that as well.
-    Ma: Yeah.
-    Mi: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
-    Fi: Yeah. The Fireman.
-    Ma: Yeah, well, tell us about that game. Tell about your interests and stuff?
-    FI: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
-    ....
-    Ma: What is your aspiration for your life?
-    Fi: I wanna be a fireman.
-    Ma: On a...
-    Fa: Train.
-    Ma: Steam train.
-    ...
-    Fi: I really like trains, since like I was very, very young.
-
-    Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
-    Ma: I think it excited you to have to build a fireman sprite? Is that right?
-    Fi: Yeah?
-    Ma: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
-    Fi:  Yeah.
-    Ma: Because the whole theme of it. Just I know just you're eyes lit up when you realised you could expand your interests into gaming.
-
-
-
-
-In an interview exchange this pair
-NOTE ADD IN EXCHANGE FROM INTERVIEW ABOUT INCOPORATING INTERESTS Fi and Ma
-
-<!-- NOTE
-NARRATIVE / drama IN PREVIOUS CHAPTER?
-how do these two sections work together? remove this one?
- -->
-While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
-
-
-
-<!-- #### Circulation of peers and helpers
-
-This often facilitates talk aloud of design decisions and justifications.
-Cross reference playtesting -->
-
-<!-- ### Accessing Help and Documentation
-
-In the emerging community there was a variety of help available including;
-
-- Written documentation from the learning design via step by step tutorials
-- A series of code examples in working code playgrounds
-- Facilitator help through asking for help
-- Student Helper attention and help
-- Peer support from parents and children -->
-
-#### Tactical use of in-session support time
-
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
-
-#### Accessing online, professional/community documentation
-
-Toby and Dan - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
-
-
-#### Tactics in accessing help from peers and facilitators
-
-A common teacher tactic is ask three then me.
-
-The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
-Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
-
-in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
-- Student helper to get online,
-- Peer parent about use of piskel, and then her son
-- Ne daughter
-- Mick overall facilitator
-
-
-#### Division of Labour - code patching and experimentation
-
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
-
-The documentation leads to a page with code examples.
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-
-
-## Discussion in Relation to Existing Research
-
-Make links and try to develop knowledge inline with...
-See summary at start of the chapter.
-
-
-### Tensions associated with sharing of personal experiences, identity and preferences  (cultural) -
-
-In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
-
-As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
-
-- design graphics
-- audio assets
-- narrative elements
-- physical computing
-
-<!-- Recap from Lit Review / Intro -->
-
-However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
-
-- time on asset design can detract from systemic and learning code concepts and syntax.
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
-- tension of a walled garden approach vs responding to freer design choices
-- list others, draw on Roque, Kafai and Papert
-
-This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
-
-- propagation of assets..
-- pride sharing back?
-- value of feedback, asset creation as a speciality
 
 #### Implications when design for participation in coding community
 
