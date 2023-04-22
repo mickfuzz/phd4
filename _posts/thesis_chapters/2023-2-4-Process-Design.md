@@ -622,10 +622,7 @@ The template, resources and facilitation approach was based closely on the previ
 
 
 
-In this phas I adapted and extended resources to ...
-- facilitate the use of key techniques that emerged in the early design stages in more restricted and structured environments, e.g. a computing classroom in secondary school.
-
-DEVELOP MOTIVATION - OPEN THIS TO RETURN TO IT LATER IN DISCUSSION.
+In this phase, I adapted and extended resources to suit use in more formal learning environments, e.g. particularly a secondary computing classroom.
 
 
 In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity.
