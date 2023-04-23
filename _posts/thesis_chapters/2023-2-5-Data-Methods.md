@@ -101,22 +101,18 @@ This section briefly examines this subject in data collected and comments on how
 - visual asset creation
 - use of narratives
 
-
-## Personal expression - Funds of Knowledge
-
 This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
-### Narratives and aesthetics of Games driven by Home Interests
 
-- Interview data - Fi and Ma - talk of the way they incorporate interests of trains into the game.
+
+### Narratives and aesthetics of Games driven by Home Interests
 <!--
 also in [erikssonUsingGameplayDesign2019;] -->
 
-As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites.
-Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
+As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites. Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
 
 The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
-One pair Ch and Pa the grandparents of Te, included narrative text at the start of their game which explained their choice of graphical elements.
+One pair Ch and Pa the grandparents of Te, included a narrative at the start of their game which explained their choice of graphical elements and provided instructions to users. The code contained the following text.
 
      var starttext = "This is a game which pits a honey bee
      against a swarm of Asian hornets,
@@ -130,13 +126,13 @@ One pair Ch and Pa the grandparents of Te, included narrative text at the start 
               Press return to START.";
 
 
-In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
 
    zi: Have you done amazing things?
 
 The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
 
-The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game.
+The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
 
 Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
 
@@ -151,33 +147,66 @@ Participants Ma and Fi designed one game around the characters of a train driver
     FI: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
     ....
     Ma: What is your aspiration for your life?
-    Fi: I wanna be a fireman.
-    Ma: On a...
-    Fa: Train.
-    Ma: Steam train.
+    Fi: I wanna be a fireman (on a steam train).
     ...
     Fi: I really like trains, since like I was very, very young.
 
     Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
     Ma: I think it excited you to have to build a fireman sprite? Is that right?
-    Fi: Yeah?
+    Fi: Yeah.
     Ma: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
     Fi:  Yeah.
     Ma: Because the whole theme of it. Just I know just you're eyes lit up when you realised you could expand your interests into gaming.
 
 
-
-
-In an interview exchange this pair
-NOTE ADD IN EXCHANGE FROM INTERVIEW ABOUT INCOPORATING INTERESTS Fi and Ma
-
 <!-- NOTE
 NARRATIVE / drama IN PREVIOUS CHAPTER?
 how do these two sections work together? remove this one?
  -->
-While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways.
+While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways. The following section examines use of game assets and styles of making.
+
+### Other personal expressions
+
+This is a very compressed section.
+
+#### Visual assets
+There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
+
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, etc.
+
+Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum,
+
+While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. 
+
+In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
+
+In this exerpt parent Mi has spent
+
+    St:  That's Good!
+    Mi: Oh do you like it?
+    St: Yeah
+    Mi: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
+    St: Yeah
+    Mi: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
+    - Both laugh.
+    St: So are you going to do bits at home? When the kids are..
+    Mi: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours ....
+    Laughs
+
+    Mi - Lost time. Never mind.  We live and we learn.   
+
+    Mi – We’re finished.
+
+    Mi  - Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
+    St – Have you saved it?
+    Mi – No I’ve not saved it.
+    St – Save there. (points to relevant button on screen)
+
+We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
 
 
+#### Different styles of making
+PERHAPS IN DESING SECTION - BUT TRY HERE FIRST
 
 <!-- #### Circulation of peers and helpers
 
