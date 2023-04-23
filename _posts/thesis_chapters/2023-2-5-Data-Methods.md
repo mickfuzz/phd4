@@ -105,9 +105,13 @@ This section explores some of the designed and emerging processes that facilitat
 
 It finds existing research and gaps within it in terms of how the use of home funds of knowledge facilitate the adoption of design and coding practices.
 
-<!-- NOTE - research notes include 
+<!-- NOTE - research notes include
 - how agency can be viewed in this domain,
-- increasing persistance / determination due to ownership of game  -->
+- increasing persistance / determination due to ownership of game
+Gee - projected identity
+Papert & Resnick & Kafai - ownership
+Papert & Turkle - Turkle closeness to objects
+ -->
 
 
 ### Narratives and aesthetics of Games driven by Home Interests
