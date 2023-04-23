@@ -103,6 +103,12 @@ This section briefly examines this subject in data collected and comments on how
 
 This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
 
+It finds existing research and gaps within it in terms of how the use of home funds of knowledge facilitate the adoption of design and coding practices.
+
+<!-- NOTE - research notes include 
+- how agency can be viewed in this domain,
+- increasing persistance / determination due to ownership of game  -->
+
 
 ### Narratives and aesthetics of Games driven by Home Interests
 <!--
@@ -172,11 +178,11 @@ This is a very compressed section.
 #### Visual assets
 There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
 
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, etc.
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc.
 
 Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum,
 
-While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. 
+While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY.
 
 In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
 
