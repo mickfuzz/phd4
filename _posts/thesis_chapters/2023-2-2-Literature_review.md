@@ -249,9 +249,14 @@ case studies / genres
 
 ### Mantle of the Expert (and drama processes games)
 
-The salient features of Mo E
-look at patterson article [@caldwell_drama_2019]
-and Rainer chatper [@rainer_drama_2012]
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013]. 
+
+Rainer chatper [@rainer_drama_2012] also highlights authenticity.
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+
 
 focus on authenticity, especially with ICT.
 needs interest and object interests
