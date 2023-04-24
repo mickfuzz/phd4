@@ -816,34 +816,34 @@ To address this, this section looks as some of the emerging patterns which compl
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
- ## The impact of playing games and ongoing play-testing - move to Design
+## The impact of playing games and ongoing play-testing - move to Design
 
- <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
+<!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
- For participants, playtesting provided a diversity of community-building behaviour.
- Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
+For participants, playtesting provided a diversity of community-building behaviour.
+Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
 
- Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
- - praising graphical content
- - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+- praising graphical content
+- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
- ## Game playing at start of program - no observations but sets context
+## Game playing at start of program - no observations but sets context
 
- Find examples
+Find examples
 
- #### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+#### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
 
- Find examples
+Find examples
 
- #### Play testing - and embodied participation in the games of others.
+#### Play testing - and embodied participation in the games of others.
 
- study the body language of those play testing games.
- what is there ? - included
+study the body language of those play testing games.
+what is there ? - included
 
- - wrestling for control
- - movement around the room between screens
- - calling across room
- - clustering, remaining on outskirts.
+- wrestling for control
+- movement around the room between screens
+- calling across room
+- clustering, remaining on outskirts.
 
 
 
