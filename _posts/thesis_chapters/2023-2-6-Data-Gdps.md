@@ -499,7 +499,22 @@ game. There is a parallel here to play theory which identifies the value of play
 These range of use of supporting documents from code examples, bespoke step by step examples and the use of professional practices and documentation,
 COMPLETE -->
 
+#### Accessing online, professional/community documentation
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+
+
+
 The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
+
+
+
 
 ## The use of GDPs examined from an interpersonal focus
 
