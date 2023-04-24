@@ -745,6 +745,16 @@ SEARCH AND INCLUDE HERE - An extract from interview with Da?" to support some of
 <!-- TRANSITION - Te and Da - have a very typical guided apprenticeship -->
 
 
+#### Accessing online, professional/community documentation - MOVED HERE
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
 ## Interpersonal Focus (Guided Participation)
 

@@ -9,8 +9,27 @@ layout: post
 categories: chapter
 title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
-
 -   [Introduction](#introduction)
+-   [Addressing use of home funds of knowledge as a way to bootstrap
+    agency](#addressing-use-of-home-funds-of-knowledge-as-a-way-to-bootstrap-agency)
+    -   [Narratives and aesthetics of Games driven by Home
+        Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
+    -   [Other personal expressions](#other-personal-expressions)
+        -   [Visual assets](#visual-assets)
+        -   [Different styles of making](#different-styles-of-making)
+        -   [Tactical use of in-session support
+            time](#tactical-use-of-in-session-support-time)
+        -   [Accessing online, professional/community
+            documentation](#accessing-online-professionalcommunity-documentation)
+        -   [Tactics in accessing help from peers and
+            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators)
+        -   [Division of Labour - code patching and
+            experimentation](#division-of-labour---code-patching-and-experimentation)
+-   [Discussion in Relation to Existing
+    Research](#discussion-in-relation-to-existing-research)
+    -   [Tensions associated with sharing of personal experiences,
+        identity and preferences
+        (cultural) -](#tensions-associated-with-sharing-of-personal-experiences-identity-and-preferences-cultural--)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
     -   [Vignette - Starting the Alien Drama of the
         Weean.](#vignette---starting-the-alien-drama-of-the-weean.)
@@ -19,10 +38,6 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         process](#additional-data-on-alien-drama-process)
     -   [Evidence of impact of the alien drama in interview data and
         recordings](#evidence-of-impact-of-the-alien-drama-in-interview-data-and-recordings)
--   [The impact of playing games and ongoing
-    play-testing](#the-impact-of-playing-games-and-ongoing-play-testing)
--   [Game playing at start of program - no observations but sets
-    context](#game-playing-at-start-of-program---no-observations-but-sets-context)
 -   [The impact of tools, documentation and emerging technical
     processes](#the-impact-of-tools-documentation-and-emerging-technical-processes)
     -   [Impact of Code Playgrounds and Phaser and a Javascript
@@ -30,27 +45,46 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Guided Code Patching](#guided-code-patching)
     -   [On Debugging and Embracing Different Types of
         Errors](#on-debugging-and-embracing-different-types-of-errors)
--   [Personal expression - Funds of
-    Knowledge](#personal-expression---funds-of-knowledge)
-    -   [Building Identities as Game
-        Makers](#building-identities-as-game-makers)
-    -   [Narratives and aesthetics of Games driven by Home
-        Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
-    -   [Visual asset creation and
-        selection](#visual-asset-creation-and-selection)
-    -   [Discussion on asset creation and sharing of personal
-        experiences, identity and
-        preferences](#discussion-on-asset-creation-and-sharing-of-personal-experiences-identity-and-preferences)
+        -   [Syntax and Program errors vs No
+            Behaviour](#syntax-and-program-errors-vs-no-behaviour)
+        -   [Examples of Glitch types of
+            errors](#examples-of-glitch-types-of-errors)
+        -   [Discussion on Errors](#discussion-on-errors)
+        -   [Implications when design for participation in coding
+            community](#implications-when-design-for-participation-in-coding-community)
 -   [Design stages or flexible design
     practices](#design-stages-or-flexible-design-practices)
     -   [Shifts in design practice](#shifts-in-design-practice)
+        -   [Alternating coding](#alternating-coding)
+        -   [**Shifting between Facilitator and more active
+            partner**](#shifting-between-facilitator-and-more-active-partner)
+        -   [**Rapid prototyping**](#rapid-prototyping)
     -   [Other emerging design
         processes](#other-emerging-design-processes)
+        -   [Tactical use of in-session support
+            time](#tactical-use-of-in-session-support-time-1)
+        -   [Accessing online, professional/community
+            documentation](#accessing-online-professionalcommunity-documentation-1)
+        -   [Tactics in accessing help from peers and
+            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators-1)
+        -   [Division of Labour - code patching and
+            experimentation](#division-of-labour---code-patching-and-experimentation-1)
     -   [Discussion on how design (not GDP) supports flexible design
         practices -](#discussion-on-how-design-not-gdp-supports-flexible-design-practices--)
+        -   [The limits of design cycle
+            stages](#the-limits-of-design-cycle-stages)
+        -   [Value Faff Time.](#value-faff-time.)
+        -   [Improving is Creating and Planning when
+            remixing](#improving-is-creating-and-planning-when-remixing)
+        -   [Digital Jamming](#digital-jamming)
+        -   [Discussion - encouraging improvisation in the design
+            process.](#discussion---encouraging-improvisation-in-the-design-process.)
+        -   [Example: Fluidity of design
+            practice](#example-fluidity-of-design-practice)
 -   [Discussion - Overcoming Tensions and Blockages related to Culture
     and
     Affect](#discussion---overcoming-tensions-and-blockages-related-to-culture-and-affect)
+
 
 
 <!-- ## Overview in points
@@ -81,11 +115,9 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter addresses inclusive methods .
- Specifically observable responses to design interventions and resulting discussions.
+This chapter addresses observable responses to design interventions and resulting discussions through the lens of learner agency and authenticity of learning community context.
 
-I examine key areas of the learning design through the lens of learner agency and authenticity of learning community context.
-The use of ap
+NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH.
 
 **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
@@ -188,6 +220,8 @@ Ideally look for evidence of sharing in communities, especially developing proce
 
 While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY.
 
+NOTE - SIMILAR TO GDP DRIVING TECHNICAL PROCESSES IN NEXT CHAPTER - PERHAPS SHIFT? 
+
 In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
 
 In this exerpt parent Mi has spent
@@ -233,9 +267,9 @@ In the emerging community there was a variety of help available including;
 - Student Helper attention and help
 - Peer support from parents and children -->
 
-#### Tactical use of in-session support time
+<!-- #### Tactical use of in-session support time
 
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
 
 #### Accessing online, professional/community documentation
 
@@ -249,7 +283,7 @@ Discussion. There are pros and cons stepping outside that garden. Confusion, con
 NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
 
-#### Tactics in accessing help from peers and facilitators
+<!-- #### Tactics in accessing help from peers and facilitators
 
 A common teacher tactic is ask three then me.
 
@@ -261,18 +295,12 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Student helper to get online,
 - Peer parent about use of piskel, and then her son
 - Ne daughter
-- Mick overall facilitator
+- Mick overall facilitator -->
 
 
-#### Division of Labour - code patching and experimentation
-
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
-
-The documentation leads to a page with code examples.
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
 
 
-## Discussion in Relation to Existing Research
+### Discussion in Relation to Existing Research
 
 Make links and try to develop knowledge inline with...
 See summary at start of the chapter.
@@ -691,6 +719,12 @@ NOTE - Preceeding To follow shifts in perspectives bound up in designing for oth
 
 This section explores what other shifts in design practices
 
+#### Division of Labour - code patching and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+The documentation leads to a page with code examples.
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
 
 
 #### Alternating coding
