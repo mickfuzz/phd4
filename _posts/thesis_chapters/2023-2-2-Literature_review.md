@@ -250,23 +250,22 @@ case studies / genres
 ### Mantle of the Expert (and drama processes games)
 
 The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013]. 
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
 
-Rainer chatper [@rainer_drama_2012] also highlights authenticity.
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
-
-
-
-focus on authenticity, especially with ICT.
-needs interest and object interests
-and the creative work of the facilitator to align them
-some work on metacognition.
-
-Coding in role / in action
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
 
 Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
 
-Examples of used with media / coding / computing
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
 
 ### 5th dimension
