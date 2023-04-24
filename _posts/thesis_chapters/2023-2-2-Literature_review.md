@@ -263,13 +263,15 @@ On the other end of the spectrum is the desire to bring open-ended practices int
 
 Overall challenge of promise of Participatory Culture - In one regard the kind of collaboration seen in PC could be seen a much more individualised process than the collective or cooperative work described by Dillenbourg (joint problem spaces), more of community participation than actually collaboration. However such an interpretation would neglect the possibilities of online tools and processes to facilitate the kind of Joint Problem Space described earlier.
 
-The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input, Kirschner et al., 2006; Kollar et al., 2006). I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling and replicability of game making education projects.
 
-**Complexity of Roles & Scaling -**
+**Building learner identities to address Inequalities**
 
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home.
+One significant element of in this process is learner perception of their own limits.
+EXPLORE RESEARCH HERE.
 
-We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
+
+
+
 
 
 **Studies exploring identity and barriers to participation**
@@ -283,6 +285,14 @@ The issues of gender stereo-typing and identity in relation to computers were ex
 
 Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
+
+**Roles and practices to support learners**
+
+The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input, Kirschner et al., 2006; Kollar et al., 2006). I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home.
+
+We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
 ## Examples informal community creation in practice and research
 
