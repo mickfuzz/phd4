@@ -203,7 +203,7 @@ While these pairs had the most clear links to home interests in terms of a guidi
 
 ### Personal expression via visual assets
 
-NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION? 
+NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION?
 
 There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
 
@@ -497,6 +497,18 @@ Justify including these reflections.
 - as a way to bring attention to an imagined audience. I reference that the games are online.
 ``
 
+### Discussion of the process drama
+
+Examine MoE and this process drama through
+Turn to authenticity of the tools involved.
+Compare Heathcote's approach to tools to this learning design
+
+The next section examines inpact of relatively authentic toolset.
+
+In this sense, there is a high degree of authenticity made possible by the digital nature of the learning resources.
+But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
+
+
 ## The impact of tools, documentation and emerging technical processes
 
 This section looks in greater depth at the impact on learners of the design explored in the previous chapter.
@@ -586,11 +598,11 @@ Question - what impact does the process of being driven by GDPs have on how user
 Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
 
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
-
-
  -->
 
- ### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
+### Building Identities as Game Makers
+
+NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
 
  My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
@@ -671,10 +683,10 @@ In the data analysed, young people
 
 <!-- Perhaps move later after GDP chapter?  -->
 
-**Limitation of asset work as a GDP**
+<!-- **Limitation of asset work as a GDP**
 Note the limits of this interpretation
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
-A tension here to be briefly explored or noted to explore later.
+A tension here to be briefly explored or noted to explore later. -->
 
 
 <!-- #### Circulation of peers and helpers
