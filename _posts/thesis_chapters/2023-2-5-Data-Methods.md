@@ -202,6 +202,9 @@ how do these two sections work together? remove this one?
 While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways. The following section examines use of game assets and styles of making.
 
 ### Personal expression via visual assets
+
+NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION? 
+
 There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc.
@@ -308,7 +311,7 @@ His work explores the role of the design of games and the surrounding communitie
 
 In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
 
-The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four. 
+The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
 
 
 

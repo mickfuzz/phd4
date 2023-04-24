@@ -34,13 +34,15 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
     - informal/ formal / non-formal  - a spectrum
     - communities of learners and practice
     - PBL, UBL and other semi-formal interventions    
-  - Examples informal community creation in practice and research
-    - 5th dimension
-    - Mantle of the Expert (and drama processes games)
-  - Examples in existing game making practice and researched programs
+  - Informal, participatory game making communities
     - Game playing and making communities - community activities around the game Gee / Ito
     - Games as funds of knowledge
-    - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
+    - Inequality of access to participatory culture - ITO
+  - Examples informal community creation in practice and research
+      - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
+      - 5th dimension
+      - Mantle of the Expert (and drama processes games)
+
   - Tools and Concepts & Terminology  - see glossary at end
       - Code playgrounds
       - Game Design Patterns
@@ -50,6 +52,8 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
   - Conceptions of agency in community learning interventions
     - relational, tas and tads (perhaps develop in methodology chapter)
 
+
+<!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
 
 The aims of this literature review:
 
@@ -241,6 +245,43 @@ New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsin
 - Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
 - Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
 - Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+
+
+##  Informal, participatory game making communities
+
+
+###  Game playing and making communities - community activities around the game Gee / Ito
+
+Games are funds of knowledge
+
+
+### Inequality of access to participatory culture communities
+
+In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities 2010). Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects Luther et al., 2010).
+
+On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
+
+Overall challenge of promise of Participatory Culture - In one regard the kind of collaboration seen in PC could be seen a much more individualised process than the collective or cooperative work described by Dillenbourg (joint problem spaces), more of community participation than actually collaboration. However such an interpretation would neglect the possibilities of online tools and processes to facilitate the kind of Joint Problem Space described earlier.
+
+The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input, Kirschner et al., 2006; Kollar et al., 2006). I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling and replicability of game making education projects.
+
+**Complexity of Roles & Scaling -**
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home.
+
+We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
+
+
+**Studies exploring identity and barriers to participation**
+
+Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
+REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.  
+
+To address the issue of girl's low self-confidence in the area of computing compared to their ability Beyer et al., 2003; Margolis and Fisher, 2002), extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests Robertson, 2013, 2012). The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future. The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
 
 ## Examples informal community creation in practice and research
