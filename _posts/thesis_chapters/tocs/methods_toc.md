@@ -5,17 +5,8 @@
         Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
     -   [Other personal expressions](#other-personal-expressions)
         -   [Visual assets](#visual-assets)
-        -   [Different styles of making](#different-styles-of-making)
-        -   [Tactical use of in-session support
-            time](#tactical-use-of-in-session-support-time)
-        -   [Accessing online, professional/community
-            documentation](#accessing-online-professionalcommunity-documentation)
-        -   [Tactics in accessing help from peers and
-            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators)
-        -   [Division of Labour - code patching and
-            experimentation](#division-of-labour---code-patching-and-experimentation)
--   [Discussion in Relation to Existing
-    Research](#discussion-in-relation-to-existing-research)
+    -   [Discussion in Relation to Existing
+        Research](#discussion-in-relation-to-existing-research)
     -   [Tensions associated with sharing of personal experiences,
         identity and preferences
         (cultural) -](#tensions-associated-with-sharing-of-personal-experiences-identity-and-preferences-cultural--)
@@ -44,6 +35,8 @@
 -   [Design stages or flexible design
     practices](#design-stages-or-flexible-design-practices)
     -   [Shifts in design practice](#shifts-in-design-practice)
+        -   [Division of Labour - code patching and
+            experimentation](#division-of-labour---code-patching-and-experimentation)
         -   [Alternating coding](#alternating-coding)
         -   [**Shifting between Facilitator and more active
             partner**](#shifting-between-facilitator-and-more-active-partner)
@@ -51,11 +44,11 @@
     -   [Other emerging design
         processes](#other-emerging-design-processes)
         -   [Tactical use of in-session support
-            time](#tactical-use-of-in-session-support-time-1)
+            time](#tactical-use-of-in-session-support-time)
         -   [Accessing online, professional/community
-            documentation](#accessing-online-professionalcommunity-documentation-1)
+            documentation](#accessing-online-professionalcommunity-documentation)
         -   [Tactics in accessing help from peers and
-            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators-1)
+            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators)
         -   [Division of Labour - code patching and
             experimentation](#division-of-labour---code-patching-and-experimentation-1)
     -   [Discussion on how design (not GDP) supports flexible design

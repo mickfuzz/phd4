@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
+
 -   [Introduction](#introduction)
 -   [Addressing use of home funds of knowledge as a way to bootstrap
     agency](#addressing-use-of-home-funds-of-knowledge-as-a-way-to-bootstrap-agency)
@@ -16,17 +17,8 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         Interests](#narratives-and-aesthetics-of-games-driven-by-home-interests)
     -   [Other personal expressions](#other-personal-expressions)
         -   [Visual assets](#visual-assets)
-        -   [Different styles of making](#different-styles-of-making)
-        -   [Tactical use of in-session support
-            time](#tactical-use-of-in-session-support-time)
-        -   [Accessing online, professional/community
-            documentation](#accessing-online-professionalcommunity-documentation)
-        -   [Tactics in accessing help from peers and
-            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators)
-        -   [Division of Labour - code patching and
-            experimentation](#division-of-labour---code-patching-and-experimentation)
--   [Discussion in Relation to Existing
-    Research](#discussion-in-relation-to-existing-research)
+    -   [Discussion in Relation to Existing
+        Research](#discussion-in-relation-to-existing-research)
     -   [Tensions associated with sharing of personal experiences,
         identity and preferences
         (cultural) -](#tensions-associated-with-sharing-of-personal-experiences-identity-and-preferences-cultural--)
@@ -55,6 +47,8 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
 -   [Design stages or flexible design
     practices](#design-stages-or-flexible-design-practices)
     -   [Shifts in design practice](#shifts-in-design-practice)
+        -   [Division of Labour - code patching and
+            experimentation](#division-of-labour---code-patching-and-experimentation)
         -   [Alternating coding](#alternating-coding)
         -   [**Shifting between Facilitator and more active
             partner**](#shifting-between-facilitator-and-more-active-partner)
@@ -62,11 +56,11 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Other emerging design
         processes](#other-emerging-design-processes)
         -   [Tactical use of in-session support
-            time](#tactical-use-of-in-session-support-time-1)
+            time](#tactical-use-of-in-session-support-time)
         -   [Accessing online, professional/community
-            documentation](#accessing-online-professionalcommunity-documentation-1)
+            documentation](#accessing-online-professionalcommunity-documentation)
         -   [Tactics in accessing help from peers and
-            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators-1)
+            facilitators](#tactics-in-accessing-help-from-peers-and-facilitators)
         -   [Division of Labour - code patching and
             experimentation](#division-of-labour---code-patching-and-experimentation-1)
     -   [Discussion on how design (not GDP) supports flexible design
@@ -207,11 +201,7 @@ how do these two sections work together? remove this one?
  -->
 While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways. The following section examines use of game assets and styles of making.
 
-### Other personal expressions
-
-This is a very compressed section.
-
-#### Visual assets
+### Personal expression via visual assets
 There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc.
@@ -220,7 +210,7 @@ Ideally look for evidence of sharing in communities, especially developing proce
 
 While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY.
 
-NOTE - SIMILAR TO GDP DRIVING TECHNICAL PROCESSES IN NEXT CHAPTER - PERHAPS SHIFT? 
+NOTE - SIMILAR TO GDP DRIVING TECHNICAL PROCESSES IN NEXT CHAPTER - PERHAPS SHIFT?
 
 In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
 
@@ -249,14 +239,11 @@ In this exerpt parent Mi has spent
 We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
 
 
-#### Different styles of making
-PERHAPS IN DESING SECTION - BUT TRY HERE FIRST
-
+<!-- #### Different styles of making
+PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
 <!-- #### Circulation of peers and helpers
-
 This often facilitates talk aloud of design decisions and justifications.
 Cross reference playtesting -->
-
 <!-- ### Accessing Help and Documentation
 
 In the emerging community there was a variety of help available including;
@@ -270,18 +257,6 @@ In the emerging community there was a variety of help available including;
 <!-- #### Tactical use of in-session support time
 
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
-
-#### Accessing online, professional/community documentation
-
-Toby and Dan - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
-
 
 <!-- #### Tactics in accessing help from peers and facilitators
 
@@ -297,25 +272,16 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Ne daughter
 - Mick overall facilitator -->
 
-
-
-
 ### Discussion in Relation to Existing Research
 
 Make links and try to develop knowledge inline with...
 See summary at start of the chapter.
 
-
-### Tensions associated with sharing of personal experiences, identity and preferences  (cultural) -
+#### Tensions associated with sharing of personal experiences, identity and preferences  (cultural) -
 
 In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
 
-As we explored in the introduction and literature review, the ability to incorporate the following elements into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
-
-- design graphics
-- audio assets
-- narrative elements
-- physical computing
+As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
 
 <!-- Recap from Lit Review / Intro -->
 
@@ -324,18 +290,30 @@ However these processes can expose and deepen key tensions identified in the _de
 - time on asset design can detract from systemic and learning code concepts and syntax.
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
 - tension of a walled garden approach vs responding to freer design choices
-- list others, draw on Roque, Kafai and Papert
 
-This particularly salient to game making in a community context. As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+This particularly salient to game making in a community context.
+
+As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
 
 - propagation of assets..
 - pride sharing back?
 - value of feedback, asset creation as a speciality
 
+**Link Section**
+
+The process of creating assets builds in Mi the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".
+As explored in literature review the possiblity to change and to play with identity is important in the work of Gee.
+
+His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
+
+In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
+
+The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four. 
+
+
 
 <!--
 NARROW THIS DOWN
-
 The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review. -->
 
 <!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
@@ -394,14 +372,11 @@ Relevant theory / studies.
 - AT theory for sub missions, in preparation for chapter on main mission / unit of activity
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
-
-
 ## Scenarios - drama processes
 
 ### Vignette - Starting the Alien Drama of the Weean.
 
 This sections starts with a vignette of the start of an game making programme. The purpose of the vignette is to situate the reader, give an overview of
-
 
 It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
 
@@ -488,6 +463,7 @@ The final part of this vignette gives an overview of the different kinds of docu
 **Motivations of the social challenges / missions**
 
 In the transcript there is the mention and some examples of some of the missions given by the aliens.
+
 This came as a result of analysis of interactions during game making.
 <!-- Examples of interactions? Some kind of coded data? -->
 
@@ -504,7 +480,6 @@ Partly through observation of social coding of people like Mi.
 <!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
 Here we are looking at something cultural?? -->
-
 
 
 ### Evidence of impact of the alien drama in interview data and recordings
@@ -563,7 +538,7 @@ In making decisions like the one to include extra visual scaffolding in step by 
 
   During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 
-### On Debugging and Embracing Different Types of Errors
+<!-- ### On Debugging and Embracing Different Types of Errors
 
 NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
 
@@ -610,6 +585,16 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
 
+ -->
+
+ ### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
+
+ My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
 
 <!--
