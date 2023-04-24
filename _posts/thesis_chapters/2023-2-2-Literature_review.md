@@ -241,3 +241,22 @@ New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsin
 - Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
 - Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
 - Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+
+
+## Examples informal community creation in practice and research
+
+case studies / genres
+
+### Mantle of the Expert (and drama processes games)
+
+The salient features of Mo E
+look at patterson article
+
+focus on authenticity
+needs interest and object interests
+and the creative work of the facilitator to align them
+some work on metacognition.
+
+Examples of used with media / coding / computing
+
+### 5th dimension
