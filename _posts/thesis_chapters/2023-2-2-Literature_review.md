@@ -250,9 +250,10 @@ case studies / genres
 ### Mantle of the Expert (and drama processes games)
 
 The salient features of Mo E
-look at patterson article
+look at patterson article [@caldwell_drama_2019]
+and Rainer chatper [@rainer_drama_2012]
 
-focus on authenticity
+focus on authenticity, especially with ICT. 
 needs interest and object interests
 and the creative work of the facilitator to align them
 some work on metacognition.
