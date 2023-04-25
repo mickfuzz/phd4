@@ -122,14 +122,7 @@ Like swimming in a protected pool rather than in the sea.
 
 ## Addressing use of home funds of knowledge as a way to bootstrap agency
 
-This section briefly examines this subject in data collected and comments on how my observations tally with existing research.
-
-- visual asset creation
-- use of narratives
-
-This section explores some of the designed and emerging processes that facilitate the use of home funds of knowledge in this making environment.
-
-It finds existing research and gaps within it in terms of how the use of home funds of knowledge facilitate the adoption of design and coding practices.
+The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices.
 
 <!-- NOTE - research notes include
 - how agency can be viewed in this domain,
@@ -138,11 +131,6 @@ Gee - projected identity
 Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
-
-
-### Narratives and aesthetics of Games driven by Home Interests
-<!--
-also in [erikssonUsingGameplayDesign2019;] -->
 
 As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites. Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
 
@@ -170,29 +158,11 @@ The exchange seems to throw Pa but they draw Zi's attention back to the game. Sh
 
 The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
 
-Participants Ma and Fi designed one game around the characters of a train driver that needed to collect coal.
+Participants Mark and Ed designed one game around the characters of a
+train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
+"I know just your eyes lit up when you realised you could expand your interests into gaming."
 
-
-    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
-    Ma - Oh, definitely. Yeah.
-    Mi: Let's ask Fi that as well.
-    Ma: Yeah.
-    Mi: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
-    Fi: Yeah. The Fireman.
-    Ma: Yeah, well, tell us about that game. Tell about your interests and stuff?
-    FI: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
-    ....
-    Ma: What is your aspiration for your life?
-    Fi: I wanna be a fireman (on a steam train).
-    ...
-    Fi: I really like trains, since like I was very, very young.
-
-    Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
-    Ma: I think it excited you to have to build a fireman sprite? Is that right?
-    Fi: Yeah.
-    Ma: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
-    Fi:  Yeah.
-    Ma: Because the whole theme of it. Just I know just you're eyes lit up when you realised you could expand your interests into gaming.
+See fuller extract in Appendix 4.x
 
 
 <!-- NOTE
@@ -220,14 +190,14 @@ In one exchange we can see the growing sense of ownership and sharing helps deve
 In this exerpt parent Mi has spent
 
     St:  That's Good!
-    Mi: Oh do you like it?
+    Mick: Oh do you like it?
     St: Yeah
-    Mi: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
+    Mick: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
     St: Yeah
-    Mi: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
+    Mick: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
     - Both laugh.
     St: So are you going to do bits at home? When the kids are..
-    Mi: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours ....
+    Mick: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours ....
     Laughs
 
     Mi - Lost time. Never mind.  We live and we learn.   
@@ -984,16 +954,58 @@ A bullet point summary follows
 - getting help from all sources possible -->
 
 
-## Discussion - Overcoming Tensions and Blockages related to Culture and Affect
+## Upbeat Summary of the work exploring tensions and blockages related to culture, identity and affect
 
-A tension outlined in the literature are barriers to coding and complex digital practice. A common perspective being I can be paraphrased as *I'm not that sort of person *(explored in lit review). My starting thoughts for this program to address this barrier included the following perspectives:
+A tension outlined in the literature are barriers to coding and complex digital practice. A common perspective being I can be paraphrased as
+"I'm not that sort of person" (explored in lit review). My starting thoughts for this program to address this barrier included the following perspectives:
 
--   The premise of family game making, of completing projects together with your parents or siblings has potential to remove the *I'm not that sort of person *barrier of cultural identity as participants are surrounded by their people. -   In a large majority of cases game playing has high exposure for parents and grand-parents (either directly or through other family members). The choice of retro (arcade / first generation) games as a medium maximises this familiarity. -   The choice of toolsets to allow participants to bring their own family interests and explore issues being discussed in the home life helps participants to draw on home funds of knowledge and discourse while learning unfamiliar processes Moll et al., 1992). -   The use of regular physical / drama games and physical making activities may reduce anxiety associated with new language acquisition Krashen, 1982) (in this case the technical terminology).
+-   The premise of family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people.
+
+-   In a large majority of cases game playing has high exposure for parents and grand-parents (either directly or through other family members). The choice of retro (arcade / first generation) games as a medium maximises this familiarity.
+-   The choice of toolsets to allow participants to bring their own family interests and explore issues being discussed in the home life helps participants to draw on home funds of knowledge and discourse while learning unfamiliar processes Moll et al., 1992).
+-   The use of regular physical / drama games and physical making activities may reduce anxiety associated with new language acquisition Krashen, 1982) (in this case the technical terminology).
 
 Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points. The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
 
 I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. The incident lead me to greater reflection on ongoing measures needed to prevent participant drop out for due to cultural tensions and negative affect to the working community. These include:
 
--   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued. -   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions. -   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
+-   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
+-   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
+-   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
 
-These observations were in part resolved by previously discussed issues including the more egalitarian and accessible pathways to making resources and navigating their learning. I also adapted my sessions to ensure a consistency of non-digital and playful activities. The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program.
+These observations were in part resolved by previously discussed issues including the more egalitarian and accessible pathways to making resources and navigating their learning. I also adapted my sessions to ensure a consistency of non-digital and playful activities.
+
+<!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
+
+### Link section to next chapter
+
+
+
+This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements.
+
+
+## Appendices of this chapter_
+
+### Appendix 4.x  - Extract of interview with Mark and Ed.
+
+
+    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
+    Ma - Oh, definitely. Yeah.
+    Mick: Let's ask Fi that as well.
+    Mark: Yeah.
+    Mick: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
+    Ed: Yeah. The Fireman.
+    Mark: Yeah, well, tell us about that game. Tell about your interests and stuff?
+    Ed: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
+    ....
+    Mark: What is your aspiration for your life?
+    Ed: I wanna be a fireman (on a steam train).
+    ...
+    Ed: I really like trains, since like I was very, very young.
+
+    Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
+    Mark: I think it excited you to have to build a fireman sprite? Is that right?
+    Ed: Yeah.
+    Mark: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
+    Ed:  Yeah.
+    Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
