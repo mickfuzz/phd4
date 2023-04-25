@@ -196,7 +196,7 @@ In this exerpt parent Molly has spent time creating a pixel art representation o
 We can see Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge.
 This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
 
-The aspect of pattern completion driving technical process adoption is explored in the next chapter. 
+The aspect of pattern completion driving technical process adoption is explored in the next chapter.
 
 <!-- #### Different styles of making
 PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
@@ -233,22 +233,16 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 
 ### Discussion in Relation to Existing Research
 
-Make links and try to develop knowledge inline with...
-See summary at start of the chapter.
 
-#### Tensions associated with sharing of personal experiences, identity and preferences  (cultural) -
-
-In the previous example Ch was able to draw on his home knowledge of games and game culture. This section widens focus to also examine the intersection of GDP and of non-gaming experiences.
-
-As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc];
+<!-- As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc]; -->
 
 <!-- Recap from Lit Review / Intro -->
 
-However these processes can expose and deepen key tensions identified in the _design chapter_ and in the literature review. Namely;
+While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ and in the literature review. Namely;
 
 - time on asset design can detract from systemic and learning code concepts and syntax.
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
-- tension of a walled garden approach vs responding to freer design choices
+<!-- - tension of a walled garden approach vs responding to freer design choices -->
 
 This particularly salient to game making in a community context.
 
