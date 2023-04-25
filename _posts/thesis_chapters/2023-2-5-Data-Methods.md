@@ -488,15 +488,17 @@ But some shepherding involved, screening from complexities, marshalling towards 
 
 ## The impact of tools, documentation and emerging technical processes - MERGE THIS WITH DESIGN PROCESSES BELOW
 
-This section looks in greater depth at the impact on learners of the tools and sugessted design patterns of the learning design explored in the previous chapter. It then progresses to explore some of the flexible design processes that emerge from the starting design.
+This section looks in greater depth at the impact on learners of the tools and sugested design patterns of the learning design explored in the previous chapter.
+It then progresses to explore some of the emerging and flexible design processes and tools that emerge from the starting design.
 
 #### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
 Above we explored Heathcote's understanding of the importance of authentic tools in the process MoE.
 
-
 ### Starting Tools and processes
 
 NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES
+
+The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. See the previous chapter for a recap.
 
 #### Impact of Code Playgrounds and Phaser and a Javascript framework
 
@@ -505,24 +507,55 @@ Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
  -->
 
-The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions.
-
-In the early selection of tools the use of a framework based on javascript and web technology is
-
+The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways.
 
 <!-- Bring out detail from the study to this section.
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
-<!-- ### Documentation Types
+#### Documentation via code examples and step-by-step tutorials
 
-#### Code Examples and Step By Step Tutorials
+<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
 
-Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive.
+At this phase there were two main sources of documentation; code examples, and tutorials. The implementation of the same game features but more closely integrated with the new starting code template used. These individual tutorials were directive in nature. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants.
 
- In phase 2 I began to write up the implementation of the same game features but more closely integrated with the new starting code template used. Thus these individual tutorials became much directive. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants. I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform Chesterman, 2019). -->
+NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP
 
-#### Implications when design for participation in coding community
+
+#### Guided Code Patching Process
+
+THERE IS DUPLICATION WITH PREVIOUS CHAPTER HERE - MOVE SOME OF IT - FOCUS HERE ON THE IMPACT - OBSERVABLE RESULTS
+
+In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+
+ ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+
+In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+ During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+
+#### Visual and Audio asset creation
+
+The initial impact is explored above - recap?
+
+#### Impact of play-testing
+
+ <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
+
+Playtesting was a part of the initial design and it also emerged
+NOTE THUS MAKE THIS A PIVOT POINT?
+
+There were a variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience. Playtesting appeared to be suited to allow a diversity of community-building behaviour.
+
+Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+ - praising graphical content
+ - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+
+ <!-- ## Game playing at start of program - no observations but sets context
+
+ Find examples -->
+
+#### Discussion on tools/processes when designing for agency / participation in new coding community
 
 To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
 
@@ -562,11 +595,11 @@ So while structured to avoid
 
 
 
-Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+<!-- Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
 This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
 
 **Tangled nature of graphics and narrative in this design**
-In the data analysed, young people
+In the data analysed, young people -->
 
 
 <!-- Perhaps move later after GDP chapter?  -->
@@ -590,26 +623,58 @@ In the emerging community there was a variety of help available including;
 - Peer support from parents and children -->
 
 
-### Flexible design practices / processes
-
-Surfacing maker types (as per player types) can encourage epistemological pluralism [Papert] or flexible design practices.
+### Emerging, flexible design practices / processes
 
 The process of facilitating for emerging learner identities and practices, via the processes and tools explored above, opens up flexibility in the way learners approach the design processes.
+
+My role as a facilitator rather than a instructor was key to this process as has been explored in other research  
+- Heathcote's take
+
+
+MOVE THIS NEXT BIT TO DESIGN AND REFER BACK?
+One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+
+
+#### Building Identities as Game Makers
+
+NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
+
+ My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+<!--
+### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
+
+In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
+
+The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
+
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
+
 
 
 <!-- NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
 This section explores what other shifts in design practices -->
-#### Guided Code Patching Process
 
-THERE IS DUPLICATION WITH PREVIOUS CHAPTER HERE - MOVE SOME OF IT - FOCUS HERE ON THE IMPACT - OBSERVABLE RESULTS
-
-In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
-
-  ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
-
-In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-  During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 
 <!-- ### On Debugging and Embracing Different Types of Errors
 
@@ -658,15 +723,24 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
  -->
 
-#### Division of Labour - code patching and experimentation
+#### Rapid prototyping
 
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
-The documentation leads to a page with code examples.
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+ - Well suited to build a repeated design practice.
+ - Especially with starting documents,
+ - Small changes had big effects.
+ - Variable changes needed immediate testing.  
+
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+
+A later discussion section in this chapter illustrates a more complex interaction with design stages.
+
+#### Division of Labour -
 
 
-#### Alternating coding
+Smaller subsections
+##### Alternating coding
 
 Sh and Th
 The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
@@ -674,7 +748,7 @@ The parent cedes the keyboard and mouse and sometimes swaps chairs to allow chil
 This follows a pattern of X   
 
 
-#### Shifting between Facilitator and more active partner
+##### Shifting between Facilitator and more active partner
 
 At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
 
@@ -682,63 +756,17 @@ Discussion drawing on more radical attempts to describe the best way to bring yo
 Perhaps in the field of participatory design.
 
 
-#### Rapid prototyping
+##### Code patching and experimentation
 
-As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
 
-- Well suited to build a repeated design practice.
-- Especially with starting documents,
-- Small changes had big effects.
-- Variable changes needed immediate testing.  
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind
+- perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
 
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
-
-A later discussion section in this chapter illustrates a more complex interaction with design stages.
-
-
-
-### Building Identities as Game Makers
-
-NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
-
- My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-
-<!--
-### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
-
-In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
-
-The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
-
-An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
-
-
-### Other emerging design processes
-
-#### Tactical use of in-session support time
-
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
 
 #### Accessing online, professional/community documentation
+
+The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
 
 Toby and Dan - Accessing documentation Phaser
 
@@ -750,10 +778,9 @@ Discussion. There are pros and cons stepping outside that garden. Confusion, con
 NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
 
-#### Tactics in accessing help from peers and facilitators
+#### Emerging tactics in accessing help from peers and facilitators
 
 A common teacher tactic is ask three then me.
-
 The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
 
 Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
@@ -764,20 +791,18 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Ne daughter
 - Mick overall facilitator
 
-
-#### Division of Labour - code patching and experimentation
-
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
-
-The documentation leads to a page with code examples.
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+Other pairs and individuals had other tactics.
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
 
 
-### Discussion on how design (not GDP) supports flexible design practices -
+
+### Discussion on flexible design practices -
 
 <!-- HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
 HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
+
+NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP
 
 Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
 
@@ -790,20 +815,6 @@ To address this, this section looks as some of the emerging patterns which compl
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
-### Impact of play-testing
-
-<!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
-
-For participants, playtesting provided a diversity of community-building behaviour.
-Also noticeable is the variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience.
-
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
-- praising graphical content
-- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
-
-<!-- ## Game playing at start of program - no observations but sets context
-
-Find examples -->
 
 #### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
 
