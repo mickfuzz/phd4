@@ -238,24 +238,23 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 
 <!-- Recap from Lit Review / Intro -->
 
-While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ and in the literature review. Namely;
+While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? )
 
 - time on asset design can detract from systemic and learning code concepts and syntax.
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
 <!-- - tension of a walled garden approach vs responding to freer design choices -->
 
-This particularly salient to game making in a community context.
-
-As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+<!-- As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
 
 - propagation of assets..
 - pride sharing back?
-- value of feedback, asset creation as a speciality
+- value of feedback, asset creation as a speciality -->
 
 **Link Section**
 
-The process of creating assets builds in Molly:the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".
-As explored in literature review the possiblity to change and to play with identity is important in the work of Gee.
+The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
+FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
+
 
 His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
 
@@ -396,7 +395,7 @@ And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
 
-### Commentary on Vignette
+### Commentary on Vignette part one
 
 <!-- q: How much to reference back to previous chapter? -->
 
@@ -420,12 +419,13 @@ In the transcript there is the mention and some examples of some of the missions
 This came as a result of analysis of interactions during game making.
 <!-- Examples of interactions? Some kind of coded data? -->
 
+NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
 Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
 
 <!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
 
-Partly through observation of social coding of people like Mi.
+
 
 <!-- Choices
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
@@ -435,17 +435,46 @@ describe the different kinds of interactions. But that is more interpersonal int
 Here we are looking at something cultural?? -->
 
 
-### Evidence of impact of the alien drama in interview data and recordings
-
-Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
+### Impact of the drama process on reflection
 
 **My reflections as a practioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
 
-Justify including these reflections.
+Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience
 
- - a way to decentre myself from the process of giving boundaries. I list boundaries. Similar to outlining the rules of a game. I am much more relaxed restricting choice in role, or via a proxy of a playful encounter.
+As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
+
+From my perspective, this technique added an additional advantage of distancing myself from the process of giving direct instructions as I was able to use the foil of the Weean.
+
+In my journal notes previously, I noticed that I was often reluctant to shift learners away from making activities to more structured reflective activities. With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
+
+These reflections are noteworthy as they provoke the following wider observations on the utility of this technique.  
+
+ The drama narrative provided a way to decentre the facilitator from the process of giving boundaries. When listing boundaries to activities it feels similar to outlining the rules of a game. As such less about controlling individuals and more about contracting into a gameful or playful experience.  I am much more relaxed restricting choice in role, or via a proxy of a playful encounter, other facilitators may feel the same. Heathcote's observations on this process posit that learners especially those resitant to authoritarian teaching techniques, appreciate the process of aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185]. 
+ SEE THE OBSERVATION ON THE CHAPTER ON AUTHE
+
+
 - as a way to bring attention to an imagined audience. I reference that the games are online.
 ``
+
+### Impact of the drama on encouraging flexible design practices via missions
+
+NOTE - THIS IS REVERSED IN ORDER - AS F
+
+
+
+The missions that were introduced as part of the drama narrative
+
+### Impact of live chat with the alien sessions
+
+As part of the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by
+
+Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
+
+
+
+### Discussion of the process drama
+
+
 
 ### Discussion of the process drama
 
@@ -459,29 +488,30 @@ In this sense, there is a high degree of authenticity made possible by the digit
 But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
 
 
-## The impact of tools, documentation and emerging technical processes
+## The impact of tools, documentation and emerging technical processes - MERGE THIS WITH DESIGN PROCESSES BELOW
 
-This section looks in greater depth at the impact on learners of the design explored in the previous chapter.
-It also explores some of the emerging technical processes that the group adopts.
+This section looks in greater depth at the impact on learners of the tools and sugessted design patterns of the learning design explored in the previous chapter. It then progresses to explore some of the flexible design processes that emerge from the starting design.
+
+
+### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
+
+Above we explored Heathcote's understanding of the importance of authentic tools in the process MoE.
 
 ### Impact of Code Playgrounds and Phaser and a Javascript framework
 
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
-
 Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
  -->
 
 The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions.
 
+In the early selection of tools the use of a framework based on javascript and web technology is
+
+
 <!-- Bring out detail from the study to this section.
-
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
-
-
-
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
-
 
 <!-- ### Documentation Types
 
@@ -550,39 +580,6 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
  -->
 
-### Building Identities as Game Makers
-
-NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
-
- My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-
-<!--
-### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
-
-In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
-
-The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
-
-An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
 
 #### Implications when design for participation in coding community
 
@@ -636,18 +633,15 @@ In the data analysed, young people
 <!-- **Limitation of asset work as a GDP**
 Note the limits of this interpretation
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
-A tension here to be briefly explored or noted to explore later. -->
+ tension here to be briefly explored or noted to explore later. -->
 
 
 <!-- #### Circulation of peers and helpers
-
 This often facilitates talk aloud of design decisions and justifications.
 Cross reference playtesting -->
 
 <!-- ### Accessing Help and Documentation
-
 In the emerging community there was a variety of help available including;
-
 - Written documentation from the learning design via step by step tutorials
 - A series of code examples in working code playgrounds
 - Facilitator help through asking for help
@@ -655,13 +649,11 @@ In the emerging community there was a variety of help available including;
 - Peer support from parents and children -->
 
 
-
-
 ## Design stages or flexible design practices
 
 Surfacing maker types (as per player types) can encourage epistemological pluralism [Papert] or flexible design practices.
 
-
+The process of facilitating for emerging learner identities and practices, via the processes and tools explored above, opens up flexibility in the way learners approach the design processes.
 
 ### Shifts in design practice
 
@@ -685,7 +677,7 @@ The parent cedes the keyboard and mouse and sometimes swaps chairs to allow chil
 This follows a pattern of X   
 
 
-#### **Shifting between Facilitator and more active partner**
+#### Shifting between Facilitator and more active partner
 
 At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
 
@@ -693,7 +685,7 @@ Discussion drawing on more radical attempts to describe the best way to bring yo
 Perhaps in the field of participatory design.
 
 
-#### **Rapid prototyping**
+#### Rapid prototyping
 
 As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
@@ -705,6 +697,43 @@ As per Te and Da - example in previous chapter where the preview window replaced
 While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
 
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
+
+
+
+### Building Identities as Game Makers
+
+NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
+
+ My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+<!--
+### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
+
+In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
+
+The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
+
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
+
 
 ### Other emerging design processes
 
@@ -747,8 +776,6 @@ The documentation leads to a page with code examples.
 In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
 
 
-
-
 ### Discussion on how design (not GDP) supports flexible design practices -
 
 <!-- HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
@@ -766,7 +793,7 @@ To address this, this section looks as some of the emerging patterns which compl
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
-## The impact of playing games and ongoing play-testing - move to Design
+### Impact of play-testing
 
 <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
@@ -777,9 +804,9 @@ Older participants often used this as a way of being supportive to both parents 
 - praising graphical content
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
-## Game playing at start of program - no observations but sets context
+<!-- ## Game playing at start of program - no observations but sets context
 
-Find examples
+Find examples -->
 
 #### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
 
@@ -799,8 +826,6 @@ what is there ? - included
 
 
 <!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
-
-<!-- NOTE - MOVED FROM ANALYSIS OF TH AND SH  -->
 
  <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
  As such observations are listed in bullet point in case a lot restructuring is needed. -->

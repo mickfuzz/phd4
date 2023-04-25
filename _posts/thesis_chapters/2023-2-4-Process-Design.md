@@ -398,9 +398,7 @@ Some of methods emerged from the start including play testing of other games, th
 
 #### Exploring key tensions in phase one
 
-
 **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
-
 In my journal notes, I reflect on the difficulty of interupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
 
 **Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
@@ -409,6 +407,8 @@ Play Testing - each lesson can help with short term motivation of having a game 
 **Code playground provides immediate feedback**. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
+**Authenticity of coding environment**.  Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
+NOTE - DEVELOP THIS FURTHER AS IT IS 
 
 <!-- An unusual approach so why?
 
