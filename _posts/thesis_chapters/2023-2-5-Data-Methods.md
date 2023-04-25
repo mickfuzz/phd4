@@ -421,6 +421,9 @@ The final part of this vignette gives an overview of the different kinds of docu
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
 Here we are looking at something cultural?? -->
 
+### Vignette part two
+
+This extract comes from the second session in phase 4. A similar pattern happened for other sessions in the phase with 10 minutes allocated to this kind of reflection in drama.  
 
 ### Impact of the drama process on reflection
 
