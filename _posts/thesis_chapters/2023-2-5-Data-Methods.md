@@ -408,20 +408,8 @@ The session progresses from this game to a drama process with
 As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
 ADD MORE COMMENTARY ON DRAMA PROCESS  
 
-The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documenation more easily as I would be able to review it on their screen in captured data.
+The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
 
-### Additional data on alien drama process
-
-**Motivations of the social challenges / missions**
-
-In the transcript there is the mention and some examples of some of the missions given by the aliens.
-
-This came as a result of analysis of interactions during game making.
-<!-- Examples of interactions? Some kind of coded data? -->
-
-NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
-Secret missions and public missions -
-https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
 
 <!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
 
@@ -449,7 +437,7 @@ In my journal notes previously, I noticed that I was often reluctant to shift le
 
 These reflections are noteworthy as they provoke the following wider observations on the utility of this technique.  
 
- The drama narrative provided a way to decentre the facilitator from the process of giving boundaries. When listing boundaries to activities it feels similar to outlining the rules of a game. As such less about controlling individuals and more about contracting into a gameful or playful experience.  I am much more relaxed restricting choice in role, or via a proxy of a playful encounter, other facilitators may feel the same. Heathcote's observations on this process posit that learners especially those resitant to authoritarian teaching techniques, appreciate the process of aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185]. 
+ The drama narrative provided a way to decentre the facilitator from the process of giving boundaries. When listing boundaries to activities it feels similar to outlining the rules of a game. As such less about controlling individuals and more about contracting into a gameful or playful experience.  I am much more relaxed restricting choice in role, or via a proxy of a playful encounter, other facilitators may feel the same. Heathcote's observations on this process posit that learners especially those resitant to authoritarian teaching techniques, appreciate the process of aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185].
  SEE THE OBSERVATION ON THE CHAPTER ON AUTHE
 
 
@@ -457,6 +445,20 @@ These reflections are noteworthy as they provoke the following wider observation
 ``
 
 ### Impact of the drama on encouraging flexible design practices via missions
+
+**Motivations of the social challenges / missions**
+
+In the transcript there is the mention and some examples of some of the missions given by the aliens.
+
+This came as a result of analysis of interactions during game making.
+<!-- Examples of interactions? Some kind of coded data? -->
+
+NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
+Secret missions and public missions -
+https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
+
+
+
 
 NOTE - THIS IS REVERSED IN ORDER - AS F
 
@@ -470,11 +472,7 @@ As part of the drama process, a line of communication was opened up with the ali
 
 Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
 
-
-
 ### Discussion of the process drama
-
-
 
 ### Discussion of the process drama
 
@@ -492,12 +490,15 @@ But some shepherding involved, screening from complexities, marshalling towards 
 
 This section looks in greater depth at the impact on learners of the tools and sugessted design patterns of the learning design explored in the previous chapter. It then progresses to explore some of the flexible design processes that emerge from the starting design.
 
-
-### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
-
+#### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
 Above we explored Heathcote's understanding of the importance of authentic tools in the process MoE.
 
-### Impact of Code Playgrounds and Phaser and a Javascript framework
+
+### Starting Tools and processes
+
+NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES
+
+#### Impact of Code Playgrounds and Phaser and a Javascript framework
 
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
 Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
@@ -520,66 +521,6 @@ In the early selection of tools the use of a framework based on javascript and w
 Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive.
 
  In phase 2 I began to write up the implementation of the same game features but more closely integrated with the new starting code template used. Thus these individual tutorials became much directive. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants. I have brought the workshops resources together a book published on the FLOSS Manuals documentation platform Chesterman, 2019). -->
-
-### Guided Code Patching
-
-THERE IS DUPLICATION WITH PREVIOUS CHAPTER HERE - MOVE SOME OF IT - FOCUS HERE ON THE IMPACT - OBSERVABLE RESULTS
-
-In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
-
-  ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
-
-In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-  During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
-
-<!-- ### On Debugging and Embracing Different Types of Errors
-
-NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
-
- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
-
- -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
- -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
- -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
-
-
-#### Syntax and Program errors vs No Behaviour
-
-Find examples.
-
-Sh & Th for example gets so frustrated that keeps moving on to create compound errors.
-One no behaviour bug can be worked around but a syntax bug stops everything.
-
-
-#### Examples of Glitch types of errors
-
-Short examples of different types and the affect implications.
-
-Glitch errors can be productive.
-
-**Productive in exploring code / creating new game opportunites**
-An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
-
-**Productive in in**
-
-- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
-
- The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
-
-#### Discussion on Errors
-
-Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
-
-Question - do more useful / less de-motivating errors result from remixing and game patching?
-Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
-
-
-Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
-
-Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
- -->
-
 
 #### Implications when design for participation in coding community
 
@@ -649,17 +590,73 @@ In the emerging community there was a variety of help available including;
 - Peer support from parents and children -->
 
 
-## Design stages or flexible design practices
+### Flexible design practices / processes
 
 Surfacing maker types (as per player types) can encourage epistemological pluralism [Papert] or flexible design practices.
 
 The process of facilitating for emerging learner identities and practices, via the processes and tools explored above, opens up flexibility in the way learners approach the design processes.
 
-### Shifts in design practice
 
-NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
+<!-- NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
+This section explores what other shifts in design practices -->
+#### Guided Code Patching Process
 
-This section explores what other shifts in design practices
+THERE IS DUPLICATION WITH PREVIOUS CHAPTER HERE - MOVE SOME OF IT - FOCUS HERE ON THE IMPACT - OBSERVABLE RESULTS
+
+In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+
+  ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+
+In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+  During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+
+<!-- ### On Debugging and Embracing Different Types of Errors
+
+NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
+
+ In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
+
+ -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+ -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+ -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+
+
+#### Syntax and Program errors vs No Behaviour
+
+Find examples.
+
+Sh & Th for example gets so frustrated that keeps moving on to create compound errors.
+One no behaviour bug can be worked around but a syntax bug stops everything.
+
+
+#### Examples of Glitch types of errors
+
+Short examples of different types and the affect implications.
+
+Glitch errors can be productive.
+
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in**
+
+- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
+
+#### Discussion on Errors
+
+Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
+
+Question - do more useful / less de-motivating errors result from remixing and game patching?
+Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
+
+
+Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
+
+Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
+ -->
 
 #### Division of Labour - code patching and experimentation
 
