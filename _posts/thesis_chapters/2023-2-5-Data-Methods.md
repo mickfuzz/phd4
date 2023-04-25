@@ -120,9 +120,11 @@ The chapter also starts to address the tension of restricting user choice in ord
 Like swimming in a protected pool rather than in the sea.
 
 
-## Addressing use of home funds of knowledge as a way to bootstrap agency
+## Addressing use of home funds of knowledge
 
-The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices.
+<!-- NOTE try to focus on agency as well? -->
+
+
 
 <!-- NOTE - research notes include
 - how agency can be viewed in this domain,
@@ -132,23 +134,16 @@ Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
 
-As part of the creative process participants were able to input their own preferences and interests. These commonly seemed to be driven by existing preferences and habits stemming from home life and other cultural sites. Examples include participants choice of the theme of their game. Environmental aspects appeared to be something that many families could draw on from their home lives.
+At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
-The design processes involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices.
 
-One pair Ch and Pa the grandparents of Te, included a narrative at the start of their game which explained their choice of graphical elements and provided instructions to users. The code contained the following text.
+One pair Ch and Pa the grandparents of Te, included a narrative at the start of their game.
 
-     var starttext = "This is a game which pits a honey bee
-     against a swarm of Asian hornets,
-     which are alien invaders attacking bee
-     hives in the UK and which beekeepers
-     are trying to stop spreading here.
-     Try to guide the bee to collect all the
-     flowers without being caught by the
-     hornets.
-     Use the arrow keys to move the bee.
-              Press return to START.";
+     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
+     Use the arrow keys to move the bee. Press return to START.";
 
+This did bring their own role as beekeepers into the making space and started interesting conversations with other participants.
 
 <!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
 
@@ -169,47 +164,29 @@ See fuller extract in Appendix 4.x
 NARRATIVE / drama IN PREVIOUS CHAPTER?
 how do these two sections work together? remove this one?
  -->
-While these pairs had the most clear links to home interests in terms of a guiding narrative of the game, other participants were able to bring personal expression to the process via game assets in other ways. The following section examines use of game assets and styles of making.
-
-### Personal expression via visual assets
+Other participants were able to bring personal expression to the process via the creation of audio but in particular visual game assets.
 
 NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION?
 
-There was a high degree of personal expression through interaction with the process of creating visual assets in particular.
+<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
 
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc.
+<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
 
-Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum,
-
-While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY.
-
-NOTE - SIMILAR TO GDP DRIVING TECHNICAL PROCESSES IN NEXT CHAPTER - PERHAPS SHIFT?
+<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
 
 In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
 
-In this exerpt parent Mi has spent
+In this exerpt parent Molly has spent time creating a pixel art representation of an alien
 
-    St:  That's Good!
-    Mick: Oh do you like it?
-    St: Yeah
-    Mick: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
-    St: Yeah
-    Mick: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
-    - Both laugh.
-    St: So are you going to do bits at home? When the kids are..
-    Mick: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours ....
-    Laughs
 
-    Mi - Lost time. Never mind.  We live and we learn.   
+    Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
+    Sonia:– Have you saved it?
+    Molly:– No I’ve not saved it.
+    Sonia:– Save there. (points to relevant button on screen)
 
-    Mi – We’re finished.
+See fuller extract in Appendix 4.x
 
-    Mi  - Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
-    St – Have you saved it?
-    Mi – No I’ve not saved it.
-    St – Save there. (points to relevant button on screen)
-
-We can see Mi cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design.
+We can see Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel"
 
 
 <!-- #### Different styles of making
@@ -274,7 +251,7 @@ As per work on Kafai and Roque who observe the following features of personal ex
 
 **Link Section**
 
-The process of creating assets builds in Mi the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".
+The process of creating assets builds in Molly:the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".
 As explored in literature review the possiblity to change and to play with identity is important in the work of Gee.
 
 His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
@@ -314,7 +291,7 @@ As interlinked.  Data in design chapter when it is based on journal notes and pe
   - Collaration from AT perspective - "collaborative activity" see [@eriksson_using_2019] for an overview
 
 - Peer - side by side coding.
-  - Parents coding too. See the comments by Mi and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
+  - Parents coding too. See the comments by Molly:and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
 
 - Game Playing and Playtesting
    - Game playing at start of program - no observations but sets context
@@ -448,7 +425,7 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
 Partly through observation of social coding of people like Mi.
 
 <!-- Choices
-- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Mi as a social coder compared to others.
+- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
 - Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
 <!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
@@ -893,9 +870,9 @@ For example.....
 
 For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
 
-CASE - One parent did extensive design and then altered the variables at the end. Mi -
+CASE - One parent did extensive design and then altered the variables at the end. Molly:-
 
-<!-- Exerpt Mi - 2019-03-08 - 52 mins -->
+<!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
 
 #### Digital Jamming
 
@@ -986,8 +963,9 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
 
 ## Appendices of this chapter_
 
-### Appendix 4.x  - Extract of interview with Mark and Ed.
+### Appendix 4.x  - On creating narratives and game Assets
 
+#### Appendix 4.x  - Extract of interview with Mark and Ed.
 
     Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
     Ma - Oh, definitely. Yeah.
@@ -1009,3 +987,22 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
     Mark: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
     Ed:  Yeah.
     Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
+
+#### Appendix 4.x  - Extract of interaction between Molly and
+
+    Sonia:  That's Good!
+    Molly: Oh do you like it?
+    Sonia: Yeah
+    Molly: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
+    Sonia: Yeah
+    Molly: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
+    - Both laugh.
+    Sonia: So are you going to do bits at home? When the kids are..
+    Molly: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours .... (Laughs)
+
+    Molly: Lost time. Never mind.  We live and we learn.   
+
+    Molly: We’re finished. Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
+    Sonia:– Have you saved it?
+    Molly:– No I’ve not saved it.
+    Sonia:– Save there. (points to relevant button on screen)
