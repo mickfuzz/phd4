@@ -166,7 +166,7 @@ how do these two sections work together? remove this one?
  -->
 Other participants were able to bring personal expression to the process via the creation of audio but in particular visual game assets.
 
-NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION?
+NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION? -
 
 <!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
 
@@ -179,15 +179,15 @@ In one exchange we can see the growing sense of ownership and sharing helps deve
 In this exerpt parent Molly has spent time creating a pixel art representation of an alien
 
 
-    Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
+    Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
     Sonia:– Have you saved it?
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
 
-See fuller extract in Appendix 4.x
+We can see Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge.
+This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
 
-We can see Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel"
-
+The aspect of pattern completion driving technical process adoption is explored in the next chapter. 
 
 <!-- #### Different styles of making
 PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
