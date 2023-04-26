@@ -396,6 +396,7 @@ In terms of supporting resources, stage one was responsive; I had no pre-existin
 
 Some of methods emerged from the start including play testing of other games, the use of drama / warm up games and a final public showcase. At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
 
+
 #### Exploring key tensions in phase one
 
 **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
@@ -408,7 +409,7 @@ Play Testing - each lesson can help with short term motivation of having a game 
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 **Authenticity of coding environment**.  Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
-NOTE - DEVELOP THIS FURTHER AS IT IS 
+NOTE - DEVELOP THIS FURTHER AS IT IS
 
 <!-- An unusual approach so why?
 
@@ -419,8 +420,6 @@ NOTE - DEVELOP THIS FURTHER AS IT IS
 other unexpected Benefits
 
 - could bring in other web creation resource, piskel, -->
-
-
 
 **Learner choice over game design vs templated approach**
 
@@ -439,6 +438,15 @@ In order to accelerate the process of making a game to fit into contextual expec
 ### Phase Two
 
 THIS SECTION NEEDS A LOT OF WORK - ADDRESSING DUPLICATION WITH THE ABOVE AND INTEGRATING ANALYSIS
+
+**Transition to Phase 2 due to feedback**
+
+Key extracts from participant feedback follow.
+
+- Feedback from one family that dropped out as production changed from planning and asset design to implementation in code. The felt alienated by the "hardcore coding" that was happening around them.
+- There was a general consensus that the process was too long general consensus
+- more or work out right format
+
 
 Phase two presented key challenges. The first was to try to present the essence of my evolving learning design of phaser and a code playground to  PGCE students in a smaller time scale. And in the process of preparing a 90 minute workshop for the Mozilla conference
 
@@ -464,15 +472,12 @@ Most forms of future documentation and support were originated at this stage. Th
 
 
 
-
  **Use of simple code examples which demonstrate the pattern in isolation**
 
  Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. This was changed after this iteration based on the difficulty of finding the relevant section on step-by-step resources.
 
  These code example are a staple of professional sharing and problem solving practice.
  They exist on the Phaser website, however their use there is not consistent and sometimes, as with many developer created documentation, focused on demonstrating the code constructs in isolation rather than in context.
-
-
 
  **Non-linear step-by-step instructions**
 
@@ -529,8 +534,43 @@ There were two main ways of approaching adding a new pattern. One to examing a c
 
 This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
 
+##### Building Identities as Game Makers
 
-## Using Physical Maps of Missions as Game Design Patterns
+NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
+
+ My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+<!--
+### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
+
+In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
+
+The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
+
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
+
+
+
+##### Using Physical Maps of Missions as Game Design Patterns
 
 Maps in the 3M model were explored partly as a way of representing the personal dimension of learning.
 

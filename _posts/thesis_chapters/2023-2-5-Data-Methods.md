@@ -335,7 +335,7 @@ This sections starts with a vignette of the start of an game making programme. T
 
 It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
 
-> Mick: Ok let’s make a start. Come to the front and I’ll do a super quick….
+<!-- > Mick: Ok let’s make a start. Come to the front and I’ll do a super quick….
 I’ll do my favourite game which is where we have to count to 12 but we’re not allowed to go in a particular order of people. We do go in a particular order of people. And if two people say a number at the same time then we have to start again. We’ll give it a go. You’ll get the idea.
 
 > Molly: Is there a penalty if we do?
@@ -345,7 +345,7 @@ I’ll do my favourite game which is where we have to count to 12 but we’re no
 The game starts and participants try to complete the challenge to count to 12 without talking over each others. The game proceeds with a lot of funny developments. These are hard to describe but include many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and entreaties to give it one last go. The game ends in good hearted failure.
 
 > Mick: That was pretty funny.
-> Mark: It’s brilliant.
+> Mark: It’s brilliant. -->
 
 > Mick: Ok. So I’ve got a surprise. I don’t know if you know but as part of our Home Ed club we did a page of different games. So it’s on glitch.com and it’s called Glitch Game Club and it’s on there, there’s one for Home Ed Winter 2019 and here are all the games that we made. We made a lot of games. 15 games. This has not gone unnoticed because I got a message through this account. This is kind of a story now. We are entering a story. You have to use your imagination. We got a message and it was an audio message. If you guys take your fingers off your keyboards and have a listen to this audio message which is quite unusual as I don’t think it was from anyone on … this ... Earth.
 
@@ -402,16 +402,22 @@ What do you want to put in your new game what wasn’t in your old game? Yeah, y
 
 <!-- q: How much to reference back to previous chapter? -->
 
-This transcript is a rare example of extended facilitator input as instruction. The vignette above covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation.
+This transcript is a rare example of extended facilitator input as instruction.
 
+<!-- The vignette above covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation. -->
+
+<!-- DROP OR TRUNCATE - JUST NO SPACE
 The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE WITH DISCUSSION.
+ -->
+I began the session with a warm-up game which aimed to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation.
+As a facilitator I then indicated that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
 
-The session progresses from this game to a drama process with
-
-As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
 ADD MORE COMMENTARY ON DRAMA PROCESS  
 
-The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
+<!--
+NOTE - UNSURE WHERE TO PUT DOCUMENTATION DESCRIPTION AND COMMENTARY
+
+ The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data. -->
 
 
 <!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
@@ -615,7 +621,6 @@ This is supported by other research on digital making and motivation. CITATION H
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
 
-
 <!-- Perhaps move later after GDP chapter?  -->
 
 <!-- **Limitation of asset work as a GDP**
@@ -649,40 +654,6 @@ MOVE THIS NEXT BIT TO DESIGN AND REFER BACK?
 One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
 
-
-#### Building Identities as Game Makers
-
-NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE. 
-
- My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-
-<!--
-### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
-
-In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
-
-The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
-
-An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
 
 
 
