@@ -779,8 +779,15 @@ Parent Mark made a comment showing that he was aware of the particular value of 
 
 #### The limits of design cycle stages
 
-When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
-Ask / Imagine, Plan, Create, Test, Improve, Share.
+Iterative agile design is a highly cultural / interpersonal process. (Glossary)
+
+As discussed a in previous section design thinking education has created a set norms in communicating the stages of design. A review (in lit review) highlighted the positive potential as ; x, y and z.  As explored in the methodology chapter, I used this as one of my coding framework. Ask / Imagine, Plan, Create, Test, Improve, Share.
+
+hat complexities are less readily communicated. On closer inspection, much literature on design processes contains caveats that some processes can happen in parallel and one stage may need several iterations. Given this caveat, I began to how useful is the overall in observing the emergence of complex creative processes.
+
+To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
+
+
 
 While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
 
@@ -826,12 +833,6 @@ NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP
 
 Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
 
-Iterative agile design is a highly cultural / interpersonal process. (Glossary)
-
-QUESTION - INCLUDE THIS OR NOT?
-As discussed a in previous section design thinking education has created a set norms in communicating the stages of design that complexities are less readily communicated. On closer inspection, much literature on design processes contains caveats that some processes can happen in parallel and one stage may need several iterations. Given this caveat, I began to how useful is the overall in observing the emergence of complex creative processes.
-
-To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
