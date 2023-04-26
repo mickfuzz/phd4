@@ -650,8 +650,6 @@ My role as a facilitator rather than a instructor was key to this process as has
 - Heathcote's take
 
 
-MOVE THIS NEXT BIT TO DESIGN AND REFER BACK?
-One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
 
 
@@ -779,6 +777,43 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
 
+#### The limits of design cycle stages
+
+When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
+Ask / Imagine, Plan, Create, Test, Improve, Share.
+
+While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
+
+When coding I quick became aware of the limits and challenges to coding to this.
+
+For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle.
+For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+
+I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
+
+This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
+
+**Value Faff Time.**
+So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
+For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
+
+This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
+There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
+For example.....
+
+**Improving is Creating and Planning when remixing**
+
+For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
+
+CASE - One parent did extensive design and then altered the variables at the end. Molly:-
+
+<!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
+
+**Implication for design**
+
+When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
+
+
 
 
 ### Discussion on flexible design practices -
@@ -814,9 +849,6 @@ what is there ? - included
 - movement around the room between screens
 - calling across room
 - clustering, remaining on outskirts.
-
-
-
 
 <!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
 
@@ -863,38 +895,6 @@ what is there ? - included
 
  The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
-#### The limits of design cycle stages
-
-When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
-Ask / Imagine, Plan, Create, Test, Improve, Share.
-
-While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
-
-When coding I quick became aware of the limits and challenges to coding to this.
-
-For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle.
-For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
-
-I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
-
-This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
-
-#### Value Faff Time.
-So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
-For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
-
-This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
-There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
-For example.....
-
-#### Improving is Creating and Planning when remixing
-
-For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
-
-CASE - One parent did extensive design and then altered the variables at the end. Molly:-
-
-<!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
-
 #### Digital Jamming
 
 This has an example in the use of sound making software Fi & Ma -
@@ -907,9 +907,8 @@ The joint jamming then has created two different soundtracks. This sparks a new 
 This would fit within the Imagine stage.
 Plan then Create then Imagine then Revise all in the space of a minute.
 
-Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
-Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
+Implication  when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
 Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
 
