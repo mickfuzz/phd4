@@ -787,8 +787,6 @@ hat complexities are less readily communicated. On closer inspection, much liter
 
 To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
 
-
-
 While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
 
 When coding I quick became aware of the limits and challenges to coding to this.
@@ -806,7 +804,10 @@ For example the navigation to the right location in creative software, finding a
 
 This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
 There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
-For example.....
+
+For example the process of finding assets in the shared Piskel gallery served to keep indivuals informed in directly of progress being made, and to spark curiousity in the creations of others. 
+
+In addition, some of the missions encouraged this kinds of faff time. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mision of "Find out the favourite games of 3 other people". another?
 
 **Improving is Creating and Planning when remixing**
 
