@@ -117,15 +117,19 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter addresses observable responses to design interventions and resulting discussions through the lens of learner agency and authenticity of learning community context.
+This chapter addresses observable responses to design interventions and resulting discussions through the lens of learner agency. The role of authenticity of learning community context and ability for learners to develop their identity as designers is also examined.
 
-NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH.
+<!-- NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH. -->
 
-**Justifying selection of chapter contents**
+The research data examined in detail in this chapter addresses the use of a drama process to facilitate the completion of some key
+In particular the use of starting tools and processes by participants, and impact of noticing and valuing those that emerge organically are explored.  
+
+I then examine some of the tensions of designing learning environments to maximises learner agency. For example the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea.
+
+
+**Justifying selection of chapter contents** PERHAPS REPHRASE OR DELAY
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
 
-The chapter also starts to address the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners.
-Like swimming in a protected pool rather than in the sea.
 
 
 ## Addressing use of home funds of knowledge
@@ -192,7 +196,7 @@ In this exerpt parent Molly has spent time creating a pixel art representation o
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
 
-We can see Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge.
+The full exchange sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge.
 This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
 
 The aspect of pattern completion driving technical process adoption is explored in the next chapter.
@@ -425,6 +429,10 @@ Here we are looking at something cultural?? -->
 
 This extract comes from the second session in phase 4. A similar pattern happened for other sessions in the phase with 10 minutes allocated to this kind of reflection in drama.  
 
+
+
+
+
 ### Impact of the drama process on reflection
 
 **My reflections as a practioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
@@ -459,11 +467,7 @@ NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOME
 Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
 
-
-
-
-NOTE - THIS IS REVERSED IN ORDER - AS F
-
+NOTE - THIS IS REVERSED IN ORDER - CHECK CHAPTER STRUCTURE.
 
 
 The missions that were introduced as part of the drama narrative
@@ -476,7 +480,9 @@ Impact at the final session was significant. The interaction became a celebratio
 
 ### Discussion of the process drama
 
-### Discussion of the process drama
+OR IS THIS MORE OF A LINK SECTION TO USE OF TOOLS.
+AND DISCUSSION HAPPENS LATER?
+
 
 Examine MoE and this process drama through
 Turn to authenticity of the tools involved.
@@ -534,11 +540,12 @@ In response to on-going frustrations of time blockages, where were commonly refl
 
 In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
- During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis.
+NOTE - This is illustrated by the decision of Dan and Toby to use professional code processes by searching for documentation outside of that created as part of the sessions. HOW TO LINK MORE DIRECTLY - CHECK THE STRUCTURE OF SURROUNDING CHAPTERS.
 
 #### Visual and Audio asset creation
 
-The initial impact is explored above - recap?
+The initial impact is explored above - recap? - OR MOVE HERE FROM THE START OF THE CHAPTER?
 
 #### Impact of play-testing
 
@@ -565,6 +572,11 @@ Take the example above, through use of pixel art editor, and template with small
 
 In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
 
+GENERATE IDEAS TO DEVELOP THIS SECTION AS SYTHESIS
+
+ - Resnick and Brennan on design tips for contructionist environments. (check this in Lit Review)
+ - Roque's processes of supporting families
+ - Express in terms of AT theory to bring new light, especially agency
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
 
@@ -640,7 +652,7 @@ One warm activities that took on a life of its own was a group activity of takin
 
 #### Building Identities as Game Makers
 
-NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
+NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE. 
 
  My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
