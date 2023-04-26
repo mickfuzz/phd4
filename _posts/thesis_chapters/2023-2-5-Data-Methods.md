@@ -805,7 +805,7 @@ For example the navigation to the right location in creative software, finding a
 This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
 There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
 
-For example the process of finding assets in the shared Piskel gallery served to keep indivuals informed in directly of progress being made, and to spark curiousity in the creations of others. 
+For example the process of finding assets in the shared Piskel gallery served to keep indivuals informed in directly of progress being made, and to spark curiousity in the creations of others.
 
 In addition, some of the missions encouraged this kinds of faff time. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mision of "Find out the favourite games of 3 other people". another?
 
@@ -838,11 +838,28 @@ Previously a broad range of observed design practices of participants which invo
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
 
-#### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+#### The emerging role of Play testing -
 
+**emerging cultural norms of playtesting**
+
+Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
+and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+
+In the last chapter,
 Find examples
 
-#### Play testing - and embodied participation in the games of others.
+When explored from wider perspective, the hard is good lens, is very limiting.
+The following paragraph explores different perspectives on hardness / challenge.
+
+- arcade games were designed to be hard to extract money from players
+- nes games reputation for being brutal as they often had no way to save states
+- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
+
+Other observations
+- The process of teaching challenge via balance cards can happen early on
+- some participants are resistange - see Molly's interactions - does this matter? 
+
+**Play testing - and embodied participation in the games of others**
 
 study the body language of those play testing games.
 what is there ? - included
@@ -909,13 +926,11 @@ The joint jamming then has created two different soundtracks. This sparks a new 
 This would fit within the Imagine stage.
 Plan then Create then Imagine then Revise all in the space of a minute.
 
-
 Implication  when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
 Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
 
-
-#### Discussion - encouraging improvisation in the design process.
+**discussion on conceptualising emerging improvisation in the design process**
 
 <!-- Pumping up the Jam - -->
 
