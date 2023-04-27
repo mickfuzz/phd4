@@ -794,7 +794,7 @@ While the parents are the ones doing the majority of the heavily lifting importi
 
 In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind
 - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER 
+FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER
 
 #### Accessing online, professional/community documentation
 
@@ -826,7 +826,55 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
 
+## Discussion
+
+Deepening from observation, evidence to synthesis in relation to other research.
+
+### Discussion - on learner identity, anxiety and implications in relation to other research.
+
+NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
+
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
+
+This chapter has explored barriers to participation in coding project can be mitigated by allowing participants to bring in some of their existing collaborative practices and home interests.
+
+In summary:
+
+<!-- Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people. -->
+- the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
+- encouraing game playing and discussion of games helps surface positive affect and   
+
+
+**Discussion on reducing learner anxiety surrounding text coding**
+
+The previous chapter addressed elements of the learning design that aimed to create an welcoming learning environment especially in response to the withdrawl of one family due to hardcore coding and feedback that
+
+I introduced the following:
+
+- adapted my sessions to ensure a consistency of non-digital and playful activities.
+- reflection in role
+- encouraging flexible making patte
+- flexible pathways to making resources and navigating their learning.
+
+This chimes with existing research:
+
+- the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
+- deeper into Heathcote
+- something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
+
+And can be synthesised in this way :
+
+- oh lordy - better write something here!
+
+
+<!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
+
+
+<!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
+
+
 ### Discussion on flexible design practices -
+
 
 <!--
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
@@ -928,7 +976,7 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
-#### Discussion - encouraging improvisation in the design process.
+#### Encouraging improvisation in the design process.
 
 <!-- Pumping up the Jam - -->
 
@@ -984,47 +1032,6 @@ A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
 
-#### Discussion - on learner identity, anxiety and implications in relation to other research.
-
-NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
-
-While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
-
-This chapter has explored barriers to participation in coding project can be mitigated by allowing participants to bring in some of their existing collaborative practices and home interests.
-
-In summary:
-
-<!-- Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people. -->
-- the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
-- encouraing game playing and discussion of games helps surface positive affect and   
-
-
-**Discussion on reducing learner anxiety surrounding text coding**
-
-The previous chapter addressed elements of the learning design that aimed to create an welcoming learning environment especially in response to the withdrawl of one family due to hardcore coding and feedback that
-
-I introduced the following:
-
-- adapted my sessions to ensure a consistency of non-digital and playful activities.
-- reflection in role
-- encouraging flexible making patte
-- flexible pathways to making resources and navigating their learning.
-
-This chimes with existing research:
-
-- the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
-- deeper into Heathcote
-- something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
-
-And can be synthesised in this way :
-
-- oh lordy - better write something here!
-
-
-<!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
-
-
-<!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
 
 ### Link section to next chapter
 
