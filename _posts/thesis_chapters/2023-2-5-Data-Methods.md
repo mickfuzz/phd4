@@ -976,7 +976,7 @@ A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
 
-#### Discussion - on learner identity, tensions and implications in relation to other research.
+#### Discussion - on learner identity, anxiety and implications in relation to other research.
 
 NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
 
