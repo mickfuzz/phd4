@@ -800,35 +800,22 @@ Parent Mark made a comment showing that he was aware of the particular value of 
 
 ### Discussion on flexible design practices -
 
-<!-- 
+<!--
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
 <!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
 
 Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
 
-<<<<<<< HEAD
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
-=======
-Iterative agile design is a highly cultural / interpersonal process. (Glossary)
-
-QUESTION - INCLUDE THIS OR NOT?
-As discussed a in previous section design thinking education has created a set norms in communicating the stages of design that complexities are less readily communicated. On closer inspection, much literature on design processes contains caveats that some processes can happen in parallel and one stage may need several iterations. Given this caveat, I began to how useful is the overall in observing the emergence of complex creative processes.
->>>>>>> e34c6a5c293b1467d535f8858def4e55f754096d
 
 To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
 
-<<<<<<< HEAD
 #### The emerging identities and norms of playtesting -
 
 **understandings of challenge during playtesting**
-=======
- <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
-
->>>>>>> e34c6a5c293b1467d535f8858def4e55f754096d
 
 #### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
 
-<<<<<<< HEAD
 When explored from wider perspective, the hard is good lens, is very limiting.
 The following paragraph explores different perspectives on hardness / challenge.
 
@@ -847,11 +834,6 @@ See if any come up to list?
 Molly often commented on the characters and strongly identifies with them to both young people and adults.
 
 **Play testing - and embodied participation in the games of others**
-=======
-Find examples
-
-#### Play testing - and embodied participation in the games of others.
->>>>>>> e34c6a5c293b1467d535f8858def4e55f754096d
 
 study the body language of those play testing games.
 what is there ? - included
