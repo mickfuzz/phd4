@@ -69,9 +69,9 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
             stages](#the-limits-of-design-cycle-stages)
         -   [Discussion - encouraging improvisation in the design
             process.](#discussion---encouraging-improvisation-in-the-design-process.)
-        -   [Discussion - on learner identity, tensions and implications
+        -   [Discussion - on learner identity, anxiety and implications
             in relation to other
-            research.](#discussion---on-learner-identity-tensions-and-implications-in-relation-to-other-research.)
+            research.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research.)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
     -   [Appendix 4.x - On creating narratives and game
