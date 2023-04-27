@@ -826,27 +826,21 @@ When mapping the activity to a design cycle. There may not be neat matches and a
 
 ### Discussion on flexible design practices -
 
-<!-- HOW EXACTLY? FOR NOW THIS SECTION IS A SUB SECTION MINI DISCUSSION.
-HOW DOES THIS RELATE TO LATER DISCUSSION ON MINI JAMS ETC.
+<!-- 
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
-
-NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP
+<!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
 
 Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
-
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
 
-#### The emerging role of Play testing -
+#### The emerging identities and norms of playtesting -
 
-**emerging cultural norms of playtesting**
+**understandings of challenge during playtesting**
 
 Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
 and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
-
-In the last chapter,
-Find examples
 
 When explored from wider perspective, the hard is good lens, is very limiting.
 The following paragraph explores different perspectives on hardness / challenge.
@@ -857,7 +851,13 @@ The following paragraph explores different perspectives on hardness / challenge.
 
 Other observations
 - The process of teaching challenge via balance cards can happen early on
-- some participants are resistange - see Molly's interactions - does this matter? 
+- some participants are resistange - see Molly's interactions - does this matter?
+
+**using playtesting to show other identities**
+
+See if any come up to list?
+
+Molly often commented on the characters and strongly identifies with them to both young people and adults.
 
 **Play testing - and embodied participation in the games of others**
 
