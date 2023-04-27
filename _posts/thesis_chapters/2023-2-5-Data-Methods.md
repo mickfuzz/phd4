@@ -392,6 +392,9 @@ What do you want to put in your new game what wasn’t in your old game? Yeah, y
 
 This transcript is a rare example of extended facilitator input as instruction. The vignette above covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation.
 
+### Impact of the drama on participant affect
+
+
 The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE WITH DISCUSSION.
 
 The session progresses from this game to a drama process with
@@ -399,13 +402,12 @@ The session progresses from this game to a drama process with
 As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
 ADD MORE COMMENTARY ON DRAMA PROCESS  
 
+### Impact of exploring documentation and technical help within the drama frame
+
 The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
 
 
 <!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
-
-
-
 <!-- Choices
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
 - Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
@@ -532,18 +534,7 @@ In making decisions like the one to include extra visual scaffolding in step by 
 
 The initial impact is explored above - recap?
 
-#### Impact of play-testing
 
- <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
-
-Playtesting was a part of the initial design and it also emerged
-NOTE THUS MAKE THIS A PIVOT POINT?
-
-There were a variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience. Playtesting appeared to be suited to allow a diversity of community-building behaviour.
-
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
- - praising graphical content
- - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
  <!-- ## Game playing at start of program - no observations but sets context
 
@@ -627,6 +618,53 @@ My role as a facilitator rather than a instructor was key to this process as has
 
 MOVE THIS NEXT BIT TO DESIGN AND REFER BACK?
 One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+
+### Play-testing
+
+ <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
+
+Playtesting was a part of the initial design from the beginning but under explored in my journal notes.
+By the time video data recording started there were already complex patterns and behaviours at work.
+
+#### The emerging playtesting processes
+
+
+There were a variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience. Playtesting appeared to be suited to allow a diversity of community-building behaviour.
+
+Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
+- praising graphical content
+- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+
+**emerging cultural norms of playtesting**
+
+
+Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
+and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+
+In the last chapter,
+Find examples
+
+When explored from wider perspective, the hard is good lens, is very limiting.
+The following paragraph explores different perspectives on hardness / challenge.
+
+- arcade games were designed to be hard to extract money from players
+- nes games reputation for being brutal as they often had no way to save states
+- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
+
+Other observations
+- The process of teaching challenge via balance cards can happen early on
+- some participants are resistange - see Molly's interactions - does this matter?
+
+**Play testing - and embodied participation in the games of others**
+
+study the body language of those play testing games.
+what is there ? - included
+
+- wrestling for control
+- movement around the room between screens
+- calling across room
+- clustering, remaining on outskirts.
 
 
 
@@ -732,8 +770,8 @@ A later discussion section in this chapter illustrates a more complex interactio
 
 #### Division of Labour -
 
-
 Smaller subsections
+
 ##### Alternating coding
 
 Sh and Th
@@ -750,13 +788,13 @@ Discussion drawing on more radical attempts to describe the best way to bring yo
 Perhaps in the field of participatory design.
 
 
-##### Code patching and experimentation
+##### Code roles  and experimentation
 
 While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
 
 In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind
 - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-
+FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER 
 
 #### Accessing online, professional/community documentation
 
@@ -802,36 +840,6 @@ To address this, this section looks as some of the emerging patterns which compl
 
 
 
-#### The emerging role of Play testing -
-
-**emerging cultural norms of playtesting**
-
-Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
-and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
-
-In the last chapter,
-Find examples
-
-When explored from wider perspective, the hard is good lens, is very limiting.
-The following paragraph explores different perspectives on hardness / challenge.
-
-- arcade games were designed to be hard to extract money from players
-- nes games reputation for being brutal as they often had no way to save states
-- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
-
-Other observations
-- The process of teaching challenge via balance cards can happen early on
-- some participants are resistange - see Molly's interactions - does this matter?
-
-**Play testing - and embodied participation in the games of others**
-
-study the body language of those play testing games.
-what is there ? - included
-
-- wrestling for control
-- movement around the room between screens
-- calling across room
-- clustering, remaining on outskirts.
 
 
 
