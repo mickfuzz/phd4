@@ -4,10 +4,11 @@
     -   [Discussion in Relation to Existing
         Research](#discussion-in-relation-to-existing-research)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
-    -   [Vignette - Starting the Alien Drama of the
-        Weean.](#vignette---starting-the-alien-drama-of-the-weean.)
+    -   [Vignette one - starting a drama
+        process](#vignette-one---starting-a-drama-process)
     -   [Commentary on Vignette part
         one](#commentary-on-vignette-part-one)
+    -   [Vignette part two](#vignette-part-two)
     -   [Impact of the drama process on
         reflection](#impact-of-the-drama-process-on-reflection)
     -   [Impact of the drama on encouraging flexible design practices
@@ -50,24 +51,15 @@
             facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
     -   [Discussion on flexible design
         practices -](#discussion-on-flexible-design-practices--)
-        -   [Play testing - and challenge - a culture of "hardness",
-            curiousity about number of levels, as a vehicle for peer
-            support,](#play-testing---and-challenge---a-culture-of-hardness-curiousity-about-number-of-levels-as-a-vehicle-for-peer-support)
-        -   [Play testing - and embodied participation in the games of
-            others.](#play-testing---and-embodied-participation-in-the-games-of-others.)
+        -   [The emerging role of Play
+            testing -](#the-emerging-role-of-play-testing--)
         -   [The limits of design cycle
             stages](#the-limits-of-design-cycle-stages)
-        -   [Value Faff Time.](#value-faff-time.)
-        -   [Improving is Creating and Planning when
-            remixing](#improving-is-creating-and-planning-when-remixing)
-        -   [Digital Jamming](#digital-jamming)
         -   [Discussion - encouraging improvisation in the design
             process.](#discussion---encouraging-improvisation-in-the-design-process.)
-        -   [Example: Fluidity of design
-            practice](#example-fluidity-of-design-practice)
--   [Upbeat Summary of the work exploring tensions and blockages related
-    to culture, identity and
-    affect](#upbeat-summary-of-the-work-exploring-tensions-and-blockages-related-to-culture-identity-and-affect)
+        -   [Discussion - on learner identity, tensions and implications
+            in relation to other
+            research.](#discussion---on-learner-identity-tensions-and-implications-in-relation-to-other-research.)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
     -   [Appendix 4.x - On creating narratives and game

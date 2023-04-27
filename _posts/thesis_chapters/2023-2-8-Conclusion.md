@@ -19,6 +19,8 @@ title: Conclusion
 - Synthesis of 3M model
 - Recap analysis of framework to facilitate designing for an emerging community of coders
   - Explore possibility to extend this to other domains
+- Final caveats / reflections on research
+  - Advantages and limitations of Home Education context
 - Recommendations arising from this research
     - Recommendations for facilitators
     - Recommendations for researchers
@@ -120,3 +122,14 @@ Physical maps in Phase 3.   -->
 
 ## Revisiting framework to facilitate designing for an emerging community of coders
     - Explore possibility to extend this to other domains
+
+## Caveats of / Reflections on research environments
+
+
+### Advantages and limitations of Home Education context
+
+Comments include:
+
+- Reflecting back on interview there were very highly insightful comments from home educators that did influence the design.
+- Thus a very fruitful area for jointly created design research
+- However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.

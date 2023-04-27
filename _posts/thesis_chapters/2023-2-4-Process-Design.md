@@ -394,13 +394,40 @@ using the phaser javascript game library (glitch.com), a pixel art editor (piske
 
 In terms of supporting resources, stage one was responsive; I had no pre-existing supporting materials and created a starting code framework of a platform game and code examples to add extra functionality to the game as the programme developed.
 
-Some of methods emerged from the start including play testing of other games, the use of drama / warm up games and a final public showcase. At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+Some of methods emerged from the start including;
+
+- play testing of other games as a fun and productive activity (DEVELOP?)
+- the use of drama / warm up games - a normal part of my project based learning approach with adults designed
+- a final public showcase - At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+
+<!-- NOTE - DEVELOP THIS ASPECT OF INCLUSIVE ENVIRONMENT TO REDUCE STRESS - MOVE FROM NEXT CHAPTER?  -->
 
 
 #### Exploring key tensions in phase one
 
 **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
 In my journal notes, I reflect on the difficulty of interupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
+
+**Learner anxiety if hardcore coding environment and peer working dynamics**
+One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
+
+<!-- The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
+
+I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. The incident lead me to greater reflection on ongoing measures needed to prevent participant drop out for due to cultural tensions and negative affect to the working community. These include:
+
+-   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
+-   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
+-   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation). -->
+
+**Encouraging peer learning vs social restrictions**
+The same family also gave useful feedback about social norms of not bothering people getting in the way of asking for help.
+
+<!-- NOTE See this source
+https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
+ -->
+
+**Freedom of participation vs benefitting from parental involvement**
+The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group framentation
 
 **Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
 Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.

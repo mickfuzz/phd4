@@ -9,16 +9,18 @@ layout: post
 categories: chapter
 title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
+
 -   [Introduction](#introduction)
 -   [Addressing use of home funds of
     knowledge](#addressing-use-of-home-funds-of-knowledge)
     -   [Discussion in Relation to Existing
         Research](#discussion-in-relation-to-existing-research)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
-    -   [Vignette - Starting the Alien Drama of the
-        Weean.](#vignette---starting-the-alien-drama-of-the-weean.)
+    -   [Vignette one - starting a drama
+        process](#vignette-one---starting-a-drama-process)
     -   [Commentary on Vignette part
         one](#commentary-on-vignette-part-one)
+    -   [Vignette part two](#vignette-part-two)
     -   [Impact of the drama process on
         reflection](#impact-of-the-drama-process-on-reflection)
     -   [Impact of the drama on encouraging flexible design practices
@@ -61,24 +63,15 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
             facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
     -   [Discussion on flexible design
         practices -](#discussion-on-flexible-design-practices--)
-        -   [Play testing - and challenge - a culture of "hardness",
-            curiousity about number of levels, as a vehicle for peer
-            support,](#play-testing---and-challenge---a-culture-of-hardness-curiousity-about-number-of-levels-as-a-vehicle-for-peer-support)
-        -   [Play testing - and embodied participation in the games of
-            others.](#play-testing---and-embodied-participation-in-the-games-of-others.)
+        -   [The emerging role of Play
+            testing -](#the-emerging-role-of-play-testing--)
         -   [The limits of design cycle
             stages](#the-limits-of-design-cycle-stages)
-        -   [Value Faff Time.](#value-faff-time.)
-        -   [Improving is Creating and Planning when
-            remixing](#improving-is-creating-and-planning-when-remixing)
-        -   [Digital Jamming](#digital-jamming)
         -   [Discussion - encouraging improvisation in the design
             process.](#discussion---encouraging-improvisation-in-the-design-process.)
-        -   [Example: Fluidity of design
-            practice](#example-fluidity-of-design-practice)
--   [Upbeat Summary of the work exploring tensions and blockages related
-    to culture, identity and
-    affect](#upbeat-summary-of-the-work-exploring-tensions-and-blockages-related-to-culture-identity-and-affect)
+        -   [Discussion - on learner identity, tensions and implications
+            in relation to other
+            research.](#discussion---on-learner-identity-tensions-and-implications-in-relation-to-other-research.)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
     -   [Appendix 4.x - On creating narratives and game
@@ -87,7 +80,6 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
             Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
         -   [Appendix 4.x - Extract of interaction between Molly
             and](#appendix-4.x---extract-of-interaction-between-molly-and)
-
 
 <!-- ## Overview in points
 
@@ -796,8 +788,6 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
 
-
-
 ### Discussion on flexible design practices -
 
 <!--
@@ -810,11 +800,17 @@ Previously a broad range of observed design practices of participants which invo
 
 To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
 
-#### The emerging identities and norms of playtesting -
 
-**understandings of challenge during playtesting**
 
-#### Play testing - and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+#### The emerging role of Play testing -
+
+**emerging cultural norms of playtesting**
+
+Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
+and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
+
+In the last chapter,
+Find examples
 
 When explored from wider perspective, the hard is good lens, is very limiting.
 The following paragraph explores different perspectives on hardness / challenge.
@@ -826,12 +822,6 @@ The following paragraph explores different perspectives on hardness / challenge.
 Other observations
 - The process of teaching challenge via balance cards can happen early on
 - some participants are resistange - see Molly's interactions - does this matter?
-
-**using playtesting to show other identities**
-
-See if any come up to list?
-
-Molly often commented on the characters and strongly identifies with them to both young people and adults.
 
 **Play testing - and embodied participation in the games of others**
 
@@ -907,15 +897,18 @@ I have been pragmatic and map elements like this these loosely. Where appropriat
 
 This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
 
-#### Value Faff Time.
+**Value Faff Time.**
 So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
 For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
 
 This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
 There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
-For example.....
 
-#### Improving is Creating and Planning when remixing
+For example the process of finding assets in the shared Piskel gallery served to keep indivuals informed in directly of progress being made, and to spark curiousity in the creations of others.
+
+In addition, some of the missions encouraged this kinds of faff time. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mision of "Find out the favourite games of 3 other people". another?
+
+**Improving is Creating and Planning when remixing**
 
 For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
 
@@ -923,24 +916,9 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 <!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
 
-#### Digital Jamming
+**Implication for design**
 
-This has an example in the use of sound making software Fi & Ma -
-The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
-
-They are in an evaluation of tools which could be said to be in planning stage,
-However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
-
-The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-This would fit within the Imagine stage.
-Plan then Create then Imagine then Revise all in the space of a minute.
-
-Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
-
-Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
-Question? How does this relate to tinkering methodology?
-What other framework would be suitable here?
-
+When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
 #### Discussion - encouraging improvisation in the design process.
 
@@ -961,7 +939,26 @@ Some of the following sections discuss design factors and participant responses 
 player types
 
 
-#### Example: Fluidity of design practice
+**Digital Jamming**
+
+This has an example in the use of sound making software Fi & Ma -
+The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
+
+They are in an evaluation of tools which could be said to be in planning stage,
+However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
+
+The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+This would fit within the Imagine stage.
+Plan then Create then Imagine then Revise all in the space of a minute.
+
+Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
+
+Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
+Question? How does this relate to tinkering methodology?
+What other framework would be suitable here?
+
+
+**Fluidity of design practice**
 
 Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
 
@@ -983,24 +980,41 @@ A bullet point summary follows
 
 NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
 
-A tension outlined in the literature are barriers to coding and complex digital practice. A common perspective being I can be paraphrased as
-"I'm not that sort of person" (explored in lit review). My starting thoughts for this program to address this barrier included the following perspectives:
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
 
--   The premise of family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people.
+This chapter has explored barriers to participation in coding project can be mitigated by allowing participants to bring in some of their existing collaborative practices and home interests.
 
--   In a large majority of cases game playing has high exposure for parents and grand-parents (either directly or through other family members). The choice of retro (arcade / first generation) games as a medium maximises this familiarity.
--   The choice of toolsets to allow participants to bring their own family interests and explore issues being discussed in the home life helps participants to draw on home funds of knowledge and discourse while learning unfamiliar processes Moll et al., 1992).
--   The use of regular physical / drama games and physical making activities may reduce anxiety associated with new language acquisition Krashen, 1982) (in this case the technical terminology).
+In summary:
 
-Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points. The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
+<!-- Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people. -->
+- the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
+- encouraing game playing and discussion of games helps surface positive affect and   
 
-I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. The incident lead me to greater reflection on ongoing measures needed to prevent participant drop out for due to cultural tensions and negative affect to the working community. These include:
 
--   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
--   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
--   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
+**Discussion on reducing learner anxiety surrounding text coding**
 
-These observations were in part resolved by previously discussed issues including the more egalitarian and accessible pathways to making resources and navigating their learning. I also adapted my sessions to ensure a consistency of non-digital and playful activities.
+The previous chapter addressed elements of the learning design that aimed to create an welcoming learning environment especially in response to the withdrawl of one family due to hardcore coding and feedback that
+
+I introduced the following:
+
+- adapted my sessions to ensure a consistency of non-digital and playful activities.
+- reflection in role
+- encouraging flexible making patte
+- flexible pathways to making resources and navigating their learning.
+
+This chimes with existing research:
+
+- the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
+- deeper into Heathcote
+- something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
+
+And can be synthesised in this way :
+
+- oh lordy - better write something here!
+
+
+<!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
+
 
 <!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
 
