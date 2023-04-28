@@ -120,199 +120,6 @@ The chapter also starts to address the tension of restricting user choice in ord
 Like swimming in a protected pool rather than in the sea.
 
 
-## Addressing use of home funds of knowledge
-
-<!-- NOTE try to focus on agency as well? -->
-
-
-
-<!-- NOTE - research notes include
-- how agency can be viewed in this domain,
-- increasing persistance / determination due to ownership of game
-Gee - projected identity
-Papert & Resnick & Kafai - ownership
-Papert & Turkle - Turkle closeness to objects
- -->
-
-At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices.
-
-One pair Ch and Pa the grandparents of Te, included a narrative at the start of their game.
-
-     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
-     Use the arrow keys to move the bee. Press return to START.";
-
-This did bring their own role as beekeepers into the making space and started interesting conversations with other participants.
-
-<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
-
-   zi: Have you done amazing things?
-
-The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
-
-The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
-
-Participants Mark and Ed designed one game around the characters of a
-train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
-"I know just your eyes lit up when you realised you could expand your interests into gaming."
-
-See fuller extract in Appendix 4.x
-
-
-<!-- NOTE
-NARRATIVE / drama IN PREVIOUS CHAPTER?
-how do these two sections work together? remove this one?
- -->
-Other participants were able to bring personal expression to the process via the creation of audio but in particular visual game assets.
-
-NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION? -
-
-<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
-
-<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
-
-<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
-
-In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
-
-In this exerpt parent Molly has spent time creating a pixel art representation of an alien
-
-
-    Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
-    Sonia:– Have you saved it?
-    Molly:– No I’ve not saved it.
-    Sonia:– Save there. (points to relevant button on screen)
-
-The full exchange sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge. This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
-
-The aspect of pattern completion driving technical process adoption is explored in the next chapter.
-
-<!-- #### Different styles of making
-PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
-<!-- #### Circulation of peers and helpers
-This often facilitates talk aloud of design decisions and justifications.
-Cross reference playtesting -->
-<!-- ### Accessing Help and Documentation
-
-In the emerging community there was a variety of help available including;
-
-- Written documentation from the learning design via step by step tutorials
-- A series of code examples in working code playgrounds
-- Facilitator help through asking for help
-- Student Helper attention and help
-- Peer support from parents and children -->
-
-<!-- #### Tactical use of in-session support time
-
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
-
-<!-- #### Tactics in accessing help from peers and facilitators
-
-A common teacher tactic is ask three then me.
-
-The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
-Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
-
-in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
-- Student helper to get online,
-- Peer parent about use of piskel, and then her son
-- Ne daughter
-- Mick overall facilitator -->
-
-### Discussion in Relation to Existing Research
-
-
-<!-- As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc]; -->
-
-<!-- Recap from Lit Review / Intro -->
-
-While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? )
-
-- time on asset design can detract from systemic and learning code concepts and syntax.
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
-<!-- - tension of a walled garden approach vs responding to freer design choices -->
-
-<!-- As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
-
-- propagation of assets..
-- pride sharing back?
-- value of feedback, asset creation as a speciality -->
-
-**Link Section**
-
-The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
-FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
-
-
-His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
-
-In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
-
-The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
-
-
-
-<!--
-NARROW THIS DOWN
-The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review. -->
-
-<!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
-<!-- 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
-
-Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them. -->
-
-<!--
-NOTE - When to put data about TOOLS in this chapter or that of the design chapter.
-As interlinked.  Data in design chapter when it is based on journal notes and personal / literature based decisions. -->
-<!-- NOTE - PULL FROM ALL SOURCES HERE - JOURNAL, VIDEO, INTERVIEWS -->
-<!-- ### Overview of contents of chapter (NOTES) -->
-
-<!-- ### Tools
-- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
-  - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
-
-- Physical Elements as Tools
-  - end boxes used as motivator / engagement
-  - extract from interview?
-
-### Creating Community Activity   
-
-- Theortical context
-  - Collaration from AT perspective - "collaborative activity" see [@eriksson_using_2019] for an overview
-
-- Peer - side by side coding.
-  - Parents coding too. See the comments by Molly:and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
-
-- Game Playing and Playtesting
-   - Game playing at start of program - no observations but sets context
-   - Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
-
-- Drama Process
- - differencing attitudes to games and technology
- - a reflective process to avoid distracting from activity & to share goals and process publically
-
-### Drawing on Funds by bridging Norms and Values between activity systems
-
-- Drawing on Funds of Game cultures
-   - player and maker types
-   - how to support emerging behaviours and give licence to young people  - side / sub missions
-   - the sub missions - divergent activities can be productive
-   - knowledge of GDP a fund - but one covered in detail in next chapter.
-
-Organic Responses emerging naturally from community
- - problems solving  - navigating limits of facilitator time
- - Fund of Knowledge that
-       - Home cultures and interests guiding subject matter for sub missions and character / scenario choice.
-
-NOTE  - THE DISCUSSION HERE ON FUNDS - NEEDS TO BE CLEAR HOW TO SEPARATE OUT FROM GDPS in the next chapter
-####  Notes on Discussion
-These are quite disparate so probably makes sense to have a separate discussion entwined in each section rather than one section at the ends.
-Relevant theory / studies.
-- funds of knowledge
-- AT theory for sub missions, in preparation for chapter on main mission / unit of activity
-This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
 ## Scenarios - drama processes
 
@@ -454,7 +261,204 @@ NOTE - HOW MUCH TO INTEGRATE DISCUSSION - LOOK AT CASE BY CASE.
 
 NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES
 
-The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. See the previous chapter for a recap.
+The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. See the previous chapter for a recap
+
+
+#### Starting design processes which draw on home funds of knowledge
+
+<!-- NOTE try to focus on agency as well? -->
+
+
+
+<!-- NOTE - research notes include
+- how agency can be viewed in this domain,
+- increasing persistance / determination due to ownership of game
+Gee - projected identity
+Papert & Resnick & Kafai - ownership
+Papert & Turkle - Turkle closeness to objects
+ -->
+
+At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices.
+
+One pair Ch and Pa the grandparents of Te, included a narrative at the start of their game.
+
+     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
+     Use the arrow keys to move the bee. Press return to START.";
+
+This did bring their own role as beekeepers into the making space and started interesting conversations with other participants.
+
+<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+
+   zi: Have you done amazing things?
+
+The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
+
+The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
+
+Participants Mark and Ed designed one game around the characters of a
+train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
+"I know just your eyes lit up when you realised you could expand your interests into gaming."
+
+See fuller extract in Appendix 4.x
+
+
+<!-- NOTE
+NARRATIVE / drama IN PREVIOUS CHAPTER?
+how do these two sections work together? remove this one?
+ -->
+Other participants were able to bring personal expression to the process via the creation of audio but in particular visual game assets.
+
+NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION? -
+
+<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
+
+<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
+
+<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
+
+In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
+
+In this exerpt parent Molly has spent time creating a pixel art representation of an alien
+
+
+    Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
+    Sonia:– Have you saved it?
+    Molly:– No I’ve not saved it.
+    Sonia:– Save there. (points to relevant button on screen)
+
+The full exchange sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge. This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
+
+The aspect of pattern completion driving technical process adoption is explored in the next chapter.
+
+<!-- #### Different styles of making
+PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
+<!-- #### Circulation of peers and helpers
+This often facilitates talk aloud of design decisions and justifications.
+Cross reference playtesting -->
+<!-- ### Accessing Help and Documentation
+
+In the emerging community there was a variety of help available including;
+
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children -->
+
+<!-- #### Tactical use of in-session support time
+
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
+
+<!-- #### Tactics in accessing help from peers and facilitators
+
+A common teacher tactic is ask three then me.
+
+The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator -->
+
+#### Discussion on home funds of knowledge INCORPORATE ABOVE
+
+
+<!-- As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc]; -->
+
+<!-- Recap from Lit Review / Intro -->
+
+While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? )
+
+- time on asset design can detract from systemic and learning code concepts and syntax.
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+<!-- - tension of a walled garden approach vs responding to freer design choices -->
+
+<!-- As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
+
+- propagation of assets..
+- pride sharing back?
+- value of feedback, asset creation as a speciality -->
+
+**Link Section**
+
+The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
+FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
+
+
+His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
+
+In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
+
+The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
+
+
+
+<!--
+NARROW THIS DOWN
+The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review. -->
+
+<!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
+<!-- 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
+
+Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them. -->
+
+<!--
+NOTE - When to put data about TOOLS in this chapter or that of the design chapter.
+As interlinked.  Data in design chapter when it is based on journal notes and personal / literature based decisions. -->
+<!-- NOTE - PULL FROM ALL SOURCES HERE - JOURNAL, VIDEO, INTERVIEWS -->
+<!-- ### Overview of contents of chapter (NOTES) -->
+
+<!-- ### Tools
+- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
+  - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
+
+- Physical Elements as Tools
+  - end boxes used as motivator / engagement
+  - extract from interview?
+
+### Creating Community Activity   
+
+- Theortical context
+  - Collaration from AT perspective - "collaborative activity" see [@eriksson_using_2019] for an overview
+
+- Peer - side by side coding.
+  - Parents coding too. See the comments by Molly:and her interactions / commentary. And the interaction of Ch-Pa and Te - the quiest support there.
+
+- Game Playing and Playtesting
+   - Game playing at start of program - no observations but sets context
+   - Play testing - and challenge - a culture of "hardness", curiosity about number of levels, as a vehicle for peer support,
+
+- Drama Process
+ - differencing attitudes to games and technology
+ - a reflective process to avoid distracting from activity & to share goals and process publically
+
+### Drawing on Funds by bridging Norms and Values between activity systems
+
+- Drawing on Funds of Game cultures
+   - player and maker types
+   - how to support emerging behaviours and give licence to young people  - side / sub missions
+   - the sub missions - divergent activities can be productive
+   - knowledge of GDP a fund - but one covered in detail in next chapter.
+
+Organic Responses emerging naturally from community
+ - problems solving  - navigating limits of facilitator time
+ - Fund of Knowledge that
+       - Home cultures and interests guiding subject matter for sub missions and character / scenario choice.
+
+NOTE  - THE DISCUSSION HERE ON FUNDS - NEEDS TO BE CLEAR HOW TO SEPARATE OUT FROM GDPS in the next chapter
+####  Notes on Discussion
+These are quite disparate so probably makes sense to have a separate discussion entwined in each section rather than one section at the ends.
+Relevant theory / studies.
+- funds of knowledge
+- AT theory for sub missions, in preparation for chapter on main mission / unit of activity
+This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
+
+
 
 #### Impact of Code Playgrounds and Phaser and a Javascript framework
 
@@ -639,7 +643,7 @@ NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
 
 PARK THIS FOR NOW IN DESIGN CHAPER
 
-COULD RETURN TO THIS IN A DISCUSSION CHAPTER - AS HAS IMPACT ON GDP TOO. 
+COULD RETURN TO THIS IN A DISCUSSION CHAPTER - AS HAS IMPACT ON GDP TOO.
 
 My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
