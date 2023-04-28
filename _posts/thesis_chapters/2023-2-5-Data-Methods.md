@@ -458,6 +458,11 @@ Relevant theory / studies.
 - AT theory for sub missions, in preparation for chapter on main mission / unit of activity
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
+#### Impact of half baked game platformer
+
+platformer?
+retro?
+any thing observable. 
 
 
 #### Impact of Code Playgrounds and Phaser and a Javascript framework
