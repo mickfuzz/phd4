@@ -119,6 +119,16 @@ The following elements have emerged from many in the learning design as of merit
 The chapter also starts to address the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners.
 Like swimming in a protected pool rather than in the sea.
 
+**Link Section - rewrite - move to intro?**
+
+The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
+FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
+
+His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
+
+In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
+
+The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
 
 
 ## Scenarios - drama processes
@@ -277,9 +287,11 @@ Papert & Turkle - Turkle closeness to objects
 
 #### Impact of half baked game platformer
 
- platformer?
- retro?
- any thing observable.
+platformer?
+retro?
+existing research on attraction of retro
+on half baked games
+on culture and livingstone
 
 
 PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
@@ -290,8 +302,7 @@ Take the example above, through use of pixel art editor, and template with small
 
 In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
 
-THIS HAS BEEN MOVED - REDISTRIBUTE 
-
+THIS HAS BEEN MOVED - REDISTRIBUTE
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
@@ -326,9 +337,7 @@ This is supported by other research on digital making and motivation. CITATION H
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
 
-
 #### Narratives and graphics drawing on home funds of knowledge
-
 
 At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
@@ -354,7 +363,6 @@ train driver that needed to collect coal. In subsequent post course interview th
 "I know just your eyes lit up when you realised you could expand your interests into gaming."
 
 See fuller extract in Appendix 4.x
-
 
 <!-- NOTE
 NARRATIVE / drama IN PREVIOUS CHAPTER?
@@ -419,7 +427,6 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 
 #### Discussion on home funds of knowledge INCORPORATE ABOVE
 
-
 <!-- As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc]; -->
 
 <!-- Recap from Lit Review / Intro -->
@@ -436,17 +443,6 @@ While, the personal expression via narrative and asset design can be engage and 
 - pride sharing back?
 - value of feedback, asset creation as a speciality -->
 
-**Link Section**
-
-The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
-FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
-
-
-His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
-
-In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
-
-The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
 
 
 
@@ -544,7 +540,7 @@ In response to on-going frustrations of time blockages, where were commonly refl
 
 In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
- During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 
 
 
@@ -589,7 +585,6 @@ By the time video data recording started there were already complex patterns and
 
 #### The emerging playtesting processes
 
-
 There were a variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience. Playtesting appeared to be suited to allow a diversity of community-building behaviour.
 
 Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
@@ -632,12 +627,12 @@ what is there ? - included
 
 NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
 
- My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
 
 <!--
