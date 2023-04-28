@@ -501,7 +501,7 @@ The initial impact is explored above - recap?
 
 #### Discussion on tools/processes when designing for agency / participation in new coding community
 
-PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. 
+PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
 
 To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
 
@@ -509,9 +509,7 @@ Take the example above, through use of pixel art editor, and template with small
 
 In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
 
-
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
-
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
 (may need to move?)
 Just create a summary here.
@@ -536,10 +534,7 @@ The starting three assets, player, hazard and reward provide a scaffold to  guid
 
 The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
 So while structured to avoid
-
  -->
-
-
 
 <!-- Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
 This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
@@ -547,9 +542,7 @@ This is supported by other research on digital making and motivation. CITATION H
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
 
-
 <!-- Perhaps move later after GDP chapter?  -->
-
 <!-- **Limitation of asset work as a GDP**
 Note the limits of this interpretation
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
@@ -642,7 +635,19 @@ NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
 
 
 <!--
-### Building Identities as Game Makers DROP THIS FOR NOW MOVE TO NEW PAPER
+### Building Identities as Game Makers  - EXTENDED
+
+PARK THIS FOR NOW IN DESIGN CHAPER
+
+COULD RETURN TO THIS IN A DISCUSSION CHAPTER - AS HAS IMPACT ON GDP TOO. 
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
 
 My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
