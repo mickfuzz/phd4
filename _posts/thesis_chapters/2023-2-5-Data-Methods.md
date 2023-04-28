@@ -109,9 +109,9 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter addresses observable responses to design interventions and resulting discussions through the lens of learner agency and authenticity of learning community context.
+This chapter addresses observable responses to design interventions and resulting discussions through the lens of learner agency. The role of authenticity of learning community context and ability for learners to develop their identity as designers is also examined.
 
-NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH.
+<!-- NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH. -->
 
 **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
@@ -184,8 +184,7 @@ In this exerpt parent Molly has spent time creating a pixel art representation o
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
 
-We can see Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge.
-This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
+The full exchange sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge. This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
 
 The aspect of pattern completion driving technical process adoption is explored in the next chapter.
 
@@ -319,21 +318,11 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 ### Vignette one - starting a drama process
 
-This sections starts with a vignette of the start of an game making programme. The purpose of the vignette is to situate the reader, give an overview of
+This sections starts with a vignette of the start of an game making programme. It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
 
-It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
+The session starts with a game which proceeds with a lot of developments including many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure.
 
-> Mick: Ok let’s make a start. Come to the front and I’ll do a super quick….
-I’ll do my favourite game which is where we have to count to 12 but we’re not allowed to go in a particular order of people. We do go in a particular order of people. And if two people say a number at the same time then we have to start again. We’ll give it a go. You’ll get the idea.
-
-> Molly: Is there a penalty if we do?
-
-> Mick: There’s no penalty. (Group laugh.)
-
-The game starts and participants try to complete the challenge to count to 12 without talking over each others. The game proceeds with a lot of funny developments. These are hard to describe but include many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and entreaties to give it one last go. The game ends in good hearted failure.
-
-> Mick: That was pretty funny.
-> Mark: It’s brilliant.
+<!-- The purpose of the vignette is to situate the reader, give an overview of -->
 
 > Mick: Ok. So I’ve got a surprise. I don’t know if you know but as part of our Home Ed club we did a page of different games. So it’s on glitch.com and it’s called Glitch Game Club and it’s on there, there’s one for Home Ed Winter 2019 and here are all the games that we made. We made a lot of games. 15 games. This has not gone unnoticed because I got a message through this account. This is kind of a story now. We are entering a story. You have to use your imagination. We got a message and it was an audio message. If you guys take your fingers off your keyboards and have a listen to this audio message which is quite unusual as I don’t think it was from anyone on … this ... Earth.
 
@@ -358,32 +347,6 @@ The game starts and participants try to complete the challenge to count to 12 wi
 
 > So all they’re asking us to do is to come up with a game. We’ve got four sessions. They want a new game because they’ve already played our old games. It’s got to be something about the problems of the world. I’ve got a lot of problems. It could be big problem or a small problem. It could be about your problems. But also ideas on how to solve them.  
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of it as well. That’s our mission.
-
-> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
-
-> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
-So what they suggested is. why don’t I put t so there’s a link so right to the chapter for how to do it right next to that image.
-So that makes sense really so I’m going to to do that.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
-
-> Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
-And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
-
-> So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
-What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
 
 ### Commentary on Vignette part one
