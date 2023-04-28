@@ -417,11 +417,7 @@ Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
 
 
-
-
 NOTE - THIS IS REVERSED IN ORDER - AS F
-
-
 
 The missions that were introduced as part of the drama narrative
 
@@ -430,8 +426,6 @@ The missions that were introduced as part of the drama narrative
 As part of the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by
 
 Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
-
-### Discussion of the process drama
 
 ### Discussion of the process drama
 
@@ -445,13 +439,16 @@ In this sense, there is a high degree of authenticity made possible by the digit
 But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
 
 
-## The impact of tools, documentation and emerging technical processes - MERGE THIS WITH DESIGN PROCESSES BELOW
+## The impact of tools, documentation and other processes
 
-This section looks in greater depth at the impact on learners of the tools and sugested design patterns of the learning design explored in the previous chapter.
-It then progresses to explore some of the emerging and flexible design processes and tools that emerge from the starting design.
+This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter.
+It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design.
 
 #### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
+
 Above we explored Heathcote's understanding of the importance of authentic tools in the process MoE.
+NOTE - HOW MUCH TO INTEGRATE DISCUSSION - LOOK AT CASE BY CASE.
+
 
 ### Starting Tools and processes
 
@@ -498,12 +495,13 @@ In making decisions like the one to include extra visual scaffolding in step by 
 The initial impact is explored above - recap?
 
 
-
  <!-- ## Game playing at start of program - no observations but sets context
 
  Find examples -->
 
 #### Discussion on tools/processes when designing for agency / participation in new coding community
+
+PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. 
 
 To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
 
