@@ -264,11 +264,8 @@ NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOO
 The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. See the previous chapter for a recap
 
 
-#### Starting design processes which draw on home funds of knowledge
 
 <!-- NOTE try to focus on agency as well? -->
-
-
 
 <!-- NOTE - research notes include
 - how agency can be viewed in this domain,
@@ -277,6 +274,61 @@ Gee - projected identity
 Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
+
+#### Impact of half baked game platformer
+
+ platformer?
+ retro?
+ any thing observable.
+
+
+PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
+
+To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
+
+Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
+
+In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
+
+THIS HAS BEEN MOVED - REDISTRIBUTE 
+
+
+<!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
+<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
+(may need to move?)
+Just create a summary here.
+
+Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
+-->
+
+<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
+-->
+
+<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?
+
+Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
+
+The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
+
+The core GDP involving game assets already exist in the starting template.
+- Objects as a reward to incentivise player exploration
+- Objects as a hazard penalising player progress
+
+The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
+
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
+So while structured to avoid
+-->
+
+<!-- Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
+This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
+
+**Tangled nature of graphics and narrative in this design**
+In the data analysed, young people -->
+
+
+#### Narratives and graphics drawing on home funds of knowledge
+
 
 At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
 
@@ -458,11 +510,6 @@ Relevant theory / studies.
 - AT theory for sub missions, in preparation for chapter on main mission / unit of activity
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
-#### Impact of half baked game platformer
-
-platformer?
-retro?
-any thing observable. 
 
 
 #### Impact of Code Playgrounds and Phaser and a Javascript framework
@@ -499,57 +546,7 @@ In making decisions like the one to include extra visual scaffolding in step by 
 
  During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 
-#### Visual and Audio asset creation
 
-The initial impact is explored above - recap?
-
-
- <!-- ## Game playing at start of program - no observations but sets context
-
- Find examples -->
-
-#### Discussion on tools/processes when designing for agency / participation in new coding community
-
-PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
-
-To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
-
-Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
-
-In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
-
-<!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
-<!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
-(may need to move?)
-Just create a summary here.
-
-Existing research on digital making and creative coding has emphasised the role of personal expression to incentivise the creative process [Scratch roque community]. The creation of personally meaningful object to share with a community is a foundational concept in Papert's constructionism [CITE]. While the 3M design is more limited than a Scratch media project in the potential to incorporate home interests, participants did embrace existing immediately clear possibilities offered by the certain GDPs in the 3M starting design.
--->
-
-<!-- NOTE - add into the design chapter - challenge of personal expression, incoroporating previous gaming interests and unrealistic expectations.
- -->
-
-<!-- NOTE IS THE FOLLOWING ALSO FOR THE DESIGN CHAPTER?
-
-Another opportunity involved choice and design of game assets that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-The incorporation and design of game assets is taken as work on GDP for the purpose of this model.
-
-The core GDP involving game assets already exist in the starting template.
-- Objects as a reward to incentivise player exploration
-- Objects as a hazard penalising player progress
-
-The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
-
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
-So while structured to avoid
- -->
-
-<!-- Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
-This is supported by other research on digital making and motivation. CITATION HERE? - or in cultural discussion?  
-
-**Tangled nature of graphics and narrative in this design**
-In the data analysed, young people -->
 
 <!-- Perhaps move later after GDP chapter?  -->
 <!-- **Limitation of asset work as a GDP**
