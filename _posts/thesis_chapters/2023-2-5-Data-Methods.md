@@ -261,7 +261,9 @@ In this sense, there is a high degree of authenticity made possible by the digit
 But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
 
 Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day.
-See interview Bolton and Heathcote - (early in that text)
+See interview Bolton and Heathcote
+> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_expertness would become immediately apparent."@heathcote_drama_1994, p. 18
+
 As an example in a shoe factory, the supporting resources would x, y and z but not actually making the shoes,
 In the learning environment of this study there are broad similarties and some key differences in terms of supporting tools and processes.
 Some more detail. But the are explored in more detail in the following section.
