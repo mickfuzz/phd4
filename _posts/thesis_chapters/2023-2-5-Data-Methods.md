@@ -109,15 +109,16 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter addresses observable responses to design interventions and resulting discussions through the lens of learner agency. The role of authenticity of learning community context and ability for learners to develop their identity as designers is also examined.
+This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter. To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
+
+Following Heathcote, the importance and challenges of authenticity in tool use are examined in a learning community context. In addition, learner agency and the ability for learners to develop their identities as designers is also of key interest. For example, in the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea.
 
 <!-- NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH. -->
 
 **Justifying selection of chapter contents**
-The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; and of potential wider interest outside this context.
+The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 
-The chapter also starts to address the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners.
-Like swimming in a protected pool rather than in the sea.
+
 
 **Link Section - rewrite - move to intro?**
 
@@ -262,7 +263,7 @@ But some shepherding involved, screening from complexities, marshalling towards 
 
 Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day.
 See interview Bolton and Heathcote
-> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_expertness would become immediately apparent."@heathcote_drama_1994, p. 18
+> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
 As an example in a shoe factory, the supporting resources would x, y and z but not actually making the shoes,
 In the learning environment of this study there are broad similarties and some key differences in terms of supporting tools and processes.
@@ -1007,7 +1008,7 @@ A bullet point summary follows
 
 ### Link section to next chapter
 
-
+We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter. 
 
 This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements.
 
