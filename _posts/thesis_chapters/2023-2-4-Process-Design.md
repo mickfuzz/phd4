@@ -417,7 +417,7 @@ I was struck that his incident happened during a session where I had not played 
 
 -   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
 -   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
--   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation). -->
+-   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with thx`e need for low pressure (avoiding a negative sense of obligation). -->
 
 **Encouraging peer learning vs social restrictions**
 The same family also gave useful feedback about social norms of not bothering people getting in the way of asking for help.
