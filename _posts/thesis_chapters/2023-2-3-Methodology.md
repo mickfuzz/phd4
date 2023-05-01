@@ -34,26 +34,26 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 
 ## Recoding data - gdps and for agency
- 
+
 ### Coding use of GDP.
 
-GDPs and their interaction with play-testing to build a community
-GDPs and personal expression (cultural)
-Use of design patterns as a form of / to facilitate apprenticeship
-Use of Help and Documentation related to GDP
+- GDPs and their interaction with play-testing to build a community
+- GDPs and personal expression (cultural)
+- Use of Help and Documentation related to GDP
+- Use of design patterns as a form of / to facilitate apprenticeship
 
-GDPs for Goal Setting and Prioritisation
-GDPs and division of Labour
-GDPs motivation and sustaining engagement
-GDPs propagation through peer activity
+- GDPs for Goal Setting and Prioritisation
+- GDPs and division of Labour
+- GDPs motivation and sustaining engagement
 GDPs to support Flexible (Iterative) Design Practices
-Interaction of GDPs and designing for others as a method -
-GDP to receive feedback on playability
+- GDPs propagation through peer activity
+- Interaction of GDPs and designing for others as a method -
+- GDP to receive feedback on playability
 
 
-Mutual approaches to knowledge building
-Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
-GDP as a way to explore Computational Thinking Concepts
+- Mutual approaches to knowledge building
+- Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
+- GDP as a way to explore Computational Thinking Concepts
 
 
 
