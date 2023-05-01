@@ -57,13 +57,42 @@ GDPs to support Flexible (Iterative) Design Practices
 
 
 
-### Coding impact on design/ processes on learner agency - boil down
+### Coding based on chapter 4
+
+Drama
+- 4.a.1 Drama process and reflection (all did part of it but code references also to mentions of it)
+- 4.a.2 Engagement with secret and public missions within drama
+- 4.a.3 Engagement with live chat - for social activity, and to ask questions out of class
+
+By Design
+- 4.b.1 Half baked template & code playgrouds and phaser - (hard to code for as quite constant) cf rapid prototyping
+- 4.b.2 Use of home narratives & personal expression via graphics (separate?)
+- 4.b.3. Documentation
+  - via code examples
+  - step-by-step tutorials online
+  - step-by-step tutorials printed out
+- 4.b.4. Guided code patching - design - n
+
+Emergent
+- 4.c.1. Rapid prototyping
+- 4.c.2. Alternate coding between participants
+- 4.c.3. Parent shifting role between facilitor and more directive
+- 4.c.4. Accessing out of scope documentation from professional circles
+- 4.c.5. Playtesting emergent elements
+  - discussing challenge
+  - the play around the playtesting
+
+
+
+### Coding impact on design/ processes on learner agency - boiled down
+
+THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 
 - learners developing agency through personal expression of home and other Identities
 - agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community Playtesting
+- agency through flexible design cycle pathways, especially via community playtesting
 - developing agency through celebration of different game maker styles
-- authenticity of tool use, especialy docs and access to Community
+- authenticity of tool use, especially docs and access to Community
 - authenticity of audience - and role of drama to facilitate reflection
 
 

@@ -309,10 +309,11 @@ existing research on attraction of retro
 on half baked games
 on culture and livingstone
 
-
 PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
 
 To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
+
+
 
 Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
 
@@ -352,6 +353,20 @@ This is supported by other research on digital making and motivation. CITATION H
 
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
+
+### Impact of Code Playgrounds and Phaser and a Javascript framework
+
+<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
+Instead the more authentic approach of a real language.
+ -->
+
+The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways.
+
+<!-- Bring out detail from the study to this section.
+ - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
+<!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
+
 
 ### Narratives and graphics drawing on home funds of knowledge
 
@@ -524,18 +539,6 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 
 
-### Impact of Code Playgrounds and Phaser and a Javascript framework
-
-<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
-Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
-Instead the more authentic approach of a real language.
- -->
-
-The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways.
-
-<!-- Bring out detail from the study to this section.
- - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
-<!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
 ### Documentation via code examples and step-by-step tutorials
 
