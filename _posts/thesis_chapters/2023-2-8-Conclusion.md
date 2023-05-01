@@ -29,19 +29,29 @@ title: Conclusion
   - Tangential next steps for research  
     - Use of physical computing elements and embodied approaches
 
+
+
+## Synthesis of reflections on designing for learner agency
+
+Pulling all together with recommendations from research . add in from notes
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community Playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especialy docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection 
+
 ## Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
 
 - Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
   - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
   - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
-
-
-
-
+- Recap limitations and contextual factors of computing in schools and diverse environments
 
 ## Overview of 3M pedagogical model
 
-NOTE - PERHAPS MOVE THIS TO A LATER CHAPTER  - PROBABLY
+NOTE - INTRODUCE WITH MOTIVE TO ADAPT FOR
 
 
 The process of developing the learning design happened in tandem with the data gathering. The model was guided by reflection and feedback from ongoing game making sessions. In summer 2020 I began early dissemination of results and wanted to be able to present the essence of the learning resources and design to fellow practitioners and participants as well as researchers.
@@ -123,7 +133,7 @@ Physical maps in Phase 3.   -->
 ## Revisiting framework to facilitate designing for an emerging community of coders
     - Explore possibility to extend this to other domains
 
-## Caveats of / Reflections on research environments
+## Caveats of / Reflections on research environments - MOVE ABOVE/?
 
 
 ### Advantages and limitations of Home Education context
@@ -133,3 +143,5 @@ Comments include:
 - Reflecting back on interview there were very highly insightful comments from home educators that did influence the design.
 - Thus a very fruitful area for jointly created design research
 - However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.
+
+### How can this map to other computing environments?
