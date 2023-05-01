@@ -32,6 +32,42 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
     - Broad description
     - Gesture analysis
 
+
+## Recoding data - gdps and for agency
+ 
+### Coding use of GDP.
+
+GDPs and their interaction with play-testing to build a community
+GDPs and personal expression (cultural)
+Use of design patterns as a form of / to facilitate apprenticeship
+Use of Help and Documentation related to GDP
+
+GDPs for Goal Setting and Prioritisation
+GDPs and division of Labour
+GDPs motivation and sustaining engagement
+GDPs propagation through peer activity
+GDPs to support Flexible (Iterative) Design Practices
+Interaction of GDPs and designing for others as a method -
+GDP to receive feedback on playability
+
+
+Mutual approaches to knowledge building
+Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
+GDP as a way to explore Computational Thinking Concepts
+
+
+
+### Coding impact on design/ processes on learner agency - boil down
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community Playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especialy docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
+
+
+
 ## Theoretical Framework
 
 <!-- The following terms and concepts have already been explored in the literature review.
