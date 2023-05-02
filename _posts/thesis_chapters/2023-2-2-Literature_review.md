@@ -10,7 +10,6 @@ categories: chapter
 title: Literature Review
 ---
 
-
 ## Literature Review overview
 
 NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURAL LIKE KAFAI?
@@ -23,7 +22,8 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
       - more general / social / 21st C, computational fluency
 - Coding pedagogies and how they align with motivations  
   - Instruction
-  - UMC and Games - Half-baked games
+  - UMC and Games 
+    - Half-baked games
   - PRIMM - bridging exploration and instruction, semantic waves
   - Pair programming - social coding
   - Design-based & Tinkering / Exploratory - Bevan et al

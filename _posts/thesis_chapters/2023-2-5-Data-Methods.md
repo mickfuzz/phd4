@@ -302,17 +302,14 @@ This section looks in greater depth at the impact on learners of the tools and s
 
 It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design. -->
 
-### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
+**Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)**
 
 Above we explored Heathcote's understanding of the importance of authentic tools in the process MoE.
 NOTE - HOW MUCH TO INTEGRATE DISCUSSION - LOOK AT CASE BY CASE
 
 The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. See the previous chapter for a recap
 
-
-
 <!-- NOTE try to focus on agency as well? -->
-
 <!-- NOTE - research notes include
 - how agency can be viewed in this domain,
 - increasing persistance / determination due to ownership of game
@@ -321,19 +318,22 @@ Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
 
-#### Impact of CORE TOOLS
+### Impact of CORE TOOLS
+
+
+The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
+
+The last chapter outlined the basics. A 2D platformer with retro graphics aesthetics. The use of a code playground and phaser library. This section gives a very brief overview of facilitator observations in these areas.
 
 #### Impact of half baked game platformer
 
-platformer?
-retro?
-existing research on attraction of retro
-on half baked games
+Existing research outlines the attraction of retro
+
+Half baked games, as explored in literature review, 
+
 on culture and livingstone
 
 PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
-
-To a great degree the designer of the starting toolset and mission has a large influence on the balance and profile of community activity
 
 
 
