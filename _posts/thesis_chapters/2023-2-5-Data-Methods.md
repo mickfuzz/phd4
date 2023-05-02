@@ -179,21 +179,31 @@ And yeah. That we can work by ourselves but also work as part of a team. So weâ€
 
 <!-- q: How much to reference back to previous chapter? -->
 
-This transcript is a rare example of extended facilitator input as instruction. The vignette above covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation.
+This transcript is a rare example of extended facilitator input as instruction.
 
-### Impact of the drama on participant affect
+In the full transcript in the appendix the process covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation.
 
+
+
+### General observations of the drama narrative on participants
+
+NOTE - NEED TO GATHER EVIDENCE ON THIS.
 
 The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE WITH DISCUSSION.
 
 The session progresses from this game to a drama process with
 
 As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
-ADD MORE COMMENTARY ON DRAMA PROCESS  
+ADD MORE COMMENTARY ON DRAMA PROCESS
 
-### Impact of exploring documentation and technical help within the drama frame
+### Observations on exploring documentation and technical help within the drama frame
 
 The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
+
+- My own reactions in journal - overcoming reluctance in teaching
+- via email chats / with aliens explored in vignette 2.
+
+
 
 
 <!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
