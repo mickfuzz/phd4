@@ -22,7 +22,7 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
       - more general / social / 21st C, computational fluency
 - Coding pedagogies and how they align with motivations  
   - Instruction
-  - UMC and Games 
+  - UMC and Games
     - Half-baked games
   - PRIMM - bridging exploration and instruction, semantic waves
   - Pair programming - social coding
@@ -220,7 +220,11 @@ chapters/planning/lit review/game making/overview of gamemaking studies part one
 
 The 'Use-Modify-Create' approach proposed by Lee and colleagues 2011) is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies Denner et al., 2014, 2012; Werner et al., 2014, 2013).
 
-The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures Lee et al., 2011). The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model Kynigos, 2007; Kynigos and Yiannoutsou, 2018). The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336). Elements of learning designs to support dialogue are explored in a later section of this writing.
+The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures Lee et al., 2011). 
+
+The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
+
+Kynigos, 2007; Kynigos and Yiannoutsou, 2018. The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336). Elements of learning designs to support dialogue are explored in a later section of this writing.
 
 ### Design Patterns and Games
 
