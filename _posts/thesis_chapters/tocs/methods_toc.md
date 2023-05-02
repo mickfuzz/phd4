@@ -27,12 +27,12 @@
         Authenticity)](#recap-on-the-importance-of-tools-in-an-informal-setting---on-agency-and-authenticity)
     -   [Impact of half baked game
         platformer](#impact-of-half-baked-game-platformer)
+    -   [Impact of Code Playgrounds and Phaser and a Javascript
+        framework](#impact-of-code-playgrounds-and-phaser-and-a-javascript-framework)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
     -   [Discussion on home funds of knowledge INCORPORATE
         ABOVE](#discussion-on-home-funds-of-knowledge-incorporate-above)
-    -   [Impact of Code Playgrounds and Phaser and a Javascript
-        framework](#impact-of-code-playgrounds-and-phaser-and-a-javascript-framework)
     -   [Documentation via code examples and step-by-step
         tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
     -   [Guided Code Patching Process](#guided-code-patching-process)

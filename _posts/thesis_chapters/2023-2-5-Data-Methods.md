@@ -38,12 +38,12 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         Authenticity)](#recap-on-the-importance-of-tools-in-an-informal-setting---on-agency-and-authenticity)
     -   [Impact of half baked game
         platformer](#impact-of-half-baked-game-platformer)
+    -   [Impact of Code Playgrounds and Phaser and a Javascript
+        framework](#impact-of-code-playgrounds-and-phaser-and-a-javascript-framework)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
     -   [Discussion on home funds of knowledge INCORPORATE
         ABOVE](#discussion-on-home-funds-of-knowledge-incorporate-above)
-    -   [Impact of Code Playgrounds and Phaser and a Javascript
-        framework](#impact-of-code-playgrounds-and-phaser-and-a-javascript-framework)
     -   [Documentation via code examples and step-by-step
         tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
     -   [Guided Code Patching Process](#guided-code-patching-process)
@@ -80,6 +80,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
             Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
         -   [Appendix 4.x - Extract of interaction between Molly
             and](#appendix-4.x---extract-of-interaction-between-molly-and)
+
 
 <!-- ## Overview in points
 
