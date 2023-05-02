@@ -23,7 +23,8 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
   - Design based intervention / research
   - Conceptions of Agency (revisited) & implications for design / analysis from DBR and CHAT
 - Methods
-  - Justification of GDP as a key unit of analysis
+  - Discussion about scope of analysis -
+   - Justification of GDP as a key unit of analysis
     - implications for granularity of research data (via video capture etc)
     - other questions to inform context and community (via interview data)
   - Data gathering
@@ -149,7 +150,12 @@ Barab and Squire [-@barab_design-based_2004] describe the messiness of design-ba
 
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
-## Justification of GDP as choice of primary unit of analysis
+
+## Conceptualising activity in this learning design
+
+This section examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
+
+NOTE - for similar work see [@barab_using_2002]
 
 ### Levels of Abstraction in Activity Theory
 
@@ -171,8 +177,14 @@ From the perspective of participants, the goal of implementing individual game p
 - any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
 
 
+### Justification of GDP as a unit of analysis
 
-### Find a home for this writing
+This may be a smaller unit than common in sociological studies.
+
+Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
+
+
+### Conceptualising activity in this learning design
 
 **Activity, Actions and Operations**
 
@@ -202,10 +214,6 @@ The implementation of GDPs as a unit of analysis for the researcher also has the
 - That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
 
 This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
-
-
-
-
 
 NOTE REWRITE THIS
 
