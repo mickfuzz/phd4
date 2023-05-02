@@ -132,6 +132,13 @@ In a similar vein, drama processes like the mantle of the expert are designed an
 
 The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
 
+The previous section examined the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
+
+This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter.
+
+It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design.
+
+
 
 ## Scenarios - drama processes
 
@@ -277,11 +284,13 @@ Some more detail. But the are explored in more detail in the following section.
 
 NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES
 
-The previous section examined the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
+<!--
+MOVED TO INTRO
+ The previous section examined the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
 
 This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter.
 
-It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design.
+It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design. -->
 
 ### Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)
 
@@ -302,7 +311,9 @@ Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
 
-### Impact of half baked game platformer
+#### Impact of CORE TOOLS
+
+#### Impact of half baked game platformer
 
 platformer?
 retro?
@@ -355,7 +366,7 @@ This is supported by other research on digital making and motivation. CITATION H
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
 
-### Impact of Code Playgrounds and Phaser and a Javascript framework
+#### Impact of Code Playgrounds and Phaser and a Javascript framework
 
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
 Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
@@ -367,6 +378,19 @@ The limits that this imposed and the development of a new technique of patching 
 <!-- Bring out detail from the study to this section.
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
+
+#### Rapid prototyping
+
+As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
+
+ - Well suited to build a repeated design practice.
+ - Especially with starting documents,
+ - Small changes had big effects.
+ - Variable changes needed immediate testing.  
+
+While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+
+A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 
 ### Narratives and graphics drawing on home funds of knowledge
@@ -741,18 +765,7 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
  -->
 
-### Rapid prototyping
 
-As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
-
- - Well suited to build a repeated design practice.
- - Especially with starting documents,
- - Small changes had big effects.
- - Variable changes needed immediate testing.  
-
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
-
-A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
 ### Alternating coding
 
