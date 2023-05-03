@@ -325,17 +325,14 @@ The choice of the starting toolset and mission shapes the balance and profile of
 
 The last chapter outlined the basics. A 2D platformer with retro graphics aesthetics. The use of a code playground and phaser library. This section gives a very brief overview of facilitator observations in these areas.
 
-#### Impact of half baked game platformer
+**The half-baked starting platformer game**
 
-Existing research outlines the attraction of retro
+Existing research outlines the attraction of retro, (introduction) on culture and livingstone
 
-Half baked games, as explored in literature review, 
+Half baked games, as explored in literature review,
 
-on culture and livingstone
 
 PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
-
-
 
 Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
 
@@ -383,7 +380,7 @@ Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
  -->
 
-The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways.
+The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways. [@blunden_interdisciplinary_2009]
 
 <!-- Bring out detail from the study to this section.
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->

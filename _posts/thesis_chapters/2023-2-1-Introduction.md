@@ -168,7 +168,21 @@ While projects are mentioned as a principle that allows learners to deepen their
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
 
-## Game Making, Project Based Learning and Inclusion
+
+### The context of retro gaming
+
+This study concerns the creation of games and for reasons that will be explored uses a design tool set that suits the creation of retro-games from the era of early arcade games from the 1970s and early 1980s and early generation of home consoles atari, nes and megadrive.
+
+Significant contextual factors include (and supporting literature references):
+
+- Retro games have a particular aesthetic driven by graphical limitations
+- Simplified game mechanics
+- For older participants, the effect of nostalgia is significant.
+
+These factors have been used by educators and community builders to faciliate x and y?
+
+
+### Game Making, Project Based Learning and Inclusion
 
 Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
 
