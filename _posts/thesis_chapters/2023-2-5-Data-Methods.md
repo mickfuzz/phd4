@@ -1099,6 +1099,14 @@ A bullet point summary follows
 - getting help from all sources possible -->
 
 
+### Chapter conclusion
+
+List concluding points here 
+
+- one
+- two
+- three
+
 ### Link section to next chapter
 
 We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter.
