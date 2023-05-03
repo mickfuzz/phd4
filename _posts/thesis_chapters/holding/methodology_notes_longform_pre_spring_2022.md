@@ -532,6 +532,7 @@ The concept of double stimulation originates with Vygotsky and is extended and a
 
 Most commonly described as method, double stimulation, put simply, involves providing experimental participants with the means (second stimulus) to express an internal states of mind in response to a task set as a first stimulus Sannino, 2015). While Vygotsky did not originally anticipate the artefacts of secondary stimulation to be ones purposefully designed by the experimenter, and thus termed them "neutral stimulation" Engeström, 2007, p. 373), other writers have started to use this term to encompass just this kind of deliberate use Valsiner and Veer, 2000). Engestrom finds the term neutral problematic as such stimuli are often embedded with affordances and potential of various kinds.
 
+
 Application of Double Stimulation to my Study
 
 In the context of my study, I have divided up the tools used in my intervention based on Vygotsky's distinction above, but using an the later interpretation to include tools which are explicitly designed by the researcher / facilitator.
