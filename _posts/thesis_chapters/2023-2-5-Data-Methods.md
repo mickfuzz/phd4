@@ -196,12 +196,6 @@ The session progresses from this game to a drama process with
 As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
 ADD MORE COMMENTARY ON DRAMA PROCESS
 
-### Observations on exploring documentation and technical help within the drama frame
-
-The final part of this vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
-
-- My own reactions in journal - overcoming reluctance in teaching
-- via email chats / with aliens explored in vignette 2.
 
 
 
@@ -218,9 +212,13 @@ Here we are looking at something cultural?? -->
 
 This extract comes from the second session in phase 4. A similar pattern happened for other sessions in the phase with 10 minutes allocated to this kind of reflection in drama.  
 
+
+
+
+
 ### Impact of the drama process on reflection
 
-**My reflections as a practioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
+**My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
 
 Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience
 
@@ -262,37 +260,57 @@ NOTE INSERT - Examples of interactions?
 Some kind of coded data? Like out of x participants, y visibly engaged with missions.
 The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
 
-### Impact of live chat with the alien sessions
+### Observations on exploring documentation and technical help within the drama frame
 
-As part of the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by
+In the full transcript of  vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
+
+- My own reactions in journal - overcoming reluctance in teaching
+- via email chats / with aliens explored in vignette 2.
+
+### Observations on live chat with the alien sessions
+
+As part of the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participant.
 
 Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
 
+There is a clear tension in the final session where a large amount of time was devoted to interacting with the alien and thus becoming a primary play aim. Thus the danger is it becomes a distraction.
+
+However this may be offset with other positive factors.
+ - positive affect of participants
+ - role as something to look forward to as an end of course celebration (no showcase for this one)
+
 ### Initial discussion of the process drama (focusing on authenticity of tools)
 
-Examine MoE and this process drama through
-Turn to authenticity of the tools involved.
-Compare Heathcote's approach to tools to this learning design
+<!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
-The next section examines inpact of relatively authentic toolset.
+MISSING -  MoE and this process drama in more general terms
 
-In this sense, there is a high degree of authenticity made possible by the digital nature of the learning resources.
-But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+NOTE - PROCESS DRAMA VS MOE EARLIER? RESURFACE?
 
-Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day.
+However, the authors are agreed on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame. One key consideration is the authenticity of the tools and processes involved. Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day.
 See interview Bolton and Heathcote
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
 As an example in a shoe factory, the supporting resources would x, y and z but not actually making the shoes,
-In the learning environment of this study there are broad similarties and some key differences in terms of supporting tools and processes.
-Some more detail. But the are explored in more detail in the following section.
+In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes.
 
-.
+<!-- NOTE ADD SOME DETAIL detailBut the are explored in more detail in the following section. -->
+
+For example in this iteration, x is authentic,
+
+In this sense, there is a high degree of authenticity made possible by the digital nature of the learning resources.
+But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
+
+The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
 
 
 ## The impact of starting tools, documentation and other processes
 
-NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES
+<!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
+
+
+NOTE - INPUT A SMALL AMOUNT ABOUT WHAT IS MISSING FROM THIS SECTION DUE TO PARTICULAR FOCUS
 
 <!--
 MOVED TO INTRO
@@ -320,25 +338,79 @@ Papert & Turkle - Turkle closeness to objects
 
 ### Impact of CORE TOOLS
 
-
 The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
+
+**Choice of code playgrounds and phaser javascript framework**
+
+<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
+Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
+Instead the more authentic approach of a real language.
+ -->
+
+Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity.
+
+My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+
+I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways. [@blunden_interdisciplinary_2009]
+
+**The half-baked starting platformer game and supporting resources**
 
 The last chapter outlined the basics. A 2D platformer with retro graphics aesthetics. The use of a code playground and phaser library. This section gives a very brief overview of facilitator observations in these areas.
 
-**The half-baked starting platformer game**
+To recap, in phase 2 the starting toolset were introduced to learners via a challenge to fix a broken game. The template consisted of game of player, platforms, and coins to collect and hazards to avoid. However the game could not be completed as the jump heigh prevented progress.  Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress.
 
-Existing research outlines the attraction of retro, (introduction) on culture and livingstone
+This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study.
 
-Half baked games, as explored in literature review,
+However, journal notes taken in phases 2 and 3 and triangulated with participant feedback from phase one support and video observations of the built proficiency of learners support the following observations
+
+- Existing research outlines the attraction of retro, (introduction) on culture and livingstone
+- Half baked games, as explored in literature review,
+
+<!-- PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. -->
+
+The process
+
+- The rapid level prototyping
+- fluid The variable editing
+- The swapping of assets
+- code syntax alteration
+- rapid development of simple stories to bump personal expression and narrative
+
+All longer or shorter chains of actions , becoming operations
 
 
-PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION.
 
+Also justify having so emergent results here , delay while accessing help to start 360 recordings h
+As the end process is visible in fluid behaviour
+
+
+<!-- I used to share keyboard shortcuts as magic tricks
+- Copy paste
+- Cntl and end
+- Page down -->
+
+**Exploring Tension - time spent on task**
 Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
 
-In addition, the use of blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
+**Exploring Tension - some left behind**
+Some participant do not pick up all processes, some left behind and need support but that is available and creates a reason to ask for help.
 
-THIS HAS BEEN MOVED - REDISTRIBUTE
+**Bump starting narrative and art creativity**
+The use of blank blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
+
+
+**Syntax and swapping assets**
+
+Perhaps do this as an example? of the chains
+
+**Development of digital literacy skills**
+Also the digital literacy skills here are authentic including
+- File downloading and migration from one Web app to another via desktop
+- Tab navigation
+- Tool bar use in piskel , simplified photoshop , list different , crop, fill , export
+- Copy and paste
+- Selecting more than one line with mouse
+
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
 <!-- NOTE - CROSS OVER WITH PREVIOUS CHAPTER? PROBABLY DESIGN
@@ -373,14 +445,7 @@ This is supported by other research on digital making and motivation. CITATION H
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
 
-#### Impact of Code Playgrounds and Phaser and a Javascript framework
 
-<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
-Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
-Instead the more authentic approach of a real language.
- -->
-
-The limits that this imposed and the development of a new technique of patching as a process, and the use of code frameworks. This you can argue is a much more authentic process which could get extended in other directions. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways. [@blunden_interdisciplinary_2009]
 
 <!-- Bring out detail from the study to this section.
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
@@ -587,6 +652,10 @@ QUESTION - KEEP FOCUS ON PATCHING - OR IS IT CODING ROLES?
 
 THERE IS DUPLICATION WITH OTHER CHAPTERS HERE - ANY WITH GDP?
 MOVE SOME OF IT - FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS
+
+The limits that the code environment imposed and the development of a new technique of patching as a process, and the use of code frameworks.
+
+Patching rather than coding from scratch is authentic process which could get extended in other directions.
 
 In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
