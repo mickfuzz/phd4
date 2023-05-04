@@ -378,8 +378,7 @@ As the end process is visible in fluid behaviour
 - Cntl and end
 - Page down -->
 
-**Exploring Tension - time spent on task**
-Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
+
 
 **Exploring Tension - some left behind**
 Some participant do not pick up all processes, some left behind and need support but that is available and creates a reason to ask for help.
@@ -529,6 +528,15 @@ The full exchange sees Molly cultivating a sense of ownership over the graphical
 
 The aspect of pattern completion driving technical process adoption is explored in the next chapter.
 
+While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? )
+
+**Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
+Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
+
+**Expectations- ALSO EXPLORED IN LAST CHAPTER**
+
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+
 <!-- #### Different styles of making
 PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
 <!-- #### Circulation of peers and helpers
@@ -562,41 +570,25 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Ne daughter
 - Mick overall facilitator -->
 
-### Discussion on home funds of knowledge INCORPORATE ABOVE
+
 
 <!-- As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc]; -->
 
 <!-- Recap from Lit Review / Intro -->
 
-While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? )
 
-- time on asset design can detract from systemic and learning code concepts and syntax.
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
 <!-- - tension of a walled garden approach vs responding to freer design choices -->
 
 <!-- As per work on Kafai and Roque who observe the following features of personal expression in a community game making setting.
-
 - propagation of assets..
 - pride sharing back?
 - value of feedback, asset creation as a speciality -->
 
 
-
-
-<!--
-NARROW THIS DOWN
-The scope of this chapter is broad compared to the next one covering several related methods for inclusion, some of which have been covered in literature review. -->
-
-<!-- ### Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind) -->
-<!-- 2022-08-11 - now thinking of putting this chapter first. Fits with narrative. And the progression from broader cultural factors, creating a coding culture, and linking to home interests / cultures.
-
-Thus not dealing with the primary unit of activity yet, giving the cultural context. And exploring barriers to participation and efforts to overcome them. -->
-
 <!--
 NOTE - When to put data about TOOLS in this chapter or that of the design chapter.
 As interlinked.  Data in design chapter when it is based on journal notes and personal / literature based decisions. -->
 <!-- NOTE - PULL FROM ALL SOURCES HERE - JOURNAL, VIDEO, INTERVIEWS -->
-<!-- ### Overview of contents of chapter (NOTES) -->
 
 <!-- ### Tools
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
@@ -953,7 +945,7 @@ And can be synthesised in this way :
 <!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
 
 
-### Discussion on flexible design practices -
+### Discussion on flexible design practices - (FLEXIBLE NOT JUST EMERGENT)
 
 
 <!--
@@ -1051,7 +1043,11 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
-### Encouraging improvisation in the design process.
+### Encouraging A CULTURE OF improvisation in the design process.
+
+- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
+  - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
+
 
 <!-- Pumping up the Jam - -->
 
@@ -1089,7 +1085,23 @@ Question? How does this relate to tinkering methodology?
 What other framework would be suitable here?
 
 
-**Fluidity of design practice**
+**Discussion on choice of tools - e.g. why not scratch?**
+
+NOTE -  Why not Scratch? Less of a community? So how to replace this? What of time considerations?
+
+Beyond technical considerations regarding scratch and use of physics etc, 
+
+Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
+
+Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
+
+
+
+**Fluidity of design practice (driven by playtesting?)**
+
+
+NOTE -  Why not Scratch? Less of a community? So how to replace this? What of time considerations?
+
 
 Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
 
