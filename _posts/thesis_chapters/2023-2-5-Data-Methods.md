@@ -1088,8 +1088,9 @@ What other framework would be suitable here?
 **Discussion on choice of tools - e.g. why not scratch?**
 
 NOTE -  Why not Scratch? Less of a community? So how to replace this? What of time considerations?
+SOME OF THE ABOVE IN DESIGN CHAPTER BUT REFLECTIONS HERE. 
 
-Beyond technical considerations regarding scratch and use of physics etc, 
+Beyond technical considerations regarding scratch and use of physics etc,
 
 Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
 
