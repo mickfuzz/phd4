@@ -224,7 +224,7 @@ In my journal notes previously, I noticed that I was often reluctant to shift le
 
 These reflections are noteworthy as they provoke the following wider observations on the utility of this technique.  
 
- The drama narrative provided a way to decentre the facilitator from the process of giving boundaries. When listing boundaries to activities it feels similar to outlining the rules of a game. As such less about controlling individuals and more about contracting into a gameful or playful experience.  I am much more relaxed restricting choice in role, or via a proxy of a playful encounter, other facilitators may feel the same. Heathcote's observations on this process posit that learners especially those resitant to authoritarian teaching techniques, appreciate the process of aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185].
+ The drama narrative provided a way to decentre the facilitator from the process of giving boundaries. When listing boundaries to activities it feels similar to outlining the rules of a game. As such less about controlling individuals and more about contracting into a gameful or playful experience.  I am much more relaxed restricting choice in role, or via a proxy of a playful encounter, other facilitators may feel the same. Heathcote's observations on this process posit that learners especially those resistant to authoritarian teaching techniques, appreciate the process of aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185].
  SEE THE OBSERVATION ON THE CHAPTER ON AUTHE
 
 
@@ -282,11 +282,9 @@ MISSING -  MoE and this process drama in more general terms
 Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
 NOTE - PROCESS DRAMA VS MOE EARLIER? RESURFACE?
 
-However, the authors are agreed on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame. One key consideration is the authenticity of the tools and processes involved. Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day.
-See interview Bolton and Heathcote
+However, the authors are agreed on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame. One key consideration is the authenticity of the tools and processes involved. Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
-As an example in a shoe factory, the supporting resources would x, y and z but not actually making the shoes,
 In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes.
 
 <!-- NOTE ADD SOME DETAIL detailBut the are explored in more detail in the following section. -->
@@ -330,7 +328,7 @@ Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
 
-### Impact of CORE TOOLS
+### Impact of main learning design tools
 
 The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
 
@@ -364,15 +362,12 @@ However, journal notes taken in phases 2 and 3 and triangulated with participant
 
 The process
 
-- The rapid level prototyping
-- fluid The variable editing
-- The swapping of assets
-- code syntax alteration
-- rapid development of simple stories to bump personal expression and narrative
+- level design and prototyping
+- fluid variable editing effective movement
+- The swapping of assets and more complex work with code syntax
+- development of simple stories to bump personal expression and narrative
 
 All longer or shorter chains of actions , becoming operations
-
-
 
 Also justify having so emergent results here , delay while accessing help to start 360 recordings h
 As the end process is visible in fluid behaviour
@@ -389,21 +384,7 @@ Take the example above, through use of pixel art editor, and template with small
 **Exploring Tension - some left behind**
 Some participant do not pick up all processes, some left behind and need support but that is available and creates a reason to ask for help.
 
-**Bump starting narrative and art creativity**
-The use of blank blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
 
-
-**Syntax and swapping assets**
-
-Perhaps do this as an example? of the chains
-
-**Development of digital literacy skills**
-Also the digital literacy skills here are authentic including
-- File downloading and migration from one Web app to another via desktop
-- Tab navigation
-- Tool bar use in piskel , simplified photoshop , list different , crop, fill , export
-- Copy and paste
-- Selecting more than one line with mouse
 
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
@@ -429,8 +410,7 @@ The core GDP involving game assets already exist in the starting template.
 
 The starting three assets, player, hazard and reward provide a scaffold to  guide  the choice of game possible themes.
 
-The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game.
-So while structured to avoid
+The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game. So while structured to avoid
 -->
 
 <!-- Cultural interactions seem to be able to motivate and sustain other interpersonal activity which may be experienced as work.
@@ -438,8 +418,6 @@ This is supported by other research on digital making and motivation. CITATION H
 
 **Tangled nature of graphics and narrative in this design**
 In the data analysed, young people -->
-
-
 
 <!-- Bring out detail from the study to this section.
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
@@ -458,6 +436,43 @@ While the design suits repeated design practice as illustrated by the example ab
 
 A later discussion section in this chapter illustrates a more complex interaction with design stages.
 
+
+NOTE - TO INTEGRATE - SEPARATE SECTIONS OR BOIL DOWN
+
+**Fluid variable editing effective movement**
+
+Movement was a key to playtesting feedback.
+
+Some evidence of building profiency with significant work to change these three key variables.
+
+However some stay with the starting variables and don't changes as much as they should.
+
+**Level design and prototyping**
+
+Lots of evidence of rapid changes and building of fluency of structured  
+We saw the beginning of that process in Toby's practice in vignette in the last chapter.
+
+A code snapshot showing the link of the graphical representation of the array.
+
+There was also the process of messing the lines of code in the array. Which impacted syntax understanding.
+
+**The swapping of assets and more complex work with code syntax**
+
+Give overview.
+
+This is also a good example of the digital literacy skills here are authentic including
+
+- File downloading and migration from one Web app to another via desktop
+- Tab navigation
+- Tool bar use in piskel , simplified photoshop , list different , crop, fill , export
+- Copy and paste
+- Selecting more than one line with mouse
+
+
+**Incomplete graphical blocks to help seed narrative and art creativity**
+
+The use of blank blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
+LINK
 
 ### Narratives and graphics drawing on home funds of knowledge
 
