@@ -51,7 +51,8 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Shifting between Facilitator and more active
         partner](#shifting-between-facilitator-and-more-active-partner)
     -   [Code roles and
-        experimentation](#code-roles-and-experimentation)
+        experimentation](#code-roles-and-experimentation)media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
+
     -   [Accessing online, professional/community
         documentation](#accessing-online-professionalcommunity-documentation)
     -   [Emerging tactics in accessing help from peers and
@@ -100,7 +101,8 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Remixing / Half Baked games []
-- Etc -->
+- Etc -->media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
+
 
 ## Introduction
 
@@ -135,6 +137,7 @@ It then progresses to explore some of the emerging and flexible design processes
 
 
 ## Scenarios - drama processes
+media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
 
 ### Vignette one - starting a drama process
 
@@ -169,7 +172,8 @@ The session starts with a game which proceeds with a lot of developments includi
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of it as well. That’s our mission.
 
 
-### Commentary on Vignette part one
+### Commentary on Vignette part onemedia/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
+
 
 <!-- q: How much to reference back to previous chapter? -->
 
@@ -206,58 +210,42 @@ Here we are looking at something cultural?? -->
 
 This extract comes from the second session in phase 4. A similar pattern happened for other sessions in the phase with 10 minutes allocated to this kind of reflection in drama.  
 
-
-
-Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
+>Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
 
 ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
 
-![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
-![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
-
-
-
-Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in.
-Now that the weean have sent us the code we need for basically dropping stuff. The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain timeframe or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t’ look like we’ve got any where but we have. (Mark laughs and others follow)
-
-So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
+>Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in.
+Now that the weean have sent us the code we need for basically dropping stuff. The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain timeframe or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t’ look like we’ve got any where but we have. (Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
 Mick: That’s great
-
 Mick: Is there anything that you think you definitely want to be able to do for next time that you might want help with?
 Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
-
 Mick: Yeah for sure and I can  see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Ween allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
-Feedback image 2  
+![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
-Weean what’s it like up there? Asks Edward.
+
+> Mick: (reading out from the screen) Weean what’s it like up there? Asks Edward.
 It’s cold and very big but quite tranquil.
 What is your name? We are are the Weean we have no name, we are all the same.
 That must be hard at xmas
 Mark and others laugh and smile.
 It is it sure is.
 
-Feedback image 3
-Mark: That’s tickled me that.
-Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there.
+![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
 
-
-N can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
-
+>Mark: That’s tickled me that.
+Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
 (Laughs from all)
-
 Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s
 Dan:  We noticed.
-
 Nadine: We’ll I’ve changed the platform a bit
 Molly : You had a secret mission though didn’t you
 Nadine: Oh my secret mission was to change someone’s game, their character  or something and see if they noticed. And I think they did notice.
 Dan: We did. We did notice.
 Molly : You couldn’t not notice.
-
 Mick: It feels like you took the spirit of the mischievous thing and just turned up the volume.
-All laugh.
+(All laugh.)
 Molly : Sprite.
 Mark: We also had a secret mission.
 Mick: What was that?
@@ -266,11 +254,10 @@ Nadine: Oh was it?
 Mark: Did you notice?
 Molly: Did you notice?
 Nadine: No (laughing)
-Incomprehenisble many people talking or laughing at same time.
+(Incomprehensible many people talking or laughing at same time)
 Mark: Play it now!
 Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
-
-Nadine  goes to the keyboard and starts to play her game
+(Nadine  goes to the keyboard and starts to play her game)
 Nadine: I can’t hear anything different
 Everyone laughs
 Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
