@@ -208,6 +208,74 @@ This extract comes from the second session in phase 4. A similar pattern happene
 
 
 
+Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
+
+
+![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
+
+![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
+![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
+
+
+
+Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in.
+Now that the weean have sent us the code we need for basically dropping stuff. The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain timeframe or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t’ look like we’ve got any where but we have. (Mark laughs and others follow)
+
+So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
+Mick: That’s great
+
+Mick: Is there anything that you think you definitely want to be able to do for next time that you might want help with?
+Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
+
+Mick: Yeah for sure and I can  see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Ween allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
+
+Feedback image 2  
+
+Weean what’s it like up there? Asks Edward.
+It’s cold and very big but quite tranquil.
+What is your name? We are are the Weean we have no name, we are all the same.
+That must be hard at xmas
+Mark and others laugh and smile.
+It is it sure is.
+
+Feedback image 3
+Mark: That’s tickled me that.
+Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there.
+
+
+N can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
+
+(Laughs from all)
+
+Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s
+Dan:  We noticed.
+
+Nadine: We’ll I’ve changed the platform a bit
+Molly : You had a secret mission though didn’t you
+Nadine: Oh my secret mission was to change someone’s game, their character  or something and see if they noticed. And I think they did notice.
+Dan: We did. We did notice.
+Molly : You couldn’t not notice.
+
+Mick: It feels like you took the spirit of the mischievous thing and just turned up the volume.
+All laugh.
+Molly : Sprite.
+Mark: We also had a secret mission.
+Mick: What was that?
+Mark: Ours was to change the sound on somebodies game.
+Nadine: Oh was it?
+Mark: Did you notice?
+Molly: Did you notice?
+Nadine: No (laughing)
+Incomprehenisble many people talking or laughing at same time.
+Mark: Play it now!
+Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
+
+Nadine  goes to the keyboard and starts to play her game
+Nadine: I can’t hear anything different
+Everyone laughs
+Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
+Mick: So that’s interesting. some people notice some people didn’t.
+
 
 
 ### Impact of the drama process on reflection
@@ -1088,7 +1156,7 @@ What other framework would be suitable here?
 **Discussion on choice of tools - e.g. why not scratch?**
 
 NOTE -  Why not Scratch? Less of a community? So how to replace this? What of time considerations?
-SOME OF THE ABOVE IN DESIGN CHAPTER BUT REFLECTIONS HERE. 
+SOME OF THE ABOVE IN DESIGN CHAPTER BUT REFLECTIONS HERE.
 
 Beyond technical considerations regarding scratch and use of physics etc,
 
