@@ -115,8 +115,6 @@ Following Heathcote, the importance and challenges of authenticity in tool use a
 **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 
-
-
 **Link Section - rewrite - move to intro?**
 
 The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
@@ -144,6 +142,9 @@ media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.p
 This sections starts with a vignette of the start of an game making programme. It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
 
 The session starts with a game which proceeds with a lot of developments including many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure.
+
+After the following excerpt which introduces a dramatic scenario involving a fictional audience I orientate learners in suggested use of support documentation. A full transcript is available in the appendix which outlines that process.
+
 
 <!-- The purpose of the vignette is to situate the reader, give an overview of -->
 
@@ -173,30 +174,34 @@ And yeah. That we can work by ourselves but also work as part of a team. So we�
 
 
 ### Commentary on Vignette part one
-
-
 <!-- q: How much to reference back to previous chapter? -->
 
-This transcript is a rare example of extended facilitator input as instruction.
-
-In the full transcript in the appendix the process covers three stages, namely: the use of a drama game; introducing a dramatic scenario to created a fictional audience; and orientation for use of support documentation.
+This transcript is a rare example of extended facilitator input as instruction. SUPPORT THIS WITH STATISTICS FROM CODED DATA.
 
 
+<!-- The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE  -->
 
-### General observations of the drama narrative on participants
+_Contracting into drama_
 
-NOTE - NEED TO GATHER EVIDENCE ON THIS.
+As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_ This serves to start the process of contracting in a drama.
 
-The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE WITH DISCUSSION.
+As a way to bring attention to an imagined audience. I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter are an informal collusion that we are playing along with this fiction. This is picked up on by both parents and children in exchanges.
 
-The session progresses from this game to a drama process with
+FIND AND REPLACE WITH CORRECT VERSION 
+Mark: Let's That Mick shared -
+Ed: That the Weean shared you mean.
 
-As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_
+_Teacher in role_
+
+The facilitation of these sessions intersects with my own development as a educator, part of which is an increased waryness of too much teacher talk. However, clearly some is necessary. Also of significance is a sense of wishing be be non-directive. However, previous iterations had shown the importance if some direction to avoid false hopes and dead ends (3d bee).
+
+The drama narrative helped resolve some of this tension by allowing me to outline boundaries withing a role  [heathcote_drama_1985]. In this situation, my role is minimal and does not involved playing a part. Instead the role is a link between the fictional commissioners of the games to be made as a tweaked tribute to the Heathcote's workplace MoE processes (ibid). I found this liberating. When listing boundaries to activities it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter. Heathcote's observations on this process posit that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+
+
+
+<!-- NOTE - NEED TO GATHER EVIDENCE ON THIS. -->
+
 ADD MORE COMMENTARY ON DRAMA PROCESS
-
-
-
-
 
 <!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
 <!-- Choices
@@ -292,8 +297,6 @@ It is it sure is.
 
 > Mick: So that’s interesting. some people notice some people didn’t.
 
-
-
 ### Impact of the drama process on reflection
 
 **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
@@ -306,15 +309,7 @@ From my perspective, this technique added an additional advantage of distancing 
 
 In my journal notes previously, I noticed that I was often reluctant to shift learners away from making activities to more structured reflective activities. With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
 
-These reflections are noteworthy as they provoke the following wider observations on the utility of this technique.  
-
- The drama narrative provided a way to decentre the facilitator from the process of giving boundaries. When listing boundaries to activities it feels similar to outlining the rules of a game. As such less about controlling individuals and more about contracting into a gameful or playful experience.  I am much more relaxed restricting choice in role, or via a proxy of a playful encounter, other facilitators may feel the same. Heathcote's observations on this process posit that learners especially those resistant to authoritarian teaching techniques, appreciate the process of aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185].
- SEE THE OBSERVATION ON THE CHAPTER ON AUTHE
-
-
-- as a way to bring attention to an imagined audience. I reference that the games are online.
-``
-
+`
 ### Impact of the drama on encouraging flexible design practices via missions
 
 **Motivations of the social challenges / missions**
