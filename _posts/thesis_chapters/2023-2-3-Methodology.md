@@ -64,6 +64,7 @@ Drama
 - 4.a.1 Drama process and reflection (all did part of it but code references also to mentions of it)
 - 4.a.2 Engagement with secret and public missions within drama
 - 4.a.3 Engagement with live chat - for social activity, and to ask questions out of class
+- 4.a.4 Documentation / support within role - via email - 
 
 By Design
 - 4.b.1 Half baked template & code playgrouds and phaser - (hard to code for as quite constant) cf rapid prototyping

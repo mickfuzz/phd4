@@ -173,13 +173,12 @@ After the following excerpt which introduces a dramatic scenario involving a fic
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of it as well. That’s our mission.
 
 
-### Commentary on Vignette part one
+### Description of vignette part one
 <!-- q: How much to reference back to previous chapter? -->
 
-This transcript is a rare example of extended facilitator input as instruction. SUPPORT THIS WITH STATISTICS FROM CODED DATA.
-
-
 <!-- The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE  -->
+
+In the following section I describe the vignette using concepts from the domain of process drama.
 
 _Contracting into drama_
 
@@ -187,23 +186,24 @@ As a facilitator I indicate that we are entering a dramatic process and attempt 
 
 As a way to bring attention to an imagined audience. I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter are an informal collusion that we are playing along with this fiction. This is picked up on by both parents and children in exchanges.
 
-FIND AND REPLACE WITH CORRECT VERSION 
+FIND AND REPLACE WITH CORRECT VERSION
 Mark: Let's That Mick shared -
 Ed: That the Weean shared you mean.
 
 _Teacher in role_
+This transcript is a rare example of extended facilitator input as instruction. SUPPORT THIS WITH STATISTICS FROM CODED DATA.
 
 The facilitation of these sessions intersects with my own development as a educator, part of which is an increased waryness of too much teacher talk. However, clearly some is necessary. Also of significance is a sense of wishing be be non-directive. However, previous iterations had shown the importance if some direction to avoid false hopes and dead ends (3d bee).
 
-The drama narrative helped resolve some of this tension by allowing me to outline boundaries withing a role  [heathcote_drama_1985]. In this situation, my role is minimal and does not involved playing a part. Instead the role is a link between the fictional commissioners of the games to be made as a tweaked tribute to the Heathcote's workplace MoE processes (ibid). I found this liberating. When listing boundaries to activities it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter. Heathcote's observations on this process posit that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+The drama narrative helped resolve some of this tension by allowing me to outline boundaries withing a role  [heathcote_drama_1985]. In this situation, my role does not involved playing a part. Instead the role is a link between the fictional commissioners of the games to be made as a tweaked tribute to the Heathcote's workplace MoE processes (ibid). I found this liberating. When listing boundaries to activities it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter. Heathcote's observations on this process posit that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
 
+NOTE - Other benefits include; telling people to get on with their work in role.
 
 
 <!-- NOTE - NEED TO GATHER EVIDENCE ON THIS. -->
 
-ADD MORE COMMENTARY ON DRAMA PROCESS
 
-<!-- NOTE-   Is there a graphic somewhere else? in a presentations. Create a figure for this. -->
+
 <!-- Choices
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
 - Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
@@ -213,25 +213,23 @@ Here we are looking at something cultural?? -->
 
 ### Vignette part two
 
-This extract comes from the second session in phase 4. A similar pattern happened for other sessions in the phase with 10 minutes allocated to this kind of reflection in drama.  
+This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back via one computer that, within the frame of the drama scenario, was a link to the alien observers.
 
 >Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
-
 ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
 
->Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in.
-Now that the weean have sent us the code we need for basically dropping stuff.
+> Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the weean have sent us the code we need for basically dropping stuff.
 
 > The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain timeframe or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t’ look like we’ve got any where but we have.
 
 >(Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
 
->Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
+> Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
 
 > Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
 
->Mick: Yeah for sure and I can  see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Ween allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
+> Mick: Yeah for sure and I can  see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
 ![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
@@ -240,8 +238,8 @@ Now that the weean have sent us the code we need for basically dropping stuff.
 It’s cold and very big but quite tranquil.
 What is your name? We are are the Weean we have no name, we are all the same.
 That must be hard at xmas
-Mark and others laugh and smile.
-It is it sure is.
+(Mark and others laugh and smile.)
+It is. It sure is.
 
 ![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
 
@@ -267,7 +265,7 @@ It is it sure is.
 > Mick: It feels like you took the spirit of the mischievous thing and just turned up the volume.
 (All laugh.)
 
-> Molly : Sprite.
+> Molly: Sprite!
 
 > Mark: We also had a secret mission.
 
@@ -301,13 +299,14 @@ It is it sure is.
 
 **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
 
-Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience
+Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
 
-As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
+From my perspective, this technique added an additional advantage of distancing myself from the process of giving direct instructions as I was able to use the foil of the Weean. In my journal notes previously, I noticed that I was often reluctant to shift learners away from making activities to more structured reflective activities.
+<!-- NOTE - LINK BACK TO PREVOUS REFLECTION ON WORKING WITHIN ROLE  -->
 
-From my perspective, this technique added an additional advantage of distancing myself from the process of giving direct instructions as I was able to use the foil of the Weean.
+With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
 
-In my journal notes previously, I noticed that I was often reluctant to shift learners away from making activities to more structured reflective activities. With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
+NOTE ON CODING - LIMITED
 
 `
 ### Impact of the drama on encouraging flexible design practices via missions
@@ -333,12 +332,18 @@ NOTE INSERT - Examples of interactions?
 Some kind of coded data? Like out of x participants, y visibly engaged with missions.
 The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
 
-### Observations on exploring documentation and technical help within the drama frame
+### Observations on exploring documentation and accessing technical help within the drama frame
 
 In the full transcript of  vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
 
 - My own reactions in journal - overcoming reluctance in teaching
 - via email chats / with aliens explored in vignette 2.
+
+
+- (As noted above?) Mark and Ed make reference to the process of getting help via email.
+- Dan and Toby also receive help and reference that too. Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
+
+The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.  
 
 ### Observations on live chat with the alien sessions
 
@@ -1122,7 +1127,7 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
-### Encouraging A CULTURE OF improvisation in the design process.
+### Encouraging a culture of emergent improvisation/agency in the design process.
 
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
   - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
@@ -1198,6 +1203,36 @@ A bullet point summary follows
 
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
+
+
+#### Conceptualising emergent agency in this study
+
+Designing for tool and process use invites discussion of active possibilities of the design - aka - embodied agency of the design - as per non human methodologies.
+
+**On affordances and anchors**
+<!-- NOTE
+AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+
+    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
+
+In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
+Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
+
+Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning).
+
+In a later chapter, I propose that The implications of these combination of concepts the practice of designing and facilitating effective and engaging creative and technical learning environments. I will extract observations from this research that extend beyond the process of coding into other domains.  
+
+<!-- Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them. -->
+<!--
+MOVE to Discussion?
+**Breaking out of the walled garden:**
+
+Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
+A potential tension which was resolved quickly in some ways.
+But at the cost of maintaining a working game. -->
+
 
 
 ### Chapter conclusion
