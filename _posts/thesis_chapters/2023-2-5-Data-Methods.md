@@ -9,23 +9,19 @@ layout: post
 categories: chapter
 title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
+
 -   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
     -   [Vignette one - starting a drama
         process](#vignette-one---starting-a-drama-process)
-    -   [Commentary on Vignette part
-        one](#commentary-on-vignette-part-one)
-    -   [General observations of the drama narrative on
-        participants](#general-observations-of-the-drama-narrative-on-participants)
+    -   [Description of vignette part
+        one](#description-of-vignette-part-one)
     -   [Vignette part two](#vignette-part-two)
     -   [Impact of the drama process on
         reflection](#impact-of-the-drama-process-on-reflection)
-    -   [Impact of the drama on encouraging flexible design practices
-        via
-        missions](#impact-of-the-drama-on-encouraging-flexible-design-practices-via-missions)
-    -   [Observations on exploring documentation and technical help
-        within the drama
-        frame](#observations-on-exploring-documentation-and-technical-help-within-the-drama-frame)
+    -   [Observations on exploring documentation and accessing technical
+        help within the drama
+        frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
     -   [Observations on live chat with the alien
         sessions](#observations-on-live-chat-with-the-alien-sessions)
     -   [Initial discussion of the process drama (focusing on
@@ -33,12 +29,11 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         tools)](#initial-discussion-of-the-process-drama-focusing-on-authenticity-of-tools)
 -   [The impact of starting tools, documentation and other
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
-    -   [Impact of CORE TOOLS](#impact-of-core-tools)
+    -   [Impact of main learning design
+        tools](#impact-of-main-learning-design-tools)
         -   [Rapid prototyping](#rapid-prototyping)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
-    -   [Discussion on home funds of knowledge INCORPORATE
-        ABOVE](#discussion-on-home-funds-of-knowledge-incorporate-above)
     -   [Documentation via code examples and step-by-step
         tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
     -   [Guided Code Patching Process](#guided-code-patching-process)
@@ -51,8 +46,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Shifting between Facilitator and more active
         partner](#shifting-between-facilitator-and-more-active-partner)
     -   [Code roles and
-        experimentation](#code-roles-and-experimentation)media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
-
+        experimentation](#code-roles-and-experimentation)
     -   [Accessing online, professional/community
         documentation](#accessing-online-professionalcommunity-documentation)
     -   [Emerging tactics in accessing help from peers and
@@ -61,12 +55,15 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Discussion - on learner identity, anxiety and implications in
         relation to other
         research.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research.)
-    -   [Discussion on flexible design
-        practices -](#discussion-on-flexible-design-practices--)
+    -   [Discussion on flexible design practices - (FLEXIBLE NOT JUST
+        EMERGENT)](#discussion-on-flexible-design-practices---flexible-not-just-emergent)
     -   [The limits of design cycle
         stages](#the-limits-of-design-cycle-stages)
-    -   [Encouraging improvisation in the design
-        process.](#encouraging-improvisation-in-the-design-process.)
+    -   [Encouraging a culture of emergent improvisation/agency in the
+        design
+        process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
+        -   [Conceptualising emergent agency in this
+            study](#conceptualising-emergent-agency-in-this-study)
     -   [Chapter conclusion](#chapter-conclusion)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
@@ -76,6 +73,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
             Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
         -   [Appendix 4.x - Extract of interaction between Molly
             and](#appendix-4.x---extract-of-interaction-between-molly-and)
+
 
 <!-- ## Overview in points
 
@@ -101,8 +99,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Remixing / Half Baked games []
-- Etc -->media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
-
+- Etc -->
 
 ## Introduction
 
@@ -297,7 +294,7 @@ It is. It sure is.
 
 ### Impact of the drama process on reflection
 
-**My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.**
+<!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 
 Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
 
@@ -306,30 +303,46 @@ From my perspective, this technique added an additional advantage of distancing 
 
 With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
 
-NOTE ON CODING - LIMITED
-
-`
+<!-- NOTE ON CODING - LIMITED -->
 ### Impact of the drama on encouraging flexible design practices via missions
+
+The transcript above outlines some of the interactions around missions were introduced as part of the drama narrative. The ones mentioned in the reflection of this session were the secret missions.
+
+<!-- NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
+Secret missions and public missions -
+https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
+
+| Your Alien Mission (social)          | Your Secret Alien Mission:              
+|----------------|----------------|
+| Find out the names of 3 games that are being made.  | Change the variables at the start of someone else’s game to make it play in a funny way.    |
+| Make a list of characters in two other games being made.   | Change of the images in someone else’s project to a totally different image and see if they notice.    |
+| Find out the favourite computer games of 4 people.   | Change the level design of the first level of someone else’s project to make it impossible but try to change as little as possible to do that.   |
+| Find out who plays the most computer games per week in your group.   | Change of the images in someone else’s project to a very similar but slightly different version and see if they notice.    |
+| Find out what other people are planning. Give some friendly feedback to one other person / group. Why don’t you try…   | Add a rude sound to someone else’s project.    |
+| Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
+| Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
 
 **Motivations of the social challenges / missions**
 
-The missions that were introduced as part of the drama narrative.
-In the transcript there is the mention and some examples of some of the missions given by the aliens.
+My motivations for introducing,
 
-NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
-Secret missions and public missions -
-https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso
-
-- My motivations for introducting,
   - result of analysis of interactions during game making,
   - to encourage some practices ignored by solely focusing on implementing code - game maker types (mention in previous design chapter)
+
+NOTE - WHERE TO BRING IN BARTLE TYPES HERE?
+
+**Data from video analysis**
+
+In analysis of one key sessions involving missions from which the transcript was taken.
+Out of x participants, y visibly engaged with the secret missions during the session.
+
+The public missions had a noticeable impact including stimulating a discussion among parents around playing arcade games when they were young.   
 
 NOTE INSERT - Examples of interactions?
 
 - link to drama process theory
 - link to side missions of adventure games - zelda - perhaps find motivation there too.
 
-Some kind of coded data? Like out of x participants, y visibly engaged with missions.
 The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
 
 ### Observations on exploring documentation and accessing technical help within the drama frame
@@ -339,23 +352,22 @@ In the full transcript of  vignette gives an overview of the different kinds of 
 - My own reactions in journal - overcoming reluctance in teaching
 - via email chats / with aliens explored in vignette 2.
 
-
 - (As noted above?) Mark and Ed make reference to the process of getting help via email.
 - Dan and Toby also receive help and reference that too. Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
 
 The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.  
 
-### Observations on live chat with the alien sessions
+### Observations on playful chat with the alien sessions
 
-As part of the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participant.
+As part of accessing help via the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participants. A playful process of a fictional chat with aliens began spontaneously as a parent was undertaking a social mission.
 
-Impact at the final session was significant. The interaction became a celebration of taking part. Something in addition to the main activity.
+Inspired by the popularity of students engaging with the fictional audience, I asked a student to participate remotely to play the part of the alien. Impact at the final session was significant with the young people with X out of Y engaging by writing off-the-cuff messages to the fictional audience, and supportive and celebratory messages coming from the alien.  
 
-There is a clear tension in the final session where a large amount of time was devoted to interacting with the alien and thus becoming a primary play aim. Thus the danger is it becomes a distraction.
+This addition to the main activity served a wider purpose of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
 
-However this may be offset with other positive factors.
- - positive affect of participants
- - role as something to look forward to as an end of course celebration (no showcase for this one)
+However, in the final session where a large amount of time was devoted to interacting with the alien and thus was a danger of distracting from the primary aims.
+EXPLORE VIA AT LANGUAGE?
+
 
 ### Initial discussion of the process drama (focusing on authenticity of tools)
 
@@ -462,12 +474,8 @@ As the end process is visible in fluid behaviour
 - Cntl and end
 - Page down -->
 
-
-
 **Exploring Tension - some left behind**
 Some participant do not pick up all processes, some left behind and need support but that is available and creates a reason to ask for help.
-
-
 
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
@@ -602,7 +610,6 @@ In one exchange we can see the growing sense of ownership and sharing helps deve
 
 In this exerpt parent Molly has spent time creating a pixel art representation of an alien
 
-
     Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
     Sonia:– Have you saved it?
     Molly:– No I’ve not saved it.
@@ -645,7 +652,6 @@ Parent Mark made a comment showing that he was aware of the particular value of 
 A common teacher tactic is ask three then me.
 
 The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
 Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
 
 in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
@@ -653,8 +659,6 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Peer parent about use of piskel, and then her son
 - Ne daughter
 - Mick overall facilitator -->
-
-
 
 <!-- As we explored in the introduction and literature review, the ability to incorporate the graphical, audio and narrative assets into created games and playful digital designs allows for personal expression in a way that can be engaging and sustain motivation [papert, roque, kafai etc]; -->
 
@@ -796,7 +800,7 @@ Older participants often used this as a way of being supportive to both parents 
 - praising graphical content
 - making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
 
-**emerging cultural norms of playtesting**
+**Emerging cultural norms of playtesting**
 
 Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
 and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
@@ -825,18 +829,6 @@ what is there ? - included
 - calling across room
 - clustering, remaining on outskirts.
 
-### Building Identities as Game Makers
-
-NOTE - DROP MOST OF THIS FOR NOW - MOVE TO NEW PAPER - OR DISCUSSION LATER
-
-One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
 
 <!--
@@ -1031,7 +1023,6 @@ And can be synthesised in this way :
 
 ### Discussion on flexible design practices - (FLEXIBLE NOT JUST EMERGENT)
 
-
 <!--
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
 <!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
@@ -1130,8 +1121,6 @@ When mapping the activity to a design cycle. There may not be neat matches and a
 ### Encouraging a culture of emergent improvisation/agency in the design process.
 
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
-  - Why not Scratch? Less of a community? So how to replace this? What of time considerations?
-
 
 <!-- Pumping up the Jam - -->
 
@@ -1181,12 +1170,7 @@ Time consideration of the process of being involved in an online community may r
 Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
 
 
-
 **Fluidity of design practice (driven by playtesting?)**
-
-
-NOTE -  Why not Scratch? Less of a community? So how to replace this? What of time considerations?
-
 
 Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
 
@@ -1194,13 +1178,10 @@ Other participants also demonstrate fluidity of response although to a less soph
 
 This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
 
-<!--
-## Community Aspects of the 3M design -
+<!--## Community Aspects of the 3M design -
 
 When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
-
 A bullet point summary follows
-
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
 
@@ -1277,7 +1258,7 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
     Ed:  Yeah.
     Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
 
-#### Appendix 4.x  - Extract of interaction between Molly and
+#### Appendix 4.x  - Extract of interaction between Molly and Sonia
 
     Sonia:  That's Good!
     Molly: Oh do you like it?
