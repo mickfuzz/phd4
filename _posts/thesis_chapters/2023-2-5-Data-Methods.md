@@ -384,6 +384,8 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 In this game-making programe, I share MoE goals of injecting motivations.  
 
+The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]. Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  
+
 NOTE EXPORE  MoE goals and other process dramas - with call back to techniques in literature review.  
 
 NOTE FIND OTHER LITERATURE WHICH EXPLORES TENSIONS.
