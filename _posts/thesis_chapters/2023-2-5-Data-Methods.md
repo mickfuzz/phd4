@@ -418,10 +418,12 @@ This section argues that the use of authentic tools and processes, while challen
 
 In the following section, evidence supporting the value of releasing control to allow emergent practices is presented.
 
+The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period.
+
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -
 
-
+1
 NOTE - INPUT A SMALL AMOUNT ABOUT WHAT IS MISSING FROM THIS SECTION DUE TO PARTICULAR FOCUS
 
 <!--
@@ -432,12 +434,9 @@ This section looks in greater depth at the impact on learners of the tools and s
 
 It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design. -->
 
-**Recap on the importance of tools in an informal setting - (ON AGENCY AND Authenticity)**
 
-Above we explored Heathcote's understanding of the importance of authentic tools in the process MoE.
-NOTE - HOW MUCH TO INTEGRATE DISCUSSION - LOOK AT CASE BY CASE
 
-The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. See the previous chapter for a recap
+
 
 <!-- NOTE try to focus on agency as well? -->
 <!-- NOTE - research notes include
@@ -461,9 +460,16 @@ Instead the more authentic approach of a real language.
 
 Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity.
 
-My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics. FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
+Learning technology in community settings can engender feelings o  agency and motiviation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009]
+Again we can compare this to Scratch community.
 
-I can relate this to previous experiences of learning technology in community settings. It evokes in me feelings of agency, motiviation and freedom feeling being part of wide network which opens up diverse pathways. [@blunden_interdisciplinary_2009]
+The use of code playgrounds significantly reduces the load and difficulty for students.
+While, there is no comparative data on this study, I can support this statement through the following observations and support from other research.
+ - setting up a local coding environment is tricky
+ - running a server and connnecting in that way - no go.
+ - having a shared log in - and thus a shared page for projects - making the social projects more  possible
+
 
 **The half-baked starting platformer game and supporting resources**
 
