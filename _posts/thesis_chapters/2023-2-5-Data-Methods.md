@@ -384,16 +384,13 @@ Here the prioritisation is the construction of a supportive culture given the re
 
 These tactics and resulting tensions and have been explored in other domains particularly literacy and mathematics.  
 
-Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. And the tensions which surround the objectives of children of "schoolgoing".
+Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. His exploration of tensions which surround the objectives of children of "schoolgoing", cover aspects of x,y and z.
 
-In this game-making programe, I share MoE goals of injecting motivations.  
-
-The use of a fictional audience is clearly inauthentic. It is however justified in the goal of injecting learner motivation. 
+While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation.
 
 The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]. Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  
 
 <!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
-
 
 Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools and processes involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 
@@ -414,6 +411,15 @@ The next section examines impact of relatively authentic toolset and also explor
 ## The impact of starting tools, documentation and other processes
 
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
+
+NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
+
+This section argues that the use of authentic tools and processes, while challenging, can be facilitated by careful alignment of key design principles (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices.
+
+In the following section, evidence supporting the value of releasing control to allow emergent practices is presented.
+
+<!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers? -
 
 
 NOTE - INPUT A SMALL AMOUNT ABOUT WHAT IS MISSING FROM THIS SECTION DUE TO PARTICULAR FOCUS
