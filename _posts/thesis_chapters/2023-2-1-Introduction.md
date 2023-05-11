@@ -87,13 +87,20 @@ title: Introduction
 
 ## Abstract
 
-## Research Questions
+## Research Questions - May 2023
+
+- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers?
+- How can game design patterns support the development of coding practices with novices?
+
+
+<!-- ## Research Questions - Early 2023
 
 - What game making pedagogies exist? (with a focus on community-approaches)
 - OR What methods exist to scaffold the creation of digital-making communities of learners?
 - How can game design patterns support the development of coding practices with novices?
 - How can/do learners build agency in an evolving community of game makers?
-- How can the experience of fostering community focused digital game making practices inform wider practice in this area?
+- How can the experience of fostering community focused digital game making practices inform wider practice in this area? -->
 
 ## Starting thoughts for contents of introduction
 

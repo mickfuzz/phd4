@@ -101,16 +101,13 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Remixing / Half Baked games []
 - Etc -->
 
-## Research Questions 
+## Research Questions - May 2023
 
-- What game making pedagogies exist? (with a focus on community-approaches)
-EXPAND THIS A BIT?
-
+- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
-- How can/do learners build agency in an evolving community of game makers?
 
 ## Introduction
-
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter. To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
 
