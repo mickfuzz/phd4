@@ -312,6 +312,9 @@ In an illustrative case study on computing the needs interests are to respond to
 
 Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
 
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
 **Other forms of process dramas and STEM education**
 
 MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].

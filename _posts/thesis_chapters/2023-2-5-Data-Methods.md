@@ -111,18 +111,15 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
 
-To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
 
-In discussion, it builds on material explored in the literature review to address pedagogical factors are significant to support novices learning coding in game making contexts.
+Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest. In addition to the use of tools in the starting learning designs I explore emergent community behaviour and design processes.
 
-Following Heathcote, the importance and challenges of authenticity in tool use are examined in a learning community context. In addition, learner agency and the ability for learners to develop their identities as designers is also of key interest.
+In the final section, the chapter builds on material explored in the literature review to discuss pedagogical factors are significant to support novices learning coding in game making contexts. Particular attention is given to processes which support learners to develop agency in the game making process.
 
-It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design.
-
-ADD MORE ON HOW THIS ANSWERS ADD TO RQS
 
 <!--
-REMOVE DUPLICATION 
+REMOVE DUPLICATION
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter. -->
 
 
@@ -379,6 +376,7 @@ EXPLORE VIA AT LANGUAGE?
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
+The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections then aim to contribute new knowledge in the domain of learning coding.
 
 The tensions associated with the use of time by participants of the drama processes in this iteration mirror existing concerns in research.
 
@@ -390,20 +388,15 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 In this game-making programe, I share MoE goals of injecting motivations.  
 
+The use of a fictional audience is clearly inauthentic. It is however justified in the goal of injecting learner motivation. 
+
 The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]. Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  
 
-NOTE EXPORE  MoE goals and other process dramas - with call back to techniques in literature review.  
-
-NOTE FIND OTHER LITERATURE WHICH EXPLORES TENSIONS.
+<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
 
 
-NOTE - MAKE ON KEY POINT HERE PERHAPS ABOUT EQUALITY CULTURE
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools and processes involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-NOTE - PROCESS DRAMA VS MOE EARLIER? RESURFACE?
-
-However, the authors are agreed on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame. One key consideration is the authenticity of the tools and processes involved. Heathcote often explored issues in the context of making of the workplace. Creating a working model of authentic practice. However, she warns against asking participants to genuinely make items in the process explored, as to do so would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
 In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes.
