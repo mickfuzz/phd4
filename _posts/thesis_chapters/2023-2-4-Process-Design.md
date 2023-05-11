@@ -817,6 +817,27 @@ The following are a list of tensions observed in early game making experiments t
 
 
 
+### Discussion on tensions in relation to Lit Review and REQUESTS
+
+**Work of Gee and others on identity of makers / coders**
+
+Link with game making - identities above? 
+
+The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
+FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
+
+His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
+
+In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
+
+The next chapter outlines the delivery and start to explore the impact of
+- the process drama used
+- authentic tools
+- emerging processes
+
+
+
+
 <!-- NOT SURE WHAT TO DO WITH THIS IN THIS CHAPTER
  **Facilitators may have a more linear and limited view of ‘progress’ than learners:**
 

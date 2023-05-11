@@ -130,18 +130,9 @@ The following elements have emerged from many in the learning design as of merit
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
-**Link Section - rewrite based on RQs - move to intro?**
 
-The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
-FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
 
-His work explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative interations with games and play.
-
-In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways whic allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
-
-The next section outlines the delivery and start to explore the impact of the process drama used to frame the overall learner objective during phase four.
-
-The previous section examined the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
 
 This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter.
 
