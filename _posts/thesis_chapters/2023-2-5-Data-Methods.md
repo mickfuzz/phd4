@@ -101,7 +101,16 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Remixing / Half Baked games []
 - Etc -->
 
+## Research Questions 
+
+- What game making pedagogies exist? (with a focus on community-approaches)
+EXPAND THIS A BIT?
+
+- How can game design patterns support the development of coding practices with novices?
+- How can/do learners build agency in an evolving community of game makers?
+
 ## Introduction
+
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter. To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
 
@@ -376,9 +385,9 @@ EXPLORE VIA AT LANGUAGE?
 
 The tensions associated with the use of time by participants of the drama processes in this iteration mirror existing concerns in research.
 
-Here the prioritisation is the construction of a supportive culture given the research which problematises the alien culture of coding.  
+Here the prioritisation is the construction of a supportive culture given the research which problematises the alien culture of coding.  The process of bringing people into the culture is worth allocating time to address inequalities.
 
-The process of bringing people into the culture is worth allocating time to.
+These tactics and resulting tensions and have been explored in other domains particularly literacy and mathematics.  
 
 Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. And the tensions which surround the objectives of children of "schoolgoing".
 
@@ -389,6 +398,10 @@ The drama process also mirrors some of the aspects of the 5th Dimension project 
 NOTE EXPORE  MoE goals and other process dramas - with call back to techniques in literature review.  
 
 NOTE FIND OTHER LITERATURE WHICH EXPLORES TENSIONS.
+
+
+NOTE - MAKE ON KEY POINT HERE PERHAPS ABOUT EQUALITY CULTURE
+
 
 Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
 NOTE - PROCESS DRAMA VS MOE EARLIER? RESURFACE?
