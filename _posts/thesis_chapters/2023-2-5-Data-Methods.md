@@ -111,33 +111,30 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
 
-
-
 To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
 
 In discussion, it builds on material explored in the literature review to address pedagogical factors are significant to support novices learning coding in game making contexts.
 
 Following Heathcote, the importance and challenges of authenticity in tool use are examined in a learning community context. In addition, learner agency and the ability for learners to develop their identities as designers is also of key interest.
 
+It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design.
+
+ADD MORE ON HOW THIS ANSWERS ADD TO RQS
+
+<!--
+REMOVE DUPLICATION 
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter. -->
+
+
+
+
 <!-- For example, in the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. -->
-
-
 
 <!-- NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH. -->
 
 <!-- **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
-
-
-
-
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
-
-This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter.
-
-It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design.
-
 
 
 ## Scenarios - drama processes
