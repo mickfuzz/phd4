@@ -109,16 +109,28 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter. To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
+This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
 
-Following Heathcote, the importance and challenges of authenticity in tool use are examined in a learning community context. In addition, learner agency and the ability for learners to develop their identities as designers is also of key interest. For example, in the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea.
+
+
+To do this it starts with an examination of a drama process intervention inspired by the work of Heathcote. Examination of this process drama in light of existing theory on the subject is used in addition to activity theory as lenses to examine participants use of tools in the learning design and to explore emerging community practices.
+
+In discussion, it builds on material explored in the literature review to address pedagogical factors are significant to support novices learning coding in game making contexts.
+
+Following Heathcote, the importance and challenges of authenticity in tool use are examined in a learning community context. In addition, learner agency and the ability for learners to develop their identities as designers is also of key interest.
+
+<!-- For example, in the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. -->
+
+
 
 <!-- NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH. -->
 
-**Justifying selection of chapter contents**
+<!-- **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
+IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
-**Link Section - rewrite - move to intro?**
+
+**Link Section - rewrite based on RQs - move to intro?**
 
 The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
 FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW
