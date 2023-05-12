@@ -435,8 +435,14 @@ Play Testing - each lesson can help with short term motivation of having a game 
 **Code playground provides immediate feedback**. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
-**Authenticity of coding environment**.  Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
-NOTE - DEVELOP THIS FURTHER AS IT IS
+**Authenticity of coding environment**.  
+Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+
+ FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
+
+ Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
+
+
 
 <!-- An unusual approach so why?
 
@@ -484,6 +490,20 @@ This approach was more prescriptive than I would have adopted, however it worked
 <!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
 https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
  -->
+
+#### The half-baked starting platformer game
+
+The use and design characteristics of the starting point of a half-baked game
+
+- Phaser 2 to avoid complexity of code structure
+- 2D platformer - familiar to most - Mario and Sonic
+- low-spec graphics
+- game of player, platforms, and coins to collect and hazards to avoid.
+- graphical level design
+- key variables brought to the top
+- simple structure of code in terms of aligning with framework and not adding extra functions
+
+
 
 #### Addressing tensions and related to support materials and documentation emerging in phase two
  <!-- NOTE -
@@ -821,7 +841,7 @@ The following are a list of tensions observed in early game making experiments t
 
 **Work of Gee and others on identity of makers / coders**
 
-Link with game making - identities above? 
+Link with game making - identities above?
 
 The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel". As explored in literature review the possibility to change and to play with identity is important in the work of Gee.
 FIND RELEVANT LINKS HERE - CALL BACK TO LIT REVIEW

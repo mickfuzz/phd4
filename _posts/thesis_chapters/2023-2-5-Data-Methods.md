@@ -355,6 +355,8 @@ In the full transcript of  vignette gives an overview of the different kinds of 
 - My own reactions in journal - overcoming reluctance in teaching
 - via email chats / with aliens explored in vignette 2.
 
+Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
+
 - (As noted above?) Mark and Ed make reference to the process of getting help via email.
 - Dan and Toby also receive help and reference that too. Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
 
@@ -382,7 +384,7 @@ The tensions associated with the use of time by participants of the drama proces
 
 Here the prioritisation is the construction of a supportive culture given the research which problematises the alien culture of coding.  The process of bringing people into the culture is worth allocating time to address inequalities.
 
-These tactics and resulting tensions and have been explored in other domains particularly literacy and mathematics.  
+These tactics (which?) and resulting tensions and have been explored in other domains particularly literacy and mathematics.
 
 Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. His exploration of tensions which surround the objectives of children of "schoolgoing", cover aspects of x,y and z.
 
@@ -396,16 +398,17 @@ Rainer, Bolton and other practitioner-researchers agree on the potential and val
 
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
-In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes.
+<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
 
-<!-- NOTE ADD SOME DETAIL detailBut the are explored in more detail in the following section. -->
+<!-- NOTE ADD SOME DETAIL detail
+But the are explored in more detail in the following section. -->
+<!-- For example in this iteration, x is authentic, -->
 
-For example in this iteration, x is authentic,
+In this study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources in that beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
 
-In this sense, there is a high degree of authenticity made possible by the digital nature of the learning resources.
-But some shepherding involved, screening from complexities, marshalling towards certain goals to maintain a shared script / experience.
+<!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
 
-The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
+
 
 
 ## The impact of starting tools, documentation and other processes
@@ -422,21 +425,11 @@ The data in this chapter, and the majority of this thesis are drawn from stages 
 
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -
-
-1
 NOTE - INPUT A SMALL AMOUNT ABOUT WHAT IS MISSING FROM THIS SECTION DUE TO PARTICULAR FOCUS
-
 <!--
 MOVED TO INTRO
  The previous section examined the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.   
-
-This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter.
-
-It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design. -->
-
-
-
-
+This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter. It then progresses to explore some of the emerging and flexible design processes and tools that evolve from the starting design. -->
 
 <!-- NOTE try to focus on agency as well? -->
 <!-- NOTE - research notes include
@@ -451,35 +444,41 @@ Papert & Turkle - Turkle closeness to objects
 
 The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
 
+This section
+
 **Choice of code playgrounds and phaser javascript framework**
 
-<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked.
-Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
+<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
  -->
 
-Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity.
+As explored in the previous chapter the tools used by participants - Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
 
-My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics. FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
-Learning technology in community settings can engender feelings o  agency and motiviation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009]
-Again we can compare this to Scratch community.
+NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data))
 
-The use of code playgrounds significantly reduces the load and difficulty for students.
-While, there is no comparative data on this study, I can support this statement through the following observations and support from other research.
+The use of code playgrounds significantly reduces the load and difficulty for students. While, there is no comparative data on this study, I can support this statement through the following observations and support from other research
  - setting up a local coding environment is tricky
  - running a server and connnecting in that way - no go.
  - having a shared log in - and thus a shared page for projects - making the social projects more  possible
 
 
-**The half-baked starting platformer game and supporting resources**
+Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009.
 
-The last chapter outlined the basics. A 2D platformer with retro graphics aesthetics. The use of a code playground and phaser library. This section gives a very brief overview of facilitator observations in these areas.
+**The half-baked starting platformer game**
 
-To recap, in phase 2 the starting toolset were introduced to learners via a challenge to fix a broken game. The template consisted of game of player, platforms, and coins to collect and hazards to avoid. However the game could not be completed as the jump heigh prevented progress.  Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress.
+The last chapter outlined the use and design characteristics of the starting point of a half-baked 2D platformer with low-spec graphics. The template consisted of game of player, platforms, and coins to collect and hazards to avoid.
 
-This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study.
+However the game could not be completed as the jump heigh prevented progress.
 
-However, journal notes taken in phases 2 and 3 and triangulated with participant feedback from phase one support and video observations of the built proficiency of learners support the following observations
+Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress. Additional support via tutorials was created based on their requests for different game design patterns. While the following chapter explores the use of game design patterns in detail, this section addresses initial 
+facilitator observations in these areas.
+
+NOTE - BE CLEAR OF THE LINE GDP -
+
+<!-- MOVED TO CONCLUSION This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study. -->
+
+Due to starting video recordings after participants had already engaged with process for some time,  ,
+journal notes taken in phases 2 and 3 and triangulated with participant feedback from phase one support and video observations of the built proficiency of learners support the following observations
 
 - Existing research outlines the attraction of retro, (introduction) on culture and livingstone
 - Half baked games, as explored in literature review,
@@ -497,6 +496,8 @@ All longer or shorter chains of actions , becoming operations
 
 Also justify having so emergent results here , delay while accessing help to start 360 recordings h
 As the end process is visible in fluid behaviour
+
+
 
 
 <!-- I used to share keyboard shortcuts as magic tricks

@@ -175,6 +175,45 @@ While projects are mentioned as a principle that allows learners to deepen their
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
 
+## Wider Motivations
+
+Broadly game making and creative coding can he
+
+- for intrinsic pleasure of making games or other products
+- for commercial purposes, STEM pipeline
+- for empowerment of individual and health of society
+
+
+
+### Empowerment agenda
+
+This aga
+
+- DIY music and protest event organisation
+- Participatory media making for social and environmental causes
+- Documentation writing using collaborative processes
+- Creative coding
+
+In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
+
+However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
+
+- Hive Manchester and Code Club
+- Coder Dojo
+- Creative coding at Manchester Libraries
+- Speciality training for PGCE and Primary Education programmes
+- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.
+
+### Teaching the Web - Mozilla and beyond
+
+My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
+FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
+
+Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
+
+In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
+
+
 
 ### The context of retro gaming
 
@@ -244,21 +283,3 @@ UDL places great value on the personal relevance, choice and authenticity of lea
 One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014]. The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
-
-
-## Overview of my interest and experience in this domain
-
-- DIY music and protest event organisation
-- Participatory media making for social and environmental causes
-- Documentation writing using collaborative processes
-- Creative coding
-
-In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
-
-However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
-
-- Hive Manchester and Code Club
-- Coder Dojo
-- Creative coding at Manchester Libraries
-- Speciality training for PGCE and Primary Education programmes
-- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.

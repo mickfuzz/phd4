@@ -40,7 +40,7 @@ Pulling all together with recommendations from research . add in from notes
 - agency through flexible design cycle pathways, especially via community Playtesting
 - developing agency through celebration of different game maker styles
 - authenticity of tool use, especialy docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection 
+- authenticity of audience - and role of drama to facilitate reflection
 
 ## Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
 
@@ -135,6 +135,16 @@ Physical maps in Phase 3.   -->
 
 ## Caveats of / Reflections on research environments - MOVE ABOVE/?
 
+
+
+## Follow up work / limitations
+
+
+### Missing data on starting game / quick start cards 
+
+Study on the use of templated starting cards was unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase.
+
+A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study.
 
 ### Advantages and limitations of Home Education context
 
