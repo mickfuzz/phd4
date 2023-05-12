@@ -245,7 +245,8 @@ It is. It sure is.
 
 >Mark: That’s tickled me that.
 
-> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
+> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you ha- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers?ve added to your game? Is yours called “No Toby Allowed” now.
 (Laughs from all)
 
 > Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s
@@ -294,7 +295,8 @@ It is. It sure is.
 > Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
 
 > Mick: So that’s interesting. some people notice some people didn’t.
-
+- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers?
 ### Impact of the drama process on reflection
 
 <!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
@@ -415,7 +417,10 @@ In this study, a high degree of authenticity made possible, in a material sense,
 
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
 
-NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
+<!-- NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
+- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers?
+-->
 
 This section argues that the use of authentic tools and processes, while challenging, can be facilitated by careful alignment of key design principles (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices.
 
@@ -444,9 +449,8 @@ Papert & Turkle - Turkle closeness to objects
 
 The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
 
-This section
 
-**Choice of code playgrounds and phaser javascript framework**
+**Observations on the use of code playgrounds and other authoring tools**
 
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
@@ -456,32 +460,36 @@ As explored in the previous chapter the tools used by participants - Javascript 
 
 NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data))
 
-The use of code playgrounds significantly reduces the load and difficulty for students. While, there is no comparative data on this study, I can support this statement through the following observations and support from other research
- - setting up a local coding environment is tricky
- - running a server and connnecting in that way - no go.
- - having a shared log in - and thus a shared page for projects - making the social projects more  possible
-
-
 Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009.
 
-**The half-baked starting platformer game**
+OBSERVATIONS TO ANSWER RQS
 
-The last chapter outlined the use and design characteristics of the starting point of a half-baked 2D platformer with low-spec graphics. The template consisted of game of player, platforms, and coins to collect and hazards to avoid.
+I draw the following observations from interpretation of video data of the use of the code environment.
 
-However the game could not be completed as the jump heigh prevented progress.
+Having a shared log in and thus a shared page for projects - making the social projects more possible.
 
-Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress. Additional support via tutorials was created based on their requests for different game design patterns. While the following chapter explores the use of game design patterns in detail, this section addresses initial 
-facilitator observations in these areas.
+The use of code playgrounds significantly reduces the load and difficulty for students. While, there is no comparative data on this study, I can support this statement through the following observations and support from other research
+  - setting up a local coding environment is tricky
+  - running a server and connecting in that way is beyond the techincal capabilities of most.
 
-NOTE - BE CLEAR OF THE LINE GDP -
+**Impact of the half-baked starting template**
+
+The last chapter outlined the use and design characteristics of the starting point of a half-baked 2D platformer with low-spec graphics, graphical scaffolding for text-based code,
+
+<!-- Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress. Additional support via tutorials was created based on their requests for different game design patterns.  -->
+
+<!-- NOTE - BE CLEAR OF THE LINE GDP - -->
+While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
+
 
 <!-- MOVED TO CONCLUSION This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study. -->
 
-Due to starting video recordings after participants had already engaged with process for some time,  ,
-journal notes taken in phases 2 and 3 and triangulated with participant feedback from phase one support and video observations of the built proficiency of learners support the following observations
+  These observations can be explore in relation to other research
 
+- This research supports claims that half-baked games invite development []
 - Existing research outlines the attraction of retro, (introduction) on culture and livingstone
-- Half baked games, as explored in literature review,
+- Existing research outlines the attraction of retro, (introduction) on culture and livingstone
+
 
 <!-- PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. -->
 
