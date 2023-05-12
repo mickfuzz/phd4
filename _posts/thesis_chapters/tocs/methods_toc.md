@@ -1,3 +1,4 @@
+-   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
     -   [Vignette one - starting a drama
@@ -5,21 +6,28 @@
     -   [Description of vignette part
         one](#description-of-vignette-part-one)
     -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama process on
-        reflection](#impact-of-the-drama-process-on-reflection)
+    -   [Impact of the drama on encouraging flexible design practices
+        via
+        missions](#impact-of-the-drama-on-encouraging-flexible-design-practices-via-missions)
     -   [Observations on exploring documentation and accessing technical
         help within the drama
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Observations on live chat with the alien
-        sessions](#observations-on-live-chat-with-the-alien-sessions)
-    -   [Initial discussion of the process drama (focusing on
+    -   [Observations on playful chat with the alien
+        sessions](#observations-on-playful-chat-with-the-alien-sessions)
+    -   [Initial discussion of the process drama ( ending with focus on
         authenticity of
-        tools)](#initial-discussion-of-the-process-drama-focusing-on-authenticity-of-tools)
+        tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
 -   [The impact of starting tools, documentation and other
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design
         tools](#impact-of-main-learning-design-tools)
-        -   [Rapid prototyping](#rapid-prototyping)
+        -   [Observations on the use of code playgrounds and other
+            authoring
+            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
+        -   [Impact of the half-baked starting
+            template](#impact-of-the-half-baked-starting-template)
+    -   [Observations of rapid
+        prototyping](#observations-of-rapid-prototyping)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
     -   [Documentation via code examples and step-by-step
@@ -28,8 +36,6 @@
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Play-testing](#play-testing)
-    -   [Building Identities as Game
-        Makers](#building-identities-as-game-makers)
     -   [Alternating coding](#alternating-coding)
     -   [Shifting between Facilitator and more active
         partner](#shifting-between-facilitator-and-more-active-partner)
@@ -59,5 +65,5 @@
         Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
         -   [Appendix 4.x - Extract of interview with Mark and
             Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
-        -   [Appendix 4.x - Extract of interaction between Molly
-            and](#appendix-4.x---extract-of-interaction-between-molly-and)
+        -   [Appendix 4.x - Extract of interaction between Molly and
+            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)

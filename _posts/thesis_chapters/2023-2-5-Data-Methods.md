@@ -10,6 +10,7 @@ categories: chapter
 title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
 ---
 
+-   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
     -   [Vignette one - starting a drama
@@ -17,21 +18,28 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Description of vignette part
         one](#description-of-vignette-part-one)
     -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama process on
-        reflection](#impact-of-the-drama-process-on-reflection)
+    -   [Impact of the drama on encouraging flexible design practices
+        via
+        missions](#impact-of-the-drama-on-encouraging-flexible-design-practices-via-missions)
     -   [Observations on exploring documentation and accessing technical
         help within the drama
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Observations on live chat with the alien
-        sessions](#observations-on-live-chat-with-the-alien-sessions)
-    -   [Initial discussion of the process drama (focusing on
+    -   [Observations on playful chat with the alien
+        sessions](#observations-on-playful-chat-with-the-alien-sessions)
+    -   [Initial discussion of the process drama ( ending with focus on
         authenticity of
-        tools)](#initial-discussion-of-the-process-drama-focusing-on-authenticity-of-tools)
+        tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
 -   [The impact of starting tools, documentation and other
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design
         tools](#impact-of-main-learning-design-tools)
-        -   [Rapid prototyping](#rapid-prototyping)
+        -   [Observations on the use of code playgrounds and other
+            authoring
+            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
+        -   [Impact of the half-baked starting
+            template](#impact-of-the-half-baked-starting-template)
+    -   [Observations of rapid
+        prototyping](#observations-of-rapid-prototyping)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
     -   [Documentation via code examples and step-by-step
@@ -40,8 +48,6 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Play-testing](#play-testing)
-    -   [Building Identities as Game
-        Makers](#building-identities-as-game-makers)
     -   [Alternating coding](#alternating-coding)
     -   [Shifting between Facilitator and more active
         partner](#shifting-between-facilitator-and-more-active-partner)
@@ -71,8 +77,8 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
         -   [Appendix 4.x - Extract of interview with Mark and
             Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
-        -   [Appendix 4.x - Extract of interaction between Molly
-            and](#appendix-4.x---extract-of-interaction-between-molly-and)
+        -   [Appendix 4.x - Extract of interaction between Molly and
+            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
 
 
 <!-- ## Overview in points
@@ -450,7 +456,7 @@ Papert & Turkle - Turkle closeness to objects
 The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
 
 
-**Observations on the use of code playgrounds and other authoring tools**
+#### Observations on the use of code playgrounds and other authoring tools
 
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
@@ -472,30 +478,18 @@ The use of code playgrounds significantly reduces the load and difficulty for st
   - setting up a local coding environment is tricky
   - running a server and connecting in that way is beyond the techincal capabilities of most.
 
-**Impact of the half-baked starting template**
+#### Impact of the half-baked starting template
 
-The last chapter outlined the use and design characteristics of the starting point of a half-baked 2D platformer with low-spec graphics, graphical scaffolding for text-based code,
+The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken. While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
 
 <!-- Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress. Additional support via tutorials was created based on their requests for different game design patterns.  -->
-
 <!-- NOTE - BE CLEAR OF THE LINE GDP - -->
-While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
-
 
 <!-- MOVED TO CONCLUSION This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study. -->
 
-  These observations can be explore in relation to other research
+Observations of the process of learners using template.
 
-- This research supports claims that half-baked games invite development []
-- Existing research outlines the attraction of retro, (introduction) on culture and livingstone
-- Existing research outlines the attraction of retro, (introduction) on culture and livingstone
-
-
-<!-- PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. -->
-
-The process
-
-- level design and prototyping
+- level design and prototyping: use of
 - fluid variable editing effective movement
 - The swapping of assets and more complex work with code syntax
 - development of simple stories to bump personal expression and narrative
@@ -505,6 +499,16 @@ All longer or shorter chains of actions , becoming operations
 Also justify having so emergent results here , delay while accessing help to start 360 recordings h
 As the end process is visible in fluid behaviour
 
+These observations can be explore in relation to other research
+
+- This research supports claims that half-baked games invite development []
+- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green.
+
+<!-- PERHAPS DUPLICATION?
+- that knowledge of game tropes can scaffold idiation process (gdps)
+- community sharing of tropes (or is this later) -->
+
+<!-- PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. -->
 
 
 
@@ -553,7 +557,7 @@ In the data analysed, young people -->
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
-#### Rapid prototyping
+### Observations of rapid prototyping
 
 As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
