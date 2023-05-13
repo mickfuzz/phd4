@@ -414,6 +414,9 @@ But the are explored in more detail in the following section. -->
 
 In this study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources in that beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
 
+The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong mirrors there to the Scratch community and general maker ethos. The cross over between play and work may merit further investigation and integration into this model.
+
+
 <!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
 
 
