@@ -301,23 +301,41 @@ It is. It sure is.
 > Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
 
 > Mick: So that’s interesting. some people notice some people didn’t.
-- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
-- How can learners build agency in an evolving community of game makers?
+
+
+<!--
+RESTATING RQS
+ - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
+- How can learners build agency in an evolving community of game makers? -->
+
 ### Impact of the drama process on reflection
 
 <!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 
-Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
+At the end of each session for the
+
 
 From my perspective, this technique added an additional advantage of distancing myself from the process of giving direct instructions as I was able to use the foil of the Weean. In my journal notes previously, I noticed that I was often reluctant to shift learners away from making activities to more structured reflective activities.
 <!-- NOTE - LINK BACK TO PREVOUS REFLECTION ON WORKING WITHIN ROLE  -->
 
 With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
 
+
+Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
+
+
+
 <!-- NOTE ON CODING - LIMITED -->
 ### Impact of the drama on encouraging flexible design practices via missions
 
-The transcript above outlines some of the interactions around missions were introduced as part of the drama narrative. The ones mentioned in the reflection of this session were the secret missions.
+Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given.  
+
+PULL OUT EXAMPLES FROM TRANSCRIPT
+
+The ones that  mentioned in the reflection of this session were the secret missions. However, public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+
+A table of both social and public missions follows.
+NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER
 
 <!-- NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
 Secret missions and public missions -
@@ -333,12 +351,7 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 | Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
 | Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
 
-**Motivations of the social challenges / missions**
 
-My motivations for introducing,
-
-  - result of analysis of interactions during game making,
-  - to encourage some practices ignored by solely focusing on implementing code - game maker types (mention in previous design chapter)
 
 NOTE - WHERE TO BRING IN BARTLE TYPES HERE?
 
@@ -347,7 +360,7 @@ NOTE - WHERE TO BRING IN BARTLE TYPES HERE?
 In analysis of one key sessions involving missions from which the transcript was taken.
 Out of x participants, y visibly engaged with the secret missions during the session.
 
-The public missions had a noticeable impact including stimulating a discussion among parents around playing arcade games when they were young.   
+
 
 NOTE INSERT - Examples of interactions?
 
@@ -386,7 +399,20 @@ EXPLORE VIA AT LANGUAGE?
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
-The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections then aim to contribute new knowledge in the domain of learning coding.
+*Drama Process Observations*
+
+This section discusses the use of drama process to help create coding communities of novices.
+
+As explore in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to subtly sanction emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+
+
+  - result of analysis of interactions during game making,
+  - to encourage some practices ignored by solely focusing on implementing code - game maker types (mention in previous design chapter)
+
+
+*Discussion on Autheticity*
+
+The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections of the chapter then aim to contribute new knowledge in the area of authentic tool and processes use in the domain of learning coding.
 
 The tensions associated with the use of time by participants of the drama processes in this iteration mirror existing concerns in research.
 
