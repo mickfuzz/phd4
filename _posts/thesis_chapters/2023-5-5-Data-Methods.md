@@ -218,7 +218,7 @@ Here we are looking at something cultural?? -->
 
 ### Vignette part two
 
-This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back to the scenario's alien observers via one computer. I once again took up the role as a liason facilitating the process for the fictional, remote audience.
+This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back to the scenario's alien observers via one computer. I once again took up the role as a liaison facilitating the process for the fictional, remote audience.
 
 >Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
@@ -290,7 +290,7 @@ It is. It sure is.
 
 > Mark: Play it now!
 
-> Richie: You definlink itely noticed. (Points to Mark and Ed) You definitely noticed my bit.
+> Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
 
 > (Nadine  goes to the keyboard and starts to play her game)
 
@@ -313,11 +313,11 @@ RESTATING RQS
 
 While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. The vignette show me adopting this tactic for end-of-session reflections.
 
-In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited sucess in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignettte above in Fig 5.x.
+In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
 
-The simple clustering of particpants so they were side by side and talking to a disembodied audience via a computer seemed to destress the feedback process. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to a
+The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to destress the feedback process. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback.
 
-Even participants that were initially reluctant to share back and had never shared back publically before in sessions, chipped in after other family member starting the process for them.  
+Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member starting the process for them.  
 
 
 <!-- As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows -->
@@ -334,13 +334,31 @@ This addition to the main activity served a wider purpose of building an insider
 
 In the final session where a large amount of time was devoted to interacting with the alien and thus was a danger of distracting from the primary aims.
 
-In reality, in this instance for some pairs, this worked to free up the parent to engage with final tweaks and challenges. As the child interacted with chat. Parents debugged more complex elements of the game with faciliators and between themselves. Others engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+In reality, in this instance for some pairs, this worked to free up the parent to engage with final tweaks and challenges. As the child interacted with chat. Parents debugged more complex elements of the game with facilitators and between themselves. Others engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+
+
+### Observations on exploring documentation and accessing technical help within the drama frame
+
+In the full transcript of vignette gives an overview of the different kinds of documentation and highlighting the support for code patching process.
+
+LIST THEM?
+
+- (As noted above?) Mark and Ed make reference to the process of getting help via email.
+- Dan and Toby also receive help and reference that too. Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
+
+The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.
+
+<!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
+
+
+MOVE LATER
+Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
 
 
 
 ### Impact of the drama on encouraging varied design practices via social and secret missions
 
-Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter myMOVE TO motivations for introducing these missions for participants in role stemmed from a desire to encourage or to subtly sanction emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
 
@@ -361,8 +379,7 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 
 In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
-Thus these sanctioned non-design activities, designed to reduce participant stress, and bring fun into a sometimes tricky process are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session.
-BRING FIGURES TO THIS.
+Thus these sanctioned non-design activities, designed to reduce participant stress, and bring fun into a sometimes tricky process are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session. BRING FIGURES TO THIS.
 
 The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
 
@@ -372,19 +389,6 @@ WHERE AND HOW TO LINK DISCUSSION?
 
 
 
-### Observations on exploring documentation and accessing technical help within the drama frame
-
-In the full transcript of  vignette gives an overview of the different kinds of documentation and attempting to shift patterns of working from printed sheets to working online. This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.
-
-- My own reactions in journal - overcoming reluctance in teaching
-- via email chats / with aliens explored in vignette 2.
-
-Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
-
-- (As noted above?) Mark and Ed make reference to the process of getting help via email.
-- Dan and Toby also receive help and reference that too. Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
-
-The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.  
 
 
 
