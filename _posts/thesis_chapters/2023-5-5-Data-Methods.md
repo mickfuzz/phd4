@@ -391,9 +391,7 @@ WHERE AND HOW TO LINK DISCUSSION?
 
 
 
-
-
-### Initial discussion of the process drama ( ending with focus on authenticity of tools)
+### Discussion of the process drama ( ending with focus on authenticity of tools)
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
@@ -428,9 +426,6 @@ LINK NOW TO AUTHENTICITY OF PROCESSES / TOOLS
 
 While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation.
 
-The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]. Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  
-
-
 #### Discussion on Autheticity
 
 The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections of the chapter then aim to contribute new knowledge in the area of authentic tool and processes use in the domain of learning coding.
@@ -461,24 +456,32 @@ In this study, a high degree of authenticity made possible, in a material sense,
 MOVE THIS?
 The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong mirrors there to the Scratch community and general maker ethos. The cross over between play and work may merit further investigation and integration into this model.
 
-
 <!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
 
+#### Discussion on emergent practices to support varied learner identities.
+
+The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997].supporting  Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  DEVELOP OR LINK BACK TO LIT REVIEW
+
+This element of the drama process emerged as part of work to support different learner identities outlined in the previous chapter research underpins the importance of allowing varied approaches to counter perceptions of computing and coding culture as alien.
+
+ <!-- including exploring adapting Bartle player types to maker types to honour different approaches; the use of social and missions and  -->
+
+The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design. In contrast, in a later  section, evidence supporting the value of releasing control to allow emergent practices is presented.
+
+NOTE - MOVE TO DISCUSSION?
+While this distinction allows a clearer approach, there is a grey area of tools and processes which emerged in community practice, prove to be sucessful and which are then adopted as a suggested process for the next iteration of the design. This process of assimilation is discussed in final discussion along with x, y and z?
 
 
+ <!-- (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices. -->
 
 ## The impact of starting tools, documentation and other processes
 
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
-
 <!-- NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
 - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers?
 -->
 
-This section argues that the use of authentic tools and processes, while challenging, can be facilitated by careful alignment of key design principles (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices.
-
-In the following section, evidence supporting the value of releasing control to allow emergent practices is presented.
 
 The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period.
 
@@ -530,27 +533,14 @@ The use of code playgrounds significantly reduces the load and difficulty for st
 
 The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken. While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
 
+The game template itself contained guidance for users. REALLY NOT SURE HOW TO STRUCTURE THIS - ALSO IN PREVIOUS CHAPTER.
+
+-
+
 <!-- Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress. Additional support via tutorials was created based on their requests for different game design patterns.  -->
 <!-- NOTE - BE CLEAR OF THE LINE GDP - -->
 
 <!-- MOVED TO CONCLUSION This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study. -->
-
-Observations of the process of learners using template.
-
-- level design and prototyping: use of
-- fluid variable editing effective movement
-- The swapping of assets and more complex work with code syntax
-- development of simple stories to bump personal expression and narrative
-
-All longer or shorter chains of actions , becoming operations
-
-Also justify having so emergent results here , delay while accessing help to start 360 recordings h
-As the end process is visible in fluid behaviour
-
-These observations can be explore in relation to other research
-
-- This research supports claims that half-baked games invite development []
-- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green.
 
 <!-- PERHAPS DUPLICATION?
 - that knowledge of game tropes can scaffold idiation process (gdps)
@@ -605,31 +595,40 @@ In the data analysed, young people -->
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
-### Observations of rapid prototyping
+### Observations on initial processes and tool use
 
-As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
+Observations of the process of learners using template include;
+
+NOTE - BOIL DOWN - EXPLAIN HOW SECTIONS DIVIDED UP.
+
+- level design and prototyping: use of
+- fluid variable editing effective movement
+- The swapping of assets and more complex work with code syntax
+- development of simple stories to bump personal expression and narrative
+
+NOTE - All longer or shorter chains of actions , becoming operations - WHERE DOES THIS FIT?
+
+NOTE - Also justify having so emergent results here , delay while accessing help to start 360 recordings h
+As the end process is visible in fluid behaviour
+
+These tools align with some key design considerations. [Brennan & Resnick]
 
  - Well suited to build a repeated design practice.
- - Especially with starting documents,
  - Small changes had big effects.
  - Variable changes needed immediate testing.  
+ - Especially with starting documents,
 
-While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
+<!-- While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
 
-A later discussion section in this chapter illustrates a more complex interaction with design stages.
+A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
 
 NOTE - TO INTEGRATE - SEPARATE SECTIONS OR BOIL DOWN
 
-**Fluid variable editing effective movement**
-
-Movement was a key to playtesting feedback.
-
-Some evidence of building profiency with significant work to change these three key variables.
-
-However some stay with the starting variables and don't changes as much as they should.
 
 **Level design and prototyping**
+
+As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
 Lots of evidence of rapid changes and building of fluency of structured  
 We saw the beginning of that process in Toby's practice in vignette in the last chapter.
@@ -638,11 +637,20 @@ A code snapshot showing the link of the graphical representation of the array.
 
 There was also the process of messing the lines of code in the array. Which impacted syntax understanding.
 
+**Fluid variable editing effective movement**
+
+Movement was a key to playtesting feedback.
+Some evidence of building profiency with significant work to change these three key variables.
+However some stay with the starting variables and don't changes as much as they should.
+
+
+**Incomplete graphical blocks to help seed narrative and art creativity**
+
+The use of blank blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
+
 **The swapping of assets and more complex work with code syntax**
 
-Give overview.
-
-This is also a good example of the digital literacy skills here are authentic including
+The process of creating a pixel art chararacter and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to teh harddrive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax. Authentic digital literacy skills involved include:
 
 - File downloading and migration from one Web app to another via desktop
 - Tab navigation
@@ -650,11 +658,71 @@ This is also a good example of the digital literacy skills here are authentic in
 - Copy and paste
 - Selecting more than one line with mouse
 
+The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incoporating self-created graphical elements. These motivational factors are explored in a later section.
 
-**Incomplete graphical blocks to help seed narrative and art creativity**
+### Documentation via code examples and step-by-step tutorials
 
-The use of blank blocks encourages design as does the theme of environmental as steers participants into games involving animals. This is relatively easy to design and bring its own sense of game mechanics potentially.
-LINK
+<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
+
+Direct help between peer participants, as outined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
+
+At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
+
+The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter.
+
+NOTE - TO ANSWER WHAT EXACTLY?  
+
+AND HOW TO DEVELOP THIS SECTION IN BREIF? 
+
+### Guided Code Patching Process
+
+THERE IS DUPLICATION WITH OTHER CHAPTERS HERE - ANY WITH GDP?
+- FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS
+
+**What is code patching?**
+
+While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world conotations of craft and physical repair of materials in a relatable way.  
+
+Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is disputed, but common. http://wiki.c2.com/?CopyAndPasteProgramming - Certainly it is essential skill for beginners and one which was justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
+
+Some participants were early adopters of the code patching process. In the last chapter we see Toby engaging in the code patching process.
+
+
+In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
+
+Initial participant feedback showed that this approach involved a high level of code literacy and confidence to use. Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+
+ ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+
+In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+DOES THIS ANSWER RQS?
+
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+DOES THIS ANSWER RQS?
+
+
+
+<!-- Perhaps move later after GDP chapter?  -->
+<!-- **Limitation of asset work as a GDP**
+Note the limits of this interpretation
+While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
+ tension here to be briefly explored or noted to explore later. -->
+
+
+<!-- #### Circulation of peers and helpers
+This often facilitates talk aloud of design decisions and justifications.
+Cross reference playtesting -->
+
+<!-- ### Accessing Help and Documentation
+In the emerging community there was a variety of help available including;
+- Written documentation from the learning design via step by step tutorials
+- A series of code examples in working code playgrounds
+- Facilitator help through asking for help
+- Student Helper attention and help
+- Peer support from parents and children -->
+
+
 
 ### Narratives and graphics drawing on home funds of knowledge
 
@@ -817,54 +885,15 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 
 
-### Documentation via code examples and step-by-step tutorials
 
-<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
+### Discussion on initial tool use and starting processes
 
-At this phase there were two main sources of documentation; code examples, and tutorials. The implementation of the same game features but more closely integrated with the new starting code template used. These individual tutorials were directive in nature. The step by step tutorials were available online and also as printed A4 hand outs which were provided on request of the older participants.
+These observations can be explore in relation to other research
 
-NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP
+- This research supports claims that half-baked games invite development []
+- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green.
 
-
-### Guided Code Patching Process
-
-QUESTION - KEEP FOCUS ON PATCHING - OR IS IT CODING ROLES?
-
-THERE IS DUPLICATION WITH OTHER CHAPTERS HERE - ANY WITH GDP?
-MOVE SOME OF IT - FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS
-
-The limits that the code environment imposed and the development of a new technique of patching as a process, and the use of code frameworks.
-
-Patching rather than coding from scratch is authentic process which could get extended in other directions.
-
-In response to on-going frustrations of time blockages, where were commonly reflected back by participants, even after step-by-step tutorials were introduced, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
-
- ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
-
-In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
-
-
-
-<!-- Perhaps move later after GDP chapter?  -->
-<!-- **Limitation of asset work as a GDP**
-Note the limits of this interpretation
-While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
- tension here to be briefly explored or noted to explore later. -->
-
-
-<!-- #### Circulation of peers and helpers
-This often facilitates talk aloud of design decisions and justifications.
-Cross reference playtesting -->
-
-<!-- ### Accessing Help and Documentation
-In the emerging community there was a variety of help available including;
-- Written documentation from the learning design via step by step tutorials
-- A series of code examples in working code playgrounds
-- Facilitator help through asking for help
-- Student Helper attention and help
-- Peer support from parents and children -->
+DEVELOP THIS SECTION
 
 
 ## Emerging processes and use of tools
