@@ -6,9 +6,11 @@
     -   [Description of vignette part
         one](#description-of-vignette-part-one)
     -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama on encouraging flexible design practices
-        via
-        missions](#impact-of-the-drama-on-encouraging-flexible-design-practices-via-missions)
+    -   [Impact of the drama process on
+        reflection](#impact-of-the-drama-process-on-reflection)
+    -   [Impact of the drama on encouraging varied design practices via
+        social and secret
+        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
     -   [Observations on exploring documentation and accessing technical
         help within the drama
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
@@ -17,6 +19,8 @@
     -   [Initial discussion of the process drama ( ending with focus on
         authenticity of
         tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
+        -   [Drama Process Observations](#drama-process-observations)
+        -   [Discussion on Autheticity](#discussion-on-autheticity)
 -   [The impact of starting tools, documentation and other
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design

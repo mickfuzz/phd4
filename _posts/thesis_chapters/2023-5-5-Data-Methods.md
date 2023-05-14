@@ -141,7 +141,7 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
 ## Scenarios - drama processes
-media/mickfuzz/dataswap/phdvid/stills/filtered_360/2019-05-15-alien_feedback_3.png
+
 
 ### Vignette one - starting a drama process
 
@@ -172,8 +172,8 @@ After the following excerpt which introduces a dramatic scenario involving a fic
 
     Please now get started and come up with a new game about solving a problem on Earth.
 
-> The recording ends and begins to play again.
-> Mick: And it just kept looping. I couldn’t understand all of it but I tried to write it down as best as I can. So from what I’ve work out they’ve looked at our games and they’ve come up with a challenge for us. They are coming to Earth so they need to find out if we are worth saving. And the way that they are going to decide is by playing the games that we come up with. And they are going to set us little challenges. So. yeah, that’s the story. (with heavy irony) I’m pretty sure it’s true. (Mick and others laugh).
+
+> Mick: I couldn’t understand all of it but I tried to write it down as best as I can. So from what I’ve work out they’ve looked at our games and they’ve come up with a challenge for us. They are coming to Earth so they need to find out if we are worth saving. And the way that they are going to decide is by playing the games that we come up with. And they are going to set us little challenges. So. yeah, that’s the story. (with heavy irony) I’m pretty sure it’s true. (Mick and others laugh).
 
 > So all they’re asking us to do is to come up with a game. We’ve got four sessions. They want a new game because they’ve already played our old games. It’s got to be something about the problems of the world. I’ve got a lot of problems. It could be big problem or a small problem. It could be about your problems. But also ideas on how to solve them.  
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of it as well. That’s our mission.
@@ -186,29 +186,28 @@ And yeah. That we can work by ourselves but also work as part of a team. So we�
 
 In the following section I describe the vignette using concepts from the domain of process drama.
 
+While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not tryto position the participants as expert game makers in a professional context. However, the following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _reponsible team_ is contracted into a _commision_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resliance_ to overcome the _grappling and struggling_ involved.
+
+The following sections explore some of these concepts in via the example in vignette.
+
 _Contracting into drama_
 
-As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_ This serves to start the process of contracting in a drama.
+As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_ This serves to start the process of contracting in a drama. As a way to introducing an imagined audience. I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter are an informal collusion that we are playing along with this fiction. This is picked up on by both parents and children in recorded exchanges. For example, after engaging with a code example provided by myself in the role of the aliens, one pair comment:
 
-As a way to bring attention to an imagined audience. I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter are an informal collusion that we are playing along with this fiction. This is picked up on by both parents and children in exchanges.
+> Parent: Look, this is what Mick's showed, what Mick's has done.
+> Child: The Weean have done!
+> Parent: The Weean, sorry yes.
 
-FIND AND REPLACE WITH CORRECT VERSION
-Mark: Let's That Mick shared -
-Ed: That the Weean shared you mean.
+_Facilitator activities in role_
 
-_Teacher in role_
-This transcript is a rare example of extended facilitator input as instruction. SUPPORT THIS WITH STATISTICS FROM CODED DATA.
+My role is a link between the fictional commissioners of the games to be made.
 
-The facilitation of these sessions intersects with my own development as a educator, part of which is an increased waryness of too much teacher talk. However, clearly some is necessary. Also of significance is a sense of wishing be be non-directive. However, previous iterations had shown the importance if some direction to avoid false hopes and dead ends (3d bee).
+This transcript above is a rare example of extended facilitator input as
+instruction. As a practioner teaching technology I try to limit teacher talk and being overly directive to prevent learner disengagement. Balancing leaner choice with over-ambition is a tension explored in the previous chapter.  The drama narrative helped resolve some of this personal tension by allowing me to outline boundaries and be directive using the dramatic commission as a foil to help avoid the encounter feeling perosnally combative or controlling [heathcote_drama_1985].
 
-The drama narrative helped resolve some of this tension by allowing me to outline boundaries withing a role  [heathcote_drama_1985]. In this situation, my role does not involved playing a part. Instead the role is a link between the fictional commissioners of the games to be made as a tweaked tribute to the Heathcote's workplace MoE processes (ibid). I found this liberating. When listing boundaries to activities it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter. Heathcote's observations on this process posit that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+_Learner activities in role_
 
-NOTE - Other benefits include; telling people to get on with their work in role.
-
-
-<!-- NOTE - NEED TO GATHER EVIDENCE ON THIS. -->
-
-
+Beyond the wider fictional frame of the making activity, learners were also sometiems asked to undertake some activities in role, in particular reflection in role. This and other example are explored via the second vignette.
 
 <!-- Choices
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
@@ -219,7 +218,7 @@ Here we are looking at something cultural?? -->
 
 ### Vignette part two
 
-This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back via one computer that, within the frame of the drama scenario, was a link to the alien observers.
+This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back to the scenario's alien observers via one computer. I once again took up the role as a liason facilitating the process for the fictional, remote audience.
 
 >Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
@@ -233,7 +232,7 @@ This extract comes from the second session in phase four. In these sessions the 
 
 > Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
 
-> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
+> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools and processes involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote. to ask the Weean some more questions. Is that the best way to do it?
 
 > Mick: Yeah for sure and I can  see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
@@ -291,7 +290,7 @@ It is. It sure is.
 
 > Mark: Play it now!
 
-> Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
+> Richie: You definlink itely noticed. (Points to Mark and Ed) You definitely noticed my bit.
 
 > (Nadine  goes to the keyboard and starts to play her game)
 
@@ -308,26 +307,40 @@ RESTATING RQS
  - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -->
 
-### Impact of the drama process on reflection
+### Reflecting in role
 
 <!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 
-At the end of each session for the
+While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. The vignette show me adopting this tactic for end-of-session reflections.
+
+In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited sucess in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignettte above in Fig 5.x.
+
+The simple clustering of particpants so they were side by side and talking to a disembodied audience via a computer seemed to destress the feedback process. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to a
+
+Even participants that were initially reluctant to share back and had never shared back publically before in sessions, chipped in after other family member starting the process for them.  
 
 
-From my perspective, this technique added an additional advantage of distancing myself from the process of giving direct instructions as I was able to use the foil of the Weean. In my journal notes previously, I noticed that I was often reluctant to shift learners away from making activities to more structured reflective activities.
-<!-- NOTE - LINK BACK TO PREVOUS REFLECTION ON WORKING WITHIN ROLE  -->
-
-With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
-
-Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
-
-
+<!-- As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows -->
 
 <!-- NOTE ON CODING - LIMITED -->
+
+### Observations on playful chat with the alien sessions
+
+As part of accessing help via the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participants. A playful process of a fictional chat with aliens began spontaneously as a parent was undertaking a social mission.
+
+Inspired by the popularity of students engaging with the fictional audience, I asked a student to participate remotely to play the part of the alien. Impact at the final session was significant with the young people with X out of Y engaging by writing off-the-cuff messages to the fictional audience, and supportive and celebratory messages coming from the alien.  
+
+This addition to the main activity served a wider purpose of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
+
+In the final session where a large amount of time was devoted to interacting with the alien and thus was a danger of distracting from the primary aims.
+
+In reality, in this instance for some pairs, this worked to free up the parent to engage with final tweaks and challenges. As the child interacted with chat. Parents debugged more complex elements of the game with faciliators and between themselves. Others engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+
+
+
 ### Impact of the drama on encouraging varied design practices via social and secret missions
 
-Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to subtly sanction emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter myMOVE TO motivations for introducing these missions for participants in role stemmed from a desire to encourage or to subtly sanction emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
 
@@ -353,7 +366,7 @@ BRING FIGURES TO THIS.
 
 The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
 
-WHERE AND HOW TO LINK DISCUSSION? 
+WHERE AND HOW TO LINK DISCUSSION?
 - link to drama process theory
 - link to side missions of adventure games - zelda - perhaps find motivation there too.
 
@@ -373,34 +386,48 @@ Not all participants engaged with written tutorials. This observation is support
 
 The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.  
 
-### Observations on playful chat with the alien sessions
 
-As part of accessing help via the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participants. A playful process of a fictional chat with aliens began spontaneously as a parent was undertaking a social mission.
-
-Inspired by the popularity of students engaging with the fictional audience, I asked a student to participate remotely to play the part of the alien. Impact at the final session was significant with the young people with X out of Y engaging by writing off-the-cuff messages to the fictional audience, and supportive and celebratory messages coming from the alien.  
-
-This addition to the main activity served a wider purpose of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
-
-However, in the final session where a large amount of time was devoted to interacting with the alien and thus was a danger of distracting from the primary aims.
-EXPLORE VIA AT LANGUAGE?
 
 
 ### Initial discussion of the process drama ( ending with focus on authenticity of tools)
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
-*Drama Process Observations*
+#### Drama Process Observations / Discussion
 
-This section discusses the use of drama process to help create coding communities of novices.
+This section discusses the use of drama process to help create coding communities of novices - (using AT theory and other relevant concepts - which are developed further in final discussion).
 
+*Impact of working in role (explored via AT)*
 
+Several of the processes above were completed in role namely; the wider mission of making a game; the end reflection sessions; social and secret missions, and guiding participants in the use of supporting documentation.
 
+I previously made observations on myself and participants being more comfortable performing some of the activities in role. This section aims to explore these observations paying particicular attention to their value in the context of computer coding and using AT as a frame.
 
+As a personal observation, When listing boundaries to activities, or  it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
+
+I beleive part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective from the organically developing design and playtesting activity system to an externally imposed system of reflecting on progress or on the skills would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overally process. In other words, provoing a feeling that the fun's over, it's back to school.
+
+I propose that the drama fiction eases friction between competing activity system objecties. For example, Heathcote refers to curicula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Participants are more willing to overcome challenges or frustrations
+
+Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+
+This tallies with observations from journal, interviews and video data of participants.
+
+The impact of time pressure to finish games also compounded tensions involving shifting away from game making to reflective activities. Even with the use of reflection in role, reflection activity was not prioritised in final sessions as time drew short.
+
+OTHER FACTORS
   - result of analysis of interactions during game making,
-  - to encourage some practices ignored by solely focusing on implementing code - game maker types (mention in previous design chapter)
+  - to encourage some practices - AND IDENTITIES - ANY COMMENTS ignored by solely focusing on implementing code - game maker types (mention in previous design chapter)
 
 
-*Discussion on Autheticity*
+LINK NOW TO AUTHENTICITY OF PROCESSES / TOOLS
+
+While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation.
+
+The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]. Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  
+
+
+#### Discussion on Autheticity
 
 The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections of the chapter then aim to contribute new knowledge in the area of authentic tool and processes use in the domain of learning coding.
 
@@ -412,9 +439,6 @@ These tactics (which?) and resulting tensions and have been explored in other do
 
 Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. His exploration of tensions which surround the objectives of children of "schoolgoing", cover aspects of x,y and z.
 
-While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation.
-
-The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]. Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  
 
 <!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
 
