@@ -135,33 +135,32 @@ The following table is provided to give the reader an overview of the stages and
 
 <!-- Table from
 https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
-
+NEED TO SIMPLIFY TABLE - MAKE IN ATOM
 
 +-------+-------------------+-------------------+-------------------+
 | Phase | Name and Date     | Description       | Resources Used    |
 +-------+-------------------+-------------------+-------------------+
 | 1     | Oct 2017 - Mar    | Participants      | Phaser 2.6.2      |
 |       | 2018              | started with a    | javascript        |
-|       |                   | blank canvas and  | library (Appendix |
-|       | \                 | were asked to     | R.1.1)            |
+|       |                   | blank canvas and  | library           |
 |       | Experimental      | plan and make a   |                   |
 |       | Course            | game in two       | Thimble code      |
 |       |                   | larger groups of  | playground.       |
-|       |                   | 5-6 participants  | (Appendix R.2.1)  |
+|       |                   | 5-6 participants  |                   |
 |       |                   | of mixed ages. A  |                   |
 |       |                   | minimal           | Online graphics   |
 |       |                   | incomplete        | editor            |
-|       |                   | starting game     | Piskel.(Appendix  |
-|       |                   | code template was | R.3.1)            |
+|       |                   | starting game     | Piskel.           |
+|       |                   | code template was |                   |
 |       |                   | introduced to     |                   |
 |       |                   | support students  | Code recognition  |
 |       |                   | after the course  | activity.         |
-|       |                   | has started.      | (Appendix D.1.1)  |
+|       |                   | has started.      |                   |
 |       |                   |                   |                   |
 |       |                   |                   | An incomplete     |
 |       |                   |                   | game code         |
 |       |                   |                   | template          |
-|       |                   |                   | (Appendix R.4.1)  |
+|       |                   |                   |                   |
 |       |                   |                   |                   |
 |       |                   |                   | Various audio     |
 |       |                   |                   | creation tools    |
@@ -560,7 +559,7 @@ In phase one I worked with learners when they were creating a wish list of game 
 
 Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
 
-We can describe these features as game design patterns. Driven by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+We can describe these features as game design patterns. Driv(Appendix R.4.1)en by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 #### Tensions and related to navigation of various documentations sources
 
@@ -581,18 +580,7 @@ There were two main ways of approaching adding a new pattern. One to examing a c
 
 This would involve searching for new code constructs and notes in the code designed to orientate the learner, alerting them to the location and purpose of the relevant code. The other was longer form step by step help.
 
-##### Building Identities as Game Makers
 
-NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
-
-One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
 
 <!--
@@ -613,7 +601,18 @@ In phase three, to bring an awareness of these playing and making types into the
 
 The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
 
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with th##### Building Identities as Game Makers
+
+NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
+
+One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other userse positioning and if they could give examples of that behaviour.
 
 An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
 
@@ -637,7 +636,18 @@ _Missions as Islands_
 REPLACE WITH 360 OF MAPS
 
 
-<!-- Working with learner stress and confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. -->
+<!-- Working with learner stress ##### Building Identities as Game Makers
+
+NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
+
+One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other usersand confusion was something that I struggled with for some time. One source of frustration started from giving learners clear pathway. The freedom to choose what game to create was liberating but then conversations about what was possible with the time and technical ability we had were hard and we did lose some families in this process. -->
 
 <!-- Starting with a template and creating resources to help common patterns helped resolve this tension. However having this menu of choices also created another issue. Increased confusion. -->
 
@@ -653,10 +663,21 @@ It explores these tensions in relation to existing research and contains further
 
 <!-- #### Individuals vs Collective Mapping of Progress & Online / Offline issues.
 
-The move towards a more individual map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
+The move towards a more individual##### Building Identities as Game Makers
+
+NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
+
+One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users map in MakeCode iteration which is digital and analysis of data showed an emerging tensions. There are benefits of mapping it in a more visual and collaborative way as shown by the attempts to do it with paper and individuals mapping their progress with markers.
 
 A much more collaborative online map which showed other peoples progress would be possible with an investment in time and perhaps more expertise in software development. Perhaps moving towards a gamification league and tactics. This could cause potential issues with a more competitive atmosphere. -->
-
+(Appendix R.4.1)
 <!-- How much to write on this here? Or the discussion chapter? -->
 
 <!-- Interactions in the interpersonal plane in this model are described as guided participation. Guided participation in not a prescriptive  pedogogy or set of activities, rather it refers to any activities and interactions between learning community members which contribute towards shared endeavours.
@@ -678,8 +699,22 @@ The core activity of my participants was implementation of chosen game design pa
 Limit the type of game to one kind. Offer a significant but limited menu of missions that users can add. Offer written and visual support documents which learners can access independently of facilitators
 
 **Learners take on features which are too advanced or complex for their current coding level**
-
+(Appendix R.4.1)
 The use of a physical map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+##### Building Identities as Game Makers
+
+NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
+
+One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
 
 
 #### Phase Four
@@ -691,6 +726,8 @@ This iteration was very similar in terms of tool use to the previous phase with 
 In addition, I drew on some previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens. This element of the learning design was designed to increase engagement of young people, to scaffold meta-reflection processes, and to allow parents to explore digital issues.
 
 These aspects inform the first half of the next chapter which addresses the process of creating an inclusive creative coding environment.
+
+
 
 **Learners may feel alienated from coding as a practice and need a way into the process.**
 Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role.

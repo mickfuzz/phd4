@@ -320,25 +320,19 @@ From my perspective, this technique added an additional advantage of distancing 
 
 With reference to AT terminology, the game-making objective of one activity system to the larger system of reflecting on progress or on the skills being picked up was jarring. I also worried that the learners would also find it jarring. Time pressure to finish games also compounded this effect.
 
-
 Drama scenarios can facilitate reflection on subject matter both in or out of drama. In their guidebook for practitioners O'Neill and Lambert outline the value of reflection that happens within drama structures, noting that it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows
 
 
 
 <!-- NOTE ON CODING - LIMITED -->
-### Impact of the drama on encouraging flexible design practices via missions
+### Impact of the drama on encouraging varied design practices via social and secret missions
 
-Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given.  
-
-PULL OUT EXAMPLES FROM TRANSCRIPT
-
-The ones that  mentioned in the reflection of this session were the secret missions. However, public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to subtly sanction emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
-NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER
 
-<!-- NOTE INCLUDE TABLE OF DRAMA MISSIONS - SECRET AND PUBLIC - IS THERE A TABLE SOMEWHERE?
-Secret missions and public missions -
+<!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
+<!-- NOTE ONLINE VERSION Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 
 | Your Alien Mission (social)          | Your Secret Alien Mission:              
@@ -352,22 +346,18 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 | Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
 
 
+In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
-NOTE - WHERE TO BRING IN BARTLE TYPES HERE?
+Thus these sanctioned non-design activities, designed to reduce participant stress, and bring fun into a sometimes tricky process are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session.
+BRING FIGURES TO THIS.
 
-**Data from video analysis**
+The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
 
-In analysis of one key sessions involving missions from which the transcript was taken.
-Out of x participants, y visibly engaged with the secret missions during the session.
-
-
-
-NOTE INSERT - Examples of interactions?
-
+WHERE AND HOW TO LINK DISCUSSION? 
 - link to drama process theory
 - link to side missions of adventure games - zelda - perhaps find motivation there too.
 
-The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
+
 
 ### Observations on exploring documentation and accessing technical help within the drama frame
 
@@ -403,7 +393,7 @@ EXPLORE VIA AT LANGUAGE?
 
 This section discusses the use of drama process to help create coding communities of novices.
 
-As explore in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to subtly sanction emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+
 
 
   - result of analysis of interactions during game making,
@@ -902,6 +892,8 @@ what is there ? - included
 - calling across room
 - clustering, remaining on outskirts.
 
+
+NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other
 
 
 <!--
