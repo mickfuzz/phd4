@@ -7,9 +7,8 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Communities (with agency in mind)
+title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
 ---
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
@@ -18,9 +17,11 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Description of vignette part
         one](#description-of-vignette-part-one)
     -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama on encouraging flexible design practices
-        via
-        missions](#impact-of-the-drama-on-encouraging-flexible-design-practices-via-missions)
+    -   [Impact of the drama process on
+        reflection](#impact-of-the-drama-process-on-reflection)
+    -   [Impact of the drama on encouraging varied design practices via
+        social and secret
+        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
     -   [Observations on exploring documentation and accessing technical
         help within the drama
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
@@ -29,6 +30,8 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Initial discussion of the process drama ( ending with focus on
         authenticity of
         tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
+        -   [Drama Process Observations](#drama-process-observations)
+        -   [Discussion on Autheticity](#discussion-on-autheticity)
 -   [The impact of starting tools, documentation and other
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design
@@ -69,80 +72,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         design
         process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
         -   [Conceptualising emergent agency in this
-            study](#conceptualising-emergent-a-   [Research Questions - May 2023](#research-questions---may-2023)
--   [Introduction](#introduction)
--   [Scenarios - drama processes](#scenarios---drama-processes)
-    -   [Vignette one - starting a drama
-        process](#vignette-one---starting-a-drama-process)
-    -   [Description of vignette part
-        one](#description-of-vignette-part-one)
-    -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama process on
-        reflection](#impact-of-the-drama-process-on-reflection)
-    -   [Impact of the drama on encouraging varied design practices via
-        social and secret
-        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
-    -   [Observations on exploring documentation and accessing technical
-        help within the drama
-        frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Observations on playful chat with the alien
-        sessions](#observations-on-playful-chat-with-the-alien-sessions)
-    -   [Initial discussion of the process drama ( ending with focus on
-        authenticity of
-        tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
-        -   [Drama Process Observations](#drama-process-observations)
-        -   [Discussion on Autheticity](#discussion-on-autheticity)
--   [The impact of starting tools, documentation and other
-    processes](#the-impact-of-starting-tools-documentation-and-other-processes)
-    -   [Impact of main learning design
-        tools](#impact-of-main-learning-design-tools)
-        -   [Observations on the use of code playgrounds and other
-            authoring
-            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools) PERHAPS
-        -   [Impact of the half-baked starting
-            template](#impact-of-the-half-baked-starting-template)
-    -   [Observations of rapid
-        prototyping](#observations-of-rapid-prototyping)
-    -   [Narratives and graphics drawing on home funds of
-        knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
-    -   [Documentation via code examples and step-by-step
-        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
-    -   [Guided Code Patching Process](#guided-code-patching-process)
--   [Emerging processes and use of
-    tools](#emerging-processes-and-use-of-tools)
-    -   [Play-testing](#play-testing)
-    -   [Alternating coding](#alternating-coding)
-    -   [Shifting between Facilitator and more active
-        partner](#shifting-between-facilitator-and-mo PERHAPS re-active-partner)
-    -   [Code roles and
-        experimentation](#code-roles-and-experimentation)
-    -   [Accessing online, professional/community
-        documentation](#accessing-online-professionalcommunity-documentation)
-    -   [Emerging tactics in accessing help from peers and
-        facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
--   [Discussion](#discussion)
-    -   [Discussion - on learner identity, anxiety and implications in
-        relation to other
-        research.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research.)
-    -   [Discussion on flexible design practices - (FLEXIBLE NOT JUST
-        EMERGENT)](#discussion-on-flexible-design-practices---flexible-not-just-emergent)
-    -   [The limits of design cycle
-        stages](#the-limits-of-design-cycle-stages)
-    -   [Encouraging a culture of emergent improvisation/agency in the
-        design
-        process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
-        -   [Conceptualising emergent agency in this
             study](#conceptualising-emergent-agency-in-this-study)
-    -   [Chapter conclusion](#chapter-conclusion)
-    -   [Link section to next chapter](#link-section-to-next-chapter)
--   [Appendices of this chapter\_](#appendices-of-this-chapter_)
-    -   [Appendix 4.x - On creating narratives and game
-        Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
-        -   [Appendix 4.x - Extract of interview with Mark and
-            Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
-        -   [Appendix 4.x - Extract of interaction between Molly and
-            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
-gency-in-this-study)
     -   [Chapter conclusion](#chapter-conclusion)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
@@ -1410,16 +1340,11 @@ Conflicts and tensions between participant motives and different parts of activi
 
 Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
-In this chapter I have referred to blockages which are conflicts between
-
-
+Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
 **On affordances and anchors**
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
-
-
-
 
 Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
