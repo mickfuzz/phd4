@@ -1137,26 +1137,22 @@ NOTE - COMPRESS AND  MOVE TERMS TO GLOSSARY -
 
 <!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
 
-In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. In this section I draw on the AT concept of blockages which result from tensions and contradictions between different elements in activity systems.
+In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
 
-Some were non-technical
+Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
 
- overcoming blocks is to get greater granularity on into the detail and types or errors.  These include:
+I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+
+For example,  on into the detail and types or errors.  These include:
 
  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
 
 
-#### Syntax and Program errors vs No Behaviour
-
-Find examples.
-
-Sh & Th for example gets so frustrated that keeps moving on to create compound errors.
-One no behaviour bug can be worked around but a syntax bug stops everything.
 
 
-#### Examples of Glitch types of errors
+<!-- #### Examples of Glitch types of errors
 
 Short examples of different types and the affect implications.
 
@@ -1169,25 +1165,25 @@ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new 
 
 - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
 
- The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
 
 #### Discussion on productive problem solving
 
-I propose that knowledge of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
 
-Professionals build up a sense of
+Professionals build up this sense through experience.
 
-More research would be welcome.
+While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
 
+More research would be welcome on how to help learners pick up these understandings.
 Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
 Question - do more useful / less de-motivating errors result from remixing and game patching?
-Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
+
+<!-- Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER? -->
 
 
-Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
-
-Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
+Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
 
 
@@ -1412,8 +1408,9 @@ Designing for tool and process use invites discussion of active possibilities of
 
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistant and can be referred to as blockages.
 
-Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93]. 
+Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
+In this chapter I have referred to blockages which are conflicts between
 
 
 
