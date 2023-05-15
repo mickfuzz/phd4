@@ -997,20 +997,25 @@ An additional rationale for this process was to help reduce potential internal b
 <!-- NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
 This section explores what other shifts in design practices -->
 
+### Observations on emerging divisions of labour
+
+NOTE THIS SECTION DESCRIBES EMERGING PATTERNS OF BEHAVIOUR - BUT IT IS NOT CLEAR IF IT ANWSERS THE RESEARCH QUESTIONS DIRECTLY.
+
+#### Alternating coding
 
 
-
-
-
-### Alternating coding
-
-Sh and Th
 The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.
 
 This follows a pattern of X   
 
+One parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles."
 
-### Shifting between Facilitator and more active partner
+The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
+
+
+#### Shifting between Facilitator and more active partner
+
+In a similar way ....  
 
 At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
 
@@ -1018,7 +1023,7 @@ Discussion drawing on more radical attempts to describe the best way to bring yo
 Perhaps in the field of participatory design.
 
 
-### Code roles  and experimentation
+#### Code roles  and experimentation
 
 While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
 
@@ -1026,18 +1031,6 @@ In one interaction child Ne visits the page to add a mechanic, starts to scan it
 - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
 FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER
 
-### Accessing online, professional/community documentation
-
-The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
-
-Toby and Dan - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
 
 ### Emerging tactics in accessing help from peers and facilitators
@@ -1055,6 +1048,21 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+
+
+#### Accessing online, professional/community documentation
+
+The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
 
 
@@ -1080,8 +1088,6 @@ For example,  on into the detail and types or errors.  These include:
  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
 
 
-
-
 <!-- #### Examples of Glitch types of errors
 
 Short examples of different types and the affect implications.
@@ -1097,7 +1103,7 @@ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new 
 
  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
 
-#### Discussion on productive problem solving
+#### Discussion on nurturing tactical responses to blocks
 
 How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
 
@@ -1120,49 +1126,6 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 ## Discussion
 
 Deepening from observation, evidence to synthesis in relation to other research.
-
-### Discussion - on learner identity, anxiety and implications in relation to other research.
-
-NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
-
-While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
-
-This chapter has explored barriers to participation in coding project can be mitigated by allowing participants to bring in some of their existing collaborative practices and home interests.
-
-In summary:
-
-<!-- Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people. -->
-- the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
-- encouraing game playing and discussion of games helps surface positive affect and   
-
-
-**Discussion on reducing learner anxiety surrounding text coding**
-
-The previous chapter addressed elements of the learning design that aimed to create an welcoming learning environment especially in response to the withdrawl of one family due to hardcore coding and feedback that
-
-I introduced the following:
-
-- adapted my sessions to ensure a consistency of non-digital and playful activities.
-- reflection in role
-- encouraging flexible making patte
-- flexible pathways to making resources and navigating their learning.
-
-This chimes with existing research:
-
-- the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
-- deeper into Heathcote
-- something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
-
-And can be synthesised in this way :
-
-- oh lordy - better write something here!
-
-
-<!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
-
-
-<!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
-
 
 ### Discussion on flexible design practices - (FLEXIBLE NOT JUST EMERGENT)
 
@@ -1365,6 +1328,56 @@ MOVE to Discussion?
 Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
+
+
+### Discussion - on learner identity, anxiety and implications in relation to other research - AND CONCEPTIONS OF AGENCY.
+
+NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
+
+Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
+
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
+
+This chapter supports this research and also finds game making as  a suitable medium to support existing collaborative practices and home interests to overcome difficulties in computer coding.
+
+Conceptually, within AT, these interventions and design choices which yield possibilities for self-exploration can be see as potential anchor points to increase learner agency.
+
+In summary:
+
+<!-- Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people. -->
+- the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
+- encouraing game playing and discussion of games helps surface positive affect and   
+
+
+**Discussion on reducing learner anxiety surrounding text coding**
+
+The previous chapter addressed elements of the learning design that aimed to create an welcoming learning environment especially in response to the withdrawl of one family due to hardcore coding and feedback that
+
+I introduced the following:
+
+- adapted my sessions to ensure a consistency of non-digital and playful activities.
+- reflection in role
+- encouraging flexible making patte
+- flexible pathways to making resources and navigating their learning.
+
+This chimes with existing research:
+
+- the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
+- deeper into Heathcote
+- something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
+
+And can be synthesised in this way :
+
+- oh lordy - better write something here!
+
+
+<!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
+
+
+<!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
+
+
+
 
 
 
