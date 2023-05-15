@@ -536,7 +536,9 @@ The use of code playgrounds significantly reduces the load and difficulty for st
 
 The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken. While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
 
-The game template itself contained guidance for users. REALLY NOT SURE HOW TO STRUCTURE THIS - ALSO IN PREVIOUS CHAPTER.
+The game template itself contained guidance for users.
+
+REALLY NOT SURE HOW TO STRUCTURE THIS - ALSO IN PREVIOUS CHAPTER.
 
 -
 
@@ -550,9 +552,6 @@ The game template itself contained guidance for users. REALLY NOT SURE HOW TO ST
 - community sharing of tropes (or is this later) -->
 
 <!-- PERHAPS KEEP EACH DISCUSSION POINT HERE IN THE SECTIONS ABOVE - OR IF MORE OVERARCHING MOVE TO FINAL DISCUSSION SECTION. -->
-
-
-
 <!-- I used to share keyboard shortcuts as magic tricks
 - Copy paste
 - Cntl and end
@@ -674,7 +673,6 @@ At this phase documentation included; comment help within the game template; a s
 The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter.
 
 NOTE - TO ANSWER WHAT EXACTLY?  
-
 AND HOW TO DEVELOP THIS SECTION IN BREIF?
 
 ### Guided Code Patching Process
