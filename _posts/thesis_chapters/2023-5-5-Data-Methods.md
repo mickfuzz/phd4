@@ -69,7 +69,80 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         design
         process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
         -   [Conceptualising emergent agency in this
+            study](#conceptualising-emergent-a-   [Research Questions - May 2023](#research-questions---may-2023)
+-   [Introduction](#introduction)
+-   [Scenarios - drama processes](#scenarios---drama-processes)
+    -   [Vignette one - starting a drama
+        process](#vignette-one---starting-a-drama-process)
+    -   [Description of vignette part
+        one](#description-of-vignette-part-one)
+    -   [Vignette part two](#vignette-part-two)
+    -   [Impact of the drama process on
+        reflection](#impact-of-the-drama-process-on-reflection)
+    -   [Impact of the drama on encouraging varied design practices via
+        social and secret
+        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
+    -   [Observations on exploring documentation and accessing technical
+        help within the drama
+        frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+    -   [Observations on playful chat with the alien
+        sessions](#observations-on-playful-chat-with-the-alien-sessions)
+    -   [Initial discussion of the process drama ( ending with focus on
+        authenticity of
+        tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
+        -   [Drama Process Observations](#drama-process-observations)
+        -   [Discussion on Autheticity](#discussion-on-autheticity)
+-   [The impact of starting tools, documentation and other
+    processes](#the-impact-of-starting-tools-documentation-and-other-processes)
+    -   [Impact of main learning design
+        tools](#impact-of-main-learning-design-tools)
+        -   [Observations on the use of code playgrounds and other
+            authoring
+            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
+        -   [Impact of the half-baked starting
+            template](#impact-of-the-half-baked-starting-template)
+    -   [Observations of rapid
+        prototyping](#observations-of-rapid-prototyping)
+    -   [Narratives and graphics drawing on home funds of
+        knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
+    -   [Documentation via code examples and step-by-step
+        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
+    -   [Guided Code Patching Process](#guided-code-patching-process)
+-   [Emerging processes and use of
+    tools](#emerging-processes-and-use-of-tools)
+    -   [Play-testing](#play-testing)
+    -   [Alternating coding](#alternating-coding)
+    -   [Shifting between Facilitator and more active
+        partner](#shifting-between-facilitator-and-more-active-partner)
+    -   [Code roles and
+        experimentation](#code-roles-and-experimentation)
+    -   [Accessing online, professional/community
+        documentation](#accessing-online-professionalcommunity-documentation)
+    -   [Emerging tactics in accessing help from peers and
+        facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
+-   [Discussion](#discussion)
+    -   [Discussion - on learner identity, anxiety and implications in
+        relation to other
+        research.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research.)
+    -   [Discussion on flexible design practices - (FLEXIBLE NOT JUST
+        EMERGENT)](#discussion-on-flexible-design-practices---flexible-not-just-emergent)
+    -   [The limits of design cycle
+        stages](#the-limits-of-design-cycle-stages)
+    -   [Encouraging a culture of emergent improvisation/agency in the
+        design
+        process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
+        -   [Conceptualising emergent agency in this
             study](#conceptualising-emergent-agency-in-this-study)
+    -   [Chapter conclusion](#chapter-conclusion)
+    -   [Link section to next chapter](#link-section-to-next-chapter)
+-   [Appendices of this chapter\_](#appendices-of-this-chapter_)
+    -   [Appendix 4.x - On creating narratives and game
+        Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
+        -   [Appendix 4.x - Extract of interview with Mark and
+            Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
+        -   [Appendix 4.x - Extract of interaction between Molly and
+            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
+gency-in-this-study)
     -   [Chapter conclusion](#chapter-conclusion)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
@@ -672,7 +745,7 @@ The contents of the tutorials which gave examples of the game design patterns ar
 
 NOTE - TO ANSWER WHAT EXACTLY?  
 
-AND HOW TO DEVELOP THIS SECTION IN BREIF? 
+AND HOW TO DEVELOP THIS SECTION IN BREIF?
 
 ### Guided Code Patching Process
 
@@ -906,6 +979,8 @@ My role as a facilitator rather than a instructor was key to this process as has
 Where the activities, processes in the previous section were imagined, often in response to community need, by myself, the following emerged from community use.
 
 
+
+
 ### Play-testing
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
@@ -993,52 +1068,7 @@ An additional rationale for this process was to help reduce potential internal b
 This section explores what other shifts in design practices -->
 
 
-<!-- ### On Debugging and Embracing Different Types of Errors
 
-NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
-
- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
-
- -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
- -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
- -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
-
-
-#### Syntax and Program errors vs No Behaviour
-
-Find examples.
-
-Sh & Th for example gets so frustrated that keeps moving on to create compound errors.
-One no behaviour bug can be worked around but a syntax bug stops everything.
-
-
-#### Examples of Glitch types of errors
-
-Short examples of different types and the affect implications.
-
-Glitch errors can be productive.
-
-**Productive in exploring code / creating new game opportunites**
-An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
-
-**Productive in in**
-
-- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
-
- The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
-
-#### Discussion on Errors
-
-Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
-
-Question - do more useful / less de-motivating errors result from remixing and game patching?
-Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
-
-
-Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
-
-Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
- -->
 
 
 
@@ -1095,6 +1125,62 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
+
+
+
+### On different kinds of snags / blocks
+
+#### On Debugging and Embracing Different Types of Errors
+
+
+
+NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
+
+ In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
+
+ -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+ -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+ -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+
+
+#### Syntax and Program errors vs No Behaviour
+
+Find examples.
+
+Sh & Th for example gets so frustrated that keeps moving on to create compound errors.
+One no behaviour bug can be worked around but a syntax bug stops everything.
+
+
+#### Examples of Glitch types of errors
+
+Short examples of different types and the affect implications.
+
+Glitch errors can be productive.
+
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in**
+
+- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
+
+#### Discussion on Errors
+
+Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
+
+Question - do more useful / less de-motivating errors result from remixing and game patching?
+Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
+
+
+Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
+
+Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
+
+
+
+
 
 ## Discussion
 
