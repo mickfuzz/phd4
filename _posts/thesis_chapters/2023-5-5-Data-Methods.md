@@ -1300,7 +1300,7 @@ Which raises question why tinkering and improvisiational approaches are not more
 
 One challenge is the diversity of the directions in which learners may want to go and the difficulty to structure code patching approaches in a way which can support novice coders. Drawing from authetic resources can be chaotic and create too many problematic errors.
 
-Also participants lack the concepts of computing and necessary language aand are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
+Also participants lack the concepts of computing and necessary language and are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 #### Conceptualising emergent agency in this study
 
@@ -1361,9 +1361,9 @@ In summary:
 
 **Discussion on reducing learner anxiety surrounding text coding**
 
-The previous chapter addressed elements of the learning design that aimed to create an welcoming learning environment especially in response to the withdrawl of one family due to hardcore coding and feedback that
+<!-- especially in response to the withdrawl of one family due to hardcore coding and feedback that -->
 
-I introduced the following:
+Elements of the learning design that aimed to create an welcoming learning environment included:
 
 - adapted my sessions to ensure a consistency of non-digital and playful activities.
 - reflection in role
