@@ -98,7 +98,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
         tools](#impact-of-main-learning-design-tools)
         -   [Observations on the use of code playgrounds and other
             authoring
-            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
+            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools) PERHAPS
         -   [Impact of the half-baked starting
             template](#impact-of-the-half-baked-starting-template)
     -   [Observations of rapid
@@ -113,7 +113,7 @@ title: Findings Ch 2 - Culturally Inclusive Methods to Kick Start Game Making Co
     -   [Play-testing](#play-testing)
     -   [Alternating coding](#alternating-coding)
     -   [Shifting between Facilitator and more active
-        partner](#shifting-between-facilitator-and-more-active-partner)
+        partner](#shifting-between-facilitator-and-mo PERHAPS re-active-partner)
     -   [Code roles and
         experimentation](#code-roles-and-experimentation)
     -   [Accessing online, professional/community
@@ -1133,10 +1133,15 @@ Parent Mark made a comment showing that he was aware of the particular value of 
 #### On Debugging and Embracing Different Types of Errors
 
 
+NOTE - COMPRESS AND  MOVE TERMS TO GLOSSARY -
 
-NOTE - THIS SECTION SEEMS QUITE NICHE - PERHAPS DROP OR MOVE TO A LATER DISUSSION - WHAT ARE THE ESSENTIAL POINTS?
+<!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
 
- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. A way to start to normalise the experience of overcoming blocks is to get greater granularity on into the detail and types or errors. In the art of war on errors, we must know our enemy. These include:
+In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. In this section I draw on the AT concept of blockages which result from tensions and contradictions between different elements in activity systems.
+
+Some were non-technical
+
+ overcoming blocks is to get greater granularity on into the detail and types or errors.  These include:
 
  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
@@ -1166,7 +1171,13 @@ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new 
 
  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful.
 
-#### Discussion on Errors
+#### Discussion on productive problem solving
+
+I propose that knowledge of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+
+Professionals build up a sense of
+
+More research would be welcome.
 
 Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
@@ -1177,8 +1188,6 @@ Question - what impact does the process of being driven by GDPs have on how user
 Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors.
 
 Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
-
-
 
 
 
@@ -1398,9 +1407,22 @@ A bullet point summary follows
 
 Designing for tool and process use invites discussion of active possibilities of the design - aka - embodied agency of the design - as per non human methodologies.
 
+
+**On double stimulation and agency**
+
+Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistant and can be referred to as blockages.
+
+Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93]. 
+
+
+
+
 **On affordances and anchors**
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+
+
 
 Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
