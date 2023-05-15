@@ -1290,14 +1290,17 @@ Plan then Create then Imagine then Revise all in the space of a minute.
 
 <!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
 
-**Implications**
+#### Implications - PERHAPS MOVE?
 
 Thus when designing a program and thinking of how to present the process to participants, over structuring activity or even teaching a design cycle approach explicitly may be not be productive or accurate.
 
 Instead the emerging process relates more closely to tinkering methodology -
 
-Other frameworks would be suitable here?
+Which raises question why tinkering and improvisiational approaches are not more widespread.
 
+One challenge is the diversity of the directions in which learners may want to go and the difficulty to structure code patching approaches in a way which can support novice coders. Drawing from authetic resources can be chaotic and create too many problematic errors.
+
+Also participants lack the concepts of computing and necessary language aand are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 #### Conceptualising emergent agency in this study
 
