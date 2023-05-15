@@ -1070,7 +1070,6 @@ NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
 #### On Debugging and Embracing Different Types of Errors
 
-
 NOTE - COMPRESS AND  MOVE TERMS TO GLOSSARY -
 
 <!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
@@ -1123,21 +1122,16 @@ Perhaps see the above glitch examples. Not fully understanding every line of cod
 
 
 
-## Discussion
-
-Deepening from observation, evidence to synthesis in relation to other research.
-
-### Discussion on flexible design practices - (FLEXIBLE NOT JUST EMERGENT)
 
 <!--
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
 <!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
 
-Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices.
+<!-- Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices. -->
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
 
-To address this, this section looks as some of the emerging patterns which complexify the emerging norms of design thinking education.  *if that's useful that is - if not just describe complexities*
+
 
 
 <!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
@@ -1185,83 +1179,50 @@ To address this, this section looks as some of the emerging patterns which compl
 
  The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
-### The limits of design cycle stages
+## Discussion
 
-When coding data a design cycle framework was one of the code structures. REFER BACK TO ENGINEERING SOURCE.
-Ask / Imagine, Plan, Create, Test, Improve, Share.
+Deepening from observation, evidence to synthesis in relation to other research.
 
-While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs.
+### Discussion on flexible design practices (RENAME NOW? )
 
-When coding I quick became aware of the limits and challenges to coding to this.
+This section looks as some of the emerging patterns of design practice of participants. When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I quick became aware of the limits and challenges to coding to this. There may not be neat matches and at some stage if the process is very fragmented. Other researcher questions the value of persriptive design stage approache as a planning or analysis. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
-For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle.
-For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
 
-I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets.
 
-This limits claims I can make from the coded data. However it raises interesting points which merit discussion.
+<!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 
-**Value Faff Time.**
-So much of the creative process is faffing. More precisely many creative moments happen in times not neatly represented in the cycle.
-For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools.
 
-This is something that I do not have a precise name for. I call it digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating like needing to tidy up so you can find your car keys.
-There is frustration here, but there are also moments of creativity, and there are bonding moments which are undirected activity but shared.  
+<!-- ### Valuing digital laundry and faff time  -->
 
-For example the process of finding assets in the shared Piskel gallery served to keep indivuals informed in directly of progress being made, and to spark curiousity in the creations of others.
+For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
 
-In addition, some of the missions encouraged this kinds of faff time. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mision of "Find out the favourite games of 3 other people". another?
+<!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
 
+<!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
+
+
+many creative moments happen in times not neatly represented in the cycle. For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating.
+
+I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite undirected but also shared. For example the process of finding assets in the shared Piskel gallery served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+In addition, some of the missions encouraged this kinds of social activity. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mission of "Find out the favourite games of 3 other people".
+IS THIS ALREADY COVERED PREVIOUSLY?
+<!--
 **Improving is Creating and Planning when remixing**
 
 For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
 
-CASE - One parent did extensive design and then altered the variables at the end. Molly:-
+CASE - One parent did extensive design and then altered the variables at the end. Molly:- -->
 
 <!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
 
-**Implication for design**
-
-When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
 ### Encouraging a culture of emergent improvisation/agency in the design process.
 
 - Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
 
-<!-- Pumping up the Jam - -->
-
-In many interactions we see improvisational approaches.
-
-Example from Te and Da - 2019-05-08 -
-
-    Da- use paper to design
-    Te - I'm just going with it
-
-The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
-
-The concept of Jam is explored in rapid, improvisational events called Game Jams.
-
-Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
-player types
 
 
-**Digital Jamming**
-
-This has an example in the use of sound making software Fi & Ma -
-The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
-
-They are in an evaluation of tools which could be said to be in planning stage,
-However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
-
-The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-This would fit within the Imagine stage.
-Plan then Create then Imagine then Revise all in the space of a minute.
-
-Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
-
-Implication two -when designing a program and thinking of how to present the process to participants, over structuring around a design cycle approach may be not be productive or accurate.
-Question? How does this relate to tinkering methodology?
-What other framework would be suitable here?
 
 
 **Discussion on choice of tools - e.g. why not scratch?**
@@ -1290,6 +1251,52 @@ When reviewing video data. There are lots of interactions, peer and pair, that a
 A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
+
+
+
+
+
+
+
+
+**Digital Jamming**
+
+<!-- Pumping up the Jam - -->
+
+In many interactions we see improvisational approaches.
+
+Example from Te and Da - 2019-05-08 -
+
+    Da- use paper to design
+    Te - I'm just going with it
+
+The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
+
+The concept of Jam is explored in rapid, improvisational events called Game Jams.
+
+Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
+player types
+
+This has an example in the use of sound making software Fi & Ma -
+The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
+
+They are in an evaluation of tools which could be said to be in planning stage,
+However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
+
+The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+
+This would fit within the Imagine stage.
+Plan then Create then Imagine then Revise all in the space of a minute.
+
+<!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
+
+**Implications**
+
+Thus when designing a program and thinking of how to present the process to participants, over structuring activity or even teaching a design cycle approach explicitly may be not be productive or accurate.
+
+Instead the emerging process relates more closely to tinkering methodology -
+
+Other frameworks would be suitable here?
 
 
 #### Conceptualising emergent agency in this study
@@ -1366,9 +1373,8 @@ This chimes with existing research:
 - deeper into Heathcote
 - something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
 
-And can be synthesised in this way :
+These can be synthesised using TADS metaphor and enriching it with a greater focus on the specificity of what makes the anchor points catchy. Thus developing the metaphor in include the importance of affordences which can be responsively designed into the learning environment.
 
-- oh lordy - better write something here!
 
 
 <!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
@@ -1379,15 +1385,6 @@ And can be synthesised in this way :
 
 
 
-
-
-### Chapter conclusion
-
-List concluding points here
-
-- one
-- two
-- three
 
 ### Link section to next chapter
 
