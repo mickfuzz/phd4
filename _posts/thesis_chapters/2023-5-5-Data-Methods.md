@@ -666,14 +666,12 @@ The process of swapping assets in involved developing a complex chain of many of
 
 <!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
 
-Direct help between peer participants, as outined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
+Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
 
 At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
 
-The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter.
+The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
 
-NOTE - TO ANSWER WHAT EXACTLY?  
-AND HOW TO DEVELOP THIS SECTION IN BREIF?
 
 ### Guided Code Patching Process
 
@@ -684,12 +682,19 @@ THERE IS DUPLICATION WITH OTHER CHAPTERS HERE - ANY WITH GDP?
 
 While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world conotations of craft and physical repair of materials in a relatable way.  
 
-Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is disputed, but common. http://wiki.c2.com/?CopyAndPasteProgramming - Certainly it is essential skill for beginners and one which was justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
+Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
 
-Some participants were early adopters of the code patching process. In the last chapter we see Toby engaging in the code patching process.
+**Dialectical development of support for patching**
 
+Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
 
 In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
+
+Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process.
+
+However
+
+
 
 Initial participant feedback showed that this approach involved a high level of code literacy and confidence to use. Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
@@ -1439,3 +1444,6 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
     Sonia:– Have you saved it?
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
+
+
+    [^1]: http://wiki.c2.com/?CopyAndPasteProgramming
