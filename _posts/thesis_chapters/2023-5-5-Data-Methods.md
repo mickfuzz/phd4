@@ -146,7 +146,7 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 ## Scenarios - drama processes
 
 
-### Vignette one - starting a drama process
+### Vignette 4.1.a - Introducing a drama process
 
 This sections starts with a vignette of the start of an game making programme. It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
 
@@ -182,14 +182,14 @@ After the following excerpt which introduces a dramatic scenario involving a fic
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
 
 
-### Description of vignette part one
+### Description of Vignette 4.1.a
 <!-- q: How much to reference back to previous chapter? -->
 
 <!-- The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE  -->
 
-While the process of introducing a scenario for participant to respond to is common in project based learning in this vignette this is developed to include a dramatic element. In the following section I describe the vignette using concepts from the domain of process drama.
+While the process of introducing a scenario for participant to respond to is common in project based learning in this vignette this is developed to include a dramatic element. In this section, I describe the vignette using concepts from the domain of process drama: Further analysis follows in a later section.
 
-While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not tryto position the participants as expert game makers in a professional context. However, the following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _reponsible team_ is contracted into a _commision_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resliance_ to overcome the _grappling and struggling_ involved.
+While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not try to position the participants as expert game makers in a professional context. However, the following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _responsible team_ is contracted into a _commission_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resilience_ to overcome the _grappling and struggling_ involved.
 
 The following sections explore some of these concepts in via the example in vignette.
 
@@ -202,7 +202,7 @@ As a facilitator I indicate that we are entering a dramatic process and attempt 
 > Parent: The Weean, sorry yes.
 
 _Facilitator activities in role_
-
+e following section
 My role is a link between the fictional commissioners of the games to be made.
 
 This transcript above is a rare example of extended facilitator input as
@@ -219,7 +219,8 @@ Beyond the wider fictional frame of the making activity, learners were also some
 describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
 Here we are looking at something cultural?? -->
 
-### Vignette part two
+### Vignette 4.1.b - Session reflections and secret missions
+
 
 This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back their progress.
 
@@ -235,9 +236,9 @@ This extract comes from the second session in phase four. In these sessions the 
 
 > Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
 
-> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools and processes involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote. to ask the Weean some more questions. Is that the best way to do it?
+> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
 
-> Mick: Yeah for sure and I can  see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
+> Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
 ![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
@@ -311,7 +312,7 @@ RESTATING RQS
 - How can learners build agency in an evolving community of game makers? -->
 
 
-### Description of Vignette two
+### Description of Vignette 4.1.b
 
 In this extract participants are invited to share their progress and next steps to the alien observers via one computer screen. I play the role as a liaison facilitating the process for the fictional, remote audience.
 
@@ -338,9 +339,37 @@ DVELOP AND DEEPEN
 
 <!-- NOTE ON CODING - LIMITED -->
 
+
+
+### Observations on exploring documentation and accessing technical help within the drama frame
+
+In the vignette 4.1.b Mark asks "we’d like to ask the Weean some more questions (to overcome coding blockages). Is that the best way to do it?". He is referring to the line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participants.
+
+To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
+
+Dan and Toby also received help and reference that too.
+
+Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
+
+The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.
+
+The full transcript of vignette 4.1.b  gives an overview of the different kinds of documentation and highlighting the support for code patching process.
+
+<!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
+
+
+MOVE LATER
+Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
+
+
+
+
 ### Observations on playful chat with the alien sessions
 
-As part of accessing help via the drama process, a line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participants. A playful process of a fictional chat with aliens began spontaneously as a parent was undertaking a social mission.
+Once a line of indirect communication with the Weean had been establised
+ form of a simple web page that could be edited and viewed by participants.
+
+A playful process of a fictional chat with aliens began spontaneously as a parent was undertaking a social mission.
 
 Inspired by the popularity of students engaging with the fictional audience, I asked a student to participate remotely to play the part of the alien. Impact at the final session was significant with the young people with X out of Y engaging by writing off-the-cuff messages to the fictional audience, and supportive and celebratory messages coming from the alien.  
 
@@ -349,25 +378,6 @@ This addition to the main activity served a wider purpose of building an insider
 In the final session where a large amount of time was devoted to interacting with the alien and thus was a danger of distracting from the primary aims.
 
 In reality, in this instance for some pairs, this worked to free up the parent to engage with final tweaks and challenges. As the child interacted with chat. Parents debugged more complex elements of the game with facilitators and between themselves. Others engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
-
-
-### Observations on exploring documentation and accessing technical help within the drama frame
-
-In the full transcript of vignette gives an overview of the different kinds of documentation and highlighting the support for code patching process.
-
-LIST THEM?
-
-- (As noted above?) Mark and Ed make reference to the process of getting help via email.
-- Dan and Toby also receive help and reference that too. Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
-
-The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.
-
-<!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
-
-
-MOVE LATER
-Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
-
 
 
 ### Impact of the drama on encouraging varied design practices via social and secret missions
@@ -1461,6 +1471,30 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
     Sonia:– Have you saved it?
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
+
+
+#### Appendix 4.x  - Addition to vignette 4.1 - documentation in drama
+
+> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
+
+> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
+So what they suggested is. why don’t I put t so there’s a link so right to the chapter for how to do it right next to that image.
+So that makes sense really so I’m going to to do that.
+
+> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+> Molly: So just insert it somewhere.
+
+> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
+
 
 
     [^1]: http://wiki.c2.com/?CopyAndPasteProgramming
