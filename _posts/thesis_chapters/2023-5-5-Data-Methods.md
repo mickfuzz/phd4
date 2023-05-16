@@ -347,22 +347,11 @@ In the vignette 4.1.b Mark asks "we’d like to ask the Weean some more question
 
 To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
 
-Dan and Toby also received help and reference that too.
+Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, the fiction on of the alien source is maintained as Dan suggests a modification to improve code readability. "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
 
-Dan makes an observation that the way of completing the task using case rather than if then statements was not optimal in this learning environment and so asks to change it.
-
-The process of writing down a request in a chat potentially addresses the barriers to asking a group email group for help noted in the previous chapter by distancing the process - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags.
-
-The full transcript of vignette 4.1.b  gives an overview of the different kinds of documentation and highlighting the support for code patching process.
+The process of writing down a request in a chat potentially addresses the barriers to asking fellow group members in an email group for help noted in the previous chapter by distancing the process - ADD TO DESIGN - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags thus building experience of using technical terms.
 
 <!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
-
-
-MOVE LATER
-Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
-
-
-
 
 ### Observations on playful chat with the alien sessions
 
@@ -687,11 +676,15 @@ The process of swapping assets in involved developing a complex chain of many of
 
 <!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
 
+
 Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
 
 At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
 
 The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
+
+MOVED HERE - CHECK IT FITS
+Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
 
 
 ### Guided Code Patching Process
@@ -716,6 +709,22 @@ In response to on-going frustrations of not being able to respond to participant
 Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
 
 Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
+
+In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
+
+> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+> Molly: So just insert it somewhere.
+
+> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+
 
 This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
@@ -1478,7 +1487,7 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
 > Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
 
 > One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
-So what they suggested is. why don’t I put t so there’s a link so right to the chapter for how to do it right next to that image.
+So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
 So that makes sense really so I’m going to to do that.
 
 > So if you click on that (referring to tutorial link) if you want to add a moving enemy.
