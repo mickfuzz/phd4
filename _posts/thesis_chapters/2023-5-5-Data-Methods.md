@@ -686,25 +686,31 @@ Patching rather than coding from scratch is authentic process which is often nee
 
 **Dialectical development of support for patching**
 
+THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
+
 Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
 
 In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
 
-Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process.
+Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
 
-However
+Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
 
-
-
-Initial participant feedback showed that this approach involved a high level of code literacy and confidence to use. Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. This addressed a common lack of detailed understanding of the underlying code structure used in the code and the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
  ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
 
 In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
-DOES THIS ANSWER RQS?
+DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
 
-During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+COMPRESS THE FOLLOWING. 
+
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure.
+
+However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made.
+
+Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 DOES THIS ANSWER RQS?
 
 
