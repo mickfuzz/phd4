@@ -179,7 +179,7 @@ After the following excerpt which introduces a dramatic scenario involving a fic
 > Mick: I couldn’t understand all of it but I tried to write it down as best as I can. So from what I’ve work out they’ve looked at our games and they’ve come up with a challenge for us. They are coming to Earth so they need to find out if we are worth saving. And the way that they are going to decide is by playing the games that we come up with. And they are going to set us little challenges. So. yeah, that’s the story. (with heavy irony) I’m pretty sure it’s true. (Mick and others laugh).
 
 > So all they’re asking us to do is to come up with a game. We’ve got four sessions. They want a new game because they’ve already played our old games. It’s got to be something about the problems of the world. I’ve got a lot of problems. It could be big problem or a small problem. It could be about your problems. But also ideas on how to solve them.  
-And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of it as well. That’s our mission.
+And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
 
 
 ### Description of vignette part one
@@ -187,7 +187,7 @@ And yeah. That we can work by ourselves but also work as part of a team. So we�
 
 <!-- The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE  -->
 
-In the following section I describe the vignette using concepts from the domain of process drama.
+While the process of introducing a scenario for participant to respond to is common in project based learning in this vignette this is developed to include a dramatic element. In the following section I describe the vignette using concepts from the domain of process drama.
 
 While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not tryto position the participants as expert game makers in a professional context. However, the following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _reponsible team_ is contracted into a _commision_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resliance_ to overcome the _grappling and struggling_ involved.
 
@@ -221,7 +221,7 @@ Here we are looking at something cultural?? -->
 
 ### Vignette part two
 
-This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back to the scenario's alien observers via one computer. I once again took up the role as a liaison facilitating the process for the fictional, remote audience.
+This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back their progress.
 
 >Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
@@ -310,17 +310,28 @@ RESTATING RQS
  - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -->
 
+
+### Description of Vignette two
+
+In this extract participants are invited to share their progress and next steps to the alien observers via one computer screen. I play the role as a liaison facilitating the process for the fictional, remote audience.
+
 ### Reflecting in role
 
-<!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 
-While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. The vignette show me adopting this tactic for end-of-session reflections.
+<!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
+The impact of this set up can be compared to previous iterations of reflection in sessions.
 
 In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
+
+The use of the screen as a link to the aliens helps justify moving participants and stopping all activity.
 
 The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to destress the feedback process. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback.
 
 Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member starting the process for them.  
+
+While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. The vignette show me adopting this tactic for end-of-session reflections.
+
+DVELOP AND DEEPEN
 
 
 <!-- As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows -->
@@ -704,7 +715,7 @@ In making decisions like the one to include extra visual scaffolding in step by 
 
 DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
 
-COMPRESS THE FOLLOWING. 
+COMPRESS THE FOLLOWING.
 
 During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure.
 
