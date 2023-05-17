@@ -439,6 +439,78 @@ Article on intangibility of game feel.
 ### GDPs and the role of documentation and supporting resources
 <!-- NOTE - Keep only the parts specifically on GDP -->
 
+
+
+
+### Documentation via code examples and step-by-step tutorials
+
+<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
+
+
+Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
+
+At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
+
+The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
+
+MOVED HERE - CHECK IT FITS
+Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
+
+
+### Guided Code Patching Process
+
+- FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS
+
+#### patched in from previous chapter
+
+**What is code patching?**
+
+While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world conotations of craft and physical repair of materials in a relatable way.  
+
+Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
+
+**Dialectical development of support for patching**
+
+THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
+
+Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
+
+In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
+
+Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
+
+Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
+
+In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
+
+> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+> Molly: So just insert it somewhere.
+
+> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+
+
+This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+
+ ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+
+In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
+
+DOES THIS ANSWER RQS?
+
+
+#### original contents of this section
+
+
 **Participants draw on their cultural experience and access to supporting resources and processes at home and from work contexts to guide interactions with others.**
 
 A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
@@ -473,13 +545,17 @@ Extract from 2019-05-08 - 20 mins -->
 
 In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to find one that matches his goal. Rather than persist with the imagined pattern Te suggests progressing by changing goals to one which is listed in the pattern menu. The father resists this diversion by suggesting that they use a search engine to step outside the sandbox of provided tutorials and code examples to find resources from communities on the internet.
 
-The pair's process of using supporting documents here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples. The professional practices of accessing professional documentation involves cultural elements here of a family learning culture between these two playing out in these processes. Te and Da's design process is more guided and focused than many other participants. As this interchange exploring professional documentation resources continues, the father starts as a facilitator  taking a lead from the direction of the child. However, as the dialogue progresses he begins to be more directive, initially by asking leading questions and testing existing knowledge. Finally in order to complete the research task after reaching the beyond of the child's knowledge, the father issues a series of more direct instruction, directing the research and proposing a coding solution for their new game design pattern. (INCLUDE TRANSCRIPT AS APPENDIX?)
+
+<!--
+The pair's process of using supporting documents here as they work on adding a pattern of _following enemies_ is very different from previous example of self-directed code patching from code examples. The professional practices of accessing professional documentation involves cultural elements here of a family learning culture between these two playing out in these processes. Te and Da's design process is more guided and focused than many other participants. As this interchange exploring professional documentation resources continues, the father starts as a facilitator  taking a lead from the direction of the child. However, as the dialogue progresses he begins to be more directive, initially by asking leading questions and testing existing knowledge.
+
+Finally in order to complete the research task after reaching the beyond of the child's knowledge, the father issues a series of more direct instruction, directing the research and proposing a coding solution for their new game design pattern. (INCLUDE TRANSCRIPT AS APPENDIX?)
 
 This approach appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary). Interview extracts (included as appendices) show a direction to support the novices direction as a facilitator where possible.
 
     I try never to touch the keyboard of who's there. If they are stuck on something I always tell them what to do. Even if it's then taken me five minutes to explain what a semicolon is. And point. It's that key. Because it was just, I could do it so effortlessly. I think I'm sure I put people off very quickly by "Dave did something really quickly. I don't know what it was.".
 
- This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
+ This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process. -->
 
 <!-- NOTE - dropping pair programming
 These two examples stem from the wider cultural experiences and practices of the pair's home coding style and the parents experience taking part in professional community coding activities.

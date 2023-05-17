@@ -9,29 +9,34 @@ layout: post
 categories: chapter
 title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
 ---
+
+
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
-    -   [Vignette one - starting a drama
-        process](#vignette-one---starting-a-drama-process)
-    -   [Description of vignette part
-        one](#description-of-vignette-part-one)
-    -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama process on
-        reflection](#impact-of-the-drama-process-on-reflection)
-    -   [Impact of the drama on encouraging varied design practices via
-        social and secret
-        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
+    -   [Vignette 4.1.a - Introducing a drama
+        process](#vignette-4.1.a---introducing-a-drama-process)
+    -   [Description of Vignette 4.1.a](#description-of-vignette-4.1.a)
+    -   [Vignette 4.1.b - Session reflections and secret
+        missions](#vignette-4.1.b---session-reflections-and-secret-missions)
+    -   [Description of Vignette 4.1.b](#description-of-vignette-4.1.b)
+    -   [Reflecting in role](#reflecting-in-role)
     -   [Observations on exploring documentation and accessing technical
         help within the drama
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
     -   [Observations on playful chat with the alien
         sessions](#observations-on-playful-chat-with-the-alien-sessions)
-    -   [Initial discussion of the process drama ( ending with focus on
+    -   [Impact of the drama on encouraging varied design practices via
+        social and secret
+        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
+    -   [Discussion of the process drama ( ending with focus on
         authenticity of
-        tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
-        -   [Drama Process Observations](#drama-process-observations)
+        tools)](#discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
+        -   [Drama Process Observations /
+            Discussion](#drama-process-observations-discussion)
         -   [Discussion on Autheticity](#discussion-on-autheticity)
+        -   [Discussion on emergent practices to support varied learner
+            identities.](#discussion-on-emergent-practices-to-support-varied-learner-identities.)
 -   [The impact of starting tools, documentation and other
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design
@@ -41,39 +46,46 @@ title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
             tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
         -   [Impact of the half-baked starting
             template](#impact-of-the-half-baked-starting-template)
-    -   [Observations of rapid
-        prototyping](#observations-of-rapid-prototyping)
+    -   [Observations on initial processes and tool
+        use](#observations-on-initial-processes-and-tool-use)
+    -   [Embedded GDPs in template vs GDPs in collection with supporting
+        resources](#embedded-gdps-in-template-vs-gdps-in-collection-with-supporting-resources)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
-    -   [Documentation via code examples and step-by-step
-        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
-    -   [Guided Code Patching Process](#guided-code-patching-process)
+    -   [Discussion on initial tool use and starting
+        processes](#discussion-on-initial-tool-use-and-starting-processes)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Play-testing](#play-testing)
-    -   [Alternating coding](#alternating-coding)
-    -   [Shifting between Facilitator and more active
-        partner](#shifting-between-facilitator-and-more-active-partner)
-    -   [Code roles and
-        experimentation](#code-roles-and-experimentation)
-    -   [Accessing online, professional/community
-        documentation](#accessing-online-professionalcommunity-documentation)
+    -   [Observations on emerging divisions of
+        labour](#observations-on-emerging-divisions-of-labour)
+        -   [Alternating coding](#alternating-coding)
+        -   [Shifting roles in partner
+            work](#shifting-roles-in-partner-work)
+        -   [Code roles and
+            experimentation](#code-roles-and-experimentation)
     -   [Emerging tactics in accessing help from peers and
         facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
+        -   [Accessing online, professional/community
+            documentation](#accessing-online-professionalcommunity-documentation)
+    -   [On different kinds of snags /
+        blocks](#on-different-kinds-of-snags-blocks)
+        -   [On Debugging and Embracing Different Types of
+            Errors](#on-debugging-and-embracing-different-types-of-errors)
+        -   [Discussion on nurturing tactical responses to
+            blocks](#discussion-on-nurturing-tactical-responses-to-blocks)
 -   [Discussion](#discussion)
-    -   [Discussion - on learner identity, anxiety and implications in
-        relation to other
-        research.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research.)
-    -   [Discussion on flexible design practices - (FLEXIBLE NOT JUST
-        EMERGENT)](#discussion-on-flexible-design-practices---flexible-not-just-emergent)
-    -   [The limits of design cycle
-        stages](#the-limits-of-design-cycle-stages)
+    -   [Discussion on flexible design practices (RENAME NOW?
+        )](#discussion-on-flexible-design-practices-rename-now)
     -   [Encouraging a culture of emergent improvisation/agency in the
         design
         process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
+        -   [Implications - PERHAPS MOVE?](#implications---perhaps-move)
         -   [Conceptualising emergent agency in this
             study](#conceptualising-emergent-agency-in-this-study)
-    -   [Chapter conclusion](#chapter-conclusion)
+    -   [Discussion - on learner identity, anxiety and implications in
+        relation to other research - AND CONCEPTIONS OF
+        AGENCY.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research---and-conceptions-of-agency.)
     -   [Link section to next chapter](#link-section-to-next-chapter)
 -   [Appendices of this chapter\_](#appendices-of-this-chapter_)
     -   [Appendix 4.x - On creating narratives and game
@@ -82,6 +94,8 @@ title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
             Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
         -   [Appendix 4.x - Extract of interaction between Molly and
             Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
+        -   [Appendix 4.x - Addition to vignette 4.1 - documentation in
+            drama](#appendix-4.x---addition-to-vignette-4.1---documentation-in-drama)
 
 
 <!-- ## Overview in points
@@ -148,11 +162,7 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 ### Vignette 4.1.a - Introducing a drama process
 
-This sections starts with a vignette of the start of an game making programme. It takes place during the third iteration of the game making programme. The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously.
-
-The session starts with a game which proceeds with a lot of developments including many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure.
-
-After the following excerpt which introduces a dramatic scenario involving a fictional audience I orientate learners in suggested use of support documentation. A full transcript is available in the appendix which outlines that process.
+This sections starts with a vignette of the start of an game making programme (forth phase as outlined in previous chapter). The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously. The session starts with a warm-up game which proceeds with a lot of developments including many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure.
 
 
 <!-- The purpose of the vignette is to situate the reader, give an overview of -->
@@ -187,6 +197,8 @@ And yeah. That we can work by ourselves but also work as part of a team. So we�
 
 <!-- The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE  -->
 
+<!-- After the  excerpt which introduces a dramatic scenario involving a fictional audience I orientate learners in suggested use of support documentation. A full transcript is available in the appendix which outlines that process. -->
+
 While the process of introducing a scenario for participant to respond to is common in project based learning in this vignette this is developed to include a dramatic element. In this section, I describe the vignette using concepts from the domain of process drama: Further analysis follows in a later section.
 
 While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not try to position the participants as expert game makers in a professional context. However, the following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _responsible team_ is contracted into a _commission_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resilience_ to overcome the _grappling and struggling_ involved.
@@ -198,11 +210,13 @@ _Contracting into drama_
 As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_ This serves to start the process of contracting in a drama. As a way to introducing an imagined audience. I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter are an informal collusion that we are playing along with this fiction. This is picked up on by both parents and children in recorded exchanges. For example, after engaging with a code example provided by myself in the role of the aliens, one pair comment:
 
 > Parent: Look, this is what Mick's showed, what Mick's has done.
+
 > Child: The Weean have done!
+
 > Parent: The Weean, sorry yes.
 
 _Facilitator activities in role_
-e following section
+
 My role is a link between the fictional commissioners of the games to be made.
 
 This transcript above is a rare example of extended facilitator input as
@@ -222,11 +236,11 @@ Here we are looking at something cultural?? -->
 ### Vignette 4.1.b - Session reflections and secret missions
 
 
-This extract comes from the second session in phase four. In these sessions the last 10 minutes of each session involved learners sharing back their progress.
+This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
 
->Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
+> Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
-![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
+<!-- ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%} -->
 
 > Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the weean have sent us the code we need for basically dropping stuff.
 
@@ -314,10 +328,11 @@ RESTATING RQS
 
 ### Description of Vignette 4.1.b
 
-In this extract participants are invited to share their progress and next steps to the alien observers via one computer screen. I play the role as a liaison facilitating the process for the fictional, remote audience.
+IS MORE DESCRIPTION NEEDED HERE. ?
+
+In this extract participants are invited to take turns showing their game, recapping their progress and outlining next steps to the alien observers. I play the role as a liaison facilitating the process for the fictional, remote audience. I also draw attention to the secret missions that had been distributed to participants (along with social missions).
 
 ### Reflecting in role
-
 
 <!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 The impact of this set up can be compared to previous iterations of reflection in sessions.
@@ -343,22 +358,38 @@ DVELOP AND DEEPEN
 
 ### Observations on exploring documentation and accessing technical help within the drama frame
 
-In the vignette 4.1.b Mark asks "we’d like to ask the Weean some more questions (to overcome coding blockages). Is that the best way to do it?". He is referring to the line of communication was opened up with the aliens in the form of a simple web page that could be edited and viewed by participants.
+To develop the idea that participants could communicate directly with the aliens to ask help. I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "we’d like to ask the Weean some more questions (to overcome coding blockages). Is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
 
-To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
+Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction on of the alien to playfully chastise me for using code syntax which was harder for novices to read. "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
 
-Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, the fiction on of the alien source is maintained as Dan suggests a modification to improve code readability. "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
+The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process.
 
-The process of writing down a request in a chat potentially addresses the barriers to asking fellow group members in an email group for help noted in the previous chapter by distancing the process - ADD TO DESIGN - you are asking in role. The process also mirrors professional practices in that asking a written question to overcome a coding snags thus building experience of using technical terms.
+The process also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
+
+While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern.
+
+This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
+
+The exploration of documentation with the drama frame aimed to disrupt this pattern of identification giving participants a motivation to read in role.
+
+Evidence for this means of communication is promising but this was brought into the design at a late stage and therefore there is not enough data to make larger claims beyond surfacing the potential.
+
+
+<!-- NOTE - bRING IN A QUOTE FROM ATHENA TO SUPPORT?  -->
 
 <!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
 
+
 ### Observations on playful chat with the alien sessions
 
-Once a line of indirect communication with the Weean had been establised
- form of a simple web page that could be edited and viewed by participants.
+The process of asking the aliens for technical help within a code project sparked a playful process informal chat with aliens. I noted the ad-hoc encounter in our end of session reflection.
 
-A playful process of a fictional chat with aliens began spontaneously as a parent was undertaking a social mission.
+    Ed: Weean what’s it like up there?
+    Ween: It’s cold and very big but quite tranquil.
+    Ed: What is your name?
+    Ween: We are are the Weean we have no name, we are all the same.
+    Ed: That must be hard at xmas
+    Ween: It is. It sure is.
 
 Inspired by the popularity of students engaging with the fictional audience, I asked a student to participate remotely to play the part of the alien. Impact at the final session was significant with the young people with X out of Y engaging by writing off-the-cuff messages to the fictional audience, and supportive and celebratory messages coming from the alien.  
 
@@ -369,9 +400,9 @@ In the final session where a large amount of time was devoted to interacting wit
 In reality, in this instance for some pairs, this worked to free up the parent to engage with final tweaks and challenges. As the child interacted with chat. Parents debugged more complex elements of the game with facilitators and between themselves. Others engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
 
-### Impact of the drama on encouraging varied design practices via social and secret missions
+### Use of side missions to encourage varied creative practices
 
-Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+The process started as child was left to their own devices as a parent was undertaking a social mission. Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
 
@@ -392,16 +423,32 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 
 In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
-Thus these sanctioned non-design activities, designed to reduce participant stress, and bring fun into a sometimes tricky process are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session. BRING FIGURES TO THIS.
+Thus these sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session. BRING FIGURES TO THIS.
 
-The process was not without friction, some participants, notably Toby and Dave who were engaging with coding in a more heads down way, expressed frustration at interference.
+**Discussion RECAP AND SHIFT TO NEXT SECTION/ LINK**
 
-WHERE AND HOW TO LINK DISCUSSION?
-- link to drama process theory
-- link to side missions of adventure games - zelda - perhaps find motivation there too.
+The process was not without friction. After initially engaging with the process of secret games, Toby and Dave who were later working on a tricky coding process, expressed frustration at interference.
+
+Thus, while promising limits to this process should be evaluated to avoid overly distrcutive behaivour which create barriers to progress. For example, time limits could be in place.  
+
+It is of value to briefly discussion the value of these missions in relation to  drama process theory and play theory.
+
+The drama process itself is a kind of magic circle.
+
+Not all participants want to play by the rules. One example is the R child who takes great delight at the cheekynessn
+
+the value of playing against the game or dark play.
+Bartle type include
+
+This was picked up on by one parent as well in interview data.
+Mark: "Kids love the anarchy of it all."
 
 
+<!-- The secret missions were part of this workshop
+https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
+<!-- WHERE AND HOW TO LINK DISCUSSION?
+- link to side missions of adventure games - zelda - perhaps find motivation there too. -->
 
 
 ### Discussion of the process drama ( ending with focus on authenticity of tools)
@@ -567,8 +614,7 @@ REALLY NOT SURE HOW TO STRUCTURE THIS - ALSO IN PREVIOUS CHAPTER.
 - Cntl and end
 - Page down -->
 
-**Exploring Tension - some left behind**
-Some participant do not pick up all processes, some left behind and need support but that is available and creates a reason to ask for help.
+
 
 
 <!-- This section looks at the specifics of community aspects of personal expression in the data collected in this study, dealing specifically with narrative elements, and graphical and audio assets. MOVED  -->
@@ -672,80 +718,20 @@ The process of creating a pixel art chararacter and hazard involved using an onl
 
 The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incoporating self-created graphical elements. These motivational factors are explored in a later section.
 
-### Documentation via code examples and step-by-step tutorials
-
-<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
 
 
-Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
+### Embedded GDPs in template vs GDPs in collection with supporting resources
 
-At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
+The template has self contained help.
 
-The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
+It was a big jump for some learners to move beyond these changes.
+Thus extensive support was made available to facilitate this.
 
-MOVED HERE - CHECK IT FITS
-Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
-
-
-### Guided Code Patching Process
-
-THERE IS DUPLICATION WITH OTHER CHAPTERS HERE - ANY WITH GDP?
-- FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS
-
-**What is code patching?**
-
-While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world conotations of craft and physical repair of materials in a relatable way.  
-
-Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
-
-**Dialectical development of support for patching**
-
-THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
-
-Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
-
-In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
-
-Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
-
-Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
-
-In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-
-
-This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
-
- ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
-
-In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
-
-COMPRESS THE FOLLOWING.
+Some participant do not pick up all processes, some left behind and need support but that is available. Seeing patterns other peers adopted and creates a reason to ask for help. Peer propogation of patterns explored later.
 
 
 
-DOES THIS ANSWER RQS?
 
-
-**Not GDP use**
-
-This section has focused on documentation from the point of view of seeding a community use of resources and how they were adopted in general terms.
-
-The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern.
 
 <!-- Perhaps move later after GDP chapter?  -->
 <!-- **Limitation of asset work as a GDP**
@@ -956,9 +942,7 @@ Where the activities, processes in the previous section were imagined, often in 
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
-Playtesting was a part of the initial design from the beginning but barely consciously, and certainly under explored in my journal notes. However it became a vital part of the learning process.
-
-By the time video data recording started there were already complex patterns and behaviours at work.
+As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities. By the time video data recording started in phase three there were already complex patterns and behaviours at work.
 
 There were a variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience. Playtesting appeared to be suited to allow a diversity of community-building behaviour.
 
@@ -1054,14 +1038,25 @@ One parent-child pair alternate between use of keyboard and mouse. The parent is
 The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
 
 
-#### Shifting between Facilitator and more active partner
+#### Shifting roles in partner work
 
-In a similar way ....  
+At one point the testing process Sh shows frustration as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
 
-At one point the testing process here is quite frustrating as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
+<!-- Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
+Perhaps in the field of participatory design. -->
 
-Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
-Perhaps in the field of participatory design.
+
+Toby and Dan's pair process of using supporting documents here as they work shows similar shifts. The professional practices of accessing professional documentation involves cultural elements here of a family learning culture between these two playing out in these processes. Te and Da's design process is more guided and focused than many other participants. As this interchange exploring professional documentation resources continues, the father starts as a facilitator  taking a lead from the direction of the child. However, as the dialogue progresses he begins to be more directive, initially by asking leading questions and testing existing knowledge.
+
+Finally in order to complete the research task after reaching the beyond of the child's knowledge, the father issues a series of more direct instruction, directing the research and proposing a coding solution for their new game design pattern. (INCLUDE TRANSCRIPT AS APPENDIX?)
+
+This approach appears to be influenced by Da's experience as a software engineer and volunteer at Coder Dojo (Glossary). Interview extracts (included as appendices) show a direction to support the novices direction as a facilitator where possible.
+
+    I try never to touch the keyboard of who's there. If they are stuck on something I always tell them what to do. Even if it's then taken me five minutes to explain what a semicolon is. And point. It's that key. Because it was just, I could do it so effortlessly. I think I'm sure I put people off very quickly by "Dave did something really quickly. I don't know what it was.".
+
+ This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
+
+
 
 
 #### Code roles  and experimentation
