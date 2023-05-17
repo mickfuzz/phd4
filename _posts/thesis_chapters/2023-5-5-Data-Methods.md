@@ -10,7 +10,6 @@ categories: chapter
 title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
 ---
 
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
 -   [Scenarios - drama processes](#scenarios---drama-processes)
@@ -26,9 +25,8 @@ title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
     -   [Observations on playful chat with the alien
         sessions](#observations-on-playful-chat-with-the-alien-sessions)
-    -   [Impact of the drama on encouraging varied design practices via
-        social and secret
-        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
+    -   [Use of side missions to encourage varied creative
+        practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Discussion of the process drama ( ending with focus on
         authenticity of
         tools)](#discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
@@ -41,13 +39,10 @@ title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design
         tools](#impact-of-main-learning-design-tools)
-        -   [Observations on the use of code playgrounds and other
-            authoring
-            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
+        -   [Observations on the use of code playgrounds and development
+            tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
         -   [Impact of the half-baked starting
             template](#impact-of-the-half-baked-starting-template)
-    -   [Observations on initial processes and tool
-        use](#observations-on-initial-processes-and-tool-use)
     -   [Embedded GDPs in template vs GDPs in collection with supporting
         resources](#embedded-gdps-in-template-vs-gdps-in-collection-with-supporting-resources)
     -   [Narratives and graphics drawing on home funds of
@@ -668,7 +663,7 @@ The last chapter outlined the use and design characteristics of the starting poi
 
 In phase one, I noted that any addition to the game in terms of adding new code created a lot of possible problems. As the learning design progressed, to counter this I adapted the starting game template to allow changes in code were relatively easy to perform, the end results could involve large changes in game behaviour and appearance.
 
-I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards. [^3] that highlighted changes that could be made to code that was already present.While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity. 
+I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards. [^3] that highlighted changes that could be made to code that was already present.While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
 
 <!-- - level design and prototyping: use of
 - fluid variable editing effective movement
