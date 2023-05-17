@@ -572,44 +572,10 @@ Papert & Resnick & Kafai - ownership
 Papert & Turkle - Turkle closeness to objects
  -->
 
-### Impact of main learning design tools
 
-The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
-
-
-#### Observations on the use of code playgrounds and other authoring tools
-
-<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
-Instead the more authentic approach of a real language.
- -->
-
-As explored in the previous chapter the tools used by participants - Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
-
-NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data))
-
-Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009.
-
-OBSERVATIONS TO ANSWER RQS
-
-I draw the following observations from interpretation of video data of the use of the code environment.
-
-Having a shared log in and thus a shared page for projects - making the social projects more possible.
-
-The use of code playgrounds significantly reduces the load and difficulty for students. While, there is no comparative data on this study, I can support this statement through the following observations and support from other research
-  - setting up a local coding environment is tricky
-  - running a server and connecting in that way is beyond the techincal capabilities of most.
-
-#### Impact of the half-baked starting template
-
-The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken. While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
-
-The game template itself contained guidance for users.
-
-REALLY NOT SURE HOW TO STRUCTURE THIS - ALSO IN PREVIOUS CHAPTER.
 
 -
 
-<!-- Supporting cards to alter key game mechanics in simple steps were given to participants to allow them to progress. Additional support via tutorials was created based on their requests for different game design patterns.  -->
 <!-- NOTE - BE CLEAR OF THE LINE GDP - -->
 
 <!-- MOVED TO CONCLUSION This section is unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase. A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study. -->
@@ -663,40 +629,68 @@ In the data analysed, young people -->
  - the media literacy practices of transfer between tools - similar to other studies - see guided participation studies -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
-### Observations on initial processes and tool use
 
-Observations of the process of learners using template include;
+### Impact of main learning design tools
 
-NOTE - BOIL DOWN - EXPLAIN HOW SECTIONS DIVIDED UP.
+The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
 
-- level design and prototyping: use of
+
+#### Observations on the use of code playgrounds and development tools
+
+<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
+Instead the more authentic approach of a real language.
+ -->
+As explore in the previous chapter, my motivation for choice of code development tools (Javascript, Phaser and Glitch) were driven by desire to be authentic and extensible.  Research on project based learning supports the motivational factors of authentic tools. As explored above Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating. While there is no suitable comparative data I can draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of the coding environment. A common stream of conversation among adult participants was communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the existing code. SOURCE.   
+
+The use of code playgrounds significantly reduced technical barriers for students as it removing the process of setting up a server for web development, and the delay of transferring files to the server. There were few extended blockages to undertaking work in this environment. While there were still some issues of access for some participants, these were mitigated through the use of a shared log in. When users struggled to log in or to find the games or assets that they had created earlier there were able to get help from family members or other peers mostly with out having to ask for help from facilitators.
+
+In the glitch environment code errors were high-lighted in with red dot in the interface which gave a quick visual
+indication of where the error occurred, when the user hovered over gave an error message as a pop up. the which while limited
+
+NOTE - EXAMPLE HERE AS AN IMAGE
+
+<!-- In my experience, meta-level blockages involving  be extremely frustrating. This is in-line with Resnick's guidelines to chose blackboxes carefully.  -->
+
+Online code playgrounds like glitch or CodePen curate the interface to promote and celebrate community contributions to promote a feeling of community and experimentation via remixing and contributing to the project of others. However This choice of glitch compared to a tool aimed at young coders potentially reduced access to suitable games or other suitable projects which a community like Scratch would allow. However, having a shared log in and thus a shared page for projects - making the social projects more possible.
+
+NOTE - MORE DATA IS NEEDED FOR THIS SECTION
+
+<!-- NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data)) -->
+
+
+#### Impact of the half-baked starting template
+
+<!-- The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
+While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. -->
+
+
+The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken. This section addresses the impact of the characteristics of the starting game template on participant coding practices, based on video observations of learners.
+
+In phase one, I noted that any addition to the game in terms of adding new code created a lot of possible problems. As the learning design progressed, to counter this I adapted the starting game template to allow changes in code were relatively easy to perform, the end results could involve large changes in game behaviour and appearance.
+
+I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards. [^3] that highlighted changes that could be made to code that was already present.While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity. 
+
+<!-- - level design and prototyping: use of
 - fluid variable editing effective movement
 - The swapping of assets and more complex work with code syntax
-- development of simple stories to bump personal expression and narrative
+- development of simple stories to bump personal expression and narrative -->
 
-NOTE - All longer or shorter chains of actions , becoming operations - WHERE DOES THIS FIT?
-
+<!-- NOTE - All longer or shorter chains of actions , becoming operations - WHERE DOES THIS FIT?
 NOTE - Also justify having so emergent results here , delay while accessing help to start 360 recordings h
-As the end process is visible in fluid behaviour
+As the end process is visible in fluid behaviour -->
 
-These tools align with some key design considerations. [Brennan & Resnick]
+<!-- These tools align with some key design considerations. [Brennan & Resnick]
 
  - Well suited to build a repeated design practice.
  - Small changes had big effects.
  - Variable changes needed immediate testing.  
- - Especially with starting documents,
+ - Especially with starting documents, -->
 
 <!-- While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
-
 A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
 
-NOTE - TO INTEGRATE - SEPARATE SECTIONS OR BOIL DOWN
-
-
 **Level design and prototyping**
-
-As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
 Lots of evidence of rapid changes and building of fluency of structured  
 We saw the beginning of that process in Toby's practice in vignette in the last chapter.
@@ -705,7 +699,7 @@ A code snapshot showing the link of the graphical representation of the array.
 
 There was also the process of messing the lines of code in the array. Which impacted syntax understanding.
 
-**Fluid variable editing effective movement**
+**variable editing effective movement**
 
 Movement was a key to playtesting feedback.
 Some evidence of building profiency with significant work to change these three key variables.
@@ -727,6 +721,10 @@ The process of creating a pixel art chararacter and hazard involved using an onl
 - Selecting more than one line with mouse
 
 The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incoporating self-created graphical elements. These motivational factors are explored in a later section.
+
+**Impressive fluency**
+
+As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
 
 
