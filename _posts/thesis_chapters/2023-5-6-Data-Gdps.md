@@ -499,6 +499,20 @@ game. There is a parallel here to play theory which identifies the value of play
 These range of use of supporting documents from code examples, bespoke step by step examples and the use of professional practices and documentation,
 COMPLETE -->
 
+**a guided process**
+
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure.
+
+However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made.
+
+Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person.
+
+When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns.
+
+For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+
+NOTE  CASE STUDY EXAMPLE- D and T - using the console in applying a pac-man enemy GDP
+
 #### Accessing online, professional/community documentation
 
 Toby and Dan - Accessing documentation Phaser

@@ -736,14 +736,16 @@ DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARD
 
 COMPRESS THE FOLLOWING.
 
-During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure.
 
-However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made.
 
-Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person. When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
 DOES THIS ANSWER RQS?
 
 
+**Not GDP use**
+
+This section has focused on documentation from the point of view of seeding a community use of resources and how they were adopted in general terms.
+
+The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern.
 
 <!-- Perhaps move later after GDP chapter?  -->
 <!-- **Limitation of asset work as a GDP**
@@ -1264,17 +1266,6 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 
 
-**Discussion on choice of tools - e.g. why not scratch?**
-
-NOTE -  Why not Scratch? Less of a community? So how to replace this? What of time considerations?
-SOME OF THE ABOVE IN DESIGN CHAPTER BUT REFLECTIONS HERE.
-
-Beyond technical considerations regarding scratch and use of physics etc,
-
-Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
-
-Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
-
 
 **Fluidity of design practice (driven by playtesting?)**
 
@@ -1290,11 +1281,6 @@ When reviewing video data. There are lots of interactions, peer and pair, that a
 A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
-
-
-
-
-
 
 
 
