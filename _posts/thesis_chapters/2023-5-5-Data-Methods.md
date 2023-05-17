@@ -425,20 +425,12 @@ In the transcript above we see that in the reflection participants engage in a l
 
 Thus these sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session. BRING FIGURES TO THIS.
 
-**Discussion RECAP AND SHIFT TO NEXT SECTION/ LINK**
 
 The process was not without friction. After initially engaging with the process of secret games, Toby and Dave who were later working on a tricky coding process, expressed frustration at interference.
 
 Thus, while promising limits to this process should be evaluated to avoid overly distrcutive behaivour which create barriers to progress. For example, time limits could be in place.  
 
-It is of value to briefly discussion the value of these missions in relation to  drama process theory and play theory.
-
-The drama process itself is a kind of magic circle.
-
 Not all participants want to play by the rules. One example is the R child who takes great delight at the cheekynessn
-
-the value of playing against the game or dark play.
-Bartle type include
 
 This was picked up on by one parent as well in interview data.
 Mark: "Kids love the anarchy of it all."
@@ -513,8 +505,26 @@ But the are explored in more detail in the following section. -->
 
 In this study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources in that beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
 
-MOVE THIS?
-The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong mirrors there to the Scratch community and general maker ethos. The cross over between play and work may merit further investigation and integration into this model.
+
+It is of value to briefly discussion the value of these missions in relation to drama process theory and play theory. I first encountered these kinds of secret misisons in a session which explored game design theory via creating a game collaboratively. [^2]
+
+The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases enagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly distruptive ones which in this context involved frustration and wasted time for other users.
+
+The use of side missions in open world games are used in part to appeal to different kinds of players.
+
+TYPES OF SIDE QUESTS?
+
+The drama process itself is a kind of magic circle.
+
+the value of playing against the game or dark play.
+Bartle type include
+
+
+The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing.
+
+There are strong mirrors there to the Scratch community and general maker ethos. The cross over between play and work may merit further investigation and integration into this model.
+
+
 
 <!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
 
@@ -1488,3 +1498,4 @@ So we’re moving in the right direction. But any other things where you think. 
 
 
     [^1]: http://wiki.c2.com/?CopyAndPasteProgramming
+    [^2]:https://playthinklearn.net/blog/ten-steps-to-game-design/
