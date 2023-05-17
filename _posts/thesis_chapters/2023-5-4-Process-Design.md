@@ -502,6 +502,18 @@ In order to accelerate the process of making a game to fit into contextual expec
 
 
 
+**Restricted community - e.g. why not scratch?**
+
+
+
+Beyond technical considerations regarding scratch and use of physics etc,
+
+Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
+
+Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
+
+
+
 ### Phase Two
 
 THIS SECTION NEEDS A LOT OF WORK - ADDRESSING DUPLICATION WITH THE ABOVE AND INTEGRATING ANALYSIS
