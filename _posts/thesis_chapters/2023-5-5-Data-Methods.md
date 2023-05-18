@@ -1469,52 +1469,6 @@ We can note tension of restricting user choice in order to create more "visible 
 This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements.
 
 
-## Appendices of this chapter_
-
-### Appendix 4.x  - On creating narratives and game Assets
-
-#### Appendix 4.x  - Extract of interview with Mark and Ed.
-
-    Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
-    Ma - Oh, definitely. Yeah.
-    Mick: Let's ask Fi that as well.
-    Mark: Yeah.
-    Mick: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
-    Ed: Yeah. The Fireman.
-    Mark: Yeah, well, tell us about that game. Tell about your interests and stuff?
-    Ed: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
-    ....
-    Mark: What is your aspiration for your life?
-    Ed: I wanna be a fireman (on a steam train).
-    ...
-    Ed: I really like trains, since like I was very, very young.
-
-    Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
-    Mark: I think it excited you to have to build a fireman sprite? Is that right?
-    Ed: Yeah.
-    Mark: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
-    Ed:  Yeah.
-    Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
-
-#### Appendix 4.x  - Extract of interaction between Molly and Sonia
-
-    Sonia:  That's Good!
-    Molly: Oh do you like it?
-    Sonia: Yeah
-    Molly: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
-    Sonia: Yeah
-    Molly: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
-    - Both laugh.
-    Sonia: So are you going to do bits at home? When the kids are..
-    Molly: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours .... (Laughs)
-
-    Molly: Lost time. Never mind.  We live and we learn.   
-
-    Molly: We’re finished. Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
-    Sonia:– Have you saved it?
-    Molly:– No I’ve not saved it.
-    Sonia:– Save there. (points to relevant button on screen)
-
 
 
 
