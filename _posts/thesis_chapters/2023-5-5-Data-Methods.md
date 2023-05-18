@@ -400,10 +400,11 @@ In reality, in this instance for some pairs, this worked to free up the parent t
 The process started as child was left to their own devices as a parent was undertaking a social mission. Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
-
 <!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
 <!-- NOTE ONLINE VERSION Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
+
+
 
 | Your Alien Mission (social)          | Your Secret Alien Mission:              
 |----------------|----------------|
@@ -415,6 +416,7 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 | Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
 | Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
 
+<br />
 
 In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
@@ -632,7 +634,11 @@ The choice of the starting toolset and mission shapes the balance and profile of
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
  -->
-As explore in the previous chapter, my motivation for choice of code development tools (Javascript, Phaser and Glitch) were driven by desire to be authentic and extensible.  Research on project based learning supports the motivational factors of authentic tools. As explored above Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating. While there is no suitable comparative data I can draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of the coding environment. A common stream of conversation among adult participants was communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the existing code. SOURCE.   
+As explore in the previous chapter, my motivation for choice of code development tools (Javascript, Phaser and Glitch) were driven by desire to be authentic and extensible.  Research on project based learning supports the motivational factors of authentic tools. In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology. This motivational factor of _lifting the lid_ was reflected in a conversations among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+
+As explored above Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating. While there is no suitable comparative data I can draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of the coding environment.
+
+
 
 The use of code playgrounds significantly reduced technical barriers for students as it removing the process of setting up a server for web development, and the delay of transferring files to the server. There were few extended blockages to undertaking work in this environment. While there were still some issues of access for some participants, these were mitigated through the use of a shared log in. When users struggled to log in or to find the games or assets that they had created earlier there were able to get help from family members or other peers mostly with out having to ask for help from facilitators.
 
@@ -913,9 +919,6 @@ Relevant theory / studies.
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
 
-
-
-
 ### Discussion on initial tool use and starting processes
 
 These observations can be explore in relation to other research
@@ -942,45 +945,119 @@ Where the activities, processes in the previous section were imagined, often in 
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
-As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities. By the time video data recording started in phase three there were already complex patterns and behaviours at work.
+As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour. By the time video data recording started in phase three there were already complex patterns of playtesting underway.
 
-There were a variety of ways in which playtesting happens and how younger and older participants looked to give and take from the experience. Playtesting appeared to be suited to allow a diversity of community-building behaviour.
+In this section, I review data to describe some of the playtesting behaviours
 
-Older participants often used this as a way of being supportive to both parents and young people. This happened in the following ways:
-- praising graphical content
-- making links with home interests of participants and building rapport - ( e.g. do you like dogs? )
+**Play testing as a social process**
 
-**Emerging cultural norms of playtesting**
+Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers.  Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. For example, if a game featured an image of a dog other participants may ask: _Do you like dogs? Do you have a dog at home?_.
 
-Reviewing data around playtesting the games of others in sessions, and discussion around the final play of the external audience at final showcase.
-and challenge - a culture of "hardness", curiousity about number of levels, as a vehicle for peer support,
 
-In the last chapter,
-Find examples
-
-When explored from wider perspective, the hard is good lens, is very limiting.
-The following paragraph explores different perspectives on hardness / challenge.
-
-- arcade games were designed to be hard to extract money from players
-- nes games reputation for being brutal as they often had no way to save states
-- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
-
-Other observations
-- The process of teaching challenge via balance cards can happen early on
-- some participants are resistange - see Molly's interactions - does this matter?
 
 **Play testing - and embodied participation in the games of others**
 
-study the body language of those play testing games.
-what is there ? - included
+By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently.
 
-- wrestling for control
-- movement around the room between screens
-- calling across room
-- clustering, remaining on outskirts.
+Playtesting took on additional playful elements often staring in one part of the working environment and then migrating to other areas. Because of this mobility is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting. It is possible to communicate the characteristics of this play via a description of a typical encounter.
+
+Play is initiated by calling across the room as an invitation to play , or as a provocation.
+ <!-- Examples include.... -->
+When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations.
+
+While this play is happening it may attract other participants who may  remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+
+<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
 
 
-NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other
+
+<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
+
+
+**Community concepts and norming behaviour emerging during playtesting**
+
+Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
+
+<!-- The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. -->
+
+<!-- The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. -->
+
+<!-- The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.   -->
+
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+<!-- The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on. -->
+
+<!-- Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables. -->
+<!-- In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
+
+Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.direct
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.   -->
+
+ <!-- The only changes she had made to the deliberately frustrating initial player movement (discussed in design chapter) was to change player jump velocity. Player jump (y) velocity was set very high but left right (x) velocity was slow.  -->
+
+<!-- She had been made aware by her daughter Ne about the relevant game variables.
+In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." -->
+
+Parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. As a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). Younger participants are more direct.
+
+    Bertie: That looks nice (referring to the graphical look of the game)
+
+    Molly invites Bertie: to play as she can't progress due to the difficult game controls.
+
+    Bertie: It jumps super high but so slow  
+    Pause
+    Molly: He has to go slow because he's an astronaut, you see.    
+    Bertie: It's hard.
+    (Bertie leaves.)
+    Molly: (to peer parent with proud tone.) It's hard. Wow.
+
+    (Ed comes to play the game)
+    Ed: How much jump speed to you have?
+    Ed: Your jump speed is massive.
+
+Mi initially misconstrue the feedback that her game is hard as a positive thing. Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." This suggests that through he process she understands her game is frustrating rather than pleasantly challenging.
+
+A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
+DEVELOP THE LINK TO NORMING PRACTICES HERE OR IN DISCUSSION LATER
+
+
+<!-- We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
+
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
+
+While the players do not tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_. -->
+
+<!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
+
+
+<!-- NOTE - NOTES ON THE CULTURE OF HARDNESSS - FIT IN SOMEWHERE IF APPROPRIATE
+
+When explored from game making perspective the hard is good lens, is limiting in terms of building the engagement of players. However, culturally the desire to make games hard for other participants is more understandable in the context of retro games. .
+
+- arcade games were designed to be hard to extract money from players
+- nes games reputation for being brutal as they often had no way to save states, and much of the games challenge, due to limitations of number of levels or modes of playing, depended on this 'hardness'
+- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
+- retro games are associated therefore with being brutal and frustrating.
+- thus in some ways the process of making a hard game is a way of getting your own back at all the games that have frustrated
+ -->
+<!--
+Other observations
+- The process of teaching challenge via balance cards can happen early on
+- some participants are resistange - see Molly's interactions - does this matter? -->
+
+
+
 
 
 <!--
@@ -1056,9 +1133,6 @@ This approach appears to be influenced by Da's experience as a software engineer
 
  This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
 
-
-
-
 #### Code roles  and experimentation
 
 While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
@@ -1084,8 +1158,6 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
-
-
 
 #### Accessing online, professional/community documentation
 
@@ -1263,16 +1335,18 @@ But at the cost of maintaining a working game. -->
 
 This section looks as some of the emerging patterns of design practice of participants.
 
-When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I quick became aware of the limits and challenges to coding to this. There may not be neat matches and at some stage if the process is very fragmented. Other researcher questions the value of persriptive design stage approache as a planning or analysis. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
+**Observations on design stages**
+
+When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. One causes of this was the use of a templated game which contained and which invited testing and sharing with after only quick changes. Also, I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
+
+While design at school is sometimes taught using perspective stages approaches, other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
 
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
-
-
 <!-- ### Valuing digital laundry and faff time  -->
 
-For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+In addition, much time in sessions was spent on activities outside of this cycle. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
 
 <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
 
@@ -1336,9 +1410,6 @@ Plan then Create then Imagine then Revise all in the space of a minute.
 
 In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
-
-
-
 **Fluidity of design practice (driven by playtesting?)**
 
 Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
@@ -1368,7 +1439,7 @@ One challenge is the diversity of the directions in which learners may want to g
 Also participants lack the concepts of computing and necessary language and are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 
-#### Designing to incorporate learner identity, reduce anxiety and implications in relation to other research - AND CONCEPTIONS OF AGENCY.
+#### Designing to incorporate learner identity
 
 NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
 

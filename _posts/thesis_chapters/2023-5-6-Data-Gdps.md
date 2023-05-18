@@ -333,9 +333,11 @@ While the players do not tell Mi directly to change the game, these comments app
 
 <!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
 
-### The propagation of use of GDPs and associated practices stemming from playtesting
+### The propagation of use of GDPs and associated practices stemming
 
-**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity incorporating or emerging from playtesting.**
+**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity**
+
+NOTE CAN THIS FOCUS ON NON TEMPLATED GDPs?
 
 For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch1 how to add new levels.
 
@@ -377,7 +379,7 @@ While Fi has only just been introduced to the ability to "cramp". He is happy an
 
 **GDPs allow participants to share and explore their home funds of knowledge and practices in the emerging learning community.**  
 
-In the previous chapter, the ability for participants to bring home funds of knowledge (as per Lit review) into the new learning community was explored via the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping.
+In the previous chapter, the ability for participants to bring home funds of knowledge into the emerging learning community was explored via the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping.
 
     Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
     Te: Er not really.

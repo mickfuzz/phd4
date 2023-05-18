@@ -127,7 +127,7 @@ Full print out of the design pattern cards  - x 4 as samples.
     > So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
     What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
-    #### Appendix 4.x  - Addition to vignette 4.1 - documentation in drama
+#### Appendix 4.x  - Addition to vignette 4.1 - documentation in drama
 
     > Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
 
@@ -149,6 +149,18 @@ Full print out of the design pattern cards  - x 4 as samples.
     > Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
     So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
 
+#### Appendix 4.x  - Addition to vignette 4.1 - community norming in playtesting 
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.direct
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
 
 
 ## Glossary
