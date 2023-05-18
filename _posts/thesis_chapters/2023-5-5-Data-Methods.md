@@ -336,7 +336,7 @@ In my journal notes for previously phases I noted my reluctance to shift learner
 
 The use of the screen as a link to the aliens helps justify moving participants and stopping all activity.
 
-The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to destress the feedback process. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback.
+The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively than in previous feedback sessions.  
 
 Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member starting the process for them.  
 
@@ -531,15 +531,13 @@ This element of the drama process emerged as part of work to support different l
 
  <!-- including exploring adapting Bartle player types to maker types to honour different approaches; the use of social and missions and  -->
 
-The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design. In contrast, in a later  section, evidence supporting the value of releasing control to allow emergent practices is presented.
+The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design.
 
-NOTE - MOVE TO DISCUSSION?
-While this distinction allows a clearer approach, there is a grey area of tools and processes which emerged in community practice, prove to be sucessful and which are then adopted as a suggested process for the next iteration of the design. This process of assimilation is discussed in final discussion along with x, y and z?
 
 
  <!-- (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices. -->
 
-## The impact of starting tools, documentation and other processes
+## The impact of starting tools and processes
 
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
 <!-- NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
@@ -625,12 +623,11 @@ In the data analysed, young people -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
 
-### Impact of main learning design tools
 
 The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
 
 
-#### Observations on the use of code playgrounds and development tools
+### Observations on the use of code playgrounds and development tools
 
 <!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
 Instead the more authentic approach of a real language.
@@ -653,7 +650,7 @@ NOTE - MORE DATA IS NEEDED FOR THIS SECTION
 <!-- NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data)) -->
 
 
-#### Impact of the half-baked starting template
+### Impact of the half-baked starting template
 
 <!-- The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
 While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. -->
@@ -1222,109 +1219,6 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
 
 Deepening from observation, evidence to synthesis in relation to other research.
 
-### Discussion on flexible design practices (RENAME NOW? )
-
-This section looks as some of the emerging patterns of design practice of participants. When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I quick became aware of the limits and challenges to coding to this. There may not be neat matches and at some stage if the process is very fragmented. Other researcher questions the value of persriptive design stage approache as a planning or analysis. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
-
-
-
-<!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
-
-
-<!-- ### Valuing digital laundry and faff time  -->
-
-For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
-
-<!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
-
-<!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
-
-
-many creative moments happen in times not neatly represented in the cycle. For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating.
-
-I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite undirected but also shared. For example the process of finding assets in the shared Piskel gallery served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
-
-In addition, some of the missions encouraged this kinds of social activity. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mission of "Find out the favourite games of 3 other people".
-IS THIS ALREADY COVERED PREVIOUSLY?
-<!--
-**Improving is Creating and Planning when remixing**
-
-For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
-
-CASE - One parent did extensive design and then altered the variables at the end. Molly:- -->
-
-<!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
-
-
-### Encouraging a culture of emergent improvisation/agency in the design process.
-
-- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
-
-
-
-
-
-
-**Fluidity of design practice (driven by playtesting?)**
-
-Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
-
-Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
-
-This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
-
-<!--## Community Aspects of the 3M design -
-
-When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
-A bullet point summary follows
-- helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
-- getting help from all sources possible -->
-
-
-
-**Digital Jamming**
-
-<!-- Pumping up the Jam - -->
-
-In many interactions we see improvisational approaches.
-
-Example from Te and Da - 2019-05-08 -
-
-    Da- use paper to design
-    Te - I'm just going with it
-
-The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
-
-The concept of Jam is explored in rapid, improvisational events called Game Jams.
-
-Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
-player types
-
-This has an example in the use of sound making software Fi & Ma -
-The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
-
-They are in an evaluation of tools which could be said to be in planning stage,
-However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
-
-The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-
-This would fit within the Imagine stage.
-Plan then Create then Imagine then Revise all in the space of a minute.
-
-<!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
-
-#### Implications - PERHAPS MOVE?
-
-Thus when designing a program and thinking of how to present the process to participants, over structuring activity or even teaching a design cycle approach explicitly may be not be productive or accurate.
-
-Instead the emerging process relates more closely to tinkering methodology -
-
-Which raises question why tinkering and improvisiational approaches are not more widespread.
-
-One challenge is the diversity of the directions in which learners may want to go and the difficulty to structure code patching approaches in a way which can support novice coders. Drawing from authetic resources can be chaotic and create too many problematic errors.
-
-Also participants lack the concepts of computing and necessary language and are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
-
 #### Conceptualising emergent agency in this study
 
 Designing for tool and process use invites discussion of active possibilities of the design - aka - embodied agency of the design - as per non human methodologies.
@@ -1363,7 +1257,118 @@ A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
 
-### Discussion - on learner identity, anxiety and implications in relation to other research - AND CONCEPTIONS OF AGENCY.
+
+
+### Discussion on designing for emergent practices
+
+This section looks as some of the emerging patterns of design practice of participants.
+
+When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I quick became aware of the limits and challenges to coding to this. There may not be neat matches and at some stage if the process is very fragmented. Other researcher questions the value of persriptive design stage approache as a planning or analysis. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
+
+
+
+<!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
+
+
+<!-- ### Valuing digital laundry and faff time  -->
+
+For example a lot of time in this informal game-making sessions were spent on activities outside of this cycle. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+
+<!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+
+<!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
+
+
+many creative moments happen in times not neatly represented in the cycle. For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span or which can be extremely frustrating.
+
+I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite undirected but also shared. For example the process of finding assets in the shared Piskel gallery served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+In addition, some of the missions encouraged this kinds of social activity. As examples, Mark toured the other participants and sparked a lively discussion about game playing in response to the mission of "Find out the favourite games of 3 other people".
+IS THIS ALREADY COVERED PREVIOUSLY?
+<!--
+**Improving is Creating and Planning when remixing**
+
+For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
+
+CASE - One parent did extensive design and then altered the variables at the end. Molly:- -->
+
+<!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
+
+
+
+**Digital Jamming**
+
+<!-- Pumping up the Jam - -->
+
+In many interactions we see improvisational approaches.
+
+Example from Te and Da - 2019-05-08 -
+
+    Da- use paper to design
+    Te - I'm just going with it
+
+The tools, process and the community encourage a jam / improvisational approach. Remixing, chipping away, a shattering of design cycles. More of an informal approach
+
+The concept of Jam is explored in rapid, improvisational events called Game Jams.
+
+Some of the following sections discuss design factors and participant responses which fit this category of informal creative practices.
+player types
+
+This has an example in the use of sound making software Fi & Ma -
+The process of tinkering and messing spurs creativity that doesn't map to a design cycle.
+
+They are in an evaluation of tools which could be said to be in planning stage,
+However this quickly become creation as they decide the spontaneously created music is preferable to the one created using a different tool at home.
+
+The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+
+This would fit within the Imagine stage.
+Plan then Create then Imagine then Revise all in the space of a minute.
+
+<!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
+
+
+
+### Encouraging a culture of emergent improvisation/agency in the design process.
+
+- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
+
+
+In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+
+
+
+**Fluidity of design practice (driven by playtesting?)**
+
+Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
+
+Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
+
+This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
+
+<!--## Community Aspects of the 3M design -
+
+When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
+A bullet point summary follows
+- helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
+- getting help from all sources possible -->
+
+
+#### Implications - discussion on designing for emergent practices
+
+Thus when designing a program and thinking of how to present the process to participants, over structuring activity or even teaching a design cycle approach explicitly may be not be productive or accurate.
+
+Instead the emerging process relates more closely to tinkering methodology -
+
+Which raises question why tinkering and improvisiational approaches are not more widespread.
+
+One challenge is the diversity of the directions in which learners may want to go and the difficulty to structure code patching approaches in a way which can support novice coders. Drawing from authetic resources can be chaotic and create too many problematic errors.
+
+Also participants lack the concepts of computing and necessary language and are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
+
+
+#### Designing to incorporate learner identity, reduce anxiety and implications in relation to other research - AND CONCEPTIONS OF AGENCY.
 
 NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
 
@@ -1409,10 +1414,12 @@ These can be synthesised using TADS metaphor and enriching it with a greater foc
 <!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
 
 
-
-
-
 ### Link section to next chapter
+
+This chapter was organised in part around starting processes and practices and tool use which  emerged from this starting point. This distinction is fluid as some tools and processes which emerged in community practice, prove to be sucessful and which are then adopted as a suggested process for the next iteration of the design.
+
+This process of assimilation is discussed in final discussion chapter -  along with x, y and z?
+
 
 We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter.
 
@@ -1465,28 +1472,6 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
 
-
-#### Appendix 4.x  - Addition to vignette 4.1 - documentation in drama
-
-> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
-
-> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
-So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
-So that makes sense really so I’m going to to do that.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
 
 
 

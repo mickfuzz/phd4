@@ -127,6 +127,28 @@ Full print out of the design pattern cards  - x 4 as samples.
     > So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
     What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
+    #### Appendix 4.x  - Addition to vignette 4.1 - documentation in drama
+
+    > Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
+
+    > One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
+    So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
+    So that makes sense really so I’m going to to do that.
+
+    > So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+    I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+    ![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+    > Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+    > Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+    > Molly: So just insert it somewhere.
+
+    > Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+    So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
+
 
 
 ## Glossary
