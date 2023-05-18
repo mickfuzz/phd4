@@ -450,11 +450,11 @@ This section discusses the use of drama process to help create coding communitie
 
 Several of the processes above were completed in role namely; the wider mission of making a game; the end reflection sessions; social and secret missions, and guiding participants in the use of supporting documentation.
 
-I previously made observations on myself and participants being more comfortable performing some of the activities in role. This section aims to explore these observations paying particicular attention to their value in the context of computer coding and using AT as a frame.
+I previously made observations on myself and participants being more comfortable performing some of the activities in role. This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame.
 
 As a personal observation, When listing boundaries to activities, or  it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
 
-I beleive part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective from the organically developing design and playtesting activity system to an externally imposed system of reflecting on progress or on the skills would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overally process. In other words, provoing a feeling that the fun's over, it's back to school.
+I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress or on the skills would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
 
 I propose that the drama fiction eases friction between competing activity system objecties. For example, Heathcote refers to curicula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Participants are more willing to overcome challenges or frustrations
 
@@ -718,11 +718,6 @@ The process of creating a pixel art chararacter and hazard involved using an onl
 
 The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incoporating self-created graphical elements. These motivational factors are explored in a later section.
 
-**Impressive fluency**
-
-As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
-
-
 
 ### Embedded GDPs in template vs GDPs in collection with supporting resources
 
@@ -732,9 +727,6 @@ It was a big jump for some learners to move beyond these changes.
 Thus extensive support was made available to facilitate this.
 
 Some participant do not pick up all processes, some left behind and need support but that is available. Seeing patterns other peers adopted and creates a reason to ask for help. Peer propogation of patterns explored later.
-
-
-
 
 
 <!-- Perhaps move later after GDP chapter?  -->
@@ -1349,18 +1341,14 @@ In exploring sound making software Ed and Mark start a process of tinkering and 
 
 Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
 
-To jam also implies a responsive, rapid and fluid reponses to audience and collaborators ideas. Such behavour is often present in recorded data
+To jam also implies a responsive, rapid and fluid responses to audience and collaborators ideas. Such behaviour is often present in recorded data. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
 
-Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
-NADINE'S EXAMPLE OF RAPID FLUIDITY
+**Impressive fluency**
+
+As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
 
 
 INSERT BRIEF DISCUSSION HERE
-
-
-
-
-
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 **Learning to love digital laundry and value faff time**
@@ -1393,9 +1381,6 @@ For example when altering jump and move variable for the first time. They are de
 CASE - One parent did extensive design and then altered the variables at the end. Molly:- -->
 
 <!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
-
-
-
 <!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. A**Observations on design stages**nd some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
 
 
@@ -1425,7 +1410,7 @@ One challenge is the diversity of the directions in which learners may want to g
 Also participants lack the concepts of computing and necessary language and are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 
-#### Designing to incorporate learner identity
+<!-- #### Designing to incorporate learner identity
 
 NOTE - INCLUDE HOME ED CONTEXT TO AN EXTENT TO PRECEED LATER CAVEATS IN CONCLUSION
 
@@ -1439,14 +1424,15 @@ Conceptually, within AT, these interventions and design choices which yield poss
 
 In summary:
 
-<!-- Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people. -->
-- the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
+Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people.
+
+  - the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
 - encouraing game playing and discussion of games helps surface positive affect and   
+ -->
 
+<!-- **Discussion on reducing learner anxiety surrounding text coding**
 
-**Discussion on reducing learner anxiety surrounding text coding**
-
-<!-- especially in response to the withdrawl of one family due to hardcore coding and feedback that -->
+ especially in response to the withdrawl of one family due to hardcore coding and feedback that
 
 Elements of the learning design that aimed to create an welcoming learning environment included:
 
@@ -1461,7 +1447,7 @@ This chimes with existing research:
 - deeper into Heathcote
 - something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
 
-These can be synthesised using TADS metaphor and enriching it with a greater focus on the specificity of what makes the anchor points catchy. Thus developing the metaphor in include the importance of affordences which can be responsively designed into the learning environment.
+These can be synthesised using TADS metaphor and enriching it with a greater focus on the specificity of what makes the anchor points catchy. Thus developing the metaphor in include the importance of affordences which can be responsively designed into the learning environment. -->
 
 
 
