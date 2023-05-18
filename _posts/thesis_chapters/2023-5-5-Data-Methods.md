@@ -1293,7 +1293,9 @@ Deepening from observation, evidence to synthesis in relation to other research.
 
 #### Conceptualising emergent agency in this study
 
-Designing for tool and process use invites discussion of active possibilities of the design - aka - embodied agency of the design - as per non human methodologies.
+Designing for tool and process use invites discussion of active possibilities of the design.
+
+  <!-- - aka - embodied agency of the design - as per non human methodologies. -->
 
 
 **On double stimulation and agency**
@@ -1328,14 +1330,11 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
-
-
-
 ### Discussion on designing for emergent practices
 
 This section looks as some of the emerging patterns of design practice of participants.
 
-#### Observations on design stages
+**Observations on design stages**
 
 When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. One causes of this was the use of a templated game which contained and which invited testing and sharing with after only quick changes. Also, I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
 
@@ -1352,7 +1351,18 @@ In exploring sound making software Ed and Mark start a process of tinkering and 
 
 Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
 
-INSERT BRIEF DISCUSSION HERE 
+To jam also implies a responsive, rapid and fluid reponses to audience and collaborators ideas. Such behavour is often present in recorded data
+
+Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
+NADINE'S EXAMPLE OF RAPID FLUIDITY
+
+
+INSERT BRIEF DISCUSSION HERE
+
+
+
+
+
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 **Learning to love digital laundry and value faff time**
@@ -1388,24 +1398,11 @@ CASE - One parent did extensive design and then altered the variables at the end
 
 
 
-<!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
+<!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. A**Observations on design stages**nd some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
 
 
 
-### Encouraging a culture of emergent improvisation/agency in the design process.
 
-- Responses to choice of tools & Communities Choice of Coding Tools / Environment / Communities
-
-
-In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-**Fluidity of design practice (driven by playtesting?)**
-
-Another example shows an evolving fluidity in response. Ch incorporates a boost to player health after a level after being given feedback during playtesting.
-
-Other participants also demonstrate fluidity of response although to a less sophisticated degree. The process of altering design especially suits a fluid response as makers build their design skills by rapidly altering  
-
-This is participatory appropriation in that it is a new GDP that stems from original thinking on the part of the participant.  
 
 <!--## Community Aspects of the 3M design -
 
@@ -1416,6 +1413,8 @@ A bullet point summary follows
 
 
 #### Implications - discussion on designing for emergent practices
+
+In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
 Thus when designing a program and thinking of how to present the process to participants, over structuring activity or even teaching a design cycle approach explicitly may be not be productive or accurate.
 
