@@ -425,7 +425,7 @@ During the vignette above, Richie occupies a peripheral position and is interact
 
 ![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
-The positive reaction of young people to the drama process was also  picked up on by one parent as well in interview data.
+The positive reaction of young people to the drama process was also  picked up on by one parent Mark in interview data.
 Mark: "Kids love the anarchy of it all."
 
 <!-- I really like I found the wean thing, the most interesting thing about last session. Okay. I felt that the kids loved it too. So tell me a bit about that, how that how that kind of what people do in the way. What was it you liked about the way they're just very silly? Yes. The answer to your questions? Yes. Did you really enjoy the fact that this earthly body was answering your questions? Yeah. It was it because there was a sense of play, offensive form, and a bit of anarchy. Yeah. Yeah. Right. Whilst he tells all the way, I'm sure was that there was a little sabotage things you have to do wasn't that you liked those games where you had to kind of hack somebody else? Yeah. What missions did you go? What happens? Spaces to change someone else sound but the math changed it and read it. That exactly like that even though it was quite different, but it wasn't it wasn't enough of a change. But Reuben had to us and they put like a really loud cow fat thing and we didn't know. I said it was great for ages. And he felt that was Larry. Yeah, the weird thing was, I think it was a massive hit for everybody because he just brought sense of play and fun. And it took attention away from it being overly technical person. -->
