@@ -235,7 +235,7 @@ This second extract comes from the following session in phase four. In three of 
 
 > Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
-<!-- ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%} -->
+![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
 
 > Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the weean have sent us the code we need for basically dropping stuff.
 
@@ -249,7 +249,6 @@ This second extract comes from the following session in phase four. In three of 
 
 > Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
-![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
 
 > Mick: (reading out from the screen) Weean what’s it like up there? Asks Edward.
@@ -323,16 +322,14 @@ RESTATING RQS
 
 ### Description of Vignette 4.1.b
 
-IS MORE DESCRIPTION NEEDED HERE. ?
+<!-- IS MORE DESCRIPTION NEEDED HERE. ? -->
 
 In this extract participants are invited to take turns showing their game, recapping their progress and outlining next steps to the alien observers. I play the role as a liaison facilitating the process for the fictional, remote audience. I also draw attention to the secret missions that had been distributed to participants (along with social missions).
 
 ### Reflecting in role
 
 <!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
-The impact of this set up can be compared to previous iterations of reflection in sessions.
-
-In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
+The impact of this set up can be compared to previous iterations of reflection in sessions. In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
 
 The use of the screen as a link to the aliens helps justify moving participants and stopping all activity.
 
@@ -422,15 +419,16 @@ In the transcript above we see that in the reflection participants engage in a l
 
 Thus these sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session. BRING FIGURES TO THIS.
 
+The process was not without friction. After initially engaging with the process of secret games, Toby and Dave who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
 
-The process was not without friction. After initially engaging with the process of secret games, Toby and Dave who were later working on a tricky coding process, expressed frustration at interference.
+During the vignette above, Richie occupies a peripheral position and is interaction with his laptop still. However, he reacts positively when Ed's irreverent questions to the Weean are read out.
 
-Thus, while promising limits to this process should be evaluated to avoid overly distrcutive behaivour which create barriers to progress. For example, time limits could be in place.  
+![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
-Not all participants want to play by the rules. One example is the R child who takes great delight at the cheekynessn
-
-This was picked up on by one parent as well in interview data.
+The positive reaction of young people to the drama process was also  picked up on by one parent as well in interview data.
 Mark: "Kids love the anarchy of it all."
+
+<!-- I really like I found the wean thing, the most interesting thing about last session. Okay. I felt that the kids loved it too. So tell me a bit about that, how that how that kind of what people do in the way. What was it you liked about the way they're just very silly? Yes. The answer to your questions? Yes. Did you really enjoy the fact that this earthly body was answering your questions? Yeah. It was it because there was a sense of play, offensive form, and a bit of anarchy. Yeah. Yeah. Right. Whilst he tells all the way, I'm sure was that there was a little sabotage things you have to do wasn't that you liked those games where you had to kind of hack somebody else? Yeah. What missions did you go? What happens? Spaces to change someone else sound but the math changed it and read it. That exactly like that even though it was quite different, but it wasn't it wasn't enough of a change. But Reuben had to us and they put like a really loud cow fat thing and we didn't know. I said it was great for ages. And he felt that was Larry. Yeah, the weird thing was, I think it was a massive hit for everybody because he just brought sense of play and fun. And it took attention away from it being overly technical person. -->
 
 
 <!-- The secret missions were part of this workshop
