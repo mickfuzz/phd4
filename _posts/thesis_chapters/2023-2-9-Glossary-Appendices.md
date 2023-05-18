@@ -149,18 +149,44 @@ Full print out of the design pattern cards  - x 4 as samples.
     > Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
     So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
 
-#### Appendix 4.x  - Addition to vignette 4.1 - community norming in playtesting 
+#### Appendix 4.x  - Addition to vignette 4.1 - community norming in playtesting
 
-    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-    Mick: How are you getting on Mi? It's looking good.
-    Mick: (Noting frustrated air of Mi) Have you made it to hard.
-    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-    Mick: So it look like you bump your head and fall down.
-    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.direct
-    Mick: Yeah.
-    Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
+Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+Mick: How are you getting on Mi? It's looking good.
+Mick: (Noting frustrated air of Mi) Have you made it to hard.
+Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+Mick: So it look like you bump your head and fall down.
+Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+Mi: Oh right yeah.direct
+Mick: Yeah.
+Mi: Yeah, actually that's a good idea.
+Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
+
+
+#### Appendix 5.x  - Addition to vignette 5.1 -  
+
+Molly continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
+
+Molly:  Oh no it’s not done that has it?
+
+Molly calls the name of her child across room with theatrical gesture and loud whisper voice
+Molly: “Nadine!”
+Molly then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
+Nadine arrives to help.
+Molly: I’m trying to delete them but they turn light grey.
+Nadine: So you want to get rid of them?
+Molly: What are you doing? You have to tell me what you are doing so I can do it myself.
+Molly: laughs
+Nadine: laughs.
+Molly: I’ll just have to keep shouting at you if you don’t tell me.  
+Nadine uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
+Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+Parent peer laughs
+Nadine bounces up in place and smiles broadly.
+Molly: Thanks
+Molly: So am I like back with the black now?  
+Nadine: Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+Molly: Oh X. Alright Bubs. Thanks.
 
 
 ## Glossary
