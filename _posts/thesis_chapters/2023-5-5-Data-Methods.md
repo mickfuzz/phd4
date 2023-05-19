@@ -55,7 +55,7 @@ title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
     -   [Observations on emerging divisions of
         labour](#observations-on-emerging-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
-        -   [Shifting roles in partner
+        -   [Shifting roles in partn> Ed: er
             work](#shifting-roles-in-partner-work)
         -   [Code roles and
             experimentation](#code-roles-and-experimentation)
@@ -127,21 +127,14 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
+This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter. The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The chapter then describes the use of tools in an initial learning designs and progress to  explore emergent community behaviour and design processes. In the final section, the chapter builds on material explored in the literature review to discuss pedagogical factors are significant to support novices learning coding in game making contexts. Particular attention is given to processes which support learners to develop agency in the game making process.
 
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
-
-Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest. In addition to the use of tools in the starting learning designs I explore emergent community behaviour and design processes.
-
-In the final section, the chapter builds on material explored in the literature review to discuss pedagogical factors are significant to support novices learning coding in game making contexts. Particular attention is given to processes which support learners to develop agency in the game making process.
+<!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.  -->
 
 
 <!--
 REMOVE DUPLICATION
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter. -->
-
-
-
 
 <!-- For example, in the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. -->
 
@@ -157,8 +150,7 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 ### Vignette 4.1.a - Introducing a drama process
 
-This sections starts with a vignette of the start of an game making programme (forth phase as outlined in previous chapter). The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games that they have made previously. The session starts with a warm-up game which proceeds with a lot of developments including many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure.
-
+This sections starts with a vignette of the start of the forth phase an game making programme (as outlined in previous chapter). The participants have entered the room and chosen a laptop to work on. Some of the children play web-based games or reviewing the games that they have made previously. The session progresses with a warm-up game which includes many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure. The transcript below picks up at this point.
 
 <!-- The purpose of the vignette is to situate the reader, give an overview of -->
 
@@ -183,7 +175,7 @@ This sections starts with a vignette of the start of an game making programme (f
 
 > Mick: I couldn’t understand all of it but I tried to write it down as best as I can. So from what I’ve work out they’ve looked at our games and they’ve come up with a challenge for us. They are coming to Earth so they need to find out if we are worth saving. And the way that they are going to decide is by playing the games that we come up with. And they are going to set us little challenges. So. yeah, that’s the story. (with heavy irony) I’m pretty sure it’s true. (Mick and others laugh).
 
-> So all they’re asking us to do is to come up with a game. We’ve got four sessions. They want a new game because they’ve already played our old games. It’s got to be something about the problems of the world. I’ve got a lot of problems. It could be big problem or a small problem. It could be about your problems. But also ideas on how to solve them.  
+> Mick: So all they’re asking us to do is to come up with a game. We’ve got four sessions. They want a new game because they’ve already played our old games. It’s got to be something about the problems of the world. I’ve got a lot of problems. It could be big problem or a small problem. It could be about your problems. But also ideas on how to solve them.  
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
 
 
@@ -194,15 +186,17 @@ And yeah. That we can work by ourselves but also work as part of a team. So we�
 
 <!-- After the  excerpt which introduces a dramatic scenario involving a fictional audience I orientate learners in suggested use of support documentation. A full transcript is available in the appendix which outlines that process. -->
 
-While the process of introducing a scenario for participant to respond to is common in project based learning in this vignette this is developed to include a dramatic element. In this section, I describe the vignette using concepts from the domain of process drama: Further analysis follows in a later section.
+The process of introducing a scenario for participant to respond to is common in project based learning in this vignette. Here it is extended using a dramatic element in line with Heathcote on Mantle of the Expert and other process drama techniques (explored in Lit Review). In this section, I describe the vignette using concepts from MoE. Further analysis follows in a later section.
 
-While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not try to position the participants as expert game makers in a professional context. However, the following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _responsible team_ is contracted into a _commission_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resilience_ to overcome the _grappling and struggling_ involved.
+<!--
+REMOVED
+While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not try to position the participants as expert game makers in a professional context. However, t -->
 
-The following sections explore some of these concepts in via the example in vignette.
+The following tenets of MoE from Aiken's summary [-@aitken_dorothy_2013] apply. Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _responsible team_ is contracted into a _commission_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resilience_ to overcome the _grappling and struggling_ involved. The following sections explore some of these key concepts via the example in vignette.
 
 _Contracting into drama_
 
-As a facilitator I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination."_ This serves to start the process of contracting in a drama. As a way to introducing an imagined audience. I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter are an informal collusion that we are playing along with this fiction. This is picked up on by both parents and children in recorded exchanges. For example, after engaging with a code example provided by myself in the role of the aliens, one pair comment:
+As a facilitator, I indicate that we are entering a dramatic process and attempt to draw everyone along with me using the following sentence _"This is kind of a story now. We are entering a story. You have to use your imagination"_. This serves to start the process of contracting in a drama. As a way to introduce the imagined audience, I reference that the games are online and have been noticed by aliens. The use of heavy irony in my voice when concluding the scenario, "I'm pretty sure it's true" and the resulting laughter form an informal collusion that we are playing along with this fiction. The collusion is noted by both parents and children in recorded exchanges. For example, after engaging with a code example provided by myself in the role of the aliens, one pair make the following comment.
 
 > Parent: Look, this is what Mick's showed, what Mick's has done.
 
@@ -212,14 +206,11 @@ As a facilitator I indicate that we are entering a dramatic process and attempt 
 
 _Facilitator activities in role_
 
-My role is a link between the fictional commissioners of the games to be made.
-
-This transcript above is a rare example of extended facilitator input as
-instruction. As a practioner teaching technology I try to limit teacher talk and being overly directive to prevent learner disengagement. Balancing leaner choice with over-ambition is a tension explored in the previous chapter.  The drama narrative helped resolve some of this personal tension by allowing me to outline boundaries and be directive using the dramatic commission as a foil to help avoid the encounter feeling perosnally combative or controlling [heathcote_drama_1985].
+My role is a link between the participant and the fictional commissioners of the games. The transcript above (a fuller version is in appendix 4.x) captures a rare example of myself extended facilitator input as instruction. As a practitioner teaching technology, I try to limit teacher talk and being overly directive to prevent learner disengagement. Balancing leaner choice with over-ambition is a tension explored in the previous chapter. The drama narrative helped resolve some of this personal tension by allowing me to outline boundaries and be directive using the dramatic commission as a foil to help avoid the encounter feeling personally combative or controlling [heathcote_drama_1985].
 
 _Learner activities in role_
 
-Beyond the wider fictional frame of the making activity, learners were also sometiems asked to undertake some activities in role, in particular reflection in role. This and other example are explored via the second vignette.
+Beyond the wider fictional frame of the making activity, learners were also sometimes asked to undertake some activities in role, in particular reflection in role. This and other example are explored via the second vignette.
 
 <!-- Choices
 - an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
@@ -230,33 +221,36 @@ Here we are looking at something cultural?? -->
 
 ### Vignette 4.1.b - Session reflections and secret missions
 
-
 This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
 
 > Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 
 ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
 
-> Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the weean have sent us the code we need for basically dropping stuff.
+> Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the Weean have sent us the code we need for basically dropping stuff.
 
-> The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain timeframe or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t’ look like we’ve got any where but we have.
-
->(Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
+> Mark: The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain time frame or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t look like we’ve got any where but we have. (Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
 
 > Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
 
 > Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
 
-> Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean.  So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
+> Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean. So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
 
+> (Mick reads out the following extract the screen containting a text chat with the fictional alien audience)
 
-> Mick: (reading out from the screen) Weean what’s it like up there? Asks Edward.
-It’s cold and very big but quite tranquil.
-What is your name? We are are the Weean we have no name, we are all the same.
-That must be hard at xmas
-(Mark and others laugh and smile.)
-It is. It sure is.
+> Ed: Weean what’s it like up there?
+
+> Weean: It’s cold and very big but quite tranquil.
+
+> Ed: What is your name?
+
+> Weean: We are are the Weean we have no name, we are all the same.
+
+> Ed:  That must be hard at xmas. (Mark and others laugh and smile.)
+
+> Weean: It is. It sure is.
 
 ![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
 
@@ -324,48 +318,41 @@ RESTATING RQS
 
 <!-- IS MORE DESCRIPTION NEEDED HERE. ? -->
 
-In this extract participants are invited to take turns showing their game, recapping their progress and outlining next steps to the alien observers. I play the role as a liaison facilitating the process for the fictional, remote audience. I also draw attention to the secret missions that had been distributed to participants (along with social missions).
+In this extract participants are invited to take turns showing their game, recapping their progress and outlining next steps to the alien observers. I play the role as a liaison facilitating the process for the fictional, remote audience. I also draw attention to the secret missions that had been distributed to participants (along with social missions - both explore later in this chapter).
 
 ### Reflecting in role
 
 <!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
-The impact of this set up can be compared to previous iterations of reflection in sessions. In my journal notes for previously phases I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided rich and consistent feedback. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
+The impact of this end reflection in role can be compared to previous reflection in sessions. In my journal notes for previously phases, I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided richer feedback from a wider variety of participants.
 
-The use of the screen as a link to the aliens helps justify moving participants and stopping all activity.
+The use of the screen as a link to the aliens helps justify moving participants and stopping all activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
 
-The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively than in previous feedback sessions.  
+While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience.
 
-Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member starting the process for them.  
-
-While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. The vignette show me adopting this tactic for end-of-session reflections.
-
-DVELOP AND DEEPEN
+DEVELOP AND DEEPEN ANALYSIS IN RELATION TO EXISTING RESEARCH
 
 
 <!-- As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows -->
 
 <!-- NOTE ON CODING - LIMITED -->
 
-
-
 ### Observations on exploring documentation and accessing technical help within the drama frame
 
-To develop the idea that participants could communicate directly with the aliens to ask help. I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "we’d like to ask the Weean some more questions (to overcome coding blockages). Is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
+To develop the idea that participants could communicate directly with the aliens to ask help, I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
 
-Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction on of the alien to playfully chastise me for using code syntax which was harder for novices to read. "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
+Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
 
-The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process.
+    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
 
-The process also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
+The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process. It also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
 
 While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern.
 
-This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
+This observation is supported by research which encourages varied approaches in addition to instruction-based approaches [@dietz_design_2021; @resnick_coding_2020]. Other studies address barriers to literacy in technical project work  explore written instructions within the drama frame thus providing a greater incentive for participants to engage with the material [@blunden2014seeking]. [SEE LIT REVIEW FOR MORE EXPLORATION].
 
-The exploration of documentation with the drama frame aimed to disrupt this pattern of identification giving participants a motivation to read in role.
+<!-- The exploration of documentation with the drama frame aimed to disrupt this pattern of identification giving participants a motivation to read in role.  -->
 
-Evidence for this means of communication is promising but this was brought into the design at a late stage and therefore there is not enough data to make larger claims beyond surfacing the potential.
-
+Evidence for this means of communication is promising however because these processes were brought into the design at a relatively late stage, there is not enough data to make larger claims beyond surfacing this potential.
 
 <!-- NOTE - bRING IN A QUOTE FROM ATHENA TO SUPPORT?  -->
 
@@ -374,27 +361,22 @@ Evidence for this means of communication is promising but this was brought into 
 
 ### Observations on playful chat with the alien sessions
 
-The process of asking the aliens for technical help within a code project sparked a playful process informal chat with aliens. I noted the ad-hoc encounter in our end of session reflection.
+The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. I noted the ad-hoc encounter in our end of session reflection.
 
-    Ed: Weean what’s it like up there?
-    Ween: It’s cold and very big but quite tranquil.
     Ed: What is your name?
     Ween: We are are the Weean we have no name, we are all the same.
     Ed: That must be hard at xmas
     Ween: It is. It sure is.
 
-Inspired by the popularity of students engaging with the fictional audience, I asked a student to participate remotely to play the part of the alien. Impact at the final session was significant with the young people with X out of Y engaging by writing off-the-cuff messages to the fictional audience, and supportive and celebratory messages coming from the alien.  
+Inspired by the popularity of participants engaging with the fictional audience, I asked a student helper to participate remotely to play the part of the alien and give feedback via live text interaction to participants in the final session. The process started with supportive and celebratory messages coming from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally.
 
-This addition to the main activity served a wider purpose of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
+In addition to the stated feedback activity the live chat served wider purposes of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
 
-In the final session where a large amount of time was devoted to interacting with the alien and thus was a danger of distracting from the primary aims.
-
-In reality, in this instance for some pairs, this worked to free up the parent to engage with final tweaks and challenges. As the child interacted with chat. Parents debugged more complex elements of the game with facilitators and between themselves. Others engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
-
+For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
 ### Use of side missions to encourage varied creative practices
 
-The process started as child was left to their own devices as a parent was undertaking a social mission. Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter, my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
 <!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
@@ -415,18 +397,26 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 
 <br />
 
-In the transcript above we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+In the transcript above of vignette 4.1.b we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
-Thus these sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of x participants, y visibly engaged with the secret missions during the session. BRING FIGURES TO THIS.
+Thus these sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
 
-The process was not without friction. After initially engaging with the process of secret games, Toby and Dave who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
+<!-- PROVISIONAL BRING accurate FIGURES TO THIS. -->
+
+The process was not without friction. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
 
 During the vignette above, Richie occupies a peripheral position and is interaction with his laptop still. However, he reacts positively when Ed's irreverent questions to the Weean are read out.
 
 ![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
-The positive reaction of young people to the drama process was also  picked up on by one parent Mark in interview data.
-Mark: "Kids love the anarchy of it all."
+The positive reaction of young people to the drama process was also  picked up on by one pair in interview data.
+
+
+    Mark: You liked those games where you had to kind of hack somebody else?
+    Ed: Yeah
+    Mark: It was it because there was a sense of play ... and a bit of anarchy.
+    Ed: Yeah.
+    Mark: The weird thing was, I think it was a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overly technical process.
 
 <!-- I really like I found the wean thing, the most interesting thing about last session. Okay. I felt that the kids loved it too. So tell me a bit about that, how that how that kind of what people do in the way. What was it you liked about the way they're just very silly? Yes. The answer to your questions? Yes. Did you really enjoy the fact that this earthly body was answering your questions? Yeah. It was it because there was a sense of play, offensive form, and a bit of anarchy. Yeah. Yeah. Right. Whilst he tells all the way, I'm sure was that there was a little sabotage things you have to do wasn't that you liked those games where you had to kind of hack somebody else? Yeah. What missions did you go? What happens? Spaces to change someone else sound but the math changed it and read it. That exactly like that even though it was quite different, but it wasn't it wasn't enough of a change. But Reuben had to us and they put like a really loud cow fat thing and we didn't know. I said it was great for ages. And he felt that was Larry. Yeah, the weird thing was, I think it was a massive hit for everybody because he just brought sense of play and fun. And it took attention away from it being overly technical person. -->
 
@@ -438,57 +428,56 @@ https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 - link to side missions of adventure games - zelda - perhaps find motivation there too. -->
 
 
-### Discussion of the process drama ( ending with focus on authenticity of tools)
+### Discussion of the process drama
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
-#### Drama Process Observations / Discussion
+This section discusses the use of drama process to help create coding communities of novices -
 
-This section discusses the use of drama process to help create coding communities of novices - (using AT theory and other relevant concepts - which are developed further in final discussion).
 
-*Impact of working in role (explored via AT)*
+ <!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
 
-Several of the processes above were completed in role namely; the wider mission of making a game; the end reflection sessions; social and secret missions, and guiding participants in the use of supporting documentation.
+### Impact of working in role
 
-I previously made observations on myself and participants being more comfortable performing some of the activities in role. This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame.
+Several of the processes above were completed in role namely; the wider mission of making a game; the end reflection sessions; social and secret missions, and guiding participants in the use of supporting documentation. I previously made observations on myself and participants being more comfortable performing some of the activities in role.
 
-As a personal observation, When listing boundaries to activities, or  it felt similar to outlining the rules of a game: thus, less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
+<!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
 
-I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress or on the skills would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
+In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
 
-I propose that the drama fiction eases friction between competing activity system objecties. For example, Heathcote refers to curicula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Participants are more willing to overcome challenges or frustrations
+I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
 
-Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
 
-This tallies with observations from journal, interviews and video data of participants.
+<!-- This tallies with observations from journal, interviews and video data of participants. -->
 
-The impact of time pressure to finish games also compounded tensions involving shifting away from game making to reflective activities. Even with the use of reflection in role, reflection activity was not prioritised in final sessions as time drew short.
+<!-- The impact of time pressure to finish games also compounded tensions involving shifting away from game making to reflective activities. Even with the use of reflection in role, reflection activity was not prioritised in final sessions as time drew short. -->
 
-OTHER FACTORS
+<!-- OTHER FACTORS
   - result of analysis of interactions during game making,
-  - to encourage some practices - AND IDENTITIES - ANY COMMENTS ignored by solely focusing on implementing code - game maker types (mention in previous design chapter)
+  - to encourage some practices - AND IDENTITIES - ANY COMMENTS ignored by solely focusing on implementing code - game maker types (mention in previous design chapter) -->
 
 
-LINK NOW TO AUTHENTICITY OF PROCESSES / TOOLS
+<!-- LINK NOW TO AUTHENTICITY OF PROCESSES / TOOLS -->
 
-While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation.
 
-#### Discussion on Autheticity
+#### Discussion on Authenticity
 
-The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections of the chapter then aim to contribute new knowledge in the area of authentic tool and processes use in the domain of learning coding.
+While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation. The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections of the chapter then aim to contribute new knowledge in the area of authentic tool and processes use in the domain of learning coding.
 
-The tensions associated with the use of time by participants of the drama processes in this iteration mirror existing concerns in research.
+The tensions associated with the use of time by participants of the drama processes in this iteration mirror existing concerns in research. Here the prioritisation is the construction of a supportive culture given the research which problematises the  culture of coding from a lens of inclusion.  The process of bringing people into the culture merit allocating time to address inequalities.
 
-Here the prioritisation is the construction of a supportive culture given the research which problematises the alien culture of coding.  The process of bringing people into the culture is worth allocating time to address inequalities.
+<!-- These tactics (which?) and resulting tensions and have been explored in other domains particularly literacy and mathematics. -->
 
-These tactics (which?) and resulting tensions and have been explored in other domains particularly literacy and mathematics.
+<!-- Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. His exploration of tensions which surround the objectives of children of "schoolgoing", cover aspects of x,y and z. -->
 
-Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. His exploration of tensions which surround the objectives of children of "schoolgoing", cover aspects of x,y and z.
-
+MORE DISCUSSION HERE IS EMERGING WHICH BRINGS THE CHAPTER BACK TO THE RQS - BUT IT'S CURRENTLY INCOMPLETE
 
 <!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
 
-Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools and processes involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
+Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this)
+
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
@@ -498,10 +487,9 @@ Rainer, Bolton and other practitioner-researchers agree on the potential and val
 But the are explored in more detail in the following section. -->
 <!-- For example in this iteration, x is authentic, -->
 
-In this study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources in that beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
+In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
 
-
-It is of value to briefly discussion the value of these missions in relation to drama process theory and play theory. I first encountered these kinds of secret misisons in a session which explored game design theory via creating a game collaboratively. [^2]
+It is of value to briefly discussion the value of these missions in relation to drama process theory and play theory. I first encountered these kinds of secret misisons in a session which explored game design theory via creating a game collaboratively. [^1]
 
 The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases enagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly distruptive ones which in this context involved frustration and wasted time for other users.
 
@@ -664,7 +652,7 @@ The last chapter outlined the use and design characteristics of the starting poi
 
 In phase one, I noted that any addition to the game in terms of adding new code created a lot of possible problems. As the learning design progressed, to counter this I adapted the starting game template to allow changes in code were relatively easy to perform, the end results could involve large changes in game behaviour and appearance.
 
-I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards [^3] that highlighted changes to the embedded game design patterns that could be made to code that was already present. While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
+I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards [^2] that highlighted changes to the embedded game design patterns that could be made to code that was already present. While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
 
 <!-- - level design and prototyping: use of
 - fluid variable editing effective movement
@@ -1295,36 +1283,18 @@ But at the cost of maintaining a working game. -->
 
 This section looks as some of the emerging patterns of design practice of participants.
 
-**Observations on design stages**
+**Chaotic design practices rather than planned design stages**
 
 When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. One causes of this was the use of a templated game which contained and which invited testing and sharing with after only quick changes. Also, I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
 
 While design at school is sometimes taught using perspective stages approaches, other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
 
-**Digital Jamming**
-
-<!-- Pumping up the Jam - -->
-
-The concept of Jam is explored in the literature review via accelerated events encouraging collaboration and innovation called Game Jams. In many interactions I observed improvisational approaches which incorporated the Imagine, Plan then Create then Revise stages  in the space of a minute. The tools, process and the community mutually encourage a jam / improvisational approach.
-
-In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-
-Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
-
-To jam also implies a responsive, rapid and fluid responses to audience and collaborators ideas. Such behaviour is often present in recorded data. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
-
-**Impressive fluency**
-
-As per Te and Da - example in previous chapter where the preview window replaced paper prototyping, rapids shifts between code and game are optimal and build a particular fluidity of practice
-
-
-INSERT BRIEF DISCUSSION HERE
-
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
+
 **Learning to love digital laundry and value faff time**
 
-Much time in sessions was spent on activities outside of this cycle. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
 
 <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
 
@@ -1354,10 +1324,6 @@ CASE - One parent did extensive design and then altered the variables at the end
 <!-- Exerpt Molly:- 2019-03-08 - 52 mins -->
 <!-- Implication one - When mapping the activity to a design cycle. There may not be neat matches and at some stage if the process is very fragmented the researcher or teacher can legitimately ask how valuable the design cycle is as a planning or analytical tool. Other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. A**Observations on design stages**nd some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1]. -->
 
-
-
-
-
 <!--## Community Aspects of the 3M design -
 
 When reviewing video data. There are lots of interactions, peer and pair, that are influenced by the community focus of the learning design.
@@ -1365,21 +1331,27 @@ A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
 
+**Digital Jamming**
 
-#### Implications - discussion on designing for emergent practices
+<!-- Pumping up the Jam - -->
+
+The concept of Jam is explored in the literature review via accelerated events encouraging collaboration and innovation called Game Jams. In many interactions I observed improvisational approaches which incorporated the Imagine, Plan then Create then Revise stages  in the space of a minute. The tools, process and the community mutually encourage a jam / improvisational approach.
+
+In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+
+Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
+
+To jam also implies a responsive, rapid and fluid responses to audience and collaborators ideas. Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers.
+Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
+
+#### Initial discussion on designing for emergent practices
+
+NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
 
 In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
-Thus when designing a program and thinking of how to present the process to participants, over structuring activity or even teaching a design cycle approach explicitly may be not be productive or accurate.
-
-Instead the emerging process relates more closely to tinkering methodology -
-
-Which raises question why tinkering and improvisiational approaches are not more widespread.
-
-One challenge is the diversity of the directions in which learners may want to go and the difficulty to structure code patching approaches in a way which can support novice coders. Drawing from authetic resources can be chaotic and create too many problematic errors.
-
-Also participants lack the concepts of computing and necessary language and are thus not able to find the necessary materials easily. The next chapter explores the use of a collection of game design patterns to help address these issues.
-
+When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding. A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
+Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 <!-- #### Designing to incorporate learner identity
 
@@ -1430,17 +1402,16 @@ These can be synthesised using TADS metaphor and enriching it with a greater foc
 
 ### Link section to next chapter
 
-This chapter was organised in part around starting processes and practices and tool use which  emerged from this starting point. This distinction is fluid as some tools and processes which emerged in community practice, prove to be sucessful and which are then adopted as a suggested process for the next iteration of the design.
+TO DEVELOP
 
-This process of assimilation is discussed in final discussion chapter -  along with x, y and z?
-
+<!-- This chapter was organised in part around starting processes and practices and tool use which  emerged from this starting point. This distinction is fluid as some tools and processes which emerged in community practice, prove to be successful and which are then adopted as a suggested process for the next iteration of the design.
 
 We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter.
 
-This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements.
+This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements. -->
 
 
 
-    [^1]: http://wiki.c2.com/?CopyAndPasteProgramming
-    [^2]:https://playthinklearn.net/blog/ten-steps-to-game-design/
-    [^3]:https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/
+
+[^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/
+[^2]: https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/
