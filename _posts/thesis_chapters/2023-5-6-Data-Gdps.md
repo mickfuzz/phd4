@@ -599,7 +599,9 @@ For example in terms of process, rather than writing code from first principles,
 
 NOTE  CASE STUDY EXAMPLE- D and T - using the console in applying a pac-man enemy GDP
 
-#### Accessing online, professional/community documentation
+#### Accessing online, professional/community documentation beyond those supporting the pattern collection
+
+The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
 
 Toby and Dan - Accessing documentation Phaser
 
@@ -608,10 +610,15 @@ The process of modelling the specific practices of accessing developer documents
 Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
 
 Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
 
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
 
 
 The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
+
+
+
 
 
 

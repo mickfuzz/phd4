@@ -767,10 +767,8 @@ The exchange seems to throw Pa but they draw Zi's attention back to the game. Sh
 
 The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
 
-Participants Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
-"I know just your eyes lit up when you realised you could expand your interests into gaming."
+Participants Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
 
-See fuller extract in Appendix 4.x
 
 <!-- NOTE
 NARRATIVE / drama IN PREVIOUS CHAPTER?
@@ -1118,22 +1116,25 @@ This approach appears to be influenced by Da's experience as a software engineer
 
  This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
 
+<!--
 #### Code roles  and experimentation
 
 While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
 
 In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind
 - perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER
+FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER -->
 
 
 
-### Emerging tactics in accessing help from peers and facilitators
+#### Emerging tactics in accessing help from peers and facilitators PARK NOW TO DEVELOP LATER
 
-A common teacher tactic is ask three then me.
-The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+IN NOTE FORM - Families and individuals showed flexibility and tactical choices when trying to overcome problems.
 
-Zi more directly and loudly asking for help for faciliator often followed by comment from his mother to leave him alone.
+
+<!-- The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for facilitator often followed by comment from his mother to leave him alone.
 
 in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
 - Student helper to get online,
@@ -1142,43 +1143,32 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 - Mick overall facilitator
 
 Other pairs and individuals had other tactics.
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages.
-
-#### Accessing online, professional/community documentation
-
-The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
-
-Toby and Dan - Accessing documentation Phaser
-
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
-
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
-
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
 
 
 
-### On different kinds of snags / blocks
 
-#### On Debugging and Embracing Different Types of Errors
 
-NOTE - COMPRESS AND  MOVE TERMS TO GLOSSARY -
+
 
 <!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
 
+<!-- ### On different kinds of snags / blockages
+
+PERHAPS MOVE BACK TO THE GDP CHAPTER IF SPACE?
+
+#### On Debugging and Embracing Different Types of Errors
+
 In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
 
-Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
-
-I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error. I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
 
 For example,  on into the detail and types or errors.  These include:
 
  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
-
+ -->
 
 <!-- #### Examples of Glitch types of errors
 
@@ -1195,23 +1185,21 @@ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new 
 
  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
 
-#### Discussion on nurturing tactical responses to blocks
+<!-- #### Discussion on nurturing tactical responses to blocks
 
 How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
 
-Professionals build up this sense through experience.
-
-While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
+Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
 
 More research would be welcome on how to help learners pick up these understandings.
 Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
 Question - do more useful / less de-motivating errors result from remixing and game patching?
 
-<!-- Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER? -->
+Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
 
 
-Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
+Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does. -->
 
 
 
