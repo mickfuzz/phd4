@@ -752,16 +752,12 @@ In the emerging community there was a variety of help available including;
 
 ### Narratives and graphics drawing on home funds of knowledge
 
-At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game.
-
-The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices.
-
-One pair Ch and Pa the grandparents of Te, included a narrative at the start of their game.
+The literature review explored existing research on how interests the use of home funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. The design processes involved choice of game characters and objects that allowed the expression of identity or a designed element - for example graphics, audio or a written message to appear at various stages of the game. One pair Clive and Pa the grandparents of Toby, included a narrative at the start of their game.
 
      var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
      Use the arrow keys to move the bee. Press return to START.";
 
-This did bring their own role as beekeepers into the making space and started interesting conversations with other participants.
+This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
 
 <!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
 
@@ -771,8 +767,7 @@ The exchange seems to throw Pa but they draw Zi's attention back to the game. Sh
 
 The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
 
-Participants Mark and Ed designed one game around the characters of a
-train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
+Participants Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
 "I know just your eyes lit up when you realised you could expand your interests into gaming."
 
 See fuller extract in Appendix 4.x
