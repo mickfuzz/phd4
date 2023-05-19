@@ -813,28 +813,30 @@ In interpreting data there were other examples of pair partners and peers either
 
 The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on. Sometimes very explicitly as a parent explains, facilitates or guides a process as with Te and Da in the last chapter with documentation. At times technical processes are passed on informally in more casual help interactions as illustrated in the following example.
 
-    NOTE - COVERT TO TABLE
-    Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
-    Mi:  Oh no it’s not done that has it?
+NOTE - COVERT TO TABLE
+Molly continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
 
-    Mi calls the name of her child across room with theatrical gesture and loud whisper voice
-    Mi: “Ne!”
-    Mi then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
-    Ne arrives to help.
-    Mi: I’m trying to delete them but they turn light grey.
-    Ne: So you want to get rid of them?
-    Mi: What are you doing? You have to tell me what you are doing so I can do it myself.
-    Mi: laughs
-    Ne: laughs.
-    Mi: I’ll just have to keep shouting at you if you don’t tell me.  
-    Ne uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
-    Mi - How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-    Parent peer laughs
-    Ne bounces up in place and smiles broadly.
-    Mi- Thanks
-    Mi: So am I like back with the black now?  
-    Ne: Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
-    Mi: Oh X. Alright Bubs. Thanks.
+Molly:  Oh no it’s not done that has it?
+
+Molly calls the name of her child across room with theatrical gesture and loud whisper voice
+Molly: “Nadine!”
+Molly then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
+Nadine arrives to help.
+Molly: I’m trying to delete them but they turn light grey.
+Nadine: So you want to get rid of them?
+Molly: What are you doing? You have to tell me what you are doing so I can do it myself.
+Molly: laughs
+Nadine: laughs.
+Molly: I’ll just have to keep shouting at you if you don’t tell me.  
+Nadine uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
+Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+Parent peer laughs
+Nadine bounces up in place and smiles broadly.
+Molly: Thanks
+Molly: So am I like back with the black now?  
+Nadine: Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+Molly: Oh X. Alright Bubs. Thanks.
+
 
 <!-- Taking a more focused view of the activity here would be implementing a game design pattern - e.g. adding keys and doors pattern in this case. On the level of action, creating a graphical asset of a key and adding this to the level design. The operation would be the exporting the graphical asset as a suitable file format from graphical design tool and uploading it to the code authoring tool. -->
 

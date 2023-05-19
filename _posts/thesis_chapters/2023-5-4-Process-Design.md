@@ -470,7 +470,10 @@ Play Testing - each lesson can help with short term motivation of having a game 
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 **Authenticity of coding environment**.  
-Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+
+Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
+
+Javascript is an authentic language, core to modern web pages and applications. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
 
  FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
 
@@ -508,9 +511,12 @@ In order to accelerate the process of making a game to fit into contextual expec
 
 Beyond technical considerations regarding scratch and use of physics etc,
 
+Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009.
+
 Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
 
 Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
+
 
 
 

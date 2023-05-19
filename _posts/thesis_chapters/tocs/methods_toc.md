@@ -13,9 +13,8 @@
         frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
     -   [Observations on playful chat with the alien
         sessions](#observations-on-playful-chat-with-the-alien-sessions)
-    -   [Impact of the drama on encouraging varied design practices via
-        social and secret
-        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
+    -   [Use of side missions to encourage varied creative
+        practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Discussion of the process drama ( ending with focus on
         authenticity of
         tools)](#discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
@@ -28,13 +27,10 @@
     processes](#the-impact-of-starting-tools-documentation-and-other-processes)
     -   [Impact of main learning design
         tools](#impact-of-main-learning-design-tools)
-        -   [Observations on the use of code playgrounds and other
-            authoring
-            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
+        -   [Observations on the use of code playgrounds and development
+            tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
         -   [Impact of the half-baked starting
             template](#impact-of-the-half-baked-starting-template)
-    -   [Observations on initial processes and tool
-        use](#observations-on-initial-processes-and-tool-use)
     -   [Embedded GDPs in template vs GDPs in collection with supporting
         resources](#embedded-gdps-in-template-vs-gdps-in-collection-with-supporting-resources)
     -   [Narratives and graphics drawing on home funds of

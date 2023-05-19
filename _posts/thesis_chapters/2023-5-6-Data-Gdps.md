@@ -333,9 +333,11 @@ While the players do not tell Mi directly to change the game, these comments app
 
 <!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
 
-### The propagation of use of GDPs and associated practices stemming from playtesting
+### The propagation of use of GDPs and associated practices stemming
 
-**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity incorporating or emerging from playtesting.**
+**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity**
+
+NOTE CAN THIS FOCUS ON NON TEMPLATED GDPs?
 
 For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch1 how to add new levels.
 
@@ -377,7 +379,7 @@ While Fi has only just been introduced to the ability to "cramp". He is happy an
 
 **GDPs allow participants to share and explore their home funds of knowledge and practices in the emerging learning community.**  
 
-In the previous chapter, the ability for participants to bring home funds of knowledge (as per Lit review) into the new learning community was explored via the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping.
+In the previous chapter, the ability for participants to bring home funds of knowledge into the emerging learning community was explored via the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping.
 
     Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
     Te: Er not really.
@@ -479,7 +481,9 @@ In response to on-going frustrations of not being able to respond to participant
 
 Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
 
-Even after step-by-step tutorials were introduced, participants would often struggle finding where in the four main game functions to paste new code into. To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
+I wrote detailed documentation of how to add in code patches support participants less confident in scanning and applying patches from code examples. However, from some  this longer form documentation became a barrier in itself. Mark, in extract 5.x below, spends a lot of time puzzling over a print out of documentation, seemingly stuck in a conflict of motives between wanting to progress and feeling daunted by the complicated process. Conversely, other participants would face other challenges as they copied and pasted code into the wrong areas of the game. Or struggled to find the correct game functions to add selected code to. (FIND EXAMPLE)
+
+To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
 
 In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
 
@@ -501,11 +505,17 @@ This scaffolded understanding of the underlying code structure used in the code 
 
  ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
 
-In making decisions like the one to include extra visual scaffolding in step by step documentations. I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+<!-- I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
 
 DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
 
 DOES THIS ANSWER RQS?
+
+ADDITITION - PERHAPS MOVE TO DISCUSSION?
+
+<!-- In making decisions like the one to include extra visual scaffolding in step by step documentations.  -->
+
 
 
 #### original contents of this section
