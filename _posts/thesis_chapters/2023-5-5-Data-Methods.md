@@ -539,6 +539,8 @@ The next section argues that the use of authentic tools and processes, while cha
 
 ## The impact of starting tools and processes
 
+The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period.
+
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
 <!-- NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
 - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
@@ -546,7 +548,7 @@ The next section argues that the use of authentic tools and processes, while cha
 -->
 
 
-The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period.
+
 
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -
@@ -638,12 +640,10 @@ As explored above Heathcote highlighted the value and dangers of authentic tools
 
 
 
-The use of code playgrounds significantly reduced technical barriers for students as it removing the process of setting up a server for web development, and the delay of transferring files to the server. There were few extended blockages to undertaking work in this environment. While there were still some issues of access for some participants, these were mitigated through the use of a shared log in. When users struggled to log in or to find the games or assets that they had created earlier there were able to get help from family members or other peers mostly with out having to ask for help from facilitators.
-
-In the glitch environment code errors were high-lighted in with red dot in the interface which gave a quick visual
+The use of code playgrounds significantly reduced technical barriers for students as it removing the process of setting up a server for web development, and the delay of transferring files to the server. There were few extended blockages to undertaking work in this environment. While there were still some issues of access for some participants, these were mitigated through the use of a shared log in. When users struggled to log in or to find the games or assets that they had created earlier there were able to get help from family members or other peers mostly with out having to ask for help from facilitators. In the glitch environment code errors were highlighted in with red dot in the interface which gave a quick visual
 indication of where the error occurred, when the user hovered over gave an error message as a pop up. the which while limited
 
-NOTE - EXAMPLE HERE AS AN IMAGE
+<!-- NOTE - EXAMPLE HERE AS AN IMAGE -->
 
 <!-- In my experience, meta-level blockages involving  be extremely frustrating. This is in-line with Resnick's guidelines to chose blackboxes carefully.  -->
 
@@ -664,7 +664,7 @@ The last chapter outlined the use and design characteristics of the starting poi
 
 In phase one, I noted that any addition to the game in terms of adding new code created a lot of possible problems. As the learning design progressed, to counter this I adapted the starting game template to allow changes in code were relatively easy to perform, the end results could involve large changes in game behaviour and appearance.
 
-I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards. [^3] that highlighted changes that could be made to code that was already present.While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
+I progressed from informal instruction to highlight these key features to formalise the process slightly by creating  supporting cards [^3] that highlighted changes to the embedded game design patterns that could be made to code that was already present. While the code changes were slight, they allowed such a diversity in output that participants were often kept occupied for an extended period of time. I kept the process informal by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
 
 <!-- - level design and prototyping: use of
 - fluid variable editing effective movement
@@ -672,11 +672,10 @@ I progressed from informal instruction to highlight these key features to formal
 - development of simple stories to bump personal expression and narrative -->
 
 <!-- NOTE - All longer or shorter chains of actions , becoming operations - WHERE DOES THIS FIT?
-NOTE - Also justify having so emergent results here , delay while accessing help to start 360 recordings h
+NOTE - Also justify having so emergent results here , delay while accessing help to start 360 recordings
 As the end process is visible in fluid behaviour -->
 
 <!-- These tools align with some key design considerations. [Brennan & Resnick]
-
  - Well suited to build a repeated design practice.
  - Small changes had big effects.
  - Variable changes needed immediate testing.  
@@ -686,21 +685,21 @@ As the end process is visible in fluid behaviour -->
 A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
 
+
+**Variable editing effective movement**
+
+Player movement was a key to playtesting feedback. Some evidence of building proficiency with significant work to change these three key variables
+
+Some participants were less  stay with the starting variables and don't changes as much as they should.
+
 **Level design and prototyping**
 
-Lots of evidence of rapid changes and building of fluency of structured  
-We saw the beginning of that process in Toby's practice in vignette in the last chapter.
+The following image is of a printable _quick start_ cards to aid participants to begin this process.
+![](./Pictures/quickstart_phaser_1.png){width=50%}
 
-A code snapshot showing the link of the graphical representation of the array.
+As outlined in the card, the possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure.
 
-There was also the process of messing the lines of code in the array. Which impacted syntax understanding.
-
-**variable editing effective movement**
-
-Movement was a key to playtesting feedback.
-Some evidence of building profiency with significant work to change these three key variables.
-However some stay with the starting variables and don't changes as much as they should.
-
+The vignette in the last chapter saw Toby's adding new levels to his game and undertaking many iterations of changes to the level design. He and several other participants spent extensive time performing level design activity with a goal of making the game extremely challenging but still technically possible. Others played with the convention of the game by removing all hazards and filling the screen with rewards/coins (an example is outlined in the starting vignette of the next chapter).
 
 **Incomplete graphical blocks to help seed narrative and art creativity**
 
@@ -708,25 +707,19 @@ The use of blank blocks encourages design as does the theme of environmental as 
 
 **The swapping of assets and more complex work with code syntax**
 
-The process of creating a pixel art chararacter and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to teh harddrive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax. Authentic digital literacy skills involved include:
+The process of creating a pixel art chararacter and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
 
-- File downloading and migration from one Web app to another via desktop
-- Tab navigation
-- Tool bar use in piskel , simplified photoshop , list different , crop, fill , export
-- Copy and paste
-- Selecting more than one line with mouse
+#### Observations on design behaviours encouraged through use of game template
 
-The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incoporating self-created graphical elements. These motivational factors are explored in a later section.
+There was a great divergence in the amount of time learners took to want to progress beyond these changes to additional new game design patterns rather than altering the ones embedded in the starting template. The following chapter outlines this transition in greater detail.
+
+When compared to the process of learning to code in a text language from first principles, knowledge of very few coding concepts were essential. In contrast, a large number of broader digital literacy skills involved. These include: file downloading and transfer using the browser and file manager; browser tab navigation; graphics tool use in Piskel (a simplified Photoshop including - crop, fill and export tools); copying and paste text code; and selecting more than one lines of text code with mouse or keyboard shortcuts.
+
+<!-- While the template has self contained help in the form of text comments Some participant do not pick up all processes, some left behind and need support but that is available. Seeing patterns other peers adopted and creates a reason to ask for help. Peer propagation of patterns explored later. -->
+
+The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incorporating self-created graphical elements. These motivational factors are explored in a later section.
 
 
-### Embedded GDPs in template vs GDPs in collection with supporting resources
-
-The template has self contained help.
-
-It was a big jump for some learners to move beyond these changes.
-Thus extensive support was made available to facilitate this.
-
-Some participant do not pick up all processes, some left behind and need support but that is available. Seeing patterns other peers adopted and creates a reason to ask for help. Peer propogation of patterns explored later.
 
 
 <!-- Perhaps move later after GDP chapter?  -->
@@ -774,9 +767,8 @@ Participants Mark and Ed designed a game around the character of a train driver 
 NARRATIVE / drama IN PREVIOUS CHAPTER?
 how do these two sections work together? remove this one?
  -->
-Other participants were able to bring personal expression to the process via the creation of audio but in particular visual game assets.
 
-NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY - CAN THIS COME AS PART OF A DISCUSSION AFTER THE DRAMA SCENARIO SECTION? -
+
 
 <!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
 
@@ -784,27 +776,23 @@ NOTE - THERE IS A HIGH LINK WITH IDENTITY HERE - ESPECIALL IN MOLLY'S CASE STUDY
 
 <!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
 
-In one exchange we can see the growing sense of ownership and sharing helps develop skills of digital literacy concerning saving ongoing work.
-
-In this exerpt parent Molly has spent time creating a pixel art representation of an alien
+Other participants were able to bring personal expression to the process via the creation of audio but in particular visual game assets. In this excerpt parent Molly has spent time creating a pixel art representation of an alien
 
     Molly:– We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
     Sonia:– Have you saved it?
     Molly:– No I’ve not saved it.
     Sonia:– Save there. (points to relevant button on screen)
 
-The full exchange sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge. This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. See fuller extract in Appendix 4.x
+The full exchange (see appendix 4.x) sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel". The growing mastering in this area also seems to help drive motivation to complete the next challenge. This ownership also appears to drives another technical process that of saving work. Or rather the identification with the work pushes her fellow parent to preserve her work to prevent a repeat of losing work previously which she had just shared. The aspect of pattern completion driving technical process adoption is explored in the next chapter.
 
-The aspect of pattern completion driving technical process adoption is explored in the next chapter.
+<!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
 
-While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? )
+<!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
+Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make. -->
 
-**Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
-Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make.
+<!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
 
-**Expectations- ALSO EXPLORED IN LAST CHAPTER**
-
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
 
 <!-- #### Different styles of making
 PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
@@ -904,10 +892,10 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 ### Discussion on initial tool use and starting processes
 
-These observations can be explore in relation to other research
+<!-- These observations can be explore in relation to other research
 
 - This research supports claims that half-baked games invite development []
-- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green.
+- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green. -->
 
 DEVELOP THIS SECTION
 
@@ -1453,7 +1441,6 @@ This chapter has addressed x, the next chapter takes a deeper look at the mechan
 
 
 
-
-
     [^1]: http://wiki.c2.com/?CopyAndPasteProgramming
     [^2]:https://playthinklearn.net/blog/ten-steps-to-game-design/
+    [^3]:https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/
