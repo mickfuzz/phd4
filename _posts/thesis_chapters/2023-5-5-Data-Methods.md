@@ -781,8 +781,7 @@ The exchange seems to throw Pa but they draw Zi's attention back to the game. Sh
 
 The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
 
-Participants Mark and Ed designed one game around the characters of a
-train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
+Participants Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview the parent described the impact of the child feeling like they could bring their own identity and interest into the project.
 "I know just your eyes lit up when you realised you could expand your interests into gaming."
 
 See fuller extract in Appendix 4.x
