@@ -432,18 +432,19 @@ https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
-This section discusses the use of drama process to help create coding communities of novices -
+This section discusses the use of drama process to help create coding communities of novices.
 
+<!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
 
- <!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
+It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory. I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1]
 
-### Impact of working in role
+The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly disruptive ones which in this context involved frustration and wasted time for other users. Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
 
-Several of the processes above were completed in role namely; the wider mission of making a game; the end reflection sessions; social and secret missions, and guiding participants in the use of supporting documentation. I previously made observations on myself and participants being more comfortable performing some of the activities in role.
+The drama process can be viewed as magic circle [@stenros_defence_2012]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude. I previously made observations on myself and participants being more comfortable performing some of the activities in role. This feeling may stem from being positioned together with participants within a playful agreement. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
 
 <!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
 
-In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a gameful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
+In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
 
 I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
 
@@ -487,56 +488,28 @@ Rainer, Bolton and other practitioner-researchers agree on the potential and val
 But the are explored in more detail in the following section. -->
 <!-- For example in this iteration, x is authentic, -->
 
-In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of relatively authentic toolset and also explores some of the limitations to authenticity, justifies these choices, and explores impact of these choices.
+In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of the authentic aspects of the toolset used by participants.
 
-It is of value to briefly discussion the value of these missions in relation to drama process theory and play theory. I first encountered these kinds of secret misisons in a session which explored game design theory via creating a game collaboratively. [^1]
+The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
 
-The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases enagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly distruptive ones which in this context involved frustration and wasted time for other users.
-
-The use of side missions in open world games are used in part to appeal to different kinds of players.
-
-TYPES OF SIDE QUESTS?
-
-The drama process itself is a kind of magic circle.
-
-the value of playing against the game or dark play.
-Bartle type include
-
-
-The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing.
-
-There are strong mirrors there to the Scratch community and general maker ethos. The cross over between play and work may merit further investigation and integration into this model.
-
-
+<!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
 
 <!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
 
-#### Discussion on emergent practices to support varied learner identities.
-
-The drama process also mirrors some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997].supporting  Particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  DEVELOP OR LINK BACK TO LIT REVIEW
-
-This element of the drama process emerged as part of work to support different learner identities outlined in the previous chapter research underpins the importance of allowing varied approaches to counter perceptions of computing and coding culture as alien.
+This element of the drama process emerged as part of work to support different learner identities outlined in the previous chapter research underpins the importance of allowing varied approaches to counter perceptions of computing and coding culture as alien. The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design.
 
  <!-- including exploring adapting Bartle player types to maker types to honour different approaches; the use of social and missions and  -->
 
-The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design.
-
-
-
  <!-- (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices. -->
 
-## The impact of starting tools and processes
 
-The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period.
+<!-- The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. -->
 
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
 <!-- NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
 - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers?
 -->
-
-
-
 
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -
@@ -613,8 +586,9 @@ In the data analysed, young people -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
 
+## The impact of starting tools and processes
 
-The choice of the starting toolset and mission shapes the balance and profile of initial community activity.
+<!-- The choice of the starting toolset and mission shapes the balance and profile of initial community activity. -->
 
 
 ### Observations on the use of code playgrounds and development tools
@@ -625,8 +599,6 @@ Instead the more authentic approach of a real language.
 As explore in the previous chapter, my motivation for choice of code development tools (Javascript, Phaser and Glitch) were driven by desire to be authentic and extensible.  Research on project based learning supports the motivational factors of authentic tools. In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology. This motivational factor of _lifting the lid_ was reflected in a conversations among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
 
 As explored above Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating. While there is no suitable comparative data I can draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of the coding environment.
-
-
 
 The use of code playgrounds significantly reduced technical barriers for students as it removing the process of setting up a server for web development, and the delay of transferring files to the server. There were few extended blockages to undertaking work in this environment. While there were still some issues of access for some participants, these were mitigated through the use of a shared log in. When users struggled to log in or to find the games or assets that they had created earlier there were able to get help from family members or other peers mostly with out having to ask for help from facilitators. In the glitch environment code errors were highlighted in with red dot in the interface which gave a quick visual
 indication of where the error occurred, when the user hovered over gave an error message as a pop up. the which while limited
@@ -706,8 +678,6 @@ When compared to the process of learning to code in a text language from first p
 <!-- While the template has self contained help in the form of text comments Some participant do not pick up all processes, some left behind and need support but that is available. Seeing patterns other peers adopted and creates a reason to ask for help. Peer propagation of patterns explored later. -->
 
 The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. These processes happened at wildly varied times for different people. Some participant became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicates the high motivational factor for participants of incorporating self-created graphical elements. These motivational factors are explored in a later section.
-
-
 
 
 <!-- Perhaps move later after GDP chapter?  -->
