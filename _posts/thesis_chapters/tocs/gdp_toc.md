@@ -14,15 +14,15 @@
         feedback](#gdps-used-for-informal-peer-feedback)
     -   [GDPs facilitate the use of wider funds of
         knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
-    -   [Documentation via code examples and step-by-step
-        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
-    -   [GDPs can aid the navigation of provided supporting
-        resources](#gdps-can-aid-the-navigation-of-provided-supporting-resources)
-    -   [GDPs can facilitate navigation of documentation and resources
-        beyond programme based
-        support](#gdps-can-facilitate-navigation-of-documentation-and-resources-beyond-programme-based-support)
-    -   [Guiding a code patching
-        process](#guiding-a-code-patching-process)
+    -   [GDPs can aid the use of provided supporting
+        resources](#gdps-can-aid-the-use-of-provided-supporting-resources)
+        -   [Documentation via code examples and step-by-step
+            tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
+        -   [GDPs can facilitate navigation of documentation and
+            resources beyond programme based
+            support](#gdps-can-facilitate-navigation-of-documentation-and-resources-beyond-programme-based-support)
+        -   [Guiding a code patching
+            process](#guiding-a-code-patching-process)
     -   [GDPs used to facilitate prioritisation in the design
         process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
     -   [GDPs aiding the process of division of

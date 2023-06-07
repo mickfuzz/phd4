@@ -26,15 +26,15 @@ title: Findings Chapter 2 - It’s like a project in itself really
         feedback](#gdps-used-for-informal-peer-feedback)
     -   [GDPs facilitate the use of wider funds of
         knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
-    -   [Documentation via code examples and step-by-step
-        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
-    -   [GDPs can aid the navigation of provided supporting
-        resources](#gdps-can-aid-the-navigation-of-provided-supporting-resources)
-    -   [GDPs can facilitate navigation of documentation and resources
-        beyond programme based
-        support](#gdps-can-facilitate-navigation-of-documentation-and-resources-beyond-programme-based-support)
-    -   [Guiding a code patching
-        process](#guiding-a-code-patching-process)
+    -   [GDPs can aid the use of provided supporting
+        resources](#gdps-can-aid-the-use-of-provided-supporting-resources)
+        -   [Documentation via code examples and step-by-step
+            tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
+        -   [GDPs can facilitate navigation of documentation and
+            resources beyond programme based
+            support](#gdps-can-facilitate-navigation-of-documentation-and-resources-beyond-programme-based-support)
+        -   [Guiding a code patching
+            process](#guiding-a-code-patching-process)
     -   [GDPs used to facilitate prioritisation in the design
         process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
     -   [GDPs aiding the process of division of
@@ -65,6 +65,7 @@ title: Findings Chapter 2 - It’s like a project in itself really
             designers](#implications-for-facilitators-and-designers)
     -   [Discussion on GDPs, emerging processes and learner
         agency](#discussion-on-gdps-emerging-processes-and-learner-agency)
+
 
 ## Introduction to This Writing
 
@@ -450,22 +451,7 @@ Article on intangibility of game feel.
 <!-- #### Use of hazards and moving enemies - The placement of hazards as design pattern to increase challenge -->
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
-
-### Documentation via code examples and step-by-step tutorials
-
-<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
-
-
-Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
-
-At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
-
-The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
-
-Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
-
-
-### GDPs can aid the navigation of provided supporting resources
+### GDPs can aid the use of provided supporting resources
 
 **The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.**
 
@@ -483,7 +469,24 @@ The process of choice, use of documentation to support implementation and testin
 
 <!-- NOTE - PERHAPS INTEGRATE PART OF THE CODE PATCHING PROCESS FOR THIS SECTION -->
 
-### GDPs can facilitate navigation of documentation and resources beyond programme based support
+
+#### Documentation via code examples and step-by-step tutorials
+
+<!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
+
+
+Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
+
+At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
+
+The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
+
+Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
+
+
+
+
+#### GDPs can facilitate navigation of documentation and resources beyond programme based support
 
 **Participants leverage experience from home and work contexts to find explore external documentation to explore new patterns and contribute to community practice.**
 
@@ -557,7 +560,7 @@ These range of use of supporting documents from code examples, bespoke step by s
 COMPLETE -->
 
 
-### Guiding a code patching process
+#### Guiding a code patching process
 
 - NOTE - THIS MAY NEED MOVING IF NOT DIRECTLY ALIGNED WITH GDPS (LATER DISCUSSION?)
 
