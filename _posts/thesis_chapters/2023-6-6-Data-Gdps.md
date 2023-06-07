@@ -256,22 +256,67 @@ The parent struggles to implement quite ambitious code challenges that she takes
 In ask/imagine stages parent and child are able  discuss storytelling, graphical and other aesthetic choices -->
 
 
-## Cultural, Interpersonal & Personal Planes Analysis of use of GDPs
+## Observations and analysis of use of Game Design Patterns by participants
 
-In the preceding section, a short interchange between participants was analysed using three foci of activity  cultural, interpersonal and personal foci. In this section I present the results of analysis of other video recordings as separate observations on the way GPDs are used by participants and facilitators to further their game making objectives. Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+### Using cultural, interpersonal & Personal Planes Analysis of use of GDPs
 
-## The use of GDPs explored from a cultural focus
+SHIFT THIS TO Methodolgy & SUMMARISE HERE
 
-In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to focus in on the way design patterns used are by parents, children and facilitators in in this emerging game making community.
+Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+
+In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to develop this direction to focus in on the way design patterns used are by parents, children and facilitators in in this emerging game making community.
+
 
 <!-- NOTE - ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS - IF THIS HELPS GROUND THIS SECTION -->
 <!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
 
 
+### The propagation of use of GDPs through playtesting
+
+**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity.**
+
+NOTE CAN THIS FOCUS ON NON TEMPLATED GDPs?
+
+For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch1 how to add new levels.
+
+    Ch1: Why’s that enemy in every level
+    Te: He’s not.
+    Ch1: Can you show me how you add more levels on to yours?
+    Te: Yeah sure.
+    Pause
+    Te: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
+    Pause
+    Ch1: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
+    Te: Er not really.
+    Ch1: Or seen it?
+    Ch1: That’s like my second level.
+    Te: Ah so hard (Te fails at a high level on his game and starts to move off)
+    Te: (To someone else  calling for attention)  No I’m helping (Ch)..
+    _(Te then follows Ch to his workstation to help him implement more levels.)_
+
+When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te uses the keyboard completes this work, Ch reads aloud the code which is being typed in by Te.
+
+Exchanges like this allow the propagation of GDPs. The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example, the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same. The propagation here is emerges from and is completed entirely through peer activity. A different and more common pattern of propagation was that participants notice and comment on a game element or pattern during during playtesting, and then to use supporting resources or facilitator help to implement it. A less frequent pattern involved participants' diligent and deliberate use of supporting resources to identify and implement features without peer influence. Typical examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies and changes to jump dynamics.
+
+**New GDPs emerged from existing patterns through peer activity during playtesting**
+
+In addition to the propagation of main game design patterns, sub patterns and related design concepts emerged organically from the community. The concept of safe zone in the game of Ch and Pa arrived as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
+
+<!-- Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
+
+    Fi: How much jump speed to you have?
+    Fi: Your jump speed is massive.
+    Fi gives advice about tidying up the sprite outlines.
+    Fi: for people with background like yours You can use the “cramping tool””
+    Ma and Fi then explain – SEE THEIR RECORDING
+    So that the background is clearer.
+
+While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme -->
 
 
-### Developing a language for informal feedback for peers to influence modification of games
+### GDPs used for informal peer feedback
+<!-- ### Developing a language for informal feedback for peers to influence modification of games -->
 
 **The concepts of game challenge and game feel evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players.**
 
@@ -333,55 +378,14 @@ While the players do not tell Mi directly to change the game, these comments app
 
 <!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
 
-### The propagation of use of GDPs and associated practices stemming
 
-**The implementation of particular GDPs by participant pairs or individuals often spread through peer activity**
+### GDPs facilitate the use of wider funds of knowledge
 
-NOTE CAN THIS FOCUS ON NON TEMPLATED GDPs?
-
-For example, the work of the child to add 21 levels to their own game served as a way to publicise this possibility. The process was also spread by that child's willingness to help others to add that feature to their game. This shifted dependence on myself as a facilitator, or on the instruction-based support documents. This excerpt shows this more experience child coder Te, agreeing to show another child Ch1 how to add new levels.
-
-    Ch1: Why’s that enemy in every level
-    Te: He’s not.
-    Ch1: Can you show me how you add more levels on to yours?
-    Te: Yeah sure.
-    Pause
-    Te: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
-    Pause
-    Ch1: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
-    Te: Er not really.
-    Ch1: Or seen it?
-    Ch1: That’s like my second level.
-    Te: Ah so hard (Te fails at a high level on his game and starts to move off)
-    Te: (To someone else  calling for attention)  No I’m helping (Ch)..
-    _(Te then follows Ch to his workstation to help him implement more levels.)_
-
-When Te moves to Ch's game he playtests it and then looks at the code. He notes that Ch has added a variable for a fourth level but then goes on to demonstrate to to add an array representing the next level, and a conditional statement to select level 4 when level 3 is completed. At Te uses the keyboard completes this work, Ch reads aloud the code which is being typed in by Te.
-
-Exchanges like this allow the propagation of GDPs. The process of playing a game of another and sharing your appreciation of it invites participants to add new patterns to their own game. In this example, the process is very direct with the one asking another to help them directly. It is very likely that Ch has noticed Te helping others add levels to their games and thus this may help him to feel empowered to do the same. The propagation here is emerges from and is completed entirely through peer activity. A different and more common pattern of propagation was that participants notice and comment on a game element or pattern during during playtesting, and then to use supporting resources or facilitator help to implement it. A less frequent pattern involved participants' diligent and deliberate use of supporting resources to identify and implement features without peer influence. Typical examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies and changes to jump dynamics.
-
-In addition to the propagation of main game design patterns, sub patterns and related design concepts emerged organically from the community. The concept of safe zone in the game of Ch and Pa arrived as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
-
-<!-- Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
-
-    Fi: How much jump speed to you have?
-    Fi: Your jump speed is massive.
-    Fi gives advice about tidying up the sprite outlines.
-    Fi: for people with background like yours You can use the “cramping tool””
-    Ma and Fi then explain – SEE THEIR RECORDING
-    So that the background is clearer.
-
-While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme -->
-
-
-
-### GDP used to allow exploration of home and professional funds of knowledge and practices
-
-**GDPs allow participants to share and explore their home funds of knowledge and practices in the emerging learning community.**  
+**GDPs allow participants to share and explore their home and professional funds of knowledge and practices in the emerging learning community.**  
 
 In the previous chapter, the ability for participants to bring home funds of knowledge into the emerging learning community was explored via the use of graphical assets and game narratives. In the previous example we can see a similar process occur as Te self test his game exposes the dominant game experience of timed jumping.
 
-    Ch: It’s like parcours in Minecraft but times. It’s like playing the game Wipeout. Have you ever played Wipeout?
+    Ch: It’s like parcours in Minecraft but timed. It’s like playing the game Wipeout. Have you ever played Wipeout?
     Te: Er not really.
     Ch: Or seen it?
 
@@ -431,6 +435,9 @@ Given this additional perspective, I interpret Da's influence to divert as a way
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
+Summary / Other examples:
+
+
 <!--
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
@@ -440,8 +447,6 @@ Article on intangibility of game feel.
 
 ### GDPs and the role of documentation and supporting resources
 <!-- NOTE - Keep only the parts specifically on GDP -->
-
-
 
 
 ### Documentation via code examples and step-by-step tutorials
@@ -518,23 +523,26 @@ ADDITITION - PERHAPS MOVE TO DISCUSSION?
 
 
 
-#### original contents of this section
+### GDPs can aid the navigation of supporting resources
 
-
-**Participants draw on their cultural experience and access to supporting resources and processes at home and from work contexts to guide interactions with others.**
-
-A broader description of the design and use of supporting documentation is explored in previous chapters. Here I explore the specific use of GDP related resources. I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
+**The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.**
 
 <!-- #### Use of simple code examples which demonstrate the pattern in isolation -->
-
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
+<!-- Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.  -->
 
-Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants. The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
-
+NOTE - In the most straight forward way this is driven by a design decision to base supporting resources around GDPs,
+The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
 The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
 
+The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.
+
+
+**Participants can draw on experiences from home and from work contexts to develop community practice.**
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
 In the next iteration of game making Te works with his father Da.
 
 <!-- Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
@@ -616,11 +624,6 @@ Discussion. There are pros and cons stepping outside that garden. Confusion, con
 
 
 The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
-
-
-
-
-
 
 
 ## The use of GDPs examined from an interpersonal focus
