@@ -868,7 +868,7 @@ The previous section discussed some of the uses of starting processes and tools 
 <!-- opens up flexibility in the way learners approach the design processes. -->
 <!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
 
-### playtesting
+### Playtesting
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
@@ -978,10 +978,6 @@ When explored from game making perspective the hard is good lens, is limiting in
 Other observations
 - The process of teaching challenge via balance cards can happen early on
 - some participants are resistange - see Molly's interactions - does this matter? -->
-
-
-
-
 
 <!--
 ### Building Identities as Game Makers  - EXTENDED
@@ -1347,13 +1343,9 @@ This chimes with existing research:
 
 These can be synthesised using TADS metaphor and enriching it with a greater focus on the specificity of what makes the anchor points catchy. Thus developing the metaphor in include the importance of affordences which can be responsively designed into the learning environment. -->
 
-
-
 <!-- Some of these observations and starting points were the continuation of my own work as a facilitator of open making focused training sessions. Especially the use of fun, communicative drama games to create a playful atmosphere for learning. An observation from my journal during phase one of the program underscored the importance of this starting points.  -->
 
-
 <!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
-
 
 ### Evolving writing on how the above answer RQS
 
@@ -1369,8 +1361,6 @@ TO DEVELOP
 We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter.
 
 This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements. -->
-
-
 
 
 [^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/

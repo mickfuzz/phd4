@@ -15,40 +15,42 @@ title: Findings Chapter 2 - It’s like a project in itself really
 -   [Study of Vignette A](#study-of-vignette-a)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
--   [Cultural, Interpersonal & Personal Planes Analysis of use of
-    GDPs](#cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
--   [The use of GDPs explored from a cultural
-    focus](#the-use-of-gdps-explored-from-a-cultural-focus)
-    -   [Developing a language for informal feedback for peers to
-        influence modification of
-        games](#developing-a-language-for-informal-feedback-for-peers-to-influence-modification-of-games)
-    -   [The propagation of use of GDPs and associated practices
-        stemming from
-        playtesting](#the-propagation-of-use-of-gdps-and-associated-practices-stemming-from-playtesting)
-    -   [GDP used to allow exploration of home and professional funds of
-        knowledge and
-        practices](#gdp-used-to-allow-exploration-of-home-and-professional-funds-of-knowledge-and-practices)
-    -   [GDPs and the role of documentation and supporting
-        resources](#gdps-and-the-role-of-documentation-and-supporting-resources)
--   [The use of GDPs examined from an interpersonal
-    focus](#the-use-of-gdps-examined-from-an-interpersonal-focus)
-    -   [GDPs used to facilitate
-        prioritisation](#gdps-used-to-facilitate-prioritisation)
+-   [Observations and analysis of use of Game Design Patterns by
+    participants](#observations-and-analysis-of-use-of-game-design-patterns-by-participants)
+    -   [Using cultural, interpersonal & Personal Planes Analysis of use
+        of
+        GDPs](#using-cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
+    -   [The propagation of use of GDPs through
+        playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
+    -   [GDPs used for informal peer
+        feedback](#gdps-used-for-informal-peer-feedback)
+    -   [GDPs facilitate the use of wider funds of
+        knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
+    -   [Documentation via code examples and step-by-step
+        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
+    -   [GDPs can aid the navigation of provided supporting
+        resources](#gdps-can-aid-the-navigation-of-provided-supporting-resources)
+    -   [GDPs can facilitate navigation of documentation and resources
+        beyond programme based
+        support](#gdps-can-facilitate-navigation-of-documentation-and-resources-beyond-programme-based-support)
+    -   [Guiding a code patching
+        process](#guiding-a-code-patching-process)
+    -   [GDPs used to facilitate prioritisation in the design
+        process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
     -   [GDPs aiding the process of division of
         labour](#gdps-aiding-the-process-of-division-of-labour)
     -   [GDPs used to scaffold ideation
         processes](#gdps-used-to-scaffold-ideation-processes)
-    -   [GDPs facilitating designing for
-        others](#gdps-facilitating-designing-for-others)
+    -   [GDPs can encourage learners to design for
+        others](#gdps-can-encourage-learners-to-design-for-others)
     -   [GDP driving adoption of emerging technical
         processes](#gdp-driving-adoption-of-emerging-technical-processes)
--   [The use of GDPs explored from a personal
-    focus](#the-use-of-gdps-explored-from-a-personal-focus)
+        -   [Other examples of GDP driving adoption of technical
+            processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
     -   [Use of GDPs to support debugging and the product revision
         process](#use-of-gdps-to-support-debugging-and-the-product-revision-process)
-    -   [GDPs as a way to surface and discuss embedded computational,
-        design and systems
-        concepts](#gdps-as-a-way-to-surface-and-discuss-embedded-computational-design-and-systems-concepts)
+    -   [GDPs used to explore computational, design and systems
+        concepts](#gdps-used-to-explore-computational-design-and-systems-concepts)
 -   [Discussion on the use of game design patterns in the 3M learning
     design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
     -   [Discussion on the use of design patterns and pattern
@@ -56,9 +58,13 @@ title: Findings Chapter 2 - It’s like a project in itself really
     -   [Game design patterns as a intermediate-level construct to
         facilitate developing coding
         fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
-    -   [Emerging concepts of learner agency in the
-        design](#emerging-concepts-of-learner-agency-in-the-design)
-
+        -   [Problematising conceptions of abstract / concrete concepts
+            in computing
+            education.](#problematising-conceptions-of-abstract-concrete-concepts-in-computing-education.)
+        -   [Implications for facilitators and
+            designers](#implications-for-facilitators-and-designers)
+    -   [Discussion on GDPs, emerging processes and learner
+        agency](#discussion-on-gdps-emerging-processes-and-learner-agency)
 
 ## Introduction to This Writing
 
@@ -442,11 +448,7 @@ Summary / Other examples:
 Article on intangibility of game feel.
  https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
 <!-- #### Use of hazards and moving enemies - The placement of hazards as design pattern to increase challenge -->
-
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
-
-### GDPs and the role of documentation and supporting resources
-<!-- NOTE - Keep only the parts specifically on GDP -->
 
 
 ### Documentation via code examples and step-by-step tutorials
@@ -460,70 +462,10 @@ At this phase documentation included; comment help within the game template; a s
 
 The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
 
-MOVED HERE - CHECK IT FITS
 Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
 
 
-### Guided Code Patching Process
-
-- FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS
-
-#### patched in from previous chapter
-
-**What is code patching?**
-
-While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world conotations of craft and physical repair of materials in a relatable way.  
-
-Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
-
-**Dialectical development of support for patching**
-
-THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
-
-Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
-
-In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
-
-Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
-
-I wrote detailed documentation of how to add in code patches support participants less confident in scanning and applying patches from code examples. However, from some  this longer form documentation became a barrier in itself. Mark, in extract 5.x below, spends a lot of time puzzling over a print out of documentation, seemingly stuck in a conflict of motives between wanting to progress and feeling daunted by the complicated process. Conversely, other participants would face other challenges as they copied and pasted code into the wrong areas of the game. Or struggled to find the correct game functions to add selected code to. (FIND EXAMPLE)
-
-To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example.
-
-In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-
-
-This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
-
- ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
-
-
-<!-- I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
-
-DOES THIS ANSWER RQS? SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
-
-DOES THIS ANSWER RQS?
-
-ADDITITION - PERHAPS MOVE TO DISCUSSION?
-
-<!-- In making decisions like the one to include extra visual scaffolding in step by step documentations.  -->
-
-
-
-### GDPs can aid the navigation of supporting resources
+### GDPs can aid the navigation of provided supporting resources
 
 **The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.**
 
@@ -539,10 +481,14 @@ The timings of the process of patching the code show that the learner is hesitan
 
 The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.
 
+<!-- NOTE - PERHAPS INTEGRATE PART OF THE CODE PATCHING PROCESS FOR THIS SECTION -->
 
-**Participants can draw on experiences from home and from work contexts to develop community practice.**
+### GDPs can facilitate navigation of documentation and resources beyond programme based support
+
+**Participants leverage experience from home and work contexts to find explore external documentation to explore new patterns and contribute to community practice.**
 
 I set up the working pattern based on my professional experiences and my own academic and cultural interests. However, my choice of a walled garden approach in terms of limited design patterns and bespoke documentation based on patchable code snippets created a possible tension with the professional practices of some parents with coding experience.
+
 In the next iteration of game making Te works with his father Da.
 
 <!-- Convert to  table in https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
@@ -562,6 +508,23 @@ Extract from 2019-05-08 - 20 mins -->
     They google "phaser pacman"
 
 In this interchange Te looks to try replicate a previous process of work where he scans the provided menu of patterns to find one that matches his goal. Rather than persist with the imagined pattern Te suggests progressing by changing goals to one which is listed in the pattern menu. The father resists this diversion by suggesting that they use a search engine to step outside the sandbox of provided tutorials and code examples to find resources from communities on the internet.
+
+**Discussion on accessing online, professional/community documentation beyond those supporting the pattern collection**
+
+The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
+
+Toby and Dan - Accessing documentation Phaser
+
+The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+
+Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+
+Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+
+The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
 
 
 <!--
@@ -593,47 +556,82 @@ game. There is a parallel here to play theory which identifies the value of play
 These range of use of supporting documents from code examples, bespoke step by step examples and the use of professional practices and documentation,
 COMPLETE -->
 
-**a guided process**
 
-During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure.
+### Guiding a code patching process
 
-However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made.
+- NOTE - THIS MAY NEED MOVING IF NOT DIRECTLY ALIGNED WITH GDPS (LATER DISCUSSION?)
 
-Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person.
+<!-- - NOTE - KEEP FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS -->
 
-When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns.
+**What is code patching?**
 
-For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world connotations of craft and physical repair of materials in a relatable way.  
 
-NOTE  CASE STUDY EXAMPLE- D and T - using the console in applying a pac-man enemy GDP
+Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
 
-#### Accessing online, professional/community documentation beyond those supporting the pattern collection
+**Dialectical development of support for patching**
 
-The provided documetation provided a safe space. However, some participants embraced more authentic sources of documenation and code examples. They risked the additional confusion in a trade off to overcome the limitations of the existing help.
+THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
 
-Toby and Dan - Accessing documentation Phaser
+Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
 
-The process of modelling the specific practices of accessing developer documents and help forums is a form of apprenticeship and a direct sharing of a professional cultural practice.
+In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
 
-Te takes a lead on looking for help on added a new GDP following enemies. He starts with menu, then book, then Da suggests googling and thus taking a step outside of the walled garden.
+Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
 
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
-NOTE - THIS LINKS WITH DISCUSSION ON CHOICE OF DESIGN MORE GENERALLY.
+I wrote detailed documentation of how to add in code patches support participants less confident in scanning and applying patches from code examples. However, from some  this longer form documentation became a barrier in itself. Mark, in extract 5.x below, spends a lot of time puzzling over a print out of documentation, seemingly stuck in a conflict of motives between wanting to progress and feeling daunted by the complicated process. Conversely, other participants would face other challenges as they copied and pasted code into the wrong areas of the game. Or struggled to find the correct game functions to add selected code to. (FIND EXAMPLE)
 
-Discussion. There are pros and cons stepping outside that garden. Confusion, conflicts, complexity. etc. Vs. generating new patterns and personalisation of game content.
+To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
+
+> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+> Molly: So just insert it somewhere.
+
+> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
 
 
-The interaction of Te and Da could also be studied from an interpersonal foci, one of guided participation. Da is modelling these practices, speaking them aloud and asking questions to test his son's understanding. In the next section, the guided participation of other family pairs and more temporary pairings are explored.
+This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
+ ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+
+
+<!-- I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
+
+**Patching as a guided process**
+
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person.
+
+When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+
+<!-- NOTE  CASE STUDY EXAMPLE- D and T - using the console in applying a pac-man enemy GDP
+
+DOES THIS ANSWER RQS?
+- SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  
+- GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
+
+
+note - PERHAPS MOVE TO DISCUSSION - OR TO THE DESIGN CHAPTER -->
+
+<!-- In making decisions like the one to include extra visual scaffolding in step by step documentations.  -->
+
+
+<!--
+
+NOTE THIS HAS BEEN REMOVED
 
 ## The use of GDPs examined from an interpersonal focus
 
-This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch1 in adding levels to his game.
+This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch1 in adding levels to his game. -->
 
-<!-- DROP LARGER CATEGORISATION - TOO ARBITRARY
-### GDPs for project organisation / coordination -->
 
-### GDPs used to facilitate prioritisation
+### GDPs used to facilitate prioritisation in the design process
 
 <!-- informal task division -->
 The following exchange between participants Fi and Ma shows GDPs being used to try to organise future activity.
@@ -860,7 +858,7 @@ The mother wants to export an image from the graphical editing tool and to impor
 
 The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter about her use of technical language. "Do you even know what export means?". Ne also appears to enjoy using the language and norms of game culture to tease her mother. "Who wants a rocket for their reward?" Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players. -->
 
-### GDPs facilitating designing for others
+### GDPs can encourage learners to design for others
 
 As explored previously, playtesing as a regular practice can shift learners to a perspective of designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs.
 
@@ -997,11 +995,15 @@ There are many other examples of processes being adopted by participants through
 <!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
 
 
+<!--
+
+NOTE REMOVED PERSONAL FOCUS SECTION
+
 ## The use of GDPs explored from a personal focus
 
 In line with conventional schooling approaches, computing education in formal settings has large focus on the acquisition and testing of personal knowledge and skills. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
 
-This chapters' examples of interaction of the participants shows the development of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation. This section explore participants experience of GDPs from a personal focus and in particular an examination of and practices of debugging and product revision.
+This chapters' examples of interaction of the participants shows the development of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation. This section explore participants experience of GDPs from a personal focus and in particular an examination of and practices of debugging and product revision. -->
 
 <!--
  Elements that may resurface here.
@@ -1057,8 +1059,9 @@ In the area of product revision the repeated, solo, incremental changes of the d
 CAN i FIND ANY KEY EXAMPLES OF THIS?
 -->
 
-### GDPs as a way to surface and discuss embedded computational, design and systems concepts
+### GDPs used to explore computational, design and systems concepts
 
+**Facilitators can use existing and planned GDPs to surface computational, design and systems concepts embedded in games.**
 <!-- While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process.  -->
 
 <!-- In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from the participants drives to implement particular patterns.    -->
@@ -1073,14 +1076,18 @@ Te to find patterns and to duplicate them in different situations.
 <!--
  Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down -->
 
+**Facilitators should be cautious of overloading learners with shifting and competing goals**
+
+NOTE - THIS SECTION WILL NEED A LOT OF TRIMMING AND REFOCUSING BASED ON THE ADDITIONS TO THE PREVIOUS METHODS CHAPTER
+
 In the previous chapter, the use of a map of learning dimension in the studies design was examined in relation to contextual tensions relating to the motivations surrounding of curriculum concepts. Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
 
 My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP. In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
 
 In the literature review and methodology chapter we examined different interpretations of agency used by researchers using activity theory [@hopwood_agency_2022]. In interpreting the results of this chapter it is of value to explore Sannino's concept of transformative agency by double stimulation (TADS). This concept of agency is of particular value for this study as it acknowledges both the transformative role of the learner to the learning environment in a way which reflects the mutual development of this design.  
 
-My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
-THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
+<!-- My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
+THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH. -->
 
 It is of value to examine the learning context and the motivations of the learners both children and adults. Unlike formal schooling setting there are requirements of teaching to a curriculum and potential exam content. Thus as there was no external imposition, and no organic desire to explore more abstract concepts, I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
 
@@ -1098,9 +1105,7 @@ QUICK SUMMARY - MOVE TO DISCUSSION
  - While the practices them selves are valid without expressions of underlying concepts, these are surfaced especially in peer problem solving (beyond Guided participation ) and in feedback in playtesting.  
 
 Question, rather than a focus on concepts of personal / transferable knowledge, how much of this section focuses on appropriation of practices.
-
 Situation
-
   The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
 -->
 
@@ -1218,15 +1223,13 @@ Repeated practice is an important part of this process.
 Other examples of grokking concepts? -->
 
 
-### Emerging concepts of learner agency in the design
+### Discussion on GDPs, emerging processes and learner agency
 
-<!-- Using a core concepts of activity theory that of double stimulation and rising from the concrete to the abstract, Sannino [-@sannino_activity_2011] explores several interventionist educational design experiments and the potential to identify a germ cell of activity. -->
+NOTE - JUST BULLET POINTS FOR NOW  - RELATED CLOSELY TO THE USE OF GDPS - AS THIS NEEDS TO BUILD ON THE WORK OF THE LAST CHAPTER
 
-<!-- NOTE - Explore utility of this - begin link to double stimulation to explore agency.  -->
+<!-- This chapter has begun a process of exploration of the nature and evolution of agency in the practices of the participants through the varied use of GDPs.  -->
 
-This chapter has begun a process of exploration of the nature and evolution of agency in the practices of the participants through the varied use of GDPs.  In this final section I continue to explore emerging thoughts on learner agency in my design through the lens of existing research. The theme of conceptions of learner agency in this practice will be expanded upon in the following discussion chapter.
-
-
+ <!-- In this final section I continue to explore emerging thoughts on learner agency in my design through the lens of existing research. The theme of conceptions of learner agency in this practice will be expanded upon in the following discussion chapter. -->
 
 
 **Tensions between facilitating agency and norming practices**
@@ -1247,9 +1250,6 @@ These metaphors invite a connection to play theories concept of as the magic cir
 
 
 <!-- For exa In the language of double stimulation, a tension of relative inactivity at times is overcome by invitations to playtest and resulting interaction. -->
-
-
-
 <!-- ### Link Paragraph to next chapter
 
 A theme to follow up in the Maps / personal learning chapter is that of picking up on some of the behaviour of participants, especially that of experienced parents, experience either in coding practices of supporting their children. Once identified, how could beneficial interactions be encouraged in the next iteration of design.
