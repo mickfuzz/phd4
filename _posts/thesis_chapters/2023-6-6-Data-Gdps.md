@@ -1095,7 +1095,7 @@ One similarity is the number of patterns presented to learners. In this iteratio
 
  <!-- Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter)  -->
 
-In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study. However, in Eriksson's study the authours selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].
+In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study. However, in Eriksson's study the authors selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].
 
 While their results on the advantages and challenges of patterns use focus principally on the perspective of designers (as a way to frame analysis of the activity and shifting interpretations of pattern interpretations), the participant is also shared. I explore some of the opportunities and challenges they surface addressing learner perspective.  
 
