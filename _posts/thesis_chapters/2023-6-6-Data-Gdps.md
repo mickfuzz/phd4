@@ -321,70 +321,7 @@ In addition to the propagation of main game design patterns, sub patterns and re
 
 While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme -->
 
-
-### GDPs used for informal peer feedback
-<!-- ### Developing a language for informal feedback for peers to influence modification of games -->
-
-**The concepts of game challenge and game feel evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players.**
-
-The discussion of game challenge, specifically comment about how 'hard' participant games were as the most common interaction during playtesting. The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity.
-
-<!-- The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.   -->
-
-<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
-
-The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on.
-
-<!-- Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables. -->
-
-<!-- PERHAPS INSERT HOW - SCREEN SHOT? -->
-
-<!-- In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
-
-Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
-    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-    Mick: How are you getting on Mi? It's looking good.
-    Mick: (Noting frustrated air of Mi) Have you made it to hard.
-    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-    Mick: So it look like you bump your head and fall down.
-    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.direct
-    Mick: Yeah.
-    Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.   -->
-    <!-- PERHAPS INSERT HOW - SCREEN SHOT? -->
-
-Parent Mi had been focused mostly on completing asset design. The only changes she had made to the deliberately frustrating initial player movement (discussed in design chapter) was to change player jump velocity. Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel.
-
-<!-- She had been made aware by her daughter Ne about the relevant game variables.
-In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." -->
-
-As a facilitator, I shared feedback about the frustratingly slow movement time and an indirect feedback on the high velocity jump value. I use quite indirect language when giving feedback and while I reference Mi's frustration rather than giving direct feedback.
-
-    Ch1: That looks nice (referring to the graphical look of the game)
-
-    Mi invites Ch to play as she can't progress due to the difficult game controls.
-
-    Ch1: It jumps super high but so slow  
-    Pause
-    Mi: He has to go slow be  cause he's an astronaut, you see.    
-    Ch1: It's hard.
-    Ch1 leaves.
-    Mi: (to peer parent with proud tone.) It's hard. Wow.
-
-    Fi comes to play the game.
-    Fi: How much jump speed to you have?
-    Fi: Your jump speed is massive.
-
-We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
-
-Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
-
-While the players do not tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_.
-
-<!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
-
+NOTE - DELETED INFORMAL
 
 ### GDPs facilitate the use of wider funds of knowledge
 
@@ -451,15 +388,18 @@ Article on intangibility of game feel.
 <!-- #### Use of hazards and moving enemies - The placement of hazards as design pattern to increase challenge -->
 <!-- GDPs and play-testing interact to allow participants,  to support each other and build community in a diversity of ways. -->
 
-### GDPs can aid the use of provided supporting resources
+### GDPs can aid the use of documentation and resources
 
 **The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.**
+
+#### GDPs help learners navigation acting as a framework for code examples and step-by-step tutorials
 
 <!-- #### Use of simple code examples which demonstrate the pattern in isolation -->
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
 <!-- Code examples were initially the starting resource. The idea being it was quick to see the behaviour in context. The, use of code examples by Te in 2019-05-08 shows the effectiveness of the use of code examples by participants.  -->
 
 NOTE - In the most straight forward way this is driven by a design decision to base supporting resources around GDPs,
+
 The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
@@ -469,24 +409,27 @@ The process of choice, use of documentation to support implementation and testin
 
 <!-- NOTE - PERHAPS INTEGRATE PART OF THE CODE PATCHING PROCESS FOR THIS SECTION -->
 
-
-#### Documentation via code examples and step-by-step tutorials
-
+NOTE - WHAT IS IN THE DESING CHAPTER ?
 <!-- Towards the end of phase 1 I began to create code examples to illustrate of how particular commonly requested game features were implemented. These barebone game projects were hosted on a code playground. An online document in our shared google drive working space linked to these examples. I would help participants access this when they requested a certain feature. This list of game features began to grow. For phase one these code example were not particularly successful at increasing learner independence. There were differences in the code structure of their games and the examples and translation was not intuitive. -->
 
 
-Direct help between peer participants, as outlined in the next section, was a key process of the game making community from early stages, it did need to be seeded by other forms of support resources and written documentation.  
+Direct help between peer participants, as outlined other section, was a key process of the game making community from early stages.
 
-At this phase documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
+However, to overcome scarcity of facilitator support, direct help processes were seeded by other forms of support resources and written documentation.
 
-The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter. This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.  
+At this phase of research documentation included; comment help within the game template; a step-by-step tutorial which build up the code of the starting template and explore the computing concepts, a menu of self-contained code examples of game elements game elements or game design patterns (GDPs); supporting tutorials briefly explaining how to add the new code needed to implement the patterns. The tutorials to implement GDPs were available online and also as printed A4 hand outs which were provided on request of the older participants.
+
+The contents of the tutorials which gave examples of the game design patterns are explored in the following chapter. However the form of the tutorials as code examples and some of the initial and emerging processes that they supported are explored in this chapter.
+
+<!-- NOTE REMOVED
+This section prioritises describing the code patching process using examples and guided instructions rather than the first principles.   -->
 
 Not all participants engaged with written tutorials. This observation is supported by research which encourages varied approaches beyond instruction-based approaches.  [@dietz_design_2021; @resnick_coding_2020]. [SEE LIT REVIEW ON NON-TUTORIAL PEDAGOGIES]. Written instructions provide barriers of literacy and change of habit explored in previous studies [@blunden2014seeking] which explore linking to written instructions within the drama frame provides greater incentive to engage in this way.
 
 
+#### GDPs helping navigation of external documentation
 
-
-#### GDPs can facilitate navigation of documentation and resources beyond programme based support
+**GDPs can encourage and facilitate navigation of documentation and resources beyond programme based support**
 
 **Participants leverage experience from home and work contexts to find explore external documentation to explore new patterns and contribute to community practice.**
 
@@ -560,7 +503,7 @@ These range of use of supporting documents from code examples, bespoke step by s
 COMPLETE -->
 
 
-#### Guiding a code patching process
+#### Code patching process using GDPs as a base
 
 - NOTE - THIS MAY NEED MOVING IF NOT DIRECTLY ALIGNED WITH GDPS (LATER DISCUSSION?)
 
@@ -634,134 +577,18 @@ NOTE THIS HAS BEEN REMOVED
 This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch1 in adding levels to his game. -->
 
 
-### GDPs used to facilitate prioritisation in the design process
-
-<!-- informal task division -->
-The following exchange between participants Fi and Ma shows GDPs being used to try to organise future activity.
-<!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
-
-
-    TURN IN TO TABLE WITH DESCRIPTION
-    Ma: I’ve brought the music, and also we could just concentrate on one thing and just change that. You know, keep working through.
-    Fi: Yeah. I think I want to get an enemy in - oh no - my person animated.
-    Ma: So you want to get your person animated that’s the main thing.
-    Ma: Shall we concentrate on that and changing the platforms into something different?
-    Fi: Yeah.
-    Ma: Yeah?
-    Fi: I also want to make a theme tune.
-    Ma: Yeah. It’s, that’s what I mean, you can’t just skip around like that.
-    Fi: Hmmm.
-    Ma: Just cos it gets really overwhelming.
-    Ma: Yeah..? So…?
-    Long pause.
-    Ma: Well I’ll have a look at the code and see if I can make sense of that.
-
-At this point the parent engages with a print out of supporting documentation on added an animation to the main character. This example shows the use of the approximate names of a number of game design patterns by the child adult. These are _get the person animated_, _get an enemy in_, _changing the platforms into something different_, _make a theme tune_. At this stage of their process, some of these patterns have been discussed and sketched out some started but only partially completed. For example, the child has designed different frames of animation but this has not been exported to the right format or implemented in code form. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and a parental motivation to prioritise one work to be done. This tension is outlined when the parent gives an update on progress.  
-
-<!-- Patterns and the multiple actions and operations they entail are referred to briefly using short cut names.   -->
-
-    Mick: Hello.
-    Ma: Hi Mick.
-    Ma: So, we’ve made quite a lot of progress this week. I think the issue we’re having is that Fi’s super excited so we’re kind of jumping from one thing to another and that’s kinda overwhelming me a bit.
-
-The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process. However the parent seems to lack a process to map these out and then to work together to prioritise them. Instead he appears to be keen to quickly pick one. His suggested process is to then work through the documentation on that pattern. Fi appears reluctant to adopt this working process which creates a tension which is explore in the next part of this chapter.
-
-<!-- Discussion later or before??? Maps -
-GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive. Changes to the emerging 3M design to  provide such support are explored in the following chapter. -->
-
-**Other examples of use of GDPs for prioritisation** can be seen in the following participants.
-TO COME
-
-<!--
-
-We can compare this drawn out process with a more rapid prioritisation guided by a parent with more experience in software development.
-Te and Da are discussing possible features early in the process if ideation.
-
-They thinking of a feature – wrap around like Pac-man
-Da – Yeah we can do that. Save that for version 1.1
--->
-
-### GDPs aiding the process of division of labour
-
-In the last section, Fi and Ma used GDPs to attempt to prioritise work. However, following this Ma is engaged puzzling over documentation on how to add animation to a character for some time. This results in Fi being blocked from progressing. In the next exchange, they progress to more successfully divide their labour informally.
-
-    Ma: Quite complicated. But we can do it. But it would mean a lot of mucking around
-    Fi: Ah Er
-    Ma: Which is difficult to do while we’re here. But it’s doable.
-    Ma: It’s like a project in itself really.
-    Fi: Project in itself?
-    Ma: Yeah! (laughing). I just want to know like. We can get him in. So if I ask about the sizing.
-    Fi: Hmmn
-    Ma: I think you can edit the size here.
-    Fi: Why don’t you go here for a computer and you can do that?
-    Ma: Why. What. While you’re doing what?
-    Fi: Um making a sound track or something. I could do something like that.
-    Ma: Ok. Yeah. I’ll see if there’s any more computers in the cupboard.
-
-<!--
-THIS DOESN'T SEEM RIGHT
-Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's
-compliance may be a kind or pragmatic decision to allow smoother progress. -->
-
-The father describes previous lack of prioritisation as 'skipping around like that' or 'jumping all over the place' as 'overwhelming' the child seems happy to takes a more piecemeal approach. The child suggests a possible resolution to the current blockage. He suggests splitting and using one laptop each. He names one of the other pattern. The listing of GDPs in the previous exchange seems to empower the young person to direct an informal division on labour. The child continues to work on parallel patterns or component actions of pattern using tools and processes which he is more familiar with. This child also begins researching other toolsets, in this session, research to identify an online tool to create an short audio soundtrack. This serves the child as it allows them to avoid waiting for their father and moving different parts of the overall project forward.
-
-The implementation of some GDP involved the use of different tools and activities. As learners build the familiarity with the component actions needed to implement design patterns, some start to specialise as they divide labour between pairs or peers, For example in this case the child appears to make a tactical decision allowing the father to decipher technical instructions and implement them in the code of their game as they creating assets in non-code / GUI environments.
-
-<!--
-NOTE - MOVE TO LATER CHAPTER AS ILLUSTRATIVE OF FLEXIBLE DESIGN?
-
- While the father was keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. The father becomes distracted from his stated task as he is responsive to help the child when they get stuck on an alternative pathway they have chosen to avoid waiting on the parent. While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent. -->
- <!-- both with the familiar graphical asset tool Piskel and exploring new territory by researching an seeking a new tool for creating audio assets, specifically a background theme tune .  -->
-
- <!-- While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations. -->
-
-Different pairs approached division of labour in various ways. In a later example, we see how although Mi and her daugher Ne are working on differnet projects on a fair distance from each other, Mi relies on Ne's coding help. Sh and Th relied on the parent to do the majority of code implementation and shared one computer. The opening vignette shows the child use the name of a GDP as a way to communicate about the shared work of making a game.
-
-     Th: Go on then. Key - Door - Person.
-     Sh: Person?
-     Th: Key Door Person.
-     T gestures with her hands to indicate that her mother is the person she is referring to.
-
-The utterance by the child "Key Door Person"  work on the game design pattern called Keys and Doors to the adult. The child appears to consider the level of complexity needed to add a new pattern into the code to be beyond her ability and thus directly delegate the task to her mother. Feedback from the parent indicated that this division of labour was partly due to reading ability.  
-
-    "Th got on better during the coding once the student who was hovering initially left us alone. Because every time Th hesitated, she jumped in to do it for her. Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
-
-The parent outlines her strategies used to address lack of reading ability as a barrier to participation. The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.  After the child has delegated a coding task to her mother she undertakes other activities. At times her activities directly contribute to the main goal of game making. At times the parent asked the child to seek help from facilitator. On another occasion when the child appeared bored of waiting for parent to solve a code problem, she approached the facilitator to ask for help on behalf of the adult without prompting. At other times she engages more peripheral activities such as watching older children playtest each others games, or observing community activity from under the table.
-<!-- MORE EXAMPLES  ? -->
-<!--
-NOTE - check if this fits
-Once the code for the new game mechanic has been added, the child is guided to take on challenge of making smaller changes that give rapid feedback.  To aid the process the parent navigates to a particular part of the code for child to alter design. The changes the child makes have a large impact on the end users experience.
- -->
-
-While the child's activity away from the screen and the main objective of coding and creating assets for their game could in a conventional educational model be seen an non-productive, in a community model of learning this can be interpreted differently. For example as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].  The possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
-
-<!-- COMMENTARY /WITH A FOCUS ON AGENCY -->
-
-These divisions of labour seem beneficial for many participants however complex tensions emerge between varied goals as focal activities shift. Study of there interactions show the parents and children adopting varied strategies to navigate solutions to these tensions. The complexities of this design process are explored in more depth in the following discussion chapter.
-
-<!-- NOTE - LINK TO PREVIOUS CHAPTER ON FLEXIBILITY OF DESIGN -->
-
-
-<!-- In a following example we see child Ne helping her mother to overcome coding blockages. -->**
-<!--
-A SECTION HERE THAT COULD BE REPLACED.
-Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
-ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
-Here the child has a powerful position but misses a chance to develop useful communication skills.
-
-The parent here takes great pride in the graphical work being done. This allows them a level of participation which is helpful without being stuck on more tricky technical or code related problems.
-The design which allows choice of GDPs facilitates this. The process of building an identity as an individual or a family is shown in this families work on graphics.
-
-ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
-Mi - Oh thank you very much. I'm very proud.
- -->
-
-
 ### GDPs used to scaffold ideation processes
+
+**GDPs are used in a variety of ways to guide the ideation process via restriction of choice in pattern collection, starting template includes core dynamics, visual code structures of GDPs suit rapid prototyping.**
 
 The design chapter explored the tension between reduced choice of genre of game. In my journal notes and observations of the games created, I note that the provision of a graphical menu of GDPs significantly decreased in time spend in ideation phase by providing scaffolding and a restriction of choice. Analysis of participant use of the menu as detailed in the documentation section above Te supports this analysis. Other techniques that leveraged the characteristics of game design patterns to support the ideation process emerged in community design activities.
 
 <!-- The reduction on the length of the course was welcome show by Ma's comment. "It did go on for too long." -->
+
+**Paper prototyping mapping visual matrix**
+
+NOTE - PERHAPS MOVE THIS TO PREVIOUS CHAPTER / METHODS? NOT GDP SPECIFIC? OR PART OF STARTING DESIGN
+
 The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the parent notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 
 ![](./Pictures/vign_a_1.png)
@@ -861,7 +688,140 @@ The mother wants to export an image from the graphical editing tool and to impor
 
 The mother develops her proficiency of expressing GDP related concepts and language as this interaction develops. This may be to show her increased level of understanding and participation on overall process after being challenged by daughter about her use of technical language. "Do you even know what export means?". Ne also appears to enjoy using the language and norms of game culture to tease her mother. "Who wants a rocket for their reward?" Here the daughter recognises the GDP of reward after used by her mother but questions the aesthetic choice and its appeal to game players. -->
 
+
+
+#### GDPs used to facilitate prioritisation in the design process
+
+**GDPs are mentioned by name and via verbal and physical descriptions as a lingua franca and as shortcuts by participants when prioritising work**
+
+
+<!-- informal task division -->
+The following exchange between participants Fi and Ma shows GDPs being used to try to organise future activity.
+<!-- Online version as table -  https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit -->
+
+    TURN IN TO TABLE WITH DESCRIPTION
+    Ma: I’ve brought the music, and also we could just concentrate on one thing and just change that. You know, keep working through.
+    Fi: Yeah. I think I want to get an enemy in - oh no - my person animated.
+    Ma: So you want to get your person animated that’s the main thing.
+    Ma: Shall we concentrate on that and changing the platforms into something different?
+    Fi: Yeah.
+    Ma: Yeah?
+    Fi: I also want to make a theme tune.
+    Ma: Yeah. It’s, that’s what I mean, you can’t just skip around like that.
+    Fi: Hmmm.
+    Ma: Just cos it gets really overwhelming.
+    Ma: Yeah..? So…?
+    Long pause.
+    Ma: Well I’ll have a look at the code and see if I can make sense of that.
+
+At this point the parent engages with a print out of supporting documentation on added an animation to the main character. This example shows the use of the approximate names of a number of game design patterns by the child adult. These are _get the person animated_, _get an enemy in_, _changing the platforms into something different_, _make a theme tune_. At this stage of their process, some of these patterns have been discussed and sketched out some started but only partially completed. For example, the child has designed different frames of animation but this has not been exported to the right format or implemented in code form. This interchange shows a tension between a more chaotic style of working jumping from one goal to another and a parental motivation to prioritise one work to be done. This tension is outlined when the parent gives an update on progress.  
+
+<!-- Patterns and the multiple actions and operations they entail are referred to briefly using short cut names.   -->
+
+    Mick: Hello.
+    Ma: Hi Mick.
+    Ma: So, we’ve made quite a lot of progress this week. I think the issue we’re having is that Fi’s super excited so we’re kind of jumping from one thing to another and that’s kinda overwhelming me a bit.
+
+The child's initial listing of features is a brainstorming technique. Such techniques are used to aid a creative process. However the parent seems to lack a process to map these out and then to work together to prioritise them. Instead he appears to be keen to quickly pick one. His suggested process is to then work through the documentation on that pattern. Fi appears reluctant to adopt this working process which creates a tension which is explore in the next part of this chapter.
+
+<!-- Discussion later or before??? Maps -
+GDP are already being used as a way to set goals, track progress and prioritise but the process seems stressful or unsatisfactory. Some kind of support help scaffold this process would be potentially productive. Changes to the emerging 3M design to  provide such support are explored in the following chapter. -->
+
+**Other examples of use of GDPs for prioritisation** can be seen in the following participants.
+TO COME
+
+<!--
+
+We can compare this drawn out process with a more rapid prioritisation guided by a parent with more experience in software development.
+Te and Da are discussing possible features early in the process if ideation.
+
+They thinking of a feature – wrap around like Pac-man
+Da – Yeah we can do that. Save that for version 1.1
+-->
+
+### GDPs aiding the process of division of labour
+
+NOTE - DIVISION OF LABOUR IS IN THE PREVIOUS CHAPTER TOO - REWRITE BASED ON GDP ONLY CONTENT
+
+**Participants can split work and resolve working blockages by allocating different GDPs or parts thereof.**
+
+In the last section, Mark and Ed used GDPs to attempt to prioritise work. However, following this Ma is engaged puzzling over documentation on how to add animation to a character for some time. This results in Fi being blocked from progressing. In the next exchange, they progress to more successfully divide their labour informally.
+
+    Ma: Quite complicated. But we can do it. But it would mean a lot of mucking around
+    Fi: Ah Er
+    Ma: Which is difficult to do while we’re here. But it’s doable.
+    Ma: It’s like a project in itself really.
+    Fi: Project in itself?
+    Ma: Yeah! (laughing). I just want to know like. We can get him in. So if I ask about the sizing.
+    Fi: Hmmn
+    Ma: I think you can edit the size here.
+    Fi: Why don’t you go here for a computer and you can do that?
+    Ma: Why. What. While you’re doing what?
+    Fi: Um making a sound track or something. I could do something like that.
+    Ma: Ok. Yeah. I’ll see if there’s any more computers in the cupboard.
+
+<!--
+THIS DOESN'T SEEM RIGHT
+Or perhaps the parent steers the child into graphical areas as they are able to continue without stressing out the parent. Thus the child's
+compliance may be a kind or pragmatic decision to allow smoother progress. -->
+
+The father describes previous lack of prioritisation as 'skipping around like that' or 'jumping all over the place' as 'overwhelming' the child seems happy to takes a more piecemeal approach. The child suggests a possible resolution to the current blockage. He suggests splitting and using one laptop each. He names one of the other pattern. The listing of GDPs in the previous exchange seems to empower the young person to direct an informal division on labour. The child continues to work on parallel patterns or component actions of pattern using tools and processes which he is more familiar with. This child also begins researching other toolsets, in this session, research to identify an online tool to create an short audio soundtrack. This serves the child as it allows them to avoid waiting for their father and moving different parts of the overall project forward.
+
+The implementation of some GDP involved the use of different tools and activities. As learners build the familiarity with the component actions needed to implement design patterns, some start to specialise as they divide labour between pairs or peers, For example in this case the child appears to make a tactical decision allowing the father to decipher technical instructions and implement them in the code of their game as they creating assets in non-code / GUI environments.
+
+<!--
+NOTE - MOVE TO LATER CHAPTER AS ILLUSTRATIVE OF FLEXIBLE DESIGN?
+
+ While the father was keen to prioritise and then complete one pattern, the child takes a more piecemeal approach. Later in the session the father then gets drawn into creating audio assets after observing his son searching for suitable tools. The father becomes distracted from his stated task as he is responsive to help the child when they get stuck on an alternative pathway they have chosen to avoid waiting on the parent. While this may be stressful for the parent, lots of progress in the overall game project can be observed in any particular session and the child seems to be developing useful skills managing the parent. -->
+ <!-- both with the familiar graphical asset tool Piskel and exploring new territory by researching an seeking a new tool for creating audio assets, specifically a background theme tune .  -->
+
+ <!-- While there was no formal organising of groups in phase 2 and 3, the family bonds between parents and children created similar patterns of seeking validation, sharing planning. Although this was more the case for dyads working side-by-side on the same game, similar patterns existed for other configurations. -->
+
+Different pairs approached division of labour in various ways. In a later example, we see how although Mi and her daughter Ne are working on different projects on a fair distance from each other, Mi relies on Ne's coding help. Sh and Th relied on the parent to do the majority of code implementation and shared one computer. The opening vignette shows the child use the name of a GDP as a way to communicate about the shared work of making a game.
+
+     Th: Go on then. Key - Door - Person.
+     Sh: Person?
+     Th: Key Door Person.
+     T gestures with her hands to indicate that her mother is the person she is referring to.
+
+The utterance by the child "Key Door Person"  work on the game design pattern called Keys and Doors to the adult. The child appears to consider the level of complexity needed to add a new pattern into the code to be beyond her ability and thus directly delegate the task to her mother. Feedback from the parent indicated that this division of labour was partly due to reading ability.  
+
+    "Th got on better during the coding once the student who was hovering initially left us alone. Because every time Th hesitated, she jumped in to do it for her. Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer."
+
+The parent outlines her strategies used to address lack of reading ability as a barrier to participation. The design choice of a grid of letters representing different elements of the platform game appears appropriate in the case of a novice learning to code and read at the same time.  After the child has delegated a coding task to her mother she undertakes other activities. At times her activities directly contribute to the main goal of game making. At times the parent asked the child to seek help from facilitator. On another occasion when the child appeared bored of waiting for parent to solve a code problem, she approached the facilitator to ask for help on behalf of the adult without prompting. At other times she engages more peripheral activities such as watching older children playtest each others games, or observing community activity from under the table.
+<!-- MORE EXAMPLES  ? -->
+<!--
+NOTE - check if this fits
+Once the code for the new game mechanic has been added, the child is guided to take on challenge of making smaller changes that give rapid feedback.  To aid the process the parent navigates to a particular part of the code for child to alter design. The changes the child makes have a large impact on the end users experience.
+ -->
+
+NOTE - DIVISION OF LABOUR IS IN THE PREVIOUS CHAPTER TOO - REWRITE BASED ON GDP ONLY CONTENT
+
+While the child's activity away from the screen and the main objective of coding and creating assets for their game could in a conventional educational model be seen an non-productive, in a community model of learning this can be interpreted differently. For example as legitimate peripheral activity [@lave_situating_1991], or as an observation stage of LOPI model [@rogoff_learning_2014].  The possibility for children to not engage in community activities is seen by Rogoff [-@rogoff_cultural_2003; -@rogoff_organization_2016] as an important characteristics in participation based models of learning.
+
+<!-- COMMENTARY /WITH A FOCUS ON AGENCY -->
+
+These divisions of labour seem beneficial for many participants however complex tensions emerge between varied goals as focal activities shift. Study of there interactions show the parents and children adopting varied strategies to navigate solutions to these tensions. The complexities of this design process are explored in more depth in the following discussion chapter.
+
+<!-- NOTE - LINK TO PREVIOUS CHAPTER ON FLEXIBILITY OF DESIGN -->
+
+<!-- In a following example we see child Ne helping her mother to overcome coding blockages. -->**
+<!--
+A SECTION HERE THAT COULD BE REPLACED.
+Mi and Ne had a reverse relationship where the child would reluctantly implement the graphical changes in code but would pointedly not explain them seemingly taking pride in knowing something that her mother didn't.
+ADD TRANSCRIPT EXAMPLE FROM  - 49:52.2 - 53:38.0 - 2019-03-18-mi
+Here the child has a powerful position but misses a chance to develop useful communication skills.
+
+The parent here takes great pride in the graphical work being done. This allows them a level of participation which is helpful without being stuck on more tricky technical or code related problems.
+The design which allows choice of GDPs facilitates this. The process of building an identity as an individual or a family is shown in this families work on graphics.
+
+ADD TRANSCRIPT EXAMPLE FROM  -  2019-03-18-mi
+Mi - Oh thank you very much. I'm very proud.
+ -->
+
 ### GDPs can encourage learners to design for others
+
+**Referring to GDPs (especially during playtesting) can help scaffold the process of imagining the end user experiences.**
 
 As explored previously, playtesing as a regular practice can shift learners to a perspective of designing for others. This section examines how some GDPs  provoked participants to imagine the experience of end users of their game. Game design patterns focused on gameplay rather than code structure focus on recognisable behaviour. Thus in the same way that visually organised code can aid ideation, designing code framework to help participants alter on a noticeable change in game play can foreground key GDPs.
 
@@ -891,7 +851,7 @@ Later Th interacts with one of the student helpers and outlines her motivations 
     Th: Good! (laughs)
     Th: It’s a secret, special one. (...) If people tried hard they would get to my level.
 
-Th comments that she wants players to bes frustrated when playing the game and that this is a contrast to final level which has only rewards and no hazards. This being a secret, special experience which plays against the norms of platform game design, thus provoking player surprise and fun. She notes the persistence of the student helper who pushes past her frustration to complete the game. Sh remark "If people tried hard they would get to my level" shows her awareness of that not all players will persist in the same way.
+Th comments that she wants players to be frustrated when playing the game and that this is a contrast to final level which has only rewards and no hazards. This being a secret, special experience which plays against the norms of platform game design, thus provoking player surprise and fun. She notes the persistence of the student helper who pushes past her frustration to complete the game. Sh remark "If people tried hard they would get to my level" shows her awareness of that not all players will persist in the same way.
 
 <!-- #### Other examples and interpretation on designing for others / shifts of perspective
 In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations of additions.
@@ -909,7 +869,9 @@ Designing for others - as a key per.spective in constructionism.
 Note: What added insights or tips for practitioners can I bring here?
 NOTE - cf Resnick Designing for Tinkerability - and the concepts in that.  -->
 
-GDPs aid the overall process of design for others by providing discreet and clear goals which are nested in the wider goal of making an engaging game. This process involves shifts in perspectives from participants as they engaging with objectives on different scopes of activity. For example, participants may get caught up in a particular design goal on a micro-level, engagement may drive an implementation of a quirky characteristic. When this game is self-tested or playtested, that characteristic may not withstand the shift in perspective to the wider goal of making an engaging game.
+**GDPs aid the overall process of design for others by providing discreet and clear goals which are nested in the wider goal of making an engaging game.**
+
+This process involves shifts in perspectives from participants as they engaging with objectives on different scopes of activity. For example, participants may get caught up in a particular design goal on a micro-level, engagement may drive an implementation of a quirky characteristic. When this game is self-tested or playtested, that characteristic may not withstand the shift in perspective to the wider goal of making an engaging game.
 
 <!-- - clear terms to use as a lingua-franca during self testing and playtesting. -->
 
@@ -922,7 +884,9 @@ In interpreting data there were other examples of pair partners and peers either
 
 ### GDP driving adoption of emerging technical processes
 
-The emergence of technical processes happens particularly on a pair level. It is at times motivated or sustained by a drive to implement or complete a GDP. The processes are not static but are modified by the community as they are adopted and passed on. Sometimes very explicitly as a parent explains, facilitates or guides a process as with Te and Da in the last chapter with documentation. At times technical processes are passed on informally in more casual help interactions as illustrated in the following example.
+**The emergence and propagation of new technical processes particularly in tool use, motivated by a drive to implement or complete a GDP often happen informally between peers.**
+
+ The processes are not static but are modified by the community as they are adopted and passed on. Sometimes very explicitly as a parent explains, facilitates or guides a process as with Te and Da in the last chapter with documentation. At times technical processes are passed on informally in more casual help interactions as illustrated in the following example.
 
     NOTE - COVERT TO TABLE
     Mi continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
@@ -1048,7 +1012,7 @@ May need a way to differential this chapters discussion of GDP - and that of the
 <!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
 
 
-### Use of GDPs to support debugging and the product revision process
+### Use of GDPs to support debugging and the product revision process - EDIT DOWN AND MOVE
 
 _NOTE - This section is particularly underdeveloped at this stage_
 
