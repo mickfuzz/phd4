@@ -1,4 +1,4 @@
-  ---
+---
 # all the regular stuff you have here
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
@@ -869,7 +869,7 @@ THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF
 
 Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
 
-This concept of the feel of the game or the challenges maps to the Dynamics of MDA framework. 
+This concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
 
 <!-- The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. -->
 
