@@ -15,67 +15,35 @@
         sessions](#observations-on-playful-chat-with-the-alien-sessions)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-    -   [Discussion of the process drama ( ending with focus on
-        authenticity of
-        tools)](#discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
-        -   [Drama Process Observations /
-            Discussion](#drama-process-observations-discussion)
-        -   [Discussion on Autheticity](#discussion-on-autheticity)
-        -   [Discussion on emergent practices to support varied learner
-            identities.](#discussion-on-emergent-practices-to-support-varied-learner-identities.)
--   [The impact of starting tools, documentation and other
-    processes](#the-impact-of-starting-tools-documentation-and-other-processes)
-    -   [Impact of main learning design
-        tools](#impact-of-main-learning-design-tools)
-        -   [Observations on the use of code playgrounds and development
-            tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
-        -   [Impact of the half-baked starting
-            template](#impact-of-the-half-baked-starting-template)
-    -   [Embedded GDPs in template vs GDPs in collection with supporting
-        resources](#embedded-gdps-in-template-vs-gdps-in-collection-with-supporting-resources)
+    -   [Discussion of the process
+        drama](#discussion-of-the-process-drama)
+        -   [Discussion on Authenticity](#discussion-on-authenticity)
+-   [The impact of starting tools and
+    processes](#the-impact-of-starting-tools-and-processes)
+    -   [Observations on the use of code playgrounds and development
+        tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
+    -   [Impact of the half-baked starting
+        template](#impact-of-the-half-baked-starting-template)
+        -   [Observations on design behaviours encouraged through use of
+            game
+            template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
-    -   [Discussion on initial tool use and starting
-        processes](#discussion-on-initial-tool-use-and-starting-processes)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
-    -   [Play-testing](#play-testing)
+    -   [Playtesting](#playtesting)
     -   [Observations on emerging divisions of
         labour](#observations-on-emerging-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
-        -   [Code roles and
-            experimentation](#code-roles-and-experimentation)
-    -   [Emerging tactics in accessing help from peers and
-        facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
-        -   [Accessing online, professional/community
-            documentation](#accessing-online-professionalcommunity-documentation)
-    -   [On different kinds of snags /
-        blocks](#on-different-kinds-of-snags-blocks)
-        -   [On Debugging and Embracing Different Types of
-            Errors](#on-debugging-and-embracing-different-types-of-errors)
-        -   [Discussion on nurturing tactical responses to
-            blocks](#discussion-on-nurturing-tactical-responses-to-blocks)
 -   [Discussion](#discussion)
-    -   [Discussion on flexible design practices (RENAME NOW?
-        )](#discussion-on-flexible-design-practices-rename-now)
-    -   [Encouraging a culture of emergent improvisation/agency in the
-        design
-        process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
-        -   [Implications - PERHAPS MOVE?](#implications---perhaps-move)
-        -   [Conceptualising emergent agency in this
-            study](#conceptualising-emergent-agency-in-this-study)
-    -   [Discussion - on learner identity, anxiety and implications in
-        relation to other research - AND CONCEPTIONS OF
-        AGENCY.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research---and-conceptions-of-agency.)
+    -   [Conceptualising emergent agency in this
+        study](#conceptualising-emergent-agency-in-this-study)
+    -   [Discussion on designing for emergent
+        practices](#discussion-on-designing-for-emergent-practices)
+        -   [Initial discussion on designing for emergent
+            practices](#initial-discussion-on-designing-for-emergent-practices)
+    -   [Evolving writing on how the above answer
+        RQS](#evolving-writing-on-how-the-above-answer-rqs)
     -   [Link section to next chapter](#link-section-to-next-chapter)
--   [Appendices of this chapter\_](#appendices-of-this-chapter_)
-    -   [Appendix 4.x - On creating narratives and game
-        Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
-        -   [Appendix 4.x - Extract of interview with Mark and
-            Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
-        -   [Appendix 4.x - Extract of interaction between Molly and
-            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
-        -   [Appendix 4.x - Addition to vignette 4.1 - documentation in
-            drama](#appendix-4.x---addition-to-vignette-4.1---documentation-in-drama)

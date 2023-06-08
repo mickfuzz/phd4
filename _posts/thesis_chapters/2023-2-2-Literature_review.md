@@ -165,11 +165,30 @@ Game making allows children to draw on funds of knowledge in various ways, perha
 - Why is it powerful in affect?
 - What potential does that give to family game making?
 
+
+### Professional practices and frameworks
+
+These professional practices and framework are both informed by research and in common use in professional communities.
+
+
+#### MDA and conceptual game elements framework
+
+The MDA framework has been created from games research with an aim to help define
+
+The Mechanics element of the framework has much in common with GDPs. The different is explored by researchers [@olsson2014conceptual].
+
+The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
+The levels of abstraction of
+
 #### Design Patterns
+
+Design patterns in a professional context ..
+
+NOTE - I think there is material to copy and paste here.
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
 
-##### Game and gameplay design patterns
+#### Game and gameplay design patterns
 
 The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns. Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player.
 
@@ -190,7 +209,23 @@ Could move some of this to the results discussion -
 <!--
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
-#### Link paragraph to game making pedagogies
+#### Using professional frameworks to help novice game makers
+
+As noted, design patterns are common in computing education.
+
+GDPs - Bjork etc - started the pattern collection for game studies
+A follow up in non-coding situation
+
+GSM created a supporting pack for teachers
+uses challenges which are themed around but the normal practice is geared towards
+does not
+
+<!-- NOTE - follow this up - can email - why was this not adopted?
+What could have been different?-->
+GAP : No research for GDP pattern collection for to text code games with for CS or game studies in young people.
+
+
+**Link paragraph to game making pedagogies**
 
 
 ## On game making pedagogies
@@ -329,7 +364,6 @@ My own work with Manchester Met University drama education department explored t
 
 ### More material on Expansive Learning
 _posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
-
 
 
 ### 5th dimension

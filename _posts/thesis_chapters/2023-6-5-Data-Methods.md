@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: archive
-title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
+title: Findings Seeding Game Making Communities to Facilitate Learner Agency
 ---
 
 -   [Research Questions - May 2023](#research-questions---may-2023)
@@ -27,71 +27,38 @@ title: Findings - Seeding Game Making Communities to Facilitate Learner Agency
         sessions](#observations-on-playful-chat-with-the-alien-sessions)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-    -   [Discussion of the process drama ( ending with focus on
-        authenticity of
-        tools)](#discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
-        -   [Drama Process Observations /
-            Discussion](#drama-process-observations-discussion)
-        -   [Discussion on Autheticity](#discussion-on-autheticity)
-        -   [Discussion on emergent practices to support varied learner
-            identities.](#discussion-on-emergent-practices-to-support-varied-learner-identities.)
--   [The impact of starting tools, documentation and other
-    processes](#the-impact-of-starting-tools-documentation-and-other-processes)
-    -   [Impact of main learning design
-        tools](#impact-of-main-learning-design-tools)
-        -   [Observations on the use of code playgrounds and development
-            tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
-        -   [Impact of the half-baked starting
-            template](#impact-of-the-half-baked-starting-template)
-    -   [Embedded GDPs in template vs GDPs in collection with supporting
-        resources](#embedded-gdps-in-template-vs-gdps-in-collection-with-supporting-resources)
+    -   [Discussion of the process
+        drama](#discussion-of-the-process-drama)
+        -   [Discussion on Authenticity](#discussion-on-authenticity)
+-   [The impact of starting tools and
+    processes](#the-impact-of-starting-tools-and-processes)
+    -   [Observations on the use of code playgrounds and development
+        tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
+    -   [Impact of the half-baked starting
+        template](#impact-of-the-half-baked-starting-template)
+        -   [Observations on design behaviours encouraged through use of
+            game
+            template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
     -   [Narratives and graphics drawing on home funds of
         knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
-    -   [Discussion on initial tool use and starting
-        processes](#discussion-on-initial-tool-use-and-starting-processes)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
-    -   [playtesting](#playtesting)
+    -   [Playtesting](#playtesting)
     -   [Observations on emerging divisions of
         labour](#observations-on-emerging-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
-        -   [Shifting roles in partn> Ed: er
+        -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
-        -   [Code roles and
-            experimentation](#code-roles-and-experimentation)
-    -   [Emerging tactics in accessing help from peers and
-        facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
-        -   [Accessing online, professional/community
-            documentation](#accessing-online-professionalcommunity-documentation)
-    -   [On different kinds of snags /
-        blocks](#on-different-kinds-of-snags-blocks)
-        -   [On Debugging and Embracing Different Types of
-            Errors](#on-debugging-and-embracing-different-types-of-errors)
-        -   [Discussion on nurturing tactical responses to
-            blocks](#discussion-on-nurturing-tactical-responses-to-blocks)
 -   [Discussion](#discussion)
-    -   [Discussion on flexible design practices (RENAME NOW?
-        )](#discussion-on-flexible-design-practices-rename-now)
-    -   [Encouraging a culture of emergent improvisation/agency in the
-        design
-        process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
-        -   [Implications - PERHAPS MOVE?](#implications---perhaps-move)
-        -   [Conceptualising emergent agency in this
-            study](#conceptualising-emergent-agency-in-this-study)
-    -   [Discussion - on learner identity, anxiety and implications in
-        relation to other research - AND CONCEPTIONS OF
-        AGENCY.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research---and-conceptions-of-agency.)
+    -   [Conceptualising emergent agency in this
+        study](#conceptualising-emergent-agency-in-this-study)
+    -   [Discussion on designing for emergent
+        practices](#discussion-on-designing-for-emergent-practices)
+        -   [Initial discussion on designing for emergent
+            practices](#initial-discussion-on-designing-for-emergent-practices)
+    -   [Evolving writing on how the above answer
+        RQS](#evolving-writing-on-how-the-above-answer-rqs)
     -   [Link section to next chapter](#link-section-to-next-chapter)
--   [Appendices of this chapter\_](#appendices-of-this-chapter_)
-    -   [Appendix 4.x - On creating narratives and game
-        Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
-        -   [Appendix 4.x - Extract of interview with Mark and
-            Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
-        -   [Appendix 4.x - Extract of interaction between Molly and
-            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
-        -   [Appendix 4.x - Addition to vignette 4.1 - documentation in
-            drama](#appendix-4.x---addition-to-vignette-4.1---documentation-in-drama)
-
 
 <!-- ## Overview in points
 
@@ -874,15 +841,15 @@ The previous section discussed some of the uses of starting processes and tools 
 
 As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour. By the time video data recording started in phase three there were already complex patterns of playtesting underway. In this section, I review data to describe some of the emerging playtesting behaviours of participants.
 
-**playtesting as a social process**
+**Playtesting as a social process**
 
 Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. For example, if a game featured an image of a dog other participants may ask: _Do you like dogs? Do you have a dog at home?_.
 
-**playtesting and embodied participation in the games of others**
+**Playtesting and embodied participation in the games of others**
 
 By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently.
 
-playtesting took on additional playful elements often staring in one part of the working environment and then migrating to other areas. Because of this mobility is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting. It is possible to communicate the characteristics of this play via a description of a typical encounter.
+Playtesting took on additional playful elements often staring in one part of the working environment and then migrating to other areas. Because of this mobility is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting. It is possible to communicate the characteristics of this play via a description of a typical encounter.
 
 
  <!-- Examples include.... -->
@@ -892,14 +859,17 @@ While this play is happening it may attract other participants who may  remain o
 
 <!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
 
-
-
 <!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
 
 
 **Community concepts and norming behaviour emerging during playtesting**
 
+THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE
+
+
 Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
+
+This concept of the feel of the game or the challenges maps to the Dynamics of MDA framework. 
 
 <!-- The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. -->
 
@@ -1021,6 +991,7 @@ This section explores what other shifts in design practices -->
 ### Observations on emerging divisions of labour
 
 NOTE THIS SECTION DESCRIBES EMERGING PATTERNS OF BEHAVIOUR - BUT IT IS NOT CLEAR IF IT ANWSERS THE RESEARCH QUESTIONS DIRECTLY.
+ALSO DUPLICATION WITH NEXT CHAPTER - SO REFACTOR
 
 #### Alternating coding
 
@@ -1230,12 +1201,16 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
-### Discussion on designing for emergent practices
+### Discussion on designing for emergent practices and agency
 
 This section looks as some of the emerging patterns of design practice of participants.
 
-**Chaotic design practices rather than planned design stages**
+NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
 
+
+#### Chaotic design practices rather than planned design stages
+
+One side effect of coding by design cycle stage was to expose the limits of even an iterative cycle interpretation of the design process of these participants.
 When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. One causes of this was the use of a templated game which contained and which invited testing and sharing with after only quick changes. Also, I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
 
 While design at school is sometimes taught using perspective stages approaches, other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
@@ -1243,21 +1218,22 @@ While design at school is sometimes taught using perspective stages approaches, 
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 
-**Learning to love digital laundry and value faff time**
+#### Valuing side effects of digital laundry and faff time**
 
-Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration.
+
+Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span.
+
+Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
 <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
-
 <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
 
-Many creative moments happen in times not neatly represented in the cycle. For example the navigation to the right location in creative software, finding assets, migrating assets between authoring tools, converting to correct formats, evaluating new tools. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span.
 
 As previously discussed, skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared.
 
 In retrospect, many of the social and secret missions encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
 
-I observed that navigating these essential buthinkingt non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
+I observed that navigating these essential but non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
 
     Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
     Parent peer laughs
@@ -1282,7 +1258,9 @@ A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
 
-**Digital Jamming**
+#### Supporting Digital Jamming
+
+NOTE Perhaps move to next section - designing for
 
 <!-- Pumping up the Jam - -->
 

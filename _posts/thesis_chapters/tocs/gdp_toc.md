@@ -10,25 +10,23 @@
         GDPs](#using-cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
     -   [The propagation of use of GDPs through
         playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
-    -   [GDPs used for informal peer
-        feedback](#gdps-used-for-informal-peer-feedback)
     -   [GDPs facilitate the use of wider funds of
         knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
-    -   [GDPs can aid the use of provided supporting
-        resources](#gdps-can-aid-the-use-of-provided-supporting-resources)
-        -   [Documentation via code examples and step-by-step
-            tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
-        -   [GDPs can facilitate navigation of documentation and
-            resources beyond programme based
-            support](#gdps-can-facilitate-navigation-of-documentation-and-resources-beyond-programme-based-support)
-        -   [Guiding a code patching
-            process](#guiding-a-code-patching-process)
-    -   [GDPs used to facilitate prioritisation in the design
-        process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
-    -   [GDPs aiding the process of division of
-        labour](#gdps-aiding-the-process-of-division-of-labour)
+    -   [GDPs can aid the use of documentation and
+        resources](#gdps-can-aid-the-use-of-documentation-and-resources)
+        -   [GDPs help learners navigation acting as a framework for
+            code examples and step-by-step
+            tutorials](#gdps-help-learners-navigation-acting-as-a-framework-for-code-examples-and-step-by-step-tutorials)
+        -   [GDPs helping navigation of external
+            documentation](#gdps-helping-navigation-of-external-documentation)
+        -   [Code patching process using GDPs as a
+            base](#code-patching-process-using-gdps-as-a-base)
     -   [GDPs used to scaffold ideation
         processes](#gdps-used-to-scaffold-ideation-processes)
+        -   [GDPs used to facilitate prioritisation in the design
+            process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
+    -   [GDPs aiding the process of division of
+        labour](#gdps-aiding-the-process-of-division-of-labour)
     -   [GDPs can encourage learners to design for
         others](#gdps-can-encourage-learners-to-design-for-others)
     -   [GDP driving adoption of emerging technical
@@ -36,7 +34,8 @@
         -   [Other examples of GDP driving adoption of technical
             processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
     -   [Use of GDPs to support debugging and the product revision
-        process](#use-of-gdps-to-support-debugging-and-the-product-revision-process)
+        process - EDIT DOWN AND
+        MOVE](#use-of-gdps-to-support-debugging-and-the-product-revision-process---edit-down-and-move)
     -   [GDPs used to explore computational, design and systems
         concepts](#gdps-used-to-explore-computational-design-and-systems-concepts)
 -   [Discussion on the use of game design patterns in the 3M learning
