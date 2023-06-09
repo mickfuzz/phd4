@@ -191,7 +191,7 @@ Here we are looking at something cultural?? -->
 This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
 
 > Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
-
+organiser
 ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
 
 > Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the Weean have sent us the code we need for basically dropping stuff.
@@ -205,7 +205,7 @@ This second extract comes from the following session in phase four. In three of 
 > Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean. So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
 
 
-> (Mick reads out the following extract the screen containting a text chat with the fictional alien audience)
+> (Mick reads out the following extract the organiser screen containting a text chat with the fictional alien audience)
 
 > Ed: Weean what’s it like up there?
 
@@ -289,7 +289,8 @@ In this extract participants are invited to take turns showing their game, recap
 
 ### Reflecting in role
 
-<!-- **My reflections as a practitioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
+
+<!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 The impact of this end reflection in role can be compared to previous reflection in sessions. In my journal notes for previously phases, I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided richer feedback from a wider variety of participants.
 
 The use of the screen as a link to the aliens helps justify moving participants and stopping all activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  

@@ -16,46 +16,34 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 ## Outline
 
-- Theoretical framework
-  - social turn,
-      - overview of AT(Soviet) and socio cultural (US), and merged into CHAT
-  - CHAT,
+- Theoretical frameworks
+  - Social turn,
+    - Overview of AT(Soviet) and socio cultural (US), and merged into CHAT
+    - CHAT
+    - Use of 3 planes of foci from Rogoff
   - Design based intervention / research
-  - Conceptions of Agency (revisited) & implications for design / analysis from DBR and CHAT
-- Methods
+    - Importance of participant agency
+  - Conceptions of Agency & implications for design / analysis from DBR and CHAT
+  - DBR, AT & Agency in a digital learning context ()
+      - Methods
   - Discussion about scope of analysis -
    - Justification of GDP as a key unit of analysis
     - implications for granularity of research data (via video capture etc)
     - other questions to inform context and community (via interview data)
-  - Data gathering
-      -
-  - Data analysis
-    - Broad description
-    - Gesture analysis
+- DBR, design process
+  - Mostly signpost to the next chapters
+- Data gathering
+    - 360
+- Data analysis
+    - Broad description based
+    - Gesture analysis in more granular examples
 
 
 ## Recoding data - gdps and for agency
 
 ### Coding use of GDP.
 
-- GDPs and their interaction with play-testing to build a community
-- GDPs and personal expression (cultural)
-- Use of Help and Documentation related to GDP
-- Use of design patterns as a form of / to facilitate apprenticeship
-
-- GDPs for Goal Setting and Prioritisation
-- GDPs and division of Labour
-- GDPs motivation and sustaining engagement
-GDPs to support Flexible (Iterative) Design Practices
-- GDPs propagation through peer activity
-- Interaction of GDPs and designing for others as a method -
-- GDP to receive feedback on playability
-
-
-- Mutual approaches to knowledge building
-- Game Design Patterns as a way to give language to participants when sharing back to Community (or not)
-- GDP as a way to explore Computational Thinking Concepts
-
+See gdp chapter index for latest
 
 
 ### Coding based on chapter 4
@@ -64,7 +52,7 @@ Drama
 - 4.a.1 Drama process and reflection (all did part of it but code references also to mentions of it)
 - 4.a.2 Engagement with secret and public missions within drama
 - 4.a.3 Engagement with live chat - for social activity, and to ask questions out of class
-- 4.a.4 Documentation / support within role - via email - 
+- 4.a.4 Documentation / support within role - via email -
 
 By Design
 - 4.b.1 Half baked template & code playgrouds and phaser - (hard to code for as quite constant) cf rapid prototyping
@@ -641,10 +629,10 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 ## Research Questions
 
-- What  game making pedagogies exist?
+<!-- - What  game making pedagogies exist?
 - DROP? What methods exist to scaffold / seed the creation of a game / digital making community of learners? And what value does a community have?
 - How can game patterns support the development of coding practices by novices?
-- How can parent and child participant experiences of a community focused digital game making programme inform broader digital making practices?
+- How can parent and child participant experiences of a community focused digital game making programme inform broader digital making practices? -->
 
 
 ### How Research Questions Evolved

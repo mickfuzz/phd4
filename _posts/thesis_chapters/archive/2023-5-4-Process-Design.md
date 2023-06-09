@@ -871,9 +871,6 @@ Examples include;
 
 For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
 
-
-
-
 **Facilitators may need to justify learning happening and struggle to see this in-situ if unfamiliar with the game making process. This may restrict openness of activities to better assess and support learning.**
 A map of learning dimensions flexibly linked to main missions/patterns can be used by both learners and facilitators.
 
