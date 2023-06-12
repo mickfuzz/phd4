@@ -189,7 +189,7 @@ The underlying assumption of the work here is re-examined in a stream on later w
  - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
 
 
- ### Technical barriers & knowledge barriers
+### Technical barriers & knowledge barriers
 
  The approach of computer coding languages has changed
  Over generations of
@@ -317,7 +317,7 @@ When learners undertake real life projects with relevance for, or with a direct 
 The structuring of the learning involved in PBL is highlighted by those wishing to defend it from dismissal as unsupported, pure discovery learning (Hmelo-Silver et al., 2007; Kirschner et al., 2006). We can see parallels in PBL programme design to that tinkering tools and environments in that decisions are made to support specific areas of learner discovery deemed of particular value by carefully obscuring other potentially distracting aspects behind ‘black box’ processes (Resnick and Silverman, 2005).
 
 
-
+The goal of authenticity of expression, assessment and the motivation of a real audience aligns PBL with the kind of learning that happens when people take part in work-place or other authentic activities. The next section deals with pedagogical approaches that are rooted in professional or non-educational settings.  
 
 
 ## Pedagogical resources in the form of professional practices and frameworks
@@ -382,6 +382,7 @@ In my own game making model students picked missions from a choice of printed re
 
 ### Using professional frameworks to help novice game makers
 
+This section examines the use of potential use of these professional tools or processes in an educational context.
 
 #### Using pattern collections and code examples to help students.
 
@@ -410,8 +411,6 @@ GAP : No research for GDP pattern collection for to text code games with for CS 
 ## Broader community focused Pedagogies
 
 To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community learning.
-
-
 
 ### Foundational literature addressing community learning
 
