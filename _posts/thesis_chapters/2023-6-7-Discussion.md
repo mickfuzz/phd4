@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: archive
+categories: chapter
 title: Discussion Chapter
 ---
 <!--
@@ -72,6 +72,23 @@ And if so are they distinct from existing frameworks explored in literature revi
 - Playful methods of community creation
 - Drama narrative to create audience a la heathcote
 - Regular informal feedback and chances to discuss evolving designs
+
+
+### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
+
+<!-- NOTE  I would say  too complex for coding -->
+
+Answering RQ - on pedagogical resources / agency / use of GDPs
+
+THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especially docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
+
 
 #### Game design to understanding games as a design artefact for empowerment purposes - PERHAPS GOOD FOR CONCLUSION.
 

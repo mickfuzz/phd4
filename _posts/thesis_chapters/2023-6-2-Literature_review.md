@@ -66,14 +66,10 @@ title: Literature Review
 
 NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURAL LIKE KAFAI?
 
-
 - What pedagogical resources are available to support novices learning coding, particularly in game making contexts?
 
   <!-- - What game making pedagogies exist? SIDELINED-->
-  - Motivation of activity? [pick up from Intro]
-      - From Kafai's review (not directly) draw on
-      - personal
-      - more general / social / 21st C, computational fluency
+
 - Coding pedagogies and how they align with motivations  
   - Instruction
   - UMC and Games
@@ -112,7 +108,7 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
 The aims of this literature review:
 
 - introduce concepts that may also inform conceptual framework / methodology
-- outline existing game making pedagogies
+- outline existing game making pedagogies  & resources for learning coding
   - CT in relation to Design Patterns - abstract / concrete elements
 - focus in on cultural / social elements of particular promising pedagogies.  
 
@@ -413,26 +409,3 @@ Rainer chapter [@rainer_drama_2012] also highlights authenticity in different ph
 Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
 
 My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
-
-
-
-### More material on Expansive Learning
-_posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
-
-
-### 5th dimension
-
-More On Formative Interventions
-
-As previously explored, to allow for development of design through experimentation I have been inspired by the tradition of design experiments and formative interventions. One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) Engeström, 2007). The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
-
-A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
-
-I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5^th^ Dimension supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
-
-
-### Discussion based on case studies.
-
-In this section the context, and motivations of the above case studies are analysed in relation to the context of this study.
-
-NOTE - Draw on design experiements vs mutual appropriation - Cole [] to help guide analysis.

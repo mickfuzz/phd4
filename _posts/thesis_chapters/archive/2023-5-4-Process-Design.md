@@ -89,7 +89,11 @@ Availability of resources potentially novel. For example, the ability to have th
 
 ### Practitioner data from interviews with designers / educators
 
-As previously explored in the methodology section, practitioner interviews were used to help guide the direction of
+As previously explored in the methodology section, practitioner interviews were used to help guide the direction of the learning designs
+
+AND to inform question of what pedagogical factors are important in game making.
+BUT THIS HAS BEEN DROPPED - HOW TO BRING IT BACK IN - 
+
 
 
 <!-- These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.

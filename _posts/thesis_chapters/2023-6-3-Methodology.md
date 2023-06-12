@@ -43,12 +43,17 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 ### Coding use of GDP.
 
-See gdp chapter index for latest
+Give this a go  -
+
+See gdp chapter index for latest ones
+
 
 
 ### Coding based on chapter 4
 
-Drama
+<!-- NOTE  I would say no - too complex -->
+
+<!-- Drama
 - 4.a.1 Drama process and reflection (all did part of it but code references also to mentions of it)
 - 4.a.2 Engagement with secret and public missions within drama
 - 4.a.3 Engagement with live chat - for social activity, and to ask questions out of class
@@ -70,11 +75,15 @@ Emergent
 - 4.c.4. Accessing out of scope documentation from professional circles
 - 4.c.5. Playtesting emergent elements
   - discussing challenge
-  - the play around the playtesting
+  - the play around the playtesting -->
 
 
 
-### Coding impact on design/ processes on learner agency - boiled down
+### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
+
+<!-- NOTE  I would say no - too complex for coding  -->
+
+Answering RQ - on pedagogical resources / agency / use of GDPs
 
 THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 
@@ -84,7 +93,6 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 - developing agency through celebration of different game maker styles
 - authenticity of tool use, especially docs and access to Community
 - authenticity of audience - and role of drama to facilitate reflection
-
 
 
 ## Theoretical Framework
@@ -691,8 +699,39 @@ what about focusing on agency / autonomy / self regulation for this question.
 
 I have carried out three stages of pilot workshops with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
 
+## Discussion on Methodology in relation to other DBR
+
+How does this methodology relate / add to existing models?
+
+### More material on Expansive Learning
+_posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
+
+
+### 5th dimension Case Study
+NOTE -  TOO LONG -- COMPRESS?
+
+**More On Formative Interventions**
+
+As previously explored, to allow for development of design through experimentation I have been inspired by the tradition of design experiments and formative interventions. One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) Engeström, 2007). The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
+
+A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
+
+I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5^th^ Dimension supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
+
+
+### Discussion based on case studies.
+NOTE - NO TOO LONG - NOT NEEDED
+In this section the context, and motivations of the above case studies are analysed in relation to the context of this study.
+
+
+
+
 
 ## Transition to next Chapter - About the specifics of mutual evolution of Learning DESIGN
+
+
+
+
 
 I conclude this chapter with a section that introduces the next chapter which is a rich description of the evolution of the learning design.
 
