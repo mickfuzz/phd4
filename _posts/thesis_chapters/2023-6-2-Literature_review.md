@@ -9,62 +9,69 @@ layout: post
 categories: chapter
 title: Literature Review
 ---
-
-
--   [Literature Review overview](#literature-review-overview)
--   [Personal Motivations](#personal-motivations)
--   [Social Motivations](#social-motivations)
--   [Community Approach to Game
-    making](#community-approach-to-game-making)
-    -   [Activity as Unit of Analysis](#activity-as-unit-of-analysis)
-    -   [Cultural Mediation](#cultural-mediation)
-    -   [Application to Community
-        Learning](#application-to-community-learning)
-    -   [Guided participation Rogoff and Communities of
-        Learners](#guided-participation-rogoff-and-communities-of-learners)
--   [Summary of Digital Making Studies from a Sociocultural
-    Perspective](#summary-of-digital-making-studies-from-a-sociocultural-perspective)
-    -   [Formal, non-formal and
-        informal.](#formal-non-formal-and-informal.)
-    -   [Family Making](#family-making)
-    -   [Funds of Knowledge](#funds-of-knowledge)
-        -   [Retro Gaming as a Fund of knowledge - move to
-            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-    -   [Professional practices and
-        frameworks](#professional-practices-and-frameworks)
-        -   [MDA and conceptual game elements
-            framework](#mda-and-conceptual-game-elements-framework)
-        -   [Design Patterns](#design-patterns)
-        -   [Game and gameplay design
-            patterns](#game-and-gameplay-design-patterns)
-        -   [Using professional frameworks to help novice game
-            makers](#using-professional-frameworks-to-help-novice-game-makers)
--   [On game making pedagogies](#on-game-making-pedagogies)
+-   [Literature Review Introduction](#literature-review-introduction)
+-   [Literature Review overview - structure by
+    hand](#literature-review-overview---structure-by-hand)
+-   [Structuring the literature
+    review](#structuring-the-literature-review)
+-   [Pedagogies from coding for learning community - K12
+    focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
         adapt](#also-see-this-writing-and-adapt)
     -   [UMC and Half-Baked Games](#umc-and-half-baked-games)
-    -   [Design Patterns and Games](#design-patterns-and-games)
--   [Informal, participatory game making
-    communities](#informal-participatory-game-making-communities)
+    -   [Computational Thinking
+        Patterns](#computational-thinking-patterns)
+-   [Pedagogical resources in the form of professional practices and
+    frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
+    -   [MDA and conceptual game elements
+        framework](#mda-and-conceptual-game-elements-framework)
+    -   [Design Patterns in professional
+        context](#design-patterns-in-professional-context)
+    -   [Game Design Patterns](#game-design-patterns)
+    -   [Game and gameplay design
+        patterns](#game-and-gameplay-design-patterns)
+    -   [Using professional frameworks to help novice game
+        makers](#using-professional-frameworks-to-help-novice-game-makers)
+-   [Game Making Tools](#game-making-tools)
+    -   [Code Playgrounds](#code-playgrounds)
+    -   [Pixel Art Editors](#pixel-art-editors)
+-   [Broader community focused
+    Pedagogies](#broader-community-focused-pedagogies)
+    -   [Foundational literature addressing community
+        learning](#foundational-literature-addressing-community-learning)
+    -   [Guided participation Rogoff and Communities of
+        Learners](#guided-participation-rogoff-and-communities-of-learners)
+        -   [Formal, non-formal and informal DROP
+            PERHAPS?](#formal-non-formal-and-informal-drop-perhaps)
+        -   [Funds of Knowledge](#funds-of-knowledge)
+        -   [Retro Gaming as a Fund of knowledge - move to
+            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
+-   [Relevant case studies in context - Family Making, Ito / Gee
+    etc](#relevant-case-studies-in-context---family-making-ito-gee-etc)
+    -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
+        ?](#family-making---what-in-particular-to-explore)
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
-    -   [Inequality of access to participatory culture
-        communities](#inequality-of-access-to-participatory-culture-communities)
--   [Examples informal community creation in practice and
-    research](#examples-informal-community-creation-in-practice-and-research)
     -   [Mantle of the Expert (and drama processes
         games)](#mantle-of-the-expert-and-drama-processes-games)
-    -   [More material on Expansive
-        Learning](#more-material-on-expansive-learning)
-    -   [5th dimension](#th-dimension)
-    -   [Discussion based on case
-        studies.](#discussion-based-on-case-studies.)
+    -   [Inequality of access to participatory culture
+        communities](#inequality-of-access-to-participatory-culture-communities)
 
 
-## Literature Review overview
+## Literature Review Introduction
 
-NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURAL LIKE KAFAI?
+The aims of this literature review:
+
+- Recap motivations for game making and terms needed to expore that later
+  - CT in relation to Design Patterns - abstract / concrete elements
+- outline existing game making pedagogies  & resources for learning coding
+- focus in on cultural / social elements of particular promising pedagogies.  
+- introduce concepts that may also inform conceptual framework / methodology
+  - PERHAPS MOVE TO NEXT CHAPTER?
+
+
+## Literature Review overview - structure by hand
 
 - What pedagogical resources are available to support novices learning coding, particularly in game making contexts?
 
@@ -76,8 +83,8 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
     - Half-baked games
   - PRIMM - bridging exploration and instruction, semantic waves
   - Pair programming - social coding
-  - Design-based & Tinkering / Exploratory - Bevan et al
-  - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first
+  <!-- - Design-based & Tinkering / Exploratory - Bevan et al  -->
+  <!-- - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first -->
   - Design patterns
 - What exists to support the development of game making communities?
   - Defining terms and exploring community-based pedagogies   
@@ -105,12 +112,6 @@ NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURA
 
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
 
-The aims of this literature review:
-
-- introduce concepts that may also inform conceptual framework / methodology
-- outline existing game making pedagogies  & resources for learning coding
-  - CT in relation to Design Patterns - abstract / concrete elements
-- focus in on cultural / social elements of particular promising pedagogies.  
 
 <!-- I've done previous planning here.
 chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit review_.docx.md
@@ -128,100 +129,147 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 - Visual methods in game making
     - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey -->
 
-## Personal Motivations
 
-## Social Motivations
+## Structuring the literature review
 
-- more general / social / 21st C, computational fluency
+<!-- NOTE - Does this need to be explicitly via Sociocultural take -->
 
-Computational Fluency [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
+To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
 
-## Community Approach to Game making
+Because of additional the community focus of the study, this is done in a way which spans different community perspectives / scopes. Namely;
 
-Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+- K12 community of learning focused around curriculum goals and supported by relevant organisations.
+- Professional and enthusiast game making commuity resources and processes
+- Wider pedagogical frameworks which allow practiioners / learners to develop agency in an evolving community
 
-- Vygotsky (and friends) - foundational ideas - activity as unit of analysis
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development @cole_beyond_1996-1 .
-- Rogoff - community of learners and 3 foci as a way to frame this in education
+<!-- now turns to explore game making and digital making studies which explore social and community planes either explicitly or implicitly. -->
 
-<!--
-// don't focus in on DBR save that... -->
+<!-- NOTE - More to include from here.
+/home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
-### Activity as Unit of Analysis
+## Summary of addressing barriers to participation
 
-Quickly rephrase from a Rogoff chapter. Keep it snappy.
+Develop from introduction, drill down to a more detailed overview of barriers in participation in coding communites from literature. Theme if needed.
 
-### Cultural Mediation
+The focus here is on practitioner attempts to identify and address barriers to participation in programming .
 
-The vital role of cultural mediation in development @cole_beyond_1996-1
+NOTE - THERE IS A LOT HERE THAT COULD OVERLAP - KEEP ADDING BUT CHECK BACK TO AVOID OVERLAP.
 
-This clearly aligns with digital making. Find citation.
+### Technical barriers
 
+Much work has been taken out by MIT family developing Papert's ideas on constructionism.
 
-### Application to Community Learning
-Keywords - Communities of Practice, Situated learning & legitimate peripheral participation.
+- Block coding vs text coding, syntax
+- Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
+- Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
 
-### Guided participation Rogoff and Communities of Learners
+<!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
+High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
+Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
+We added a fourth principle to emphasize the equally important social dimension of construction tools:11
 
-<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
+Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
 
-(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches @mascolo_beyond_2009.
+### Knowledge barriers
 
-Participation on community activities as a valid approach.
+Computing syntax
+Lack of knowledge of what to design..
 
-Cultural and social factors are vital to development process even if hidden in as school setting.
-Guided participation as a middle ground between instruction and discovery.
-
-Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
-
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
-
-
-## Summary of Digital Making Studies from a Sociocultural Perspective
-
-As such, to help answer RQ1 & 2, this literature review now turns to explore game making and digital making studies which explore social and community planes either explicitly or implicitly.
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
--
-
-### Formal, non-formal and informal.
-
-This distinction is not just about a school or non-school environment [@erstad_identity_2012].
-
-While some researchers define formal learning as that which happens in school and informal learning as that outside of school (Gerber et al., 2001), others (Eshach, 2007, p. 173; Werquin, 2009) would describe an intervention like the one in this study -- where learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned -- using the term 'non-formal' in contrast to both formal and unstructured/informal learning. Sefton-Green (2004) complicates this view, noting that informal learning can take place in formal settings and vice-versa. Given this inconsistency, my study will use research and relevant literature to create working definitions of such terms. Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities . My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
+ which they call “sandbox games,” that integrates the worlds"
 
 
-### Family Making
-Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
-I extend this in this study, how can the learning design contribute?
+### Cultural barriers
+
+Work of Kafai and Peppler etc,
+ - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
+
+### Conclusion to this sections
+
+This chapter explores some of these issues in more depth
+Knowledge barriers in K12 section
+Mapping cultural barriers to some of the community based approaches
 
 
-### Funds of Knowledge
 
-COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
-The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+## Pedagogies from coding for learning community - K12 focused
 
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
 
-
-#### Retro Gaming as a Fund of knowledge - move to intro?
-
-- What is retro gaming? [Nostalgia in Retro Game Design.]
-- Why is it powerful in affect?
-- What potential does that give to family game making?
+- UMC / Remixing  - Half-baked games
+- Design approaches - designing for an audience
+- Broader definition of CT, computational fluency / computational participation.
+- Physical methods, feedback, from constructionism
+- Design patterns in Agent sheets
 
 
-### Professional practices and frameworks
+#### Also See this writing and adapt
+chapters/planning/lit review/game making/overview of gamemaking studies part one/overview_of_gamemaking_studies_v6 (002) + CL.docx.md
+
+
+<!-- ## Project-based learning / Social approach / Communities of Learners.
+
+- Key features of PBL - from academic sources up to date.
+- Benefits of PBL, autonomy / agency /
+- Creating a community of learners
+- Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
+
+### UMC, Mircroworlds and Half-Baked Games
+
+The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]
+
+The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
+
+The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
+
+This concept of builds on Papert's concept of micro world used a framework for making and coding. (DEVELOP)
+
+The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking.
+
+Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
+
+
+
+### PRIMM  & Semantic waves
+
+FIND MATERIAL IN OTHER BOOK CHAPTERS
+
+Primm based on UMC but developed to highligh abstract concepts and processes via a predict stage.
+
+Semantic Waves
+
+
+### Computational Thinking & Patterns
+
+
+My own findings are inspired by the work of Repenning and Basawapatna 2010) on computational thinking patterns (CTPs) as part of their Scalable Game Design (SGD) programme. We can compare CTPs with design patterns. The kind of CTPs identified in this study are less abstract than the object-oriented design patterns offered by Gamma and colleagues 1995); however a similar guiding principle exists. Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants.
+
+It is the familiarity and understandability which which drew the SCG researchers towards a pattern-based approach. They cite the contested nature of computational thinking National Academy of Sciences on Computational Thinking, 2010), and highlight the utility in more specific learning outcomes compared to more abstract interpretations of computational thinking. Their solution driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations Basawapatna et al., 2011). It it valuable to examine the specifics of the Computational Thinking Patterns (CPTs) in relation to the context, aims and tools of the Scalable Game Design programme. Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme.
+
+![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm
+
+
+### Project based learning PBL
+
+This spans k12 and more informal environments 
+
+
+## Review of relevant tensions emerging in the literature
+
+NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
+
+**Tension of leaner choice and direction to learning objectives**
+
+Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
+
+  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
+
+Quote from [@franklin_analysis_2020]
+
+## Pedagogical resources in the form of professional practices and frameworks
 
 These professional practices and framework are both informed by research and in common use in professional communities.
 
-
-#### MDA and conceptual game elements framework
+### MDA and conceptual game elements framework
 
 The MDA framework has been created from games research with an aim to help define
 
@@ -230,15 +278,33 @@ The Mechanics element of the framework has much in common with GDPs. The differe
 The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
 The levels of abstraction of
 
-#### Design Patterns
-
-Design patterns in a professional context ..
+### Design Patterns in professional context
 
 NOTE - I think there is material to copy and paste here.
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
 
-#### Game and gameplay design patterns
+Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
+
+The prescriptive and categorisable nature of CT would seem to suit rigorous assessment. y Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically, the use of design patterns and then combination of those patterns into large game mechanics Werner et al., 2014, 2012). This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage.
+
+The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
+
+
+### Game Design Patterns
+
+New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsingGameplayDesign2019a].
+<!-- Could move some of this to the results discussion -
+
+"
+- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
+- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
+- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
+- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+
+
+
+### Game and gameplay design patterns
 
 The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns. Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player.
 
@@ -259,7 +325,14 @@ Could move some of this to the results discussion -
 <!--
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
-#### Using professional frameworks to help novice game makers
+### Using professional frameworks to help novice game makers
+
+
+### Using pattern collections and code examples to help students.
+
+To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
+Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
+Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other
 
 As noted, design patterns are common in computing education.
 
@@ -274,70 +347,110 @@ does not
 What could have been different?-->
 GAP : No research for GDP pattern collection for to text code games with for CS or game studies in young people.
 
-
 **Link paragraph to game making pedagogies**
 
 
-## On game making pedagogies
+## Game Making Tools
 
-There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
+These tools are of use by both professionals and novice coders.
+The use by indy communities blurs the line also
 
-- UMC / Remixing  - Half-baked games
-- Design approaches - designing for an audience
-- Broader definition of CT, computational fluency / computational participation.
-- Physical methods, feedback, from constructionism
-- Design patterns in Agent sheets
-- Game jam, space, mechanics, rules, etc .
+### Code Playgrounds
 
+Find definition
 
-#### Also See this writing and adapt
-chapters/planning/lit review/game making/overview of gamemaking studies part one/overview_of_gamemaking_studies_v6 (002) + CL.docx.md
+### Pixel Art Editors
 
+Find definition
 
-<!-- ## Project-based learning / Social approach / Communities of Learners.
+## Broader community focused Pedagogies
 
-- Key features of PBL - from academic sources up to date.
-- Benefits of PBL, autonomy / agency /
-- Creating a community of learners
-- Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
-
-### UMC and Half-Baked Games
-
-The 'Use-Modify-Create' approach proposed by Lee and colleagues 2011) is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies Denner et al., 2014, 2012; Werner et al., 2014, 2013).
-
-The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures Lee et al., 2011).
-
-The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
-
-Kynigos, 2007; Kynigos and Yiannoutsou, 2018. The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336). Elements of learning designs to support dialogue are explored in a later section of this writing.
-
-### Design Patterns and Games
-
-Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
-
-The prescriptive and categorisable nature of CT would seem to suit rigorous assessment. y Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically, the use of design patterns and then combination of those patterns into large game mechanics Werner et al., 2014, 2012). This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage.
-
-The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
-
-My own findings are inspired by the work of Repenning and Basawapatna 2010) on computational thinking patterns (CTPs) as part of their Scalable Game Design (SGD) programme. We can compare CTPs with design patterns. The kind of CTPs identified in this study are less abstract than the object-oriented design patterns offered by Gamma and colleagues 1995); however a similar guiding principle exists. Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants.
-
-It is the familiarity and understandability which which drew the SCG researchers towards a pattern-based approach. They cite the contested nature of computational thinking National Academy of Sciences on Computational Thinking, 2010), and highlight the utility in more specific learning outcomes compared to more abstract interpretations of computational thinking. Their solution driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations Basawapatna et al., 2011). It it valuable to examine the specifics of the Computational Thinking Patterns (CPTs) in relation to the context, aims and tools of the Scalable Game Design programme. Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme.
-
-![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm
+To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community learning.
 
 
-New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsingGameplayDesign2019a].
-<!-- Could move some of this to the results discussion -
+### Foundational literature addressing community learning
 
-"
-- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
-- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
-- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+
+<!-- NOTE Can this be done using domain specific literature to support?
+-->
+
+- Vygotsky (and friends) - foundational ideas - activity as unit of analysis
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development @cole_beyond_1996-1 .
+- Rogoff - community of learners and 3 foci as a way to frame this in education
+
+<!--
+// don't focus in on DBR save that... -->
+
+<!-- NOTE - MOVE TO METHODOLOGY
+### Activity as Unit of Analysis
+Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
+
+The vital role of cultural mediation in development @cole_beyond_1996-1
+This clearly aligns with digital making. Find citation.
 
 
-##  Informal, participatory game making communities
+### Guided participation Rogoff and Communities of Learners
 
+<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
+
+(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
+
+Participation on community activities as a valid approach.
+
+Cultural and social factors are vital to development process even if hidden in as school setting.
+Guided participation as a middle ground between instruction and discovery.
+
+Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
+
+This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
+
+**Informal, participatory digital and game making communities**
+
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
+
+#### Formal, non-formal and informal DROP PERHAPS?
+
+This distinction is not just about a school or non-school environment [@erstad_identity_2012].
+
+While some researchers define formal learning as that which happens in school and informal learning as that outside of school (Gerber et al., 2001), others (Eshach, 2007, p. 173; Werquin, 2009) would describe an intervention like the one in this study -- where learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned -- using the term 'non-formal' in contrast to both formal and unstructured/informal learning. Sefton-Green (2004) complicates this view, noting that informal learning can take place in formal settings and vice-versa. Given this inconsistency, my study will use research and relevant literature to create working definitions of such terms. Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities . My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
+
+
+
+
+#### Funds of Knowledge
+
+COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
+The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+
+
+#### Retro Gaming as a Fund of knowledge - move to intro?
+
+- What is retro gaming? [Nostalgia in Retro Game Design.]
+- Why is it powerful in affect?
+- What potential does that give to family game making?
+
+
+## Relevant case studies in context -  Family Making, Ito / Gee etc
+
+Outline case studies of similar work and identify gaps.
+
+### Family Making - WHAT IN PARTICULAR TO EXPLORE ?
+
+Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+I extend this in this study, how can the learning design contribute?
+
+
+It is of value to explore the community aspect...
 
 ###  Game playing and making communities - community activities around the game Gee / Ito
 
@@ -345,8 +458,58 @@ New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsin
 
 Games are funds of knowledge
 
+### Game jams & game competitions
 
-### Inequality of access to participatory culture communities
+Some of the tools that emerge allow participants to rapidly explore game concepts -
+See exercises on -  space, mechanics, rules,
+
+<!-- FROM Here
+_posts/thesis_chapters/planning/lit review/game making/game making environments v5.odt.md -->
+
+Hackathons, Game Jams and accelerated production methods
+
+Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains Johnson and Robinson, 2014; Kienzler and Fontanesi, 2017). Accelerated production methods are being applied to a wide variety of domains.
+
+Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or48 hours. Team events often take place in physical venues which may be part of a wider global Jams Aryaet al., 2013). Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam Eberhardt,2016). Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience Eberhardt,2016, p. 3).
+
+Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems2014),using a playful vs. gameful spectrum from Caillois2001).Design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
+
+Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame (Games for Change, 2017). Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants. These are broken down into; space, goal,components, mechanics and rules. The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016).
+
+The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
+
+Play testing is the process of involving other participants to try out a prototype of a game early the creation process Eladhariand Ollila, 2012). It has a particular value in forcing an iterative approach.
+
+GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
+
+
+### Mantle of the Expert (and drama processes games)
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+
+
+### Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
 
 In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities 2010). Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects Luther et al., 2010).
 
@@ -373,7 +536,6 @@ The issues of gender stereo-typing and identity in relation to computers were ex
 
 Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
-
 **Roles and practices to support learners**
 
 The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input, Kirschner et al., 2006; Kollar et al., 2006). I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling
@@ -382,30 +544,15 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 
 We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
-## Examples informal community creation in practice and research
 
-case studies / genres
+## Review of relevant tensions emerging in the literature
 
-### Mantle of the Expert (and drama processes games)
+NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
 
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+**Tension of leaner choice and direction to learning objectives**
 
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
 
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
 
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+Quote from [@franklin_analysis_2020]

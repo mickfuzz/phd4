@@ -14,6 +14,14 @@ title: Methodology
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 
+## Research Questions - May 2023
+
+- What pedagogical resources are available to support novices learning coding, particularly in game making communities?
+<!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
+- How can learners build agency in an evolving community of game makers?
+- How can game design patterns support the development of coding practices with novices?
+
+
 ## Outline
 
 - Theoretical frameworks

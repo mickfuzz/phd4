@@ -149,7 +149,7 @@ I identify and describe design tensions emerging from the exploratory stages of 
 
 I share a learning design incorporate that seeks to help resolve and explore these tensions in detail. While I share initial findings in response, the research is still in progress. As such, this early reporting of results seeks to put into focus, and explore in details tensions in the particular context of family making and in primary school classroom, use of game making as a creative medium and the affordances and limits of game making particular tools. -->
 
-## Context
+## Context & Motivations for Activity
 <!--
 INTRO ON CHALLENGE OF TEACHING CODING
 "The challenge to create tools and pedagogies to allow younger learners to start to engage with coding as a creative design practice is on-going ... "
@@ -177,22 +177,29 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 
 ## Motivations for learning to code specifically via game making
 
+
 Broadly game making and creative coding can he
 
 - for intrinsic pleasure of making games or other products
-- for commercial purposes, STEM pipeline
+- for commercial purposes to join games industry
+- STEM pipeline in more general terms
 - for empowerment of individual and health of society
 
-### Skills & STEM pipekube agenda
+### Skills & STEM pipeline agenda
 
 - Motivation of activity? [pick up from Intro - move entirely to intro ]
     - From Kafai's review (not directly) draw on
     - personal
     - more general / social / 21st C, computational fluency
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
 
-### Empowerment agenda
 
-This aga
+### Empowerment agenda & personal motivations
+
+Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society.
+
+This agenda has parallels with other domains of participatory culture that I have been involved in.
 
 - DIY music and protest event organisation
 - Participatory media making for social and environmental causes
@@ -209,6 +216,14 @@ However, a new position as a project work for EdLab allowed me the ability to ex
 - Speciality training for PGCE and Primary Education programmes
 - Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.
 
+Context of Home Education consultation as part of EdLab.
+
+My interest of computer games was rekindled via being able to use pirate networks and technology to rediscover and to replay
+
+The activities of Nicola Whitton exploring the rules and components of games in a playful way.
+
+Then pirate ways of playing games on hacked hardware activated another of my interests.
+
 ### Teaching the Web - Mozilla and beyond
 
 My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
@@ -217,8 +232,6 @@ FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGU
 Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
 
 In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
-
-
 
 ### The context of retro gaming
 
