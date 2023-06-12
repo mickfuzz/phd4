@@ -88,7 +88,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Research Questions - May 2023
 
-- What pedagogical resources are available to support novices learning coding, particularly in game making contexts?
+- What pedagogical tools and processes are available to support novices overcome barriers to game coding and design in game making contexts?
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
 - How can learners build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
