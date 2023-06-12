@@ -420,7 +420,9 @@ https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/
 
 #### The half-baked starting platformer game
 
-The use and design characteristics of the starting point of a half-baked game
+NOTE - ALSO EXPLORED IN NEXT CHAPTER - HOW TO ARRANGE?
+
+The use and design characteristics of the starting point of a half-baked game. 
 
 - Phaser 2 to avoid complexity of code structure
 - 2D platformer - familiar to most - Mario and Sonic
