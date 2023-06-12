@@ -478,7 +478,7 @@ Drama and fictional scenarios can help explore issues and reduce learner anxiety
 
 #### Building Identities as Game Makers
 
-MAY NEED TO REWRITE - KEEP POWDER DRY HERE
+<!-- NOTE - MAY NEED TO REWRITE to clearly precursor next chapter -->
 
 <!-- One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing. -->
 
@@ -488,9 +488,6 @@ My journal notes see an evolution of attempts to try to build into the program, 
  - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
  -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
  -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-
-
 
 
 
@@ -506,7 +503,7 @@ The template, resources and facilitation approach was based closely on the previ
 
 I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
 
-Also adapted to move towards a curricula based delivery of the course. This is explored in a later section of this chapter.
+To do this I added a learning dimensions map. This is explored in a later section of this chapter.
 
 
 
