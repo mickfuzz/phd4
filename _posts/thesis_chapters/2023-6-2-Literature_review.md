@@ -9,18 +9,34 @@ layout: post
 categories: chapter
 title: Literature Review
 ---
+
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Literature Review overview - structure by
     hand](#literature-review-overview---structure-by-hand)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
+-   [Summary of addressing barriers to
+    participation](#summary-of-addressing-barriers-to-participation)
+    -   [Technical barriers & knowledge
+        barriers](#technical-barriers-knowledge-barriers)
+    -   [Cultural barriers to participation
+        in](#cultural-barriers-to-participation-in)
+    -   [Conclusion to this section](#conclusion-to-this-section)
+-   [Game Making Tools](#game-making-tools)
+    -   [Code Playgrounds](#code-playgrounds)
+    -   [Pixel Art Editors](#pixel-art-editors)
 -   [Pedagogies from coding for learning community - K12
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
         adapt](#also-see-this-writing-and-adapt)
-    -   [UMC and Half-Baked Games](#umc-and-half-baked-games)
-    -   [Computational Thinking
+    -   [UMC, Mircroworlds and Half-Baked
+        Games](#umc-mircroworlds-and-half-baked-games)
+    -   [PRIMM & Semantic waves](#primm-semantic-waves)
+    -   [Computational Thinking &
         Patterns](#computational-thinking-patterns)
+    -   [Project based learning PBL](#project-based-learning-pbl)
+        -   [Game making and Project / Problem Based
+            Learning](#game-making-and-project-problem-based-learning)
 -   [Pedagogical resources in the form of professional practices and
     frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
     -   [MDA and conceptual game elements
@@ -32,9 +48,8 @@ title: Literature Review
         patterns](#game-and-gameplay-design-patterns)
     -   [Using professional frameworks to help novice game
         makers](#using-professional-frameworks-to-help-novice-game-makers)
--   [Game Making Tools](#game-making-tools)
-    -   [Code Playgrounds](#code-playgrounds)
-    -   [Pixel Art Editors](#pixel-art-editors)
+        -   [Using pattern collections and code examples to help
+            students.](#using-pattern-collections-and-code-examples-to-help-students.)
 -   [Broader community focused
     Pedagogies](#broader-community-focused-pedagogies)
     -   [Foundational literature addressing community
@@ -53,11 +68,14 @@ title: Literature Review
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
+    -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Mantle of the Expert (and drama processes
         games)](#mantle-of-the-expert-and-drama-processes-games)
-    -   [Inequality of access to participatory culture
-        communities](#inequality-of-access-to-participatory-culture-communities)
-
+    -   [Inequality of access to participatory culture communities -
+        PERHAPS REWRITE THIS BASED ON
+        TENSIONS](#inequality-of-access-to-participatory-culture-communities---perhaps-rewrite-this-based-on-tensions)
+-   [Review of relevant tensions emerging in the
+    literature](#review-of-relevant-tensions-emerging-in-the-literature)
 
 ## Literature Review Introduction
 
@@ -153,41 +171,69 @@ Develop from introduction, drill down to a more detailed overview of barriers in
 
 The focus here is on practitioner attempts to identify and address barriers to participation in programming .
 
-NOTE - THERE IS A LOT HERE THAT COULD OVERLAP - KEEP ADDING BUT CHECK BACK TO AVOID OVERLAP.
-
-### Technical barriers
-
-Much work has been taken out by MIT family developing Papert's ideas on constructionism.
-
-- Block coding vs text coding, syntax
-- Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
-- Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
-
-<!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
-High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
-Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
-We added a fourth principle to emphasize the equally important social dimension of construction tools:11
-
-Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
-
-### Knowledge barriers
-
-Computing syntax
-Lack of knowledge of what to design..
-
- which they call “sandbox games,” that integrates the worlds"
+NOTE - THERE IS A LOT HERE THAT COULD OVERLAP
+- KEEP ADDING BUT CHECK BACK TO AVOID OVERLAP.
 
 
-### Cultural barriers
 
-Work of Kafai and Peppler etc,
+### Cultural barriers to participation in
+
+EDIT DOWN FIND RECENT EVIDENCE
+
+Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
+
+Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
+
+The underlying assumption of the work here is re-examined in a stream on later work by  Kafai and Peppler etc, who after extensive research in this area begin to ask instead how to create new communities rather than aiming to break into existing ones.  
+
  - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
 
-### Conclusion to this sections
+
+ ### Technical barriers & knowledge barriers
+
+ The approach of computer coding languages has changed
+ Over generations of
+ Extensive re
+
+ Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
+
+ - Block coding vs text coding, syntax
+ - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
+ - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
+
+ <!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
+ High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
+ Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
+ We added a fourth principle to emphasize the equally important social dimension of construction tools:11
+
+ Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
+
+
+ Computing syntax
+ Lack of knowledge of what to design..
+  which they call “sandbox games,” that integrates the worlds"
+
+
+### Key Game Making Tools used in this study
+
+These tools are of use by both professionals and novice coders.
+The use by indy communities blurs the line also
+
+#### Code Playgrounds
+
+Find definition
+
+#### Pixel Art Editors
+
+Find definition
+
+
+### Conclusion to this section
 
 This chapter explores some of these issues in more depth
-Knowledge barriers in K12 section
-Mapping cultural barriers to some of the community based approaches
+
+- Knowledge barriers in K12 section
+- Mapping cultural barriers to some of the community based approaches
 
 
 
@@ -250,20 +296,29 @@ It is the familiarity and understandability which which drew the SCG researchers
 
 ### Project based learning PBL
 
-This spans k12 and more informal environments 
+NOTE - This spans k12 and more informal / community environments - thus I'm not sure where to place it at the moment - Lit review needs reworking.
+
+Project-approaches are widely advocated by Papert via constructionism school and taken up by MIT researchers and programmes, especially the outreach work of Mitchell Resnick surrounding Scratch and other creative computing project.
+
+PBL also aligns with a much broader progressive approach to education. The broad benefits can be summarised as such;
+
+- Student choice
+
+**Cautionary note**
+While the above claims are widely supported, the wide nature of the definition complicates any broad claims of replicability.
 
 
-## Review of relevant tensions emerging in the literature
+#### Game making and Project / Problem Based Learning
 
-NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
+Game making can be seen as an example of the kind of wicked problem favoured in project-oriented problem based learning (referred to from now on as PBL) (Mateas and Stern, 2005). PBL has a variety of forms, an exploration of which is beyond the scope of this study (Aditomo et al., 2013). The most pertinent areas of PBL of to this study are the over-arching focus on authentic learning environments and the process of building learner autonomy within a structured and supportive approach (Hernandez et al., 2015).  
 
-**Tension of leaner choice and direction to learning objectives**
+When learners undertake real life projects with relevance for, or with a direct link to, environments outside of the learning space, there are strong parallels to the models of peripheral participation in communities of practice (Wenger, 1998).  A PBL game making process would do well to foster participation by highlighting playful paths into community participation to maximise group identification and sustainability (Thorsted et al., 2015). Fictional tasks and roles can also impact learner engagement (Heathcote and Herbert, 1985).
 
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
+The structuring of the learning involved in PBL is highlighted by those wishing to defend it from dismissal as unsupported, pure discovery learning (Hmelo-Silver et al., 2007; Kirschner et al., 2006). We can see parallels in PBL programme design to that tinkering tools and environments in that decisions are made to support specific areas of learner discovery deemed of particular value by carefully obscuring other potentially distracting aspects behind ‘black box’ processes (Resnick and Silverman, 2005).
 
-  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
 
-Quote from [@franklin_analysis_2020]
+
+
 
 ## Pedagogical resources in the form of professional practices and frameworks
 
@@ -328,7 +383,9 @@ In my own game making model students picked missions from a choice of printed re
 ### Using professional frameworks to help novice game makers
 
 
-### Using pattern collections and code examples to help students.
+#### Using pattern collections and code examples to help students.
+
+THERE IS DUPLICATION AT END - IN TENSIONS
 
 To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
 Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
@@ -350,22 +407,10 @@ GAP : No research for GDP pattern collection for to text code games with for CS 
 **Link paragraph to game making pedagogies**
 
 
-## Game Making Tools
-
-These tools are of use by both professionals and novice coders.
-The use by indy communities blurs the line also
-
-### Code Playgrounds
-
-Find definition
-
-### Pixel Art Editors
-
-Find definition
-
 ## Broader community focused Pedagogies
 
 To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community learning.
+
 
 
 ### Foundational literature addressing community learning
@@ -381,7 +426,6 @@ Foundation sociocultural approach which goes beyond a conception of transmission
 
 <!--
 // don't focus in on DBR save that... -->
-
 <!-- NOTE - MOVE TO METHODOLOGY
 ### Activity as Unit of Analysis
 Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
@@ -544,10 +588,11 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 
 We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
-
 ## Review of relevant tensions emerging in the literature
 
 NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
+CHOOSE CAREFULLY WHERE TO PUT THE RESULTS.
+
 
 **Tension of leaner choice and direction to learning objectives**
 
@@ -556,3 +601,28 @@ Authors note that UMC and the value of project based exploration can clash with 
   "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
 
 Quote from [@franklin_analysis_2020]
+
+**Developing UMC - adding the "Choose"**
+
+<!-- NOTE - This may be moved to design chapter -->
+
+UMC has been developed to be end with scaffolded set of choices.
+In a study where students use a block based language to develop simulations - the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1]
+
+- Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice
+- Differentiate Choices by Difficulty -create choice systems that have varying difficulty
+- Create Choices that Show Visible and Immediate Changes
+- Make things Complex, not Complicated
+- Draw from Student Desires - students will engage morewith the material, feeling like the creations are their own.
+
+<!--
+  - Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice ala a Par-son’s Problem greatly reduces cognitive load, especially in activitieswhere lots of choices means lots of blocks. Similarly, giving teachers a “Cheat Sheet" of answers for each choice, scaffolds their abilityto act as a facilitator and debugger.
+
+  Differentiate Choices by Difficulty- This time, challenge came from adding morec hoices, but each choice was relatively the samedifficulty. In the future, we wish to create choice systems that havevarying difficulty to give targeted tasks for each student skill level.
+
+- Create Choices that Show Visible Change
+  - Prioritize choicesthat produce immediate changes in the run of the simulation (e.g. anew animal appearing in the environment).Create Choices that Promote Content Inquiry- Our decisionto primarily focus on adding more animals came from the fact thateach new animal made the Food Web more complex.
+
+  - Make things Complex, not Complicated- As demonstrated in Figure 2, each animal had relatively the same set of code blocks. In this way, a lot of choices were available without adding many additional necessary blocks for students.
+
+- Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->

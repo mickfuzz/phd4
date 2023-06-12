@@ -3,13 +3,28 @@
     hand](#literature-review-overview---structure-by-hand)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
+-   [Summary of addressing barriers to
+    participation](#summary-of-addressing-barriers-to-participation)
+    -   [Technical barriers & knowledge
+        barriers](#technical-barriers-knowledge-barriers)
+    -   [Cultural barriers to participation
+        in](#cultural-barriers-to-participation-in)
+    -   [Conclusion to this section](#conclusion-to-this-section)
+-   [Game Making Tools](#game-making-tools)
+    -   [Code Playgrounds](#code-playgrounds)
+    -   [Pixel Art Editors](#pixel-art-editors)
 -   [Pedagogies from coding for learning community - K12
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
         adapt](#also-see-this-writing-and-adapt)
-    -   [UMC and Half-Baked Games](#umc-and-half-baked-games)
-    -   [Computational Thinking
+    -   [UMC, Mircroworlds and Half-Baked
+        Games](#umc-mircroworlds-and-half-baked-games)
+    -   [PRIMM & Semantic waves](#primm-semantic-waves)
+    -   [Computational Thinking &
         Patterns](#computational-thinking-patterns)
+    -   [Project based learning PBL](#project-based-learning-pbl)
+        -   [Game making and Project / Problem Based
+            Learning](#game-making-and-project-problem-based-learning)
 -   [Pedagogical resources in the form of professional practices and
     frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
     -   [MDA and conceptual game elements
@@ -21,9 +36,8 @@
         patterns](#game-and-gameplay-design-patterns)
     -   [Using professional frameworks to help novice game
         makers](#using-professional-frameworks-to-help-novice-game-makers)
--   [Game Making Tools](#game-making-tools)
-    -   [Code Playgrounds](#code-playgrounds)
-    -   [Pixel Art Editors](#pixel-art-editors)
+        -   [Using pattern collections and code examples to help
+            students.](#using-pattern-collections-and-code-examples-to-help-students.)
 -   [Broader community focused
     Pedagogies](#broader-community-focused-pedagogies)
     -   [Foundational literature addressing community
@@ -42,7 +56,11 @@
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
+    -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Mantle of the Expert (and drama processes
         games)](#mantle-of-the-expert-and-drama-processes-games)
-    -   [Inequality of access to participatory culture
-        communities](#inequality-of-access-to-participatory-culture-communities)
+    -   [Inequality of access to participatory culture communities -
+        PERHAPS REWRITE THIS BASED ON
+        TENSIONS](#inequality-of-access-to-participatory-culture-communities---perhaps-rewrite-this-based-on-tensions)
+-   [Review of relevant tensions emerging in the
+    literature](#review-of-relevant-tensions-emerging-in-the-literature)

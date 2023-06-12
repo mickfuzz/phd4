@@ -75,8 +75,7 @@ https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
 <!-- As per Rogoff's analysis of informal learning in museaums [], the process of finding a medium between structured activity and authentic activity can be challenging.
 
 The kinds of exhibits which invite extended play are of interest to this study. Such design indicates that there are affordances that invite revised design, tinkering and ongoing play.
- -->
-
+-->
 
 **Cultural influences on my choice of learning design**
 
@@ -123,123 +122,7 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 - Playtesting: the process of playtesting, either self or peer links back to a community purpose
  -->
 
-## Summary of design evolution
 
-<!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-
-see updated table in tables subdirectory  
-
--->
-
-The following table is provided to give the reader an overview of the stages and a link to examples of resources in the appendices and links to online examples. The following sections describe the use of varied tools and processes in greater detail to explore the rationale for the creation and selection of these tools.
-
-<!-- Table from
-https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
-NEED TO SIMPLIFY TABLE - MAKE IN ATOM
-
-+-------+-------------------+-------------------+-------------------+
-| Phase | Name and Date     | Description       | Resources Used    |
-+-------+-------------------+-------------------+-------------------+
-| 1     | Oct 2017 - Mar    | Participants      | Phaser 2.6.2      |
-|       | 2018              | started with a    | javascript        |
-|       |                   | blank canvas and  | library           |
-|       | Experimental      | plan and make a   |                   |
-|       | Course            | game in two       | Thimble code      |
-|       |                   | larger groups of  | playground.       |
-|       |                   | 5-6 participants  |                   |
-|       |                   | of mixed ages. A  |                   |
-|       |                   | minimal           | Online graphics   |
-|       |                   | incomplete        | editor            |
-|       |                   | starting game     | Piskel.           |
-|       |                   | code template was |                   |
-|       |                   | introduced to     |                   |
-|       |                   | support students  | Code recognition  |
-|       |                   | after the course  | activity.         |
-|       |                   | has started.      |                   |
-|       |                   |                   |                   |
-|       |                   |                   | An incomplete     |
-|       |                   |                   | game code         |
-|       |                   |                   | template          |
-|       |                   |                   |                   |
-|       |                   |                   |                   |
-|       |                   |                   | Various audio     |
-|       |                   |                   | creation tools    |
-|       |                   |                   | (Appendix R.5.x)  |
-+-------+-------------------+-------------------+-------------------+
-| 2     | May 2018 - Dec    | One-off workshops | Phaser 2.6.2      |
-|       | 2018\             | at Mozilla and    | javascript        |
-|       | \                 | Feral Vector      | library (Appendix |
-|       | Resource          | conferences and   | R.1)              |
-|       | Development Stage | to PGCE computer  |                   |
-|       |                   | students helped   | Glitch code       |
-|       |                   | focus and the     | playground        |
-|       |                   | creation of a     | (Appendix R.2.1)  |
-|       |                   | "half baked" game |                   |
-|       |                   | template and      | Print out of      |
-|       |                   | supporting online | cards with simple |
-|       |                   | and printable     | coding missions   |
-|       |                   | resources.        | (Appendix R.5.1)  |
-|       |                   |                   |                   |
-|       |                   |                   | Revised           |
-|       |                   |                   | incomplete game   |
-|       |                   |                   | template          |
-|       |                   |                   | (Appendix R.4.2)  |
-+-------+-------------------+-------------------+-------------------+
-| 3     | Jan - Feb 2019    | First iteration   | Phaser 2.6.2      |
-|       |                   | of game making    | javascript        |
-|       | Glitch Game Club  | course of 5-6     | library (Appendix |
-|       |                   | weeks. The        | R.1.1)\           |
-|       |                   | template and      | Glitch code       |
-|       |                   | resources created | playground        |
-|       |                   | in the previous   | (Appendix R.2.1)\ |
-|       |                   | stage were used   | Online graphics   |
-|       |                   | as a starting     | editor            |
-|       |                   | point but         | Piskel.(Appendix  |
-|       |                   | continued to      | R.3.1)            |
-|       |                   | evolve..          |                   |
-|       |                   |                   | Updated           |
-|       |                   |                   | incomplete game   |
-|       |                   |                   | template          |
-|       |                   |                   | (Appendix R.4.3)  |
-|       |                   |                   |                   |
-|       |                   |                   | Supporting        |
-|       |                   |                   | tutorials and     |
-|       |                   |                   | code examples\    |
-|       |                   |                   | (Appendix D.2.x)  |
-+-------+-------------------+-------------------+-------------------+
-| 4     | May 2019          | Second iteration  | As per phase 3    |
-|       |                   | of game making    | and in addition:\ |
-|       | Glitch Game Club  | course of 4 weeks | Drama scenario    |
-|       |                   | using Phaser.js,  | (Appendix E.1.1)\ |
-|       |                   |                   | Interactive chat  |
-|       |                   |                   | page in glitch    |
-|       |                   |                   | (Appendix E.1.2)  |
-+-------+-------------------+-------------------+-------------------+
-| 5     | Jan 2020 -        | Two iterations of | Make Code Arcade  |
-|       | September 2020    | game making       | (MCA) tool        |
-|       |                   | course of 5-6     | (Appendix         |
-|       | Make Code Arcade  | weeks using       | RM.1.1)\          |
-|       |                   | MakeCode Arcade   | MCA Template      |
-|       |                   | tool.             | starting          |
-|       |                   |                   | game(Appendix     |
-|       |                   | \                 | RM.1.2)           |
-|       |                   | \                 |                   |
-|       |                   |                   | MCA quick start   |
-|       |                   |                   | cards.(Appendix   |
-|       |                   |                   | RM.1.3)           |
-|       |                   |                   |                   |
-|       |                   |                   | MCA game pattern  |
-|       |                   |                   | menu (Appendix    |
-|       |                   |                   | RM.1.3)           |
-|       |                   |                   |                   |
-|       |                   |                   | MCA game pattern  |
-|       |                   |                   | tutorials         |
-|       |                   |                   | (Appendix RM.1.3) |
-|       |                   |                   |                   |
-|       |                   |                   | Learning          |
-|       |                   |                   | Dimensions Map    |
-|       |                   |                   | (Appendix M.1.1)  |
-+-------+-------------------+-------------------+-------------------+
 
 
 
@@ -362,19 +245,130 @@ Others in the group did not experiment in this way and used more direct help or 
 - smaller - implementing or changing code constructs to enact or change GDPs -->
 
 
-## Exploring the evolution of learning design via description of tensions in activity in each phase
 
-As outlined in the table above I carried out four stages of workshops and development with home educator families. I will outline decisions behind the design activities at key stage of activity  
 
-AND INCLUDE TENSIONS IN EACH STAGE.
-NOTE - this section contributes to an evolving table
-**Matrix of 3M Game Making Model - Pedagogical Features explored through Tensions and Resolutions**
+## Summary of design evolution
 
-INCLUDE TABLE AS SEPARATE ATTACHMENT IT IS ONLINE HERE
-https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+<!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 
-<!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
-https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
+see updated table in tables subdirectory  
+
+-->
+
+The following table is provided to give the reader an overview of the stages and a link to examples of resources in the appendices and links to online examples. The following sections describe the use of varied tools and processes in greater detail to explore the rationale for the creation and selection of these tools.
+
+<!-- Table from
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
+NEED TO SIMPLIFY TABLE - MAKE IN ATOM
+
++-------+-------------------+-------------------+-------------------+
+| Phase | Name and Date     | Description       | Resources Used    |
++-------+-------------------+-------------------+-------------------+
+| 1     | Oct 2017 - Mar    | Participants      | Phaser 2.6.2      |
+|       | 2018              | started with a    | javascript        |
+|       |                   | blank canvas and  | library           |
+|       | Experimental      | plan and make a   |                   |
+|       | Course            | game in two       | Thimble code      |
+|       |                   | larger groups of  | playground.       |
+|       |                   | 5-6 participants  |                   |
+|       |                   | of mixed ages. A  |                   |
+|       |                   | minimal           | Online graphics   |
+|       |                   | incomplete        | editor            |
+|       |                   | starting game     | Piskel.           |
+|       |                   | code template was |                   |
+|       |                   | introduced to     |                   |
+|       |                   | support students  | Code recognition  |
+|       |                   | after the course  | activity.         |
+|       |                   | has started.      |                   |
+|       |                   |                   |                   |
+|       |                   |                   | An incomplete     |
+|       |                   |                   | game code         |
+|       |                   |                   | template          |
+|       |                   |                   |                   |
+|       |                   |                   |                   |
+|       |                   |                   | Various audio     |
+|       |                   |                   | creation tools    |
+|       |                   |                   | (Appendix R.5.x)  |
++-------+-------------------+-------------------+-------------------+
+| 2     | May 2018 - Dec    | One-off workshops | Phaser 2.6.2      |
+|       | 2018\             | at Mozilla and    | javascript        |
+|       | \                 | Feral Vector      | library (Appendix |
+|       | Resource          | conferences and   | R.1)              |
+|       | Development Stage | to PGCE computer  |                   |
+|       |                   | students helped   | Glitch code       |
+|       |                   | focus and the     | playground        |
+|       |                   | creation of a     | (Appendix R.2.1)  |
+|       |                   | "half baked" game |                   |
+|       |                   | template and      | Print out of      |
+|       |                   | supporting online | cards with simple |
+|       |                   | and printable     | coding missions   |
+|       |                   | resources.        | (Appendix R.5.1)  |
+|       |                   |                   |                   |
+|       |                   |                   | Revised           |
+|       |                   |                   | incomplete game   |
+|       |                   |                   | template          |
+|       |                   |                   | (Appendix R.4.2)  |
++-------+-------------------+-------------------+-------------------+
+| 3     | Jan - Feb 2019    | First iteration   | Phaser 2.6.2      |
+|       |                   | of game making    | javascript        |
+|       | Glitch Game Club  | course of 5-6     | library (Appendix |
+|       |                   | weeks. The        | R.1.1)\           |
+|       |                   | template and      | Glitch code       |
+|       |                   | resources created | playground        |
+|       |                   | in the previous   | (Appendix R.2.1)\ |
+|       |                   | stage were used   | Online graphics   |
+|       |                   | as a starting     | editor            |
+|       |                   | point but         | Piskel.(Appendix  |
+|       |                   | continued to      | R.3.1)            |
+|       |                   | evolve..          |                   |
+|       |                   |                   | Updated           |
+|       |                   |                   | incomplete game   |
+|       |                   |                   | template          |
+|       |                   |                   | (Appendix R.4.3)  |
+|       |                   |                   |                   |
+|       |                   |                   | Supporting        |
+|       |                   |                   | tutorials and     |
+|       |                   |                   | code examples\    |
+|       |                   |                   | (Appendix D.2.x)  |
++-------+-------------------+-------------------+-------------------+
+| 4     | May 2019          | Second iteration  | As per phase 3    |
+|       |                   | of game making    | and in addition:\ |
+|       | Glitch Game Club  | course of 4 weeks | Drama scenario    |
+|       |                   | using Phaser.js,  | (Appendix E.1.1)\ |
+|       |                   |                   | Interactive chat  |
+|       |                   |                   | page in glitch    |
+|       |                   |                   | (Appendix E.1.2)  |
++-------+-------------------+-------------------+-------------------+
+| 5     | Jan 2020 -        | Two iterations of | Make Code Arcade  |
+|       | September 2020    | game making       | (MCA) tool        |
+|       |                   | course of 5-6     | (Appendix         |
+|       | Make Code Arcade  | weeks using       | RM.1.1)\          |
+|       |                   | MakeCode Arcade   | MCA Template      |
+|       |                   | tool.             | starting          |
+|       |                   |                   | game(Appendix     |
+|       |                   | \                 | RM.1.2)           |
+|       |                   | \                 |                   |
+|       |                   |                   | MCA quick start   |
+|       |                   |                   | cards.(Appendix   |
+|       |                   |                   | RM.1.3)           |
+|       |                   |                   |                   |
+|       |                   |                   | MCA game pattern  |
+|       |                   |                   | menu (Appendix    |
+|       |                   |                   | RM.1.3)           |
+|       |                   |                   |                   |
+|       |                   |                   | MCA game pattern  |
+|       |                   |                   | tutorials         |
+|       |                   |                   | (Appendix RM.1.3) |
+|       |                   |                   |                   |
+|       |                   |                   | Learning          |
+|       |                   |                   | Dimensions Map    |
+|       |                   |                   | (Appendix M.1.1)  |
++-------+-------------------+-------------------+-------------------+
+
+
+### Commentary on evolution of design by Phase
+
+
 
 ### Phase one - an exploratory series of  game making sessions
 
@@ -398,6 +392,103 @@ Some of methods emerged from the start including;
 - play testing of other games as a fun and productive activity (DEVELOP?)
 - the use of drama / warm up games - a normal part of my project based learning approach with adults designed
 - a final public showcase - At the end of this stage participants showed their games to students in the foyer of the MMU Brooks building and gave me feedback on their participation in the programme.
+
+
+
+### Phase Two
+
+THIS SECTION NEEDS A LOT OF WORK - ADDRESSING DUPLICATION WITH THE ABOVE AND INTEGRATING ANALYSIS
+
+**Transition to Phase 2 due to feedback**
+
+Key extracts from participant feedback follow.
+
+- Feedback from one family that dropped out as production changed from planning and asset design to implementation in code. The felt alienated by the "hardcore coding" that was happening around them.
+- There was a general consensus that the process was too long general consensus
+- more or work out right format
+
+
+Phase two presented key challenges. The first was to try to present the essence of my evolving learning design of phaser and a code playground to  PGCE students in a smaller time scale. And in the process of preparing a 90 minute workshop for the Mozilla conference
+
+With guidance, PGCE students created printable resources that highlighted particular key lines of code and variables that had a high impact on the game experiences. These include changing gravity, altering the player speed, background colour of the game and the game layout of the platforms, hazards and food to collect.
+
+This approach was more prescriptive than I would have adopted, however it worked well. I then made a connection between
+
+<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
+https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
+ -->
+
+#### The half-baked starting platformer game
+
+The use and design characteristics of the starting point of a half-baked game
+
+- Phaser 2 to avoid complexity of code structure
+- 2D platformer - familiar to most - Mario and Sonic
+- low-spec graphics
+- game of player, platforms, and coins to collect and hazards to avoid.
+- graphical level design
+- key variables brought to the top
+- simple structure of code in terms of aligning with framework and not adding extra functions
+
+
+#### Phase Three
+
+The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme.
+
+The key addition built on the quick cards of the previous phase, that being to preprepare code examples illustrating key game features requested by participants.
+
+In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Some most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned other fundamental aspects concerning game space including: size of game world,
+
+Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
+
+We can describe these features as game design patterns. Driv(Appendix R.4.1)en by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+
+
+
+
+#### Phase Four
+
+<!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
+
+This iteration was very similar in terms of tool use to the previous phase with one small change. I revised the an online project-hub to link to the project chapters rather than the code examples.
+
+In addition, I drew on some previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens. This element of the learning design was designed to increase engagement of young people, to scaffold meta-reflection processes, and to allow parents to explore digital issues.
+
+These aspects inform the first half of the next chapter which addresses the process of creating an inclusive creative coding environment.
+
+
+
+**Learners may feel alienated from coding as a practice and need a way into the process.**
+Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role.
+
+
+<!-- there's a limit here as the drama scenario is done on people already engaged
+so there's a problem in getting any data from this
+however the rationale is intact and  -->
+
+#### Phase Five
+
+I ran two iterations of game making course of 4-5 weeks using MakeCode Arcade tool. MakeCode Arcade uses block language system similar to that of Scratch, inheriting those advatages (list here or previous) FIND SOURCE - HOW TO BEST REFER BACK TO LIT REVIEW?
+
+The template, resources and facilitation approach was based closely on the previous stages but adapted to use screenshots of the block code of the MakeCode Arcade tool.
+
+
+
+
+
+### Commentary on tensions emerging - IDEALLY FIND SOME KIND OF GROUPING - CURRENLY BY PHASE ONLY
+
+<!-- As outlined in the table above I carried out four stages of workshops and development with home educator families. I will outline decisions behind the design activities at key stage of activity   -->
+
+**All Tensions explored in design chapter**
+ an evolving table here
+
+**3M Matrix tensions ONLINE HERE**
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit
+Matrix of 3M Game Making Model - Pedagogical Features explored through Tensions and Resolutions
+<!-- 3 foci and 3M element compared - save for the conclusion/ discussion?
+https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60 -->
+
 
 <!-- NOTE - DEVELOP THIS ASPECT OF INCLUSIVE ENVIRONMENT TO REDUCE STRESS - MOVE FROM NEXT CHAPTER?  -->
 
@@ -485,43 +576,6 @@ Also - the diversity of creations available on a online commmunity  could remove
 
 
 
-### Phase Two
-
-THIS SECTION NEEDS A LOT OF WORK - ADDRESSING DUPLICATION WITH THE ABOVE AND INTEGRATING ANALYSIS
-
-**Transition to Phase 2 due to feedback**
-
-Key extracts from participant feedback follow.
-
-- Feedback from one family that dropped out as production changed from planning and asset design to implementation in code. The felt alienated by the "hardcore coding" that was happening around them.
-- There was a general consensus that the process was too long general consensus
-- more or work out right format
-
-
-Phase two presented key challenges. The first was to try to present the essence of my evolving learning design of phaser and a code playground to  PGCE students in a smaller time scale. And in the process of preparing a 90 minute workshop for the Mozilla conference
-
-With guidance, PGCE students created printable resources that highlighted particular key lines of code and variables that had a high impact on the game experiences. These include changing gravity, altering the player speed, background colour of the game and the game layout of the platforms, hazards and food to collect.
-
-This approach was more prescriptive than I would have adopted, however it worked well. I then made a connection between
-
-<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
-https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
- -->
-
-#### The half-baked starting platformer game
-
-The use and design characteristics of the starting point of a half-baked game
-
-- Phaser 2 to avoid complexity of code structure
-- 2D platformer - familiar to most - Mario and Sonic
-- low-spec graphics
-- game of player, platforms, and coins to collect and hazards to avoid.
-- graphical level design
-- key variables brought to the top
-- simple structure of code in terms of aligning with framework and not adding extra functions
-
-
-
 #### Addressing tensions and related to support materials and documentation emerging in phase two
  <!-- NOTE -
  The language used, affordances, 2nd stimulation, practices, needs clarification.
@@ -566,18 +620,6 @@ Most forms of future documentation and support were originated at this stage. Th
 
  In my journal I named this concept _meeting yourself in the middle_ to represent the possibility of retracing the process of learning from first principles.
  Narratively the equivalent of a prequel.   
-
-#### Phase Three
-
-The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme.
-
-The key addition built on the quick cards of the previous phase, that being to preprepare code examples illustrating key game features requested by participants.
-
-In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Some most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned other fundamental aspects concerning game space including: size of game world,
-
-Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
-
-We can describe these features as game design patterns. Driv(Appendix R.4.1)en by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
 #### Tensions and related to navigation of various documentations sources
 
@@ -733,33 +775,6 @@ My journal notes see an evolution of attempts to try to build into the program, 
  -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
  -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
-
-
-#### Phase Four
-
-<!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
-
-This iteration was very similar in terms of tool use to the previous phase with one small change. I revised the an online project-hub to link to the project chapters rather than the code examples.
-
-In addition, I drew on some previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give a simple external motivation and narrative to the creation of games for a fictional audience of visiting aliens. This element of the learning design was designed to increase engagement of young people, to scaffold meta-reflection processes, and to allow parents to explore digital issues.
-
-These aspects inform the first half of the next chapter which addresses the process of creating an inclusive creative coding environment.
-
-
-
-**Learners may feel alienated from coding as a practice and need a way into the process.**
-Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role.
-
-
-<!-- there's a limit here as the drama scenario is done on people already engaged
-so there's a problem in getting any data from this
-however the rationale is intact and  -->
-
-#### Phase Five
-
-I ran two iterations of game making course of 4-5 weeks using MakeCode Arcade tool. MakeCode Arcade uses block language system similar to that of Scratch, inheriting those advatages (list here or previous) FIND SOURCE - HOW TO BEST REFER BACK TO LIT REVIEW?
-
-The template, resources and facilitation approach was based closely on the previous stages but adapted to use screenshots of the block code of the MakeCode Arcade tool.
 
 
 ## Learning Dimensions Map
