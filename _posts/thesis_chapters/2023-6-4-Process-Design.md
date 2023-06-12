@@ -422,7 +422,7 @@ https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/
 
 NOTE - ALSO EXPLORED IN NEXT CHAPTER - HOW TO ARRANGE?
 
-The use and design characteristics of the starting point of a half-baked game. 
+The use and design characteristics of the starting point of a half-baked game.
 
 - Phaser 2 to avoid complexity of code structure
 - 2D platformer - familiar to most - Mario and Sonic
@@ -504,7 +504,9 @@ I ran two iterations of game making course of 4-5 weeks using MakeCode Arcade to
 
 The template, resources and facilitation approach was based closely on the previous stages but adapted to use screenshots of the block code of the MakeCode Arcade tool.
 
-Also adapted to move towards a curricula based delivery of the course.
+I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
+
+Also adapted to move towards a curricula based delivery of the course. This is explored in a later section of this chapter.
 
 
 
@@ -707,7 +709,11 @@ My journal notes see an evolution of attempts to try to build into the program, 
  -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other userse positioning and if they could give examples of that behaviour.
 
 An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
+## Addressing the Play Paradox
 
+In later chapters I explore the impact of attempts to resolve some of tensions explored above via recordings of data.
+
+For the remainer of this chapter a short description of my attempst to resolve the play paradox between learner expression and choice and the curricular contents.
 
 
 ##### Using Physical Maps of Missions as Game Design Patterns
@@ -795,7 +801,7 @@ Limit the type of game to one kind. Offer a significant but limited menu of miss
 The use of a physical map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
 
-## Learning Dimensions Map
+### Learning Dimensions Map
 
 
 
