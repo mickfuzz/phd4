@@ -9,85 +9,31 @@ categories: archive
 title: Process - Emerging Learning Designs
 ---
 
--   [Research Questions - May 2023](#research-questions---may-2023)
--   [Introduction](#introduction)
--   [Scenarios - drama processes](#scenarios---drama-processes)
-    -   [Vignette one - starting a drama
-        process](#vignette-one---starting-a-drama-process)
-    -   [Description of vignette part
-        one](#description-of-vignette-part-one)
-    -   [Vignette part two](#vignette-part-two)
-    -   [Impact of the drama process on
-        reflection](#impact-of-the-drama-process-on-reflection)
-    -   [Impact of the drama on encouraging varied design practices via
-        social and secret
-        missions](#impact-of-the-drama-on-encouraging-varied-design-practices-via-social-and-secret-missions)
-    -   [Observations on exploring documentation and accessing technical
-        help within the drama
-        frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Observations on playful chat with the alien
-        sessions](#observations-on-playful-chat-with-the-alien-sessions)
-    -   [Initial discussion of the process drama ( ending with focus on
-        authenticity of
-        tools)](#initial-discussion-of-the-process-drama-ending-with-focus-on-authenticity-of-tools)
-        -   [Drama Process Observations](#drama-process-observations)
-        -   [Discussion on Autheticity](#discussion-on-autheticity)
--   [The impact of starting tools, documentation and other
-    processes](#the-impact-of-starting-tools-documentation-and-other-processes)
-    -   [Impact of main learning design
-        tools](#impact-of-main-learning-design-tools)
-        -   [Observations on the use of code playgrounds and other
-            authoring
-            tools](#observations-on-the-use-of-code-playgrounds-and-other-authoring-tools)
-        -   [Impact of the half-baked starting
-            template](#impact-of-the-half-baked-starting-template)
-    -   [Observations of rapid
-        prototyping](#observations-of-rapid-prototyping)
-    -   [Narratives and graphics drawing on home funds of
-        knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
-    -   [Documentation via code examples and step-by-step
-        tutorials](#documentation-via-code-examples-and-step-by-step-tutorials)
-    -   [Guided Code Patching Process](#guided-code-patching-process)
--   [Emerging processes and use of
-    tools](#emerging-processes-and-use-of-tools)
-    -   [Play-testing](#play-testing)
-    -   [Alternating coding](#alternating-coding)
-    -   [Shifting between Facilitator and more active
-        partner](#shifting-between-facilitator-and-more-active-partner)
-    -   [Code roles and
-        experimentation](#code-roles-and-experimentation)
-    -   [Accessing online, professional/community
-        documentation](#accessing-online-professionalcommunity-documentation)
-    -   [Emerging tactics in accessing help from peers and
-        facilitators](#emerging-tactics-in-accessing-help-from-peers-and-facilitators)
--   [Discussion](#discussion)
-    -   [Discussion - on learner identity, anxiety and implications in
-        relation to other
-        research.](#discussion---on-learner-identity-anxiety-and-implications-in-relation-to-other-research.)
-    -   [Discussion on flexible design practices - (FLEXIBLE NOT JUST
-        EMERGENT)](#discussion-on-flexible-design-practices---flexible-not-just-emergent)
-    -   [The limits of design cycle
-        stages](#the-limits-of-design-cycle-stages)
-    -   [Encouraging a culture of emergent improvisation/agency in the
-        design
-        process.](#encouraging-a-culture-of-emergent-improvisationagency-in-the-design-process.)
-        -   [Conceptualising emergent agency in this
-            study](#conceptualising-emergent-agency-in-this-study)
-    -   [Chapter conclusion](#chapter-conclusion)
-    -   [Link section to next chapter](#link-section-to-next-chapter)
--   [Appendices of this chapter\_](#appendices-of-this-chapter_)
-    -   [Appendix 4.x - On creating narratives and game
-        Assets](#appendix-4.x---on-creating-narratives-and-game-assets)
-        -   [Appendix 4.x - Extract of interview with Mark and
-            Ed.](#appendix-4.x---extract-of-interview-with-mark-and-ed.)
-        -   [Appendix 4.x - Extract of interaction between Molly and
-            Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
+
+
+## Chapter Resources
+
+Big Questions.
+
+- If this is just two phases in the data of the thesis - why break it down so much?
+
+
+
+## Chapter Resources
+
+- Table of the phases of delivery
+- Tools used in each activity scope.
+- Table of tensions related to the community, tool use, and division of labour,
+- Data from interview participants.
 
 ## Chapter Introduction  
 
 This chapter charts the evolution of the learning design. It draws on immediate analysis of participants reactions and contributions from journal notes, participant interviews and analysis of changes in the learning resources created.
 
-The first section is a short summary of the phases of the design.
+The overall structure of this chapter is to analyse different scopes of activity in the learning design using the terminology and methodology of CHAT and design based research.
+
+- Contextual factors
+
 
 
 <!-- The design description is framed within DBR language and concepts. -->
@@ -99,11 +45,16 @@ chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
 
-### Contextual factors from practitioner perspective influencing design
+## Contextual factors from practitioner perspective influencing design in this area
 
+
+### Recap of contextual factors (also in introduction)
+
+These contextual factors are part of the Comm
 
 **Recap of context and specifics of designing for informal learning**
 
+- Teaching technology, computing, empowerment, creativity
 - design based experiments - some factors
 - informal learning - recap rogoff and similar - issues of designing for informal settings
 
@@ -135,9 +86,19 @@ It is important to address contextual factors that facilitated and shaped develo
 
 Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
 
-**Key questions / motivations in creating a new learning community**
 
-The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice. One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
+### Participant data from interviews with designers
+
+
+
+
+### Key questions / motivations in creating a new learning community
+
+NOTE -  A STUB - THIS MAY NOT WORK HERE
+
+The game making community is not authentic or mature in the practices they are undertaking, the kind of community practices which we can undertake are focused partly on building connections to existing knowledge and practice.
+
+One of my roles as designer here was to uncover and to help participants explore knowledge that they were unaware they possessed.
 
 
 
