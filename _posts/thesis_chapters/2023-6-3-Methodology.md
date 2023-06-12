@@ -702,7 +702,8 @@ Before progressing to explore the details of the design, I want to briefly explo
 
 - mutual appropriation and ethics of participation rather than extraction
 - generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
-- the difficulties of transmitting research outcomes to non-academics - give positive examples. 
+- the difficulties of transmitting research outcomes to non-academics - give positive examples.
+-
 
 
 <!-- Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.

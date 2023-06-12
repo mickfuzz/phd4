@@ -87,8 +87,19 @@ It is important to address contextual factors that facilitated and shaped develo
 Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
 
 
-### Participant data from interviews with designers
+### Practitioner data from interviews with designers / educators
 
+As previously explored in the methodology section, practitioner interviews were used to help guide the direction of
+
+
+<!-- These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.
+
+- Saskia Leggett - researcher in Family Learning program under direction of Roque. She took a leading role in creating the recourses coming out of the program.
+- Matt - academic at. Also active in a non-profit learning coding
+- Dave  - Parent and volunteer at Coder Dojo and participant in
+- James Clegg - PGCE student and volunteer student helper for a summer program of game making. -->
+
+Res
 
 
 

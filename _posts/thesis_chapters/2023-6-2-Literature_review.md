@@ -67,7 +67,9 @@ title: Literature Review
 NOTE - WHAT ABOUT STRUCTURE THIS FROM PERSONAL, SOCIAL TO THEN COMMUNITY CULTURAL LIKE KAFAI?
 
 
-- What game making pedagogies exist?
+- What pedagogical resources are available to support novices learning coding, particularly in game making contexts?
+
+  <!-- - What game making pedagogies exist? SIDELINED-->
   - Motivation of activity? [pick up from Intro]
       - From Kafai's review (not directly) draw on
       - personal
