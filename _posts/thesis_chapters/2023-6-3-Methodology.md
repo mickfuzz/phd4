@@ -655,10 +655,8 @@ Instead the community elements of the learning experience regained focus during 
  As this is done very methodically
  -->
 
-Perhaps represent this as a table.
-Not sure if the title tries to do too much.
+Table indicating where and how RQs answered
 
-Change the below to a table in these planning stages.
 https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/edit
 
 ### RQ1 - What game making pedagogies exist? -
@@ -692,6 +690,28 @@ what about focusing on agency / autonomy / self regulation for this question.
 ### Description of Phases
 
 I have carried out three stages of pilot workshops with home educator families. I will outline activities that have taken place at each stage of activity and include some early results.
+
+
+## Transition to next Chapter - About the specifics of mutual evolution of Learning DESIGN
+
+I conclude this chapter with a section that introduces the next chapter which is a rich description of the evolution of the learning design.
+
+More than a design the result was a dynamic community which is analysed on several scopes of activity.
+
+Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
+
+- mutual appropriation and ethics of participation rather than extraction
+- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
+- the difficulties of transmitting research outcomes to non-academics - give positive examples. 
+
+
+<!-- Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.
+
+Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture. -->
+
+
+
+
 
 <!-- I have carried out six phases of pilot workshops with home educator families. I will outline the core activities that have taken place including only the most basic detail on tools used. In following sections, the development of toolsets are analysed in greater depth. The core of the game making programme, which emerged in the first phase and has remained, is a starting template of a simple platform game which participants alter to make their own. The evolution of different versions and locations of this starting template has proven to be a key marker of the progress of the programme. The timeline of phases of activities is outlined in the following table.
 
