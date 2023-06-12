@@ -8,35 +8,35 @@ layout: post
 categories: chapter
 title: Process - Emerging Learning Designs
 ---
-
 -   [Chapter Introduction](#chapter-introduction)
     -   [Contextual factors from practitioner perspective influencing
         design](#contextual-factors-from-practitioner-perspective-influencing-design)
--   [Summary of design evolution](#summary-of-design-evolution)
 -   [Short vignette illustrating shifts in scope of
     activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
     -   [Commentary on Vignette - including a brief description of the
         nested levels of activity & tools
         used](#commentary-on-vignette---including-a-brief-description-of-the-nested-levels-of-activity-tools-used)
--   [Exploring the evolution of learning design via description of
-    tensions in activity in each
-    phase](#exploring-the-evolution-of-learning-design-via-description-of-tensions-in-activity-in-each-phase)
+-   [Summary of design evolution](#summary-of-design-evolution)
+-   [Commentary on evolution of design by
+    Phase](#commentary-on-evolution-of-design-by-phase)
     -   [Phase one - an exploratory series of game making
         sessions](#phase-one---an-exploratory-series-of-game-making-sessions)
-        -   [Exploring key tensions in phase
-            one](#exploring-key-tensions-in-phase-one)
     -   [Phase Two](#phase-two)
         -   [The half-baked starting platformer
             game](#the-half-baked-starting-platformer-game)
-        -   [Addressing tensions and related to support materials and
-            documentation emerging in phase
-            two](#addressing-tensions-and-related-to-support-materials-and-documentation-emerging-in-phase-two)
-        -   [Phase Three](#phase-three)
-        -   [Tensions and related to navigation of various
-            documentations
-            sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
-        -   [Phase Four](#phase-four)
-        -   [Phase Five](#phase-five)
+    -   [Phase Three](#phase-three)
+    -   [Phase Four](#phase-four)
+    -   [Phase Five](#phase-five)
+-   [Commentary on tensions emerging - IDEALLY FIND SOME KIND OF
+    GROUPING - CURRENLY BY PHASE
+    ONLY](#commentary-on-tensions-emerging---ideally-find-some-kind-of-grouping---currenly-by-phase-only)
+    -   [Exploring key tensions in phase
+        one](#exploring-key-tensions-in-phase-one)
+    -   [Addressing tensions and related to support materials and
+        documentation emerging in phase
+        two](#addressing-tensions-and-related-to-support-materials-and-documentation-emerging-in-phase-two)
+    -   [Tensions and related to navigation of various documentations
+        sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
 -   [Learning Dimensions Map](#learning-dimensions-map)
     -   [Limits to this map - MOVE?](#limits-to-this-map---move)
     -   [Including Coding Concepts in the Learning Map and including
@@ -366,7 +366,7 @@ NEED TO SIMPLIFY TABLE - MAKE IN ATOM
 +-------+-------------------+-------------------+-------------------+
 
 
-### Commentary on evolution of design by Phase
+## Commentary on evolution of design by Phase
 
 
 
@@ -431,22 +431,35 @@ The use and design characteristics of the starting point of a half-baked game
 - simple structure of code in terms of aligning with framework and not adding extra functions
 
 
-#### Phase Three
+### Phase Three
 
 The delivery of the second phase in early 2019 drew on this participant feedback and detailed reading of relevant literature to bring substantial changes to the programme.
 
-The key addition built on the quick cards of the previous phase, that being to preprepare code examples illustrating key game features requested by participants.
+The key addition built on the quick cards of the previous phase, that being to pre-prepare code examples illustrating key game features requested by participants.
 
 In phase one I worked with learners when they were creating a wish list of game features to add to their game. Some of these were aesthetic in nature to do with the graphical representation of game characters, hazards and background images. Some most accurately described as game mechanics including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned other fundamental aspects concerning game space including: size of game world,
 
-Some requests did not fit into these categories - see Schell's lenses work for a more complete taxonomy.
+I developed tutorials to support students implement these elements.
 
-We can describe these features as game design patterns. Driv(Appendix R.4.1)en by the requests of learners, I developed tutorials to support students implement these patterns. This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
+
+#### Structuring supporting resources
+
+In trying to organise and represent code examples to participants in a logical way I drew on existing frameworks of game elements.
+
+- see Schell's lenses work for a more complete taxonomy.
+- MDA framework
+- Game Jam template, goals, space, rules, mechanics, objects
+
+I was inspired by work which merged academic and professional interpretations of game elements with those used to kick start beginners in the process of hacking games in a Game Jam. This alignment suits my approach of demystifying technology.
+
+Finally I decided on the following framework
 
 
+SCAN OF THE SKETCH OF MY DIVISION
 
 
-#### Phase Four
+### Phase Four
 
 <!-- I also carried out four video-recorded interviews with practitioners who work with creative methods and technology with young people or families. Early analysis of these interviews has helped shape the evolving design of my programme and has brought into focus key areas of interest already identified in journal entries. -->
 
@@ -456,27 +469,44 @@ In addition, I drew on some previous work with the MMU Faculty of Education dram
 
 These aspects inform the first half of the next chapter which addresses the process of creating an inclusive creative coding environment.
 
-
-
+<!--
 **Learners may feel alienated from coding as a practice and need a way into the process.**
-Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role.
+Drama and fictional scenarios can help explore issues and reduce learner anxiety though coding in a role. -->
+
+
+#### Building Identities as Game Makers
+
+MAY NEED TO REWRITE - KEEP POWDER DRY HERE
+
+<!-- One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing. -->
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+ -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+ - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+ -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+ -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+
+
 
 
 <!-- there's a limit here as the drama scenario is done on people already engaged
 so there's a problem in getting any data from this
 however the rationale is intact and  -->
 
-#### Phase Five
+### Phase Five
 
 I ran two iterations of game making course of 4-5 weeks using MakeCode Arcade tool. MakeCode Arcade uses block language system similar to that of Scratch, inheriting those advatages (list here or previous) FIND SOURCE - HOW TO BEST REFER BACK TO LIT REVIEW?
 
 The template, resources and facilitation approach was based closely on the previous stages but adapted to use screenshots of the block code of the MakeCode Arcade tool.
 
+Also adapted to move towards a curricula based delivery of the course.
 
 
 
-
-### Commentary on tensions emerging - IDEALLY FIND SOME KIND OF GROUPING - CURRENLY BY PHASE ONLY
+## Commentary on tensions emerging - IDEALLY FIND SOME KIND OF GROUPING - CURRENLY BY PHASE ONLY
 
 <!-- As outlined in the table above I carried out four stages of workshops and development with home educator families. I will outline decisions behind the design activities at key stage of activity   -->
 
@@ -762,20 +792,6 @@ Limit the type of game to one kind. Offer a significant but limited menu of miss
 (Appendix R.4.1)
 The use of a physical map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
 
-##### Building Identities as Game Makers
-
-NOTE - THIS COULD WORK IN THE INTRODUCTION TO THE CHAPTER - LINK WITH PREVIOUS ONE.
-
-One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-
 
 ## Learning Dimensions Map
 
@@ -1031,7 +1047,7 @@ This process begins in this chapter with a focus on evolving design and continue
 
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
-
+<!--
 [^1]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#arrays
 [^2]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#change-listener
-[^3]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-dynamics
+[^3]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions#systems-dynamics -->
