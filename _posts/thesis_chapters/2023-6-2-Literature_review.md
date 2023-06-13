@@ -259,6 +259,16 @@ chapters/planning/lit review/game making/overview of gamemaking studies part one
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
+### Tutorials and code examples
+
+Tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
+
+Code snippets are often interwoven with text explaining the function of the code constructions.
+
+The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
+
+
+
 ### UMC, Mircroworlds and Half-Baked Games
 
 The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]
@@ -578,7 +588,7 @@ My own work with Manchester Met University drama education department explored t
 
 Livingstone
 Sefton green
-ITO and Gee 
+ITO and Gee
 
 #### Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
 
