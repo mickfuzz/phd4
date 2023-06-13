@@ -15,19 +15,22 @@
         -   [The half-baked starting platformer
             game](#the-half-baked-starting-platformer-game)
     -   [Phase Three](#phase-three)
+        -   [Structuring supporting
+            resources](#structuring-supporting-resources)
     -   [Phase Four](#phase-four)
+        -   [Building Identities as Game
+            Makers](#building-identities-as-game-makers)
     -   [Phase Five](#phase-five)
 -   [Commentary on tensions emerging - IDEALLY FIND SOME KIND OF
     GROUPING - CURRENLY BY PHASE
     ONLY](#commentary-on-tensions-emerging---ideally-find-some-kind-of-grouping---currenly-by-phase-only)
-    -   [Exploring key tensions in phase
-        one](#exploring-key-tensions-in-phase-one)
-    -   [Addressing tensions and related to support materials and
-        documentation emerging in phase
-        two](#addressing-tensions-and-related-to-support-materials-and-documentation-emerging-in-phase-two)
+    -   [Phase one Tensions](#phase-one-tensions)
+    -   [Phase two - Documentation / Support
+        Tensions](#phase-two---documentation-support-tensions)
     -   [Tensions and related to navigation of various documentations
         sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
--   [Learning Dimensions Map](#learning-dimensions-map)
+-   [Addressing the Play Paradox](#addressing-the-play-paradox)
+    -   [Learning Dimensions Map](#learning-dimensions-map)
     -   [Limits to this map - MOVE?](#limits-to-this-map---move)
     -   [Including Coding Concepts in the Learning Map and including
         Code Cards with links to online

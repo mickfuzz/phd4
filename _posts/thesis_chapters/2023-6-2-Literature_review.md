@@ -91,41 +91,13 @@ The aims of this literature review:
 
 ## Literature Review overview - structure by hand
 
-- What pedagogical resources are available to support novices learning coding, particularly in game making contexts?
-
-  <!-- - What game making pedagogies exist? SIDELINED-->
-
-- Coding pedagogies and how they align with motivations  
-  - Instruction
-  - UMC and Games
-    - Half-baked games
-  - PRIMM - bridging exploration and instruction, semantic waves
-  - Pair programming - social coding
   <!-- - Design-based & Tinkering / Exploratory - Bevan et al  -->
   <!-- - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first -->
-  - Design patterns
-- What exists to support the development of game making communities?
-  - Defining terms and exploring community-based pedagogies   
-    - informal/ formal / non-formal  - a spectrum
-    - communities of learners and practice
-    - PBL, UBL and other semi-formal interventions    
-  - Informal, participatory game making communities
-    - Game playing and making communities - community activities around the game Gee / Ito
-    - Games as funds of knowledge
-    - Inequality of access to participatory culture - ITO
-  - Examples informal community creation in practice and research
+- Examples informal community creation in practice and research
       - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
       - 5th dimension
       - Mantle of the Expert (and drama processes games)
 
-  - Tools and Concepts & Terminology  - see glossary at end
-      - Code playgrounds
-      - Game Design Patterns
-
-- Synthesis  section
-  - Paucity on research on designing for learning communities
-  - Conceptions of agency in community learning interventions
-    - relational, tas and tads (perhaps develop in methodology chapter)
 
 
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
@@ -188,10 +160,17 @@ The underlying assumption of the work here is re-examined in a stream on later w
 
  - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
 
- #### Barrier - Identity and computer cultures
+#### Barrier - Identity and computer cultures
 
 
 **Studies exploring identity and barriers to participation**
+
+
+Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
+
+
+Game making is thus a suitable medium to support existing collaborative practices and home interests to overcome difficulties in computer coding.
+
 
 Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
 REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
@@ -211,19 +190,25 @@ The issues of gender stereo-typing and identity in relation to computers were ex
 Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
 
+### Barriers - Unsuitable technical tools and support documentation
 
+The approach of computer coding languages has changed and improved. Those dedicated for new learners.
+Lgo,
 
-### Technical barriers & knowledge barriers
+Over generations of
 
- The approach of computer coding languages has changed
- Over generations of
- Extensive re
-
- Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
+Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
 
  - Block coding vs text coding, syntax
  - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
  - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
+
+### Barrier - unfamiliarity with support practices
+
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
+
+
+
 
  <!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
  High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
@@ -655,10 +640,27 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 
 We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
-## Review of relevant tensions emerging in the literature
+## Review of relevant barriers   emerging in the literature
 
 NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
 CHOOSE CAREFULLY WHERE TO PUT THE RESULTS.
+
+#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with PBL approaches and has a focus on fostering online collaboration and resources sharing.
+
+Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).
+
+However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
+
+Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.  
+
+Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
+
+
+
 
 
 **Tension of leaner choice and direction to learning objectives**

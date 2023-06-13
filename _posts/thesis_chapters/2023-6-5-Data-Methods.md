@@ -9,10 +9,10 @@ layout: post
 categories: archive
 title: Findings Seeding Game Making Communities to Facilitate Learner Agency
 ---
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
--   [Scenarios - drama processes](#scenarios---drama-processes)
+-   [Exploring the impact of a drama
+    processes](#exploring-the-impact-of-a-drama-processes)
     -   [Vignette 4.1.a - Introducing a drama
         process](#vignette-4.1.a---introducing-a-drama-process)
     -   [Description of Vignette 4.1.a](#description-of-vignette-4.1.a)
@@ -30,8 +30,8 @@ title: Findings Seeding Game Making Communities to Facilitate Learner Agency
     -   [Discussion of the process
         drama](#discussion-of-the-process-drama)
         -   [Discussion on Authenticity](#discussion-on-authenticity)
--   [The impact of starting tools and
-    processes](#the-impact-of-starting-tools-and-processes)
+-   [The impact of the core tools of code playgrounds and templated
+    game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
         tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
     -   [Impact of the half-baked starting
@@ -39,21 +39,34 @@ title: Findings Seeding Game Making Communities to Facilitate Learner Agency
         -   [Observations on design behaviours encouraged through use of
             game
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
-    -   [Narratives and graphics drawing on home funds of
-        knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
+-   [Narratives and graphics drawing on home funds of
+    knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Playtesting](#playtesting)
-    -   [Observations on emerging divisions of
-        labour](#observations-on-emerging-divisions-of-labour)
+    -   [Emerging divisions of labour](#emerging-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
 -   [Discussion](#discussion)
     -   [Conceptualising emergent agency in this
         study](#conceptualising-emergent-agency-in-this-study)
-    -   [Discussion on designing for emergent
-        practices](#discussion-on-designing-for-emergent-practices)
+        -   [Conceptualising emergent practices and
+            agency](#conceptualising-emergent-practices-and-agency)
+        -   [On double stimulation and
+            agency](#on-double-stimulation-and-agency)
+        -   [On affordances and anchors](#on-affordances-and-anchors)
+    -   [Observations and discussion of emergent participant
+        agency](#observations-and-discussion-of-emergent-participant-agency)
+        -   [In use of documentation](#in-use-of-documentation)
+        -   [In drama processes](#in-drama-processes)
+    -   [Discussion on designing for emergent practices and
+        agency](#discussion-on-designing-for-emergent-practices-and-agency)
+        -   [Chaotic design practices rather than planned design
+            stages](#chaotic-design-practices-rather-than-planned-design-stages)
+        -   [Valuing side effects of digital laundry and faff
+            time\*\*](#valuing-side-effects-of-digital-laundry-and-faff-time)
+        -   [Supporting Digital Jamming](#supporting-digital-jamming)
         -   [Initial discussion on designing for emergent
             practices](#initial-discussion-on-designing-for-emergent-practices)
     -   [Evolving writing on how the above answer
@@ -351,8 +364,9 @@ In addition to the stated feedback activity the live chat served wider purposes 
 
 For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
-**Summary:** The process supports
-- addressing tension of feeling alienated from coding cultures, by bringing playful elements 
+**Summary:** The process supports:
+- addressing tension of feeling alienated from coding cultures, by bringing playful dialogue elements into the code authoring environment
+- this conversational process emerged from a chance interaction - thus nurting learner agency  
 
 <!-- NOTES
 - identity of playfulness  
@@ -410,6 +424,9 @@ https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
 <!-- WHERE AND HOW TO LINK DISCUSSION?
 - link to side missions of adventure games - zelda - perhaps find motivation there too. -->
+
+**Summary:** The process supports:
+- addressing tension of identity clashes by recognising and encouraging diverse making approaches and styles of community partipation
 
 
 ### Discussion of the process drama
@@ -479,6 +496,11 @@ The use of code playgrounds merits discussion in the way the tool itself is posi
 <!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
 
 <!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
+
+
+PERHAPS DROP THIS ASPECT OR MOVE TO DISCUSSION
+As explored above, Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   Research on project based learning supports the motivational factors of authentic tools. In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology. This motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+
 
 This element of the drama process emerged as part of work to support different learner identities outlined in the previous chapter research underpins the importance of allowing varied approaches to counter perceptions of computing and coding culture as alien. The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design.
 
@@ -564,11 +586,15 @@ In the data analysed, young people -->
 <!-- Tensions compared to other more walled garden approaches - see below in tensions / move to make code. -->
 
 
-## The impact of starting tools and processes
+## The impact of the core tools of code playgrounds and templated game
+
+NOTE - THIS IS VERY DESCRIPTIVE - SHOULD SOME OF THIS BE MOVED TO THE DESIGN CHAPTER?
 
 <!-- The choice of the starting toolset and mission shapes the balance and profile of initial community activity. -->
+As explored in the literature review, the concept of a Microworld which embodies target concepts has extensive supporting and descriptive research.
 
-As explored above, Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   Research on project based learning supports the motivational factors of authentic tools. In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology. This motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+This section outlines the characteristics of a game microworld which served as a base for learner's creations during the phase studies here.
+
 
 ### Observations on the use of code playgrounds and development tools
 
@@ -685,7 +711,7 @@ In the emerging community there was a variety of help available including;
 
 
 
-### Narratives and graphics drawing on home funds of knowledge
+## Narratives and graphics drawing on home funds of knowledge
 
 The literature review explored existing research on how the use of home interests and funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio effects or written messages were also possible.
 
@@ -1005,7 +1031,7 @@ An additional rationale for this process was to help reduce potential internal b
 <!-- NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
 This section explores what other shifts in design practices -->
 
-### Observations on emerging divisions of labour
+### Emerging divisions of labour
 
 NOTE THIS SECTION DESCRIBES EMERGING PATTERNS OF BEHAVIOUR - BUT IT IS NOT CLEAR IF IT ANWSERS THE RESEARCH QUESTIONS DIRECTLY.
 ALSO DUPLICATION WITH NEXT CHAPTER - SO REFACTOR
@@ -1180,13 +1206,20 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
 
 Deepening from observation, evidence to synthesis in relation to other research. Designing for agentic tool and process use invites discussion of active possibilities of the design.
 
-#### Conceptualising emergent agency in this study
+### Conceptualising emergent agency in this study
 
 I'VE MOVED THIS TO THIS CHAPTER TO BEGIN DISCUSSION FRAMED AROUND THESE CONCEPTS. I'VE ADDED SOME MORE READINGS ON DOUBLE STIMULATION BUT I STILL NEED TO DO MORE INTEPRETATION OF THE DATA THOUGH THIS LENS.  
   <!-- - aka - embodied agency of the design - as per non human methodologies. -->
 
 
-**On double stimulation and agency**
+#### Conceptualising emergent practices and agency
+
+Cultural mediation via artefacts [cole], as a base.
+Look for tensions in ATs - and how learners overcome barriers or blockages.
+
+
+
+#### On double stimulation and agency
 
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
@@ -1194,7 +1227,9 @@ Double stimulation refers to the use of tools and processes to overcome such con
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
-**On affordances and anchors**
+
+
+#### On affordances and anchors
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
 
@@ -1220,16 +1255,27 @@ But at the cost of maintaining a working game. -->
 
 
 
+### Observations and discussion of emergent participant agency
+
+This section directly addresses RQ2 on agency
+
+#### In use of documentation
+
+Perhaps a suitable space here?
+
+
+#### In drama processes
+
+As previously explored, in the
+
+
+
 ### Discussion on designing for emergent practices and agency
 
 This section looks as some of the emerging patterns of design practice of participants.
 
 NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
 
-
-#### Conceptualising emergent practices and agency
-
-Cultural mediation via artefacts [cole]
 
 
 #### Chaotic design practices rather than planned design stages
@@ -1341,7 +1387,7 @@ This chimes with existing research:
 
 - the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
 - deeper into Heathcote
-- something about authenticity of audience, and resulting time constriction creating the right kind of pressure / motivation. Game Jams/ Hackathons
+- something about authenticity of audience, and resulting time constriction creating the right Onekind of pressure / motivation. Game Jams/ Hackathons
 
 These can be synthesised using TADS metaphor and enriching it with a greater focus on the specificity of what makes the anchor points catchy. Thus developing the metaphor in include the importance of affordences which can be responsively designed into the learning environment. -->
 
@@ -1354,9 +1400,9 @@ These can be synthesised using TADS metaphor and enriching it with a greater foc
 See here for table
 https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/edit#
 
-### Link section to next chapter
+### Link to next chapter - Agency within Microworld design
 
-TO DEVELOP
+A of the key elements of engagement and affordances providing agency was
 
 <!-- This chapter was organised in part around starting processes and practices and tool use which  emerged from this starting point. This distinction is fluid as some tools and processes which emerged in community practice, prove to be successful and which are then adopted as a suggested process for the next iteration of the design.
 

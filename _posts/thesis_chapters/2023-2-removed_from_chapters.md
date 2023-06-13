@@ -91,3 +91,39 @@ In the data analysed, young people
 Note the limits of this interpretation.
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
 A tension here to be briefly explored or noted to explore later.
+
+
+
+### Discussion - types of blockages / error s
+
+<!-- ### On different kinds of snags / blockages
+
+PERHAPS MOVE BACK TO THE GDP CHAPTER IF SPACE?
+
+#### On Debugging and Embracing Different Types of Errors
+
+In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
+
+Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error. I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+
+For example,  on into the detail and types or errors.  These include:
+
+ -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+ -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+ -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+ -->
+
+<!-- #### Examples of Glitch types of errors
+
+Short examples of different types and the affect implications.
+
+Glitch errors can be productive.
+
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in**
+
+- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
