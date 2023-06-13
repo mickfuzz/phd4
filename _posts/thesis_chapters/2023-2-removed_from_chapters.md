@@ -96,34 +96,50 @@ A tension here to be briefly explored or noted to explore later.
 
 ### Discussion - types of blockages / error s
 
-<!-- ### On different kinds of snags / blockages
+#### Discussion on nurturing tactical responses to blocks
 
-PERHAPS MOVE BACK TO THE GDP CHAPTER IF SPACE?
+ How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
 
-#### On Debugging and Embracing Different Types of Errors
+ Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
 
-In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
+ More research would be welcome on how to help learners pick up these understandings.
+ Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
-Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error. I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+ Question - do more useful / less de-motivating errors result from remixing and game patching?
 
-For example,  on into the detail and types or errors.  These include:
+ Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
 
- -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
- -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
- -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
- -->
 
-<!-- #### Examples of Glitch types of errors
+ Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
-Short examples of different types and the affect implications.
+ <!-- ### On different kinds of snags / blockages
 
-Glitch errors can be productive.
+ PERHAPS MOVE BACK TO THE GDP CHAPTER IF SPACE?
 
-**Productive in exploring code / creating new game opportunites**
-An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+ #### On Debugging and Embracing Different Types of Errors
 
-**Productive in in**
+ In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
 
-- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+ Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error. I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
 
- The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
+ For example,  on into the detail and types or errors.  These include:
+
+  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+  -->
+
+ <!-- #### Examples of Glitch types of errors
+
+ Short examples of different types and the affect implications.
+
+ Glitch errors can be productive.
+
+ **Productive in exploring code / creating new game opportunites**
+ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+ **Productive in in**
+
+ - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->

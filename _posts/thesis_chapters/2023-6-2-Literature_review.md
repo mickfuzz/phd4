@@ -555,9 +555,16 @@ Game making allows children to draw on funds of knowledge in various ways, perha
 - What potential does that give to family game making?
 
 
-## Relevant case studies in context -  Family Making, Ito / Gee etc
+## Relevant case studies in face-to-face context -  Family Making, Ito / Gee etc
 
 Outline case studies of similar work and identify gaps.
+
+Gap in particular exploring support for face-to-face informal communities.
+
+### Participatory Design
+
+Ideally, find a key study to bring in. 
+
 
 ### Family Making - WHAT IN PARTICULAR TO EXPLORE ?
 
@@ -566,6 +573,8 @@ I extend this in this study, how can the learning design contribute?
 
 
 It is of value to explore the community aspect...
+
+In particular st
 
 ###  Game playing and making communities - community activities around the game Gee / Ito
 

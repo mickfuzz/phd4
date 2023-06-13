@@ -30,7 +30,7 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
     - CHAT
     - Use of 3 planes of foci from Rogoff
   - Design based intervention / research
-    - Importance of participant agency
+    - Importance of participant agency (cf Participatory Design )
   - Conceptions of Agency & implications for design / analysis from DBR and CHAT
   - DBR, AT & Agency in a digital learning context ()
       - Methods

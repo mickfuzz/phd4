@@ -1087,12 +1087,6 @@ in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a vari
 Other pairs and individuals had other tactics.
 Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
 
-
-
-
-
-
-
 <!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
 
 <!-- ### On different kinds of snags / blockages
@@ -1127,25 +1121,6 @@ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new 
 
  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
 
-<!-- #### Discussion on nurturing tactical responses to blocks
-
-How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
-
-Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
-
-More research would be welcome on how to help learners pick up these understandings.
-Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
-
-Question - do more useful / less de-motivating errors result from remixing and game patching?
-
-Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
-
-
-Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does. -->
-
-
-
-
 <!--
 SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
 <!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
@@ -1153,9 +1128,6 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
 <!-- Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices. -->
 
  <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
-
-
-
 
 <!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
 
@@ -1225,18 +1197,11 @@ Thus it is of potential value to learn to value the potential of these liminal m
 
 ## Conceptualising emergent agency in this study
 
-DOES THIS NEED MOVING?.
-
-
-
-#### Conceptualising emergent practices and agency
+DOES THIS NEED MOVING?. PERHAPS TO METHODOLOGY
+THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CHAPTER.
 
 Cultural mediation via artefacts [cole], as a base.
-
 Look for tensions in ATs - and how learners overcome barriers or blockages.
-
-
-
 
 #### On double stimulation and agency
 
@@ -1245,8 +1210,6 @@ Conflicts and tensions between participant motives and different parts of activi
 Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
-
-
 
 #### On affordances and anchors
 <!-- NOTE
@@ -1272,43 +1235,38 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
-
-
 ## Discussion on designing for emergent practices and agency
 
+### purpose of this section
 
-### Initial discussion on designing for emergent practices
+This section is structured as designing for to :
+- Explore observations in line with conceptions of agency and other studies
+- Identify material that could help researchers / practitioners replicate practice & understandings
+- Beginning of recommendations
 
+NOTE THIS SHOULD BE IN LIT REVIEW
 
-Explain why this section is structured as designing for
+Face to face coding communities, especially with families have a large range of behaviours and potential. As explored previously the literature on design for face-to-face communities which encourages community members  to develop their own practices is sparse.
 
-Face to face coding communities, especially with families have a large range of behaviours and potential.
-
-As explored previously the literature on design for face to face communities is sparce.
-
-While present in fields of participatory digitaal design
-Even more sparce is help on designing to allow the community of game makers to develop their own practices.
-
-I share a synthesis of my findings here.
+I share a synthesis of my findings in the sections below in
 
 NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
 
-
+NOTE - PUT THE BELOW IN TO FOLLOWING CATEGORIES.
 In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
- A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
+A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
+
 Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
 
-
-
-This section looks as some of the emerging patterns of design practice of participants.
 
 NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
 
 
-### In use of documentation
+### Participants developing agency in their  use of documentation
 
 Perhaps a suitable space here?
+
 
 
 ### "Authentish" - goals in drama and project-based processes and related scenarios
