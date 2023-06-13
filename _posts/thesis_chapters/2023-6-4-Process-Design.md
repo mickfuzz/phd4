@@ -524,7 +524,8 @@ https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/
 <!-- NOTE - DEVELOP THIS ASPECT OF INCLUSIVE ENVIRONMENT TO REDUCE STRESS - MOVE FROM NEXT CHAPTER?  -->
 
 
-#### Exploring key tensions in phase one
+#### Phase one Tensions
+
 
 **Learner disengagement if game coding is taught in an instructionist / from first principles (especially in younger ages)**
 In my journal notes, I reflect on the difficulty of interupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
@@ -543,6 +544,7 @@ I was struck that his incident happened during a session where I had not played 
 **Encouraging peer learning vs social restrictions**
 The same family also gave useful feedback about social norms of not bothering people getting in the way of asking for help.
 
+
 <!-- NOTE See this source
 https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
  -->
@@ -553,7 +555,7 @@ The process of parents getting in the way of children's not minding jumping in a
 **Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
 Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
 
-**Code playground provides immediate feedback**. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
+**Barrier - Learners may struggle to know if their code is valid and may**. Code playground provides immediate feedback. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 **Authenticity of coding environment**.  
@@ -607,7 +609,7 @@ Also - the diversity of creations available on a online commmunity  could remove
 
 
 
-#### Addressing tensions and related to support materials and documentation emerging in phase two
+#### Phase two - Documentation / Support Tensions
  <!-- NOTE -
  The language used, affordances, 2nd stimulation, practices, needs clarification.
   -->
@@ -617,8 +619,6 @@ Most forms of future documentation and support were originated at this stage. Th
  <!-- NOTE - I am not totally sure it is necessary. Could it be collapsed or presented in another part of this chapter.
  NOTE - Try to summarise exactly what the message is here.  
  NOTE - how can this be more analytical.  -->
-
-
 
 
  **Use of simple code examples which demonstrate the pattern in isolation**

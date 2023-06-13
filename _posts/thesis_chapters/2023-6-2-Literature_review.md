@@ -275,13 +275,29 @@ Kynigos and Yiannoutsou identify a progression in the type of CT skills being us
 
 
 
-### PRIMM  & Semantic waves
+### PRIMM
 
 FIND MATERIAL IN OTHER BOOK CHAPTERS
 
-Primm based on UMC but developed to highligh abstract concepts and processes via a predict stage.
+**PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This model helps learners adopt coding practices and computational concepts through providing a concrete code example that they run after predicting what it does. Learners make changes to the existing code before finally creating code from scratch. PRIMM's starting point is students predicting existing code results. Asking students to identify target computing concepts in code examples allows teachers to guide students towards key computational thinking process or algorithmic details. Thus, PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class of learners to unpack and repack the same set of concepts in a restricted time scale. This process that supports formal problem solving, paper-based questions of the GCSE exams. The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. For a more detailed summary of the PRIMM approach the Quick Read pedagogy article.[^5]
 
-Semantic Waves
+
+Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
+
+### Semantic Profiles and Waves
+
+Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
+
+Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
+
+<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
+
+![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+<Figure3.1.png>
+Figure 3.1 A Semantic Profile with Semantic Waves
+
+Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
+
 
 
 ### Computational Thinking & Patterns
@@ -293,6 +309,12 @@ It is the familiarity and understandability which which drew the SCG researchers
 
 ![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm
 
+### Pair programming - social coding
+
+**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
+
+
+See Robertson
 
 ### Project based learning PBL
 
