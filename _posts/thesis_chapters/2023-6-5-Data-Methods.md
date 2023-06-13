@@ -1402,7 +1402,13 @@ https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/
 
 ### Link to next chapter - Agency within Microworld design
 
-A of the key elements of engagement and affordances providing agency was
+A of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
+
+While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time. The next stage was to imagine game elements to add to the design in the form of GDPs.
+
+The next chapter explores the use of GDPs by participants in detail using varied data. 
+
+
 
 <!-- This chapter was organised in part around starting processes and practices and tool use which  emerged from this starting point. This distinction is fluid as some tools and processes which emerged in community practice, prove to be successful and which are then adopted as a suggested process for the next iteration of the design.
 
