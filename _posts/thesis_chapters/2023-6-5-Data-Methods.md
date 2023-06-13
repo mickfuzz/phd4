@@ -1202,20 +1202,39 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
 
  The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
-## Discussion
+### Valuing "non-productive" activity: faff-time and digital laundry
 
-Deepening from observation, evidence to synthesis in relation to other research. Designing for agentic tool and process use invites discussion of active possibilities of the design.
+Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
-### Conceptualising emergent agency in this study
+ <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+ <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
 
-I'VE MOVED THIS TO THIS CHAPTER TO BEGIN DISCUSSION FRAMED AROUND THESE CONCEPTS. I'VE ADDED SOME MORE READINGS ON DOUBLE STIMULATION BUT I STILL NEED TO DO MORE INTEPRETATION OF THE DATA THOUGH THIS LENS.  
-  <!-- - aka - embodied agency of the design - as per non human methodologies. -->
+
+Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared.
+
+In retrospect, many of the social and secret missions encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+I observed that navigating these essential but non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
+
+   Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+   Parent peer laughs
+   Nadine bounces up in place and smiles broadly.
+
+Thus it is of potential value to learn to value the potential of these liminal moments between design spaces for participants and facilitators alike.
+
+
+## Conceptualising emergent agency in this study
+
+DOES THIS NEED MOVING?.
+
 
 
 #### Conceptualising emergent practices and agency
 
 Cultural mediation via artefacts [cole], as a base.
+
 Look for tensions in ATs - and how learners overcome barriers or blockages.
+
 
 
 
@@ -1255,61 +1274,95 @@ But at the cost of maintaining a working game. -->
 
 
 
-### Observations and discussion of emergent participant agency
-
-This section directly addresses RQ2 on agency
-
-#### In use of documentation
-
-Perhaps a suitable space here?
+## Discussion on designing for emergent practices and agency
 
 
-#### In drama processes
-
-As previously explored, in the
+### Initial discussion on designing for emergent practices
 
 
+Explain why this section is structured as designing for
 
-### Discussion on designing for emergent practices and agency
+Face to face coding communities, especially with families have a large range of behaviours and potential.
+
+As explored previously the literature on design for face to face communities is sparce.
+
+While present in fields of participatory digitaal design
+Even more sparce is help on designing to allow the community of game makers to develop their own practices.
+
+I share a synthesis of my findings here.
+
+NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
+
+
+In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+ A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
+Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
+
+
 
 This section looks as some of the emerging patterns of design practice of participants.
 
 NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
 
 
+### In use of documentation
 
-#### Chaotic design practices rather than planned design stages
+Perhaps a suitable space here?
 
-One side effect of coding by design cycle stage was to expose the limits of even an iterative cycle interpretation of the design process of these participants.
-When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. One causes of this was the use of a templated game which contained and which invited testing and sharing with after only quick changes. Also, I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
 
-While design at school is sometimes taught using perspective stages approaches, other less formulaic theoretical perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
+### "Authentish" - goals in drama and project-based processes and related scenarios
 
+The concept of an near-authentic project goal is a key tool for edcuators to support game making
+
+Making for peers has value but can be amplified and scoped using a fictional or controlled extenal audience.
+
+In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful as it aligns with x, y and z.
+
+
+### Supporting flexible design practices
+
+
+<!-- NOTE - discuss the value of design stages? from PBL chapter -
+It would be vital to include this in Lit Review
+-->
+
+When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding.
+
+When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel.
+
+<!-- One side effect of coding by design cycle stage was to expose the limits of even an iterative cycle interpretation of the design process of these participants. -->
+
+I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
+
+Another cause for a less stuctured was the use of a templated game which contained and which invited testing and sharing with after only quick changes.
+
+
+I propose designing for more chaotic practices can increase agency as it reduces a feeling of prescription that may reduce a feeling of agency.
+
+
+While there is limited data as this was not a subject for participant interviews, and there is no comparative data here, this is an area that merits further investigation. There are parallels in existing research.
+
+While computer design stages taught using perspective stages approaches [Waterfall etc], there has been a more recent move towards agile, iterative approaches which allow for more flexible and responsive working processes.
+
+Other more chaotic perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
+
+In other areas of creative processes the concept of jamming is potentially useful as a grounding.
+
+#### Supporting Digital Jamming
+
+
+The concept of Jam is explored in the literature review via accelerated events encouraging collaboration and innovation called Game Jams. In many interactions I observed improvisational approaches which incorporated the Imagine, Plan then Create then Revise stages  in the space of a minute. The tools, process and the community mutually encourage a jam / improvisational approach.
+
+In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
+
+Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
+
+To jam also implies a responsive, rapid and fluid responses to audience and collaborators ideas. Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers.
+Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 
-#### Valuing side effects of digital laundry and faff time**
-
-
-Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span.
-
-Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
-
-<!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
-<!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
-
-
-As previously discussed, skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared.
-
-In retrospect, many of the social and secret missions encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
-
-I observed that navigating these essential but non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
-
-    Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-    Parent peer laughs
-    Nadine bounces up in place and smiles broadly.
-
-Thus it is of potential value to learn to value the potential of these liminal moments between design spaces for participants and facilitators alike.
 
 <!--
 **Improving is Creating and Planning when remixing**
@@ -1328,38 +1381,6 @@ A bullet point summary follows
 - helpers circulating (2019-03-18-te for example )-  playtesting as a community activity and feedback.
 - getting help from all sources possible -->
 
-#### Supporting Digital Jamming
-
-NOTE Perhaps move to next section - designing for
-
-<!-- Pumping up the Jam - -->
-
-The concept of Jam is explored in the literature review via accelerated events encouraging collaboration and innovation called Game Jams. In many interactions I observed improvisational approaches which incorporated the Imagine, Plan then Create then Revise stages  in the space of a minute. The tools, process and the community mutually encourage a jam / improvisational approach.
-
-In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-
-Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
-
-To jam also implies a responsive, rapid and fluid responses to audience and collaborators ideas. Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers.
-Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
-
-#### Initial discussion on designing for emergent practices
-
-NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
-
-Face to face coding communities, especially with families have a large range of behaviours and potential.
-
-As explored previously the literature on design for face to face communities is sparce.
-
-While present in fields of participatory digitaal design
-Even more sparce is help on designing to allow the community of game makers to develop their own practices.
-
-I share a synthesis of my findings here.
-
-In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding. A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
-Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 <!-- #### Designing to incorporate learner identity
 

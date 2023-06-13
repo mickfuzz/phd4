@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: Literature Review
 ---
-
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Literature Review overview - structure by
     hand](#literature-review-overview---structure-by-hand)
@@ -17,23 +16,30 @@ title: Literature Review
     review](#structuring-the-literature-review)
 -   [Summary of addressing barriers to
     participation](#summary-of-addressing-barriers-to-participation)
-    -   [Technical barriers & knowledge
-        barriers](#technical-barriers-knowledge-barriers)
-    -   [Cultural barriers to participation
-        in](#cultural-barriers-to-participation-in)
+    -   [Cultural / Identity barriers to participation in
+        ...](#cultural-identity-barriers-to-participation-in)
+        -   [Barrier - Identity and computer
+            cultures](#barrier---identity-and-computer-cultures)
+    -   [Barriers - Unsuitable technical tools and support
+        documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
+    -   [Barrier - unfamiliarity with support
+        practices](#barrier---unfamiliarity-with-support-practices)
+    -   [Key Game Making Tools used in this
+        study](#key-game-making-tools-used-in-this-study)
+        -   [Code Playgrounds](#code-playgrounds)
+        -   [Pixel Art Editors](#pixel-art-editors)
     -   [Conclusion to this section](#conclusion-to-this-section)
--   [Game Making Tools](#game-making-tools)
-    -   [Code Playgrounds](#code-playgrounds)
-    -   [Pixel Art Editors](#pixel-art-editors)
 -   [Pedagogies from coding for learning community - K12
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
         adapt](#also-see-this-writing-and-adapt)
+    -   [Tutorials and code examples](#tutorials-and-code-examples)
     -   [UMC, Mircroworlds and Half-Baked
         Games](#umc-mircroworlds-and-half-baked-games)
-    -   [PRIMM & Semantic waves](#primm-semantic-waves)
-    -   [Computational Thinking &
-        Patterns](#computational-thinking-patterns)
+    -   [PRIMM](#primm)
+    -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
+    -   [Pair programming - social
+        coding](#pair-programming---social-coding)
     -   [Project based learning PBL](#project-based-learning-pbl)
         -   [Game making and Project / Problem Based
             Learning](#game-making-and-project-problem-based-learning)
@@ -41,23 +47,25 @@ title: Literature Review
     frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
     -   [MDA and conceptual game elements
         framework](#mda-and-conceptual-game-elements-framework)
-    -   [Design Patterns in professional
-        context](#design-patterns-in-professional-context)
-    -   [Game Design Patterns](#game-design-patterns)
-    -   [Game and gameplay design
-        patterns](#game-and-gameplay-design-patterns)
+    -   [Design Patterns and Game Design Patterns in professional
+        context](#design-patterns-and-game-design-patterns-in-professional-context)
     -   [Using professional frameworks to help novice game
         makers](#using-professional-frameworks-to-help-novice-game-makers)
+        -   [Using concepts of design patterns and game design
+            patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
         -   [Using pattern collections and code examples to help
             students.](#using-pattern-collections-and-code-examples-to-help-students.)
--   [Broader community focused
-    Pedagogies](#broader-community-focused-pedagogies)
-    -   [Foundational literature addressing community
-        learning](#foundational-literature-addressing-community-learning)
+-   [Informal Education Pedagogies](#informal-education-pedagogies)
+    -   [Defining and conceptualising informal
+        education](#defining-and-conceptualising-informal-education)
+        -   [Conceptualising informal education via foundational
+            theory](#conceptualising-informal-education-via-foundational-theory)
+        -   [Informal, participatory, digital and gaming
+            communities](#informal-participatory-digital-and-gaming-communities)
+    -   [Online communities and affinity
+        spaces](#online-communities-and-affinity-spaces)
     -   [Guided participation Rogoff and Communities of
         Learners](#guided-participation-rogoff-and-communities-of-learners)
-        -   [Formal, non-formal and informal DROP
-            PERHAPS?](#formal-non-formal-and-informal-drop-perhaps)
         -   [Funds of Knowledge](#funds-of-knowledge)
         -   [Retro Gaming as a Fund of knowledge - move to
             intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
@@ -71,11 +79,18 @@ title: Literature Review
     -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Mantle of the Expert (and drama processes
         games)](#mantle-of-the-expert-and-drama-processes-games)
-    -   [Inequality of access to participatory culture communities -
-        PERHAPS REWRITE THIS BASED ON
-        TENSIONS](#inequality-of-access-to-participatory-culture-communities---perhaps-rewrite-this-based-on-tensions)
--   [Review of relevant tensions emerging in the
-    literature](#review-of-relevant-tensions-emerging-in-the-literature)
+    -   [Digital informal / participatory culture and
+        Learning](#digital-informal-participatory-culture-and-learning)
+        -   [Barrier - Inequality of access to participatory culture
+            communities - PERHAPS REWRITE THIS BASED ON
+            TENSIONS](#barrier---inequality-of-access-to-participatory-culture-communities---perhaps-rewrite-this-based-on-tensions)
+    -   [Barrier - lack of knowledge of cultural
+        processes](#barrier---lack-of-knowledge-of-cultural-processes)
+-   [Review of relevant barriers emerging in the
+    literature](#review-of-relevant-barriers-emerging-in-the-literature)
+    -   [Barrier: Paucity on research on designing for face to face
+        learning communities of novice game
+        makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
 
 ## Literature Review Introduction
 
@@ -616,6 +631,11 @@ My own work with Manchester Met University drama education department explored t
 Livingstone
 Sefton green
 ITO and Gee
+
+### Tinkering and Maps of learning Dimensions
+
+To address the play paradox,
+
 
 #### Barrier - Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
 
