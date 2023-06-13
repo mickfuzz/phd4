@@ -47,13 +47,11 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
     - Gesture analysis in more granular examples
 
 
-## Recoding data - gdps and for agency
 
-### Coding use of GDP.
+### NOTE -  Coding use of GDP.
 
-Give this a go  -
-
-See gdp chapter index for latest ones
+- Give this a go  -
+- See gdp chapter index for latest ones
 
 
 
@@ -114,20 +112,32 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 
 ### Introduction to social turn, school,
 
-There are particular limitations in the kind of empirical research that characterises many studies involving.
 
-Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment.
+#### Build on the Literature Review -
 
-The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically design-based research. This section explores complementary methodologies of value before outlining key characteristics of design-based research which make it an attractive candidate for this study.
+In the literature review we explored sociocultural views on learning and development on learning in created cultures.
+
+#### Socio cultural research methods
+
+<!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
+
+<!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
+
+NOTE - check alignment to RQs here
+
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
+
+To do this I adopt a sociocultural approach and specifically design-based research. This section explores complementary methodologies of value before outlining key characteristics of design-based research which make it an attractive candidate for this study.
 
 This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...
 
-For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts
-
-As we have seen in the literature review on game making, context plays out in the way
- that xy, and z.
-
 Barab and Squire [@barab_design-based_2004]
+
+For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
+
+As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
+
 
 
 ## Justification of choice of methodology

@@ -555,7 +555,7 @@ The process of parents getting in the way of children's not minding jumping in a
 **Learners may not find coding a project a motivating project if it is only a private activity with no end audience.**
 Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
 
-**Barrier - Learners may struggle to know if their code is valid and may**. Code playground provides immediate feedback. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
+**Barrier - Learners difficulties assessing if they are writing valid code**. Code playground provides immediate feedback. I chose a code editing tool set which drew on relevant design principles explored in the literature review (Resnick and Rosenbaum, 2013).
 One of the principles that I prioritised in the choice of tools was that of immediate feedback for participants. For example, in the code editing interface of glitch.com shown in Illustration 1, changes made to the code on the left section take immediate effect in the resultant game on the right side of the screen.
 
 **Authenticity of coding environment**.  

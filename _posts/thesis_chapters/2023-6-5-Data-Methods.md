@@ -1203,11 +1203,18 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
+
+
 ### Discussion on designing for emergent practices and agency
 
 This section looks as some of the emerging patterns of design practice of participants.
 
 NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
+
+
+#### Conceptualising emergent practices and agency
+
+Cultural mediation via artefacts [cole]
 
 
 #### Chaotic design practices rather than planned design stages

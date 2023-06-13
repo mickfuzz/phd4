@@ -176,7 +176,7 @@ NOTE - THERE IS A LOT HERE THAT COULD OVERLAP
 
 
 
-### Cultural barriers to participation in
+### Cultural / Identity barriers to participation in ...
 
 EDIT DOWN FIND RECENT EVIDENCE
 
@@ -187,6 +187,30 @@ Paper and Turkle locate different, softer but equally effective coding strategie
 The underlying assumption of the work here is re-examined in a stream on later work by  Kafai and Peppler etc, who after extensive research in this area begin to ask instead how to create new communities rather than aiming to break into existing ones.  
 
  - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
+
+ #### Barrier - Identity and computer cultures
+
+
+**Studies exploring identity and barriers to participation**
+
+Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
+REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
+ REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.  
+
+ To address the issue of girl's low self-confidence in the area of computing compared to their ability Beyer et al., 2003; Margolis and Fisher, 2002), extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests Robertson, 2013, 2012). The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future. The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+ The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+ Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+
+To address the issue of girl's low self-confidence in the area of computing compared to their ability Beyer et al., 2003; Margolis and Fisher, 2002), extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests Robertson, 2013, 2012). The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future. The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+
 
 
 ### Technical barriers & knowledge barriers
@@ -266,6 +290,8 @@ Tutorials are a common way of learning coding and exist in many forms and format
 Code snippets are often interwoven with text explaining the function of the code constructions.
 
 The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
+
+
 
 
 
@@ -443,34 +469,26 @@ GAP : No research for GDP pattern collection for to text code games with for CS 
 To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
 
 
-**Informal, participatory digital and game making communities**
 
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
-#### Defining informal education
+### Defining and conceptualising informal education
 
 Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012] [].
 
-While some researchers define formal learning as that which happens in school and informal learning as that outside of school (Gerber et al., 2001), others (Eshach, 2007, p. 173; Werquin, 2009) would describe an intervention like the one in this study -- where learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned -- using the term 'non-formal' in contrast to both formal and unstructured/informal learning. Sefton-Green (2004) complicates this view, noting that informal learning can take place in formal settings and vice-versa. Given this inconsistency, my study will use research and relevant literature to create working definitions of such terms. Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities .
+Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that informal learning can take place in formal settings and vice-versa.
 
+Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
 
-
-### Foundational literature addressing community learning
+#### Conceptualising informal education via foundational theory
 
 Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
-<!-- NOTE Can this be done using domain specific literature to support?
--->
+<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
 
-- Vygotsky (and friends) - foundational ideas - activity as unit of analysis
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development @cole_beyond_1996-1 .
+- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
+
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995] .
+
 - Rogoff - community of learners and 3 foci as a way to frame this in education
 
 <!--
@@ -479,8 +497,28 @@ Foundation sociocultural approach which goes beyond a conception of transmission
 ### Activity as Unit of Analysis
 Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
 
-The vital role of cultural mediation in development @cole_beyond_1996-1
-This clearly aligns with digital making. Find citation.
+The vital role of cultural mediation in development [@cole_beyond_1996-1]
+
+This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
+
+
+#### Informal, participatory, digital and gaming communities
+
+Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
+### Online communities and affinity spaces
+
+Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities .
+
+Kafai and Burke's extensive work proposes applying the power of Gee's work around the game playing to game making [@kafai_connected_2016, p. 56].
+
 
 
 ### Guided participation Rogoff and Communities of Learners
@@ -549,9 +587,13 @@ Hackathon events are characterise by a time constrained and thus accelerated pro
 
 Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or48 hours. Team events often take place in physical venues which may be part of a wider global Jams Aryaet al., 2013). Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam Eberhardt,2016). Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience Eberhardt,2016, p. 3).
 
-Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems2014),using a playful vs. gameful spectrum from Caillois2001).Design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
+Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
 
-Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame (Games for Change, 2017). Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants. These are broken down into; space, goal,components, mechanics and rules. The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016).
+Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017] (Games for Change, 2017). Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
+
+<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
+
+The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016).
 
 The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
 
@@ -590,13 +632,12 @@ Livingstone
 Sefton green
 ITO and Gee
 
-#### Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
+#### Barrier - Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
 
 In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities 2010). Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects Luther et al., 2010).
 
 On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
 
-Overall challenge of promise of Participatory Culture - In one regard the kind of collaboration seen in PC could be seen a much more individualised process than the collective or cooperative work described by Dillenbourg (joint problem spaces), more of community participation than actually collaboration. However such an interpretation would neglect the possibilities of online tools and processes to facilitate the kind of Joint Problem Space described earlier.
 
 
 **Building learner identities to address Inequalities**
@@ -604,18 +645,7 @@ Overall challenge of promise of Participatory Culture - In one regard the kind o
 One significant element of in this process is learner perception of their own limits.
 EXPLORE RESEARCH HERE.
 
-
-
-**Studies exploring identity and barriers to participation**
-
-Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
-REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.  
-
-To address the issue of girl's low self-confidence in the area of computing compared to their ability Beyer et al., 2003; Margolis and Fisher, 2002), extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests Robertson, 2013, 2012). The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future. The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+### Barrier - lack of knowledge of cultural processes
 
 **Roles and practices to support learners**
 
