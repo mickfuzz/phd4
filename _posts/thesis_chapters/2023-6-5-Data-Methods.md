@@ -1347,12 +1347,12 @@ Older participants also showed fluid practice. Clive quickly incorporated a boos
 
 NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
 
-Face to face coding communities, especially with familiies have a large range of behaviours and potential.
+Face to face coding communities, especially with families have a large range of behaviours and potential.
 
 As explored previously the literature on design for face to face communities is sparce.
 
 While present in fields of participatory digitaal design
-Even more sparce is help on designing to allow the community of game makers to develop tgheir own practices.
+Even more sparce is help on designing to allow the community of game makers to develop their own practices.
 
 I share a synthesis of my findings here.
 
