@@ -95,7 +95,16 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter. The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The chapter then describes the use of tools in an initial learning designs and progress to  explore emergent community behaviour and design processes. In the final section, the chapter builds on material explored in the literature review to discuss pedagogical factors are significant to support novices learning coding in game making contexts. Particular attention is given to processes which support learners to develop agency in the game making process.
+This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
+
+- The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
+- the use of core tools in the initial learning design
+- community behaviour and design processes
+
+In the discussion section, the chapter builds on material explored in the literature to explore:
+
+- conceptions agency in this learning design, Particular attention is given to processes which support learners to develop agency in the game making process.
+- design concepts to support novices learning coding in game making contexts.
 
 <!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.  -->
 
@@ -113,8 +122,7 @@ The following elements have emerged from many in the learning design as of merit
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
-## Scenarios - drama processes
-
+## Exploring the impact of a drama processes
 
 ### Vignette 4.1.a - Introducing a drama process
 
@@ -342,6 +350,13 @@ Inspired by the popularity of participants engaging with the fictional audience,
 In addition to the stated feedback activity the live chat served wider purposes of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
 
 For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+
+**Summary:** The process supports
+- addressing tension of feeling alienated from coding cultures, by bringing playful elements 
+
+<!-- NOTES
+- identity of playfulness  
+  -->
 
 ### Use of side missions to encourage varied creative practices
 
