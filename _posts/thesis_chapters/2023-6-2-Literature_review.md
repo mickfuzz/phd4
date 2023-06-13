@@ -300,14 +300,6 @@ Examples showing semantic wave profiles usually start with the process beginning
 
 
 
-### Computational Thinking & Patterns
-
-
-My own findings are inspired by the work of Repenning and Basawapatna 2010) on computational thinking patterns (CTPs) as part of their Scalable Game Design (SGD) programme. We can compare CTPs with design patterns. The kind of CTPs identified in this study are less abstract than the object-oriented design patterns offered by Gamma and colleagues 1995); however a similar guiding principle exists. Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants.
-
-It is the familiarity and understandability which which drew the SCG researchers towards a pattern-based approach. They cite the contested nature of computational thinking National Academy of Sciences on Computational Thinking, 2010), and highlight the utility in more specific learning outcomes compared to more abstract interpretations of computational thinking. Their solution driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations Basawapatna et al., 2011). It it valuable to examine the specifics of the Computational Thinking Patterns (CPTs) in relation to the context, aims and tools of the Scalable Game Design programme. Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme.
-
-![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm
 
 ### Pair programming - social coding
 
@@ -355,7 +347,7 @@ The Mechanics element of the framework has much in common with GDPs. The differe
 The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
 The levels of abstraction of
 
-### Design Patterns in professional context
+### Design Patterns and Game Design Patterns in professional context
 
 NOTE - I think there is material to copy and paste here.
 
@@ -363,12 +355,12 @@ Design patterns are most commonly used for computing students at higher educatio
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
 
-The prescriptive and categorisable nature of CT would seem to suit rigorous assessment. y Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically, the use of design patterns and then combination of those patterns into large game mechanics Werner et al., 2014, 2012). This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage.
-
-The concept of computational design patterns is well explored in the professional literature of computer programming and design Gamma et al., 1995), and has also been adopted by game designers Bjork and Holopainen, 2005). Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
 
 
-### Game Design Patterns
+<!-- This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage. -->
+
+
+The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995], and has also been adopted by game designers [@bjork_patterns_2005]. Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
 
 New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsingGameplayDesign2019a].
 <!-- Could move some of this to the results discussion -
@@ -381,7 +373,6 @@ New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsin
 
 
 
-### Game and gameplay design patterns
 
 The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns. Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player.
 
@@ -405,6 +396,13 @@ In my own game making model students picked missions from a choice of printed re
 ### Using professional frameworks to help novice game makers
 
 This section examines the use of potential use of these professional tools or processes in an educational context.
+
+#### Using concepts of design patterns and game design patterns
+
+Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
+The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
+
+
 
 #### Using pattern collections and code examples to help students.
 
@@ -430,9 +428,29 @@ GAP : No research for GDP pattern collection for to text code games with for CS 
 **Link paragraph to game making pedagogies**
 
 
-## Broader community focused Pedagogies
+## Informal Education Pedagogies
 
-To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community learning.
+To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
+
+
+**Informal, participatory digital and game making communities**
+
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
+
+#### Defining informal education
+
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012] [].
+
+While some researchers define formal learning as that which happens in school and informal learning as that outside of school (Gerber et al., 2001), others (Eshach, 2007, p. 173; Werquin, 2009) would describe an intervention like the one in this study -- where learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned -- using the term 'non-formal' in contrast to both formal and unstructured/informal learning. Sefton-Green (2004) complicates this view, noting that informal learning can take place in formal settings and vice-versa. Given this inconsistency, my study will use research and relevant literature to create working definitions of such terms. Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities .
+
+
 
 ### Foundational literature addressing community learning
 
@@ -470,27 +488,11 @@ Teachers benefit from the concept of scaffolding, and designing learning environ
 
 This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
 
-**Informal, participatory digital and game making communities**
-
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
-#### Formal, non-formal and informal DROP PERHAPS?
-
-This distinction is not just about a school or non-school environment [@erstad_identity_2012].
-
-While some researchers define formal learning as that which happens in school and informal learning as that outside of school (Gerber et al., 2001), others (Eshach, 2007, p. 173; Werquin, 2009) would describe an intervention like the one in this study -- where learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned -- using the term 'non-formal' in contrast to both formal and unstructured/informal learning. Sefton-Green (2004) complicates this view, noting that informal learning can take place in formal settings and vice-versa. Given this inconsistency, my study will use research and relevant literature to create working definitions of such terms. Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities . My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
-
-
 
 
 #### Funds of Knowledge
+
+My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
 
 COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
 The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
@@ -572,9 +574,13 @@ Existing research shows value in STEM education to address barriers associated w
 
 My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
 
+### Digital informal / participatory culture and Learning
 
+Livingstone
+Sefton green
+ITO and Gee 
 
-### Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
+#### Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
 
 In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities 2010). Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects Luther et al., 2010).
 
