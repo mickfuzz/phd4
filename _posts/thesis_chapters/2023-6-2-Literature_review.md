@@ -247,6 +247,11 @@ The use by indy communities blurs the line also
 
 Find definition
 
+NOTES ON CODE PLAYGROUNDS
+However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
+
+
+
 #### Pixel Art Editors
 
 Find definition
@@ -563,7 +568,7 @@ Gap in particular exploring support for face-to-face informal communities.
 
 ### Participatory Design
 
-Ideally, find a key study to bring in. 
+Ideally, find a key study to bring in.
 
 
 ### Family Making - WHAT IN PARTICULAR TO EXPLORE ?

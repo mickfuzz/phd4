@@ -463,46 +463,6 @@ I propose that the drama fiction eases friction between competing activity syste
 <!-- LINK NOW TO AUTHENTICITY OF PROCESSES / TOOLS -->
 
 
-#### Discussion on Authenticity
-
-While the use of a fictional audience in the drama is clearly inauthentic, it is however justified in the goal of injecting learner motivation. The following discussion aims to frame existing conceptions of authenticity of tool use in seeding new learning communities. The following sections of the chapter then aim to contribute new knowledge in the area of authentic tool and processes use in the domain of learning coding.
-
-The tensions associated with the use of time by participants of the drama processes in this iteration mirror existing concerns in research. Here the prioritisation is the construction of a supportive culture given the research which problematises the  culture of coding from a lens of inclusion.  The process of bringing people into the culture merit allocating time to address inequalities.
-
-<!-- These tactics (which?) and resulting tensions and have been explored in other domains particularly literacy and mathematics. -->
-
-<!-- Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students. His exploration of tensions which surround the objectives of children of "schoolgoing", cover aspects of x,y and z. -->
-
-MORE DISCUSSION HERE IS EMERGING WHICH BRINGS THE CHAPTER BACK TO THE RQS - BUT IT'S CURRENTLY INCOMPLETE
-
-<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
-
-Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this)
-
-Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. One key consideration is the authenticity of the tools involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
-
-> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
-
-<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
-
-<!-- NOTE ADD SOME DETAIL detail
-But the are explored in more detail in the following section. -->
-<!-- For example in this iteration, x is authentic, -->
-
-In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed. However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools. The next section examines impact of the authentic aspects of the toolset used by participants.
-
-The use of code playgrounds merits discussion in the way the tool itself is positioned. It is a tool based around a professional community. However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
-
-<!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
-
-<!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
-
-
-PERHAPS DROP THIS ASPECT OR MOVE TO DISCUSSION
-As explored above, Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   Research on project based learning supports the motivational factors of authentic tools. In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology. This motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
-
-
-This element of the drama process emerged as part of work to support different learner identities outlined in the previous chapter research underpins the importance of allowing varied approaches to counter perceptions of computing and coding culture as alien. The next section argues that the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles. It focuses on tools and processes that form part of my initial planned learning design.
 
  <!-- including exploring adapting Bartle player types to maker types to honour different approaches; the use of social and missions and  -->
 
@@ -1271,11 +1231,75 @@ Perhaps a suitable space here?
 
 ### "Authentish" - goals in drama and project-based processes and related scenarios
 
-The concept of an near-authentic project goal is a key tool for edcuators to support game making
+The concept of an near-authentic project goal is a key tool for educators to support game making via project based learning.
 
-Making for peers has value but can be amplified and scoped using a fictional or controlled extenal audience.
+Making for peers has value but can be amplified and scoped using a fictional or controlled external audience.
 
-In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful as it aligns with x, y and z.
+In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (soemthing about learner identities)
+
+Similar to many PBL projects, the use of a fictional audience in the drama is clearly inauthentic,
+
+The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
+
+Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on
+
+The process of bringing people into the culture merit allocating time to address inequalities.
+
+
+
+<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
+<!--
+Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
+
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
+
+
+<!-- NOTE - Find complexity here?  -->
+
+One key consideration is the authenticity of the tools involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
+
+> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
+
+<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
+
+<!-- NOTE ADD SOME DETAIL detail
+But the are explored in more detail in the following section. -->
+<!-- For example in this iteration, x is authentic, -->
+
+In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed.
+
+However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools.
+
+The use of code playgrounds mirrors that of professionals. The process of creating a microworld with embedded concepts brought to the fore for students to bump against,
+
+While early use of microworlds as a "acceptable" authentic-ish a concept endorsed in literature on authentic approaches [].
+
+The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging  [@piazzoli_process_2011; @stinson_dol_2006].
+PERHAPS MOVE THIS UP OR TO LIT REVIEW
+
+This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
+
+
+Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   
+
+Research on project based learning supports the motivational factors of authentic tools.
+The motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+
+
+
+<!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
+
+<!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
+
+
+
+<!-- In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology.  -->
+
+
+
+The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
+
+
 
 
 ### Supporting flexible design practices
