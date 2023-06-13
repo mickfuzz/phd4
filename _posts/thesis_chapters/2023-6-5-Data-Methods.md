@@ -1347,6 +1347,15 @@ Older participants also showed fluid practice. Clive quickly incorporated a boos
 
 NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
 
+Face to face coding communities, especially with familiies have a large range of behaviours and potential.
+
+As explored previously the literature on design for face to face communities is sparce.
+
+While present in fields of participatory digitaal design
+Even more sparce is help on designing to allow the community of game makers to develop tgheir own practices.
+
+I share a synthesis of my findings here.
+
 In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
 When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding. A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
@@ -1404,9 +1413,16 @@ https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/
 
 A of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
 
-While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time. The next stage was to imagine game elements to add to the design in the form of GDPs.
+While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time.
 
-The next chapter explores the use of GDPs by participants in detail using varied data. 
+The embodied elements allowed access to agency via expression of home interests, play with dynamics, game layout,
+ANCHOR METAPHIR
+
+The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
+
+The next stage was to imagine game elements to add to the design in the form of GDPs.
+
+The next chapter explores the use of GDPs by participants in detail using varied data.
 
 
 
