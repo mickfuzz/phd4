@@ -668,7 +668,197 @@ In the emerging community there was a variety of help available including;
 
 
 
-## Narratives and graphics drawing on home funds of knowledge
+
+<!-- ### Discussion on initial tool use and starting processes
+DEVELOP THIS SECTION -->
+
+<!-- These observations can be explore in relation to other research
+
+- This research supports claims that half-baked games invite development []
+- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green. -->
+
+
+
+
+## Emerging processes and use of tools
+
+<!-- The process of facilitating for emerging learner identities and practices, via the processes and tools explored above,  -->
+
+The chapter has until know discussed some of the uses of  processes and tools which as a designer I brought to the learning design
+
+While these  tools and processes emerged in response to articulated and inferred learner need, the following process emerged more directly from input from the participants involved.  
+
+One major process added in response to the requests of learners was that of adding game design patterns. This is covered in the following chapter.
+
+
+
+<!-- Thus my role as a responsive facilitator rather than a instructor was key to this process.  -->
+<!-- opens up flexibility in the way learners approach the design processes. -->
+<!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
+
+### Playtesting
+
+ <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
+
+As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour. By the time video data recording started in phase three there were already complex patterns of playtesting underway. In this section, I review data to describe some of the emerging playtesting behaviours of participants.
+
+**Playtesting as a social process**
+
+Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. For example, if a game featured an image of a dog other participants may ask: _Do you like dogs? Do you have a dog at home?_.
+
+**Playtesting and embodied participation in the games of others**
+
+By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently.
+
+Playtesting took on additional playful elements often staring in one part of the working environment and then migrating to other areas. Because of this mobility is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting. It is possible to communicate the characteristics of this play via a description of a typical encounter.
+
+
+ <!-- Examples include.... -->
+Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations.
+
+While this play is happening it may attract other participants who may  remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+
+<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
+
+<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
+
+
+**Community concepts and norming behaviour emerging during playtesting**
+
+THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE
+
+
+Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
+
+This concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
+
+<!-- The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. -->
+
+<!-- The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. -->
+
+<!-- The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.   -->
+
+<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
+
+<!-- The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on. -->
+
+<!-- Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables. -->
+<!-- In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
+
+Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
+
+    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+    Mick: How are you getting on Mi? It's looking good.
+    Mick: (Noting frustrated air of Mi) Have you made it to hard.
+    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+    Mick: So it look like you bump your head and fall down.
+    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+    Mi: Oh right yeah.direct
+    Mick: Yeah.
+    Mi: Yeah, actually that's a good idea.
+    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.   -->
+
+ <!-- The only changes she had made to the deliberately frustrating initial player movement (discussed in design chapter) was to change player jump velocity. Player jump (y) velocity was set very high but left right (x) velocity was slow.  -->
+
+<!-- She had been made aware by her daughter Ne about the relevant game variables.
+In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." -->
+
+Parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. As a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). Younger participants are more direct.
+
+    Bertie: That looks nice (referring to the graphical look of the game)
+
+    Molly invites Bertie: to play as she can't progress due to the difficult game controls.
+
+    Bertie: It jumps super high but so slow  
+    Pause
+    Molly: He has to go slow because he's an astronaut, you see.    
+    Bertie: It's hard.
+    (Bertie leaves.)
+    Molly: (to peer parent with proud tone.) It's hard. Wow.
+
+    (Ed comes to play the game)
+    Ed: How much jump speed to you have?
+    Ed: Your jump speed is massive.
+
+Mi initially misconstrue the feedback that her game is hard as a positive thing. Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." This suggests that through he process she understands her game is frustrating rather than pleasantly challenging.
+
+A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
+DEVELOP THE LINK TO NORMING PRACTICES HERE OR IN DISCUSSION LATER
+
+#### Summary Playtesing and RQs
+
+Playtesing provides many leverage points facilitating learner agency:
+
+- playtesting as a way to show informed criticality as a player and guide the creations of peers via gameplay feedback
+-  
+
+<!-- We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
+
+Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
+
+While the players do not tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_. -->
+
+<!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
+
+
+<!-- NOTE - NOTES ON THE CULTURE OF HARDNESSS - FIT IN SOMEWHERE IF APPROPRIATE
+
+When explored from game making perspective the hard is good lens, is limiting in terms of building the engagement of players. However, culturally the desire to make games hard for other participants is more understandable in the context of retro games. .
+
+- arcade games were designed to be hard to extract money from players
+- nes games reputation for being brutal as they often had no way to save states, and much of the games challenge, due to limitations of number of levels or modes of playing, depended on this 'hardness'
+- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
+- retro games are associated therefore with being brutal and frustrating.
+- thus in some ways the process of making a hard game is a way of getting your own back at all the games that have frustrated
+ -->
+<!--
+Other observations
+- The process of teaching challenge via balance cards can happen early on
+- some participants are resistange - see Molly's interactions - does this matter? -->
+
+<!--
+### Building Identities as Game Makers  - EXTENDED
+
+PARK THIS FOR NOW IN DESIGN CHAPER
+
+COULD RETURN TO THIS IN A DISCUSSION CHAPTER - AS HAS IMPACT ON GDP TOO.
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
+
+In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
+
+The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
+
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
+
+
+
+<!-- NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
+This section explores what other shifts in design practices -->
+
+
+### Emerging use of narratives and graphics which drawing on home funds of knowledge
+
+While the potential to add graphics was a core affordence of the half-baked templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.
 
 The literature review explored existing research on how the use of home interests and funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio effects or written messages were also possible.
 
@@ -814,185 +1004,6 @@ Relevant theory / studies.
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
 
-<!-- ### Discussion on initial tool use and starting processes
-DEVELOP THIS SECTION -->
-
-<!-- These observations can be explore in relation to other research
-
-- This research supports claims that half-baked games invite development []
-- This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green. -->
-
-
-
-
-## Emerging processes and use of tools
-
-<!-- The process of facilitating for emerging learner identities and practices, via the processes and tools explored above,  -->
-
-The previous section discussed some of the uses of starting processes and tools of the learning design. While many processes evolved in ways which conformed to my expectations. Other uses of tools and processes emerged in unexpected directions.
-
-<!-- Thus my role as a responsive facilitator rather than a instructor was key to this process.  -->
-<!-- opens up flexibility in the way learners approach the design processes. -->
-<!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
-
-### Playtesting
-
- <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
-
-As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour. By the time video data recording started in phase three there were already complex patterns of playtesting underway. In this section, I review data to describe some of the emerging playtesting behaviours of participants.
-
-**Playtesting as a social process**
-
-Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. For example, if a game featured an image of a dog other participants may ask: _Do you like dogs? Do you have a dog at home?_.
-
-**Playtesting and embodied participation in the games of others**
-
-By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently.
-
-Playtesting took on additional playful elements often staring in one part of the working environment and then migrating to other areas. Because of this mobility is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting. It is possible to communicate the characteristics of this play via a description of a typical encounter.
-
-
- <!-- Examples include.... -->
-Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations.
-
-While this play is happening it may attract other participants who may  remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
-
-<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
-
-<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
-
-
-**Community concepts and norming behaviour emerging during playtesting**
-
-THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE
-
-
-Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
-
-This concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
-
-<!-- The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. -->
-
-<!-- The term _game feel_  has varied interpretation but is generally framed as the responsiveness and feeling of control over the main character during the core movement of the game. In this case, it effects the ability of players to move between platforms and avoid enemies. In this design the jump mechanic is determined by the use of variables controlling gravity, jump velocity and movement velocity. -->
-
-<!-- The importance of these variables to is was behind the design decision to place these variable right at the top of the code and to rename them with player centric names rather than mathematical terms like velocity and acceleration.   -->
-
-<!-- NOTE - BE SURE TO EXPLORE THIS IN SOME DETAIL IN DESIGN CHAPTER -->
-
-<!-- The regular playtesting of games allowed participants to give each other feedback regularly and game feel was one of the aspects that young people in particular to gave frequent feedback on. -->
-
-<!-- Parent Mi had been focused mostly on completing asset design. She had been made aware by her daughter Ne about the relevant game variables. -->
-<!-- In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices."
-
-Player jump (y) velocity was set very high but left right (x) velocity was slow. This created a very frustrating game feel. The following is a compilation of feedback comments or reactions over a 15 minute time period.   
-
-    Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-    Mick: How are you getting on Mi? It's looking good.
-    Mick: (Noting frustrated air of Mi) Have you made it to hard.
-    Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-    Mick: So it look like you bump your head and fall down.
-    Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-    Mi: Oh right yeah.direct
-    Mick: Yeah.
-    Mi: Yeah, actually that's a good idea.
-    Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometimes.   -->
-
- <!-- The only changes she had made to the deliberately frustrating initial player movement (discussed in design chapter) was to change player jump velocity. Player jump (y) velocity was set very high but left right (x) velocity was slow.  -->
-
-<!-- She had been made aware by her daughter Ne about the relevant game variables.
-In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." -->
-
-Parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. As a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). Younger participants are more direct.
-
-    Bertie: That looks nice (referring to the graphical look of the game)
-
-    Molly invites Bertie: to play as she can't progress due to the difficult game controls.
-
-    Bertie: It jumps super high but so slow  
-    Pause
-    Molly: He has to go slow because he's an astronaut, you see.    
-    Bertie: It's hard.
-    (Bertie leaves.)
-    Molly: (to peer parent with proud tone.) It's hard. Wow.
-
-    (Ed comes to play the game)
-    Ed: How much jump speed to you have?
-    Ed: Your jump speed is massive.
-
-Mi initially misconstrue the feedback that her game is hard as a positive thing. Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." This suggests that through he process she understands her game is frustrating rather than pleasantly challenging.
-
-A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
-DEVELOP THE LINK TO NORMING PRACTICES HERE OR IN DISCUSSION LATER
-
-#### Summary Playtesing and RQs
-
-Playtesing provides many leverage points facilitating learner agency:
-
-- playtesting as a way to show informed criticality as a player and guide the creations of peers via gameplay feedback 
--  
-
-<!-- We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
-
-Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." In these interactions we can see a consistent message coming from peers in the playtesting process. They praise the look of the game but offer constructive feedback to help improve the GDP of jumping.
-
-While the players do not tell Mi directly to change the game, these comments appear to direct direction of the design to comply with an emerging community norm of jump feel stemming from the personal experiences of the participants and from tangible feeling of lack of control over the player's character in the game. The same message is delivered in a variety of ways, above we can see feedback from Mick trying to bridge a technical and conversational approach, direct feedback of the personal challenge level and an interpretation of the cause from Ch and then a more specifically technical explanation involving the naming of the variable _jump speed_. -->
-
-<!-- These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003]. -->
-
-
-<!-- NOTE - NOTES ON THE CULTURE OF HARDNESSS - FIT IN SOMEWHERE IF APPROPRIATE
-
-When explored from game making perspective the hard is good lens, is limiting in terms of building the engagement of players. However, culturally the desire to make games hard for other participants is more understandable in the context of retro games. .
-
-- arcade games were designed to be hard to extract money from players
-- nes games reputation for being brutal as they often had no way to save states, and much of the games challenge, due to limitations of number of levels or modes of playing, depended on this 'hardness'
-- this developed later for snes games , finding challenge and other forms of ways of maintaining interest for different genres of games_
-- retro games are associated therefore with being brutal and frustrating.
-- thus in some ways the process of making a hard game is a way of getting your own back at all the games that have frustrated
- -->
-<!--
-Other observations
-- The process of teaching challenge via balance cards can happen early on
-- some participants are resistange - see Molly's interactions - does this matter? -->
-
-<!--
-### Building Identities as Game Makers  - EXTENDED
-
-PARK THIS FOR NOW IN DESIGN CHAPER
-
-COULD RETURN TO THIS IN A DISCUSSION CHAPTER - AS HAS IMPACT ON GDP TOO.
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
-
-In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/10000201000003C600000171EAA4AA8B52809BAD.png){width="17cm" height="6.493cm"}
-
-The process was adapted so players moved around the room in response to each question. This allowed them to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital life and identity of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with the positioning and if they could give examples of that behaviour.
-
-An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored earlier in our section on germ cell concept Papert and Turkle, 1990). In short, my message was to participants there are more than one way the skin a cat. When you are learning to code follow your own preferences and try to observe and reflect on what works well for you. -->
-
-
-
-<!-- NOTE - Preceeding To follow shifts in perspectives bound up in designing for others, and the shift in layers of abstraction,
-This section explores what other shifts in design practices -->
 
 ### Emerging divisions of labour
 
