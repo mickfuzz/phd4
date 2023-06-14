@@ -29,7 +29,6 @@ title: Findings Seeding Game Making Communities to Facilitate Learner Agency
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Discussion of the process
         drama](#discussion-of-the-process-drama)
-        -   [Discussion on Authenticity](#discussion-on-authenticity)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
@@ -48,30 +47,28 @@ title: Findings Seeding Game Making Communities to Facilitate Learner Agency
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
--   [Discussion](#discussion)
-    -   [Conceptualising emergent agency in this
-        study](#conceptualising-emergent-agency-in-this-study)
-        -   [Conceptualising emergent practices and
-            agency](#conceptualising-emergent-practices-and-agency)
-        -   [On double stimulation and
-            agency](#on-double-stimulation-and-agency)
-        -   [On affordances and anchors](#on-affordances-and-anchors)
-    -   [Observations and discussion of emergent participant
-        agency](#observations-and-discussion-of-emergent-participant-agency)
-        -   [In use of documentation](#in-use-of-documentation)
-        -   [In drama processes](#in-drama-processes)
-    -   [Discussion on designing for emergent practices and
-        agency](#discussion-on-designing-for-emergent-practices-and-agency)
-        -   [Chaotic design practices rather than planned design
-            stages](#chaotic-design-practices-rather-than-planned-design-stages)
-        -   [Valuing side effects of digital laundry and faff
-            time\*\*](#valuing-side-effects-of-digital-laundry-and-faff-time)
+    -   [Valuing "non-productive" activity: faff-time and digital
+        laundry](#valuing-non-productive-activity-faff-time-and-digital-laundry)
+-   [Conceptualising emergent agency in this
+    study](#conceptualising-emergent-agency-in-this-study)
+    -   [On double stimulation and
+        agency](#on-double-stimulation-and-agency)
+    -   [On affordances and anchors](#on-affordances-and-anchors)
+-   [Discussion on designing for emergent practices and
+    agency](#discussion-on-designing-for-emergent-practices-and-agency)
+    -   [purpose of this section](#purpose-of-this-section)
+    -   [Participants developing agency in their use of
+        documentation](#participants-developing-agency-in-their-use-of-documentation)
+    -   ["Authentish" - goals in drama and project-based processes and
+        related
+        scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
+    -   [Supporting flexible design
+        practices](#supporting-flexible-design-practices)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
-        -   [Initial discussion on designing for emergent
-            practices](#initial-discussion-on-designing-for-emergent-practices)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
-    -   [Link section to next chapter](#link-section-to-next-chapter)
+    -   [Link to next chapter - Agency within Microworld
+        design](#link-to-next-chapter---agency-within-microworld-design)
 
 <!-- ## Overview in points
 
@@ -927,6 +924,12 @@ Mi initially misconstrue the feedback that her game is hard as a positive thing.
 A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
 DEVELOP THE LINK TO NORMING PRACTICES HERE OR IN DISCUSSION LATER
 
+#### Summary Playtesing and RQs
+
+Playtesing provides many leverage points facilitating learner agency:
+
+- playtesting as a way to show informed criticality as a player and guide the creations of peers via gameplay feedback 
+-  
 
 <!-- We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
 
@@ -1274,11 +1277,10 @@ The use of code playgrounds mirrors that of professionals. The process of creati
 
 While early use of microworlds as a "acceptable" authentic-ish a concept endorsed in literature on authentic approaches [].
 
-The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging  [@piazzoli_process_2011; @stinson_dol_2006].
-PERHAPS MOVE THIS UP OR TO LIT REVIEW
+The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
+PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
 
 This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
-
 
 Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   
 
@@ -1299,15 +1301,10 @@ The motivational factor of _lifting the lid_ was reflected in a conversation amo
 
 The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
 
-
-
-
 ### Supporting flexible design practices
 
-
 <!-- NOTE - discuss the value of design stages? from PBL chapter -
-It would be vital to include this in Lit Review
--->
+It would be vital to include this in Lit Review -->
 
 When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding.
 
@@ -1333,22 +1330,15 @@ In other areas of creative processes the concept of jamming is potentially usefu
 
 #### Supporting Digital Jamming
 
+In many interactions I observed improvisational approaches which incorporated the Imagine, Plan then Create then Revise stages in the space of a minute. I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels. Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
 
-The concept of Jam is explored in the literature review via accelerated events encouraging collaboration and innovation called Game Jams. In many interactions I observed improvisational approaches which incorporated the Imagine, Plan then Create then Revise stages  in the space of a minute. The tools, process and the community mutually encourage a jam / improvisational approach.
+While, the process of jamming is put into practice in this domain partially via accelerated events encouraging collaboration and innovation called Game Jams, these events are inconsistent and opaque in the way they may support improvisational approaches [@goddard_playful_2014].
 
-In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels.
-
-Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
-
-To jam also implies a responsive, rapid and fluid responses to audience and collaborators ideas. Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers.
-Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting.
+A suitable context for create jamming here aligns with conceptions of affective space previously explored in drama process conditions .
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
-
-
 <!--
 **Improving is Creating and Planning when remixing**
-
 For example when altering jump and move variable for the first time. They are deliberately set low. Thus while technically this is improving the code. As the participant is meeting those variable for the first time we can recategorise in the create category.
 
 CASE - One parent did extensive design and then altered the variables at the end. Molly:- -->

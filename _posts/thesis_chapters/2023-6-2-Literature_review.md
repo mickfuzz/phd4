@@ -175,11 +175,16 @@ The underlying assumption of the work here is re-examined in a stream on later w
 
  - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
 
+
+
+#### Barrier - Unfamiliarity with design process due to instruction based schooling systems
+
+When faced with choice learners are sometimes unsure how to start creating.
+Design scaffolds have been created to support this.
+
 #### Barrier - Identity and computer cultures
 
-
 **Studies exploring identity and barriers to participation**
-
 
 Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
 
@@ -251,18 +256,9 @@ NOTES ON CODE PLAYGROUNDS
 However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
 
 
-
 #### Pixel Art Editors
 
 Find definition
-
-
-### Conclusion to this section
-
-This chapter explores some of these issues in more depth
-
-- Knowledge barriers in K12 section
-- Mapping cultural barriers to some of the community based approaches
 
 
 
@@ -298,13 +294,22 @@ The variety of audience and motivations of writer can account for the variation 
 
 
 
-
-
 ### UMC, Mircroworlds and Half-Baked Games
 
+#### Use Modify Create
 The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]
 
 The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
+
+**Use:** In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces.
+
+**Modify:** In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims.
+
+**Create:** After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
+
+A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed the UMC approach as they had more choice and agency in the process. This is supported by other research which compared UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students using UMC had more time to play around with code, they were able to add their own personal touches and that this ownership over the code sustained their continued engagement.  
+
+#### Half-baked games as Microworlds
 
 The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
 
@@ -338,8 +343,6 @@ Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computi
 Figure 3.1 A Semantic Profile with Semantic Waves
 
 Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
-
-
 
 
 ### Pair programming - social coding
@@ -379,6 +382,30 @@ The goal of authenticity of expression, assessment and the motivation of a real 
 
 These professional practices and framework are both informed by research and in common use in professional communities.
 
+Where there is overlap between domains this is explored in each section.
+
+### Design steps frameworks via stages
+
+Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@mouza_imagining_2013; @resnick_all_2007; @winarno_steps_2020-1].
+
+A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
+Ask: Identify the Need & Constraints;
+Research the Problem;
+Imagine: Develop Possible Solutions;
+Plan: Select a Promising Solution;
+Create: Build a Prototype;
+Test and Evaluate Prototype; and Improve: Redesign as Needed
+
+This has been adapted by computing educators elements of are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015].
+
+Michel Resnick, a researcher involved in the Scratch project at MIT illustrates an approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity.
+
+![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+
+<Figure8.1.jpg>
+Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
+
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 ### MDA and conceptual game elements framework
 
 The MDA framework has been created from games research with an aim to help define

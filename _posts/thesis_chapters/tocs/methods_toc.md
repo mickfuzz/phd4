@@ -18,7 +18,6 @@
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Discussion of the process
         drama](#discussion-of-the-process-drama)
-        -   [Discussion on Authenticity](#discussion-on-authenticity)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
@@ -37,27 +36,25 @@
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
--   [Discussion](#discussion)
-    -   [Conceptualising emergent agency in this
-        study](#conceptualising-emergent-agency-in-this-study)
-        -   [Conceptualising emergent practices and
-            agency](#conceptualising-emergent-practices-and-agency)
-        -   [On double stimulation and
-            agency](#on-double-stimulation-and-agency)
-        -   [On affordances and anchors](#on-affordances-and-anchors)
-    -   [Observations and discussion of emergent participant
-        agency](#observations-and-discussion-of-emergent-participant-agency)
-        -   [In use of documentation](#in-use-of-documentation)
-        -   [In drama processes](#in-drama-processes)
-    -   [Discussion on designing for emergent practices and
-        agency](#discussion-on-designing-for-emergent-practices-and-agency)
-        -   [Chaotic design practices rather than planned design
-            stages](#chaotic-design-practices-rather-than-planned-design-stages)
-        -   [Valuing side effects of digital laundry and faff
-            time\*\*](#valuing-side-effects-of-digital-laundry-and-faff-time)
+    -   [Valuing "non-productive" activity: faff-time and digital
+        laundry](#valuing-non-productive-activity-faff-time-and-digital-laundry)
+-   [Conceptualising emergent agency in this
+    study](#conceptualising-emergent-agency-in-this-study)
+    -   [On double stimulation and
+        agency](#on-double-stimulation-and-agency)
+    -   [On affordances and anchors](#on-affordances-and-anchors)
+-   [Discussion on designing for emergent practices and
+    agency](#discussion-on-designing-for-emergent-practices-and-agency)
+    -   [purpose of this section](#purpose-of-this-section)
+    -   [Participants developing agency in their use of
+        documentation](#participants-developing-agency-in-their-use-of-documentation)
+    -   ["Authentish" - goals in drama and project-based processes and
+        related
+        scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
+    -   [Supporting flexible design
+        practices](#supporting-flexible-design-practices)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
-        -   [Initial discussion on designing for emergent
-            practices](#initial-discussion-on-designing-for-emergent-practices)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
-    -   [Link section to next chapter](#link-section-to-next-chapter)
+    -   [Link to next chapter - Agency within Microworld
+        design](#link-to-next-chapter---agency-within-microworld-design)
