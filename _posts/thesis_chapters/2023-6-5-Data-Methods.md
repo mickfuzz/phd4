@@ -38,17 +38,25 @@ title: Findings Seeding Game Making Communities to Facilitate Learner Agency
         -   [Observations on design behaviours encouraged through use of
             game
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
--   [Narratives and graphics drawing on home funds of
-    knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Playtesting](#playtesting)
+        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
+    -   [Emerging use of narratives and graphics which drawing on home
+        funds of
+        knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
+        -   [Summary: Home Funds and R\*\*](#summary-home-funds-and-r)
     -   [Emerging divisions of labour](#emerging-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
-    -   [Valuing "non-productive" activity: faff-time and digital
-        laundry](#valuing-non-productive-activity-faff-time-and-digital-laundry)
+        -   [Helpers supporting supportive community
+            behaviours](#helpers-supporting-supportive-community-behaviours)
+    -   [The potential of "non-productive" activity (faff-time and
+        digital
+        laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
+        -   [Summary: Division of Labour and
+            RQs](#summary-division-of-labour-and-rqs)
 -   [Conceptualising emergent agency in this
     study](#conceptualising-emergent-agency-in-this-study)
     -   [On double stimulation and
@@ -1050,7 +1058,7 @@ This extract from interview data indicates a priority to support the learner to 
 
 While not a key part of this study, it is of value to briefly examine the role of student helpers in this phase.
 One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions. In journal notes I made observations and gathered feedback, while not fo extensively studied there is potential here.
-Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making. 
+Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
 DEVELOP IN RELATION TO DISUCSSION BELOW.
 
 ### The potential of "non-productive" activity (faff-time and digital laundry)

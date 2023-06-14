@@ -27,17 +27,25 @@
         -   [Observations on design behaviours encouraged through use of
             game
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
--   [Narratives and graphics drawing on home funds of
-    knowledge](#narratives-and-graphics-drawing-on-home-funds-of-knowledge)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Playtesting](#playtesting)
+        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
+    -   [Emerging use of narratives and graphics which drawing on home
+        funds of
+        knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
+        -   [Summary: Home Funds and R\*\*](#summary-home-funds-and-r)
     -   [Emerging divisions of labour](#emerging-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
-    -   [Valuing "non-productive" activity: faff-time and digital
-        laundry](#valuing-non-productive-activity-faff-time-and-digital-laundry)
+        -   [Helpers supporting supportive community
+            behaviours](#helpers-supporting-supportive-community-behaviours)
+    -   [The potential of "non-productive" activity (faff-time and
+        digital
+        laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
+        -   [Summary: Division of Labour and
+            RQs](#summary-division-of-labour-and-rqs)
 -   [Conceptualising emergent agency in this
     study](#conceptualising-emergent-agency-in-this-study)
     -   [On double stimulation and
