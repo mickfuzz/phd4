@@ -899,6 +899,18 @@ Other participants expressed pride over their graphical creations. In this excer
 
 The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
 
+**Summary: Home Funds and RQs**
+
+This research supports fiding of other research which highlight value of games and media projects to incorporate home funds [Resnick , Scratch]. It also aligns with PBL literature which advocates the personalisation of projects [find a nice one].
+
+The use of home funds of knowlege as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems to share the personalised object created.
+
+The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
+
+There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from)
+This shifts the focus of the microworld concept away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
+
+
 <!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
 
 <!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
