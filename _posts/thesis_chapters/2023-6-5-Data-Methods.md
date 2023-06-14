@@ -1046,6 +1046,12 @@ This approach appears to be influenced by Dan's experience as a software enginee
 
 This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
 
+#### Helpers supporting supportive community behaviours
+
+While not a key part of this study, it is of value to briefly examine the role of student helpers in this phase.
+One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions. In journal notes I made observations and gathered feedback, while not fo extensively studied there is potential here.
+Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making. 
+DEVELOP IN RELATION TO DISUCSSION BELOW.
 
 ### The potential of "non-productive" activity (faff-time and digital laundry)
 
@@ -1074,8 +1080,7 @@ It is hard to make general claims in this area because of the context of the par
 
 However, many of the observations.  similar practices exist in other research in this domain. For example, children have the potential to help parents as technology brokers [@correa_brokering_2015].  And parents can fulfil several valid roles including, advocate, emotional support, etc [@barron_parents_2009]
 
-Thus, it is not contraversial to suggest that parents and siblings can provide a large form of support in the creative process and that facilitators can design learning environments to facilitatte these possibilities.
-
+Thus, it is not contraversial to suggest that parents and siblings can provide a large form of support in the creative process and that facilitators can design learning environments to facilitatte these possibilities. And that research on the roles that they provide can be of use to facilitators to advance their work. The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
 <!--
 #### Code roles  and experimentation
 
