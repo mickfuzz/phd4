@@ -899,7 +899,7 @@ Other participants expressed pride over their graphical creations. In this excer
 
 The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
 
-**Summary: Home Funds and RQs**
+#### Summary: Home Funds and R**
 
 This research supports fiding of other research which highlight value of games and media projects to incorporate home funds [Resnick , Scratch]. It also aligns with PBL literature which advocates the personalisation of projects [find a nice one].
 
@@ -907,7 +907,7 @@ The use of home funds of knowlege as a tactic by facilitators can be highly moti
 
 The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
 
-There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from)
+There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.)
 This shifts the focus of the microworld concept away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
 
 
@@ -1022,6 +1022,8 @@ This section uses AT's focus on rules / norms and interactions with other activi
 NOTE THIS SECTION DESCRIBES EMERGING PATTERNS OF BEHAVIOUR - BUT IT IS NOT CLEAR IF IT ANWSERS THE RESEARCH QUESTIONS DIRECTLY.
 ALSO DUPLICATION WITH NEXT CHAPTER - SO REFACTOR
 
+An additional fund which participant drew on in the design process was their home collaboration practices.
+
 #### Alternating coding
 
 The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.  One parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles."
@@ -1043,6 +1045,36 @@ This approach appears to be influenced by Dan's experience as a software enginee
     I try never to touch the keyboard of who's there. If they are stuck on something I always tell them what to do. Even if it's then taken me five minutes to explain what a semicolon is. And point. It's that key. Because it was just, I could do it so effortlessly. I think I'm sure I put people off very quickly by "Dave did something really quickly. I don't know what it was.".
 
 This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
+
+
+### The potential of "non-productive" activity (faff-time and digital laundry)
+
+Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
+
+ <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+ <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
+
+
+Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared.
+
+In retrospect, many of the social and secret missions encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+I observed that navigating these essential but non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
+
+   Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+   Parent peer laughs
+   Nadine bounces up in place and smiles broadly.
+
+Thus it is of potential value to learn to value the potential of these liminal moments between design spaces for participants and facilitators alike.
+
+
+#### Summary: Division of Labour and RQs
+
+It is hard to make general claims in this area because of the context of the participants as families involved in home education.
+
+However, many of the observations.  similar practices exist in other research in this domain. For example, children have the potential to help parents as technology brokers [@correa_brokering_2015].  And parents can fulfil several valid roles including, advocate, emotional support, etc [@barron_parents_2009]
+
+Thus, it is not contraversial to suggest that parents and siblings can provide a large form of support in the creative process and that facilitators can design learning environments to facilitatte these possibilities.
 
 <!--
 #### Code roles  and experimentation
@@ -1160,25 +1192,7 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
 
  The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
 
-### Valuing "non-productive" activity: faff-time and digital laundry
 
-Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
-
- <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
- <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
-
-
-Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared.
-
-In retrospect, many of the social and secret missions encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
-
-I observed that navigating these essential but non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
-
-   Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-   Parent peer laughs
-   Nadine bounces up in place and smiles broadly.
-
-Thus it is of potential value to learn to value the potential of these liminal moments between design spaces for participants and facilitators alike.
 
 
 ## Conceptualising emergent agency in this study
