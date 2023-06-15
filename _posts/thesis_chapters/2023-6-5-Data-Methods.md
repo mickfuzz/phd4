@@ -1322,7 +1322,12 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 **Toolset**
 
-One key consideration is the authenticity of the tools involved. While
+One key consideration is the authenticity of the tools involved.
+
+EXPLORE THIS HERE - AS MOVED SOME TO PREVIOUS CHAPTER 
+
+
+While
 Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
