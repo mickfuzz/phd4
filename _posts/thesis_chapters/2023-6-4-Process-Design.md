@@ -445,21 +445,6 @@ I developed tutorials to support students implement these elements.
 
 This approach aligns with inclusive education principles in that it increases the choices of students, scaffolds the way they can access resources and allows them to keep a track of their own progress.
 
-#### Structuring supporting resources
-
-In trying to organise and represent code examples to participants in a logical way I drew on existing frameworks of game elements.
-
-- see Schell's lenses work for a more complete taxonomy.
-- MDA framework
-- Game Jam template, goals, space, rules, mechanics, objects
-
-I was inspired by work which merged academic and professional interpretations of game elements with those used to kick start beginners in the process of hacking games in a Game Jam. This alignment suits my approach of demystifying technology.
-
-Finally I decided on the following framework
-
-
-SCAN OF THE SKETCH OF MY DIVISION
-
 
 ### Phase Four
 
@@ -796,6 +781,33 @@ Limit the type of game to one kind. Offer a significant but limited menu of miss
 **Learners take on features which are too advanced or complex for their current coding level**
 (Appendix R.4.1)
 The use of a physical map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions and present patterns to encourage learners to start with ones that involve simple code changes but return a large change in terms of gameplay experience.
+
+
+
+## Exploring affordances of Key responses to emerging tensions
+
+### Code playgrounds,  and web technology
+
+
+The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
+
+While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. 
+
+### Structuring supporting resources
+
+In trying to organise and represent code examples to participants in a logical way I drew on existing frameworks of game elements.
+
+- see Schell's lenses work for a more complete taxonomy.
+- MDA framework
+- Game Jam template, goals, space, rules, mechanics, objects
+
+I was inspired by work which merged academic and professional interpretations of game elements with those used to kick start beginners in the process of hacking games in a Game Jam. This alignment suits my approach of demystifying technology.
+
+Finally I decided on the following framework
+
+
+SCAN OF THE SKETCH OF MY DIVISION
+
 
 
 ### Learning Dimensions Map

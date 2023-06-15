@@ -575,36 +575,22 @@ Instead the more authentic approach of a real language.
 
 As explored in the previous chapter, my motivation for choice of code development tools (Javascript, Phaser and Glitch) were driven by desire to be authentic and extensible. In this section I draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of the coding environment.
 
-The use of glitch as a code playground significantly reduced technical barriers for students. It removing the process of setting up a server for web development, and the delay of transferring files to the server. While the code project consisted of several files of javascript, HTML and CSS, learners were shielded from the complexity of how they were interlinked and there were practically no extended blockages to undertaking work using this environment. There were some issues of access for some participants who did not remember or recall log in details or their project name. These issues were mitigated through the use of a log in details shared between participants.
-
-When users struggled to log in or to find the games or assets that they had created earlier there sought and received help from family members or other peers. Direct help from facilitators was rarely required. In the glitch environment code errors were highlighted in with red dot in the interface which gave a quick visual indication of where the error occurred, when the user hovered over gave an error message as a pop up. the which while limited
-
-<!-- NOTE - EXAMPLE HERE AS AN IMAGE -->
-
-<!-- In my experience, meta-level blockages involving  be extremely frustrating. This is in-line with Resnick's guidelines to chose blackboxes carefully.  -->
-
-Online code playgrounds like glitch or CodePen arrange the user interface to promote and celebrate community contributions in such a way as to promote a feeling of community and experimentation via remixing and contributing to the projects of others. However, despite this, the choice of glitch compared to a tool aimed at young coders potentially reduced access to suitable games or other suitable projects which a community like Scratch would allow. However, the shared log in details created a shared page for projects of all participants which made the social sharing of projects more possible.
-
-NOTE - MORE DATA/FOCUS IS NEEDED FOR THIS SECTION
-
-<!-- NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data)) -->
-
 
 
 ### Code playground and Half-baked game as Microworld
-<!-- The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
+<!--
+MOVE
+
+The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
 While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. -->
 
 
 The last chapter outlined the use and design characteristics of the starting game template, namely: an incomplete 2D platformer; pixel graphics; with graphical scaffolding for text-based code; and deliberately incomplete thus inviting improvement. This section addresses the impact of these characteristics on participant coding practices, based on video observations of learners.
 
-
-
 MOVE SOME OF THE LATER SECTION HERE ABOUT MICROWORLD?
 OR IN DESIGN?
 
 ### Impact of the half-baked starting template
-
 
 In phase one, I noted that any addition to the game in terms of adding new any quantity of code created a many possible problems. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
 
