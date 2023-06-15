@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: archive
+categories: chapter
 title: Findings Seeding Game Making Communities to Facilitate Learner Agency
 ---
 -   [Research Questions - May 2023](#research-questions---may-2023)
@@ -322,7 +322,7 @@ In this extract participants are invited to take turns showing their game, recap
 
 ### Reflecting in role
 
-**It doesn't look like we've got anywhere but we have!** 
+**It doesn't look like we've got anywhere but we have!**
 
 <!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 The impact of this end reflection in role can be compared to previous reflection in sessions. In my journal notes for previously phases, I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided richer feedback from a wider variety of participants.
@@ -443,36 +443,24 @@ https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 <!-- WHERE AND HOW TO LINK DISCUSSION?
 - link to side missions of adventure games - zelda - perhaps find motivation there too. -->
 
-**Summary:** The process supports:
-- addressing tension of identity clashes by recognising and encouraging diverse making approaches and styles of community partipation
 
 
-### Discussion of the process drama
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
-This section discusses the use of drama process to help create coding communities of novices.
 
 <!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
 
-It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory. I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1]
+<!-- It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory.  -->
+
+<!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
 
 The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly disruptive ones which in this context involved frustration and wasted time for other users. Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
 
-The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
-PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
 
-The drama process can be viewed as magic circle [@stenros_defence_2012]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude. I previously made observations on myself and participants being more comfortable performing some of the activities in role. This feeling may stem from being positioned together with participants within a playful agreement. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
+**Summary:** The process supports:
+- addressing tension of identity clashes by recognising and encouraging diverse making approaches and styles of community partipation
 
-
-
-<!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
-
-The positive affective space can also reduce facilitator stress. In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
-
-I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
-
-I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
 
 <!-- This tallies with observations from journal, interviews and video data of participants. -->
 
@@ -933,7 +921,7 @@ Other participants expressed pride over their graphical creations. In this excer
 
 The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
 
-#### Summary: Home Funds and R**
+#### Summary: Home Funds and RQs
 
 This research supports fiding of other research which highlight value of games and media projects to incorporate home funds [Resnick , Scratch]. It also aligns with PBL literature which advocates the personalisation of projects [find a nice one].
 
@@ -1252,6 +1240,25 @@ But at the cost of maintaining a working game. -->
 I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments. I will extract observations from this research that extend beyond the process of coding into other domains.  
 
 
+### Discussion on agency and use of drama process
+
+The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
+PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
+
+The drama process can be viewed as magic circle [@stenros_defence_2012]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude. I previously made observations on myself and participants being more comfortable performing some of the activities in role. This feeling may stem from being positioned together with participants within a playful agreement. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
+
+
+
+<!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
+
+The positive affective space can also reduce facilitator stress. In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
+
+I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
+
+I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+
+
+
 ### designing for emergent practices
 
 holding if needed
@@ -1385,10 +1392,8 @@ The motivational factor of _lifting the lid_ was reflected in a conversation amo
 
 
 #### Authenticity of supporting documentation and design concepts
-
-
-
-Explored in next chapter.
+Explored in next chapter.??
+NOTE STILL NOT SURE OF BEST PLACE FOR DOCUMENATION.
 
 #### Summary
 
