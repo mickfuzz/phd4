@@ -142,9 +142,11 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 ## Exploring the impact of a drama processes
 
+The introduction of a drama process was introduced in response to a the barriers to participation caused by not identifying with the culture of coding or gaming. This section describes the addition ot the intervention and explores its value as a pedagogical tool to seed game coding practices and to develop learner agency.
+
 ### Vignette 4.1.a - Introducing a drama process
 
-This sections starts with a vignette of the start of the forth phase an game making programme (as outlined in previous chapter). The participants have entered the room and chosen a laptop to work on. Some of the children play web-based games or reviewing the games that they have made previously. The session progresses with a warm-up game which includes many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure. The transcript below picks up at this point.
+The participants have entered the room and chosen a laptop to work on. Some of the children play web-based games or reviewing the games that they have made previously. The session progresses with a warm-up game which includes many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure. The transcript below picks up at this point.
 
 <!-- The purpose of the vignette is to situate the reader, give an overview of -->
 
@@ -200,7 +202,11 @@ As a facilitator, I indicate that we are entering a dramatic process and attempt
 
 _Facilitator activities in role_
 
-My role is a link between the participant and the fictional commissioners of the games. The transcript above (a fuller version is in appendix 4.x) captures a rare example of myself extended facilitator input as instruction. As a practitioner teaching technology, I try to limit teacher talk and being overly directive to prevent learner disengagement. Balancing leaner choice with over-ambition is a tension explored in the previous chapter. The drama narrative helped resolve some of this personal tension by allowing me to outline boundaries and be directive using the dramatic commission as a foil to help avoid the encounter feeling personally combative or controlling [heathcote_drama_1985].
+My role is a link between the participant and the fictional commissioners of the games. The transcript above (a fuller version is in appendix 4.x) captures a rare example of myself extended facilitator input as instruction. As a practitioner teaching technology, I try to limit teacher talk and being overly directive to prevent learner disengagement. COMPLETE.
+
+<!-- NOTE - support with lit? also is this one tension or two  -->
+
+Balancing leaner choice with over-ambition is a tension explored in the previous chapter. The drama narrative helped resolve some of this personal tension by allowing me to outline boundaries and be directive using the dramatic commission as a foil to help avoid the encounter feeling personally combative or controlling [heathcote_drama_1985].
 
 _Learner activities in role_
 
@@ -316,6 +322,7 @@ In this extract participants are invited to take turns showing their game, recap
 
 ### Reflecting in role
 
+**It doesn't look like we've got anywhere but we have!** 
 
 <!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 The impact of this end reflection in role can be compared to previous reflection in sessions. In my journal notes for previously phases, I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided richer feedback from a wider variety of participants.
@@ -1025,7 +1032,7 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 
 
-### Emerging divisions of labour
+### Emerging / flexible divisions of labour
 
 NOTE THIS SECTION DESCRIBES EMERGING PATTERNS OF BEHAVIOUR - BUT IT IS NOT CLEAR IF IT ANWSERS THE RESEARCH QUESTIONS DIRECTLY.
 ALSO DUPLICATION WITH NEXT CHAPTER - SO REFACTOR
@@ -1084,11 +1091,13 @@ Thus it is of potential value to learn to value the potential of these liminal m
 
 #### Summary: Division of Labour and RQs
 
-It is hard to make general claims in this area because of the context of the participants as families involved in home education.
-
-However, many of the observations.  similar practices exist in other research in this domain. For example, children have the potential to help parents as technology brokers [@correa_brokering_2015].  And parents can fulfil several valid roles including, advocate, emotional support, etc [@barron_parents_2009]
+It is hard to make general claims in this area because of the context of the participants as families involved in home education. However, many of the observations.  similar practices exist in other research in this domain. For example, children have the potential to help parents as technology brokers [@correa_brokering_2015].  And parents can fulfil several valid roles including, advocate, emotional support, etc [@barron_parents_2009]
 
 Thus, it is not contraversial to suggest that parents and siblings can provide a large form of support in the creative process and that facilitators can design learning environments to facilitatte these possibilities. And that research on the roles that they provide can be of use to facilitators to advance their work. The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
+
+Highlighting and supporting these more naturally emerging roles  behaviours may be more useful  (explain - well aligned to creating a game making community?) to facilitators in informal environments that the more prescriptive roles in pedagogies like pair programming.
+
+
 <!--
 #### Code roles  and experimentation
 
@@ -1208,36 +1217,7 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
 
 
 
-## Conceptualising emergent agency in this study
 
-DOES THIS NEED MOVING?. PERHAPS TO METHODOLOGY
-THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CHAPTER.
-
-Cultural mediation via artefacts [cole], as a base.
-Look for tensions in ATs - and how learners overcome barriers or blockages.
-
-#### On double stimulation and agency
-
-Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
-
-Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
-
-Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
-
-#### On affordances and anchors
-<!-- NOTE
-AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
-
-Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
-
-    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
-
-In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
-Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
-
-Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning).
-
-In a later chapter, I propose that The implications of these combination of concepts the practice of designing and facilitating effective and engaging creative and technical learning environments. I will extract observations from this research that extend beyond the process of coding into other domains.  
 
 <!-- Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them. -->
 <!--
@@ -1248,7 +1228,15 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
-## Discussion on designing for emergent practices and agency
+## Discussion on designing for learner agency
+
+I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments. I will extract observations from this research that extend beyond the process of coding into other domains.  
+
+
+### designing for emergent practices
+
+holding if needed
+half baked designs
 
 ### purpose of this section
 

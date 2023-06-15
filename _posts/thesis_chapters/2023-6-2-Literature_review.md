@@ -345,12 +345,20 @@ Figure 3.1 A Semantic Profile with Semantic Waves
 Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
 
-### Pair programming - social coding
+### Pair programming & social/collaborative coding
 
 **Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
 
 
 See Robertson
+
+Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
+
+**Concepts** -  perhaps some of the underlying concepts like
+- joint problem spaces
+- resource interdependence from Preston
+
+
 
 ### Project based learning PBL
 

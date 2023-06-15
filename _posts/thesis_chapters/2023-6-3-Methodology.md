@@ -10,6 +10,124 @@ categories: chapter
 title: Methodology
 ---
 
+
+-   [Research Questions - May 2023](#research-questions---may-2023)
+-   [Outline](#outline)
+    -   [NOTE - Coding use of GDP.](#note---coding-use-of-gdp.)
+    -   [Coding based on chapter 4](#coding-based-on-chapter-4)
+    -   [PROPOSAL Coding impact on design/ processes on learner agency -
+        boiled down
+        -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+-   [Theoretical Framework](#theoretical-framework)
+    -   [Introduction to social turn,
+        school,](#introduction-to-social-turn-school)
+        -   [Build on the Literature Review
+            -](#build-on-the-literature-review--)
+        -   [Socio cultural research
+            methods](#socio-cultural-research-methods)
+-   [Justification of choice of
+    methodology](#justification-of-choice-of-methodology)
+    -   [A social rather than individual
+        constructivism](#a-social-rather-than-individual-constructivism)
+-   [Design-based research and Intervention studies within educational
+    field](#design-based-research-and-intervention-studies-within-educational-field)
+-   [Conceptualising emergent agency in this
+    study](#conceptualising-emergent-agency-in-this-study)
+    -   [On double stimulation and
+        agency](#on-double-stimulation-and-agency)
+    -   [On affordances and anchors](#on-affordances-and-anchors)
+-   [Conceptualising activity in this learning
+    design](#conceptualising-activity-in-this-learning-design)
+    -   [Levels of Abstraction in Activity
+        Theory](#levels-of-abstraction-in-activity-theory)
+    -   [Justification of GDP as a unit of
+        analysis](#justification-of-gdp-as-a-unit-of-analysis)
+    -   [Conceptualising activity in this learning
+        design](#conceptualising-activity-in-this-learning-design-1)
+        -   [LOA in Computing pedagogy](#loa-in-computing-pedagogy)
+-   [Sociocultural Methods of
+    Analysis](#sociocultural-methods-of-analysis)
+    -   [Stages of Data Gathering and
+        ANALYSIS](#stages-of-data-gathering-and-analysis)
+        -   [Mutual nature of the evolution of the
+            design](#mutual-nature-of-the-evolution-of-the-design)
+    -   [Role of Practitioner
+        interviews](#role-of-practitioner-interviews)
+-   [Data gathering methods and
+    justification](#data-gathering-methods-and-justification)
+-   [Data Processing](#data-processing)
+    -   [360 Video Processing](#video-processing)
+    -   [Screen Capture Processing](#screen-capture-processing)
+    -   [General File management](#general-file-management)
+    -   [Learnings and recommendations](#learnings-and-recommendations)
+-   [Data analysis methods and
+    justification](#data-analysis-methods-and-justification)
+    -   [Other Material - Analysis of
+        Data](#other-material---analysis-of-data)
+    -   [Analysis of Journal and Teaching
+        Resources](#analysis-of-journal-and-teaching-resources)
+        -   [Overall Rational and
+            Approach](#overall-rational-and-approach)
+    -   [Specifics of Coding](#specifics-of-coding)
+        -   [Choosing what and how much to
+            code](#choosing-what-and-how-much-to-code)
+        -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
+        -   [Note on creation of learning and teaching
+            resources](#note-on-creation-of-learning-and-teaching-resources)
+    -   [Video Coding - Analysis of
+        Data](#video-coding---analysis-of-data)
+    -   [Notes on Underpinning of Thematic Analysis of Video
+        Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
+        -   [Overall Rational and Approach of Coding Video
+            Data](#overall-rational-and-approach-of-coding-video-data)
+        -   [What was Excluded and
+            Rationale](#what-was-excluded-and-rationale)
+        -   [Coding Participant Roles and
+            Interactions.](#coding-participant-roles-and-interactions.)
+        -   [Coding Design Cycle Stages](#coding-design-cycle-stages)
+        -   [Coding Game Design Themes](#coding-game-design-themes)
+    -   [Grades of video data analysis](#grades-of-video-data-analysis)
+    -   [Limits of / problems with video data
+        analysis](#limits-of-problems-with-video-data-analysis)
+    -   [Analysis of activities based on Cultural, Interpersonal and
+        Personal
+        focusing](#analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing)
+    -   [Discussion - post mortem - PERHAPS SHIFT TO LAST CHAPTER
+        finally](#discussion---post-mortem---perhaps-shift-to-last-chapter-finally)
+    -   [Data Validity - Triangulation of
+        Data](#data-validity---triangulation-of-data)
+    -   [Generalisation of Results](#generalisation-of-results)
+-   [Research Questions](#research-questions)
+    -   [How Research Questions
+        Evolved](#how-research-questions-evolved)
+    -   [What research questions are answered by what data gathering and
+        analysis - and described in what
+        chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
+    -   [RQ1 - What game making pedagogies exist?
+        -](#rq1---what-game-making-pedagogies-exist--)
+    -   [RQ2 - How can you apply Project Based Learning principles (and
+        inclusive teaching methods) to a game making / creative
+        coding?](#rq2---how-can-you-apply-project-based-learning-principles-and-inclusive-teaching-methods-to-a-game-making-creative-coding)
+    -   [RQ3 - How do game patterns support the development of coding
+        practices with
+        novices?](#rq3---how-do-game-patterns-support-the-development-of-coding-practices-with-novices)
+    -   [RQ4 - What effect does a pedagogical model focused on PBL
+        principles (especially learner choice) have on parent and child
+        learner experiences of digital game making
+        ?](#rq4---what-effect-does-a-pedagogical-model-focused-on-pbl-principles-especially-learner-choice-have-on-parent-and-child-learner-experiences-of-digital-game-making)
+    -   [Description of Phases](#description-of-phases)
+-   [Discussion on Methodology in relation to other
+    DBR](#discussion-on-methodology-in-relation-to-other-dbr)
+    -   [More material on Expansive
+        Learning](#more-material-on-expansive-learning)
+    -   [5th dimension Case Study](#th-dimension-case-study)
+    -   [Discussion based on case
+        studies.](#discussion-based-on-case-studies.)
+-   [Transition to next Chapter - About the specifics of mutual
+    evolution of Learning
+    DESIGN](#transition-to-next-chapter---about-the-specifics-of-mutual-evolution-of-learning-design)
+
+
 <!-- Also see this writing.
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
@@ -40,6 +158,7 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
     - other questions to inform context and community (via interview data)
 - DBR, design process
   - Mostly signpost to the next chapters
+- Conceptualising learner agency
 - Data gathering
     - 360
 - Data analysis
@@ -164,6 +283,37 @@ My own research in game making is an experimental approach to create a new learn
 Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.
 
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
+## Conceptualising emergent agency in this study
+
+DOES THIS NEED MOVING?. PERHAPS TO METHODOLOGY
+THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CHAPTER.
+
+Cultural mediation via artefacts [cole], as a base.
+Look for tensions in ATs - and how learners overcome barriers or blockages.
+
+#### On double stimulation and agency
+
+Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
+
+Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
+
+Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
+
+#### On affordances and anchors
+<!-- NOTE
+AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+
+    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
+
+In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
+Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
+
+Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning).
+
 
 
 ## Conceptualising activity in this learning design
