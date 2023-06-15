@@ -338,30 +338,36 @@ DEVELOP AND DEEPEN ANALYSIS IN RELATION TO EXISTING RESEARCH
 
 <!-- NOTE ON CODING - LIMITED -->
 
-### Observations on exploring documentation and accessing technical help within the drama frame
 
-To develop the idea that participants could communicate directly with the aliens to ask help, I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
+<!-- While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern. -->
 
-Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
-
-    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
-
-The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process. It also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
-
-While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern.
-
-This observation is supported by research which encourages varied approaches in addition to instruction-based approaches [@dietz_design_2021; @resnick_coding_2020]. Other studies address barriers to literacy in technical project work  explore written instructions within the drama frame thus providing a greater incentive for participants to engage with the material [@blunden2014seeking]. [SEE LIT REVIEW FOR MORE EXPLORATION].
+<!-- This observation is supported by research which encourages varied approaches in addition to instruction-based approaches [@dietz_design_2021; @resnick_coding_2020]. Other studies address barriers to literacy in technical project work  explore written instructions within the drama frame thus providing a greater incentive for participants to engage with the material [@blunden2014seeking]. [SEE LIT REVIEW FOR MORE EXPLORATION]. -->
 
 <!-- The exploration of documentation with the drama frame aimed to disrupt this pattern of identification giving participants a motivation to read in role.  -->
 
-Evidence for this means of communication is promising however because these processes were brought into the design at a relatively late stage, there is not enough data to make larger claims beyond surfacing this potential.
+<!-- Evidence for this means of communication is promising however because these processes were brought into the design at a relatively late stage, there is not enough data to make larger claims beyond surfacing this potential. -->
 
 <!-- NOTE - bRING IN A QUOTE FROM ATHENA TO SUPPORT?  -->
 
 <!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
 
 
-### Observations on playful chat with the alien sessions
+### Observations on written interactions with the alien in the drama
+
+**TO MOVE?**
+
+Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
+
+    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
+
+
+#### Exploring documentation and accessing technical help within the drama frame
+
+To develop the idea that participants could communicate directly with the aliens to ask help, I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
+
+
+The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process. It also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
+
 
 The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. I noted the ad-hoc encounter in our end of session reflection.
 
@@ -453,11 +459,16 @@ It is of value to briefly discussion the value of the missions in relation to dr
 
 The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly disruptive ones which in this context involved frustration and wasted time for other users. Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
 
+The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
+PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
+
 The drama process can be viewed as magic circle [@stenros_defence_2012]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude. I previously made observations on myself and participants being more comfortable performing some of the activities in role. This feeling may stem from being positioned together with participants within a playful agreement. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
+
+
 
 <!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
 
-In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
+The positive affective space can also reduce facilitator stress. In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
 
 I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
 
@@ -591,13 +602,21 @@ NOTE - MORE DATA/FOCUS IS NEEDED FOR THIS SECTION
 <!-- NOTE -  compare this to Scratch community - in scratch its easy to find games to remix. This has less of a ready made community of learners but feels more real (potentially (no data)) -->
 
 
-### Impact of the half-baked starting template
 
+### Code playground and Half-baked game as Microworld
 <!-- The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
 While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. -->
 
 
 The last chapter outlined the use and design characteristics of the starting game template, namely: an incomplete 2D platformer; pixel graphics; with graphical scaffolding for text-based code; and deliberately incomplete thus inviting improvement. This section addresses the impact of these characteristics on participant coding practices, based on video observations of learners.
+
+
+
+MOVE SOME OF THE LATER SECTION HERE ABOUT MICROWORLD?
+OR IN DESIGN?
+
+### Impact of the half-baked starting template
+
 
 In phase one, I noted that any addition to the game in terms of adding new any quantity of code created a many possible problems. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
 
@@ -1264,27 +1283,39 @@ Participants may also lack the concepts of computing and necessary language need
 NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
 
 
-### Participants developing agency in their  use of documentation
-
-Perhaps a suitable space here?
 
 
 
 ### "Authentish" - goals in drama and project-based processes and related scenarios
 
-The concept of an near-authentic project goal is a key tool for educators to support game making via project based learning.
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation**
 
-Making for peers has value but can be amplified and scoped using a fictional or controlled external audience.
+- audience
+- tools
+- processes (professional and peers ?)
+- shared concepts - link to GDPs as a big one
+
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. Examples include, literacy, maths, science and history.
+
+The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning and authentic learning [].
+
+This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes.
+
+**Audience**
+
+Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
+
+While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
 
 In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (soemthing about learner identities)
 
-Similar to many PBL projects, the use of a fictional audience in the drama is clearly inauthentic,
 
+<!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
 The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
-
-Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on
-
 The process of bringing people into the culture merit allocating time to address inequalities.
+
+Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
+
 
 
 
@@ -1292,12 +1323,14 @@ The process of bringing people into the culture merit allocating time to address
 <!--
 Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
 
-Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
 
 
 <!-- NOTE - Find complexity here?  -->
 
-One key consideration is the authenticity of the tools involved. While Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
+**Toolset**
+
+One key consideration is the authenticity of the tools involved. While
+Heathcote often explored issues in the context of making of the workplace through replicating working models of practice, she warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day. This is uncovered in an interview extract from Bolton and Heathcote.
 
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
@@ -1315,8 +1348,23 @@ The use of code playgrounds mirrors that of professionals. The process of creati
 
 While early use of microworlds as a "acceptable" authentic-ish a concept endorsed in literature on authentic approaches [].
 
-The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
-PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
+#### Seeding Agency within Microworld design
+
+THIS PERHAPS LIVES IN THE AUTHENTICITY OF TOOLS SECTION
+
+One of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
+
+While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time.
+
+The embodied elements allowed access to agency via expression of home interests, play with dynamics, game layout,
+ANCHOR METAPHIR
+
+The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
+
+The next stage was to imagine game elements to add to the design in the form of GDPs.
+The next chapter explores the use of GDPs by participants in detail using varied data.
+
+
 
 This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
 
@@ -1336,6 +1384,13 @@ The motivational factor of _lifting the lid_ was reflected in a conversation amo
 <!-- In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology.  -->
 
 
+#### Authenticity of supporting documentation and design concepts
+
+
+
+Explored in next chapter.
+
+#### Summary
 
 The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
 
@@ -1440,20 +1495,7 @@ These can be synthesised using TADS metaphor and enriching it with a greater foc
 See here for table
 https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/edit#
 
-### Link to next chapter - Agency within Microworld design
-
-A of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
-
-While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time.
-
-The embodied elements allowed access to agency via expression of home interests, play with dynamics, game layout,
-ANCHOR METAPHIR
-
-The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
-
-The next stage was to imagine game elements to add to the design in the form of GDPs.
-
-The next chapter explores the use of GDPs by participants in detail using varied data.
+### Link to next chapter -
 
 
 
