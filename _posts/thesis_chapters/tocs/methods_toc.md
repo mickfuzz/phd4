@@ -36,6 +36,8 @@
         knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
         -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
     -   [Playtesting](#playtesting)
+        -   [Agency vs Community - Agency with an evolving
+            community](#agency-vs-community---agency-with-an-evolving-community)
         -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
     -   [Emerging / flexible divisions of
         labour](#emerging-flexible-divisions-of-labour)
@@ -53,9 +55,6 @@
     agency](#discussion-on-designing-for-learner-agency)
     -   [Discussion on agency and use of drama
         process](#discussion-on-agency-and-use-of-drama-process)
-    -   [designing for emergent
-        practices](#designing-for-emergent-practices)
-    -   [purpose of this section](#purpose-of-this-section)
     -   ["Authentish" - goals in drama and project-based processes and
         related
         scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
@@ -71,4 +70,4 @@
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
-    -   [Link to next chapter -](#link-to-next-chapter--)
+-   [Conclusion](#conclusion)
