@@ -154,7 +154,7 @@ Activity Theory allows researchers to identify intersecting or nested systems of
 
 Subsequent analysis of the identified activity systems allows both the researcher and practitioner to identifying existing and emerging tensions and to thus observe (spontaneous) or plan (designed) responses.
 
-Beyond the overarching objectives of learning via engaging with the programme (families) and conducting research (researcher), the system scopes include:
+Beyond the overarching objectives of learning via engaging with the programme (parents), being part of a fun club (children) and conducting research (researcher), the system scopes include:
 
 - Larger-scoped objective: creating a game which is fun to play and communicate an environmental theme
 - Mid-level objectives: identifying and implementing key game features to add to the game
@@ -253,21 +253,21 @@ Others in the group did not experiment in this way and used more direct help or 
 
 In the last chapter, we examined the use of Rogoff's 3 lenses of cultural, social and personal activity. We can see a broad alignment of these lenses and the scopes of the activity systems above.
 
-This has utility to both researcher and learning designer.
+This has utility to both researcher and learning designer. The observations of the following chapters are based on this approach of using lenses to focus in on relevant activity.
 
-NOTE - Explore how in line with research DBR - most probably. But also possibly Bevan and Petrich
-
-The observations of the following chapters are based on this approach of using lenses to focus in on relevant activity. 
+NOTE - Explore how performed in line with other research - e.g. DBR (Barab) and possibly Bevan and Petrich
 
 ## Summary of design evolution
 
 <!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-
 see updated table in tables subdirectory  
-
 -->
 
-The following table is provided to give the reader an overview of the stages and a link to examples of resources in the appendices and links to online examples. The following sections describe the use of varied tools and processes in greater detail to explore the rationale for the creation and selection of these tools.
+The following table is provided to give the reader an overview of the stages and tools  used.
+
+Emerging tensions in activity systems are used to explore the rationale for the creation and selection of these tools.
+
+The following chapters describe the use of varied tools and processes in greater detail
 
 <!-- Table from
 https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->

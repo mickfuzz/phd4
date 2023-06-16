@@ -104,7 +104,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Remixing / Half Baked games []
 - Etc -->
 
-## Research Questions - May 2023
+## Research Questions - June 2023
 
 - What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
@@ -121,7 +121,7 @@ This chapter is concerned with examining the impact on participants of the learn
 
 In the discussion section, the chapter builds on material explored in the literature to explore:
 
-- conceptions agency in this learning design, Particular attention is given to processes which support learners to develop agency in the game making process.
+- the development of agency in this learning design, Particular attention is given to processes which support learners to develop agency in the game making process.
 - design concepts to support novices learning coding in game making contexts.
 
 <!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.  -->
@@ -325,16 +325,16 @@ In this extract participants are invited to take turns showing their game, recap
 **It doesn't look like we've got anywhere but we have!**
 
 <!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
+
+While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. In line with this intervention, they propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience.
+
+In this intervention the process is somewhat reversed. Main activities happen only weakly in role, whereas the end reflection highlights the fictional frame of the making more strongly.
+
 The impact of this end reflection in role can be compared to previous reflection in sessions. In my journal notes for previously phases, I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided richer feedback from a wider variety of participants.
 
 The use of the screen as a link to the aliens helps justify moving participants and stopping all activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
 
-While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. They propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience.
 
-DEVELOP AND DEEPEN ANALYSIS IN RELATION TO EXISTING RESEARCH
-
-
-<!-- As a facilitator, I picked this technique from work with the MMU drama department [@caldwell_drama_2019], the vignette above shows -->
 
 <!-- NOTE ON CODING - LIMITED -->
 
@@ -354,20 +354,16 @@ DEVELOP AND DEEPEN ANALYSIS IN RELATION TO EXISTING RESEARCH
 
 ### Observations on written interactions with the alien in the drama
 
-**TO MOVE?**
-
-Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
-
-    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
-
 
 #### Exploring documentation and accessing technical help within the drama frame
 
 To develop the idea that participants could communicate directly with the aliens to ask help, I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
 
+Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
 
-The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process. It also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
+    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
 
+### Playful dialogue with the aliens unrelated to game making
 
 The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. I noted the ad-hoc encounter in our end of session reflection.
 
@@ -383,8 +379,12 @@ In addition to the stated feedback activity the live chat served wider purposes 
 For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
 **Summary:** The process supports:
+
 - addressing tension of feeling alienated from coding cultures, by bringing playful dialogue elements into the code authoring environment
-- this conversational process emerged from a chance interaction - thus nurting learner agency  
+- this conversational process emerged from a chance interaction - thus nurturing learner agency  
+
+The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process. It also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
+
 
 <!-- NOTES
 - identity of playfulness  
@@ -392,7 +392,12 @@ For some pairs, while the child interacted in the live chat, parents performed f
 
 ### Use of side missions to encourage varied creative practices
 
-The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter, my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+<!--
+Perhaps add back in as an unintended consequence?
+
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter, my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
 
 A table of both social and public missions follows.
 <!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
@@ -581,11 +586,17 @@ As explored in the previous chapter, my motivation for choice of code developmen
 <!--
 MOVE
 
-The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
+he last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
 While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. -->
 
 
 The last chapter outlined the use and design characteristics of the starting game template, namely: an incomplete 2D platformer; pixel graphics; with graphical scaffolding for text-based code; and deliberately incomplete thus inviting improvement. This section addresses the impact of these characteristics on participant coding practices, based on video observations of learners.
+
+THIS NEEDS REVISION - USEFUL BUT WHAT FOCUS - DEBUGGING TOOLS? - DESIGN HEURISTICS - LIKE SCRATCH
+
+The use of glitch as a code playground significantly reduced technical barriers for students. It removing the process of setting up a server for web development, and the delay of transferring files to the server. While the code project consisted of several files of javascript, HTML and CSS, learners were shielded from the complexity of how they were interlinked and there were practically no extended blockages to undertaking work using this environment. There were some issues of access for some participants who did not remember or recall log in details or their project name. These issues were mitigated through the use of a log in details shared between participants.
+
+When users struggled to log in or to find the games or assets that they had created earlier there sought and received help from family members or other peers. Direct help from facilitators was rarely required. In the glitch environment code errors were highlighted in with red dot in the interface which gave a quick visual indication of where the error occurred, when the user hovered over gave an error message as a pop up. the which while limited
 
 MOVE SOME OF THE LATER SECTION HERE ABOUT MICROWORLD?
 OR IN DESIGN?
@@ -1346,6 +1357,25 @@ The use of code playgrounds mirrors that of professionals. The process of creati
 
 While early use of microworlds as a "acceptable" authentic-ish a concept endorsed in literature on authentic approaches [].
 
+#### Analysis against (and calls to heed)H existing design heuristics
+
+Earlier we examined of challenges of the authenticity of the authentic tools set consisting of js, phaser, html, and a code-playround.
+
+The complexity of coding and the resulting challenges of learning to code has yield much research on guidance in the process of designing toolsets to support novice coders [@resnick_reflections_2005] - (find others on the evolution of LOGO).  
+
+The user-friendly design heuristics of  low-thresholds, wide-walls, high-ceilings - extended by Kafai and Burke to include open windows - can be used to evaluate this design and other designs.  
+
+NOTE - ADD KEY DETAILS OF THE ACCESSIBILITY / CHALLENGE OF THE CORE TOOLS SET
+
+In this design the tools set is disctinct from tools like scratch which are self-contained to a large degree (while interacting with a website)
+
+The online only nature of the toolset does facilitate certain aspects of community participation by shifting the working space away from a desktop only environment, this facilitating some sharing by default. This was picked up on by the community as they viewed each others assets and playtested games.
+
+Indeed, Scratch itself has moved to a web-bsaed online by default process in the lifespan of this research.  
+
+**Summary:** These heuristics provide a useful tool for designers and practitioners supporting creative coding activities.
+
+
 #### Seeding Agency within Microworld design
 
 THIS PERHAPS LIVES IN THE AUTHENTICITY OF TOOLS SECTION
@@ -1361,8 +1391,6 @@ The partially working environment and immediate feedback this allowed also gave 
 
 The next stage was to imagine game elements to add to the design in the form of GDPs.
 The next chapter explores the use of GDPs by participants in detail using varied data.
-
-
 
 This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
 
@@ -1383,8 +1411,10 @@ The motivational factor of _lifting the lid_ was reflected in a conversation amo
 
 
 #### Authenticity of supporting documentation and design concepts
+
 Explored in next chapter.??
 NOTE STILL NOT SURE OF BEST PLACE FOR DOCUMENATION.
+NOTE WHAT EXACTLY IS MEANT BY CONCEPTS -
 
 #### Summary
 
