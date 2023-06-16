@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Findings Seeding Game Making Communities to Facilitate Learner Agency
+title: 5. Seeding Game Making Communities to Facilitate Learner Agency
 ---
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Introduction](#introduction)
@@ -1324,7 +1324,7 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 One key consideration is the authenticity of the tools involved.
 
-EXPLORE THIS HERE - AS MOVED SOME TO PREVIOUS CHAPTER 
+EXPLORE THIS HERE - AS MOVED SOME TO PREVIOUS CHAPTER
 
 
 While

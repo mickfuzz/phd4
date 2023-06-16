@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Literature Review
+title: 2. Literature Review
 ---
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Literature Review overview - structure by

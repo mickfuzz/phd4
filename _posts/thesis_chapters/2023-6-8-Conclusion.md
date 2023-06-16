@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Conclusion
+title: 8. Conclusion
 ---
 
 
@@ -140,7 +140,7 @@ Physical maps in Phase 3.   -->
 ## Follow up work / limitations
 
 
-### Missing data on starting game / quick start cards 
+### Missing data on starting game / quick start cards
 
 Study on the use of templated starting cards was unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase.
 

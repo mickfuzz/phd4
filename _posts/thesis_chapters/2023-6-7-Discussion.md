@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Discussion Chapter
+title: 7. Discussion 
 ---
 <!--
 ## Starting thoughts on writing up results.

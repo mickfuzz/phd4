@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Findings Chapter 2 - It’s like a project in itself really
+title:  6. The Use of Gameplay Design Patterns "It’s like a project in itself, really"
 ---
 
 -   [Introduction to This Writing](#introduction-to-this-writing)

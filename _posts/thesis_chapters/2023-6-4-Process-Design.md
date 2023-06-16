@@ -6,7 +6,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Process - Emerging Learning Designs
+title: 4. Emerging Learning Designs
 ---
 -   [Chapter Introduction](#chapter-introduction)
     -   [Contextual factors from practitioner perspective influencing
@@ -791,7 +791,7 @@ The use of a physical map on which GDP were arranged aimed to communicate which 
 
 The last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
 
-While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. 
+While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one.
 
 ### Structuring supporting resources
 
