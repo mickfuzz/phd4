@@ -6,6 +6,8 @@
     -   [Commentary on Vignette - including a brief description of the
         nested levels of activity & tools
         used](#commentary-on-vignette---including-a-brief-description-of-the-nested-levels-of-activity-tools-used)
+    -   [Commentary the use of AT scopes in data
+        ANALYSIS](#commentary-the-use-of-at-scopes-in-data-analysis)
 -   [Summary of design evolution](#summary-of-design-evolution)
 -   [Commentary on evolution of design by
     Phase](#commentary-on-evolution-of-design-by-phase)

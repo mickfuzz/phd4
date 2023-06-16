@@ -8,7 +8,8 @@ layout: post
 categories: chapter
 title: 4. Emerging Learning Designs
 ---
--   [Chapter Introduction](#chapter-introduction)
+
+  -   [Chapter Introduction](#chapter-introduction)
     -   [Contextual factors from practitioner perspective influencing
         design](#contextual-factors-from-practitioner-perspective-influencing-design)
 -   [Short vignette illustrating shifts in scope of

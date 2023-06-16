@@ -1,4 +1,4 @@
--   [Research Questions - May 2023](#research-questions---may-2023)
+-   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Introduction](#introduction)
 -   [Exploring the impact of a drama
     processes](#exploring-the-impact-of-a-drama-processes)
@@ -9,19 +9,21 @@
         missions](#vignette-4.1.b---session-reflections-and-secret-missions)
     -   [Description of Vignette 4.1.b](#description-of-vignette-4.1.b)
     -   [Reflecting in role](#reflecting-in-role)
-    -   [Observations on exploring documentation and accessing technical
-        help within the drama
-        frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Observations on playful chat with the alien
-        sessions](#observations-on-playful-chat-with-the-alien-sessions)
+    -   [Observations on written interactions with the alien in the
+        drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
+        -   [Exploring documentation and accessing technical help within
+            the drama
+            frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+    -   [Playful dialogue with the aliens unrelated to game
+        making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-    -   [Discussion of the process
-        drama](#discussion-of-the-process-drama)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
         tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
+    -   [Code playground and Half-baked game as
+        Microworld](#code-playground-and-half-baked-game-as-microworld)
     -   [Impact of the half-baked starting
         template](#impact-of-the-half-baked-starting-template)
         -   [Observations on design behaviours encouraged through use of
@@ -29,13 +31,14 @@
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
-    -   [Playtesting](#playtesting)
-        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
     -   [Emerging use of narratives and graphics which drawing on home
         funds of
         knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
-        -   [Summary: Home Funds and R\*\*](#summary-home-funds-and-r)
-    -   [Emerging divisions of labour](#emerging-divisions-of-labour)
+        -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
+    -   [Playtesting](#playtesting)
+        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
+    -   [Emerging / flexible divisions of
+        labour](#emerging-flexible-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
@@ -46,23 +49,26 @@
         laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
         -   [Summary: Division of Labour and
             RQs](#summary-division-of-labour-and-rqs)
--   [Conceptualising emergent agency in this
-    study](#conceptualising-emergent-agency-in-this-study)
-    -   [On double stimulation and
-        agency](#on-double-stimulation-and-agency)
-    -   [On affordances and anchors](#on-affordances-and-anchors)
--   [Discussion on designing for emergent practices and
-    agency](#discussion-on-designing-for-emergent-practices-and-agency)
+-   [Discussion on designing for learner
+    agency](#discussion-on-designing-for-learner-agency)
+    -   [Discussion on agency and use of drama
+        process](#discussion-on-agency-and-use-of-drama-process)
+    -   [designing for emergent
+        practices](#designing-for-emergent-practices)
     -   [purpose of this section](#purpose-of-this-section)
-    -   [Participants developing agency in their use of
-        documentation](#participants-developing-agency-in-their-use-of-documentation)
     -   ["Authentish" - goals in drama and project-based processes and
         related
         scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
+        -   [Analysis against (and calls to heed)H existing design
+            heuristics](#analysis-against-and-calls-to-heedh-existing-design-heuristics)
+        -   [Seeding Agency within Microworld
+            design](#seeding-agency-within-microworld-design)
+        -   [Authenticity of supporting documentation and design
+            concepts](#authenticity-of-supporting-documentation-and-design-concepts)
+        -   [Summary](#summary)
     -   [Supporting flexible design
         practices](#supporting-flexible-design-practices)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
-    -   [Link to next chapter - Agency within Microworld
-        design](#link-to-next-chapter---agency-within-microworld-design)
+    -   [Link to next chapter -](#link-to-next-chapter--)

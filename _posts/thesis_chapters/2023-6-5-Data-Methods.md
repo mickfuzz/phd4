@@ -9,7 +9,8 @@ layout: post
 categories: chapter
 title: 5. Seeding Game Making Communities to Facilitate Learner Agency
 ---
--   [Research Questions - May 2023](#research-questions---may-2023)
+
+-   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Introduction](#introduction)
 -   [Exploring the impact of a drama
     processes](#exploring-the-impact-of-a-drama-processes)
@@ -20,19 +21,21 @@ title: 5. Seeding Game Making Communities to Facilitate Learner Agency
         missions](#vignette-4.1.b---session-reflections-and-secret-missions)
     -   [Description of Vignette 4.1.b](#description-of-vignette-4.1.b)
     -   [Reflecting in role](#reflecting-in-role)
-    -   [Observations on exploring documentation and accessing technical
-        help within the drama
-        frame](#observations-on-exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Observations on playful chat with the alien
-        sessions](#observations-on-playful-chat-with-the-alien-sessions)
+    -   [Observations on written interactions with the alien in the
+        drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
+        -   [Exploring documentation and accessing technical help within
+            the drama
+            frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+    -   [Playful dialogue with the aliens unrelated to game
+        making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-    -   [Discussion of the process
-        drama](#discussion-of-the-process-drama)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
         tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
+    -   [Code playground and Half-baked game as
+        Microworld](#code-playground-and-half-baked-game-as-microworld)
     -   [Impact of the half-baked starting
         template](#impact-of-the-half-baked-starting-template)
         -   [Observations on design behaviours encouraged through use of
@@ -40,13 +43,14 @@ title: 5. Seeding Game Making Communities to Facilitate Learner Agency
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
-    -   [Playtesting](#playtesting)
-        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
     -   [Emerging use of narratives and graphics which drawing on home
         funds of
         knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
-        -   [Summary: Home Funds and R\*\*](#summary-home-funds-and-r)
-    -   [Emerging divisions of labour](#emerging-divisions-of-labour)
+        -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
+    -   [Playtesting](#playtesting)
+        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
+    -   [Emerging / flexible divisions of
+        labour](#emerging-flexible-divisions-of-labour)
         -   [Alternating coding](#alternating-coding)
         -   [Shifting roles in partner
             work](#shifting-roles-in-partner-work)
@@ -57,26 +61,30 @@ title: 5. Seeding Game Making Communities to Facilitate Learner Agency
         laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
         -   [Summary: Division of Labour and
             RQs](#summary-division-of-labour-and-rqs)
--   [Conceptualising emergent agency in this
-    study](#conceptualising-emergent-agency-in-this-study)
-    -   [On double stimulation and
-        agency](#on-double-stimulation-and-agency)
-    -   [On affordances and anchors](#on-affordances-and-anchors)
--   [Discussion on designing for emergent practices and
-    agency](#discussion-on-designing-for-emergent-practices-and-agency)
+-   [Discussion on designing for learner
+    agency](#discussion-on-designing-for-learner-agency)
+    -   [Discussion on agency and use of drama
+        process](#discussion-on-agency-and-use-of-drama-process)
+    -   [designing for emergent
+        practices](#designing-for-emergent-practices)
     -   [purpose of this section](#purpose-of-this-section)
-    -   [Participants developing agency in their use of
-        documentation](#participants-developing-agency-in-their-use-of-documentation)
     -   ["Authentish" - goals in drama and project-based processes and
         related
         scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
+        -   [Analysis against (and calls to heed)H existing design
+            heuristics](#analysis-against-and-calls-to-heedh-existing-design-heuristics)
+        -   [Seeding Agency within Microworld
+            design](#seeding-agency-within-microworld-design)
+        -   [Authenticity of supporting documentation and design
+            concepts](#authenticity-of-supporting-documentation-and-design-concepts)
+        -   [Summary](#summary)
     -   [Supporting flexible design
         practices](#supporting-flexible-design-practices)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
-    -   [Link to next chapter - Agency within Microworld
-        design](#link-to-next-chapter---agency-within-microworld-design)
+    -   [Link to next chapter -](#link-to-next-chapter--)
+
 
 <!-- ## Overview in points
 
@@ -715,6 +723,72 @@ One major process added in response to the requests of learners was that of addi
 <!-- opens up flexibility in the way learners approach the design processes. -->
 <!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
 
+
+### Emerging use of narratives and graphics which drawing on home funds of knowledge
+
+While the potential to add graphics was a core affordence of the half-baked templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.
+
+The literature review explored existing research on how the use of home interests and funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio effects or written messages were also possible.
+
+
+One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
+
+     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
+     Use the arrow keys to move the bee. Press return to START.";
+
+
+
+<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+
+   zi: Have you done amazing things?
+
+The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
+
+The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
+
+In another example, Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
+
+<!-- NOTE
+NARRATIVE / drama IN PREVIOUS CHAPTER?
+how do these two sections work together? remove this one?
+ -->
+<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
+
+<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
+
+<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
+
+Other participants expressed pride over their graphical creations. In this excerpt parent Molly has spent time creating a pixel art representation of an alien. The full exchange (see appendix 4.x) sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel".
+
+    Molly: We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
+    Sonia: Have you saved it?
+    Molly: No I’ve not saved it.
+    Sonia: Save there. (points to relevant button on screen)
+
+The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
+
+#### Summary: Home Funds and RQs
+
+This research supports fiding of other research which highlight value of games and media projects to incorporate home funds [Resnick , Scratch]. It also aligns with PBL literature which advocates the personalisation of projects [find a nice one].
+
+The use of home funds of knowlege as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems to share the personalised object created.
+
+The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
+
+There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.)
+This shifts the focus of the microworld concept away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
+
+
+<!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
+
+<!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
+Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make. -->
+
+<!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
+
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
+
+
 ### Playtesting
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
@@ -801,8 +875,17 @@ Parent Molly had been focused mostly on completing asset design this had created
 
 Mi initially misconstrue the feedback that her game is hard as a positive thing. Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." This suggests that through he process she understands her game is frustrating rather than pleasantly challenging.
 
-A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_. These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
+A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_.
+
+#### Agency vs Community - Agency with an evolving community
+
+These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
+
 DEVELOP THE LINK TO NORMING PRACTICES HERE OR IN DISCUSSION LATER
+
+ALSO IS THERE A TENSION BETWEEN THIS COMMUNITY NORMING AS AN EMERGING PRACTICE - AND INDIVIDUAL AGENCY HERE
+
+EXPLORE THIS IN RELATION TO RESEARCH - AND PERHAPS SHIFT TO LATER DISCUSSION
 
 #### Summary Playtesing and RQs
 
@@ -875,69 +958,7 @@ An additional rationale for this process was to help reduce potential internal b
 This section explores what other shifts in design practices -->
 
 
-### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
-While the potential to add graphics was a core affordence of the half-baked templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.
-
-The literature review explored existing research on how the use of home interests and funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio effects or written messages were also possible.
-
-
-One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
-
-     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
-     Use the arrow keys to move the bee. Press return to START.";
-
-
-
-<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
-
-   zi: Have you done amazing things?
-
-The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
-
-The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
-
-In another example, Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
-
-<!-- NOTE
-NARRATIVE / drama IN PREVIOUS CHAPTER?
-how do these two sections work together? remove this one?
- -->
-<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
-
-<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
-
-<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
-
-Other participants expressed pride over their graphical creations. In this excerpt parent Molly has spent time creating a pixel art representation of an alien. The full exchange (see appendix 4.x) sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel".
-
-    Molly: We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
-    Sonia: Have you saved it?
-    Molly: No I’ve not saved it.
-    Sonia: Save there. (points to relevant button on screen)
-
-The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
-
-#### Summary: Home Funds and RQs
-
-This research supports fiding of other research which highlight value of games and media projects to incorporate home funds [Resnick , Scratch]. It also aligns with PBL literature which advocates the personalisation of projects [find a nice one].
-
-The use of home funds of knowlege as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems to share the personalised object created.
-
-The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
-
-There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.)
-This shifts the focus of the microworld concept away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
-
-
-<!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
-
-<!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
-Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make. -->
-
-<!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
-
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
 
 <!-- #### Different styles of making
 PERHAPS IN DESING SECTION - BUT TRY HERE FIRST -->
@@ -1234,8 +1255,15 @@ But at the cost of maintaining a working game. -->
 
 ## Discussion on designing for learner agency
 
-I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments. I will extract observations from this research that extend beyond the process of coding into other domains.  
+<!-- I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.  -->
 
+This chapter has explored the affordence and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse.
+
+This section begins to explore observations in line with conceptions of agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process.
+
+<!-- I will extract observations from this research that extend beyond the process of coding into other domains.   -->
+
+NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
 
 ### Discussion on agency and use of drama process
 
@@ -1253,41 +1281,6 @@ The positive affective space can also reduce facilitator stress. In my journal n
 I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
 
 I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
-
-
-
-### designing for emergent practices
-
-holding if needed
-half baked designs
-
-### purpose of this section
-
-This section is structured as designing for to :
-- Explore observations in line with conceptions of agency and other studies
-- Identify material that could help researchers / practitioners replicate practice & understandings
-- Beginning of recommendations
-
-NOTE THIS SHOULD BE IN LIT REVIEW
-
-Face to face coding communities, especially with families have a large range of behaviours and potential. As explored previously the literature on design for face-to-face communities which encourages community members  to develop their own practices is sparse.
-
-I share a synthesis of my findings in the sections below in
-
-NOTE - MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
-
-NOTE - PUT THE BELOW IN TO FOLLOWING CATEGORIES.
-In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create too many problematic errors.
-
-Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
-
-
-NOTE - This could move to a discussion chapter OR the start of a conclusion - as there is overlap with the next chapter.
-
-
-
 
 
 ### "Authentish" - goals in drama and project-based processes and related scenarios
@@ -1420,6 +1413,10 @@ NOTE WHAT EXACTLY IS MEANT BY CONCEPTS -
 
 The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
 
+
+
+
+
 ### Supporting flexible design practices
 
 <!-- NOTE - discuss the value of design stages? from PBL chapter -
@@ -1518,10 +1515,22 @@ These can be synthesised using TADS metaphor and enriching it with a greater foc
 
 ### Evolving writing on how the above answer RQS
 
+CHECK THIS MATERIAL TO SEE IF IT HAS BEEN INTEGRATED.
 See here for table
 https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/edit#
 
-### Link to next chapter -
+## Conclusion
+
+MAKE THIS TIGHTER -
+
+In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+
+A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create problematic errors.
+
+Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
+
+
+
 
 
 
