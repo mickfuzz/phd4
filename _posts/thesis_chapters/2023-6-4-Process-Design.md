@@ -152,13 +152,17 @@ Screen shot of the menu of choices. -->
 
 Activity Theory allows researchers to identify intersecting or nested systems of activity with varied goals. Taking a holistic view of goals of the game making activity, we can identify the larger and smaller scale objectives of systems of varied scale.
 
-These include:
+Subsequent analysis of the identified activity systems allows both the researcher and practitioner to identifying existing and emerging tensions and to thus observe (spontaneous) or plan (designed) responses.
+
+Beyond the overarching objectives of learning via engaging with the programme (families) and conducting research (researcher), the system scopes include:
 
 - Larger-scoped objective: creating a game which is fun to play and communicate an environmental theme
 - Mid-level objectives: identifying and implementing key game features to add to the game
 - Lower-level objectives: creating, changing and transporting game assets or changing code constructs to enact or change game elements
 
 A short description of the activity systems follows will illustrative diagrams / table followed by an illustrative commentary which makes references to the vignette above.   
+
+
 
 <br />
 <br />
@@ -245,7 +249,15 @@ Others in the group did not experiment in this way and used more direct help or 
 - smaller - implementing or changing code constructs to enact or change GDPs -->
 
 
+### Commentary the use of AT scopes in data ANALYSIS
 
+In the last chapter, we examined the use of Rogoff's 3 lenses of cultural, social and personal activity. We can see a broad alignment of these lenses and the scopes of the activity systems above.
+
+This has utility to both researcher and learning designer.
+
+NOTE - Explore how in line with research DBR - most probably. But also possibly Bevan and Petrich
+
+The observations of the following chapters are based on this approach of using lenses to focus in on relevant activity. 
 
 ## Summary of design evolution
 

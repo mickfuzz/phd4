@@ -15,8 +15,6 @@
         -   [The half-baked starting platformer
             game](#the-half-baked-starting-platformer-game)
     -   [Phase Three](#phase-three)
-        -   [Structuring supporting
-            resources](#structuring-supporting-resources)
     -   [Phase Four](#phase-four)
         -   [Building Identities as Game
             Makers](#building-identities-as-game-makers)
@@ -30,6 +28,12 @@
     -   [Tensions and related to navigation of various documentations
         sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
 -   [Addressing the Play Paradox](#addressing-the-play-paradox)
+-   [Exploring affordances of Key responses to emerging
+    tensions](#exploring-affordances-of-key-responses-to-emerging-tensions)
+    -   [Code playgrounds, and web
+        technology](#code-playgrounds-and-web-technology)
+    -   [Structuring supporting
+        resources](#structuring-supporting-resources)
     -   [Learning Dimensions Map](#learning-dimensions-map)
     -   [Limits to this map - MOVE?](#limits-to-this-map---move)
     -   [Including Coding Concepts in the Learning Map and including
