@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 5. Seeding Game Making Communities to Facilitate Learner Agency
 ---
+
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Introduction](#introduction)
 -   [Exploring the impact of a drama
@@ -64,20 +65,29 @@ title: 5. Seeding Game Making Communities to Facilitate Learner Agency
             RQs](#summary-division-of-labour-and-rqs)
 -   [Discussion on designing for learner
     agency](#discussion-on-designing-for-learner-agency)
-    -   [Discussion on agency and use of drama
-        process](#discussion-on-agency-and-use-of-drama-process)
-    -   ["Authentish" - goals in drama and project-based processes and
-        related
-        scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
-        -   [Analysis against (and calls to heed)H existing design
-            heuristics](#analysis-against-and-calls-to-heedh-existing-design-heuristics)
-        -   [Seeding Agency within Microworld
-            design](#seeding-agency-within-microworld-design)
+    -   [Discussion on authentic tools and processes (to increase
+        agency)](#discussion-on-authentic-tools-and-processes-to-increase-agency)
+        -   ["Authentish" - goals in drama and project-based processes
+            and related scenarios to increase
+            agency](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios-to-increase-agency)
+        -   [Authenticity of Problem and
+            Audience](#authenticity-of-problem-and-audience)
+        -   [Authenticity of Toolset](#authenticity-of-toolset)
         -   [Authenticity of supporting documentation and design
             concepts](#authenticity-of-supporting-documentation-and-design-concepts)
+    -   [Discussion on tool use and
+        Agency](#discussion-on-tool-use-and-agency)
+        -   [Analysis against (and calls to heed) existing design
+            heuristics](#analysis-against-and-calls-to-heed-existing-design-heuristics)
+        -   [Seeding Agency within Microworld
+            design](#seeding-agency-within-microworld-design)
         -   [Summary](#summary)
-    -   [Supporting flexible design
-        practices](#supporting-flexible-design-practices)
+    -   [Discussion on and agency and use of drama
+        process](#discussion-on-and-agency-and-use-of-drama-process)
+    -   [Flexible design practices to support
+        agency](#flexible-design-practices-to-support-agency)
+        -   [On limits of use of design stages to help learner
+            agency](#on-limits-of-use-of-design-stages-to-help-learner-agency)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
@@ -1273,9 +1283,9 @@ POINTS TO MAKE
  -
 
 
+### Discussion on authentic tools and processes (to increase agency)
 
-### "Authentish" - goals in drama and project-based processes and related scenarios to increase agency
-
+#### "Authentish" - goals in drama and project-based processes and related scenarios to increase agency
 
 
 **Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation**
@@ -1439,24 +1449,41 @@ I propose that the drama fiction eases friction between competing activity syste
 
 
 
-### Supporting flexible design practices
+### Flexible design practices to support agency
 
 <!-- NOTE - discuss the value of design stages? from PBL chapter -
 It would be vital to include this in Lit Review -->
 
-When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding.
+#### On limits of use of design stages to help learner agency
+
+PERHAPS DROP THIS PART ON STAGES - AS IT'S INCONCLUSIVE - EDIT IT DOWN
+
+
+
+Because of the common use of design stages as a conceptual design tool.
+And a prevalence of reesarch linking design thinking  stages  and coding. FIND DATa
+
+I coded data to that.
 
 When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel.
 
+When designing program to prioritise learner engagement on to respond to their interests I found over structuring activity via design stages may be not be productive. The emerging process in this design related more closely to tinkering methodologies (previous explored). However, while tinkering and improvisational approaches have been advocated in the domains of hands-on STEM exhibits in museums as part of the Maker movement, they have been less adopted in the domain of learning computer coding.
+
+
 <!-- One side effect of coding by design cycle stage was to expose the limits of even an iterative cycle interpretation of the design process of these participants. -->
+
+
+There is little data on the effectiveness of value even of explicitly teaching design thinking / engineering stages.
 
 I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns.
 
 Another cause for a less stuctured was the use of a templated game which contained and which invited testing and sharing with after only quick changes.
 
-
 I propose designing for more chaotic practices can increase agency as it reduces a feeling of prescription that may reduce a feeling of agency.
 
+FIND MORE EVIDENCE FOR THIS. THIS IS LEARNER CHOICE OVER ACTIVITY / AND IN THE ORDER IN WHICH THINGS HAPPEN
+
+Similar to limits of the writing cycle in teaching [@kuby_rhizomatic_2016]
 
 While there is limited data as this was not a subject for participant interviews, and there is no comparative data here, this is an area that merits further investigation. There are parallels in existing research.
 
@@ -1525,7 +1552,7 @@ Elements of the learning design that aimed to create an welcoming learning envir
 
 This chimes with existing research:
 
-- the importance of managing learner anxiety in second language acquisition [@krashen_principles_1982; @young_language_1992]
+- the importance of managing learner anxiety in second kubyacquisition [@krashen_principles_1982; @young_language_1992]
 - deeper into Heathcote
 - something about authenticity of audience, and resulting time constriction creating the right Onekind of pressure / motivation. Game Jams/ Hackathons
 

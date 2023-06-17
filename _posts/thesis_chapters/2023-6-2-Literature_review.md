@@ -413,7 +413,17 @@ Michel Resnick, a researcher involved in the Scratch project at MIT illustrates 
 <Figure8.1.jpg>
 Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
 
+
+There is less clarity about if and how the stages could be used by learners to scaffold their design process.   
+(critique of this in terms of writing structures stages at primary )
+
+
+#### Broad design based approaches
+
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
+
+
+
 ### MDA and conceptual game elements framework
 
 The MDA framework has been created from games research with an aim to help define

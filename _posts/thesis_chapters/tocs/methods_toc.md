@@ -53,20 +53,29 @@
             RQs](#summary-division-of-labour-and-rqs)
 -   [Discussion on designing for learner
     agency](#discussion-on-designing-for-learner-agency)
-    -   [Discussion on agency and use of drama
-        process](#discussion-on-agency-and-use-of-drama-process)
-    -   ["Authentish" - goals in drama and project-based processes and
-        related
-        scenarios](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios)
-        -   [Analysis against (and calls to heed)H existing design
-            heuristics](#analysis-against-and-calls-to-heedh-existing-design-heuristics)
-        -   [Seeding Agency within Microworld
-            design](#seeding-agency-within-microworld-design)
+    -   [Discussion on authentic tools and processes (to increase
+        agency)](#discussion-on-authentic-tools-and-processes-to-increase-agency)
+        -   ["Authentish" - goals in drama and project-based processes
+            and related scenarios to increase
+            agency](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios-to-increase-agency)
+        -   [Authenticity of Problem and
+            Audience](#authenticity-of-problem-and-audience)
+        -   [Authenticity of Toolset](#authenticity-of-toolset)
         -   [Authenticity of supporting documentation and design
             concepts](#authenticity-of-supporting-documentation-and-design-concepts)
+    -   [Discussion on tool use and
+        Agency](#discussion-on-tool-use-and-agency)
+        -   [Analysis against (and calls to heed) existing design
+            heuristics](#analysis-against-and-calls-to-heed-existing-design-heuristics)
+        -   [Seeding Agency within Microworld
+            design](#seeding-agency-within-microworld-design)
         -   [Summary](#summary)
-    -   [Supporting flexible design
-        practices](#supporting-flexible-design-practices)
+    -   [Discussion on and agency and use of drama
+        process](#discussion-on-and-agency-and-use-of-drama-process)
+    -   [Flexible design practices to support
+        agency](#flexible-design-practices-to-support-agency)
+        -   [On limits of use of design stages to help learner
+            agency](#on-limits-of-use-of-design-stages-to-help-learner-agency)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
