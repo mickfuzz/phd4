@@ -1291,9 +1291,14 @@ authenticity is "on a scale" [find support].
 
 The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning  [].
 
+
+
 This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation .
 
-#### Authenticity of Audience
+
+
+
+#### Authenticity of Problem and Audience
 
 Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
 
@@ -1321,6 +1326,8 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 #### Authenticity of Toolset
 
+Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006].
+
 One key consideration is the authenticity of the tools involved.
 
 EXPLORE THIS HERE - AS MOVED SOME TO PREVIOUS CHAPTER
@@ -1336,6 +1343,14 @@ Heathcote often explored issues in the context of making of the workplace throug
 <!-- NOTE ADD SOME DETAIL detail
 But the are explored in more detail in the following section. -->
 <!-- For example in this iteration, x is authentic, -->
+
+
+Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   
+
+Research on project based learning supports the motivational factors of authentic tools. [IF SO FIND THIS ]
+
+The motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+
 
 In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed.
 
@@ -1391,25 +1406,22 @@ The next chapter explores the use of GDPs by participants in detail using varied
 
 This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
 
-Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   
 
-Research on project based learning supports the motivational factors of authentic tools.
-The motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+#### Summary
 
+The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
 
 
 <!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
 
 <!-- The  marshalling towards certain goals to maintain a shared script / experience. -->
 
-
-
 <!-- In Papert's [-@papert_gears_1980] study of his childhood play with gears he celebrated the joy of understanding processes hidden from others by taking apart and playing with technology.  -->
 
 
-
-
 ### Discussion on and agency and use of drama process
+
+TRANSISION - AUTHENCITY IN DRAMA PROCESS
 
 The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
 PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
@@ -1423,12 +1435,6 @@ The positive affective space can also reduce facilitator stress. In my journal n
 I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
 
 I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
-
-
-#### Summary
-
-The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
-
 
 
 
