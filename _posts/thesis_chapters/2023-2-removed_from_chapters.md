@@ -215,3 +215,22 @@ A tension here to be briefly explored or noted to explore later.
  - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
 
   The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
+
+
+#### Analysis against (and calls to heed) existing design heuristics
+
+Earlier we examined of challenges of the authenticity of the authentic tools set consisting of js, phaser, html, and a code-playround.
+
+The complexity of coding and the resulting challenges of learning to code has yield much research on guidance in the process of designing toolsets to support novice coders [@resnick_reflections_2005] - (find others on the evolution of LOGO).  
+
+The user-friendly design heuristics of  low-thresholds, wide-walls, high-ceilings - extended by Kafai and Burke to include open windows - can be used to evaluate this design and other designs.  
+
+NOTE - ADD KEY DETAILS OF THE ACCESSIBILITY / CHALLENGE OF THE CORE TOOLS SET
+
+In this design the tools set is disctinct from tools like scratch which are self-contained to a large degree (while interacting with a website)
+
+The online only nature of the toolset does facilitate certain aspects of community participation by shifting the working space away from a desktop only environment, this facilitating some sharing by default. This was picked up on by the community as they viewed each others assets and playtested games.
+
+Indeed, Scratch itself has moved to a web-bsaed online by default process in the lifespan of this research.  
+
+**Summary:** These heuristics provide a useful tool for designers and practitioners supporting creative coding activities.}

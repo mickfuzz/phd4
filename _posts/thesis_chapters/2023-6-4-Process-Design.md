@@ -62,7 +62,7 @@ This chapter charts the evolution of the learning design. It draws on immediate 
 
 NOTE - DEVELOP THE WORK ON TADS  - ESPECIALLY THE TENSIONS AND SECONDARY STIMULATION
 
-The work of Sannino on the use of secondary stimulation in formative interventions (including 5th Dimension) informs the analysis of conflicts arising and secondary tools and processes which facilitators use to address them [@sannino_activity_2011]. 
+The work of Sannino on the use of secondary stimulation in formative interventions (including 5th Dimension) informs the analysis of conflicts arising and secondary tools and processes which facilitators use to address them [@sannino_activity_2011].
 This chapter begins the process continued in later chapters.  
 
 The first section is a short summary of the phases of the design.
@@ -962,6 +962,76 @@ In the previous discussion surrounding tensions the focus was on tool use to dir
 The following are a list of tensions observed in early game making experiments that I recorded in journal form. More likely have some starting tensions from early design stages, that are then analysed in relation to other sources and data, and other resolutions that are more general or sophisticated emerge.
 
  - [for a more polished table see here](https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit)
+
+
+
+### Discussion on Authenticity from methods chapter moved here
+
+#### Near-authentic processes and tools in drama and project-based processes and related scenarios to increase agency
+
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
+
+<!-- - audience
+- tools
+- processes (professional and peers ?)
+- shared concepts - link to GDPs as a big one -->
+
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. Examples include, literacy, maths, science and history.
+
+PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL [find support].
+
+The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning  [].
+
+This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
+
+
+#### Authenticity of Audience and Problems
+
+Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
+
+In line existing PBL research [LIT NEEDED]  with previous iterations of this learning design the process of creating a game for a real audience of university students was motivating [DATA NEEDED].
+
+While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
+
+In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (something about learner identities)
+
+
+There are examples of the authenticity of the audience being used by participants
+- Suzanna uses the imagined audience to norm behaviour.
+- Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+
+
+<!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
+The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
+The process of bringing people into the culture merit allocating time to address inequalities.
+
+Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
+
+<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
+<!--
+Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
+
+<!-- NOTE - Find complexity here?  -->
+
+
+Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
+
+<!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
+
+
+In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed.
+
+However, in terms of complexity of tools use, careful shepherding is involved to screen participants from overly complex processes and tools.
+
+The use of code playgrounds mirrors that of professionals. The process of creating a microworld with embedded concepts brought to the fore for students to bump against,
+
+While early use of microworlds as a "acceptable" authentic-ish a concept endorsed in literature on authentic approaches [].
+
+#### Authenticity of supporting documentation and design concepts
+
+Explored in next chapter.??
+NOTE STILL NOT SURE OF BEST PLACE FOR DOCUMENATION.
+NOTE WHAT EXACTLY IS MEANT BY CONCEPTS -
 
 
 

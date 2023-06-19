@@ -51,32 +51,22 @@
         laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
         -   [Summary: Division of Labour and
             RQs](#summary-division-of-labour-and-rqs)
--   [Discussion on designing for learner
-    agency](#discussion-on-designing-for-learner-agency)
-    -   [Discussion on authentic tools and processes (to increase
-        agency)](#discussion-on-authentic-tools-and-processes-to-increase-agency)
-        -   ["Authentish" - goals in drama and project-based processes
-            and related scenarios to increase
-            agency](#authentish---goals-in-drama-and-project-based-processes-and-related-scenarios-to-increase-agency)
-        -   [Authenticity of Problem and
-            Audience](#authenticity-of-problem-and-audience)
-        -   [Authenticity of Toolset](#authenticity-of-toolset)
-        -   [Authenticity of supporting documentation and design
-            concepts](#authenticity-of-supporting-documentation-and-design-concepts)
+-   [Discussion](#discussion)
+    -   [Discussion on authenticity and
+        agency](#discussion-on-authenticity-and-agency)
+        -   [Summary](#summary)
     -   [Discussion on tool use and
         Agency](#discussion-on-tool-use-and-agency)
-        -   [Analysis against (and calls to heed) existing design
-            heuristics](#analysis-against-and-calls-to-heed-existing-design-heuristics)
-        -   [Seeding Agency within Microworld
-            design](#seeding-agency-within-microworld-design)
-        -   [Summary](#summary)
+        -   [Seeding community practices
+            design](#seeding-community-practices-design)
+        -   [Creating affordances within the (Microworld)
+            design](#creating-affordances-within-the-microworld-design)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)
-    -   [Flexible design practices to support
-        agency](#flexible-design-practices-to-support-agency)
-        -   [On limits of use of design stages to help learner
-            agency](#on-limits-of-use-of-design-stages-to-help-learner-agency)
+        -   [Positive affective space](#positive-affective-space)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
+    -   [Creating space for emergent design practices can support
+        agency](#creating-space-for-emergent-design-practices-can-support-agency)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
 -   [Conclusion](#conclusion)
