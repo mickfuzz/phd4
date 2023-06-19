@@ -301,15 +301,15 @@ Agency and autonomy have disputed, often inter-related definitions or are often 
 Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or   helpless bodies in wider cultural phenomenon   
 [@stetsenko_critical_2020; @matusov_mapping_2016]. See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
 
- Hopwood outlines three major grounded conceptions [@hopwood_agency_2022], TAS, TADS and relational agency.
+Hopwood outlines three major grounded conceptions [@hopwood_agency_2022], TAS, TADS and relational agency.
 
 Matusov and colleaguues outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
 
-The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This mreo limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles. 
+The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This mreo limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
 
 Matusov and colleagues also propose authorial agency [@matusov_mapping_2016] as a useful concept - DEFINE - brining transformational agency within that perspective.
 
-
+The authours also note the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context[@nieminen_what_2022]. 
 
 ### On double stimulation and agency
 

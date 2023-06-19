@@ -1338,9 +1338,6 @@ There are examples of the authenticity of the audience being used by participant
 - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
 
 
-
-
-
 <!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
 The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
 The process of bringing people into the culture merit allocating time to address inequalities.
@@ -1351,11 +1348,9 @@ Here, in response to potential alienation from the culture of coding, I have pri
 <!--
 Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
 
-
-
 <!-- NOTE - Find complexity here?  -->
 
-#### Authenticity of Toolset
+#### Authenticity of Toolset (in relation to agency )
 
 Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006].
 
@@ -1376,11 +1371,11 @@ But the are explored in more detail in the following section. -->
 <!-- For example in this iteration, x is authentic, -->
 
 
-Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating.   
+Heathcote highlighted the value and dangers of authentic tools and processes in settings where students may find their novice skills frustrating and thus reduce feelings of agency.
 
-Research on project based learning supports the motivational factors of authentic tools. [IF SO FIND THIS ]
+Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
 
-The motivational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
 
 
 In the activities of study, a high degree of authenticity made possible, in a material sense, by the digital nature of the learning resources. Beyond a general purpose computer, no prohibitive equipment is needed.
@@ -1399,6 +1394,34 @@ NOTE WHAT EXACTLY IS MEANT BY CONCEPTS -
 
 
 ### Discussion on tool use and Agency
+
+#### Seeding community practices design
+
+The process of Playtesting and working towards an external audience.
+
+Some of the processes for building community were more mutual - collecting requirements
+
+Creating documentation
+Other processess
+
+
+#### Creating affordances within the (Microworld) design
+
+THIS PERHAPS LIVES IN THE AUTHENTICITY OF TOOLS SECTION
+
+One of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
+
+While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time.
+
+The embodied elements allowed access to agency via expression of home interests, play with dynamics, game layout,
+ANCHOR METAPHIR
+
+The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
+
+The next stage was to imagine game elements to add to the design in the form of GDPs.
+The next chapter explores the use of GDPs by participants in detail using varied data.
+
+This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
 
 #### Analysis against (and calls to heed) existing design heuristics
 
@@ -1419,31 +1442,11 @@ Indeed, Scratch itself has moved to a web-bsaed online by default process in the
 **Summary:** These heuristics provide a useful tool for designers and practitioners supporting creative coding activities.
 
 
-#### Seeding Agency within Microworld design
-
-THIS PERHAPS LIVES IN THE AUTHENTICITY OF TOOLS SECTION
-
-One of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
-
-While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time.
-
-The embodied elements allowed access to agency via expression of home interests, play with dynamics, game layout,
-ANCHOR METAPHIR
-
-The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
-
-The next stage was to imagine game elements to add to the design in the form of GDPs.
-The next chapter explores the use of GDPs by participants in detail using varied data.
-
-This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
-
-
 ### Discussion extending metaphors of Agency
 
 Extending the metaphor of an kedging anchour used to warp a boat.
 
 Affordances can act as visible anchor points, much like the coloured climbing holds in a climbing wall. To aid learners agency, designers add explicit anchor points to the design and make them visible to learners. (aligning with instrumental agency)
-
 
 In the design above such anchor points may be regular play-tesing, the highlighting of external audiences,  the use of documentation, the embedding of quick variable and structural changes.
 
@@ -1451,7 +1454,12 @@ Some processes work to clarify problems areas, thus making the water clearer to 
 
 Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points.
 
-The job of the designer is then then  to identify the mud in teh water, to stay in the shelter water.
+The job of the designer is then then  to identify the mud in teh water, to stay in the sheltered water of a harbour.
+The harbour metaphor is like walled garden.
+
+Many design decisions were made for this purpose in the first phase of the design. For example, using an online code playground instead of a local broswer and code editing tool, hiding away the html and css files in the use of the code playground , pulling up the key variables of the movement mechanics to the top of the js file.
+
+The process is not just technical. 
 
 This my be done by
 - defining or reducing the use use of specialised terminology  or
@@ -1459,19 +1467,15 @@ This my be done by
 - signposting issues like a lighthouse or similar big thing on a rock - don't go there  
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
 
-
 Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
+Thus, whilst both of value, there is a potential tension between instrumental agency and transformative agency. In designing out tensions it reduces the capacity for participants to solve them both individually and collectively by .
 
 When designing with learner agency in mind. Soem of the following may help using this metaphor
-
-
-
 
 #### Summary
 
 The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
-
 
 <!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
 
