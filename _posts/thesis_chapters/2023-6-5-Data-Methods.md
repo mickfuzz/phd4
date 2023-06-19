@@ -1284,7 +1284,7 @@ transformational agency which in turn draws on concepts of conflicts in activity
 
 Recap of affordances and anchors
 
-In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  
+In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1], particularly in relation to who its a
 
 While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
@@ -1321,6 +1321,10 @@ The concept of an authentic-as-possible project is a key tool for educators to s
 
 This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
 
+#### Authenticity of Problem / Project
+
+Well established in PBL.
+Here the challenge is make a game to share, thus well aligned.
 
 #### Authenticity of Audience and Problems
 
@@ -1352,7 +1356,7 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 #### Authenticity of Toolset (in relation to agency )
 
-Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006].
+Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006]. WHY?
 
 One key consideration is the authenticity of the tools involved.
 
@@ -1459,7 +1463,7 @@ The harbour metaphor is like walled garden.
 
 Many design decisions were made for this purpose in the first phase of the design. For example, using an online code playground instead of a local broswer and code editing tool, hiding away the html and css files in the use of the code playground , pulling up the key variables of the movement mechanics to the top of the js file.
 
-The process is not just technical. 
+The process is not just technical.
 
 This my be done by
 - defining or reducing the use use of specialised terminology  or
