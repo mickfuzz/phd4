@@ -1266,7 +1266,11 @@ In this secdtion analysis uses the language and concepts introduces in literatur
 
 Recap of affordances and anchors:
 
+<<<<<<< HEAD
 In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016].  
+=======
+In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1], particularly in relation to who its a
+>>>>>>> a96814e5821461571b67e5202c7bb3f8d209c734
 
 While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
@@ -1287,11 +1291,18 @@ Many design decisions were made for this purpose in the first phase of the desig
 
 The process is not just technical.
 
+<<<<<<< HEAD
 This my be done by
 - defining or reducing the use use of specialised terminology  or
 - hiding away un-needed complexity.
 - signposting issues like a lighthouse or similar big thing on a rock - don't go there  
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+=======
+#### Authenticity of Problem / Project
+
+Well established in PBL.
+Here the challenge is make a game to share, thus well aligned.
+>>>>>>> a96814e5821461571b67e5202c7bb3f8d209c734
 
 Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
@@ -1316,7 +1327,7 @@ There is not a well-used framework in the area of researching teaching creative 
 
 ### Discussion on authenticity and agency
 
-Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006].
+Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006]. WHY?
 
 One key consideration is the authenticity of the tools involved.
 
@@ -1407,6 +1418,35 @@ Indeed, Scratch itself has moved to a web-bsaed online by default process in the
 
 
 
+<<<<<<< HEAD
+=======
+Some processes work to clarify problems areas, thus making the water clearer to better see anchour points
+
+Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points.
+
+The job of the designer is then then  to identify the mud in teh water, to stay in the sheltered water of a harbour.
+The harbour metaphor is like walled garden.
+
+Many design decisions were made for this purpose in the first phase of the design. For example, using an online code playground instead of a local broswer and code editing tool, hiding away the html and css files in the use of the code playground , pulling up the key variables of the movement mechanics to the top of the js file.
+
+The process is not just technical.
+
+This my be done by
+- defining or reducing the use use of specialised terminology  or
+- hiding away un-needed complexity.
+- signposting issues like a lighthouse or similar big thing on a rock - don't go there  
+- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+
+Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
+
+Thus, whilst both of value, there is a potential tension between instrumental agency and transformative agency. In designing out tensions it reduces the capacity for participants to solve them both individually and collectively by .
+
+When designing with learner agency in mind. Soem of the following may help using this metaphor
+
+#### Summary
+
+The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
+>>>>>>> a96814e5821461571b67e5202c7bb3f8d209c734
 
 <!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
 
