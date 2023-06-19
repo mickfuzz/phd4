@@ -1261,11 +1261,14 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
-## Discussion on designing for learner agency
+## Discussion
+
+<!-- ## Discussion on designing for learner agency -->
+
 
 <!-- I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.  -->
 
-This chapter has explored the affordence and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse.
+This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse.
 
 This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process.
 
@@ -1274,21 +1277,36 @@ This section begins to explore observations in line with conceptions of authenti
 
 NOTES -  MY THOUGHTS IN THIS AREA STILL NEED TO BE INFORMED BY WIDER READING ON EXISTING RESEARCH.
 
-POINTS TO MAKE
+NOTE -
 
-- AUTHENTICITY OF AUDIENCE &
- - AUTHENTICITY OF TOOLS AND IMPACT ON AGENCY -
+In this secdtion analysis uses the language and concepts introduces in literature on affordances and
+transformational agency which in turn draws on concepts of conflicts in activity in activity theory.
 
- - AGENCY AND MICROWORLD
- -
+Recap of affordances and anchors
+
+In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  
+
+While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
+
+The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015]
+
+OTHER COMMENTS ON SCOPE AND FOCUS OF Affordances / tads HERE
+
+##### Relevant terms and concepts in their relevant scope  / focus
+
+There is not a well-used framework in the area of researching teaching creative technology to undertake  analysis of group coding.
+
+Tool affordance - in this context
+
+Process affordance - in this context
 
 
-### Discussion on authentic tools and processes (to increase agency)
 
-#### "Authentish" - goals in drama and project-based processes and related scenarios to increase agency
+### Discussion on authenticity and agency
 
+#### Near-authentic processes and tools in drama and project-based processes and related scenarios to increase agency
 
-**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation**
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
 
 <!-- - audience
 - tools
@@ -1297,24 +1315,30 @@ POINTS TO MAKE
 
 Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter and undertaking authentic project work within a drama frame [-@rainer_drama_2012]. Examples include, literacy, maths, science and history.
 
-authenticity is "on a scale" [find support].
+PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL [find support].
 
 The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning  [].
 
+This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
 
 
-This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation .
-
-
-
-
-#### Authenticity of Problem and Audience
+#### Authenticity of Audience and Problems
 
 Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
 
+In line existing PBL research [LIT NEEDED]  with previous iterations of this learning design the process of creating a game for a real audience of university students was motivating [DATA NEEDED].
+
 While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
 
-In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (soemthing about learner identities)
+In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (something about learner identities)
+
+
+There are examples of the authenticity of the audience being used by participants
+- Suzanna uses the imagined audience to norm behaviour.
+- Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+
+
+
 
 
 <!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
@@ -1322,9 +1346,6 @@ The tensions associated with the use of time and efforts spent by participants e
 The process of bringing people into the culture merit allocating time to address inequalities.
 
 Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
-
-
-
 
 <!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
 <!--

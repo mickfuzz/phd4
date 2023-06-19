@@ -49,9 +49,21 @@ title: 4. Emerging Learning Designs
         REQUESTS](#discussion-on-tensions-in-relation-to-lit-review-and-requests)
 -   [Link to next chapter](#link-to-next-chapter)
 
+## ADDTIONAL Notes
+
+
+
+
+
 ## Chapter Introduction  
 
 This chapter charts the evolution of the learning design. It draws on immediate analysis of participants reactions and contributions from journal notes, participant interviews and analysis of changes in the learning resources created.
+
+
+NOTE - DEVELOP THE WORK ON TADS  - ESPECIALLY THE TENSIONS AND SECONDARY STIMULATION
+
+The work of Sannino on the use of secondary stimulation in formative interventions (including 5th Dimension) informs the analysis of conflicts arising and secondary tools and processes which facilitators use to address them [@sannino_activity_2011]. 
+This chapter begins the process continued in later chapters.  
 
 The first section is a short summary of the phases of the design.
 

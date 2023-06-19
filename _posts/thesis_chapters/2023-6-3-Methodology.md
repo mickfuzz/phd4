@@ -285,7 +285,7 @@ Barab and Squire [-@barab_design-based_2004] describe the messiness of design-ba
 Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
-## Conceptualising emergent agency in this study
+## Conceptualising emergent agency
 
 DOES THIS NEED MOVING?. PERHAPS TO METHODOLOGY
 THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CHAPTER.
@@ -293,7 +293,18 @@ THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CH
 Cultural mediation via artefacts [cole], as a base.
 Look for tensions in ATs - and how learners overcome barriers or blockages.
 
-#### On double stimulation and agency
+
+### On Agency and AT
+
+Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016]. 
+
+Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or   helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016]. See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
+
+ Hopwood outlines three major grounded conceptions [@hopwood_agency_2022], TAS, TADS and relational agency.
+ TADS is the one used in this study.
+
+### On double stimulation and agency
 
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
@@ -305,16 +316,26 @@ Blockages caused by contradictions are also analysed the fields of design and HC
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
 
-Affordances have been misused, assigned magical properties, including agency of themselves. However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002]. Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+
+
+Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
+
+Nardi and colleagues give an overview regrounding Gibson's concept of affordences as acition posibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
+
+However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
+
+NOTE - more on affordances here from Nardi
+
+Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
     We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
 
 In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
 Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
 
-Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning).
+Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
 
-
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 ## Conceptualising activity in this learning design
 
