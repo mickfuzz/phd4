@@ -1299,7 +1299,7 @@ There is not a well-used framework in the area of researching teaching creative 
 - Tool affordance - in this context
 - Process affordance - in this context
 
-NOTE - JUST WRITE IT AND TRY TO FIND THEM AS THEY EMERGE IF IT'S USEFUL 
+NOTE - JUST WRITE IT AND TRY TO FIND THEM AS THEY EMERGE IF IT'S USEFUL
 
 
 ### Discussion on authenticity and agency
@@ -1436,6 +1436,36 @@ The next stage was to imagine game elements to add to the design in the form of 
 The next chapter explores the use of GDPs by participants in detail using varied data.
 
 This invites further work to explore on the value of drama processes to act as a bridge to cover the gap between novice skills and the value of engaging in practices in a realistic a way as  possible.
+
+
+### Discussion extending metaphors of Agency
+
+Extending the metaphor of an kedging anchour used to warp a boat.
+
+Affordances can act as visible anchor points, much like the coloured climbing holds in a climbing wall. To aid learners agency, designers add explicit anchor points to the design and make them visible to learners. (aligning with instrumental agency)
+
+
+In the design above such anchor points may be regular play-tesing, the highlighting of external audiences,  the use of documentation, the embedding of quick variable and structural changes.
+
+Some processes work to clarify problems areas, thus making the water clearer to better see anchour points
+
+Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points.
+
+The job of the designer is then then  to identify the mud in teh water, to stay in the shelter water.
+
+This my be done by
+- defining or reducing the use use of specialised terminology  or
+- hiding away un-needed complexity.
+- signposting issues like a lighthouse or similar big thing on a rock - don't go there  
+- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+
+
+Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
+
+
+When designing with learner agency in mind. Soem of the following may help using this metaphor
+
+
 
 
 #### Summary

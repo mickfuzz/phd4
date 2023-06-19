@@ -376,14 +376,18 @@ While the above claims are widely supported, the wide nature of the definition c
 
 #### Game making and Project / Problem Based Learning
 
-Game making can be seen as an example of the kind of wicked problem favoured in project-oriented problem based learning (referred to from now on as PBL) (Mateas and Stern, 2005). PBL has a variety of forms, an exploration of which is beyond the scope of this study (Aditomo et al., 2013). The most pertinent areas of PBL of to this study are the over-arching focus on authentic learning environments and the process of building learner autonomy within a structured and supportive approach (Hernandez et al., 2015).  
+Game making can be seen as an example of the kind of wicked problem favoured in project-oriented problem based learning (referred to from now on as PBL) (Mateas and Stern, 2005). PBL has a variety of forms, an exploration of which is beyond the scope of this study (Aditomo et al., 2013). The most pertinent areas of PBL of to this study are the over-arching focus on authentic learning environments and the process of building learner autonomy within a structured and supportive approach [@hernandez_aalborg_2015]
 
 When learners undertake real life projects with relevance for, or with a direct link to, environments outside of the learning space, there are strong parallels to the models of peripheral participation in communities of practice (Wenger, 1998).  A PBL game making process would do well to foster participation by highlighting playful paths into community participation to maximise group identification and sustainability (Thorsted et al., 2015). Fictional tasks and roles can also impact learner engagement (Heathcote and Herbert, 1985).
 
 The structuring of the learning involved in PBL is highlighted by those wishing to defend it from dismissal as unsupported, pure discovery learning (Hmelo-Silver et al., 2007; Kirschner et al., 2006). We can see parallels in PBL programme design to that tinkering tools and environments in that decisions are made to support specific areas of learner discovery deemed of particular value by carefully obscuring other potentially distracting aspects behind ‘black box’ processes (Resnick and Silverman, 2005).
 
 
-The goal of authenticity of expression, assessment and the motivation of a real audience aligns PBL with the kind of learning that happens when people take part in work-place or other authentic activities. The next section deals with pedagogical approaches that are rooted in professional or non-educational settings.  
+#### PBL and Authenticity
+
+The goal of authenticity of expression, assessment and the motivation of a real audience aligns PBL with the kind of learning that happens when people take part in work-place or other authentic activities .
+
+The next section deals with pedagogical approaches that are rooted in professional or non-educational settings.  
 
 
 ## Pedagogical resources in the form of professional practices and frameworks
