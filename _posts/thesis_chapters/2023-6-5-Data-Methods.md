@@ -1296,10 +1296,10 @@ OTHER COMMENTS ON SCOPE AND FOCUS OF Affordances / tads HERE
 
 There is not a well-used framework in the area of researching teaching creative technology to undertake  analysis of group coding.
 
-Tool affordance - in this context
+- Tool affordance - in this context
+- Process affordance - in this context
 
-Process affordance - in this context
-
+NOTE - JUST WRITE IT AND TRY TO FIND THEM AS THEY EMERGE IF IT'S USEFUL 
 
 
 ### Discussion on authenticity and agency
