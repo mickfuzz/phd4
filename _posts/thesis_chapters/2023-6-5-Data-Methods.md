@@ -331,25 +331,26 @@ In this extract participants are invited to take turns showing their game, recap
 
 <!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
 
-While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. In line with this intervention, they propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience.
+While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. In line with this intervention, they propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. In this intervention however, main activities happen only weakly in role, whereas the end reflection highlights the fictional frame of the making more strongly.
 
-In this intervention the process is somewhat reversed. Main activities happen only weakly in role, whereas the end reflection highlights the fictional frame of the making more strongly.
+In my journal notes for phases prior to using the drama process, I documented that the occasional end of session debriefs as _go-rounds_ had limited success in terms of amount and quality of participation compared to these sessions. The video and audio recordings document rich feedback from individuals and pair teams, near complete participation and productive elements of interaction as the feedback progresses.
 
-The impact of this end reflection in role can be compared to previous reflection in sessions. In my journal notes for previously phases, I noted my reluctance to shift learners away from making activities to reflective activities. I attempted sporadic "go-arounds" at the session conclusions but with limited success in terms of amount and quality of participation compared to these session which provided richer feedback from a wider variety of participants.
+In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
 
-The use of the screen as a link to the aliens helps justify moving participants and stopping all activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
+To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
 
+MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
+NOTE ON CODING - LIMITED
 
+Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator and participants to overcome conflicts in convening and participating in reflection, and project sharing [@sannino_principle_2015].  
 
-<!-- NOTE ON CODING - LIMITED -->
-
+NOTE - ALTHOUGH INTRODUCED BY FACILIATOR NOT STUDENTS
 
 <!-- While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern. -->
 
 <!-- This observation is supported by research which encourages varied approaches in addition to instruction-based approaches [@dietz_design_2021; @resnick_coding_2020]. Other studies address barriers to literacy in technical project work  explore written instructions within the drama frame thus providing a greater incentive for participants to engage with the material [@blunden2014seeking]. [SEE LIT REVIEW FOR MORE EXPLORATION]. -->
 
 <!-- The exploration of documentation with the drama frame aimed to disrupt this pattern of identification giving participants a motivation to read in role.  -->
-
 <!-- Evidence for this means of communication is promising however because these processes were brought into the design at a relatively late stage, there is not enough data to make larger claims beyond surfacing this potential. -->
 
 <!-- NOTE - bRING IN A QUOTE FROM ATHENA TO SUPPORT?  -->
@@ -362,34 +363,36 @@ The use of the screen as a link to the aliens helps justify moving participants 
 
 #### Exploring documentation and accessing technical help within the drama frame
 
-To develop the idea that participants could communicate directly with the aliens to ask help, I created a project in the shared glitch area that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to that page. To seed this process, I had entered a question sent by Mark and Ed into the page, and written a response on behalf of the aliens.
+In the first phase of the project, I had promoted the use of a mailing list to ask technical and code questions of the wider group. This surfaced a conflict where parents were reluctant to bother other participants with such issues.
 
-Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading code answers gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
+To address this, as part of the drama process, I encouraged participants to communicate with the aliens to ask help. To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. To seed this process, I had entered a question sent by Mark and Ed via email into the page, and written a response on behalf of the aliens.
+
+Dan and Toby also received help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of reading a code suggestion from the aliens gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien to playfully chastise me for using code syntax which was harder for novices to read.
 
     "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
 
+Here the text dialogue with the aliens is used as a mediating artefact first by the facilitator to share help in-role, and then by a parent to suggest a modification to the code syntax used and indicating a more general tactic of using readable code structures in novices.  
+
+**Thus, in summary,** the process of writing down a text request in-role potentially addresses the (previously-explored) barriers asking for help by de-personalising the process. It also encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms.
+
 ### Playful dialogue with the aliens unrelated to game making
 
-The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. I noted the ad-hoc encounter in our end of session reflection.
+The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. During in our end of session reflection above, I noted the following ad-hoc encounter that a child initiated on the interactive page while his father was taking a break from coding.
 
+    Ed: hi Weean,
+    Weean: We are are the Weean we have no name, we are all the same.
     Ed: What is your name?
-    Ween: We are are the Weean we have no name, we are all the same.
+    Weean: We are are the Weean we have no name, we are all the same.
     Ed: That must be hard at xmas
-    Ween: It is. It sure is.
+    Weean: It is. It sure is.
 
-Inspired by the popularity of participants engaging with the fictional audience, I asked a student helper to participate remotely to play the part of the alien and give feedback via live text interaction to participants in the final session. The process started with supportive and celebratory messages coming from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally.
+Inspired by the positive reaction of participants to this playful engagement with the fictional audience, I asked a student helper to participate remotely to play the part of the alien. The student then gave feedback via live text interaction to participants in the final session. The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
-In addition to the stated feedback activity the live chat served wider purposes of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements.
+In addition to the stated feedback activity the live chat served wider purposes of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
-For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+The start of process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. To use TADS terminology, Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
 
-**Summary:** The process supports:
-
-- addressing tension of feeling alienated from coding cultures, by bringing playful dialogue elements into the code authoring environment
-- this conversational process emerged from a chance interaction - thus nurturing learner agency  
-
-The process of writing down a request in a playful chat potentially addresses the barriers to asking fellow group members in an email group for help (noted in the previous chapter) by distancing the process. It also encourages adoption of professional practice of asking a written question to overcome a coding snag and thus builds experience of using technical terms.
-
+To express this using affordance theory, the affordance offered by the medium of communication is repurposed and made more visible by Ed's use of it to ask playful questions.
 
 <!-- NOTES
 - identity of playfulness  
@@ -399,12 +402,16 @@ The process of writing down a request in a playful chat potentially addresses th
 
 <!--
 Perhaps add back in as an unintended consequence?
-
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
-Both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process. As explored in the previous chapter, my motivations for introducing these missions for participants in role stemmed from a desire to encourage or to encourage emerging patterns of behaviour which appeared to help affect and identification with the community process of making.
+The above example is a naturally occurring expression of learner agency which was incorporated into the drama process later in this phase. Other examples of emergent practices, explored later in the chapter, which served to increase the scope of agency, became a core processes without the need to introduce them as part of a drama process. NOTE-  SO WHAT'S THE DIFFERENCE?
 
-A table of both social and public missions follows.
+In contrast, both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage patterns of behaviour which had emerged in previous iterations of game making. I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
+
+AN EXAMPLE?
+
+A table of both social and public missions follows. These mission were printed out on cards and one of each type was given to the participants in the first half of the first two sessions.
+
 <!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
 <!-- NOTE ONLINE VERSION Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
@@ -452,9 +459,6 @@ https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
 <!-- WHERE AND HOW TO LINK DISCUSSION?
 - link to side missions of adventure games - zelda - perhaps find motivation there too. -->
-
-
-
 
 <!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
 
@@ -1266,11 +1270,8 @@ In this secdtion analysis uses the language and concepts introduces in literatur
 
 Recap of affordances and anchors:
 
-<<<<<<< HEAD
 In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016].  
-=======
-In research on practice, other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1], particularly in relation to who its a
->>>>>>> a96814e5821461571b67e5202c7bb3f8d209c734
+
 
 While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
@@ -1291,18 +1292,13 @@ Many design decisions were made for this purpose in the first phase of the desig
 
 The process is not just technical.
 
-<<<<<<< HEAD
+
 This my be done by
 - defining or reducing the use use of specialised terminology  or
 - hiding away un-needed complexity.
 - signposting issues like a lighthouse or similar big thing on a rock - don't go there  
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
-=======
-#### Authenticity of Problem / Project
 
-Well established in PBL.
-Here the challenge is make a game to share, thus well aligned.
->>>>>>> a96814e5821461571b67e5202c7bb3f8d209c734
 
 Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
@@ -1326,6 +1322,12 @@ There is not a well-used framework in the area of researching teaching creative 
 
 
 ### Discussion on authenticity and agency
+
+<!-- #### Authenticity of Problem / Project
+
+Well established in PBL.
+Here the challenge is make a game to share, thus well aligned. -->
+
 
 Researchers state authenticity in PBL should apply to tools and processes as well as problem [@hung_engaged_2006]. WHY?
 
@@ -1418,24 +1420,6 @@ Indeed, Scratch itself has moved to a web-bsaed online by default process in the
 
 
 
-<<<<<<< HEAD
-=======
-Some processes work to clarify problems areas, thus making the water clearer to better see anchour points
-
-Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points.
-
-The job of the designer is then then  to identify the mud in teh water, to stay in the sheltered water of a harbour.
-The harbour metaphor is like walled garden.
-
-Many design decisions were made for this purpose in the first phase of the design. For example, using an online code playground instead of a local broswer and code editing tool, hiding away the html and css files in the use of the code playground , pulling up the key variables of the movement mechanics to the top of the js file.
-
-The process is not just technical.
-
-This my be done by
-- defining or reducing the use use of specialised terminology  or
-- hiding away un-needed complexity.
-- signposting issues like a lighthouse or similar big thing on a rock - don't go there  
-- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
 
 Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
@@ -1446,7 +1430,6 @@ When designing with learner agency in mind. Soem of the following may help using
 #### Summary
 
 The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
->>>>>>> a96814e5821461571b67e5202c7bb3f8d209c734
 
 <!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
 
