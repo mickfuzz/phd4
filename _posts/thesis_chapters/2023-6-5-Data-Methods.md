@@ -337,7 +337,7 @@ In my journal notes for phases prior to using the drama process, I documented th
 
 In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
 
-To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
+To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of partfanicipants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
 
 MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
 NOTE ON CODING - LIMITED
@@ -379,12 +379,17 @@ Here the text dialogue with the aliens is used as a mediating artefact first by 
 
 The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. During in our end of session reflection above, I noted the following ad-hoc encounter that a child initiated on the interactive page while his father was taking a break from coding.
 
-    Ed: hi Weean,
-    Weean: We are are the Weean we have no name, we are all the same.
+    Ed: hi WEEAN what is it like up there :)
+    Weean: It is cold and very big but quite tranquil too.  all the same.
     Ed: What is your name?
     Weean: We are are the Weean we have no name, we are all the same.
     Ed: That must be hard at xmas
     Weean: It is. It sure is.
+
+
+![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
+
+![alien feedback]({{ site.baseurl }}/thesis_chapters/Pictures/2019-05-15-alien_feedback_2.png)
 
 Inspired by the positive reaction of participants to this playful engagement with the fictional audience, I asked a student helper to participate remotely to play the part of the alien. The student then gave feedback via live text interaction to participants in the final session. The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
@@ -430,30 +435,31 @@ https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
 
 <br />
 
-In the transcript above of vignette 4.1.b we see that in the reflection participants engage in a lively discussion about the secret missions they had been given. Encouraged by he mother Molly, Nadine shares that she has been highly engaged in the disruptive secret mission  (explored later). While Dan and Toby express playful frustration, Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his rude noise mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
-Thus these sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
+These sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
 
 <!-- PROVISIONAL BRING accurate FIGURES TO THIS. -->
 
 The process was not without friction. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
 
-During the vignette above, Richie occupies a peripheral position and is interaction with his laptop still. However, he reacts positively when Ed's irreverent questions to the Weean are read out.
+During the vignette above, Richie occupies a peripheral position and is interaction with his laptop still. However, he reacts positively when Ed's irreverent questions to the Weean are read out. The positive reaction of young people to the drama process was also picked up in interview data.
 
-![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
-
-![alien feedback]({{ site.baseurl }}thesis_chapters/Pictures/2019-05-15-alien_feedback_2.png)
-
-The positive reaction of young people to the drama process was also  picked up on by one pair in interview data.
-
-
-    Mark: You liked those games where you had to kind of hack somebody else?
-    Ed: Yeah
-    Mark: It was it because there was a sense of play ... and a bit of anarchy.
+    Mark: Tell us about the Weean?
+    Ed: er.
+    Mark: What did you like about the Weean?
+    Ed: Just very silly and I don't know. They answered your questions.
+    Mark: Was it, because there was a sense of play, a bit of fun and a bit of anarchy.
     Ed: Yeah.
-    Mark: The weird thing was, I think it was a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overly technical process.
+    Mark: What else can you tell us about the Weean?
+    Ed: er.
+    Mark: There was the little sabotage things you had to do as well.
+    Ed: Yeah
+    Mark: So you liked those games where you had to kind of hack somebody else?
+    Ed: Yeah
+    ...
+    Mark: The Weean thing was, I think, a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overtly technical. Brought a personal element in and obviously that anarchy. Kids love the absurd.
 
-<!-- I really like I found the wean thing, the most interesting thing about last session. Okay. I felt that the kids loved it too. So tell me a bit about that, how that how that kind of what people do in the way. What was it you liked about the way they're just very silly? Yes. The answer to your questions? Yes. Did you really enjoy the fact that this earthly body was answering your questions? Yeah. It was it because there was a sense of play, offensive form, and a bit of anarchy. Yeah. Yeah. Right. Whilst he tells all the way, I'm sure was that there was a little sabotage things you have to do wasn't that you liked those games where you had to kind of hack somebody else? Yeah. What missions did you go? What happens? Spaces to change someone else sound but the math changed it and read it. That exactly like that even though it was quite different, but it wasn't it wasn't enough of a change. But Reuben had to us and they put like a really loud cow fat thing and we didn't know. I said it was great for ages. And he felt that was Larry. Yeah, the weird thing was, I think it was a massive hit for everybody because he just brought sense of play and fun. And it took attention away from it being overly technical person. -->
 
 
 <!-- The secret missions were part of this workshop
@@ -471,11 +477,12 @@ https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
 <!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
 
-The secret missions encourage various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly disruptive ones which in this context involved frustration and wasted time for other users. Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
+
+The secret missions encouraged various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly disruptive ones which in this context involved frustration and wasted time  for other users. Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
 
 
 **Summary:** The process supports:
-- addressing tension of identity clashes by recognising and encouraging diverse making approaches and styles of community partipation
+- addressing tension of identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
 
 
 <!-- This tallies with observations from journal, interviews and video data of participants. -->
@@ -1241,11 +1248,6 @@ SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES
  - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
 
  The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
-
-
-
-
-
 
 <!-- Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them. -->
 <!--
