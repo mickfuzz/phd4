@@ -77,8 +77,10 @@ chapters\planning\methodology_chapter\methodology_chapter_late_2020.odt.md
 https://drive.google.com/drive/u/1/folders/1D-VhVj-NgN3qgk3YEx4HZEozf_1UOGtE
  -->
 
-### Contextual factors from practitioner perspective influencing design
 
+
+
+## Contextual factors from practitioner perspective influencing design
 
 **Recap of context and specifics of designing for informal learning**
 
@@ -137,12 +139,6 @@ In the 3 foci model Rogoff refers to apprenticeship as a way of illustrating the
 
 
 
-
-
-## Short vignette illustrating shifts in scope of activity
-
-The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Toby who in this session has been working independently.
-
 <!-- __Insert image of code__
 
 The code of the game.
@@ -158,6 +154,11 @@ There is a tension where he is hesitant about where to place code.
 Screen shot of the menu of choices. -->
 
 
+## Short vignette illustrating shifts in scope of activity
+
+ The following vignette, consisting of extracts of participant activity over 20 mins of a session, is presented as an summary of different scopes of activity. The participant is the child Toby who in this session has been working independently.
+
+https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
 ### Commentary on Vignette - including a brief description of the nested levels of activity & tools used
 

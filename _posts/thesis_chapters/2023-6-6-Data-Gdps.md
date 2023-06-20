@@ -230,15 +230,21 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 ### Descriptive Commentary on Vignette A
 
-The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. The child wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
+The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. As well as the key and door pattern which has just been implemented, the child also wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
 
-For both parent and child there is an explicit awareness of game making patterns, the cultural conventions of a platformer game and concept of the game as a dynamic system. This awareness drives their work on the design and coding mechanics of the game.  The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying .
+The key and door pattern is one of the harder ones to implement as it involves adding two new functions, which while simple enough, represent new code structures and thus this adds a new level of conceptual and practical complexity.   This is borne out in the coding blockage the family found themselves in the first part of the session. The supporting resources for this pattern are included in Appendix 6.x. The parent finally circumnavigates her own hesitancy by asking for facilitator help by sending out her child to ask.
+
+<!--
+The supporting resources are available here.
+https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/#game-mechanic-keys-and-doors -->
+
+For both parent and child there is an explicit awareness of game making patterns, the cultural conventions of a platformer game and concept of the game as a dynamic system. This awareness drives their work on the design and coding mechanics of the game.  The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying.
 
 Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a desire to play against game conventions with a desire to confuse or disorient players.
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-Cracking open a this seam allows for new possibilities. The process of working on a new GDP seems to motivate and sustain the child's activity. The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementation of a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
+Cracking open this seam allows for new possibilities. The process of working on a new GDP seems to motivate and sustain the child's activity. The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementation of a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
@@ -249,6 +255,10 @@ NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR T
 The adult is building proficiency in coding practice. This is shown in a variety of ways including; finding and comprehending supporting documentation, fluidly navigating between undertaking more advanced coding to implement new GDPs, playtesting and preparing the coding environment for more basic coding of her child.
 
 This chapter now expands to represent the diversity of the coding and community practices of participants through focusing on their use of game design patterns.
+
+
+
+
 
 <!-- The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background." -->
 <!--
