@@ -442,6 +442,8 @@ During the vignette above, Richie occupies a peripheral position and is interact
 
 ![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
 
+![alien feedback]({{ site.baseurl }}thesis_chapters/Pictures/2019-05-15-alien_feedback_2.png)
+
 The positive reaction of young people to the drama process was also  picked up on by one pair in interview data.
 
 
