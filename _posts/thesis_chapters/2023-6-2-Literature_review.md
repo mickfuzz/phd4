@@ -177,6 +177,7 @@ The underlying assumption of the work here is re-examined in a stream on later w
 
 
 
+
 #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
 
 When faced with choice learners are sometimes unsure how to start creating.

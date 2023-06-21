@@ -244,7 +244,7 @@ Understanding of the game as a dynamic system is seen clearly in the parent’s 
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-Cracking open this seam allows for new possibilities. The process of working on a new GDP seems to motivate and sustain the child's activity. The child shows high engagement at this stage outlining her plan for adding pattern to make progress in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementation of a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
+Completion of the code implementation of a GDP allows for new possibilities in design dynamics using the same text matrix level design tool. This stage of working on a new GDP sustains the child's activity. The child shows high engagement at this stage outlining her plan for implementing the pattern in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementation of a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
@@ -254,10 +254,7 @@ NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR T
 
 The adult is building proficiency in coding practice. This is shown in a variety of ways including; finding and comprehending supporting documentation, fluidly navigating between undertaking more advanced coding to implement new GDPs, playtesting and preparing the coding environment for more basic coding of her child.
 
-This chapter now expands to represent the diversity of the coding and community practices of participants through focusing on their use of game design patterns.
-
-
-
+This chapter now expands to represent the diversity  of the coding and community practices of participants through focusing on their use of game design patterns. (and opportunites for educators)
 
 
 <!-- The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background." -->

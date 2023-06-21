@@ -18,6 +18,8 @@
         making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
+    -   [Concluding remarks on process
+        drama](#concluding-remarks-on-process-drama)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
@@ -61,6 +63,7 @@
             design](#seeding-community-practices-design)
         -   [Creating affordances within the (Microworld)
             design](#creating-affordances-within-the-microworld-design)
+        -   [Summary](#summary-1)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)
         -   [Positive affective space](#positive-affective-space)

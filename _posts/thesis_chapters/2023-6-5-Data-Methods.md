@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 5. Seeding Game Making Communities to Facilitate Learner Agency
+title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
 
 -   [Research Questions - June 2023](#research-questions---june-2023)
@@ -30,6 +30,8 @@ title: 5. Seeding Game Making Communities to Facilitate Learner Agency
         making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
+    -   [Concluding remarks on process
+        drama](#concluding-remarks-on-process-drama)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Observations on the use of code playgrounds and development
@@ -73,6 +75,7 @@ title: 5. Seeding Game Making Communities to Facilitate Learner Agency
             design](#seeding-community-practices-design)
         -   [Creating affordances within the (Microworld)
             design](#creating-affordances-within-the-microworld-design)
+        -   [Summary](#summary-1)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)
         -   [Positive affective space](#positive-affective-space)
@@ -398,6 +401,7 @@ In addition to the stated feedback activity the live chat served wider purposes 
 The start of process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. To use TADS terminology, Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
 
 To express this using affordance theory, the affordance offered by the medium of communication is repurposed and made more visible by Ed's use of it to ask playful questions.
+DEVELOP OR FINISH
 
 <!-- NOTES
 - identity of playfulness  
@@ -409,9 +413,10 @@ To express this using affordance theory, the affordance offered by the medium of
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
-The above example is a naturally occurring expression of learner agency which was incorporated into the drama process later in this phase. Other examples of emergent practices, explored later in the chapter, which served to increase the scope of agency, became a core processes without the need to introduce them as part of a drama process. NOTE-  SO WHAT'S THE DIFFERENCE?
 
-In contrast, both the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage patterns of behaviour which had emerged in previous iterations of game making. I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
+
+
+In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage patterns of behaviour which had emerged in previous iterations of game making. I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
 
 AN EXAMPLE?
 
@@ -443,7 +448,7 @@ These sanctioned non-design activities, designed to reduce participant stress, t
 
 The process was not without friction. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
 
-During the vignette above, Richie occupies a peripheral position and is interaction with his laptop still. However, he reacts positively when Ed's irreverent questions to the Weean are read out. The positive reaction of young people to the drama process was also picked up in interview data.
+The positive reaction of young people to the drama process was also picked up in interview data.
 
     Mark: Tell us about the Weean?
     Ed: er.
@@ -461,56 +466,46 @@ During the vignette above, Richie occupies a peripheral position and is interact
     Mark: The Weean thing was, I think, a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overtly technical. Brought a personal element in and obviously that anarchy. Kids love the absurd.
 
 
-
+<!-- WHERE AND HOW TO LINK DISCUSSION?
+- link to side missions of adventure games - zelda - perhaps find motivation there too. -->
+<!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
+<!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
+<!-- It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory.  -->
+<!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
 <!-- The secret missions were part of this workshop
 https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
-<!-- WHERE AND HOW TO LINK DISCUSSION?
-- link to side missions of adventure games - zelda - perhaps find motivation there too. -->
+There is more evidence of the impact of the drama process in the vignette above. In the end of session reflection, Richie occupies a peripheral position and continues to interact with his laptop. However, he reacts positively when Ed's questions to the Weean are read out. He later adds to the discussion when it turns to the sabotage based missions set in the drama process. It is probably that the ability to represent his irreverent approach helped his participation in the more formal, collaborative reflection and feedback activity in a way that had not happened in previous sessions.
 
-<!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
+Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children. This supported and encouraged behaviours that I had observed in the previous stage where they had been energised by breaks for coding and interactions with others. This activity helps addresses one of the key barriers to taking part in a coding community that of alienation from the culture of _hardcore coding_.
 
+    Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
+    Ed: Yes. (Ed starts to type very slowly)
+    Mark: (after some time) While you do that I’m going to go do my mission.
+    Ed: What's your mission?
+    Mark: To find out about other people's favourite games.
+    Ed: Alright.
 
-<!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
+While the some of Some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
 
-<!-- It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory.  -->
+The use of missions introduced by facilitator are taken up voluntarily by participants and work to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
 
-<!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
+### Concluding remarks on process drama
 
-
-The secret missions encouraged various forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners the process also suffered the same bleed from acceptable cheekiness and play which explores boundaries, to mildly disruptive ones which in this context involved frustration and wasted time  for other users. Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
-
-
-**Summary:** The process supports:
-- addressing tension of identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
-
+This section has explored the use of the possibilities of a drama process to support both the leaner expression of agency and as a pedagogical process for facilitators to militate probable conflicts and obstacles for learners in the creative process. The mission-based interventions began as naturally occurring expression of learner agency which became incorporated into the drama process. The next section examines the affordances and impact of the coding environment and starting game template, which in a similar way, evolved in response to participant use of earlier iterations of the toolset. Conversely, examples of more unguided practices and use of tools which served to increase the scope of agency are explored in the final section of this chapter.
 
 <!-- This tallies with observations from journal, interviews and video data of participants. -->
-
 <!-- The impact of time pressure to finish games also compounded tensions involving shifting away from game making to reflective activities. Even with the use of reflection in role, reflection activity was not prioritised in final sessions as time drew short. -->
 
 <!-- OTHER FACTORS
   - result of analysis of interactions during game making,
   - to encourage some practices - AND IDENTITIES - ANY COMMENTS ignored by solely focusing on implementing code - game maker types (mention in previous design chapter) -->
-
-
 <!-- LINK NOW TO AUTHENTICITY OF PROCESSES / TOOLS -->
-
-
-
  <!-- including exploring adapting Bartle player types to maker types to honour different approaches; the use of social and missions and  -->
-
  <!-- (NOTE PREVIOUSLY EXPLORED BY RESNICK ), and other pedagogical practices. -->
-
-
 <!-- The data in this chapter, and the majority of this thesis are drawn from stages 3 and 4. As such, the observations on starting point and subsequent emergent resources are based on that period. -->
 
 <!-- NOTE - TRY ORGANISING CHAPTER THIS WAY - IMPACT OF MY DESIGN - THEN EMERGING TOOLS / PRACTICES -->
-<!-- NOTE - STARTING AGAIN SIGN-POINTING TO WHERE AND HOW RQS ARE ADDRESSED.
-- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
-- How can learners build agency in an evolving community of game makers?
--->
-
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
 - How can learners build agency in an evolving community of game makers? -
 NOTE - INPUT A SMALL AMOUNT ABOUT WHAT IS MISSING FROM THIS SECTION DUE TO PARTICULAR FOCUS
@@ -1128,10 +1123,13 @@ Thus it is of potential value to learn to value the potential of these liminal m
 
 It is hard to make general claims in this area because of the context of the participants as families involved in home education. However, many of the observations.  similar practices exist in other research in this domain. For example, children have the potential to help parents as technology brokers [@correa_brokering_2015].  And parents can fulfil several valid roles including, advocate, emotional support, etc [@barron_parents_2009]
 
-Thus, it is not contraversial to suggest that parents and siblings can provide a large form of support in the creative process and that facilitators can design learning environments to facilitatte these possibilities. And that research on the roles that they provide can be of use to facilitators to advance their work. The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
+Parents and siblings can provide a large form of support in the creative process and facilitators can design learning environments to facilitate these possibilities. Research on the roles that they provide can be of use to facilitators to advance their work.
+
+The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
+
+EXPAND / SUMMARISE HOW IN THIS STUDY? - USE HEADINGS ABOVE
 
 Highlighting and supporting these more naturally emerging roles  behaviours may be more useful  (explain - well aligned to creating a game making community?) to facilitators in informal environments that the more prescriptive roles in pedagogies like pair programming.
-
 
 <!--
 #### Code roles  and experimentation
@@ -1451,7 +1449,10 @@ TRANSISION - AUTHENCITY IN DRAMA PROCESS
 The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
 PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
 
-The drama process can be viewed as magic circle [@stenros_defence_2012]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude. I previously made observations on myself and participants being more comfortable performing some of the activities in role. This feeling may stem from being positioned together with participants within a playful agreement. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
+The drama process can be viewed as magic circle [@stenros_defence_2012; @whitton_playful_2018]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude.
+EXPAND - Characteristics associated with the concept include: x; y; and z.
+
+The experience of myself and participants being more comfortable performing some of the activities in role, may stem from being positioned together with participants within a playful agreement where risk of perceived failure is reduced. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
 
 <!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
 
@@ -1523,6 +1524,10 @@ While this has tricky implications for practitioners in more formal settings, th
 
 DEVELOP THE ABOVE AS A SUMMARY OF THE PREVIOUS STAGES
 
+
+#### Metaphors around creating space
+
+The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter. The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances. 
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 <!--
