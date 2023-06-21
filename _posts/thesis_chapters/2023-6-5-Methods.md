@@ -617,7 +617,10 @@ Brief help was available via in-line text code comments allowing for self-direct
 
 ![](./Pictures/quickstart_phaser_1.png){width=50%}
 
-The template allowed changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance. While the code changes involved were minor in nature, they allowed a diversity in output to such an extent that participants were often kept occupied for an extended period of time. I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
+The template allowed changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour, appearance and dificulty. This created a large diversity in the games created and the making experience of participants at this stage. Despite using only four or five minor code changes, the diversity of experience kept some participants extended periods of time.
+
+
+<!-- I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity. -->
 
 <!-- COMMENT OF mOZILLA TOD THAT IT WAS GENTLE FACILITATION -->
 
@@ -639,50 +642,45 @@ As the end process is visible in fluid behaviour -->
 <!-- While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
 A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
-**Variable editing effective movement**
+These observations build on the descriiption of the game template in the last chapter.
 
-Player movement was a key to playtesting feedback as such three  key variables were highlighted at the very start of the game code and given descriptive names to facilitate their editing. When testing the game, the player's jump height was not great enough to allow progression up from the floor to one of the platform thus thwarting the collection of items.
+**Variable editing for movement:** Particpants needed to change the code to allow effective player movement. This thsu forced all particpants to alter at least one of the key variables were highlighted at the very start of the game code. Following this first change however behaviour varied greatly. While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others, mostly adults or younger participants, were much less concerned with this aspect of game play, despite sometime frustrating resultive player movement.
 
-Game progression require altering at least one of the descriptively names variables associated with jump height and then activating a preview window to observer the changes by playing the game in a new browser tab.
-<!--FIND  Some evidence of building proficiency with significant work to change these three -->
+**Level design and prototyping:** The starting game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. Many participants spent significant time and effort on level design both in initial stage and in subsequent sessions, undertaking many iterations of changes to the level design. As explored in the vignette in the previous chapter, Toby and several others designed to make the game challenging but still technically possible. In contrast, two particpants played with the convention of the game by removing all hazards and filling the screen with rewards/coins.
 
-    // Variables that change how the player moves
-    var gravity = 500;
-    var velocity_x = 100;
-    var velocity_y = 300;
+<!-- The vignette in the last chapter saw Toby's adding new levels to his game and undertaking many iterations of changes to the level design.  -->
 
-While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others were much less concerted with this aspect of game play, lowering gravity drastically to allow a greater jump size but a more frustrating floaty jump.
 
-**Level design and prototyping**
 
-The starting game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. The following image is of a printable _quick start_ cards to aid participants to begin the process of changing level design.
 
-The possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure. The vignette in the last chapter saw Toby's adding new levels to his game and undertaking many iterations of changes to the level design. He and several other participants spent extensive time performing level design activity with a goal of making the game extremely challenging but still technically possible. Others played with the convention of the game by removing all hazards and filling the screen with rewards/coins (an example is outlined in the starting vignette of the next chapter).
+<!-- The possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure. -->
 
-**Incomplete graphical blocks to help seed narrative and art creativity**
 
-The use of blank, coloured blocks of 32 x 32 pixels encouraged participants to change the graphical design and the relatively small size of the sprites encouraged rapid design. The theme of creating a game with moving characters often resulted in participants redesigning sprites to games involving animals. The following image shows a whale as a player character and plastic bottles.
+**Use of pixel art to seed narrative and art creativity:** One activity that all particpants spent some time on was to replace the coloured bloack of teh starting template with pixel art sprites created using the Piskel tool. Participant spent a widely different length of time creating these graphics. Some took a long time to master the process of using the editing tool. Some others struggled with the process of exporting the images to the code editor. Others were relatively rapid in creation but returned to alter their creations. As they had been guided to make a game on a broadly environmental theme. Participants often redesigned sprites to games involving animals. The following image shows a whale as a player character and plastic bottles.
 
 ![](./Pictures/whale_1.png){width=50%}
 
-The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
+<!-- MOVE?
+The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax. -->
 
 #### Observations on design behaviours encouraged through use of game template
 
-There was a great divergence in the amount of time learners took to want to progress beyond these changes to additional new game design patterns rather than altering the ones embedded in the starting template. The following chapter outlines this transition in greater detail.
+While the simple changes to the game dynamics and patterns embedded in the starting template were motivation and enagement, some participants soon began to ask how to make additions to the game. A common request was to add a moving enemy to the game. There was a great divergence in the amount of time learners took to want to progress beyond making embedded changes to adding new game design patterns. One parent Molly did not progress beyond this point despite engaging in phase three and phase four, focusing on graphical design and developing narratives. In the feedback session she commented that she was happy to reinforce her existing learning.
 
-When compared to the process of learning to code in a text language from first principles, knowledge of very few coding concepts were essential. In contrast, a large number of broader digital literacy skills involved. These include: file downloading ; file migration using the browser and file manager; browser tab navigation; graphics tool use in Piskel (a simplified Photoshop including - crop, fill and export tools); copying and paste text code; and selecting more than one lines of text code with mouse or keyboard shortcuts.
+At this stage, (which should perhaps be named) knowledge of very few coding concepts were essential. It useful to compare this to a typical process of learning to code in a text language from first principles where the learner is met with a great many new concepts in the process of being guided to construct even the most basic of programs. Thus this stage of learning design aligns mosst closely with the _Use_ stage of the UMC model (see lit review/ glossary) even though basic alterations are being made [@lee_computational_2011].  
+
+Instead analsis of the video data of participants reveals a large number of broader digital literacy skills involved in certain processes. For example, the processes of replacing a block image with a bespoke pixel sprite which comprised: file downloading; file migration using the browser and file manager; browser tab navigation; graphics tool use in Piskel (a simplified Photoshop including - crop, fill and export tools); copying and paste text code; and selecting more than one lines of text code with mouse or keyboard shortcuts. Undertaking the full process involved learnign a complex chain of  these individual actions.
+
+<!-- IS THERE DUPLICATION HERE - OPERATION ALSO ANALYSE VIA AT? -->
+Some participants became remarkably adapt at this, thus transforming this chain of actions into a fluid operation. Learners who had mastered the skills were asked by others for help. The rapid adoption and transfer of these processes between community members indicated a high motivational factor for participants of incorporating self-created graphical elements, a topick which is also addressed in the following section.  
 
 <!-- While the template has self contained help in the form of text comments Some participant do not pick up all processes, some left behind and need support but that is available. Seeing patterns other peers adopted and creates a reason to ask for help. Peer propagation of patterns explored later. -->
-
-The process of swapping assets in involved developing a complex chain of many of the individual actions listed above. There was a large divergence in the speed and proficiency with which these processes were performed by participants. Some became remarkably adept at these processes and in doing so transformed these changes into a fluid operation. Learners who had mastered the skill were asked by others for help. The rapid adoption and transfer of these processes between community members indicated the high motivational factor for participants of incorporating self-created graphical elements. These motivational factors are explored in the following section.
 
 <!-- Perhaps move later after GDP chapter?  -->
 <!-- **Limitation of asset work as a GDP**
 Note the limits of this interpretation
 While the reinterpretation of the MDA framework into a menu of GDP is practical for the elements that they want to change, it is not strictly a pattern to be implemented here.
  tension here to be briefly explored or noted to explore later. -->
-
 
 <!-- #### Circulation of peers and helpers
 This often facilitates talk aloud of design decisions and justifications.
@@ -696,19 +694,12 @@ In the emerging community there was a variety of help available including;
 - Student Helper attention and help
 - Peer support from parents and children -->
 
-
-
-
 <!-- ### Discussion on initial tool use and starting processes
 DEVELOP THIS SECTION -->
 
 <!-- These observations can be explore in relation to other research
-
 - This research supports claims that half-baked games invite development []
 - This research also supports other research on the attraction (and motivation) of retro, (introduction) on culture and livingstone, sefon-green. -->
-
-
-
 
 ## Emerging processes and use of tools
 
@@ -723,10 +714,9 @@ The chapter has until know discussed some of the uses of  drama processes and a 
 
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
-While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.
+<!-- While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved. -->
 
-The literature review explored existing research on how the use of home interests and funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio effects or written messages were also possible.
-
+The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
 
 One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
 
@@ -766,14 +756,16 @@ The growing mastery of this area also seems to help drive motivation to complete
 
 #### Summary: Home Funds and RQs
 
-This research supports fiding of other research which highlight value of games and media projects to incorporate home funds [Resnick , Scratch]. It also aligns with PBL literature which advocates the personalisation of projects [find a nice one].
+This research supports fiding of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
 
-The use of home funds of knowlege as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems to share the personalised object created.
+This research indicates that in particular, the use of home interests as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems in order to share the personalised object created.
 
-The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
+MOVE? PLAYTESTING?
+In addition, The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
 
 There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.)
-This shifts the focus of the microworld concept away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
+
+This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
 
 
 <!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
@@ -820,7 +812,8 @@ THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF
 
 Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
 
-This concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
+<!-- PARK FOR NOW - Maybe move to Design
+The concept of the feel of the game or the challenges maps to the Dynamics of MDA framework. -->
 
 <!-- The concept of difficulty for most of the participant's games was dependent on the interaction between the feel of the game controls and elements of game challenge associated with placement of hazards and moving enemies. -->
 
