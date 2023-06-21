@@ -489,6 +489,7 @@ Side missions or side quests are also used in open world games are used in part 
 While the some of Some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
 
 The use of missions introduced by facilitator are taken up voluntarily by participants and work to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
+A BIT MORE ON AGENCY?
 
 ### Concluding remarks on process drama
 
@@ -580,43 +581,43 @@ In the data analysed, young people -->
 NOTE - THIS IS VERY DESCRIPTIVE - SHOULD SOME OF THIS BE MOVED TO THE DESIGN CHAPTER?
 
 <!-- The choice of the starting toolset and mission shapes the balance and profile of initial community activity. -->
-As explored in the literature review, the concept of a Microworld which embodies target concepts has extensive supporting and descriptive research.
+<!-- As explored in the literature review, the concept of a Microworld which embodies target concepts has extensive supporting and descriptive research.  -->
 
-This section outlines the characteristics of a game microworld which served as a base for learner's creations during the phase studies here.
+<!-- NOTE - USE MICROWORLD OR NOT AS CONCEPT IN THIS CHAPTER? -->
 
+The last chapter outlined the design characteristics of the coding tools in a face-to-face learning environment, namely: an incomplete 2D platformer; pixel graphics; with graphical scaffolding for text-based code; and deliberately incomplete thus inviting improvement. In this section, I draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of these tools.
 
-### Observations on the use of code playgrounds and development tools
-
-<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch.
-Instead the more authentic approach of a real language.
+<!-- Make point that it is hard to separate out tools and communities. In case of Mozilla, code playgrounds, and teach the web, and the culture of developers and teaching communities they are interlinked. Discuss and compare to Kafai in book, the lineage of Logo, Scratch. Instead the more authentic approach of a real language.
  -->
 
-As explored in the previous chapter, my motivation for choice of code development tools (Javascript, Phaser and Glitch) were driven by desire to be authentic and extensible. In this section I draw on my journal notes and past experience and observations from interpretation of video data to share observations on the use of the coding environment.
+### Code playground
 
-
-
-### Code playground and Half-baked game as Microworld
 <!--
 MOVE
-
 he last chapter outlined the use and design characteristics of the starting point of an incomplete 2D platformer with low-spec graphics, with graphical scaffolding for text-based code, and deliberately broken.
 While the following chapter explores the use of game design patterns in detail, this section addresses the impact of the template on participant coding practices, based on video observations of learners directly interaction with the template triangulated with journal notes from phases 2 and 3 and participant feedback from phase one. -->
+<!-- THIS NEEDS REVISION - USEFUL BUT WHAT FOCUS - DEBUGGING TOOLS? - DESIGN HEURISTICS - LIKE SCRATCH -->
+
+<!-- NOTE - THEME THIS? COMPLEXITY, APPEARANCE, -->
 
 
-The last chapter outlined the use and design characteristics of the starting game template, namely: an incomplete 2D platformer; pixel graphics; with graphical scaffolding for text-based code; and deliberately incomplete thus inviting improvement. This section addresses the impact of these characteristics on participant coding practices, based on video observations of learners.
+My motivation for choice of code language (Javascript, Phaser) was driven by desire to be authentic and extensible. The use of glitch.com as a code playground significantly reduced technical barriers for students related to this choice. In terms of first impressions, learners first experience of the experience was in the process of playing a game in a webpage and controlling the character using the computers arrow/ cursor keys which for many was a familiar process.
 
-THIS NEEDS REVISION - USEFUL BUT WHAT FOCUS - DEBUGGING TOOLS? - DESIGN HEURISTICS - LIKE SCRATCH
+In terms of technical complexity, using a code playground removed the process of setting up a server for web development, and the delay and complexity of transferring files to the server. While the code project consisted of several files of javascript, HTML and CSS, learners were shielded from the complexity of how they were interlinked. In the video data analysed, there were practically no extended blockages to undertaking work related to the use of this environment. While this study does not attempt to quantify this factor, the experience compares very favourably to my experiences of using and teaching coding environments.
 
-The use of glitch as a code playground significantly reduced technical barriers for students. It removing the process of setting up a server for web development, and the delay of transferring files to the server. While the code project consisted of several files of javascript, HTML and CSS, learners were shielded from the complexity of how they were interlinked and there were practically no extended blockages to undertaking work using this environment. There were some issues of access for some participants who did not remember or recall log in details or their project name. These issues were mitigated through the use of a log in details shared between participants.
+There were some issues of access for some participants who did not remember or recall log in details or their project name. These issues were mitigated through the use of a log in details shared between participants. When users struggled to log in or to find the games or assets that they had created earlier there sought and received help from family members or other peers. Direct help from facilitators was rarely required. In the glitch environment code errors were highlighted in with red dot in the interface which gave a quick visual indication of where the error occurred, when the user hovered over gave an error message as a pop up, which while limited and sometimes misleading, gave participants immediate feedback on syntax errors. In analysis of video data, I observed learners reacting to this feedback and either reversing errors such as deleting commas, semi-colons and quotations marks. When participants were coding as a pair, especially the parent was observing they would often notice and point out the red dot, thus preventing further errors.  The next chapter explores different types of errors and participant responses to them.
 
-When users struggled to log in or to find the games or assets that they had created earlier there sought and received help from family members or other peers. Direct help from facilitators was rarely required. In the glitch environment code errors were highlighted in with red dot in the interface which gave a quick visual indication of where the error occurred, when the user hovered over gave an error message as a pop up. the which while limited
+![](./Pictures/codeplayground_redot.png){width=50%}
 
-MOVE SOME OF THE LATER SECTION HERE ABOUT MICROWORLD?
-OR IN DESIGN?
+<!-- NOTE - LINK TO OTHER KINDS OF ERRORS - NEXT CHAPTER -->
 
 ### Impact of the half-baked starting template
 
-In phase one, I noted that any addition to the game in terms of adding new any quantity of code created a many possible problems. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
+<!-- NOTE SOME OF THIS CAN  -->
+
+As explored in the last chapter, participants starting with an incomplete game template to scaffold the initial creative and coding process. The template allowed changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
+
+<!-- In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance. -->
 
 I initially highlighted these possible changes to the embedded game design patterns that could be made to existing code in person via informal instruction during pilot workshops. To facilitate working with larger groups, I later extended the process by creating supporting cards [^2] that highlighted and demonstrated the relevant code changes. While the code changes involved were minor in nature, they allowed a diversity in output to such an extent that participants were often kept occupied for an extended period of time. I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
 
@@ -1527,7 +1528,7 @@ DEVELOP THE ABOVE AS A SUMMARY OF THE PREVIOUS STAGES
 
 #### Metaphors around creating space
 
-The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter. The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances. 
+The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter. The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
 <!--

@@ -496,7 +496,7 @@ Drama and fictional scenarios can help explore issues and reduce learner anxiety
 My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals.
 
 In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014].
-Explain 
+EXPLAIN HOW.  
 Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
 
 I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:

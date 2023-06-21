@@ -598,6 +598,12 @@ NOTE - rewrite the below highlighting the possibility of highlighting different 
 
  Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
 
+ For example,  on into the detail and types or errors.  These include:
+
+  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+
 
  Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
