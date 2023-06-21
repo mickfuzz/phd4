@@ -117,14 +117,14 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
 
-- The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
+<!-- - The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
 - the use of core tools in the initial learning design
 - community behaviour and design processes
 
 In the discussion section, the chapter builds on material explored in the literature to explore:
 
 - the development of agency in this learning design, Particular attention is given to processes which support learners to develop agency in the game making process.
-- design concepts to support novices learning coding in game making contexts.
+- design concepts to support novices learning coding in game making contexts. -->
 
 <!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.  -->
 
@@ -711,13 +711,7 @@ DEVELOP THIS SECTION -->
 
 <!-- The process of facilitating for emerging learner identities and practices, via the processes and tools explored above,  -->
 
-The chapter has until know discussed some of the uses of  processes and tools which as a designer I brought to the learning design
-
-While these  tools and processes emerged in response to articulated and inferred learner need, the following process emerged more directly from input from the participants involved.  
-
-One major process added in response to the requests of learners was that of adding game design patterns. This is covered in the following chapter.
-
-
+The chapter has until know discussed some of the uses of  drama processes and a bespoke toolset which as an educator I brought to the learning design. While these  tools and processes emerged in response to articulated and inferred learner need, in contract, the processes explored in the following section emerged more directly from input from the participants involved.  
 
 <!-- Thus my role as a responsive facilitator rather than a instructor was key to this process.  -->
 <!-- opens up flexibility in the way learners approach the design processes. -->
@@ -726,7 +720,7 @@ One major process added in response to the requests of learners was that of addi
 
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
-While the potential to add graphics was a core affordence of the half-baked templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.
+While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.
 
 The literature review explored existing research on how the use of home interests and funds of knowledge facilitate the adoption of design and coding practices. At all phases of the learning design participants were able to input their own preferences in the narrative elements and themes of games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio effects or written messages were also possible.
 
