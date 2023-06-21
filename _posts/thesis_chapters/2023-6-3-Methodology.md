@@ -309,7 +309,7 @@ The concept of instrumental agency to aid learner control is also useful as a wa
 
 Matusov and colleagues also propose authorial agency [@matusov_mapping_2016] as a useful concept - DEFINE - brining transformational agency within that perspective.
 
-The authours also note the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context[@nieminen_what_2022]. 
+The authours also note the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context[@nieminen_what_2022].
 
 ### On double stimulation and agency
 
@@ -323,13 +323,20 @@ Blockages caused by contradictions are also analysed the fields of design and HC
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
 
-
+Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
 
 Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
 
+This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
+
 Nardi and colleagues give an overview regrounding Gibson's concept of affordences as acition posibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
 
+While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
+
+
 However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
+
+
 
 NOTE - more on affordances here from Nardi
 

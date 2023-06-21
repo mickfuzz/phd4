@@ -14,18 +14,15 @@
         -   [Exploring documentation and accessing technical help within
             the drama
             frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-    -   [Playful dialogue with the aliens unrelated to game
-        making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
+        -   [Playful dialogue with the aliens unrelated to game
+            making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
     -   [Use of side missions to encourage varied creative
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Concluding remarks on process
         drama](#concluding-remarks-on-process-drama)
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
-    -   [Observations on the use of code playgrounds and development
-        tools](#observations-on-the-use-of-code-playgrounds-and-development-tools)
-    -   [Code playground and Half-baked game as
-        Microworld](#code-playground-and-half-baked-game-as-microworld)
+    -   [Code playground](#code-playground)
     -   [Impact of the half-baked starting
         template](#impact-of-the-half-baked-starting-template)
         -   [Observations on design behaviours encouraged through use of
@@ -56,20 +53,20 @@
 -   [Discussion](#discussion)
     -   [Discussion on authenticity and
         agency](#discussion-on-authenticity-and-agency)
-        -   [Summary](#summary)
     -   [Discussion on tool use and
         Agency](#discussion-on-tool-use-and-agency)
         -   [Seeding community practices
             design](#seeding-community-practices-design)
         -   [Creating affordances within the (Microworld)
             design](#creating-affordances-within-the-microworld-design)
-        -   [Summary](#summary-1)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)
         -   [Positive affective space](#positive-affective-space)
         -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Creating space for emergent design practices can support
         agency](#creating-space-for-emergent-design-practices-can-support-agency)
+        -   [Metaphors around creating
+            space](#metaphors-around-creating-space)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
 -   [Conclusion](#conclusion)
