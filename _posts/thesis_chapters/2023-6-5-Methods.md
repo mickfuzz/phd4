@@ -407,9 +407,6 @@ DEVELOP OR FINISH
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
-
-
-
 In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage patterns of behaviour which had emerged in previous iterations of game making. I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
 
 AN EXAMPLE?
@@ -572,8 +569,6 @@ In the data analysed, young people -->
 
 ## The impact of the core tools of code playgrounds and templated game
 
-NOTE - THIS IS VERY DESCRIPTIVE - SHOULD SOME OF THIS BE MOVED TO THE DESIGN CHAPTER?
-
 <!-- The choice of the starting toolset and mission shapes the balance and profile of initial community activity. -->
 <!-- As explored in the literature review, the concept of a Microworld which embodies target concepts has extensive supporting and descriptive research.  -->
 
@@ -669,7 +664,7 @@ While the simple changes to the game dynamics and patterns embedded in the start
 
 At this stage, (which should perhaps be named) knowledge of very few coding concepts were essential. It useful to compare this to a typical process of learning to code in a text language from first principles where the learner is met with a great many new concepts in the process of being guided to construct even the most basic of programs. Thus this stage of learning design aligns mosst closely with the _Use_ stage of the UMC model (see lit review/ glossary) even though basic alterations are being made [@lee_computational_2011].  
 
-Instead analsis of the video data of participants reveals a large number of broader digital literacy skills involved in certain processes. For example, the processes of replacing a block image with a bespoke pixel sprite which comprised: file downloading; file migration using the browser and file manager; browser tab navigation; graphics tool use in Piskel (a simplified Photoshop including - crop, fill and export tools); copying and paste text code; and selecting more than one lines of text code with mouse or keyboard shortcuts. Undertaking the full process involved learnign a complex chain of  these individual actions.
+Instead analysis of the video data of participants reveals a large number of broader digital literacy skills involved in certain processes. For example, the processes of replacing a block image with a bespoke pixel sprite which comprised: file downloading; file migration using the browser and file manager; browser tab navigation; graphics tool use in Piskel (a simplified Photoshop including - crop, fill and export tools); copying and paste text code; and selecting more than one lines of text code with mouse or keyboard shortcuts. Undertaking the full process involved learnign a complex chain of  these individual actions.
 
 <!-- IS THERE DUPLICATION HERE - OPERATION ALSO ANALYSE VIA AT? -->
 Some participants became remarkably adapt at this, thus transforming this chain of actions into a fluid operation. Learners who had mastered the skills were asked by others for help. The rapid adoption and transfer of these processes between community members indicated a high motivational factor for participants of incorporating self-created graphical elements, a topick which is also addressed in the following section.  
@@ -718,12 +713,15 @@ The chapter has until know discussed some of the uses of  drama processes and a 
 
 The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
 
+Video evidence indicated that conflicts involved between learner expectations and their technical abilities are helped by the use of the starting template. The
+constraints of provided game elements and implied narrative structure of the template accelerated the initial creative process.
+
+<!-- (like a  musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.) -->
+
 One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
 
      var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
      Use the arrow keys to move the bee. Press return to START.";
-
-
 
 <!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
 
@@ -758,23 +756,15 @@ The growing mastery of this area also seems to help drive motivation to complete
 
 This research supports fiding of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
 
-This research indicates that in particular, the use of home interests as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems in order to share the personalised object created.
+This research indicates that in particular, the use of home interests as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems in order to share the personalised object created. In addition, the tacit knowledge of children as proficient consumers of games gives them agency in the process of giving to others, a process which is explored in the next section.
 
-MOVE? PLAYTESTING?
-In addition, The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
-
-There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.)
-
-This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
-
-
+<!-- This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression. -->
 <!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
 
 <!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
 Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make. -->
 
 <!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
-
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
 
 
@@ -782,33 +772,34 @@ Take the example above, through use of pixel art editor, and template with small
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
-As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour. By the time video data recording started in phase three there were already complex patterns of playtesting underway. In this section, I review data to describe some of the emerging playtesting behaviours of participants.
+As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour.
+
+ <!-- By the time video data recording started in phase three there were already complex patterns of playtesting underway. In this section, I review data to describe some of the emerging playtesting behaviours of participants. -->
 
 **Playtesting as a social process**
 
-Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. For example, if a game featured an image of a dog other participants may ask: _Do you like dogs? Do you have a dog at home?_.
+Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
 
 **Playtesting and embodied participation in the games of others**
 
-By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently.
-
-Playtesting took on additional playful elements often staring in one part of the working environment and then migrating to other areas. Because of this mobility is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting. It is possible to communicate the characteristics of this play via a description of a typical encounter.
+<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
+<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
 
 
  <!-- Examples include.... -->
-Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations.
+Some children added additional playful elements to playtesting.  It is possible to communicate the characteristics of this play via a description of a typical encounter.
+Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
 
-While this play is happening it may attract other participants who may  remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
+
 
 <!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
-
 <!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
 
 
 **Community concepts and norming behaviour emerging during playtesting**
 
 THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE
-
 
 Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
 
