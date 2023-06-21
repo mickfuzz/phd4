@@ -605,15 +605,19 @@ There were some issues of access for some participants who did not remember or r
 
 <!-- NOTE - LINK TO OTHER KINDS OF ERRORS - NEXT CHAPTER -->
 
-### Impact of the half-baked starting template
+### Impact of the half-baked game template
 
 <!-- NOTE SOME OF THIS CAN  -->
 
-As explored in the last chapter, participants starting with an incomplete game template to scaffold the initial creative and coding process. The template allowed changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
+As explored in the last chapter, participants starting with an incomplete game template to scaffold the initial creative and coding process.
 
 <!-- In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance. -->
 
-I initially highlighted these possible changes to the embedded game design patterns that could be made to existing code in person via informal instruction during pilot workshops. To facilitate working with larger groups, I later extended the process by creating supporting cards [^2] that highlighted and demonstrated the relevant code changes. While the code changes involved were minor in nature, they allowed a diversity in output to such an extent that participants were often kept occupied for an extended period of time. I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
+Brief help was available via in-line text code comments allowing for self-directed or previously proficient learners to progress with minimal support. In addition, supporting cards [^2] suggested possible adaptations  and illustrated the relevant code changes needed.
+
+![](./Pictures/quickstart_phaser_1.png){width=50%}
+
+The template allowed changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance. While the code changes involved were minor in nature, they allowed a diversity in output to such an extent that participants were often kept occupied for an extended period of time. I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity.
 
 <!-- COMMENT OF mOZILLA TOD THAT IT WAS GENTLE FACILITATION -->
 
@@ -652,7 +656,6 @@ While some participants engaged with extensive experimentation to find a player 
 **Level design and prototyping**
 
 The starting game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. The following image is of a printable _quick start_ cards to aid participants to begin the process of changing level design.
-![](./Pictures/quickstart_phaser_1.png){width=50%}
 
 The possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure. The vignette in the last chapter saw Toby's adding new levels to his game and undertaking many iterations of changes to the level design. He and several other participants spent extensive time performing level design activity with a goal of making the game extremely challenging but still technically possible. Others played with the convention of the game by removing all hazards and filling the screen with rewards/coins (an example is outlined in the starting vignette of the next chapter).
 
