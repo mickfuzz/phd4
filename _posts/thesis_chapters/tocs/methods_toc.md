@@ -51,22 +51,19 @@
         -   [Summary: Division of Labour and
             RQs](#summary-division-of-labour-and-rqs)
 -   [Discussion](#discussion)
-    -   [Discussion on authenticity and
-        agency](#discussion-on-authenticity-and-agency)
-    -   [Discussion on tool use and
-        Agency](#discussion-on-tool-use-and-agency)
-        -   [Seeding community practices
-            design](#seeding-community-practices-design)
-        -   [Creating affordances within the (Microworld)
-            design](#creating-affordances-within-the-microworld-design)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)
         -   [Positive affective space](#positive-affective-space)
-        -   [Supporting Digital Jamming](#supporting-digital-jamming)
+    -   [Discussion on authenticity](#discussion-on-authenticity)
+        -   [Creating affordances within the tool
+            design](#creating-affordances-within-the-tool-design)
+-   [Seeding community practices vs allowing open
+    experimentation](#seeding-community-practices-vs-allowing-open-experimentation)
+    -   [Metaphors around creating
+        space](#metaphors-around-creating-space)
     -   [Creating space for emergent design practices can support
         agency](#creating-space-for-emergent-design-practices-can-support-agency)
-        -   [Metaphors around creating
-            space](#metaphors-around-creating-space)
+        -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Evolving writing on how the above answer
         RQS](#evolving-writing-on-how-the-above-answer-rqs)
 -   [Conclusion](#conclusion)
