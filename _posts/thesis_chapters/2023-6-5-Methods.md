@@ -758,15 +758,17 @@ The growing mastery of this area also seems to help drive motivation to complete
 
 This research supports fiding of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
 
-This research indicates that in particular, the use of home interests as a tactic by facilitators can be highly motivating in early stages of the design process and sustain the coding activity to overcome problems in order to share the personalised object created.
+This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
 
-MOVE? PLAYTESTING?
-In addition, The tacit knowledge of children as proficient consumers of games gives them agency in the process of feeding back.
+In addition, the tacit knowledge of children as game players gives them access to varied affordances in the process of feeding back.
 
-There is evidence here that frictions involved in dealing with expectations, are helped by the use of a templated game which has an implied narrative and creative frame which scaffolds the initial creative process. (like a core musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.)
+There is also evidence here that frictions involved in dealing with participant expectations of the genre and professionalism of the game they will create, are helped by the use of a templated game. Both in terms of the technical platform and the implied narrative and creative frame which scaffolds the initial creative process. This supports existing research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama. The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
+HOW TO EXTEND?
 
-This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
+<!-- NOTE - CHECK LITERATURE -->
 
+<!-- This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
+ -->
 
 <!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
 

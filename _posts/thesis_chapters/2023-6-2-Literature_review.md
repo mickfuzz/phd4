@@ -647,9 +647,17 @@ _posts/thesis_chapters/planning/lit review/game making/game making environments 
 
 Hackathons, Game Jams and accelerated production methods
 
-Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains Johnson and Robinson, 2014; Kienzler and Fontanesi, 2017). Accelerated production methods are being applied to a wide variety of domains.
+Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains Johnson and Robinson, 2014; Kienzler and Fontanesi, 2017).
 
-Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or48 hours. Team events often take place in physical venues which may be part of a wider global Jams Aryaet al., 2013). Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam Eberhardt,2016). Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience Eberhardt,2016, p. 3).
+The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
+
+Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
+
+Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or48 hours. Team events often take place in physical venues which may be part of a wider global Jams Aryaet al., 2013). Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam Eberhardt,2016).
+
+
+
+Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience Eberhardt,2016, p. 3).
 
 Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
 
