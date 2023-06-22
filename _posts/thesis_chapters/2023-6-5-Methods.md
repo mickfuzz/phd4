@@ -797,11 +797,13 @@ Participants, particularly older ones, used playtesting as a way of showing supp
 
 
  <!-- Examples include.... -->
-Some children added additional playful elements to playtesting.  It is possible to communicate the characteristics of this play via a description of a typical encounter.
-Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+Some children added additional playful elements to playtesting. Because these interactions were mobile between works is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
+
+WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
+
+    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
 
 These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
-
 
 <!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
 <!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
