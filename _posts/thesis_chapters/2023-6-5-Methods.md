@@ -811,9 +811,40 @@ These changes to the form and function of playtesting by young participants is a
 
 **Community concepts and norming behaviour emerging during playtesting**
 
-THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE
+<!-- THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE -->
 
-Participants concepts of game challenge evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comment about how 'hard' participant games were the most common interaction during playtesting.
+
+The elements of variables controlling player movement, the ability to place hazards in the layout of the platform game were initial changes that all participants made but the end results greatly varied in terms of the challenge of the games. Discussions on game challenge, specifically comments about how 'hard' participant games were the most common forms of interaction during playtesting.
+
+Through this informal feedback participants sought to influence peers to modify the playability and challenge games to increase the enjoyment of peer players. For example, parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. Just before this extract, as a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x).
+
+<!-- PERHAPS TURN THIS INTO A TABLE WITH GESTURE?  -->
+
+    Bertie: That looks nice (referring to the graphical look of the game)
+
+    Molly invites Bertie: to play as she can't progress due to the difficult game controls.
+
+    Bertie: It jumps super high but so slow.  
+    Pause
+    Molly: He has to go slow because he's an astronaut, you see.    
+    Bertie: It's hard.
+    (Bertie leaves.)
+    Molly: (to peer parent with proud tone.) It's hard. Wow.
+
+    (Ed comes to play the game)
+    Ed: How much jump speed to you have?
+    Ed: Your jump speed is massive.
+
+Molly initially misconstrues feedback from Bertie that her game is hard as a positive thing. A variety of comments nudge Molly to change her game to align with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach. Feedback from Bertie is direct about his player experience as a player. Ed gives a more technical explanation from  involving the naming of the variable _jump speed_.
+
+Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
+
+The less directive norming behaviours here mirror observations seen in the work of Rogoff and colleagues[@rogoff_cultural_2003] on learning in  community settings. There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
+
+To better understand this process it is relevant to locate the source of these wider expectations and to evaluate their utility here. This is attempted in the discussion section of the chapter.
+
+What we can draw from the data at this stage is that playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs. IN addition, playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
+
 
 <!-- PARK FOR NOW - Maybe move to Design
 The concept of the feel of the game or the challenges maps to the Dynamics of MDA framework. -->
@@ -849,43 +880,8 @@ Player jump (y) velocity was set very high but left right (x) velocity was slow.
 <!-- She had been made aware by her daughter Ne about the relevant game variables.
 In response, Mi asked for advice but Ne gave none walking away. Mi noted "She's left me to my own devices." -->
 
-Parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. As a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). Younger participants are more direct.
 
-    Bertie: That looks nice (referring to the graphical look of the game)
 
-    Molly invites Bertie: to play as she can't progress due to the difficult game controls.
-
-    Bertie: It jumps super high but so slow  
-    Pause
-    Molly: He has to go slow because he's an astronaut, you see.    
-    Bertie: It's hard.
-    (Bertie leaves.)
-    Molly: (to peer parent with proud tone.) It's hard. Wow.
-
-    (Ed comes to play the game)
-    Ed: How much jump speed to you have?
-    Ed: Your jump speed is massive.
-
-Mi initially misconstrue the feedback that her game is hard as a positive thing. Other children come and play the game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Mi comments "It's so frustrating." This suggests that through he process she understands her game is frustrating rather than pleasantly challenging.
-
-A variety of comments suggest comply with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach, direct feedback from Ch and then a more specifically technical explanation from  involving the naming of the variable _jump speed_.
-
-#### Agency vs Community - Agency with an evolving community
-
-These norming behaviours some of the informal norming behaviours that are less directive seen in the work of Rogoff and colleagues as explored in literature review [@rogoff_cultural_2003].
-
-DEVELOP THE LINK TO NORMING PRACTICES HERE OR IN DISCUSSION LATER
-
-ALSO IS THERE A TENSION BETWEEN THIS COMMUNITY NORMING AS AN EMERGING PRACTICE - AND INDIVIDUAL AGENCY HERE
-
-EXPLORE THIS IN RELATION TO RESEARCH - AND PERHAPS SHIFT TO LATER DISCUSSION
-
-#### Summary Playtesing and RQs
-
-Playtesing provides many leverage points facilitating learner agency:
-
-- playtesting as a way to show informed criticality as a player and guide the creations of peers via gameplay feedback
--  
 
 <!-- We can see that Mi justifies the game feel of a very high fast jump with a narrative response about the character being spaceman. However, the limited amount of time anyone plays her game and her own frustration in playing it is telling. The game feel is frustrating in the wrong way here. Mi seems to initially misconstrue the feedback she is getting here equating her ability to make the game hard as a positive thing. However, towards the end she notes the frustrating nature of the game.
 
