@@ -23,8 +23,8 @@
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Code playground](#code-playground)
-    -   [Impact of the half-baked starting
-        template](#impact-of-the-half-baked-starting-template)
+    -   [Impact of the half-baked game
+        template](#impact-of-the-half-baked-game-template)
         -   [Observations on design behaviours encouraged through use of
             game
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
@@ -35,21 +35,9 @@
         knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
         -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
     -   [Playtesting](#playtesting)
-        -   [Agency vs Community - Agency with an evolving
-            community](#agency-vs-community---agency-with-an-evolving-community)
-        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
-    -   [Emerging / flexible divisions of
-        labour](#emerging-flexible-divisions-of-labour)
-        -   [Alternating coding](#alternating-coding)
-        -   [Shifting roles in partner
-            work](#shifting-roles-in-partner-work)
-        -   [Helpers supporting supportive community
-            behaviours](#helpers-supporting-supportive-community-behaviours)
-    -   [The potential of "non-productive" activity (faff-time and
-        digital
-        laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
-        -   [Summary: Division of Labour and
-            RQs](#summary-division-of-labour-and-rqs)
+    -   [Flexible divisions of labour](#flexible-divisions-of-labour)
+    -   [The potential of emergent "non-productive"
+        activities](#the-potential-of-emergent-non-productive-activities)
 -   [Discussion](#discussion)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)

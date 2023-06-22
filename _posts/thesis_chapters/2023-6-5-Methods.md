@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
-
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Introduction](#introduction)
 -   [Exploring the impact of a drama
@@ -35,8 +34,8 @@ title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
 -   [The impact of the core tools of code playgrounds and templated
     game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
     -   [Code playground](#code-playground)
-    -   [Impact of the half-baked starting
-        template](#impact-of-the-half-baked-starting-template)
+    -   [Impact of the half-baked game
+        template](#impact-of-the-half-baked-game-template)
         -   [Observations on design behaviours encouraged through use of
             game
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
@@ -47,21 +46,9 @@ title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
         knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
         -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
     -   [Playtesting](#playtesting)
-        -   [Agency vs Community - Agency with an evolving
-            community](#agency-vs-community---agency-with-an-evolving-community)
-        -   [Summary Playtesing and RQs](#summary-playtesing-and-rqs)
-    -   [Emerging / flexible divisions of
-        labour](#emerging-flexible-divisions-of-labour)
-        -   [Alternating coding](#alternating-coding)
-        -   [Shifting roles in partner
-            work](#shifting-roles-in-partner-work)
-        -   [Helpers supporting supportive community
-            behaviours](#helpers-supporting-supportive-community-behaviours)
-    -   [The potential of "non-productive" activity (faff-time and
-        digital
-        laundry)](#the-potential-of-non-productive-activity-faff-time-and-digital-laundry)
-        -   [Summary: Division of Labour and
-            RQs](#summary-division-of-labour-and-rqs)
+    -   [Flexible divisions of labour](#flexible-divisions-of-labour)
+    -   [The potential of emergent "non-productive"
+        activities](#the-potential-of-emergent-non-productive-activities)
 -   [Discussion](#discussion)
     -   [Discussion on and agency and use of drama
         process](#discussion-on-and-agency-and-use-of-drama-process)
@@ -1046,28 +1033,20 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 
 
-### Emerging / flexible divisions of labour
+### Flexible divisions of labour
 
-NOTE THIS SECTION DESCRIBES EMERGING PATTERNS OF BEHAVIOUR - BUT IT IS NOT CLEAR IF IT ANWSERS THE RESEARCH QUESTIONS DIRECTLY.
-ALSO DUPLICATION WITH NEXT CHAPTER - SO REFACTOR
+<!-- The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.  -->
 
-An additional fund which participant drew on in the design process was their home collaboration practices.
+Analysis of video data uncovered flexible way in which the participant divided the process of game making. While these processes were emergent in that they were not in by the facilitator, they show traces of home collaboration practices. For example, Suzanna and Olivia alternated between use of keyboard and mouse to give the child hands on experience when possible. In interview data the parent note "I resist the urge to fix things immediately when she struggles." The parent driving seat to overcome code blockages then allowed the child to input their design choices when more complicated work is complete.
 
-#### Alternating coding
 
-The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.  One parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles."
-
-The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
-
-#### Shifting roles in partner work
-
-At one point the testing process Suzanna shows frustration as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.  
+<!-- At one point the testing process Suzanna shows frustration as gravity value is very low making any movement very slow with little control. While the child has previously rejected increasing the value, the parent's initial acceptance of this decision is later questioned. The parent who has to do the majority of the testing is more insistent to remove a frustrating part of the testing  process.   -->
 
 <!-- Discussion drawing on more radical attempts to describe the best way to bring young learners into a design practice.
 Perhaps in the field of participatory design. -->
 
 
-Toby and Dan's pair process of using supporting documents here as they work shows similar shifts. The professional practices of accessing professional documentation involves cultural elements here of a family learning culture between these two playing out in these processes. Toby and Dan's design process is more guided and focused than many other participants. As this interchange exploring professional documentation resources continues, the father starts as a facilitator  taking a lead from the direction of the child. However, as the dialogue progresses he begins to be more directive, initially by asking leading questions and testing existing knowledge. Finally, in order to complete the research task after reaching the beyond of the child's knowledge, the father issues a series of more direct instruction, directing the research and proposing a coding solution for their new game design pattern.
+Toby and Dan's pair process of accessing professional documentation also illustrated an aspect of their family learning culture. The pair's process is more guided and focused than many other participants. In several interchanges the father starts as a facilitator taking a lead from the direction of the child. As the child reaches the limits of their ability he begins to be more directive, by asking leading questions and testing existing knowledge. Finally, in order to complete the programming or research tasks beyond of the child's knowledge, the father is more direct in instruction, directing the research and proposing a coding solution for their new game design pattern.
 
 This approach appears to be influenced by Dan's experience as a software engineer and volunteer at Coder Dojo (Glossary). Interview extracts (included as appendices) show a direction to support the novices direction as a facilitator where possible.
 
@@ -1075,14 +1054,26 @@ This approach appears to be influenced by Dan's experience as a software enginee
 
 This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
 
+**Leveraging the possibilities of emering divisions fo labour:**  While the context of the participants as families involved in home education makes any general claims difficult, these observations support  exist in other research in this domain. For example, research shows that children have the potential to help parents as technology brokers [@correa_brokering_2015]. In joint technology work parents can fulfil several,reciprocal roles including, collaborator, resource provider, learner, non-technical consultant and emotional support [@barron_parents_2009].
+
+Thus, in response to the creative support that parents and siblings provide, facilitators should design learning environments to facilitate these possibilities. The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
+
+<!--
+PERHAPS MOVE TO CONCLUSION
+
+Highlighting and supporting these more naturally emerging roles behaviours may be more useful  (explain - well aligned to creating a game making community?) to facilitators in informal environments that the more prescriptive roles in pedagogies like pair programming.
+ -->
+
+<!--
+MOVE THIS SOMEHOW INTO A DISCUSSION AREA
 #### Helpers supporting supportive community behaviours
 
 While not a key part of this study, it is of value to briefly examine the role of student helpers in this phase.
 One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions. In journal notes I made observations and gathered feedback, while not fo extensively studied there is potential here.
 Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
 DEVELOP IN RELATION TO DISUCSSION BELOW.
-
-### The potential of "non-productive" activity (faff-time and digital laundry)
+ -->
+### The potential of emergent "non-productive" activities
 
 Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
@@ -1103,17 +1094,8 @@ I observed that navigating these essential but non-creative tasks in a collabora
 Thus it is of potential value to learn to value the potential of these liminal moments between design spaces for participants and facilitators alike.
 
 
-#### Summary: Division of Labour and RQs
 
-It is hard to make general claims in this area because of the context of the participants as families involved in home education. However, many of the observations.  similar practices exist in other research in this domain. For example, children have the potential to help parents as technology brokers [@correa_brokering_2015].  And parents can fulfil several valid roles including, advocate, emotional support, etc [@barron_parents_2009]
 
-Parents and siblings can provide a large form of support in the creative process and facilitators can design learning environments to facilitate these possibilities. Research on the roles that they provide can be of use to facilitators to advance their work.
-
-The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
-
-EXPAND / SUMMARISE HOW IN THIS STUDY? - USE HEADINGS ABOVE
-
-Highlighting and supporting these more naturally emerging roles  behaviours may be more useful  (explain - well aligned to creating a game making community?) to facilitators in informal environments that the more prescriptive roles in pedagogies like pair programming.
 
 <!--
 #### Code roles  and experimentation
@@ -1247,14 +1229,14 @@ But at the cost of maintaining a working game. -->
 
 <!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
 
-This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process.
+<!-- This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process. -->
 
 
 <!-- I will extract observations from this research that extend beyond the process of coding into other domains.   -->
 
-In this section analysis uses the language and concepts introduces in literature on affordances and transformational agency which in turn draws on concepts of conflicts in activity in activity theory. To help this process a quick recap of relevant concepts in relation to the contents of this chapter follows.
+<!-- In this section analysis uses the language and concepts introduces in literature on affordances and transformational agency which in turn draws on concepts of conflicts in activity in activity theory. To help this process a quick recap of relevant concepts in relation to the contents of this chapter follows. -->
 
-This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
+<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
 
 **Extending the metaphor of an kedging anchour used to warp a boat:** Affordances can act as visible anchor points, much like the coloured climbing holds in a climbing wall. To aid learners agency, designers add explicit anchor points to the design and make them visible to learners. (aligning with instrumental agency)
 
@@ -1319,9 +1301,7 @@ I believe part of my hesitancy in shifting activity from participant-led game ma
 
 I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
 
- NOTE - LINK TO AUTHENTICITY HERE
-
-
+NOTE - LINK TO AUTHENTICITY HERE
 
 ### Discussion on authenticity
 <!-- #### Authenticity of Problem / Project
