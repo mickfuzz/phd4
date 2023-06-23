@@ -9,6 +9,8 @@ layout: post
 categories: chapter
 title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
+
+
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Introduction](#introduction)
 -   [Exploring the impact of a drama
@@ -47,25 +49,20 @@ title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
         -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
     -   [Playtesting](#playtesting)
     -   [Flexible divisions of labour](#flexible-divisions-of-labour)
-    -   [The potential of emergent "non-productive"
-        activities](#the-potential-of-emergent-non-productive-activities)
 -   [Discussion](#discussion)
-    -   [Discussion on and agency and use of drama
-        process](#discussion-on-and-agency-and-use-of-drama-process)
-        -   [Positive affective space](#positive-affective-space)
+    -   [Flexible design practices](#flexible-design-practices)
+        -   [The potential of emergent "non-productive"
+            activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Discussion on authenticity](#discussion-on-authenticity)
-        -   [Creating affordances within the tool
-            design](#creating-affordances-within-the-tool-design)
--   [Seeding community practices vs allowing open
-    experimentation](#seeding-community-practices-vs-allowing-open-experimentation)
-    -   [Metaphors around creating
-        space](#metaphors-around-creating-space)
-    -   [Creating space for emergent design practices can support
-        agency](#creating-space-for-emergent-design-practices-can-support-agency)
-        -   [Supporting Digital Jamming](#supporting-digital-jamming)
-    -   [Evolving writing on how the above answer
-        RQS](#evolving-writing-on-how-the-above-answer-rqs)
--   [Conclusion](#conclusion)
+    -   [Agency and emerging spaces for community
+        activity](#agency-and-emerging-spaces-for-community-activity)
+        -   [Positive affective space within a drama
+            process](#positive-affective-space-within-a-drama-process)
+        -   [Extending the metaphor - anchoring in sheltered
+            harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+-   [Conclusion Nurturing agency by creating space for emergent
+    practices](#conclusion-nurturing-agency-by-creating-space-for-emergent-practices)
 
 <!-- ## Overview in points
 
@@ -1073,27 +1070,6 @@ One of their remits was to support the work of participants and to guide reflect
 Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
 DEVELOP IN RELATION TO DISUCSSION BELOW.
  -->
-### The potential of emergent "non-productive" activities
-
-Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
-
- <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
- <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
-
-
-Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared.
-
-In retrospect, many of the social and secret missions encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
-
-I observed that navigating these essential but non-creative tasks in a collaborative and playful way helps maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter  available in appendix 5.x - and extract of which is included below.
-
-   Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-   Parent peer laughs
-   Nadine bounces up in place and smiles broadly.
-
-Thus it is of potential value to learn to value the potential of these liminal moments between design spaces for participants and facilitators alike.
-
-
 
 
 
@@ -1238,7 +1214,125 @@ But at the cost of maintaining a working game. -->
 
 <!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
 
-**Extending the metaphor of an kedging anchour used to warp a boat:** Affordances can act as visible anchor points, much like the coloured climbing holds in a climbing wall. To aid learners agency, designers add explicit anchor points to the design and make them visible to learners. (aligning with instrumental agency)
+### Flexible design practices
+
+#### The potential of emergent "non-productive" activities
+
+Much time in sessions was spent on activities outside of the established design stages. For example, opening up the right tools, navigating to correct locations and finding past assets involved a fair deal of effort and collaboration. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
+
+ <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+ <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
+
+
+Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared. In retrospect, many of the social missions explored above encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
+
+In addtion, the process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
+
+     Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+     (Parent peer laughs)
+     (Nadine bounces up in place and smiles broadly.)
+
+Thus it is of value to create spaces to leverage the potential of these in-between moments for participants, a concept developed later in this discussion.
+
+### Supporting Digital Jamming
+
+Because of the common use of design stages as a conceptual design tool.
+And a prevalence of research linking design thinking  stages  and coding. I coded data to that. When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so.
+
+This observation suggests that, in this context,  a prescribed design pattern introduced may restrict creativity. This observation is supported in research which critiques a similar approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
+
+In the domain of game making accelerated events encouraging creative collaboration and innovation called Game Jams. However, these events are inconsistent in the way they may support collaborative approaches [@goddard_playful_2014]. More flexible perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012], and research has incorporated design thinking in creative educational programmes approaches with a rhizomatic approach [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical
+and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
+
+Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
+
+Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels. Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
+
+CONCLUSION / SUGGESTIONS NEEDED HERE
+
+<!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
+
+<!-- ##### Relevant terms and concepts in their relevant scope  / focus
+
+There is not a well-used framework in the area of researching teaching creative technology to undertake  analysis of group coding.
+
+- Tool affordance - in this context
+- Process affordance - in this context
+ -->
+
+### Discussion on authenticity
+<!-- #### Authenticity of Problem / Project
+Well established in PBL.
+Here the challenge is make a game to share, thus well aligned. -->
+
+Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day.
+
+> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
+
+<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
+
+<!-- NOTE ADD SOME DETAIL detail
+But the are explored in more detail in the following section. -->
+<!-- For example in this iteration, x is authentic, -->
+
+
+Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency.
+
+The inspirational factor of _lifting the lid_ on previously unknown technology was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+
+While the last chapter addressed authenticity of tools and processes in general terms this chapter has explored the impact on learners. The design of the starting template shielded learners from much of the complexity of the underlying web-technology and provided affordances via embodied elements that facilitated learner agency via expression of home interests, play with dynamics and game layout. The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
+
+These observations support existing research on computing projects in the work of Papert [-@papert_mindstorms_1980] on Mircoworlds and subsequent research on programming tools in the constructionist tradition [@kafai_constructionism_1996-1; @kafai_mindstorms_2014]. In this study, in contrast to the specially created tools of Scratch and Logo, the protected Microworld is built as a shield area within a more genuine ecology of authentic tool use and practices.
+
+<!-- While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time. -->
+<!-- The next stage was to imagine game elements to add to the design in the form of GDPs.
+The next chapter explores the use of GDPs by participants in detail using varied data. -->
+
+Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency. As explored in the previous chapter and in the results of this chapter, the authenticity of the tools and processes involved are more complex.
+
+In summary, while the use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles and other pedagogies. For example, while the complexity of authentic text code languages and authentic developer focused documentation can be intimidating, the following section explores the potential for drama processes to address learner anxiety in this domain.
+
+<!-- Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009]. -->
+
+<!--
+There are examples of the authenticity of the audience being used by participants
+
+  - Suzanna uses the imagined audience to norm behaviour.
+  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+
+The use of code playgrounds and js? structured along design principles which align with affordance theory. -->
+
+
+### Agency and emerging spaces for community activity
+
+
+#### Positive affective space within a drama process
+
+The work in this research around designing and coding _in role_ and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
+
+The drama process can be viewed as magic circle [@stenros_defence_2012; @whitton_playful_2018]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude.
+
+<!-- EXPAND - Characteristics associated with the concept include: x; y; and z. -->
+
+The experience of myself and participants being more comfortable performing some of the activities in role, may stem from being positioned together with participants within a playful agreement where risk of perceived failure is reduced. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
+
+<!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
+
+The positive affective space can also reduce facilitator stress. In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
+
+I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
+
+I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
+
+
+#### Extending the metaphor - anchoring in sheltered harbours
+
+
+This chapter has discussed affordences of the learning design that help learner agency. At times, the metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage in their process has been used. I find this useful to explain some of the processes in play here. However, in other reserach the metaphor is often used in less-structured workplace settings. This section expands Sannino's metaphor of kedging anchor to encompass concerns of a more structured learning design.
+
+Affordances can act as visible anchor points, much like the coloured climbing holds in a climbing wall. To aid learners agency, designers add explicit anchor points to the design and make them visible to learners. (aligning with instrumental agency)
 
 ONLY USE EXAMPLES ONCE  - CLARIFY LANGUAGE FIRST.
 In the design above such anchor points may be regular play-testing, the highlighting of external audiences,  the use of documentation, the embedding of quick variable and structural changes. Some processes work to clarify problems areas, thus making the water clearer to better see anchour points
@@ -1261,97 +1355,46 @@ Of course this may make learners run into trouble if engaging outside of the har
 
 Thus, whilst both of value, there is a potential tension between instrumental agency and transformative agency. In designing out tensions it reduces the capacity for participants to solve them both individually and collectively by .
 
-NOTE WHY IS THIS METAPHOR USEFUL - CLARIFY
 
-Transistion - When designing with learner agency in mind. Some of the following may help
+<!-- Transistion - When designing with learner agency in mind. Some of the following may help -->
 
+## Conclusion Nurturing agency by creating space for emergent practices
 
-<!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
+<!-- NOTE - discuss the value of design stages? from PBL chapter -
+It would be vital to include this in Lit Review -->
 
+This section begins to pull together different themes explored above and to  explore some recommendations for learning designs which support learner agency.
 
-
-<!-- ##### Relevant terms and concepts in their relevant scope  / focus
-
-There is not a well-used framework in the area of researching teaching creative technology to undertake  analysis of group coding.
-
-- Tool affordance - in this context
-- Process affordance - in this context
- -->
+In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
 
-### Discussion on and agency and use of drama process
+**types of agency in conflict**
+It is of value to pick out different forms of agency at play here.
 
-TRANSISION - AUTHENCITY IN DRAMA PROCESS
+Thus, whilst both of value, there is a potential tension between instrumental agency and transformative agency. In designing out tensions it reduces the capacity for participants to solve them both individually and collectively by .
 
-#### Positive affective space
+A suitable context for create jamming here aligns with conceptions of affective space previously explored in drama process conditions.
 
-The work here of creating and coding in role and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces".  [@piazzoli_process_2011; @stinson_dol_2006].
-PERHAPS MOVE THIS UP OR TO LIT REVIEW - ALSO THE TERM AFFECTIVE SPACE IS NOT WIDELY USED - FIND PARALLEL IN MOE
+While some areas of the design emerged in phase one, became a stable part of the design, (for example template and supporting documentation) other processes remained more flexible to interpretation and direction by participants; , playtesting, division of labour and use of home interests.  
 
-The drama process can be viewed as magic circle [@stenros_defence_2012; @whitton_playful_2018]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude.
-EXPAND - Characteristics associated with the concept include: x; y; and z.
-
-The experience of myself and participants being more comfortable performing some of the activities in role, may stem from being positioned together with participants within a playful agreement where risk of perceived failure is reduced. Other processes beyond social and secret missions were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.  
-
-<!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
-
-The positive affective space can also reduce facilitator stress. In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus less about controlling individuals and more about contracting into a game-ful or playful experience. I felt more relaxed restricting choice in role via the proxy of a playful encounter.
-
-I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school.
-
-I propose that the drama fiction eases friction between competing activity system objectives. For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression. Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners.
-
-NOTE - LINK TO AUTHENTICITY HERE
-
-### Discussion on authenticity
-<!-- #### Authenticity of Problem / Project
-Well established in PBL.
-Here the challenge is make a game to share, thus well aligned. -->
-
-The last chapter explored authenticity of tools and processes and resulting tensions in more general terms. Authenticity in PBL can apply to tools and processes as well as authentic as possible project goals or problems [@hung_engaged_2006]. While the design is well aligned in terms of the authenticity of the project goal, as participants make a real, online digital game, the authenticity of the tools and processes involved are more complext.
-
-The authentic goal of making a game acted as a wrapper for the whole process, with norming behaviours and embedded knowledge guiding people within bounds implicitly without excessive instruction.
-
-Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
-AND Extended here by .... ?
-
-There are examples of the authenticity of the audience being used by participants
-
-  - Suzanna uses the imagined audience to norm behaviour.
-  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+To encourage broad possibilities of learner agency key areas of the design should not be overly structured. I propose that if you leave space for emergent practices they will emerge.
 
 
-Concerning workplace-based drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the process explored. To do so, she argues, would expose their inexpertness in the cold light of day.
-
-> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
-
-<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
-
-<!-- NOTE ADD SOME DETAIL detail
-But the are explored in more detail in the following section. -->
-<!-- For example in this iteration, x is authentic, -->
 
 
-Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency.
+**supporting diversity**
 
-The inspirational factor of _lifting the lid_ on previously unknown technology was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game.
+A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create problematic errors.
 
-The use of code playgrounds and js? structured along design principles which align with affordance theory.
+**missing intermediate   concepts**
 
+Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
 
-#### Creating affordances within the tool design
+<!-- #### Seeding community practices vs allowing open experimentation
 
-One of the key elements of engagement and affordances providing agency was the embodied choices offered in the game template.
+While this has tricky implications for practitioners in more formal settings, there are tactics and tools which can help.  
 
-While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time.
-
-The embodied elements allowed access to agency via expression of home interests, play with dynamics, game layout,
-ANCHOR METAPHIR
-
-The partially working environment and immediate feedback this allowed also gave rapid access access to varied forms of face to face community activity including varied forms of playtesting and social interaction and ways to access help from peers and facilitators.
-
-The next stage was to imagine game elements to add to the design in the form of GDPs.
-The next chapter explores the use of GDPs by participants in detail using varied data.
+DEVELOP THE ABOVE AS A SUMMARY OF THE PREVIOUS STAGES -->
 
 
 <!-- #### Analysis against (and calls to heed) existing design heuristics
@@ -1360,7 +1403,7 @@ Earlier we examined of challenges of the authenticity of the authentic tools set
 
 The complexity of coding and the resulting challenges of learning to code has yield much research on guidance in the process of designing toolsets to support novice coders [@resnick_reflections_2005] - (find others on the evolution of LOGO).  
 
-The user-friendly design heuristics of  low-thresholds, wide-walls, high-ceilings - extended by Kafai and Burke to include open windows - can be used to evaluate this design and other designs.  
+The user-friendly design heuristics of  low-thresholds, wide-walls, high-ceilingNOTE WHY IS THIS METAPHOR USEFUL - CLARIFYs - extended by Kafai and Burke to include open windows - can be used to evaluate this design and other designs.  
 
 NOTE - ADD KEY DETAILS OF THE ACCESSIBILITY / CHALLENGE OF THE CORE TOOLS SET
 
@@ -1373,47 +1416,6 @@ Indeed, Scratch itself has moved to a web-bsaed online by default process in the
 **Summary:** These heuristics provide a useful tool for designers and practitioners supporting creative coding activities. -->
 
 
-**Summary on authenticity:** The use of authentic tools and processes, while challenging for novices, can be facilitated by careful alignment of key design principles.
-
-
-
-## Seeding community practices vs allowing open experimentation
-
-
-#### Metaphors around creating space
-
-The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter. The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
-
-
-
-The process of Playtesting and working towards an external audience.
-
-Some of the processes for building community were more mutual - collecting requirements
-
-Creating documentation
-Other processess
-
-
-Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
-
-Thus, whilst both of value, there is a potential tension between instrumental agency and transformative agency. In designing out tensions it reduces the capacity for participants to solve them both individually and collectively by .
-
-
-
-### Creating space for emergent design practices can support agency
-
-<!-- NOTE - discuss the value of design stages? from PBL chapter -
-It would be vital to include this in Lit Review -->
-
-A suitable context for create jamming here aligns with conceptions of affective space previously explored in drama process conditions.
-
-While some areas of the design emerged in phase one, became a stable part of the design, (for example template and supporting documentation) other processes remained more flexible to interpretation and direction by participants; , playtesting, division of labour and use of home interests.  
-
-To encourage broad possibilities of learner agency key areas of the design should not be overly structured. I propose that if you leave space for emergent practices they will emerge.
-
-While this has tricky implications for practitioners in more formal settings, there are tactics and tools which can help.  
-
-DEVELOP THE ABOVE AS A SUMMARY OF THE PREVIOUS STAGES
 
 
 <!-- The drama process aligns with particularly the use of a playful, fictional absent character called the Golem or Wizard that both young people and adults collude to keep real.  some of the aspects of the 5th Dimension project [@blunden2014seeking] [@blanton_effects_1997]   -->
@@ -1452,20 +1454,6 @@ MOVE TO CONCLUSION THEN -->
 
 <!-- In other areas of creative processes the concept of jamming is potentially useful as a grounding. -->
 
-#### Supporting Digital Jamming
-
-Because of the common use of design stages as a conceptual design tool.
-And a prevalence of research linking design thinking  stages  and coding. I coded data to that. When coding data a design cycle framework was one of the code structures. Ask / Imagine, Plan, Create, Test, Improve, Share. However, when coding I quick became aware that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so.
-
-I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
-
-Such behaviour is often present in recorded data. Younger participants also developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed fluid practice. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about which spurs creativity. The joint jamming then has created two different soundtracks. This sparks a new thought to create different soundtracks for different levels. Other pairs often adopt a similar spirit. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
-
-While, the process of jamming is put into practice in this domain partially via accelerated events encouraging collaboration and innovation called Game Jams, these events are inconsistent and opaque in the way they may support improvisational approaches [@goddard_playful_2014].
-
-Similar to limits of the writing cycle in teaching [@kuby_rhizomatic_2016]
-
-Other more chaotic perspectives on creative processes exist including rhizomatic approaches [@de_freitas_classroom_2012]. And some attempts have been made to incorporate design thinking with a rhizomatic approach [@biffi_chasing_2017-1].
 
 
 <!-- While design cycles was not an explicitly part of the game making instruction, certain interventions supported this approach. In particular the use of maps as a planning and reflection tool and the use of playtesting as a social and personal form of evaluation of emerging designs. -->
@@ -1529,21 +1517,14 @@ These can be synthesised using TADS metaphor and enriching it with a greater foc
 
 <!-- The challenges of helping participants increase their confidence and commitment in program participation are explored in the the following descriptions detailing specific activities which were added to the program. -->
 
-### Evolving writing on how the above answer RQS
+<!-- ### Evolving writing on how the above answer RQS
 
 CHECK THIS MATERIAL TO SEE IF IT HAS BEEN INTEGRATED.
 See here for table
-https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/edit#
+https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/edit# -->
 
-## Conclusion
 
-MAKE THIS TIGHTER -
 
-In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
-
-A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create problematic errors.
-
-Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 
 
@@ -1557,5 +1538,5 @@ We can note tension of restricting user choice in order to create more "visible 
 This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements. -->
 
 
-[^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/
-[^2]: https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/
+<!-- [^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/
+[^2]: https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/ -->

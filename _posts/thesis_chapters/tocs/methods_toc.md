@@ -36,22 +36,17 @@
         -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
     -   [Playtesting](#playtesting)
     -   [Flexible divisions of labour](#flexible-divisions-of-labour)
-    -   [The potential of emergent "non-productive"
-        activities](#the-potential-of-emergent-non-productive-activities)
 -   [Discussion](#discussion)
-    -   [Discussion on and agency and use of drama
-        process](#discussion-on-and-agency-and-use-of-drama-process)
-        -   [Positive affective space](#positive-affective-space)
+    -   [Flexible design practices](#flexible-design-practices)
+        -   [The potential of emergent "non-productive"
+            activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Supporting Digital Jamming](#supporting-digital-jamming)
     -   [Discussion on authenticity](#discussion-on-authenticity)
-        -   [Creating affordances within the tool
-            design](#creating-affordances-within-the-tool-design)
--   [Seeding community practices vs allowing open
-    experimentation](#seeding-community-practices-vs-allowing-open-experimentation)
-    -   [Metaphors around creating
-        space](#metaphors-around-creating-space)
-    -   [Creating space for emergent design practices can support
-        agency](#creating-space-for-emergent-design-practices-can-support-agency)
-        -   [Supporting Digital Jamming](#supporting-digital-jamming)
-    -   [Evolving writing on how the above answer
-        RQS](#evolving-writing-on-how-the-above-answer-rqs)
--   [Conclusion](#conclusion)
+    -   [Agency and emerging spaces for community
+        activity](#agency-and-emerging-spaces-for-community-activity)
+        -   [Positive affective space within a drama
+            process](#positive-affective-space-within-a-drama-process)
+        -   [Extending the metaphor - anchoring in sheltered
+            harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+-   [Conclusion Nurturing agency by creating space for emergent
+    practices](#conclusion-nurturing-agency-by-creating-space-for-emergent-practices)
