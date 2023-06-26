@@ -186,6 +186,8 @@ As a facilitator, I indicate that we are entering a dramatic process and attempt
 
 > Parent: The Weean, sorry yes.
 
+<!-- NOTE - LIT summary? opening a space for agency / change of roles  -->
+
 _Facilitator activities in role_
 
 My role is a link between the participant and the fictional commissioners of the games. The transcript above (a fuller version is in appendix 4.x) captures a rare example of myself extended facilitator input as instruction. As a practitioner teaching technology, I try to limit teacher talk and being overly directive to prevent learner disengagement. COMPLETE.
