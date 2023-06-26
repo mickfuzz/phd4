@@ -322,12 +322,11 @@ In previous iterations, my omission of end-reflection in sessions stemmed fomr a
 
 To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of partfanicipants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
 
-MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
-NOTE ON CODING - LIMITED
+<!-- MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
+NOTE ON CODING - LIMITED -->
 
-Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator and participants to overcome conflicts in convening and participating in reflection, and project sharing [@sannino_principle_2015].  
+Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator to help convene learners and to help them participate in reflection, and project sharing [@sannino_principle_2015].  
 
-NOTE - ALTHOUGH INTRODUCED BY FACILIATOR NOT STUDENTS
 
 <!-- While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern. -->
 
@@ -356,7 +355,7 @@ Dan and Toby also received help from the aliens to implement a pattern of creati
 
 Here the text dialogue with the aliens is used as a mediating artefact first by the facilitator to share help in-role, and then by a parent to suggest a modification to the code syntax used and indicating a more general tactic of using readable code structures in novices.  
 
-**Thus, in summary,** the process of writing down a text request in-role potentially addresses the (previously-explored) barriers asking for help by de-personalising the process. It also encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms.
+Thus, in summary, the process of writing down a text request in-role potentially addresses the (previously-explored) barriers asking for help by de-personalising the process. It also encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. While this aspect of the drama process was introduced by the facilitator, in alignment with the understanding of Sannino's concepts of transformative agency through double stimulation (TADS) participants transform the function of the alien conversation to their own purposes. This theme is developed in the next section.
 
 #### Playful dialogue with the aliens unrelated to game making
 
@@ -376,12 +375,15 @@ The process of asking the aliens for technical help within a code project sparke
 
 Inspired by the positive reaction of participants to this playful engagement with the fictional audience, I asked a student helper to participate remotely to play the part of the alien. The student then gave feedback via live text interaction to participants in the final session. The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
-In addition to the stated feedback activity the live chat served wider purposes of building an insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting other achievements. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+The live chat began to fulfill a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
-The start of process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. To use TADS terminology, Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
+The start of process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. It is helpful to expore this interaction using AT and TADS terminology. Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
+
+<!--
+DEVELOP OR FINISH - note on Affordances
 
 To express this using affordance theory, the affordance offered by the medium of communication is repurposed and made more visible by Ed's use of it to ask playful questions.
-DEVELOP OR FINISH
+ -->
 
 <!-- NOTES
 - identity of playfulness  
@@ -393,16 +395,15 @@ DEVELOP OR FINISH
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
-In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage patterns of behaviour which had emerged in previous iterations of game making. I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
+In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage community-focused patterns of behaviour which had emerged in previous iterations of game making. These include social aspect of playtesting and playful interactions, explored in later section in this chapter, which I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
 
-AN EXAMPLE?
+<!-- AN EXAMPLE HELPFUL? -->
 
 A table of both social and public missions follows. These mission were printed out on cards and one of each type was given to the participants in the first half of the first two sessions.
 
 <!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
 <!-- NOTE ONLINE VERSION Secret missions and public missions -
 https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
-
 
 
 | Your Alien Mission (social)          | Your Secret Alien Mission:              
@@ -463,7 +464,7 @@ Side missions or side quests are also used in open world games are used in part 
     Mark: To find out about other people's favourite games.
     Ed: Alright.
 
-While the some of Some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
+While the some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
 
 The use of missions introduced by facilitator are taken up voluntarily by participants and work to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
 A BIT MORE ON AGENCY?
@@ -594,12 +595,12 @@ As explored in the last chapter, participants starting with an incomplete game t
 
 <!-- In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance. -->
 
-Brief help was available via in-line text code comments allowing for self-directed or previously proficient learners to progress with minimal support. In addition, supporting cards [^2] suggested possible adaptations  and illustrated the relevant code changes needed.
+Brief help was available via in-line text code comments allowing for self-directed or previously proficient learners to progress with minimal support. In addition, supporting cards (see figure 4.x below) suggested possible adaptations  and illustrated the relevant code changes needed.
 
 ![](./Pictures/quickstart_phaser_1.png){width=50%}
+4.x - Example of a Quick start card
 
-The template allowed changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour, appearance and dificulty. This created a large diversity in the games created and the making experience of participants at this stage. Despite using only four or five minor code changes, the diversity of experience kept some participants extended periods of time.
-
+The templated game was structured to allow changes in code which were relatively easy to perform but which resulted in potentially large changes in game behaviour, appearance and dificulty. This created a large diversity in the games created and in the making activities of participants at this stage despite the small scale of the code changes involved.  Thus while I created these resources and the coresponding code strucutres to facilitate a _quick start_, the diversity of experience kept some participants extended periods of time.
 
 <!-- I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity. -->
 
@@ -648,7 +649,7 @@ The process of creating a pixel art characters and hazard involved using an onli
 
 While the simple changes to the game dynamics and patterns embedded in the starting template were motivation and enagement, some participants soon began to ask how to make additions to the game. A common request was to add a moving enemy to the game. There was a great divergence in the amount of time learners took to want to progress beyond making embedded changes to adding new game design patterns. One parent Molly did not progress beyond this point despite engaging in phase three and phase four, focusing on graphical design and developing narratives. In the feedback session she commented that she was happy to reinforce her existing learning.
 
-At this stage, (which should perhaps be named) knowledge of very few coding concepts were essential. It useful to compare this to a typical process of learning to code in a text language from first principles where the learner is met with a great many new concepts in the process of being guided to construct even the most basic of programs. Thus this stage of learning design aligns mosst closely with the _Use_ stage of the UMC model (see lit review/ glossary) even though basic alterations are being made [@lee_computational_2011].  
+At this _quick start_ stage, knowledge of very few coding concepts were essential. It useful to compare this to a typical process of learning to code in a text language from first principles where the learner is met with a great many new concepts in the process of being guided to construct even the most basic of programs.  Thus, while some basic alterations are being made, this stage of learning design aligns mosst closely with the _Use_ stage of the UMC model (see lit review/ glossary) [@lee_computational_2011].  
 
 Instead analysis of the video data of participants reveals a large number of broader digital literacy skills involved in certain processes. For example, the processes of replacing a block image with a bespoke pixel sprite which comprised: file downloading; file migration using the browser and file manager; browser tab navigation; graphics tool use in Piskel (a simplified Photoshop including - crop, fill and export tools); copying and paste text code; and selecting more than one lines of text code with mouse or keyboard shortcuts. Undertaking the full process involved learnign a complex chain of  these individual actions.
 
