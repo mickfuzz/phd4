@@ -48,5 +48,7 @@
             process](#positive-affective-space-within-a-drama-process)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+        -   [Implications in conceptualisations of forms of
+            agency](#implications-in-conceptualisations-of-forms-of-agency)
 -   [Conclusion Nurturing agency by creating space for emergent
     practices](#conclusion-nurturing-agency-by-creating-space-for-emergent-practices)

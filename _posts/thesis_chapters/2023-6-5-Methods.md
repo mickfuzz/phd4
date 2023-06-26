@@ -10,7 +10,6 @@ categories: chapter
 title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
 
-
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Introduction](#introduction)
 -   [Exploring the impact of a drama
@@ -61,6 +60,8 @@ title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
             process](#positive-affective-space-within-a-drama-process)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+        -   [Implications in conceptualisations of forms of
+            agency](#implications-in-conceptualisations-of-forms-of-agency)
 -   [Conclusion Nurturing agency by creating space for emergent
     practices](#conclusion-nurturing-agency-by-creating-space-for-emergent-practices)
 
@@ -213,7 +214,8 @@ This second extract comes from the following session in phase four. In three of 
 
 > Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
 organiser
-![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%}
+
+<!-- ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%} -->
 
 > Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the Weean have sent us the code we need for basically dropping stuff.
 
@@ -244,8 +246,7 @@ organiser
 
 >Mark: That’s tickled me that.
 
-> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you ha- What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
-- How can learners build agency in an evolving community of game makers?ve added to your game? Is yours called “No Toby Allowed” now.
+> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
 (Laughs from all)
 
 > Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s

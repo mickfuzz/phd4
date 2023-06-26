@@ -309,7 +309,7 @@ The concept of instrumental agency to aid learner control is also useful as a wa
 
 Matusov and colleagues also propose authorial agency [@matusov_mapping_2016] as a useful concept - DEFINE - brining transformational agency within that perspective.
 
-The authours also note the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context[@nieminen_what_2022].
+The authors also note the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context[@nieminen_what_2022].
 
 ### On double stimulation and agency
 
