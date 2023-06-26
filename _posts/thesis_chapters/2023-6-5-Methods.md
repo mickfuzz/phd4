@@ -1362,22 +1362,25 @@ Additionaly, this work happens in an facilitated environment. Design desicions s
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
 Many design decisions were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; skirting use of specialist terminology; hiding away un-needed complexity in the code template.
 
-While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool. 
+While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
 
 #### Implications in conceptualisations of forms of agency
 
-Previous chapters explored varied understandings of agency. To here is a potential tension between instrumental agency and transformative agency. In designing out conflicts the facilitator may reduce the capacity for participants to profitably address them, both as individuals pair or collectively as a group. There is a balance here for the facilitator to take an appropriate position on. A future chapter explores this aspect in more depth.  
+Previous chapters explored varied understandings of agency. To here is a potential tension between instrumental agency and transformative agency. In designing out conflicts the facilitator may reduce the capacity for participants to profitably address them, both as individuals pair or collectively as a group. There is a balance here for the facilitator to take an appropriate position on. The following conclusion explores these tensions in more depth.  
 
-NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY.
 
 <!-- Transistion - When designing with learner agency in mind. Some of the following may help -->
 
 ## Conclusion Nurturing agency by creating space for emergent practices
 
-<!-- NOTE - discuss the value of design stages? from PBL chapter -
-It would be vital to include this in Lit Review -->
+<!--
+NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
 
-This section begins to pull together different themes explored above and to  explore some recommendations for learning designs which support learner agency.
+THIS SECTION IS STILL UNDER DEVELOPMENT
+
+This section continues to explore tensions surrounding support learner agency, useful conceptions of agency.
+
+ <!-- and starts to explore recommendations for researcher and proffessionals working t. -->
 
 In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
 
