@@ -1347,9 +1347,7 @@ This chapter has discussed affordences of a bespoke and mutually designed learni
 
 In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However, in this design, participants aim for affordances as visible anchor points. In the design above such anchor points include: regular play-testing; the use of documentation; and highlighed variables and level structure in the quick start stage.
 
-To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual.
-
-Additionaly, this work happens in an facilitated environment. Design desicions server to clarify common problems areas, thus making the water clearer to better see anchour points. The job of the designer is in part to identify the causes of turbulance and thus create support in a sheltered space of a harbour.
+To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
 
 <!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
 
@@ -1378,34 +1376,19 @@ NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGEN
 
 THIS SECTION IS STILL UNDER DEVELOPMENT
 
-This section continues to explore tensions surrounding support learner agency, useful conceptions of agency.
+This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
- <!-- and starts to explore recommendations for researcher and proffessionals working t. -->
+Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
 
-In making design decisions, I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation.
+Thus, I propose that key areas of the learning design should be more open in structured to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
 
+<!-- These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
 
-**types of agency in conflict**
-It is of value to pick out different forms of agency at play here.
+<!-- While some areas of the design emerged in phase one, became a stable part of the design, (for example template and supporting documentation) other processes remained more flexible to interpretation and direction by participants; , playtesting, division of labour and use of home interests.   -->
 
-Thus, whilst both of value, there is a potential tension between instrumental agency and transformative agency. In designing out tensions it reduces the capacity for participants to solve them both individually and collectively by .
+A different but relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create problematic errors.
 
-A suitable context for create jamming here aligns with conceptions of affective space previously explored in drama process conditions.
-
-While some areas of the design emerged in phase one, became a stable part of the design, (for example template and supporting documentation) other processes remained more flexible to interpretation and direction by participants; , playtesting, division of labour and use of home interests.  
-
-To encourage broad possibilities of learner agency key areas of the design should not be overly structured. I propose that if you leave space for emergent practices they will emerge.
-
-
-
-
-**supporting diversity**
-
-A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create problematic errors.
-
-**missing intermediate   concepts**
-
-Participants may also lack the concepts of computing and necessary language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples.  The next chapter explores the use of a collection of game design patterns to help address these issues.
+Participants may also lack the concepts and technical  language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples. The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 <!-- #### Seeding community practices vs allowing open experimentation
 

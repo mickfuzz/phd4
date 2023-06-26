@@ -303,7 +303,7 @@ Stetsenko places agency in a socio-cultural theory between conceptions of humans
 
 Hopwood outlines three major grounded conceptions [@hopwood_agency_2022], TAS, TADS and relational agency.
 
-Matusov and colleaguues outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
+Matusov and colleagues outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
 
 The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This mreo limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
 
