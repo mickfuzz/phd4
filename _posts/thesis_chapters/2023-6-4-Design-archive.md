@@ -5,7 +5,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: archive
 title: 4. Emerging Learning Designs
 ---
 
@@ -393,6 +393,8 @@ NEED TO SIMPLIFY TABLE - MAKE IN ATOM
 
 
 ## Commentary on evolution of design by Phase
+
+
 
 ### Phase one - an exploratory series of  game making sessions
 
