@@ -178,6 +178,23 @@ Significant contextual factors include (and supporting literature references):
 These factors have been used by educators and community builders to faciliate x and y?
 
 
+### mOVED HERE FROM DESING CHAPTER
+
+**Cultural influences on my choice of learning design**
+
+NOTE - MOVE TO INTRO  - NO NEED
+
+
+I set up the working pattern based on my professional experiences and my own academic and cultural interests. As mentioned in the introduction, DIY culture, remix culture, repair culture, TAZ events are strong influences to the learning design based on the ideals of an autonomous community.
+
+ - a desire to increase engagement based on my experiences in classroom and out of classroom - Home Ed / coder dojo experiences
+ - the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
+ - other experiences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
+ <!-- - A walled garden approach in terms of the GDP and code documentation and examples that are used. Based on my own experience of developer documentation and varied coding approaches. -->
+- Other examples from the interviews with practitioners are relevant to include here.
+
+
+
 ### Game Making, Project Based Learning and Inclusion
 
 Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
