@@ -1,6 +1,4 @@
 -   [Chapter Introduction](#chapter-introduction)
-    -   [Contextual factors from practitioner perspective influencing
-        design](#contextual-factors-from-practitioner-perspective-influencing-design)
 -   [Short vignette illustrating shifts in scope of
     activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
     -   [Commentary on Vignette - including a brief description of the
@@ -43,6 +41,15 @@
         Concepts](#including-coding-concepts-in-the-learning-map-and-including-code-cards-with-links-to-online-concepts)
 -   [Further discussion of learning design - HOLDING SECTION
     CURRENTLY](#further-discussion-of-learning-design---holding-section-currently)
+    -   [Discussion on Authenticity from methods chapter moved
+        here](#discussion-on-authenticity-from-methods-chapter-moved-here)
+        -   [Near-authentic processes and tools in drama and
+            project-based processes and related scenarios to increase
+            agency](#near-authentic-processes-and-tools-in-drama-and-project-based-processes-and-related-scenarios-to-increase-agency)
+        -   [Authenticity of Audience and
+            Problems](#authenticity-of-audience-and-problems)
+        -   [Authenticity of supporting documentation and design
+            concepts](#authenticity-of-supporting-documentation-and-design-concepts)
     -   [Discussion on tensions in relation to Lit Review and
         REQUESTS](#discussion-on-tensions-in-relation-to-lit-review-and-requests)
 -   [Link to next chapter](#link-to-next-chapter)
