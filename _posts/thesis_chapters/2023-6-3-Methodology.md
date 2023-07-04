@@ -9,52 +9,30 @@ layout: post
 categories: chapter
 title: 3. Methodology
 ---
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
--   [Outline](#outline)
-    -   [NOTE - Coding use of GDP.](#note---coding-use-of-gdp.)
     -   [Coding based on chapter 4](#coding-based-on-chapter-4)
-    -   [PROPOSAL Coding impact on design/ processes on learner agency -
-        boiled down
-        -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
 -   [Theoretical Framework](#theoretical-framework)
-    -   [Introduction to social turn,
-        school,](#introduction-to-social-turn-school)
-        -   [Build on the Literature Review
-            -](#build-on-the-literature-review--)
-        -   [Socio cultural research
-            methods](#socio-cultural-research-methods)
-        -   [Practical factors](#practical-factors)
--   [Justification of choice of
-    methodology](#justification-of-choice-of-methodology)
+    -   [Socio cultural research
+        methods](#socio-cultural-research-methods)
     -   [A social rather than individual
         constructivism](#a-social-rather-than-individual-constructivism)
--   [Design-based research and Intervention studies within educational
-    field](#design-based-research-and-intervention-studies-within-educational-field)
+-   [AT - Conceptualising activity in this learning
+    design](#at---conceptualising-activity-in-this-learning-design)
+    -   [Levels of Abstraction in Activity
+        Theory](#levels-of-abstraction-in-activity-theory)
+    -   [Choosing smaller units of
+        analysis](#choosing-smaller-units-of-analysis)
+    -   [Design-based research and Intervention studies within
+        educational
+        field](#design-based-research-and-intervention-studies-within-educational-field)
 -   [Conceptualising emergent agency](#conceptualising-emergent-agency)
     -   [On Agency and AT](#on-agency-and-at)
     -   [On double stimulation and
         agency](#on-double-stimulation-and-agency)
         -   [On affordances and anchors](#on-affordances-and-anchors)
--   [Conceptualising activity in this learning
-    design](#conceptualising-activity-in-this-learning-design)
-    -   [Levels of Abstraction in Activity
-        Theory](#levels-of-abstraction-in-activity-theory)
-    -   [Justification of GDP as a unit of
-        analysis](#justification-of-gdp-as-a-unit-of-analysis)
-    -   [Conceptualising activity in this learning
-        design](#conceptualising-activity-in-this-learning-design-1)
-        -   [LOA in Computing pedagogy](#loa-in-computing-pedagogy)
--   [Sociocultural Methods of
-    Analysis](#sociocultural-methods-of-analysis)
-    -   [Stages of Data Gathering and
-        ANALYSIS](#stages-of-data-gathering-and-analysis)
-        -   [Mutual nature of the evolution of the
-            design](#mutual-nature-of-the-evolution-of-the-design)
-    -   [Role of Practitioner
-        interviews](#role-of-practitioner-interviews)
--   [Data gathering methods and
-    justification](#data-gathering-methods-and-justification)
+-   [Data Gathering and Preparation](#data-gathering-and-preparation)
+    -   [Aligning data gathering and analysis with socio cultural
+        approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
     -   [Data Processing](#data-processing)
         -   [360 Video Processing](#video-processing)
         -   [Screen Capture Processing](#screen-capture-processing)
@@ -62,37 +40,36 @@ title: 3. Methodology
             recommendations](#learnings-and-recommendations)
 -   [Data analysis methods and
     justification](#data-analysis-methods-and-justification)
-    -   [Other Material - Analysis of
-        Data](#other-material---analysis-of-data)
-    -   [Analysis of Journal and Teaching
-        Resources](#analysis-of-journal-and-teaching-resources)
-        -   [Overall Rational and
-            Approach](#overall-rational-and-approach)
-    -   [Detailed Transcription of Video
-        sources](#detailed-transcription-of-video-sources)
-        -   [Grades of analysis](#grades-of-analysis)
-        -   [Justification of selecting sessions and sections for more
-            detailed
-            analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-        -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
-    -   [Transcrition of data](#transcrition-of-data)
-    -   [Starting analysis in 5 minute
-        sections](#starting-analysis-in-5-minute-sections)
-    -   [Selecting sections analysis](#selecting-sections-analysis)
-    -   [Incorporating gesture](#incorporating-gesture)
-    -   [Specifics of Coding](#specifics-of-coding)
-    -   [Video Coding - Analysis of
-        Data](#video-coding---analysis-of-data)
+    -   [Interview data](#interview-data)
+    -   [Practitioner interviews](#practitioner-interviews)
+    -   [Participant interviews](#participant-interviews)
+    -   [Other data](#other-data)
+-   [Analysis of Video overview](#analysis-of-video-overview)
+    -   [Rational and approach of video data
+        analysis](#rational-and-approach-of-video-data-analysis)
     -   [Notes on Underpinning of Thematic Analysis of Video
         Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
-        -   [Overall Rational and Approach of Coding Video
-            Data](#overall-rational-and-approach-of-coding-video-data)
         -   [What was Excluded and
             Rationale](#what-was-excluded-and-rationale)
         -   [Coding Participant Roles and
             Interactions.](#coding-participant-roles-and-interactions.)
         -   [Coding Design Cycle Stages](#coding-design-cycle-stages)
         -   [Coding Game Design Themes](#coding-game-design-themes)
+-   [Non-code - detailed transcription of video
+    sources](#non-code---detailed-transcription-of-video-sources)
+    -   [Grades of analysis](#grades-of-analysis)
+    -   [Justification of selecting sessions and sections for more
+        detailed
+        analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
+    -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
+    -   [Transcrition of data](#transcrition-of-data)
+    -   [Starting analysis in 5 minute
+        sections](#starting-analysis-in-5-minute-sections)
+    -   [Selecting sections analysis](#selecting-sections-analysis)
+    -   [Incorporating gesture](#incorporating-gesture)
+    -   [PROPOSAL Coding impact on design/ processes on learner agency -
+        boiled down
+        -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
     -   [Grades of video data analysis](#grades-of-video-data-analysis)
     -   [Limits of / problems with video data
         analysis](#limits-of-problems-with-video-data-analysis)
@@ -134,12 +111,11 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 ## Research Questions - May 2023
 
 - What pedagogical resources are available to support novices learning coding, particularly in game making communities?
-<!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
 - How can learners build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
 
-### Coding based on chapter 4
+<!-- ### Coding based on chapter 4 -->
 
 <!-- NOTE  I would say no - too complex -->
 
@@ -180,6 +156,21 @@ Emergent
 <!-- IMPLICIT ## Justification of choice of methodology -->
 
 
+
+### A social rather than individual constructivism
+
+Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity. Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] . Some of the specifics of these processes have already been named in the section above looking at collaboration. Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991].
+
+While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'.
+
+However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework. SEE WORK ON BARAB TO INFORM CONTRAST TO CONSTRUCTIONISM IF NEEDED.
+
+As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
+
+There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice [@laveSituatedLearningLegitimate1991] , Activity Theory .  
+
+I have chosen to use a design based research and to draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] of ethnography and three planes of activity
+
 ### Socio cultural research methods
 
 <!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
@@ -201,28 +192,117 @@ NOTE - Thus in the next chapter particular attention is paid to the development 
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
 
 
-### A social rather than individual constructivism
+## AT - Conceptualising activity in this learning design
 
-Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity. Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] . Some of the specifics of these processes have already been named in the section above looking at collaboration. Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991].
+This section examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
 
-While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'.
-
-However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework. SEE WORK ON BARAB TO INFORM CONTRAST TO CONSTRUCTIONISM IF NEEDED.
-
-As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
-
-There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice [@laveSituatedLearningLegitimate1991] , Activity Theory .  
-
-I have chosen to use a design based research and to draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] of ethnography and three planes of activity
+NOTE - for similar work see [@barab_using_2002]
 
 
-### Design-based research and Intervention studies within educational field
+#### Levels of Abstraction in Activity Theory
 
-My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992]. Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
+The educational activity can be seen as different scopes of activity.
 
-Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction. Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches.
+- wider education
+- guided activity
+- specific actions and operations.
 
-Another guiding principle of design-based research - which is present in the techniques of design experiments, mutual appropriation and participatory action research - is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+While game making can be seen superficially as the primary activity,
+
+OTHER RESEARCHERS ARGUE??
+I argue that a narrower objectives  most vital unit of activity for participants.
+
+#### Choosing smaller units of analysis
+
+This may be a smaller unit than common in sociological studies.
+
+Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
+
+
+**Activity, Actions and Operations**
+
+MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
+Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
+In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined.
+
+
+
+<!-- DROP THIS - NOT NEEDED
+While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis .
+
+REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
+
+<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
+
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
+
+
+
+<!-- (see blunden for more on project as unit of Activity
+https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
+
+<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
+
+<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
+NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
+
+<!-- review this video to develop
+https://www.youtube.com/watch?v=BMi56ZBSows -->
+
+<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
+
+<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
+<!-- #### LOA in Computing pedagogy
+Call back to PRIMM and Waite Sentence's work here -->
+
+### DBR and formative interventions.
+
+My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
+
+I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
+
+
+### Design-based research and formative intervention studies within educational field
+
+Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+
+One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
+
+**Early limits of DBR**
+
+
+
+Critique of DBR often stems from limits in application. For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+
+Another poported principle of  design-based research -  is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011].
+
+However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+
+<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+Adatations including mutual appropriation from Cole's work and formative interventions from Engeström's work
+
+
+Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
+
+While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
+
+**general issues**
+Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+
+<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
+
+
+
+
 
 
 ## Conceptualising emergent agency
@@ -234,7 +314,7 @@ Cultural mediation via artefacts [cole], as a base.
 Look for tensions in ATs - and how learners overcome barriers or blockages.
 
 
-### On Agency and AT
+### On agency, activity theory and formative interventions
 
 Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
 
@@ -276,8 +356,6 @@ While there is a The wealth of HCI literature in line with activity which discus
 
 However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
 
-
-
 NOTE - more on affordances here from Nardi
 
 Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
@@ -291,117 +369,25 @@ Affordances in the learning design can be viewed in this frame as a catching poi
 
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
-## Conceptualising activity in this learning design
 
-This section examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
+## Data Gathering and Preparation
 
-NOTE - for similar work see [@barab_using_2002]
+### Aligning data gathering and analysis with socio cultural approach
 
-### Levels of Abstraction in Activity Theory
+My process is informed by the work previously explored, specifically Rogoff,
 
-The game making process can be viewed as nested activity
+The process is a suitable approach for informal education.
 
-- wider education
-- game making
-- pattern implementation
-- specific actions
+The research questions invite a broad spectrum of analysis - cultural and social factors.
 
-While game making can be seen superficially as the primary activity, I argue that a narrower objective of implementing GDPs and the dependant actions became the most vital unit of activity for participants.
+The depth justifies smaller data size and depth of analysis.
 
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour. Large amounts of video data are being gathered, up to 20 hours of footage for each 2 hour session.
 
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
-
-
-### Justification of GDP as a unit of analysis
-
-This may be a smaller unit than common in sociological studies.
-
-Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
-
-
-### Conceptualising activity in this learning design
-
-**Activity, Actions and Operations**
-
-MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
-Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined. While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010][@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis for this chapter.
-
-REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS
-
-<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
-
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
-
-- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
-- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
-- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
-- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
-
-This sentiment is echoed by something I found in the video data. As one parent Fi expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
-
-NOTE REWRITE THIS
-
-Analysing the implementation of GDPs as a unit of activity allow the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
-
-  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
-
-
-<!-- (see blunden for more on project as unit of Activity
-https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
-
-<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
+Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
 
 
 
-Each of these with differing levels of abstraction.
-
-Break down that of GDPs?
-
-<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
-NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
-
-<!-- review this video to develop
-https://www.youtube.com/watch?v=BMi56ZBSows -->
-
-<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
-
-<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
-<!-- #### LOA in Computing pedagogy
-Call back to PRIMM and Waite Sentence's work here -->
-
-## Data gathering methods and justification
-
-## Sociocultural Methods of Analysis
-
-My process is informed by the work of  the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] of ethnography and three planes of activity.
-
-Include the following points in this section.
-
-- Suitability of this framework for informal education.
-- Justification of smaller data size and depth of analysis.
-
-
-My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
-
-One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour. Large amounts of video data are being gathered, up to 20 hours of footage for each 2 hour session. I am developing a process of identifying appropriate episodes for closer analysis.
-
-Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources. My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music. To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below.
 
 Again while diversity of data invites drawing on diverse methods of analysis, AT will provide a foundation for the analysis of these diverse data.
 
@@ -416,8 +402,9 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42X
 
 ### Data Processing
 
-I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches. The very nature of working with video is time consuming.
+While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
 
+<!-- I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches. The very nature of working with video is time consuming. -->
 <!-- There is sometimes a danger of imagining how a new data gathering tool could be useful but then not being aware of all of the potential pitfalls which can make processing the data time consuming. Also  -->
 <!-- On a personal note, I sometimes like the challenges involved and sometimes find them infuriating. It can be like a specialist knowledge which you can use as a currency, or as a hidden knowledge that you take pride in sharing. -->
 
@@ -477,11 +464,16 @@ Check viability of data at each stage of processing and movement.
 
 ## Data analysis methods and justification
 
-My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants. One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
+My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
 
-While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I will prioritise critical moments in depth which illuminate key themes.
+One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
 
-### Role of practitioner & participant interviews
+
+
+#### Interview data
+
+
+#### Practitioner  interviews
 
 These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.
 
@@ -493,7 +485,19 @@ Dave  - Parent and volunteer at Coder Dojo and participant in
 
 James Clegg - PGCE student and volunteer student helper for a summer program of game making.
 
-### Other Materials - Analysis of Data
+
+### Participant interviews
+
+These were limited in number but allowed triangulation and confirmation of data observered in video recordings.
+
+
+
+### Other data
+
+
+My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
+
+<!-- To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. -->
 
 The process of analysis of journal notes and resulting resources required a different approach from that of video data.
 
@@ -506,7 +510,6 @@ The following resources were examined
 <!-- - Linear support book and print outs to support participants in sessions
 - Additional 3M model resources to help navigation and reflection and gameful approaches -->
 
-
 Journal Notes were used in the following ways: (perhaps code this)
 
 - as a reflective tool after sessions
@@ -517,7 +520,6 @@ Journal Notes were used in the following ways: (perhaps code this)
 The quantity of data prevented extensive and detailed coding using thematic analysis.
 
 Instead, observations are triangulated with data from lit review to expose key themes and tensions.
-
 
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
 
