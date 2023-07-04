@@ -177,20 +177,15 @@ Emergent
 -->
 
 
-### Introduction to social turn, school,
+<!-- IMPLICIT ## Justification of choice of methodology -->
 
 
-#### Build on the Literature Review -
-
-In the literature review we explored sociocultural views on learning and development on learning in created cultures.
-
-#### Socio cultural research methods
+### Socio cultural research methods
 
 <!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
 
 <!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
-
-NOTE - check alignment to RQs here
+In the literature review we explored sociocultural views on learning and development on learning in created cultures.
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
 
@@ -205,10 +200,6 @@ NOTE - Thus in the next chapter particular attention is paid to the development 
 
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
 
-
-
-
-## Justification of choice of methodology
 
 ### A social rather than individual constructivism
 
@@ -225,7 +216,7 @@ There are a range of valid methodological approaches suited to this study. These
 I have chosen to use a design based research and to draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] of ethnography and three planes of activity
 
 
-## Design-based research and Intervention studies within educational field
+### Design-based research and Intervention studies within educational field
 
 My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992]. Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
 
@@ -391,12 +382,10 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 <!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
 
 <!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
+<!-- #### LOA in Computing pedagogy
+Call back to PRIMM and Waite Sentence's work here -->
 
-
-
-#### LOA in Computing pedagogy
-
-Call back to PRIMM and Waite Sentence's work here
+## Data gathering methods and justification
 
 ## Sociocultural Methods of Analysis
 
@@ -407,30 +396,6 @@ Include the following points in this section.
 - Suitability of this framework for informal education.
 - Justification of smaller data size and depth of analysis.
 
-### Stages of Data Gathering and ANALYSIS
-
- - Early gathering via journal / notes / practioner interviews
- - Mutual nature of the design progressions -
-
-
-#### Mutual nature of the evolution of the design
-
-
-### Role of Practitioner interviews
-
-These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.
-
-Saskia Leggett - researcher in Family Learning program under direction of Roque. She took a leading role in creating the recourses coming out of the program.
-
-Matt - academic at. Also active in a non-profit learning coding
-
-Dave  - Parent and volunteer at Coder Dojo and participant in
-
-James Clegg - PGCE student and volunteer student helper for a summer program of game making.
-
-
-
-## Data gathering methods and justification
 
 My study draws on traditional ethnographic methods of my journal as participant observer (facilitator and designer), participant interviews and analysis of artefacts used and created. Specifically I will study in detail the use of the online help tutorials and example code snippets I have created and the code and other media content that participants create in their resulting video games. I also include other methods which suit the deeper analysis of participant actions to help construct models of activity systems, namely the videoing of the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
 
@@ -445,6 +410,9 @@ CERTAINLY FINDING AND RESOLVING TENSIONS.
 
 There is a framework for looking at tensions here.
 https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
+
+
+
 
 ### Data Processing
 
@@ -513,11 +481,21 @@ My study draws on traditional ethnographic methods of my journal as participant 
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I will prioritise critical moments in depth which illuminate key themes.
 
+### Role of practitioner & participant interviews
+
+These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.
+
+Saskia Leggett - researcher in Family Learning program under direction of Roque. She took a leading role in creating the recourses coming out of the program.
+
+Matt - academic at. Also active in a non-profit learning coding
+
+Dave  - Parent and volunteer at Coder Dojo and participant in
+
+James Clegg - PGCE student and volunteer student helper for a summer program of game making.
+
 ### Other Materials - Analysis of Data
 
-
 The process of analysis of journal notes and resulting resources required a different approach from that of video data.
-
 
 The following resources were examined
 
