@@ -206,17 +206,7 @@ NOTE - Thus in the next chapter particular attention is paid to the development 
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
 
 
-#### Practical factors
 
-It is important to address contextual factors that facilitated and shaped development of some initial creative practices. Including:
-
-- Impact of research practicalities
-- The location at the university
-- Eliza effect of being part of a research project
-
-<!-- Eliza effect? If so how relevant? -->
-
-Availability of resources potentially novel. For example, the ability to have that number of identical computers for this audience in particular, and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. After attempts in previous sessions I abandoned attempts to use the screen in the space to do explicit teaching. The process was very disruptive to the emerging group behaviours and practices.
 
 ## Justification of choice of methodology
 
