@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: archive
 title: 3. Methodology
 ---
 
@@ -654,6 +654,10 @@ The video data explored in nvivo is very time consuming, and given this and the 
 Thus using MS Excel as a simple way to collate data without translation seems appropriate.
 
 
+#### Note on creation of learning and teaching resources  
+
+The process of refining this reflection into learning and teaching resources was complex and iterative. The following paragraph illustrates the process using a case study?
+[PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
 
 
 ### Video Coding - Analysis of Data
@@ -724,13 +728,11 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 #### Coding Game Design Themes
 
-NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal  
-
 The process of learning game making through deepening your knowledge of game elements is explored  by Jesse Schnell -@schellArtGameDesign2008.
 
 Coding based on the game elements that are being added to the game serves to xxx ?
 
-As way of coding initially I considered the MDA framework for the simplicity and the focus on the user experience being taken into account.
+As way of coding initially I considered the MDA framework for the simplicity.
 
 - mechanics
 - aesthetics
@@ -753,11 +755,10 @@ The key elements are:
 
 A blend of the two gave the following staring coding scheme in terms of activities related directly to adding features or altering the game.
 
-
-
 <!-- Notes
 A start of a framework here from Salen
 https://docs.google.com/document/d/1pK-m0Ecymixw6YhH1FdwS1ZlnFoYhLmQojDnnnxDysY/edit
+
 more notes Here - including MDA framework.
 https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/edit#heading=h.4nad7a137op4
 -->
@@ -766,7 +767,7 @@ https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/
 
 Describing different grades and pass overs of the video data.
 
-Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
+ Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
 
 Then deciding on 8-10 video sessions warranting full coding of activity.
 This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
@@ -796,9 +797,8 @@ Not coded in nvivo. However this was a useful phase.
 Note on the spreadsheet used to transfer from coded document.
 A summary of the activity and then what implications did it have under each.
 
-This ended up being the most useful - allowing different uses of GDPs to emerge from the process.
 
-### Discussion on evolving coding process - PERHAPS SHIFT TO LAST CHAPTER finally
+### Discussion - post mortem - PERHAPS SHIFT TO LAST CHAPTER finally
 
 The process of trying to decide a main focus was often tricky.
 
@@ -830,23 +830,17 @@ Imagining a constructionist game-based pedagogical model: Using tabletop role-pl
 ### Generalisation of Results
 
 Generalisation is one of the guiding principles of DBR. While results are intertwined with context, designs should be assessed for generalisation to other settings.
-
 Explore this in more detail - draw out a debate on how situated learning in this context - and wider debate is.
 
-- More than one iteration.
-- In different settings
-- Using different with different software
+More than one iteration.
+In different settings
+Using different with different software
 
 This is potentially complex to describe but worth it if wanting to talk about generalisation.
 
-NOTE - This could be dropped or picked up again in the limitations section
-
-The process of exploring this guided the development of the research questions.
-
-
-
 <!--
 Generalisation is covered in this thesis.
+
 https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
 Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
 
@@ -865,22 +859,18 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 ### How Research Questions Evolved  
 
-The process was driven by the activity of collaborative game making driven by practicalities, and my interests as explored in the first chapter.
-
-As justified by DBR and formative interventions, the process was driven by a meeting of context and the needs / interests of myself as a researcher.
+The process was driven by the broad activity
 
 Possible themes that had potential but which were disguarded included;
 
 - Computation thinking & systems thinking
-- Aligning with Project based learning
+- aligning with Project based learning
 
 Themes emerging include the alternation of abstract and concrete as a suggested learning journey, explored in my journal. However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis.
 
 There was something about the formalisation of this process into graph form which put me off. I also realised that the frameworks that I spent a while trying to make accessible and gameful in the design, grouping and theming of their presentation, had strong similarities to concepts of abstract curriculum if explored through a semantic waves lens. Curriculum seemed too well a well trod path for a PhD thesis.  
 
-Instead the community elements of the learning experience regained focus during the process of coding. There were particularly interesting elements of the learning environment which contributed to notable behaviours.
-
-The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
+Instead the community elements of the learning experience regained focus during the process of coding. There were particularly interesting elements of the learning environment which contributed to notable behaviours. The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
 
 ### What research questions are answered by what data gathering and analysis - and described in what chapter?
 
@@ -915,14 +905,6 @@ The area of in-depth study of learning and wider behaviours in the development o
 
 
 ## Discussion on Methodology in relation to other DBR
-
-
-#### Note on creation of learning and teaching resources  
-THIS IS COVERED IN THE NEXT CHATPER
-
-The process of refining this reflection into learning and teaching resources was complex and iterative. The following paragraph illustrates the process using a case study?
-[PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
-
 
 How does this methodology relate / add to existing models?
 
