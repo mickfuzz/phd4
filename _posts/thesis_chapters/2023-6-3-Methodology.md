@@ -10,7 +10,6 @@ categories: chapter
 title: 3. Methodology
 ---
 
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Outline](#outline)
     -   [NOTE - Coding use of GDP.](#note---coding-use-of-gdp.)
@@ -25,17 +24,18 @@ title: 3. Methodology
             -](#build-on-the-literature-review--)
         -   [Socio cultural research
             methods](#socio-cultural-research-methods)
+        -   [Practical factors](#practical-factors)
 -   [Justification of choice of
     methodology](#justification-of-choice-of-methodology)
     -   [A social rather than individual
         constructivism](#a-social-rather-than-individual-constructivism)
 -   [Design-based research and Intervention studies within educational
     field](#design-based-research-and-intervention-studies-within-educational-field)
--   [Conceptualising emergent agency in this
-    study](#conceptualising-emergent-agency-in-this-study)
+-   [Conceptualising emergent agency](#conceptualising-emergent-agency)
+    -   [On Agency and AT](#on-agency-and-at)
     -   [On double stimulation and
         agency](#on-double-stimulation-and-agency)
-    -   [On affordances and anchors](#on-affordances-and-anchors)
+        -   [On affordances and anchors](#on-affordances-and-anchors)
 -   [Conceptualising activity in this learning
     design](#conceptualising-activity-in-this-learning-design)
     -   [Levels of Abstraction in Activity
@@ -55,11 +55,11 @@ title: 3. Methodology
         interviews](#role-of-practitioner-interviews)
 -   [Data gathering methods and
     justification](#data-gathering-methods-and-justification)
--   [Data Processing](#data-processing)
-    -   [360 Video Processing](#video-processing)
-    -   [Screen Capture Processing](#screen-capture-processing)
-    -   [General File management](#general-file-management)
-    -   [Learnings and recommendations](#learnings-and-recommendations)
+    -   [Data Processing](#data-processing)
+        -   [360 Video Processing](#video-processing)
+        -   [Screen Capture Processing](#screen-capture-processing)
+        -   [Learnings and
+            recommendations](#learnings-and-recommendations)
 -   [Data analysis methods and
     justification](#data-analysis-methods-and-justification)
     -   [Other Material - Analysis of
@@ -68,12 +68,19 @@ title: 3. Methodology
         Resources](#analysis-of-journal-and-teaching-resources)
         -   [Overall Rational and
             Approach](#overall-rational-and-approach)
-    -   [Specifics of Coding](#specifics-of-coding)
-        -   [Choosing what and how much to
-            code](#choosing-what-and-how-much-to-code)
+    -   [Detailed Transcription of Video
+        sources](#detailed-transcription-of-video-sources)
+        -   [Grades of analysis](#grades-of-analysis)
+        -   [Justification of selecting sessions and sections for more
+            detailed
+            analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
         -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
-        -   [Note on creation of learning and teaching
-            resources](#note-on-creation-of-learning-and-teaching-resources)
+    -   [Transcrition of data](#transcrition-of-data)
+    -   [Starting analysis in 5 minute
+        sections](#starting-analysis-in-5-minute-sections)
+    -   [Selecting sections analysis](#selecting-sections-analysis)
+    -   [Incorporating gesture](#incorporating-gesture)
+    -   [Specifics of Coding](#specifics-of-coding)
     -   [Video Coding - Analysis of
         Data](#video-coding---analysis-of-data)
     -   [Notes on Underpinning of Thematic Analysis of Video
@@ -92,8 +99,9 @@ title: 3. Methodology
     -   [Analysis of activities based on Cultural, Interpersonal and
         Personal
         focusing](#analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing)
-    -   [Discussion - post mortem - PERHAPS SHIFT TO LAST CHAPTER
-        finally](#discussion---post-mortem---perhaps-shift-to-last-chapter-finally)
+    -   [Discussion on evolving coding process - PERHAPS SHIFT TO LAST
+        CHAPTER
+        finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
     -   [Data Validity - Triangulation of
         Data](#data-validity---triangulation-of-data)
     -   [Generalisation of Results](#generalisation-of-results)
@@ -103,26 +111,17 @@ title: 3. Methodology
     -   [What research questions are answered by what data gathering and
         analysis - and described in what
         chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
-    -   [RQ1 - What game making pedagogies exist?
-        -](#rq1---what-game-making-pedagogies-exist--)
-    -   [RQ2 - How can you apply Project Based Learning principles (and
-        inclusive teaching methods) to a game making / creative
-        coding?](#rq2---how-can-you-apply-project-based-learning-principles-and-inclusive-teaching-methods-to-a-game-making-creative-coding)
-    -   [RQ3 - How do game patterns support the development of coding
-        practices with
-        novices?](#rq3---how-do-game-patterns-support-the-development-of-coding-practices-with-novices)
-    -   [RQ4 - What effect does a pedagogical model focused on PBL
-        principles (especially learner choice) have on parent and child
-        learner experiences of digital game making
-        ?](#rq4---what-effect-does-a-pedagogical-model-focused-on-pbl-principles-especially-learner-choice-have-on-parent-and-child-learner-experiences-of-digital-game-making)
-    -   [Description of Phases](#description-of-phases)
+    -   [RQ1](#rq1)
+    -   [RQ2](#rq2)
+    -   [RQ3](#rq3)
 -   [Discussion on Methodology in relation to other
     DBR](#discussion-on-methodology-in-relation-to-other-dbr)
-    -   [More material on Expansive
-        Learning](#more-material-on-expansive-learning)
+    -   [Note on creation of learning and teaching
+        resources](#note-on-creation-of-learning-and-teaching-resources)
+    -   [More material on Expansive Learning / Formative Inteventions /
+        DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
     -   [5th dimension Case Study](#th-dimension-case-study)
-    -   [Discussion based on case
-        studies.](#discussion-based-on-case-studies.)
+    -   [Discussion](#discussion)
 -   [Transition to next Chapter - About the specifics of mutual
     evolution of Learning
     DESIGN](#transition-to-next-chapter---about-the-specifics-of-mutual-evolution-of-learning-design)
@@ -204,20 +203,8 @@ Emergent
 
 
 
-### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
 
-<!-- NOTE  I would say no - too complex for coding  -->
 
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
 
 
 ## Theoretical Framework
@@ -508,13 +495,14 @@ CERTAINLY FINDING AND RESOLVING TENSIONS.
 There is a framework for looking at tensions here.
 https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
 
-## Data Processing
+### Data Processing
 
-There is sometimes a danger of imagining how a new data gathering tool could be useful but then not being aware of all of the potential pitfalls which can make processing the data time consuming. Also the very nature of working with video is time consuming.
+I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches. The very nature of working with video is time consuming.
 
-On a personal note, I sometimes like the challenges involved and sometimes find them infuriating. It can be like a specialist knowledge which you can use as a currency, or as a hidden knowledge that you take pride in sharing.
+<!-- There is sometimes a danger of imagining how a new data gathering tool could be useful but then not being aware of all of the potential pitfalls which can make processing the data time consuming. Also  -->
+<!-- On a personal note, I sometimes like the challenges involved and sometimes find them infuriating. It can be like a specialist knowledge which you can use as a currency, or as a hidden knowledge that you take pride in sharing. -->
 
-I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches.
+<!-- I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches.
 
 - Data portability and interoperability
 - Software sustainability, in particular longevity
@@ -525,17 +513,13 @@ I use a software sustainability approach also influenced by a personal modificat
 
 I also take a more practical approach which takes into account working with peers and that such advocacy is not a core part of my job or this research.
 
-Such an attitude may involve compromises or hacking systems, software or processes
+Such an attitude may involve compromises or hacking systems, software or processes -->
 
-### 360 Video Processing
+#### 360 Video Processing
 
-The processing of video and audio data of both captured screens and 360 video data and high quality audio data involved several stages. This process is outlined briefly to document useful findings and observations in the process.
+The processing of video and audio data of both captured screens and 360 video data and high quality audio data involved several stages yielding advantages in capturing the gestures and facial expressions of potentially all participants in one recording. It does however present challenges. While this merits further exploration a brief summary of challenges is presented here.
 
-The use of 360 data yields some advantages in capturing the gestures and facial expressions of potentially all participants in one recording. It does however present challenges.
-
-Here is a short table outlining challenges and solutions to 360 video processing.
-
-- split video files - can be corrupted thus you only lose one - but also can be confusing
+The process involves large video files that are easily corrupted in transfer. While the files are split into 8 minute segments  but also can be confusing
 - time navigation - also confusing - sometimes put up on the screen - but inconsistently
 - moving and keeping a track of data from week to week and over years is complex.
 - processing data requires special software - from samsung
@@ -543,35 +527,28 @@ Here is a short table outlining challenges and solutions to 360 video processing
 
 <!-- Tech details are logged here - https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit# -->
 
-### Screen Capture Processing
 
-Justification of choice.
-Flashback pro - on Uni computers.
-Also a reasonable price for paying to use on home computers.
-Has a batch processing tool for saving as open ish format files.
+This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix.
 
-Flashback saves data as its own fbr format. This include audio, video screen capture, and optionally one or more webcams.
+https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=114325803502752689876
 
-I decided not to record on webcams. For the following reasons:
+
+#### Screen Capture Processing
+
+I chose the software flashback pro primarily as it was intalled on and availble at low cost on home computers. Flashback saves data in a format. This include audio, video screen capture, learner keystrokes, mouse movements and optionally one or more webcams. I decided not to record on webcams for the following reasons:
 
 - intrusive feel - having the webcam on and the resulting red light on the screen, I felt was less conducive to feeling comfortable than one 360 camera in the middle of the room.
 - less resources - recording webcam on the laptop
 - reduced video file size of final data file
 - less complexity when processing data -
 
-One advantage of the fbr format is that you can examine key strokes that the participant has made while interacting with the keyboard and see their mouse travel over the screen and see when they click on different parts of the screen.
+It not possible to code the natively created files directly. Thus need to be converted to mp4 to import into coding software like Nvivo. In this process the keyboard and mouse data is lost.
 
-However, it not possible to code the natively created files directly. Thus need to be converted to mp4 to import into coding software like Nvivo. In this process the keyboard and mouse data is lost.
-
-Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session.
+<!-- Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session. -->
 
 
-### General File management
 
-This whole process is intensive for file management. Making me create a linux commandline toolbox.
-https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=114325803502752689876
-
-### Learnings and recommendations
+#### Learnings and recommendations
 
 The following learning and recommendations emerged from this process.
 
@@ -616,60 +593,20 @@ Journal Notes were used in the following ways: (perhaps code this)
 - as a
 
 The quantity of data prevented extensive and detailed coding using a grounded thematic analysis.
-Rather than taking a grounded approach which would take too long given the quantity of data, this data was analysed using 3 planes of sociocultural activity. The rationale for this is as follows:
 
- - Using an existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
- - RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork using the concept of guided participation.
- - The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
- - While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions.
- - While the three planes provided a higher level framework, the specifics of the data gave greater granularity and formed sub categories of coding - thus avoiding the problem of analytic preconceptions.
+## Analysis of Video overview
+
+#### Rational and approach of video data analysis
 
 
-### Specifics of Coding
+- thematic analysis
+- other analysis
 
-#### Choosing what and how much to code
+Initial thematic analysis was informed by literature review, early analysis of journal entries.
 
-A page of quick analysis of the files online here helped to shape that decision.
+Some elements were refined based on emerging data.
 
-https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
-
-Criteria include:
-
-- Good quality recording
-- Diversity of kinds of participants, ages especially
-- Diversity of participant actions in terms of tasks being worked on
-- Diversity of kinds of pair and peer interactions
-
-
-#### Using a 3 Planes Approach
-
- The analysis of these resources using the three planes involved a choice of some of the following
-
-- scanning written document and converting digital documents for inclusion into nvivo for formal Coding
-- using a spread sheet and putting categories and notes in to columns
-- using trello or other Kanban
-- using a table in word to record notes on data in-situ
-
-The video data explored in nvivo is very time consuming, and given this and the factor that the transforming reflections into  learning resources, already involves a process of filtering, a much courser level of data analysis. However, using a static text only approach such as describing data in prose or using a table in a word document does not allow for filtering based on themes which is potentially useful as an analyitical too.  
-Thus using MS Excel as a simple way to collate data without translation seems appropriate.
-
-
-
-
-### Video Coding - Analysis of Data
-
-I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse.
-
-<!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
-
-
-### Notes on Underpinning of Thematic Analysis of Video Data
-
-Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
-
-#### Overall Rational and Approach of Coding Video Data
-
-The coding process is not grounded [explain] but informed by literature review and early analysis of journal entries. The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities.
+<!-- The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities. -->
 
 How much emphasis to place on the Thematic Analysis is questionable. It served to answer the research questions in the following ways.
 
@@ -678,7 +615,24 @@ How much emphasis to place on the Thematic Analysis is questionable. It served t
 - to identify roles through repeated patterns of interactions
 - to reflect on the thesis questions
 
-Following the approach of Morcom -@morcomScaffoldingSocialEmotional2014, I drew on Rogoff's -@rogoffObservingSocioculturalActivity1993 three planes of sociocultural activity used to help understand activity in a Community of Learners.  
+LATER - Following the approach of Morcom [@morcom_scaffolding_2014 I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+
+.
+## Coding Video Data
+
+NOTE COMPRESS THIS SECTION
+
+
+<!-- I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse. -->
+
+<!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
+
+
+### Notes on Underpinning of Thematic Analysis of Video Data
+
+Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
+
+
 
 #### What was Excluded and Rationale
 
@@ -705,7 +659,6 @@ Specifically, the following were removed from Barron's typology, parent as emplo
 
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
-
 
 #### Coding Design Cycle Stages
 
@@ -741,6 +694,7 @@ Later, I note the following limitations.
 - The definition of aesthetics is very wide incorporating user experience in a way that was not suitable to learners.
 
 Later consider...
+MOVE TO DESIGN CHAPTER?
 
 In early stages I was influenced by the categorisation of game elements used by GSM team which also was implemented in the Game Jam Guide [@cornish_game_2018; @institute_of_play_gamestar_nodate].
 The key elements are:
@@ -761,6 +715,105 @@ https://docs.google.com/document/d/1pK-m0Ecymixw6YhH1FdwS1ZlnFoYhLmQojDnnnxDysY/
 more notes Here - including MDA framework.
 https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/edit#heading=h.4nad7a137op4
 -->
+
+
+
+## Non-code - detailed transcription of video sources
+
+NOTE  - highlight this process much more
+
+#### Grades of analysis
+
+- quick Analysis
+- sections coded and described in 5 minute chunks
+- themes of interest identified - in relation to evolving RQs as per DBR
+- some sections transcribed in more details based in themes, more detail on gesture analysis also added
+
+A page of quick analysis of the files online here helped to shape that decision on what sections
+https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
+
+#### Justification of selecting sessions and sections for more detailed analysis
+
+The process of transcribing into 5 minutes sections involved
+ - description
+ - identification of 3 planes, different use of AT scopes (next chapter)
+ - level of response to key characteristics interventions
+
+Criteria  for inclusion included both practical and theoretical considerations.
+
+- Good quality recording
+- Diversity of kinds of participants, ages especially
+- Diversity of participant actions in terms of tasks being worked on
+- Diversity of kinds of pair and peer interactions
+
+
+#### Using a 3 Planes Approach
+
+WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
+
+Rather than taking a grounded approach this data was analysed using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
+
+The process aligns with AT analysis in the scope of the activity - and in the separation out of the community level of the triangle added by Engestrom .
+
+
+
+RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork using the concept of guided participation.
+
+ - The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
+
+
+While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions.
+
+
+ - While the three planes provided a higher level framework, the specifics of the data gave greater granularity and formed sub categories of coding - thus avoiding the problem of analytic preconceptions
+
+
+
+
+ <!-- The analysis of these resources using the three planes involved a choice of some of the following
+
+- using a spread sheet and putting categories and notes in to columns
+- using a table in word to record notes on data in-situ -->
+
+<!-- The video data explored in nvivo is very time consuming, and given this and the factor that the transforming reflections into  learning resources, already involves a process of filtering, a much courser level of data analysis. -->
+
+<!-- However, using a static text only approach such as describing data in prose or using a table in a word document does not allow for filtering based on themes which is potentially useful as an analytical too.   -->
+
+<!-- Thus using MS Excel as a simple way to collate data without translation seems appropriate. -->
+
+
+
+
+
+### Transcrition of data
+
+separeate out from coding_
+
+
+### Starting analysis in 5 minute sections
+
+### Selecting sections analysis
+
+### Incorporating gesture
+
+
+
+### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
+
+<!-- NOTE  I would say no - too complex for coding  -->
+
+INSTEAD HOW TO ADDRESS THIS?
+
+Answering RQ - on pedagogical resources / agency / use of GDPs
+
+THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especially docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
 
 ### Grades of video data analysis
 
