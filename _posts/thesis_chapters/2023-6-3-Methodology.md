@@ -562,28 +562,21 @@ My study draws on traditional ethnographic methods of my journal as participant 
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera. When triangulating data from various sources, I will prioritise critical moments in depth which illuminate key themes.
 
-### Other Material - Analysis of Data
+### Other Materials - Analysis of Data
 
-My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
-
-<!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
-
-<!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
-
-
-### Analysis of Journal and Teaching Resources
 
 The process of analysis of journal notes and resulting resources required a different approach from that of video data.
 
-#### Overall Rational and Approach
+
 The following resources were examined
 
 - Book Journal pages
-- Digital journal entries directly in response to going
-- Linear support book and print outs to support participants in sessions
-- Additional 3M model resources to help navigation and reflection and gameful approaches
+- Digital journal entries directly in response to teaching sessions
+- Additional teaching resources
+-
+<!-- - Linear support book and print outs to support participants in sessions
+- Additional 3M model resources to help navigation and reflection and gameful approaches -->
 
-TO DO - IT MAY BE HELPFUL TO CREATE A TABLE OR DESCRIBE THESE IN MORE DETAIL
 
 Journal Notes were used in the following ways: (perhaps code this)
 
@@ -592,7 +585,18 @@ Journal Notes were used in the following ways: (perhaps code this)
 - as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
 - as a
 
-The quantity of data prevented extensive and detailed coding using a grounded thematic analysis.
+The quantity of data prevented extensive and detailed coding using thematic analysis.
+
+Instead, observations are triangulated with data from lit review to expose key themes and tensions.
+
+
+My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
+
+<!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
+
+<!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
+
+
 
 ## Analysis of Video overview
 
