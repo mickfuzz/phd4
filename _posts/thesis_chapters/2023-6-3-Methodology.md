@@ -139,40 +139,6 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 - How can game design patterns support the development of coding practices with novices?
 
 
-## Outline
-
-- Theoretical frameworks
-  - Social turn,
-    - Overview of AT(Soviet) and socio cultural (US), and merged into CHAT
-    - CHAT
-    - Use of 3 planes of foci from Rogoff
-  - Design based intervention / research
-    - Importance of participant agency (cf Participatory Design )
-  - Conceptions of Agency & implications for design / analysis from DBR and CHAT
-  - DBR, AT & Agency in a digital learning context ()
-      - Methods
-  - Discussion about scope of analysis -
-   - Justification of GDP as a key unit of analysis
-    - implications for granularity of research data (via video capture etc)
-    - other questions to inform context and community (via interview data)
-- DBR, design process
-  - Mostly signpost to the next chapters
-- Conceptualising learner agency
-- Data gathering
-    - 360
-- Data analysis
-    - Broad description based
-    - Gesture analysis in more granular examples
-
-
-
-### NOTE -  Coding use of GDP.
-
-- Give this a go  -
-- See gdp chapter index for latest ones
-
-
-
 ### Coding based on chapter 4
 
 <!-- NOTE  I would say no - too complex -->
@@ -200,11 +166,6 @@ Emergent
 - 4.c.5. Playtesting emergent elements
   - discussing challenge
   - the play around the playtesting -->
-
-
-
-
-
 
 
 ## Theoretical Framework
