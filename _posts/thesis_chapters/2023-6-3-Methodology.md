@@ -155,9 +155,24 @@ Emergent
 
 <!-- IMPLICIT ## Justification of choice of methodology -->
 
+### The primacy of context
 
+    A central assumption underlying
+    this essay is that any abstraction of ‘content’ from its ecological functioning
+    (e.g., use within a particular situation) is likely to undermine its perceived
+    value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
+    the learners’ belief that they are likely to do something meaningful with that
+    which they are learning. @barnett_ecosystem_2019
+
+
+This primacy of context described above underlies much of the social turn of educational and psychological research.
+
+This context of this research, which is x,  
 
 ### A social rather than individual constructivism
+
+
+
 
 Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity. Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] . Some of the specifics of these processes have already been named in the section above looking at collaboration. Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991].
 
@@ -368,6 +383,21 @@ Not all throws will be successful. The anchor may slip or it may catch on someth
 Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
 
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
+
+
+### Formative Interventions Case Studies
+NOTE -  TOO LONG -- COMPRESS?
+CERTAINLY MOVE THIS CASE STUDY
+
+**More On Formative Interventions**
+
+As previously explored, to allow for development of design through experimentation I have been inspired by the tradition of design experiments and formative interventions. One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) Engeström, 2007). The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
+
+A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
+
+I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5th Dimension supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
+
+
 
 
 ## Data Gathering and Preparation
@@ -902,32 +932,7 @@ The area of in-depth study of learning and wider behaviours in the development o
 
 
 
-## Discussion on Methodology in relation to other DBR
-
-
-#### Note on creation of learning and teaching resources  
-THIS IS COVERED IN THE NEXT CHATPER
-
-The process of refining this reflection into learning and teaching resources was complex and iterative. The following paragraph illustrates the process using a case study?
-[PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
-
-
-How does this methodology relate / add to existing models?
-
-### More material on Expansive Learning / Formative Inteventions / DBR
-_posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
-
-
-### 5th dimension Case Study
-NOTE -  TOO LONG -- COMPRESS?
-
-**More On Formative Interventions**
-
-As previously explored, to allow for development of design through experimentation I have been inspired by the tradition of design experiments and formative interventions. One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) Engeström, 2007). The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
-
-A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
-
-I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5th Dimension supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
+## Discussion on Methodology
 
 
 ### Discussion
@@ -938,6 +943,26 @@ A RETURN TO POSSIBLE BARRIERS THAT THE METHODOLOGY AIMS TO OVER COME
 
 Perhaps summarise the the context, and motivations of the above case studies are analysed in relation to the context of this study.
 
+### Authenticity - creating value
+
+ Barab and colleagues discuss the importance of creating value in the world in their ecosystem approach [@barnett_ecosystem_2019].
+ This mirrors authenticity in applied social approaches - PBL as applied method of - situated learning ontology.
+
+
+
+
+#### Note on creation of learning and teaching resources  
+
+THIS IS COVERED IN THE NEXT CHATPER
+
+The process of refining this reflection into learning and teaching resources was complex and iterative. The following paragraph illustrates the process using a case study?
+[PERHAPS LOOK AT THE ELEMENTs OF A GAME DIVISION? - FINAL DESTINATION - SPACE, MECHANICS, POLISH]
+
+
+How does this methodology relate / add to existing models?
+
+### More material on Expansive Learning / Formative Inteventions / DBR
+_posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
 
 
 
