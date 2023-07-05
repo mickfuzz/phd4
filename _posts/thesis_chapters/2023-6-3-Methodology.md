@@ -155,26 +155,48 @@ Emergent
 
 <!-- IMPLICIT ## Justification of choice of methodology -->
 
-### The primacy of context
+### The primacy of context and utility
 
     A central assumption underlying
-    this essay is that any abstraction of ‘content’ from its ecological functioning
-    (e.g., use within a particular situation) is likely to undermine its perceived
-    value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
-    the learners’ belief that they are likely to do something meaningful with that
-    which they are learning. @barnett_ecosystem_2019
-
+    this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
+    the learners’ belief that they are likely to do something meaningful with that which they are learning. @barnett_ecosystem_2019
 
 This primacy of context described above underlies much of the social turn of educational and psychological research.
 
+**Context and Generalisation of results:** Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+
 This context of this research, which is x,  
 
-### A social rather than individual constructivism
+**Utility of research:** While the concept of utility is slippery their is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
+
+
+### Justification of choice (esp compared to contructionism)
+
+Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001]. Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] .
+
+While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000].
+
+The alignments noted by Barab between constructionist approach and apprenticeship also apply to DBR namely "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001, p. 3]. Thus the broad claims are in alignment with wider socio cultural approaches.
+
+Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
+
+
+NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
+
+WHAT DOES BROADER FRAMEWORK OFFER?
+
+
+<!-- Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. -->
+
+
+Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
 
 
 
 
-Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity. Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] . Some of the specifics of these processes have already been named in the section above looking at collaboration. Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991].
+ <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
+
+<!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
 
 
 As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
@@ -182,13 +204,6 @@ As my study seeks to address cultural factors which act as barriers to participa
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice [@laveSituatedLearningLegitimate1991] , Activity Theory .  
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] and the use of three planes of activity to analyse complex community actions.
-
-
-### Justification of choice (esp compared to contructionism)
-
-While noting the limits of an individualist approach of many studies from constructionist researchers, it is important not to dismiss the value of this lineage of studies. Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'.
-
-However for this study constructionism seems of best value in providing design guidelines but much weaker as either an underlying theoretical or analytical framework. SEE WORK ON BARAB TO INFORM CONTRAST TO CONSTRUCTIONISM IF NEEDED.
 
 
 ### Socio cultural research methods
@@ -315,22 +330,23 @@ Later work on DBR applied from a CHAT perspective has addressed limitations in t
 
 While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
 
-**general issues**
-Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+
+
+Designed systems: Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
+
 
 <!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
 
 
+## Conceptualising agency
 
 
-
-
-## Conceptualising emergent agency
 
 DOES THIS NEED MOVING?. PERHAPS TO METHODOLOGY
 THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CHAPTER.
 
 Cultural mediation via artefacts [cole], as a base.
+
 Look for tensions in ATs - and how learners overcome barriers or blockages.
 
 
@@ -369,7 +385,7 @@ Affordances have been misused, assigned magical properties, including agency of 
 
 This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
 
-Nardi and colleagues give an overview regrounding Gibson's concept of affordences as acition posibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
+Nardi and colleagues give an overview regrounding Gibson's concept of affordances as action possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
 
 While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
@@ -396,7 +412,7 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
 
-Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles. 
+Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
 
 
 
