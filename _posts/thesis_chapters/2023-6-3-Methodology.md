@@ -391,14 +391,21 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 ### Formative Interventions Case Studies
-NOTE -  TOO LONG -- COMPRESS?
-CERTAINLY MOVE THIS CASE STUDY
+
+#### Agreeing terminology
+
+Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
+
+Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles. 
+
+
 
 **More On Formative Interventions**
 
-As previously explored, to allow for development of design through experimentation I have been inspired by the tradition of design experiments and formative interventions. One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) Engeström, 2007). The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
 
-A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
+One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
+
+A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
 
 I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5th Dimension supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
 
