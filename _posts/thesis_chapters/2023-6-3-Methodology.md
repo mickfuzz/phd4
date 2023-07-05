@@ -169,7 +169,7 @@ As my study seeks to address cultural factors which act as barriers to participa
 
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice [@laveSituatedLearningLegitimate1991] , Activity Theory .  
 
-I have chosen to use a design based research and to draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] of ethnography and three planes of activity
+I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] and the use of three planes of activity to analyse complex community actions. 
 
 ### Socio cultural research methods
 
