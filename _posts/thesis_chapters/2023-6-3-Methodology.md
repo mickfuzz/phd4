@@ -10,26 +10,33 @@ categories: chapter
 title: 3. Methodology
 ---
 -   [Research Questions - May 2023](#research-questions---may-2023)
-    -   [Coding based on chapter 4](#coding-based-on-chapter-4)
 -   [Theoretical Framework](#theoretical-framework)
-    -   [Socio cultural research
-        methods](#socio-cultural-research-methods)
-    -   [A social rather than individual
-        constructivism](#a-social-rather-than-individual-constructivism)
--   [AT - Conceptualising activity in this learning
-    design](#at---conceptualising-activity-in-this-learning-design)
+    -   [Primary framework Activity
+        Theory](#primary-framework-activity-theory)
+    -   [Socio cultural approaches and the primacy of
+        context](#socio-cultural-approaches-and-the-primacy-of-context)
+    -   [Justification of choice (esp compared to
+        contructionism)](#justification-of-choice-esp-compared-to-contructionism)
+-   [Conceptualising activity in this learning
+    design](#conceptualising-activity-in-this-learning-design)
     -   [Levels of Abstraction in Activity
         Theory](#levels-of-abstraction-in-activity-theory)
     -   [Choosing smaller units of
         analysis](#choosing-smaller-units-of-analysis)
-    -   [Design-based research and Intervention studies within
-        educational
-        field](#design-based-research-and-intervention-studies-within-educational-field)
--   [Conceptualising emergent agency](#conceptualising-emergent-agency)
-    -   [On Agency and AT](#on-agency-and-at)
+-   [Conceptualising agency](#conceptualising-agency)
+    -   [On agency, activity theory and formative
+        interventions](#on-agency-activity-theory-and-formative-interventions)
     -   [On double stimulation and
         agency](#on-double-stimulation-and-agency)
         -   [On affordances and anchors](#on-affordances-and-anchors)
+-   [DBR and formative
+    interventions.](#dbr-and-formative-interventions.)
+    -   [Design-based research and formative intervention studies within
+        educational
+        field](#design-based-research-and-formative-intervention-studies-within-educational-field)
+    -   [Formative Interventions Case
+        Studies](#formative-interventions-case-studies)
+        -   [Agreeing terminology](#agreeing-terminology)
 -   [Data Gathering and Preparation](#data-gathering-and-preparation)
     -   [Aligning data gathering and analysis with socio cultural
         approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
@@ -91,14 +98,13 @@ title: 3. Methodology
     -   [RQ1](#rq1)
     -   [RQ2](#rq2)
     -   [RQ3](#rq3)
--   [Discussion on Methodology in relation to other
-    DBR](#discussion-on-methodology-in-relation-to-other-dbr)
-    -   [Note on creation of learning and teaching
-        resources](#note-on-creation-of-learning-and-teaching-resources)
+-   [Discussion on Methodology](#discussion-on-methodology)
+    -   [Discussion](#discussion)
+    -   [Authenticity - creating value](#authenticity---creating-value)
+        -   [Note on creation of learning and teaching
+            resources](#note-on-creation-of-learning-and-teaching-resources)
     -   [More material on Expansive Learning / Formative Inteventions /
         DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
-    -   [5th dimension Case Study](#th-dimension-case-study)
-    -   [Discussion](#discussion)
 -   [Transition to next Chapter - About the specifics of mutual
     evolution of Learning
     DESIGN](#transition-to-next-chapter---about-the-specifics-of-mutual-evolution-of-learning-design)
@@ -155,7 +161,18 @@ Emergent
 
 <!-- IMPLICIT ## Justification of choice of methodology -->
 
-### The primacy of context and utility
+### Primary framework Activity Theory
+
+In the literature review we explored sociocultural views on learning and development on learning in created cultures.
+
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
+
+To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
+
+
+### Socio cultural approaches and the primacy of context
+
+This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...
 
     A central assumption underlying
     this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
@@ -163,11 +180,15 @@ Emergent
 
 This primacy of context described above underlies much of the social turn of educational and psychological research.
 
-**Context and Generalisation of results:** Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+### Context and Generalisation of results:
+
+Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
 This context of this research, which is x,  
 
-**Utility of research:** While the concept of utility is slippery their is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
+### Utility of research:
+
+While the concept of utility is slippery their is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
 
 
 ### Justification of choice (esp compared to contructionism)
@@ -192,8 +213,6 @@ WHAT DOES BROADER FRAMEWORK OFFER?
 Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
 
 
-
-
  <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
 
 <!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
@@ -205,19 +224,9 @@ There are a range of valid methodological approaches suited to this study. These
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] and the use of three planes of activity to analyse complex community actions.
 
-
-### Socio cultural research methods
-
 <!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
 
 <!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
-In the literature review we explored sociocultural views on learning and development on learning in created cultures.
-
-The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
-
-To do this I adopt a sociocultural approach and specifically design-based research. This section explores complementary methodologies of value before outlining key characteristics of design-based research which make it an attractive candidate for this study.
-
-This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...
 
 Barab and Squire [@barab_design-based_2004]
 
@@ -227,14 +236,14 @@ NOTE - Thus in the next chapter particular attention is paid to the development 
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
 
 
-## AT - Conceptualising activity in this learning design
+## Conceptualising activity in this learning design
 
 This section examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
 
 NOTE - for similar work see [@barab_using_2002]
 
 
-#### Levels of Abstraction in Activity Theory
+### Levels of Abstraction in Activity Theory
 
 The educational activity can be seen as different scopes of activity.
 
@@ -249,9 +258,9 @@ I argue that a narrower objectives  most vital unit of activity for participants
 
 #### Choosing smaller units of analysis
 
-This may be a smaller unit than common in sociological studies.
+Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]
 
-Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
+There is a strong case to make for the sub-projects of implementing GDP as a key unit of analysis. Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
 
 
 **Activity, Actions and Operations**
@@ -261,10 +270,15 @@ Move summary of Activity, actions, operation (as per Barab here), link to GDP as
 In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined.
 
 
+### The role of contradictions between activity system elements
+
+Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system.
+
+While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also widely present.
+
+DESCRIBE THIS IN MORE DETAIL -
 
 <!-- DROP THIS - NOT NEEDED
-While Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014], there is a strong case to make for the sub-project of implementing GDP as a key unit of analysis .
-
 REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
 
 <!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
@@ -297,50 +311,8 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 <!-- #### LOA in Computing pedagogy
 Call back to PRIMM and Waite Sentence's work here -->
 
-### DBR and formative interventions.
-
-My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
-
-I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
-
-
-### Design-based research and formative intervention studies within educational field
-
-Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
-
-One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
-
-**Early limits of DBR**
-
-
-
-Critique of DBR often stems from limits in application. For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
-
-
-Another poported principle of  design-based research -  is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011].
-
-However in application this varies not a key part of all definitions [@easterday_design-based_2014].
-
-<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
-
-Adatations including mutual appropriation from Cole's work and formative interventions from Engeström's work
-
-
-Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
-
-While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
-
-
-
-Designed systems: Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
-
-
-<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
-
 
 ## Conceptualising agency
-
-
 
 DOES THIS NEED MOVING?. PERHAPS TO METHODOLOGY
 THIS WOULD THEN MAKE SENSE WHEN LOOKING AT TENSIONS / BLOCKAGES IN THE DESIGN CHAPTER.
@@ -406,13 +378,70 @@ Affordances in the learning design can be viewed in this frame as a catching poi
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 
-### Formative Interventions Case Studies
+
+## DBR and formative interventions.
+
+My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
+
+MOVE UP - MERGE
+I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
 
 #### Agreeing terminology
 
 Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
 
 Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
+
+### Design-based research and formative intervention studies within educational field
+
+Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+
+One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
+
+**Early limits of DBR**
+
+Critique of DBR often stems from limits in application. For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+
+Another poported principle of  design-based research -  is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011].
+
+However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+
+<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+Adatations including mutual appropriation from Cole's work and formative interventions from Engeström's work
+
+
+Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
+
+Cakir  and colleagues [-@cakir_contradictions_2022] note the move of DBR to move
+
+Rajala an Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI).
+
+NOTE - can the identity objects here be likened to the creation of artefacts in the game making process in chapter 5.
+
+<!--
+From [@cakir_contradictions_2022]
+
+In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
+
+
+
+
+While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
+
+
+
+Designed systems: Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
+
+
+<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
+
+
+
+### Formative Interventions Case Studies
+
+
 
 
 

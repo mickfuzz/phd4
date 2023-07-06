@@ -1,24 +1,31 @@
 -   [Research Questions - May 2023](#research-questions---may-2023)
-    -   [Coding based on chapter 4](#coding-based-on-chapter-4)
 -   [Theoretical Framework](#theoretical-framework)
-    -   [Socio cultural research
-        methods](#socio-cultural-research-methods)
-    -   [A social rather than individual
-        constructivism](#a-social-rather-than-individual-constructivism)
--   [AT - Conceptualising activity in this learning
-    design](#at---conceptualising-activity-in-this-learning-design)
+    -   [Primary framework Activity
+        Theory](#primary-framework-activity-theory)
+    -   [Socio cultural approaches and the primacy of
+        context](#socio-cultural-approaches-and-the-primacy-of-context)
+    -   [Justification of choice (esp compared to
+        contructionism)](#justification-of-choice-esp-compared-to-contructionism)
+-   [Conceptualising activity in this learning
+    design](#conceptualising-activity-in-this-learning-design)
     -   [Levels of Abstraction in Activity
         Theory](#levels-of-abstraction-in-activity-theory)
     -   [Choosing smaller units of
         analysis](#choosing-smaller-units-of-analysis)
-    -   [Design-based research and Intervention studies within
-        educational
-        field](#design-based-research-and-intervention-studies-within-educational-field)
--   [Conceptualising emergent agency](#conceptualising-emergent-agency)
-    -   [On Agency and AT](#on-agency-and-at)
+-   [Conceptualising agency](#conceptualising-agency)
+    -   [On agency, activity theory and formative
+        interventions](#on-agency-activity-theory-and-formative-interventions)
     -   [On double stimulation and
         agency](#on-double-stimulation-and-agency)
         -   [On affordances and anchors](#on-affordances-and-anchors)
+-   [DBR and formative
+    interventions.](#dbr-and-formative-interventions.)
+    -   [Design-based research and formative intervention studies within
+        educational
+        field](#design-based-research-and-formative-intervention-studies-within-educational-field)
+    -   [Formative Interventions Case
+        Studies](#formative-interventions-case-studies)
+        -   [Agreeing terminology](#agreeing-terminology)
 -   [Data Gathering and Preparation](#data-gathering-and-preparation)
     -   [Aligning data gathering and analysis with socio cultural
         approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
@@ -80,14 +87,13 @@
     -   [RQ1](#rq1)
     -   [RQ2](#rq2)
     -   [RQ3](#rq3)
--   [Discussion on Methodology in relation to other
-    DBR](#discussion-on-methodology-in-relation-to-other-dbr)
-    -   [Note on creation of learning and teaching
-        resources](#note-on-creation-of-learning-and-teaching-resources)
+-   [Discussion on Methodology](#discussion-on-methodology)
+    -   [Discussion](#discussion)
+    -   [Authenticity - creating value](#authenticity---creating-value)
+        -   [Note on creation of learning and teaching
+            resources](#note-on-creation-of-learning-and-teaching-resources)
     -   [More material on Expansive Learning / Formative Inteventions /
         DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
-    -   [5th dimension Case Study](#th-dimension-case-study)
-    -   [Discussion](#discussion)
 -   [Transition to next Chapter - About the specifics of mutual
     evolution of Learning
     DESIGN](#transition-to-next-chapter---about-the-specifics-of-mutual-evolution-of-learning-design)

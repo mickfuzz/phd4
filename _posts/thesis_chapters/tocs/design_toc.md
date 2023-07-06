@@ -1,3 +1,4 @@
+-   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Chapter Introduction](#chapter-introduction)
 -   [Short vignette illustrating shifts in scope of
     activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
@@ -6,18 +7,18 @@
         used](#commentary-on-vignette---including-a-brief-description-of-the-nested-levels-of-activity-tools-used)
     -   [Commentary the use of AT scopes in data
         ANALYSIS](#commentary-the-use-of-at-scopes-in-data-analysis)
+        -   [Levels of Abstraction om this design (perhaps
+            drop?)](#levels-of-abstraction-om-this-design-perhaps-drop)
 -   [Summary of design evolution](#summary-of-design-evolution)
 -   [Commentary on evolution of design by
     Phase](#commentary-on-evolution-of-design-by-phase)
     -   [Phase one - an exploratory series of game making
         sessions](#phase-one---an-exploratory-series-of-game-making-sessions)
     -   [Phase Two](#phase-two)
-        -   [The half-baked starting platformer
-            game](#the-half-baked-starting-platformer-game)
     -   [Phase Three](#phase-three)
     -   [Phase Four](#phase-four)
-        -   [Building Identities as Game
-            Makers](#building-identities-as-game-makers)
+        -   [Building Identities as Game Makers
+            (dropped)](#building-identities-as-game-makers-dropped)
     -   [Phase Five](#phase-five)
 -   [Commentary on tensions emerging - IDEALLY FIND SOME KIND OF
     GROUPING - CURRENLY BY PHASE

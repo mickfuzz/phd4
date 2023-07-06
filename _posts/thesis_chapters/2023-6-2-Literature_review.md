@@ -602,6 +602,9 @@ The concept of Funds of Knowledge emerged from research within United States Lat
 
 Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
 
+Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively 
+- and update outlined here [@rajala_utopian_2023]
+
 
 #### Retro Gaming as a Fund of knowledge - move to intro?
 
