@@ -15,15 +15,8 @@
     -   [Phase one and two](#phase-one-and-two)
     -   [Phase Three & Four](#phase-three-four)
     -   [Phase Five](#phase-five)
--   [Commentary on tensions emerging - IDEALLY FIND SOME KIND OF
-    GROUPING - CURRENLY BY PHASE
-    ONLY](#commentary-on-tensions-emerging---ideally-find-some-kind-of-grouping---currenly-by-phase-only)
--   [Participant Conflicts & and Design
-    Tensions](#participant-conflicts-and-design-tensions)
-    -   [Participant Conflicts /
-        Obstacles](#participant-conflicts-obstacles)
-        -   [Conflict / Barrier - Learners difficulties writing valid
-            code](#conflict-barrier---learners-difficulties-writing-valid-code)
+-   [Conflicts and design tensions experienced by participants and
+    facilitator/s](#conflicts-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Facilitator Design Tensions](#facilitator-design-tensions)
         -   [FACILITATOR - Authenticity of coding
             environment](#facilitator---authenticity-of-coding-environment)
