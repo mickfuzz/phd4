@@ -12,22 +12,36 @@
 -   [Summary of design evolution](#summary-of-design-evolution)
 -   [Commentary on evolution of design by
     Phase](#commentary-on-evolution-of-design-by-phase)
-    -   [Phase one - an exploratory series of game making
-        sessions](#phase-one---an-exploratory-series-of-game-making-sessions)
-    -   [Phase Two](#phase-two)
-    -   [Phase Three](#phase-three)
-    -   [Phase Four](#phase-four)
-        -   [Building Identities as Game Makers
-            (dropped)](#building-identities-as-game-makers-dropped)
+    -   [Phase one and two](#phase-one-and-two)
+    -   [Phase Three & Four](#phase-three-four)
     -   [Phase Five](#phase-five)
 -   [Commentary on tensions emerging - IDEALLY FIND SOME KIND OF
     GROUPING - CURRENLY BY PHASE
     ONLY](#commentary-on-tensions-emerging---ideally-find-some-kind-of-grouping---currenly-by-phase-only)
-    -   [Phase one Tensions](#phase-one-tensions)
-    -   [Phase two - Documentation / Support
-        Tensions](#phase-two---documentation-support-tensions)
-    -   [Tensions and related to navigation of various documentations
-        sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
+-   [Participant Conflicts & and Design
+    Tensions](#participant-conflicts-and-design-tensions)
+    -   [Participant Conflicts /
+        Obstacles](#participant-conflicts-obstacles)
+        -   [Conflict / Barrier - Learners difficulties writing valid
+            code](#conflict-barrier---learners-difficulties-writing-valid-code)
+    -   [Facilitator Design Tensions](#facilitator-design-tensions)
+        -   [FACILITATOR - Authenticity of coding
+            environment](#facilitator---authenticity-of-coding-environment)
+        -   [Drop? Not important enough for
+            agency](#drop-not-important-enough-for-agency)
+    -   [Participant conflicts /
+        contractions](#participant-conflicts-contractions)
+        -   [Not sure](#not-sure)
+        -   [One - Identity hardcore coding & disfunctional group work -
+            P1](#one---identity-hardcore-coding-disfunctional-group-work---p1)
+        -   [One - Two transition - freeing up collaboration
+            patterns](#one---two-transition---freeing-up-collaboration-patterns)
+        -   [TWO - Participant experience of Contradiction - Conflict -
+            not enough support
+            available](#two---participant-experience-of-contradiction---conflict---not-enough-support-available)
+        -   [Tensions and related to navigation of various
+            documentations
+            sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
 -   [Addressing the Play Paradox](#addressing-the-play-paradox)
 -   [Exploring affordances of Key responses to emerging
     tensions](#exploring-affordances-of-key-responses-to-emerging-tensions)
