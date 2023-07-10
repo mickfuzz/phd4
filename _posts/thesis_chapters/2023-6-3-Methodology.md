@@ -272,11 +272,13 @@ In the methodology chapter the concept of activity as a primary unit for analysi
 
 ### The role of contradictions between activity system elements
 
-Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system.
+Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development"  [@lave_developmental_1993, p. 83]
 
-While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also widely present.
+While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
 
-DESCRIBE THIS IN MORE DETAIL -
+Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail. 
+
+
 
 <!-- DROP THIS - NOT NEEDED
 REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
