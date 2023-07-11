@@ -431,6 +431,7 @@ This methdology applies this to a smaller domain, but with potential to expand i
 
 Very briefly outline the role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016]
 
+INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION 
 
 <!--
 From [@cakir_contradictions_2022]
