@@ -544,6 +544,12 @@ Physical maps in Phase 3.   -->
 ## Follow up work / limitations
 
 
+
+### Next work addressing racial and gender based issues of inclusion
+
+The possibilities align with similar research, home interests etc.
+How will this pedagogies impact?
+
 ### Missing data on starting game / quick start cards
 
 Study on the use of templated starting cards was unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase.
