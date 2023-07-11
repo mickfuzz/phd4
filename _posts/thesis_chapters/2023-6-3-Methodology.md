@@ -276,7 +276,7 @@ Engestrom [@engestrom_expansive_2001] explains the role of contradictions as bui
 
 While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
 
-Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail. 
+Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail.
 
 
 
@@ -421,6 +421,16 @@ Cakir  and colleagues [-@cakir_contradictions_2022] note the move of DBR to move
 Rajala an Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI).
 
 NOTE - can the identity objects here be likened to the creation of artefacts in the game making process in chapter 5.
+
+
+**Expansive learning - and formative intervention**
+
+Work on agency in change labs useful.
+
+This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
+
+Very briefly outline the role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016]
+
 
 <!--
 From [@cakir_contradictions_2022]
