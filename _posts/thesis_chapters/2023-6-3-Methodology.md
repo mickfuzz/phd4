@@ -172,17 +172,19 @@ To do this I adopt a sociocultural approach and specifically cultural historical
 
 ### Socio cultural approaches and the primacy of context
 
-This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...
+This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
 
     A central assumption underlying
     this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
-    the learners’ belief that they are likely to do something meaningful with that which they are learning. @barnett_ecosystem_2019
+    the learners’ belief that they are likely to do something meaningful with that which they are learning.
+
+
 
 This primacy of context described above underlies much of the social turn of educational and psychological research.
 
 ### Context and Generalisation of results:
 
-Barab and Squire [-@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
 This context of this research, which is x,  
 
@@ -193,11 +195,12 @@ While the concept of utility is slippery their is an increasing stream of resear
 
 ### Justification of choice (esp compared to contructionism)
 
-Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate objects [@ackermannPiagetConstructivismPapert2001]. Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners [@oloughlinRethinkingScienceEducation1992] .
+Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
+oloughlin_rethinking_1992
 
 While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000].
 
-The alignments noted by Barab between constructionist approach and apprenticeship also apply to DBR namely "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001, p. 3]. Thus the broad claims are in alignment with wider socio cultural approaches.
+The alignments noted by Barab between constructionist approach and apprenticeship also apply to DBR namely "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
 
 Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
 
@@ -220,9 +223,12 @@ Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one foc
 
 As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
-There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice [@laveSituatedLearningLegitimate1991] , Activity Theory .  
+There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .  
+<!-- [@laveSituatedLearningLegitimate1991]  -->
 
-I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] and the use of three planes of activity to analyse complex community actions.
+I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff  and the use of three planes of activity to analyse complex community actions.
+<!-- [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] -->
+
 
 <!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
 
@@ -272,9 +278,13 @@ In the methodology chapter the concept of activity as a primary unit for analysi
 
 ### The role of contradictions between activity system elements
 
-Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development"  [@lave_developmental_1993, p. 83]
+
+Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" []
+ <!-- [@lave_developmental_1993] -->
+
 
 While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
+
 
 Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail.
 
@@ -398,7 +408,7 @@ Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable te
 
 Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
-One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003-2].  
+One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
 **Early limits of DBR**
 
@@ -431,7 +441,7 @@ This methdology applies this to a smaller domain, but with potential to expand i
 
 Very briefly outline the role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016]
 
-INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION 
+INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
 
 <!--
 From [@cakir_contradictions_2022]
@@ -650,7 +660,7 @@ How much emphasis to place on the Thematic Analysis is questionable. It served t
 - to identify roles through repeated patterns of interactions
 - to reflect on the thesis questions
 
-LATER - Following the approach of Morcom [@morcom_scaffolding_2014 I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+LATER - Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
 
 .
 ## Coding Video Data
@@ -703,9 +713,9 @@ The design process characteristics are broadly as follows; the process is often 
 
 Resnick in this area has written of a creative design spiral.
 
-The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share @hester_engineering_2007.
+The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007].
 
-It has been adopted by the area of computing is one used in a recent book on coding by Bers @bers_coding_2021.
+It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021].
 
 It is possible to be more specific when coding and include a wider terminology of technology and domain specific language. For example, debugging in the area of computer programming and playtesting in the domain of game making. I have had to weigh up the value of including these more specific terms and deciding to keep a more generic approach primarily to reduce complexity while undertaking video coding. Sub-categories add complexity and time to the process without necessarity adding a great deal.  
 ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
@@ -714,7 +724,7 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal  
 
-The process of learning game making through deepening your knowledge of game elements is explored  by Jesse Schnell -@schellArtGameDesign2008.
+The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008].
 
 Coding based on the game elements that are being added to the game serves to xxx ?
 

@@ -5,6 +5,12 @@
     -   [Commentary on Vignette - including a brief description of the
         nested levels of activity & tools
         used](#commentary-on-vignette---including-a-brief-description-of-the-nested-levels-of-activity-tools-used)
+        -   [Diverse Environmental
+            Objectives](#diverse-environmental-objectives)
+        -   [Wider Objective - Making games for an
+            audience](#wider-objective---making-games-for-an-audience)
+        -   [Intermediate Objective - Implementing a game
+            element](#intermediate-objective---implementing-a-game-element)
     -   [Commentary the use of AT scopes in data
         ANALYSIS](#commentary-the-use-of-at-scopes-in-data-analysis)
         -   [Levels of Abstraction om this design (perhaps
