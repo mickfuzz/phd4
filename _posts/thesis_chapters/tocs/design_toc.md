@@ -24,23 +24,15 @@
 -   [Conflicts and design tensions experienced by participants and
     facilitator/s](#conflicts-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Facilitator Design Tensions](#facilitator-design-tensions)
-        -   [FACILITATOR - Authenticity of coding
-            environment](#facilitator---authenticity-of-coding-environment)
-        -   [Drop? Not important enough for
-            agency](#drop-not-important-enough-for-agency)
+        -   [Tensions surrounding authenticity of coding
+            environment](#tensions-surrounding-authenticity-of-coding-environment)
     -   [Participant conflicts /
         contractions](#participant-conflicts-contractions)
-        -   [Not sure](#not-sure)
-        -   [One - Identity hardcore coding & disfunctional group work -
-            P1](#one---identity-hardcore-coding-disfunctional-group-work---p1)
-        -   [One - Two transition - freeing up collaboration
-            patterns](#one---two-transition---freeing-up-collaboration-patterns)
-        -   [TWO - Participant experience of Contradiction - Conflict -
-            not enough support
-            available](#two---participant-experience-of-contradiction---conflict---not-enough-support-available)
-        -   [Tensions and related to navigation of various
-            documentations
-            sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
+        -   [1. Identity hardcore coding & disfunctional group work -
+            P1](#identity-hardcore-coding-disfunctional-group-work---p1)
+        -   [2. Participant experience of Contradiction - Conflict - not
+            enough support
+            available](#participant-experience-of-contradiction---conflict---not-enough-support-available)
 -   [Addressing the Play Paradox](#addressing-the-play-paradox)
 -   [Exploring affordances of Key responses to emerging
     tensions](#exploring-affordances-of-key-responses-to-emerging-tensions)
