@@ -482,6 +482,10 @@ I am guided by the concepts behind the use of the models rather than drawn to an
 
 ## Data Gathering and Preparation
 
+
+
+
+
 ### Aligning data gathering and analysis with socio cultural approach
 
 My process is informed by the work previously explored, specifically Rogoff,
@@ -497,8 +501,6 @@ One of the challenges of adopting a naturalistic research approach is to work wi
 Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
 
 
-
-
 Again while diversity of data invites drawing on diverse methods of analysis, AT will provide a foundation for the analysis of these diverse data.
 
 <!-- WHAT IS THE FOUNDATION FOR ANALYSIS ?
@@ -508,6 +510,30 @@ There is a framework for looking at tensions here.
 https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
 
 
+#### Describing the formative intervention of this research
+
+The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants.
+
+One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
+**Practical factors**
+
+Key contextual factors have facilitated and shaped development of the research design including:
+
+- Impact of research practicalities
+- The location at the university
+
+
+<!-- Eliza effect? If so how relevant? -->
+
+The availability of resources potentially  attractive to this audience.
+
+For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.  
+
+and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
+
+Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims. 
 
 
 ### Data Processing
