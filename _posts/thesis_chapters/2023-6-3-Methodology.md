@@ -9,20 +9,27 @@ layout: post
 categories: chapter
 title: 3. Methodology
 ---
+
+
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Theoretical Framework](#theoretical-framework)
     -   [Primary framework Activity
         Theory](#primary-framework-activity-theory)
     -   [Socio cultural approaches and the primacy of
         context](#socio-cultural-approaches-and-the-primacy-of-context)
+    -   [Context and Generalisation of
+        results:](#context-and-generalisation-of-results)
+    -   [Utility of research:](#utility-of-research)
     -   [Justification of choice (esp compared to
         contructionism)](#justification-of-choice-esp-compared-to-contructionism)
 -   [Conceptualising activity in this learning
     design](#conceptualising-activity-in-this-learning-design)
     -   [Levels of Abstraction in Activity
         Theory](#levels-of-abstraction-in-activity-theory)
-    -   [Choosing smaller units of
-        analysis](#choosing-smaller-units-of-analysis)
+        -   [Choosing smaller units of
+            analysis](#choosing-smaller-units-of-analysis)
+    -   [The role of contradictions between activity system
+        elements](#the-role-of-contradictions-between-activity-system-elements)
 -   [Conceptualising agency](#conceptualising-agency)
     -   [On agency, activity theory and formative
         interventions](#on-agency-activity-theory-and-formative-interventions)
@@ -31,15 +38,17 @@ title: 3. Methodology
         -   [On affordances and anchors](#on-affordances-and-anchors)
 -   [DBR and formative
     interventions.](#dbr-and-formative-interventions.)
+    -   [Agreeing terminology](#agreeing-terminology)
     -   [Design-based research and formative intervention studies within
         educational
         field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-    -   [Formative Interventions Case
-        Studies](#formative-interventions-case-studies)
-        -   [Agreeing terminology](#agreeing-terminology)
+    -   [Exploring specific techniques of formative
+        interventions](#exploring-specific-techniques-of-formative-interventions)
 -   [Data Gathering and Preparation](#data-gathering-and-preparation)
     -   [Aligning data gathering and analysis with socio cultural
         approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
+        -   [Describing the formative intervention of this
+            research](#describing-the-formative-intervention-of-this-research)
     -   [Data Processing](#data-processing)
         -   [360 Video Processing](#video-processing)
         -   [Screen Capture Processing](#screen-capture-processing)
@@ -48,12 +57,27 @@ title: 3. Methodology
 -   [Data analysis methods and
     justification](#data-analysis-methods-and-justification)
     -   [Interview data](#interview-data)
-    -   [Practitioner interviews](#practitioner-interviews)
-    -   [Participant interviews](#participant-interviews)
+        -   [Practitioner interviews](#practitioner-interviews)
+        -   [Participant interviews](#participant-interviews)
+        -   [Limitations in interview
+            data](#limitations-in-interview-data)
     -   [Other data](#other-data)
 -   [Analysis of Video overview](#analysis-of-video-overview)
     -   [Rational and approach of video data
         analysis](#rational-and-approach-of-video-data-analysis)
+-   [Detailed transcription of video
+    sources](#detailed-transcription-of-video-sources)
+    -   [Transcription/description of
+        data](#transcriptiondescription-of-data)
+        -   [Justification of selecting sessions and sections for more
+            detailed
+            analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
+        -   [Grades of video data
+            analysis](#grades-of-video-data-analysis)
+        -   [Incorporating gesture and wider movement in
+            analysis](#incorporating-gesture-and-wider-movement-in-analysis)
+        -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
+-   [Thematic analysis of video data](#thematic-analysis-of-video-data)
     -   [Notes on Underpinning of Thematic Analysis of Video
         Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
         -   [What was Excluded and
@@ -62,22 +86,9 @@ title: 3. Methodology
             Interactions.](#coding-participant-roles-and-interactions.)
         -   [Coding Design Cycle Stages](#coding-design-cycle-stages)
         -   [Coding Game Design Themes](#coding-game-design-themes)
--   [Non-code - detailed transcription of video
-    sources](#non-code---detailed-transcription-of-video-sources)
-    -   [Grades of analysis](#grades-of-analysis)
-    -   [Justification of selecting sessions and sections for more
-        detailed
-        analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-    -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
-    -   [Transcrition of data](#transcrition-of-data)
-    -   [Starting analysis in 5 minute
-        sections](#starting-analysis-in-5-minute-sections)
-    -   [Selecting sections analysis](#selecting-sections-analysis)
-    -   [Incorporating gesture](#incorporating-gesture)
     -   [PROPOSAL Coding impact on design/ processes on learner agency -
         boiled down
         -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-    -   [Grades of video data analysis](#grades-of-video-data-analysis)
     -   [Limits of / problems with video data
         analysis](#limits-of-problems-with-video-data-analysis)
     -   [Analysis of activities based on Cultural, Interpersonal and
@@ -449,42 +460,41 @@ From [@cakir_contradictions_2022]
 In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
 
 
-
-
 While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
-
-
 
 Designed systems: Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
 
 
 <!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
 
+### Exploring specific techniques of formative interventions
 
+One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+EXPAND THIS WITH EXAMPLES?
 
-### Formative Interventions Case Studies
+As the game making activity for participants is novel there are few if any established community or working processes. Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants.
 
+However, the expansive process and the use of transformational agency through double stimulation as a guiding technique offers  significant opportunities.
+LINK THE CONCEPTS / PROCESS HERE.
 
+For example, in and educational settings INSERT QUICK CASE STUDY
 
+A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
 
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
 
-**More On Formative Interventions**
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
 
+NOTE - IF USING PRACTICE THEN EXPLAIN IT IN REFERENCE TO AT - OPERAION / ACTION ETC
 
-One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved. My project is differs in that beyond general participant conceptions of what game making involves, there are few if any established community or working processes. Thus while interested in the CL process, the kind of reflective, and time intensive codesign of the core resources and primary goals of the programme seemed beyond the commitment level and interest of the participants.
+I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
 
-A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5^th^ Dimension project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area. The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting Brown and Cole, 2008). The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections). In the 5^th^ Dimension intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of project. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
+NOTE - REWRITE - SECONDARY STIMULI
 
-I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5th Dimension supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
-
-
+<!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
 
 
 ## Data Gathering and Preparation
-
-
-
-
 
 ### Aligning data gathering and analysis with socio cultural approach
 
@@ -524,7 +534,6 @@ Key contextual factors have facilitated and shaped development of the research d
 - Impact of research practicalities
 - The location at the university
 
-
 <!-- Eliza effect? If so how relevant? -->
 
 The availability of resources potentially  attractive to this audience.
@@ -533,7 +542,7 @@ For example, the ability to have that number of identical computers for this aud
 
 and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
 
-Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims. 
+Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims.
 
 
 ### Data Processing
@@ -606,25 +615,30 @@ One of the challenges of adopting a naturalistic research approach is to work wi
 
 
 
-#### Interview data
+### Interview data
 
 
 #### Practitioner  interviews
 
-These were limited in number but were a rich source of thinking to help develop and deepen my reflection in journal form and to inform lines of thinking. The chosen interviewees represented a diversity in audience.
+Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
 
-Saskia Leggett - researcher in Family Learning program under direction of Roque. She took a leading role in creating the recourses coming out of the program.
+The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
 
-Matt - academic at. Also active in a non-profit learning coding
+The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
 
-Dave  - Parent and volunteer at Coder Dojo and participant in
+#### Participant interviews
 
-James Clegg - PGCE student and volunteer student helper for a summer program of game making.
+These interviews took place at the end of P4
 
+At times the resources that the
 
-### Participant interviews
+These interviews allowed triangulation and confirmation of data observered in video recordings.
 
-These were limited in number but allowed triangulation and confirmation of data observered in video recordings.
+Limitations, In retrospect, shorter interviews
+
+#### Limitations in interview data
+
+In retrospect, shorter interviews at more regular intervals with participants would have been useful as for some a re
 
 
 
@@ -667,19 +681,15 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 
 ## Analysis of Video overview
 
-#### Rational and approach of video data analysis
+### Rational and approach of video data analysis
 
+Video data analysis involved description and transcription of video data and thematic analysis of the contents.
 
-- thematic analysis
-- other analysis
-
-Initial thematic analysis was informed by literature review, early analysis of journal entries.
-
-Some elements were refined based on emerging data.
+Schema for initial thematic analysis was informed by literature review, early analysis of journal entries. Some elements were refined based on emerging data.
 
 <!-- The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities. -->
 
-How much emphasis to place on the Thematic Analysis is questionable. It served to answer the research questions in the following ways.
+Overall analysis helped to:
 
 - as a process to get closer to the data
 - to contrast thematic analysis of the stages of design with other learning models like PBL
@@ -688,10 +698,98 @@ How much emphasis to place on the Thematic Analysis is questionable. It served t
 
 LATER - Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
 
-.
-## Coding Video Data
+## Detailed transcription of video sources
+
+### Transcription/description of data
+
+The partial transcription of video data formed a significant part of the data analysis. The large amount of video data recorded forced a prioritisation of data to be transcribed. It also forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
+
+To aid the process of coding, I broke up analysis of  in 5 minute sections. In addition, when these sections were described I imported data into envio and coded each of the 5 minute sections to the
+
+This limited the accuracy of the process. In part, this element of the research was limited by the practicalities of working with this amount of data.
+
+I priorised more data as this was needed to get a greater scope of activity to allow analysis of wider community activity and ...
+
+
+#### Grades of video data analysis
+
+Describing different grades and pass overs of the video data.
+
+- quick analysis
+- sections coded and described in 5 minute chunks
+- themes of interest identified - in relation to evolving RQs as per DBR
+- some sections transcribed in more details based in themes, more detail on gesture analysis also added
+
+
+Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
+
+Then deciding on 8-10 video sessions warranting full coding of activity.
+This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
+
+Notes on goals, activities, interactions, fragments of dialogue and brief observations. Video coded in segments in Nivivo
+In this level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
+
+Another level went over the 5 min sections looking for data relevant to 3 planes analysis - how was activity able to be interpreted culurally, socially personally.
+
+This generated points for results chapters.
+
+- Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
+
+A page of quick analysis of the files online here helped to shape that decision on what sections
+https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
+
+#### Justification of selecting sessions and sections for more detailed analysis
+
+The process of transcribing into 5 minutes sections involved
+ - description
+ - identification of 3 planes, different use of AT scopes (next chapter)
+ - level of response to key characteristics interventions
+
+Criteria  for inclusion included both practical and theoretical considerations.
+
+- Good quality recording
+- Diversity of kinds of participants, ages especially
+- Diversity of participant actions in terms of tasks being worked on
+- Diversity of kinds of pair and peer interactions
+
+
+#### Incorporating gesture and wider movement in analysis
+
+The 360 camera allowed for side by side analyis of the group, pair or individual working. Due to the layout these were cluster often around a laptop.
+
+In the initial stages of transcription and description having this data was extremely useful to disambiguate spoken statements.
+
+As a personal experience of describing and transcribing even thought it was a significant amount of work to syncronise and then to play both video sources side by side, the additional information really aided the description process in adding detail to the interpretations of motivations of participants.  
+
+In some exchanges, 360 data was vital to explain spoken word. For an example see the vignette in chapter 6.
+
+#### Using a 3 Planes Approach
+
+WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
+
+Rather than taking a grounded approach this data was analysed using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
+
+The process aligns with AT analysis in the scope of the activity - and in the separation out of the community level of the triangle added by Engestrom .
+
+
+RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork using the concept of guided participation.
+
+ - The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
+
+
+While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions.
+
+
+ - While the three planes provided a higher level framework, the specifics of the data gave greater granularity and formed sub categories of coding - thus avoiding the problem of analytic preconceptions
+
+
+
+## Thematic analysis of video data
 
 NOTE COMPRESS THIS SECTION
+
+How much emphasis to place on the Thematic Analysis is questionable. The process served to help answer the research questions in general way as an additional interpretive tools to aid researcher reflection and to help get close to the data.
+
 
 
 <!-- I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse. -->
@@ -748,11 +846,11 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 #### Coding Game Design Themes
 
-NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal  
-
-The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008].
+NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? PROBABLY JUST REFERENCE REALLY BRIEFLY AND PICK UP IN DESIGN
 
 Coding based on the game elements that are being added to the game serves to xxx ?
+
+The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008].
 
 As way of coding initially I considered the MDA framework for the simplicity and the focus on the user experience being taken into account.
 
@@ -760,25 +858,7 @@ As way of coding initially I considered the MDA framework for the simplicity and
 - aesthetics
 - dynamics
 
-Later, I note the following limitations.
-- The language is not accessible to teachers and learners.
-- The definition of aesthetics is very wide incorporating user experience in a way that was not suitable to learners.
-
-Later consider...
-MOVE TO DESIGN CHAPTER?
-
-In early stages I was influenced by the categorisation of game elements used by GSM team which also was implemented in the Game Jam Guide [@cornish_game_2018; @institute_of_play_gamestar_nodate].
-The key elements are:
-
-- SPACE: Where the game takes place.
-- GOAL: What is the objective of the game? What are you trying to do?
-- COMPONENTS: What are all the objects or actors in the game?
-- MECHANICS: What actions take place in the game. What are the verbs involved?
-- RULES: What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
-
-A blend of the two gave the following staring coding scheme in terms of activities related directly to adding features or altering the game.
-
-
+Finally i used the xx
 
 <!-- Notes
 A start of a framework here from Salen
@@ -786,63 +866,7 @@ https://docs.google.com/document/d/1pK-m0Ecymixw6YhH1FdwS1ZlnFoYhLmQojDnnnxDysY/
 more notes Here - including MDA framework.
 https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/edit#heading=h.4nad7a137op4
 -->
-
-
-
-## Non-code - detailed transcription of video sources
-
-NOTE  - highlight this process much more
-
-#### Grades of analysis
-
-- quick Analysis
-- sections coded and described in 5 minute chunks
-- themes of interest identified - in relation to evolving RQs as per DBR
-- some sections transcribed in more details based in themes, more detail on gesture analysis also added
-
-A page of quick analysis of the files online here helped to shape that decision on what sections
-https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
-
-#### Justification of selecting sessions and sections for more detailed analysis
-
-The process of transcribing into 5 minutes sections involved
- - description
- - identification of 3 planes, different use of AT scopes (next chapter)
- - level of response to key characteristics interventions
-
-Criteria  for inclusion included both practical and theoretical considerations.
-
-- Good quality recording
-- Diversity of kinds of participants, ages especially
-- Diversity of participant actions in terms of tasks being worked on
-- Diversity of kinds of pair and peer interactions
-
-
-#### Using a 3 Planes Approach
-
-WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
-
-Rather than taking a grounded approach this data was analysed using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
-
-The process aligns with AT analysis in the scope of the activity - and in the separation out of the community level of the triangle added by Engestrom .
-
-
-
-RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children. This dynamism and dialogue can be captured in this framwork using the concept of guided participation.
-
- - The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
-
-
-While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions.
-
-
- - While the three planes provided a higher level framework, the specifics of the data gave greater granularity and formed sub categories of coding - thus avoiding the problem of analytic preconceptions
-
-
-
-
  <!-- The analysis of these resources using the three planes involved a choice of some of the following
-
 - using a spread sheet and putting categories and notes in to columns
 - using a table in word to record notes on data in-situ -->
 
@@ -853,27 +877,11 @@ While more complex, the plane of more individual participatory appropriation, al
 <!-- Thus using MS Excel as a simple way to collate data without translation seems appropriate. -->
 
 
-
-
-
-### Transcrition of data
-
-separeate out from coding_
-
-
-### Starting analysis in 5 minute sections
-
-### Selecting sections analysis
-
-### Incorporating gesture
-
-
-
 ### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
 
 <!-- NOTE  I would say no - too complex for coding  -->
 
-INSTEAD HOW TO ADDRESS THIS?
+REMOVED AS PROPOSAL BUT INSTEAD HOW TO ADDRESS THIS?
 
 Answering RQ - on pedagogical resources / agency / use of GDPs
 
@@ -885,24 +893,6 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 - developing agency through celebration of different game maker styles
 - authenticity of tool use, especially docs and access to Community
 - authenticity of audience - and role of drama to facilitate reflection
-
-### Grades of video data analysis
-
-Describing different grades and pass overs of the video data.
-
-Initial notes on contents of video recordings: notes on kinds of activities happening and quality of Data
-
-Then deciding on 8-10 video sessions warranting full coding of activity.
-This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
-
-Notes on goals, activities, interactions, fragments of dialogue and brief observations. Video coded in segments in Nivivo
-In this level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
-
-Another level went over the 5 min sections looking for data relevant to 3 planes analysis - how was activity able to be interpreted culurally, socially personally.
-This generated points for results chapters.
-
-- Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
-
 
 ### Limits of / problems with video data analysis
 
@@ -1018,20 +1008,20 @@ The area of in-depth study of learning and wider behaviours in the development o
 3. How can game design patterns support the development of coding practices with novices?
 
 
-### RQ1
+**RQ1**
 
 - Both barriers and tools / processes are explored in the literature review
 - Interviews with practitioners in chapter 4 guided the design in broad principles.
 - Barriers are explored in chapter 4 on evolution of the design
 - Tools and processes in results chapters 5 and 6.
 
-### RQ2
+**RQ2**
 
 - Interviews with participants some informal and some formal instructed directly adaptations to design
 - Analysis of video data
 
 
-### RQ3
+**RQ3**
 
 - Interviews with participants some informal and some formal instructed directly adaptations to design
 - Analysis of video data

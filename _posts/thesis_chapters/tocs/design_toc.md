@@ -1,14 +1,20 @@
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Chapter Introduction](#chapter-introduction)
+-   [Exploring issues and context from practitioner interviews and
+    existing
+    research](#exploring-issues-and-context-from-practitioner-interviews-and-existing-research)
 -   [Short vignette illustrating shifts in scope of
     activity](#short-vignette-illustrating-shifts-in-scope-of-activity)
-    -   [Commentary on Vignette](#commentary-on-vignette)
+    -   [Context of Vignette](#context-of-vignette)
 -   [Summary of design evolution](#summary-of-design-evolution)
 -   [Commentary on evolution of design by
     Phase](#commentary-on-evolution-of-design-by-phase)
-    -   [Phase one and two](#phase-one-and-two)
-    -   [Phase Three & Four](#phase-three-four)
-    -   [Phase Five](#phase-five)
+    -   [Explorations and innovations in P1 and
+        P2](#explorations-and-innovations-in-p1-and-p2)
+    -   [P3 and P4: The main game making
+        programmes](#p3-and-p4-the-main-game-making-programmes)
+    -   [P5 - Adapting to MakeCode
+        Arcade](#p5---adapting-to-makecode-arcade)
     -   [Description of the nested levels of activity & tools
         used](#description-of-the-nested-levels-of-activity-tools-used)
         -   [Diverse Environmental
@@ -26,19 +32,20 @@
     -   [Facilitator Design Tensions](#facilitator-design-tensions)
         -   [Tensions surrounding authenticity of coding environment /
             template](#tensions-surrounding-authenticity-of-coding-environment-template)
-    -   [Participant conflicts /
-        contractions](#participant-conflicts-contractions)
-        -   [1. Identity hardcore coding & disfunctional group work -
-            P1](#identity-hardcore-coding-disfunctional-group-work---p1)
-        -   [2. Participant experience of Contradiction - Conflict - not
-            enough support
-            available](#participant-experience-of-contradiction---conflict---not-enough-support-available)
--   [Exploring affordances of Key responses to emerging
-    tensions](#exploring-affordances-of-key-responses-to-emerging-tensions)
-    -   [Code playgrounds, and web
-        technology](#code-playgrounds-and-web-technology)
-    -   [Structuring supporting
-        resources](#structuring-supporting-resources)
+-   [Participant conflicts /
+    contractions](#participant-conflicts-contractions)
+    -   [1. Identity hardcore coding & disfunctional group work -
+        P1](#identity-hardcore-coding-disfunctional-group-work---p1)
+    -   [2. Participant experience of Contradiction - Conflict - not
+        enough support
+        available](#participant-experience-of-contradiction---conflict---not-enough-support-available)
+        -   [Tensions and related to navigation of various
+            documentations
+            sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
+        -   [Code playgrounds, and web
+            technology](#code-playgrounds-and-web-technology)
+        -   [Structuring supporting
+            resources](#structuring-supporting-resources)
     -   [3. Facilitator conflict addressing the Play
         Paradox](#facilitator-conflict-addressing-the-play-paradox)
         -   [Learning Dimensions Map](#learning-dimensions-map)

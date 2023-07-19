@@ -1379,9 +1379,22 @@ THIS SECTION IS STILL UNDER DEVELOPMENT
 
 This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
-Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
+Adopting analysis which aligns authorial agency and transformative agency, there is a authenticitypotential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
 
 Thus, I propose that key areas of the learning design should be more open in structured to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
+
+
+### Transition to next chapter
+
+While game making can be seen superficially as the primary activity, I argue that a narrower objective of implementing GDPs and the dependant actions became the most vital unit of activity for participants. From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting.
+
+
 
 <!-- These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
 
@@ -1440,7 +1453,7 @@ And a prevalence of research linking design thinking  stages  and coding. I code
 <!-- There is little data on the effectiveness of value even of explicitly teaching design thinking / engineering stages. -->
 <!-- I did not give explicit facilitator input or guidance on the stages which may also have avoided norming participants towards such patterns. -->
 
-<!-- Another cause for a less stuctured was the use of a templated game which contained and which invited testing and sharing with after only quick changes. -->
+<!-- Another cause for a less stuctured was the use of a templated game which contained andauthenticity which invited testing and sharing with after only quick changes. -->
 
 <!-- I propose designing for more chaotic practices can increase agency as it reduces a feeling of prescription that may reduce a feeling of agency. -->
 
@@ -1492,7 +1505,7 @@ In summary:
 Family game making, of completing projects together with your parents or siblings has potential to remove the **I'm not that sort of person** barrier of cultural identity as participants are surrounded by their people.
 
   - the choice of retro games as a medium provokes sharing for older participants while their enduring popularity maintains common ground with younger participants;
-- encouraing game playing and discussion of games helps surface positive affect and   
+- encouraing game playing and discuauthenticityssion of games helps surface positive affect and   
  -->
 
 <!-- **Discussion on reducing learner anxiety surrounding text coding**

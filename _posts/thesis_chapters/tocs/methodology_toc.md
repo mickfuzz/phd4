@@ -4,14 +4,19 @@
         Theory](#primary-framework-activity-theory)
     -   [Socio cultural approaches and the primacy of
         context](#socio-cultural-approaches-and-the-primacy-of-context)
+    -   [Context and Generalisation of
+        results:](#context-and-generalisation-of-results)
+    -   [Utility of research:](#utility-of-research)
     -   [Justification of choice (esp compared to
         contructionism)](#justification-of-choice-esp-compared-to-contructionism)
 -   [Conceptualising activity in this learning
     design](#conceptualising-activity-in-this-learning-design)
     -   [Levels of Abstraction in Activity
         Theory](#levels-of-abstraction-in-activity-theory)
-    -   [Choosing smaller units of
-        analysis](#choosing-smaller-units-of-analysis)
+        -   [Choosing smaller units of
+            analysis](#choosing-smaller-units-of-analysis)
+    -   [The role of contradictions between activity system
+        elements](#the-role-of-contradictions-between-activity-system-elements)
 -   [Conceptualising agency](#conceptualising-agency)
     -   [On agency, activity theory and formative
         interventions](#on-agency-activity-theory-and-formative-interventions)
@@ -20,15 +25,17 @@
         -   [On affordances and anchors](#on-affordances-and-anchors)
 -   [DBR and formative
     interventions.](#dbr-and-formative-interventions.)
+    -   [Agreeing terminology](#agreeing-terminology)
     -   [Design-based research and formative intervention studies within
         educational
         field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-    -   [Formative Interventions Case
-        Studies](#formative-interventions-case-studies)
-        -   [Agreeing terminology](#agreeing-terminology)
+    -   [Exploring specific techniques of formative
+        interventions](#exploring-specific-techniques-of-formative-interventions)
 -   [Data Gathering and Preparation](#data-gathering-and-preparation)
     -   [Aligning data gathering and analysis with socio cultural
         approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
+        -   [Describing the formative intervention of this
+            research](#describing-the-formative-intervention-of-this-research)
     -   [Data Processing](#data-processing)
         -   [360 Video Processing](#video-processing)
         -   [Screen Capture Processing](#screen-capture-processing)
@@ -37,12 +44,27 @@
 -   [Data analysis methods and
     justification](#data-analysis-methods-and-justification)
     -   [Interview data](#interview-data)
-    -   [Practitioner interviews](#practitioner-interviews)
-    -   [Participant interviews](#participant-interviews)
+        -   [Practitioner interviews](#practitioner-interviews)
+        -   [Participant interviews](#participant-interviews)
+        -   [Limitations in interview
+            data](#limitations-in-interview-data)
     -   [Other data](#other-data)
 -   [Analysis of Video overview](#analysis-of-video-overview)
     -   [Rational and approach of video data
         analysis](#rational-and-approach-of-video-data-analysis)
+-   [Detailed transcription of video
+    sources](#detailed-transcription-of-video-sources)
+    -   [Transcription/description of
+        data](#transcriptiondescription-of-data)
+        -   [Justification of selecting sessions and sections for more
+            detailed
+            analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
+        -   [Grades of video data
+            analysis](#grades-of-video-data-analysis)
+        -   [Incorporating gesture and wider movement in
+            analysis](#incorporating-gesture-and-wider-movement-in-analysis)
+        -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
+-   [Thematic analysis of video data](#thematic-analysis-of-video-data)
     -   [Notes on Underpinning of Thematic Analysis of Video
         Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
         -   [What was Excluded and
@@ -51,22 +73,9 @@
             Interactions.](#coding-participant-roles-and-interactions.)
         -   [Coding Design Cycle Stages](#coding-design-cycle-stages)
         -   [Coding Game Design Themes](#coding-game-design-themes)
--   [Non-code - detailed transcription of video
-    sources](#non-code---detailed-transcription-of-video-sources)
-    -   [Grades of analysis](#grades-of-analysis)
-    -   [Justification of selecting sessions and sections for more
-        detailed
-        analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-    -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
-    -   [Transcrition of data](#transcrition-of-data)
-    -   [Starting analysis in 5 minute
-        sections](#starting-analysis-in-5-minute-sections)
-    -   [Selecting sections analysis](#selecting-sections-analysis)
-    -   [Incorporating gesture](#incorporating-gesture)
     -   [PROPOSAL Coding impact on design/ processes on learner agency -
         boiled down
         -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-    -   [Grades of video data analysis](#grades-of-video-data-analysis)
     -   [Limits of / problems with video data
         analysis](#limits-of-problems-with-video-data-analysis)
     -   [Analysis of activities based on Cultural, Interpersonal and
