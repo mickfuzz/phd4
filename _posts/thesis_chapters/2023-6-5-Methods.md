@@ -601,7 +601,7 @@ Brief help was available via in-line text code comments allowing for self-direct
 ![](./Pictures/quickstart_phaser_1.png){width=50%}
 4.x - Example of a Quick start card
 
-The templated game was structured to allow changes in code which were relatively easy to perform but which resulted in potentially large changes in game behaviour, appearance and dificulty. This created a large diversity in the games created and in the making activities of participants at this stage despite the small scale of the code changes involved.  Thus while I created these resources and the coresponding code strucutres to facilitate a _quick start_, the diversity of experience kept some participants extended periods of time.
+The templated game was structured to allow changes in code which were relatively easy to perform but which resulted in potentially large changes in game behaviour, appearance and difficulty. This created a large diversity in the games created and in the making activities of participants at this stage despite the small scale of the code changes involved.  Thus while I created these resources and the corresponding code structures to facilitate a _quick start_, the diversity of experience kept some participants extended periods of time.
 
 <!-- I kept the process informal and responsive by allowing participants to choose which one they wanted to work on next. The following sections outline different areas and patterns of activity. -->
 
@@ -625,21 +625,18 @@ As the end process is visible in fluid behaviour -->
 <!-- While the design suits repeated design practice as illustrated by the example above, not all pairs or individuals interacted with GDP in such a neat way.
 A later discussion section in this chapter illustrates a more complex interaction with design stages. -->
 
-These observations build on the descriiption of the game template in the last chapter.
+These observations build on the description of the game template in the last chapter.
 
-**Variable editing for movement:** Particpants needed to change the code to allow effective player movement. This thsu forced all particpants to alter at least one of the key variables were highlighted at the very start of the game code. Following this first change however behaviour varied greatly. While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others, mostly adults or younger participants, were much less concerned with this aspect of game play, despite sometime frustrating resultive player movement.
+**Variable editing for movement:** Participants needed to change the code to allow effective player movement. This thus forced all participants to alter at least one of the key variables were highlighted at the very start of the game code. Following this first change however behaviour varied greatly. While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others, mostly adults or younger participants, were much less concerned with this aspect of game play, despite sometime frustrating resulting player movement.
 
-**Level design and prototyping:** The starting game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. Many participants spent significant time and effort on level design both in initial stage and in subsequent sessions, undertaking many iterations of changes to the level design. As explored in the vignette in the previous chapter, Toby and several others designed to make the game challenging but still technically possible. In contrast, two particpants played with the convention of the game by removing all hazards and filling the screen with rewards/coins.
+**Level design and prototyping:** The starting game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. Many participants spent significant time and effort on level design both in initial stage and in subsequent sessions, undertaking many iterations of changes to the level design. As explored in the vignette in the previous chapter, Toby and several others designed to make the game challenging but still technically possible. In contrast, two participants played with the convention of the game by removing all hazards and filling the screen with rewards/coins.
 
 <!-- The vignette in the last chapter saw Toby's adding new levels to his game and undertaking many iterations of changes to the level design.  -->
-
-
-
 
 <!-- The possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure. -->
 
 
-**Use of pixel art to seed narrative and art creativity:** One activity that all particpants spent some time on was to replace the coloured bloack of teh starting template with pixel art sprites created using the Piskel tool. Participant spent a widely different length of time creating these graphics. Some took a long time to master the process of using the editing tool. Some others struggled with the process of exporting the images to the code editor. Others were relatively rapid in creation but returned to alter their creations. As they had been guided to make a game on a broadly environmental theme. Participants often redesigned sprites to games involving animals. The following image shows a whale as a player character and plastic bottles.
+**Use of pixel art to seed narrative and art creativity:** One activity that all participants spent some time on was to replace the coloured block of the starting template with pixel art sprites created using the Piskel tool. Participant spent a widely different length of time creating these graphics. Some took a long time to master the process of using the editing tool. Some others struggled with the process of exporting the images to the code editor. Others were relatively rapid in creation but returned to alter their creations. As they had been guided to make a game on a broadly environmental theme. Participants often redesigned sprites to games involving animals. The following image shows a whale as a player character and plastic bottles.
 
 ![](./Pictures/whale_1.png){width=50%}
 
