@@ -23,13 +23,10 @@
             audience](#wider-objective---making-games-for-an-audience)
         -   [Intermediate Objective - Implementing a game
             element](#intermediate-objective---implementing-a-game-element)
-    -   [Commentary the use of AT scopes in data
-        ANALYSIS](#commentary-the-use-of-at-scopes-in-data-analysis)
-        -   [Levels of Abstraction om this design (perhaps
-            drop?)](#levels-of-abstraction-om-this-design-perhaps-drop)
 -   [Conflicts and design tensions experienced by participants and
     facilitator/s](#conflicts-and-design-tensions-experienced-by-participants-and-facilitators)
-    -   [Facilitator Design Tensions](#facilitator-design-tensions)
+    -   [Design tensions experienced as a researcher /
+        designer](#design-tensions-experienced-as-a-researcher-designer)
         -   [Tensions surrounding authenticity of coding environment /
             template](#tensions-surrounding-authenticity-of-coding-environment-template)
 -   [Participant conflicts /
@@ -50,11 +47,11 @@
         Paradox](#facilitator-conflict-addressing-the-play-paradox)
         -   [Learning Dimensions Map](#learning-dimensions-map)
     -   [Limits to this map - MOVE?](#limits-to-this-map---move)
-        -   [Using Physical Maps of Missions as Game Design
-            Patterns](#using-physical-maps-of-missions-as-game-design-patterns)
-    -   [Including Coding Concepts in the Learning Map and including
-        Code Cards with links to online
-        Concepts](#including-coding-concepts-in-the-learning-map-and-including-code-cards-with-links-to-online-concepts)
+        -   [Including Coding Concepts in the Learning Map and including
+            Code Cards with links to online
+            Concepts](#including-coding-concepts-in-the-learning-map-and-including-code-cards-with-links-to-online-concepts)
+    -   [Using Physical Maps of Missions as Game Design Patterns -
+        DROP?](#using-physical-maps-of-missions-as-game-design-patterns---drop)
 -   [Further discussion of learning design - HOLDING SECTION
     CURRENTLY](#further-discussion-of-learning-design---holding-section-currently)
     -   [Discussion on Authenticity from methods chapter moved
