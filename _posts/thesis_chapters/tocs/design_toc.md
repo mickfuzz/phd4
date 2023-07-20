@@ -9,12 +9,12 @@
 -   [Summary of design evolution](#summary-of-design-evolution)
 -   [Commentary on evolution of design by
     Phase](#commentary-on-evolution-of-design-by-phase)
-    -   [Explorations and innovations in P1 and
-        P2](#explorations-and-innovations-in-p1-and-p2)
+    -   [P1 and P2: Explorations and
+        innovations](#p1-and-p2-explorations-and-innovations)
     -   [P3 and P4: The main game making
         programmes](#p3-and-p4-the-main-game-making-programmes)
-    -   [P5 - Adapting to MakeCode
-        Arcade](#p5---adapting-to-makecode-arcade)
+    -   [P5: Adapting to MakeCode Arcade and more formal
+        settings](#p5-adapting-to-makecode-arcade-and-more-formal-settings)
     -   [Description of the nested levels of activity & tools
         used](#description-of-the-nested-levels-of-activity-tools-used)
         -   [Diverse Environmental
@@ -33,23 +33,15 @@
     contractions](#participant-conflicts-contractions)
     -   [1. Identity hardcore coding & disfunctional group work -
         P1](#identity-hardcore-coding-disfunctional-group-work---p1)
-    -   [2. Participant experience of Contradiction - Conflict - not
-        enough support
-        available](#participant-experience-of-contradiction---conflict---not-enough-support-available)
+        -   [Navigating the conflict](#navigating-the-conflict)
+    -   [2. Participant conflict due to lack of relevant technical
+        support](#participant-conflict-due-to-lack-of-relevant-technical-support)
         -   [Tensions and related to navigation of various
             documentations
             sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
-        -   [Code playgrounds, and web
-            technology](#code-playgrounds-and-web-technology)
-        -   [Structuring supporting
-            resources](#structuring-supporting-resources)
     -   [3. Facilitator conflict addressing the Play
         Paradox](#facilitator-conflict-addressing-the-play-paradox)
         -   [Learning Dimensions Map](#learning-dimensions-map)
-    -   [Limits to this map - MOVE?](#limits-to-this-map---move)
-        -   [Including Coding Concepts in the Learning Map and including
-            Code Cards with links to online
-            Concepts](#including-coding-concepts-in-the-learning-map-and-including-code-cards-with-links-to-online-concepts)
     -   [Using Physical Maps of Missions as Game Design Patterns -
         DROP?](#using-physical-maps-of-missions-as-game-design-patterns---drop)
 -   [Further discussion of learning design - HOLDING SECTION
