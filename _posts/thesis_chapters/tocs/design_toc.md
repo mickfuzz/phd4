@@ -27,8 +27,8 @@
     facilitator/s](#conflicts-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Design tensions experienced as a researcher /
         designer](#design-tensions-experienced-as-a-researcher-designer)
-        -   [Tensions surrounding authenticity of coding environment /
-            template](#tensions-surrounding-authenticity-of-coding-environment-template)
+        -   [Tensions surrounding authenticity of tool
+            use](#tensions-surrounding-authenticity-of-tool-use)
 -   [Participant conflicts /
     contractions](#participant-conflicts-contractions)
     -   [1. Identity hardcore coding & disfunctional group work -
@@ -41,21 +41,10 @@
             sources](#tensions-and-related-to-navigation-of-various-documentations-sources)
     -   [3. Facilitator conflict addressing the Play
         Paradox](#facilitator-conflict-addressing-the-play-paradox)
+        -   [Using Physical Maps of Missions as Game Design Patterns -
+            COMPRESS](#using-physical-maps-of-missions-as-game-design-patterns---compress)
         -   [Learning Dimensions Map](#learning-dimensions-map)
-    -   [Using Physical Maps of Missions as Game Design Patterns -
-        DROP?](#using-physical-maps-of-missions-as-game-design-patterns---drop)
--   [Further discussion of learning design - HOLDING SECTION
-    CURRENTLY](#further-discussion-of-learning-design---holding-section-currently)
-    -   [Discussion on Authenticity from methods chapter moved
-        here](#discussion-on-authenticity-from-methods-chapter-moved-here)
-        -   [Near-authentic processes and tools in drama and
-            project-based processes and related scenarios to increase
-            agency](#near-authentic-processes-and-tools-in-drama-and-project-based-processes-and-related-scenarios-to-increase-agency)
-        -   [Authenticity of Audience and
-            Problems](#authenticity-of-audience-and-problems)
-        -   [Authenticity of supporting documentation and design
-            concepts](#authenticity-of-supporting-documentation-and-design-concepts)
--   [Further Discussion](#further-discussion)
+-   [Discussion](#discussion)
     -   [Starting discussion on the mutual nature of the design
         process.](#starting-discussion-on-the-mutual-nature-of-the-design-process.)
     -   [Work of Gee and others on identity of makers /
