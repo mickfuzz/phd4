@@ -451,25 +451,20 @@ Design patterns are most commonly used for computing students at higher educatio
 <!-- This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage. -->
 
 
-The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995], and has also been adopted by game designers [@bjork_patterns_2005]. Design patterns are well thought out solutions to common issues faced by computer programmers and system designers. Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics Azimullah et al., 2020; da Cruz Silva et al., 2019) .
+The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995], and has also been adopted by game designers [@bjork_patterns_2005]. Design patterns are well thought out solutions to common issues faced by computer programmers and system designers.
 
-New journal Article - Gameplay design patterns as a lingua franca [@erikssonUsingGameplayDesign2019a].
-<!-- Could move some of this to the results discussion -
-
-"
-- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
-- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
-- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
-
-
+Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
 
 
 The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns. Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player.
 
 <!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
 
-Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation rephrasing slightly as gameplay design patterns, thus placing emphasis on the exposure to the user via playing the game. They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. Their research builds on related research which complied a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
+Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation rephrasing slightly as gameplay design patterns, thus placing emphasis on the exposure to the user via playing the game. They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving.
+
+Their research, which involved young people, builds on related research with adults with the explicit goal of learning game design. One product of this research is a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
+
+
 
 <!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
 <!-- From Eriksson article - explore in more depth in Lit Review..
@@ -493,8 +488,6 @@ This section examines the use of potential use of these professional tools or pr
 Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
 The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
 
-
-
 #### Using pattern collections and code examples to help students.
 
 THERE IS DUPLICATION AT END - IN TENSIONS
@@ -503,18 +496,17 @@ To help revolve the play paradox - of learner choice vs subject exploration [@ho
 Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
 Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other
 
-As noted, design patterns are common in computing education.
+GSM created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
 
-GDPs - Bjork etc - started the pattern collection for game studies
-A follow up in non-coding situation
+The normal practice is geared towards prompts within the software with specific missions.
 
-GSM created a supporting pack for teachers
-uses challenges which are themed around but the normal practice is geared towards
-does not
+There is little research published on how the cards were used in practice. Limitations include ...
 
 <!-- NOTE - follow this up - can email - why was this not adopted?
 What could have been different?-->
-GAP : No research for GDP pattern collection for to text code games with for CS or game studies in young people.
+**GAP in the resaseach:**
+
+No research for GDP pattern collection for to text code games with for CS or game studies in young people.
 
 **Link paragraph to game making pedagogies**
 
@@ -602,7 +594,7 @@ The concept of Funds of Knowledge emerged from research within United States Lat
 
 Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
 
-Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively 
+Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
 - and update outlined here [@rajala_utopian_2023]
 
 
