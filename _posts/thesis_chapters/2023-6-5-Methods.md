@@ -102,16 +102,16 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
 
-<!-- - The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
+- The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
 - the use of core tools in the initial learning design
 - community behaviour and design processes
 
 In the discussion section, the chapter builds on material explored in the literature to explore:
 
 - the development of agency in this learning design, Particular attention is given to processes which support learners to develop agency in the game making process.
-- design concepts to support novices learning coding in game making contexts. -->
+- design concepts to support novices learning coding in game making contexts.
 
-<!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.  -->
+<!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.
 
 
 <!--

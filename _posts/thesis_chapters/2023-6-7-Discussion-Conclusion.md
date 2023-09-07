@@ -115,6 +115,11 @@ And if so are they distinct from existing frameworks explored in literature revi
 - Regular informal feedback and chances to discuss evolving designs
 
 
+### Agency, choice and practicalities 
+
+In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
+
+
 ### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
 
 <!-- NOTE  I would say  too complex for coding -->
