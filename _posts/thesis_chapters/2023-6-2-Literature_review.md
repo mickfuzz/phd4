@@ -455,7 +455,6 @@ The concept of computational design patterns is well explored in the professiona
 
 Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
 
-
 The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns. Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player.
 
 <!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
