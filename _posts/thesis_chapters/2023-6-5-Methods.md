@@ -739,7 +739,7 @@ The growing mastery of this area also seems to help drive motivation to complete
 
 #### Summary: Home Funds and RQs
 
-This research supports fiding of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
+This research supports findings of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
 
 This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
 
@@ -1031,7 +1031,7 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 
 
-### Flexible divisions of labour
+### The development of flexible divisions of labour
 
 <!-- The parent cedes the keyboard and mouse and sometimes swaps chairs to allow child to play test the game created.  -->
 
@@ -1052,9 +1052,9 @@ This approach appears to be influenced by Dan's experience as a software enginee
 
 This extract from interview data indicates a priority to support the learner to develop independently but to still be very present in the support process.
 
-**Leveraging the possibilities of emering divisions fo labour:**  While the context of the participants as families involved in home education makes any general claims difficult, these observations support  exist in other research in this domain. For example, research shows that children have the potential to help parents as technology brokers [@correa_brokering_2015]. In joint technology work parents can fulfil several,reciprocal roles including, collaborator, resource provider, learner, non-technical consultant and emotional support [@barron_parents_2009].
+**Leveraging the possibilities of emerging divisions of labour:**  While the context of the participants as families involved in home education makes any general claims difficult, these observations support  exist in other research in this domain. For example, research shows that children have the potential to help parents as technology brokers [@correa_brokering_2015]. In joint technology work parents can fulfil several,reciprocal roles including, collaborator, resource provider, learner, non-technical consultant and emotional support [@barron_parents_2009].
 
-Thus, in response to the creative support that parents and siblings provide, facilitators should design learning environments to facilitate these possibilities. The work of Roque on FCL provided guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
+Thus, in response to the creative support that parents and siblings provide, facilitators should design learning environments to facilitate these possibilities. The work of Roque provides guidance for helpers in the process to support parents to value and feel confident these roles [@roque_im_2016] in a way which mirrors the use of helpers this phase of my study.
 
 <!--
 PERHAPS MOVE TO CONCLUSION
@@ -1218,13 +1218,13 @@ But at the cost of maintaining a working game. -->
 ### Flexible design practices
 
 
-As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observered that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
+As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
 
 In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
 
 #### The potential of emergent "non-productive" activities
 
-Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These proceses often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
+Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
  <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
  <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
@@ -1234,7 +1234,7 @@ Skills to perform these activities were at often distributed between different f
 
 The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
 
-In addtion, I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
+In addition, I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
 
 | Participant Dialogue          | Participant Gestures & Activities              
 |----------------|----------------|
