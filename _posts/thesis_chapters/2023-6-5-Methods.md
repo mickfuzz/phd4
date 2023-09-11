@@ -1209,10 +1209,6 @@ What about a more quantative approach to justify some of the findings above and 
 NOTE - What about coding based on “processes to develop agency” - as per thematic analysis doc - and chapter 4? This could work as a summary of the chapter and something to put in a table and give some
 
 
-
-
-
-
 <!-- ## Discussion on designing for learner agency -->
 <!-- I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.  -->
 
