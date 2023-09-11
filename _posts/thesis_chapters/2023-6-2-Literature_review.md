@@ -416,7 +416,7 @@ Michel Resnick, a researcher involved in the Scratch project at MIT illustrates 
 
 ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
 
-<Figure8.1.jpg>
+
 Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
 
 
