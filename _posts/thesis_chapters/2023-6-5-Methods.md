@@ -100,16 +100,18 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter.
 
-- The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
-- the use of core tools in the initial learning design
-- community behaviour and design processes
 
-In the discussion section, the chapter builds on material explored in the literature to explore:
+This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter, excluding the more specific work on game design patterns which is explored in the following chapter.
 
-- the development of agency in this learning design, Particular attention is given to processes which support learners to develop agency in the game making process.
-- design concepts to support novices learning coding in game making contexts.
+COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent.
+
+**Discussion on comment:** What is that structure?
+
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes. The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
+
+In the discussion section, the chapter builds on material explored in this chapter in relation to exiting research to explore the development of agency in this learning design. Particular attention is given to processes which support learners to develop agency in the game making process and the role of different levels of authenticity within these processes.
+
 
 <!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.
 
