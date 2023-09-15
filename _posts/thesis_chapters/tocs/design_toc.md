@@ -29,6 +29,14 @@
         designer](#design-tensions-experienced-as-a-researcher-designer)
         -   [Tensions surrounding authenticity of tool
             use](#tensions-surrounding-authenticity-of-tool-use)
+-   [The impact of the core tools of code playgrounds and templated
+    game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
+    -   [Code playground](#code-playground)
+    -   [Impact of the half-baked game
+        template](#impact-of-the-half-baked-game-template)
+        -   [Observations on design behaviours encouraged through use of
+            game
+            template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
 -   [Participant conflicts /
     contractions](#participant-conflicts-contractions)
     -   [1. Identity hardcore coding & disfunctional group work -
