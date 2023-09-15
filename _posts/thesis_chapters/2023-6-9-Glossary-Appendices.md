@@ -16,15 +16,24 @@ NOTE THIS COULD MAKE UP PART OF THE LITERATURE REVIEW AS A MORE CONCISE WAY TO C
 
 Or perhaps group terms by theme, include references in each description with examples and characteristics. Then have a short complex commentary at the end of each section.  
 
-### Pedagogies -
+### Pedagogies and Design Concepts
 
-Work in progress here - 
+Work in progress here -
 
 **Pair programming:** Beyond a more general description of two people coding a task side by side, this terms also describes a  
 
 **Use - Modify - Create:** A computing and digital media creation pedagogy that outlines the advantages of starting with working code examples before progressing to writing code structures from first principles. It has been used in the context of game making[find example], web design[find example] and other educational coding projects.
 
+**Process Drama:** A way of exploring topics using dramatic techniques to explore situations, professional contexts or wider topics. The work of Dorothy Heathcote on process drama is influential in shaping conceptions of what is possible in school contexts particularly in her use of guided role play and cross-circular work.
+
+
+**Bartle's Player Types:** The grouping of different player types.
+
+Killer / Griefer is a concept which is emotive as the process of playing against the rules may be entertaining for those that engage with it. In the context of a multi-player game with people investing time and energy.
+
 ### Context / Community
+
+
 
 **Coder Dojo** -
 
