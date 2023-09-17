@@ -90,20 +90,45 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - How can learners build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
-## Introduction
 
 
-
-This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter, excluding the more specific work on game design patterns which is explored in the following chapter.
+## Notes on structure
 
 COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent.
 
 **Discussion on comment:** What is that structure?
 
-**New framing of question for this chapter** - How do participants use the created and emerging cultural tools of this game making program to build agency? 
+**New framing of question for this chapter** - How do participants use the created and emerging cultural tools of this game making program to build agency?
+
+**Questions**
+
+_Why lead so much on the drama process? How can this be justified?_
+
+The drama process is an example of an introduced cultural tool. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
+
+_How does this fit into other findings chapters?_
+
+Chap 4 - overall design context / evolution - Then in greater detail on personal observations on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
+
+Chap 5 - zoom out in scale to cultural tools and their impact and appropriation by participants.
 
 
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes. The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
+
+
+
+## Introduction
+
+
+This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter, excluding the more specific work on game design patterns which is explored in the following chapter.
+
+
+
+
+
+
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes. T
+
+he processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
 
 In the discussion section, the chapter builds on material explored in this chapter in relation to exiting research to explore the development of agency in this learning design. Particular attention is given to processes which support learners to develop agency in the game making process and the role of different levels of authenticity within these processes.
 
