@@ -1159,10 +1159,11 @@ Other relevant perspectives include rhizomatic design approaches  [@de_freitas_c
 
 Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
 
-The area of improvisation is under explored in game jam context compared to that of music and theatre @merilainen_game_2020. 
+The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
 
-THIS SPACE LEFT INTENTIONALLY BLANk
-MORE SYNTHESIS HERE
+There are disparate resources available for game jams but due to the adult centric audience and mix of abilities  they are less guided in nature than many supported design processes aimed at school age audiences.
+
+It is fruiful mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams. 
 
 
 <!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
