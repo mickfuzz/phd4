@@ -32,14 +32,6 @@ title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
         practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Concluding remarks on process
         drama](#concluding-remarks-on-process-drama)
--   [The impact of the core tools of code playgrounds and templated
-    game](#the-impact-of-the-core-tools-of-code-playgrounds-and-templated-game)
-    -   [Code playground](#code-playground)
-    -   [Impact of the half-baked game
-        template](#impact-of-the-half-baked-game-template)
-        -   [Observations on design behaviours encouraged through use of
-            game
-            template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
 -   [Emerging processes and use of
     tools](#emerging-processes-and-use-of-tools)
     -   [Emerging use of narratives and graphics which drawing on home
@@ -107,6 +99,9 @@ This chapter is concerned with examining the impact on participants of the learn
 COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent.
 
 **Discussion on comment:** What is that structure?
+
+**New framing of question for this chapter** - How do participants use the created and emerging cultural tools of this game making program to build agency? 
+
 
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes. The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
 
