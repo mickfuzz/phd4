@@ -1159,6 +1159,8 @@ Other relevant perspectives include rhizomatic design approaches  [@de_freitas_c
 
 Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
 
+The area of improvisation is under explored in game jam context compared to that of music and theatre @merilainen_game_2020. 
+
 THIS SPACE LEFT INTENTIONALLY BLANk
 MORE SYNTHESIS HERE
 
