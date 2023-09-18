@@ -130,11 +130,6 @@ The chapters have until now discussed tools and processes emerged in response to
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter, excluding the more specific work on game design patterns which is explored in the following chapter.
 
-
-
-
-
-
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes. T
 
 he processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
@@ -156,6 +151,62 @@ The first section examines the impact of a process drama with an aim to establis
 <!-- **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
+
+## Re-examining barriers associated with cultural factors
+
+In chapter 4 these were treated in summary. This section explores in more depth to give contact to looking at impact of subsequent interventions.
+
+### Barriers and tensions associated with authenticity of audience 
+
+**Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**.
+
+Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
+
+<!--
+MOVE To LATER DISCUSSION ON AUTHENTICITY IN LATER CHAPTERS?
+
+In line existing PBL research [LIT NEEDED]  with previous iterations of this learning design the process of creating a game for a real audience of university students was motivating [DATA NEEDED].
+
+While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
+
+In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (something about learner identities)
+-->
+
+Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
+
+The process of starting with a broken but playable template game allowed learners to be able to share their game with others from the start of the coding process.
+
+As a designer I identified this tactic as a way to address learner disengagement if game coding is taught from scratch via a step by step instructions from first principles, especially in younger ages.
+
+Similarly, in my journal notes, I reflect on the difficulty of interrupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
+
+**Restricted vs extended community - e.g. why not scratch with online community? - MOVE**
+
+Beyond technical considerations regarding scratch and use of physics etc,
+Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009].
+
+Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
+
+Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
+
+
+<!-- There are examples of the authenticity of the audience being used by participants
+- Suzanna uses the imagined audience to norm behaviour.
+- Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions. -->
+
+
+<!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
+The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
+The process of bringing people into the culture merit allocating time to address inequalities.
+
+Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
+
+<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
+<!--
+Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
+
+<!-- NOTE - Find complexity here?  -->
+
 
 
 ## Exploring the impact of a drama processes
