@@ -156,7 +156,7 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 In chapter 4 social and cultural barriers were treated in summary alongside other more technical obstacles.
 
-In gdp chapter ...
+In gdp chapter 5 - more detail on the social interaction in a good level of detail using data analysis from video capture.  
 
 This section explores the obstacles in practice tensions in more depth to give context to looking at impact of subsequent interventions.
 
