@@ -124,13 +124,13 @@ Chap 5 - zoom out in scale to cultural tools and their impact and appropriation 
 
 ## Introduction
 
-DROP? Pivot?
-The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contract, the processes explored in this following section emerged more directly from input from the participants involved.  
+DROP? Pivot from planned to emergent? But it's not so neat
 
+The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contract, the processes explored in this following section emerged more directly from input from the participants involved.  
 
 This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter, excluding the more specific work on game design patterns which is explored in the following chapter.
 
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes. T
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes.
 
 he processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
 
@@ -154,9 +154,13 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 ## Re-examining barriers associated with cultural factors
 
-In chapter 4 these were treated in summary. This section explores in more depth to give contact to looking at impact of subsequent interventions.
+In chapter 4 social and cultural barriers were treated in summary alongside other more technical obstacles.
 
-### Barriers and tensions associated with authenticity of audience 
+In gdp chapter ...
+
+This section explores the obstacles in practice tensions in more depth to give context to looking at impact of subsequent interventions.
+
+### Barriers and tensions associated with authenticity of audience
 
 **Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**.
 
