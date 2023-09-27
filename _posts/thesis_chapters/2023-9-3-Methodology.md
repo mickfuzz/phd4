@@ -402,7 +402,7 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 
-## DBR and formative interventions.
+## DBR and formative interventions - MOVE UP ?
 
 My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
 
@@ -419,12 +419,17 @@ Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable te
 
 Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
+Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
+
 One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
 **Early limits of DBR**
 
-Critique of DBR often stems from limits in application. For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. 
 
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+Engestrom [@engestrom_learning_2009] proposes a more regorour examination of the dynamic nature of context with CHAT conceptions of Activity.
 
 Another poported principle of  design-based research -  is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011].
 

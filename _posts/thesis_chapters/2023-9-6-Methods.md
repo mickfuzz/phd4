@@ -96,27 +96,28 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - How can learners build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
-
-
 ## Notes on structure
 
-COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent.
+<!-- COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
 
-**Discussion on comment:** What is that structure?
 
 **New framing of question for this chapter** - How do participants use the created and emerging cultural tools of this game making program to build agency?
 
-**Questions**
 
 _Why lead so much on the drama process? How can this be justified?_
 
 The drama process is an example of an introduced cultural tool. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
 
+It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
+
 _How does this fit into other findings chapters?_
 
 Chap 4 - overall design context / evolution - Then in greater detail on personal observations on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
 
-Chap 5 - zoom out in scale to cultural tools and their impact and appropriation by participants.
+Chap 6 - zoom out in scale to main focus of the activity as communicated between participants and their impact and appropriation by participants. It
+
+
+Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It
 
 
 
