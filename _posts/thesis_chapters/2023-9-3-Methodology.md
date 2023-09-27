@@ -423,41 +423,45 @@ Penuel [-@penuel_emerging_2014] describes design based researchers as an eclecti
 
 One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
-**Early limits of DBR**
+### Early limits of DBR addressed by expansive learning - and formative interventions
 
 Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits.
 
+A principle of design-based research is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+
 For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
 
-Engestrom [@engestrom_learning_2009] proposes a more regorour examination of the dynamic nature of context with CHAT conceptions of Activity.
-
-Another poported principle of  design-based research -  is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011].
-
-However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+Engestrom [@engestrom_learning_2009] proposes a more rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
 <!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
 
-Adatations including mutual appropriation from Cole's work and formative interventions from Engeström's work
+Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work [@engestrom_design_2011]
 
+Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
 
 Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
 
-Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems in their understanding of the
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
 
-Rajala an Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI).
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI).
+The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
-NOTE - can the identity objects here be likened to the creation of artefacts in the game making process in chapter 5.
+Work on agency in change labs and more wider concepts of formative interventions are important to this study.
 
+The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016]
 
-**Expansive learning - and formative intervention**
+  Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
 
-Work on agency in change labs useful.
+From  [@engestrom_design_2011]
 
-This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
-
-Very briefly outline the role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016]
+<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies. 
 
 INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
+
+
+-->
+
+
 
 <!--
 From [@cakir_contradictions_2022]
