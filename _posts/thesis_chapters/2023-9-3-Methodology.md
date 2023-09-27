@@ -448,13 +448,13 @@ The identity objects here be likened to the creation of artefacts in the game ma
 
 Work on agency in change labs and more wider concepts of formative interventions are important to this study.
 
-The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016]
+  The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
 
   Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
 
 From  [@engestrom_design_2011]
 
-<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies. 
+<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
 
 INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
 
