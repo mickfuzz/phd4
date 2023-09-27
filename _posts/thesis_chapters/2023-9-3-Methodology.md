@@ -425,7 +425,7 @@ One of the key motivations of this approach is to produce educational research t
 
 **Early limits of DBR**
 
-Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. 
+Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits.
 
 For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
 
@@ -442,7 +442,7 @@ Adatations including mutual appropriation from Cole's work and formative interve
 
 Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
 
-Cakir  and colleagues [-@cakir_contradictions_2022] note the move of DBR to move
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems in their understanding of the
 
 Rajala an Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI).
 
