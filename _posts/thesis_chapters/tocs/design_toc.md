@@ -1,4 +1,5 @@
 -   [Research Questions - June 2023](#research-questions---june-2023)
+-   [Notes on structure](#notes-on-structure)
 -   [Chapter Introduction](#chapter-introduction)
 -   [Exploring issues and context from practitioner interviews and
     existing
@@ -37,6 +38,8 @@
         -   [Observations on design behaviours encouraged through use of
             game
             template](#observations-on-design-behaviours-encouraged-through-use-of-game-template)
+    -   [Discussion on Authenticity of
+        Tools](#discussion-on-authenticity-of-tools)
 -   [Participant conflicts /
     contractions](#participant-conflicts-contractions)
     -   [1. Identity hardcore coding & disfunctional group work -
@@ -54,9 +57,12 @@
         -   [Learning Dimensions Map](#learning-dimensions-map)
         -   [NOTES ON TENSIONS WHICH THIS LEARNING MAP HAS POTENTIAL TO
             ADDRESS](#notes-on-tensions-which-this-learning-map-has-potential-to-address)
--   [Conclusion](#conclusion)
     -   [Limits to the learning dimensions map in an informal
         setting](#limits-to-the-learning-dimensions-map-in-an-informal-setting)
-    -   [Starting discussion on the mutual nature of the design
-        process.](#starting-discussion-on-the-mutual-nature-of-the-design-process.)
+-   [Conclusion](#conclusion)
+    -   [Summary of barriers exposed in this
+        study](#summary-of-barriers-exposed-in-this-study)
+    -   [Discussion on the emergent (and mutual) nature of the design
+        (and reseach?)
+        process.](#discussion-on-the-emergent-and-mutual-nature-of-the-design-and-reseach-process.)
     -   [Link to next chapter](#link-to-next-chapter)
