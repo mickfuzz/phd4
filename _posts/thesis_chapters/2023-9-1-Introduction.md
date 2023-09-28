@@ -257,15 +257,15 @@ When reading about different approaches to teaching computing the terms concrete
 
 As has been outlined in this introduction the a leading thread of the thesis is my desire to better understand my own experience as a facilitator of learners creating media and digital products in relation with existing research.
 
-This chapter has been structured around key themes that have served to begin this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area.
+This chapter has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area.
 
 While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
 
-In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used.
+In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and a summary table is present as an introductory section to the literature review.
 
-The literature review begins the exploration of the key themes of:
+The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include:
 
-- authenticity in project based approaches,
+- authenticity in project based approaches
 - nature of informal settings, in particular home education, and the possibilities offered compared to school lesson settings
 - barriers to participation in digital making and pedagogies to create inclusive learning environments
 - key accessible pedagogies to help learning coding for young people

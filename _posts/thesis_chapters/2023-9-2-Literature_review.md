@@ -152,15 +152,18 @@ Because of additional the community focus of the study, this is done in a way wh
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
-## Summary of addressing barriers to participation
+## Start exploring  barriers to participation in digital making 
 
-Develop from introduction, drill down to a more detailed overview of barriers in participation in coding communites from literature. Theme if needed.
+<!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
 
-The focus here is on practitioner attempts to identify and address barriers to participation in programming .
+This section then which summarises existing research in this area needs a clear and different focus.
+-->
 
-NOTE - THERE IS A LOT HERE THAT COULD OVERLAP
-- KEEP ADDING BUT CHECK BACK TO AVOID OVERLAP.
+Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
 
+The focus of this review is to identify broad streams and currents in research.
+
+In the next chapter the focus here is on practitioner attempts to identify and address barriers to participation in programming .
 
 
 ### Cultural / Identity barriers to participation in ...
@@ -175,13 +178,10 @@ The underlying assumption of the work here is re-examined in a stream on later w
 
  - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
 
-
-
-
-#### Barrier - Unfamiliarity with design process due to instruction based schooling systems
+<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
 
 When faced with choice learners are sometimes unsure how to start creating.
-Design scaffolds have been created to support this.
+Design scaffolds have been created to support this. -->
 
 #### Barrier - Identity and computer cultures
 
@@ -189,9 +189,7 @@ Design scaffolds have been created to support this.
 
 Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
 
-
 Game making is thus a suitable medium to support existing collaborative practices and home interests to overcome difficulties in computer coding.
-
 
 Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
 REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
