@@ -250,3 +250,30 @@ UDL places great value on the personal relevance, choice and authenticity of lea
 One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014]. The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
+
+
+
+## Outline of the structure of the thesis
+
+As has been outlined in this introduction the a leading thread of the thesis is my desire to better understand my own experience as a facilitator of learners creating media and digital products in relation with existing research.
+
+This chapter has been structured around key themes that have served to begin this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area.
+
+While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
+
+In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used.
+
+The literature review begins the exploration of the key themes of:
+
+- authenticity in project based approaches,
+- nature of informal settings, in particular home education, and the possibilities offered compared to school lesson settings
+- barriers to participation in digital making and pedagogies to create inclusive learning environments
+- key accessible pedagogies to help learning coding for young people
+
+The next chapter a
+
+
+
+## Link to next chapter
+
+It is worth noting at this stage that the process of being guided by personal interests, those of participants and creating and designing
