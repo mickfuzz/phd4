@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
+title: 6. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
 
 -   [Research Questions - June 2023](#research-questions---june-2023)
