@@ -270,7 +270,9 @@ The literature review begins the exploration of the key themes of:
 - barriers to participation in digital making and pedagogies to create inclusive learning environments
 - key accessible pedagogies to help learning coding for young people
 
-The next chapter a
+The next chapter outlines the theoretical framework and the key methodologies of this study. I explain how the underlying approach of design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school of activity theory and narrower techniques and terminology of what is termed third generation activity theory (3GAT). In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras which had been inspired by partnership work between EdLab and the Biosocial Lab.   
+
+The following chapter outlines the learning design that emerged from the research programme.
 
 
 
