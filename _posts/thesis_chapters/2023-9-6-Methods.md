@@ -1277,33 +1277,32 @@ Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warn
 
 > "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
 
-
 Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
 
 CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
 
-
 <!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
-<!-- NOTE ADD SOME DETAIL detail
-But the are explored in more detail in the following section. -->
-<!-- For example in this iteration, x is authentic, -->
-<!-- While, initially conceived as a starting activity, many learners stuck with those possibilities for a long period of time. -->
-<!-- The next stage was to imagine game elements to add to the design in the form of GDPs.
-The next chapter explores the use of GDPs by participants in detail using varied data. -->
 
 Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
 
-As explored in the previous chapter and in the results of this chapter, the authenticity of the tools and processes involved are more complex. WHERE EXACTLY IS THIS EXPLORED?
+As explored in this chapter and in chapter four, the authenticity of the tools and processes involved are more complex.
 
-While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
+Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
 
-<!-- Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009]. -->
-<!--
 There are examples of the authenticity of the audience being used by participants
 
   - Suzanna uses the imagined audience to norm behaviour.
   - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
-The use of code playgrounds and js? structured along design principles which align with affordance theory. -->
+The use of code playgrounds and js? structured along design principles which align with affordance theory.
+
+THEREFORE - WHAT IS THE KEY POINT HERE?
+
+While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
+
+Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
+
+While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
+CROSSREFF -  list the benefits here. 
 
 
 #### Positive affective space within a drama process
