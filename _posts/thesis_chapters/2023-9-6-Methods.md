@@ -1302,7 +1302,31 @@ While authenticity in coding context is potentially off-putting or prohibitive i
 Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
 
 While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
-CROSSREFF -  list the benefits here. 
+CROSSREFF -  list the benefits here.
+
+
+#### Analysis against (and calls to heed) existing design heuristics - AS THIS ADDRESSES GDP TOO PERHAPS MOVE TO GDP CHAPTER OR TO DISCUSSION CHAPTER
+
+Earlier we examined of challenges of the authenticity of the authentic tools set consisting of js, phaser, html, and a code-playround.
+
+The complexity of coding and the resulting challenges of learning to code has yield much research on guidance in the process of designing toolsets to support novice coders [@resnick_reflections_2005] - (find others on the evolution of LOGO).  
+
+The user-friendly design heuristics of  low-thresholds, wide-walls, high-ceiling
+NOTE WHY IS THIS METAPHOR USEFUL - CLARIFYs - extended by Kafai and Burke to include open windows - can be used to evaluate this design and other designs.  
+
+NOTE - ADD KEY DETAILS OF THE ACCESSIBILITY / CHALLENGE OF THE CORE TOOLS SET
+
+In this design the tools set is distinct from tools like scratch which are self-contained to a large degree (while interacting with a website) - thus bears greater similarity with the Mircoworld concepts.
+
+The online only nature of the toolset does facilitate certain aspects of community participation by shifting the working space away from a desktop only environment, this facilitating some sharing by default. This was picked up on by the community as they viewed each others assets and playtested games.
+
+Indeed, Scratch itself has moved to a web-bsaed online by default process in the lifespan of this research.  
+
+**How Resnick's design principles / heuristics differ from use of GDPs and processes in this chapter:**
+
+While these heuristics provide a useful tool for designers and practitioners supporting creative coding activities there is less intrinsic guidance to help seed community practices. While useful community tools like remix, online sharing, and collabs are part of the community, the focus of the project and of much of the surrounding research is on a broadly creative tool set rather than to accelerate a group process. 
+
+**Future work** MakeCode Arcade shows promise as an easier to use microworld geared to the use of design patterns. While this is beyond the remit of this study I did gather data. However, I would regather to allow for better focus of research questions.  
 
 
 #### Positive affective space within a drama process
@@ -1389,23 +1413,6 @@ While this has tricky implications for practitioners in more formal settings, th
 DEVELOP THE ABOVE AS A SUMMARY OF THE PREVIOUS STAGES -->
 
 
-<!-- #### Analysis against (and calls to heed) existing design heuristics
-
-Earlier we examined of challenges of the authenticity of the authentic tools set consisting of js, phaser, html, and a code-playround.
-
-The complexity of coding and the resulting challenges of learning to code has yield much research on guidance in the process of designing toolsets to support novice coders [@resnick_reflections_2005] - (find others on the evolution of LOGO).  
-
-The user-friendly design heuristics of  low-thresholds, wide-walls, high-ceilingNOTE WHY IS THIS METAPHOR USEFUL - CLARIFYs - extended by Kafai and Burke to include open windows - can be used to evaluate this design and other designs.  
-
-NOTE - ADD KEY DETAILS OF THE ACCESSIBILITY / CHALLENGE OF THE CORE TOOLS SET
-
-In this design the tools set is disctinct from tools like scratch which are self-contained to a large degree (while interacting with a website)
-
-The online only nature of the toolset does facilitate certain aspects of community participation by shifting the working space away from a desktop only environment, this facilitating some sharing by default. This was picked up on by the community as they viewed each others assets and playtested games.
-
-Indeed, Scratch itself has moved to a web-bsaed online by default process in the lifespan of this research.  
-
-**Summary:** These heuristics provide a useful tool for designers and practitioners supporting creative coding activities. -->
 
 
 
