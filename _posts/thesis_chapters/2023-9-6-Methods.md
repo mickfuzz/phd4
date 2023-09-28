@@ -65,28 +65,11 @@ title: 5. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
 
 <!-- ## Overview in points
 
-- Introduction
-- Scenarios - drama processes -
-- The impact of playing games and ongoing playtesting - as a playful inclusive process to coding
-  - Remixing / Half-baked - impact, examples (less important? - already covered - need something linked other parts of chapter)
-- Personal expression - Funds of Knowledge
-  - Working with Assets
-  - Narratives   
-- Letting flexible design practices emerge
-  - Player and Maker Types
-    - example of flexible design approaches valued / highlighted by types
-  - Creating a _walled garden_ for GDP - an overview from a cultural, community perspective? (NOTE - duplication?) - perhaps a transition
-
-- Discussion / synthesis
-  - Agency through lens of double stimulation, explore in relation other research.  
-  -  Design stages and Maker types.  Value as TADS?
-
 ### PLANNING SECTION - Cross referencing and dependencies - with with lit review and other chapters.
 
 List what is needed / referenced in broad terms to help with planning - e.g.
 
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
-- Remixing / Half Baked games []
 - Etc -->
 
 ## Research Questions - June 2023
@@ -101,12 +84,14 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 <!-- COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
 
 
+DROP? Pivot from planned to emergent? But it's not so neat
+
 **New framing of question for this chapter** - How do participants use the created and emerging cultural tools of this game making program to build agency?
 
 
 _Why lead so much on the drama process? How can this be justified?_
 
-The drama process is an example of an introduced cultural tool. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
+The drama process is an example of an introduced cultural tool. The process acts as wrapper to several supporting techniques. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
 
 It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
 
@@ -114,22 +99,21 @@ _How does this fit into other findings chapters?_
 
 Chap 4 - overall design context / evolution - Then in greater detail on personal observations on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
 
-Chap 6 - zoom out in scale to main focus of the activity as communicated between participants and their impact and appropriation by participants. It
-
+Chap 5 - zoom out in scale to main focus of the activity as communicated between participants and their impact and appropriation by participants. It
 
 Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It
 
 
-
-
-
 ## Introduction
 
-DROP? Pivot from planned to emergent? But it's not so neat
+This chapter explores the development of the emerging game making activity through the lens cultural and community
+
+In previous chapters I outlined the
+ excluding the more specific work on game design patterns which is explored in the following chapter.
 
 The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contract, the processes explored in this following section emerged more directly from input from the participants involved.  
 
-This chapter is concerned with examining the impact on participants of the learning design explored in the last chapter, excluding the more specific work on game design patterns which is explored in the following chapter.
+
 
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes.
 
