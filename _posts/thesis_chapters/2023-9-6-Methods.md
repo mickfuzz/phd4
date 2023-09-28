@@ -1268,7 +1268,7 @@ Thus, I propose that key areas of the learning design should be more open in str
 
 
 
-#### Discussion on authenticity - MOVE OR ALIGN WITH AGENCY
+### Discussion on authenticity - MOVE OR ALIGN WITH AGENCY
 <!-- #### Authenticity of Problem / Project
 Well established in PBL.
 Here the challenge is make a game to share, thus well aligned. -->
@@ -1305,7 +1305,7 @@ While this is broadly in line with PBL theories, and constructionism the use of 
 CROSSREFF -  list the benefits here.
 
 
-#### Analysis against (and calls to heed) existing design heuristics - AS THIS ADDRESSES GDP TOO PERHAPS MOVE TO GDP CHAPTER OR TO DISCUSSION CHAPTER
+#### Analysis against (and calls to heed) existing design heuristics - AS THIS ADDRESSES GDP TOO PERHAPS MOVE TO GDP CHAPTER OR TO DISCUSSION CHAPTER OR DESIGN
 
 Earlier we examined of challenges of the authenticity of the authentic tools set consisting of js, phaser, html, and a code-playround.
 
@@ -1324,7 +1324,7 @@ Indeed, Scratch itself has moved to a web-bsaed online by default process in the
 
 **How Resnick's design principles / heuristics differ from use of GDPs and processes in this chapter:**
 
-While these heuristics provide a useful tool for designers and practitioners supporting creative coding activities there is less intrinsic guidance to help seed community practices. While useful community tools like remix, online sharing, and collabs are part of the community, the focus of the project and of much of the surrounding research is on a broadly creative tool set rather than to accelerate a group process. 
+While these heuristics provide a useful tool for designers and practitioners supporting creative coding activities there is less intrinsic guidance to help seed community practices. While useful community tools like remix, online sharing, and collabs are part of the community, the focus of the project and of much of the surrounding research is on a broadly creative tool set rather than to accelerate a group process.
 
 **Future work** MakeCode Arcade shows promise as an easier to use microworld geared to the use of design patterns. While this is beyond the remit of this study I did gather data. However, I would regather to allow for better focus of research questions.  
 
