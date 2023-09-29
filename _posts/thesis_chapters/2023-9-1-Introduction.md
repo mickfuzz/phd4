@@ -35,22 +35,81 @@ title: 1. Introduction
 
 ## Starting thoughts for contents of introduction
 
+- Personal introduction, DiY media and music,
 - Coding, digital making, game making, media literacy -  Exploring motivations in each domain.
-- Inclusive approaches and the value of PBL, ULD  Introduction to RQs
+- Inclusive approaches and the value of PBL, ULD  Introduction to RQs (move to lit review as pedagogies?)
 - Formal, Informal and non-formal spaces
   - increasing role in professional spaces to keep abreast of new changes in practices, sectors and technology (cf conferences / hackathons)
 - Characteristics of Family Learning
 
 
-## Overall key messages & contribution to Knowledge
+### Personal context
 
-This research is valid in the following ways:
+In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascention. A part from being  a site of sanctuary for the political refugee Virag Mendes in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls. In 1996, as an unemployed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic populised by 2000AD and the authour William Gibson. At the Hulme Community Computing Centre the hippy volunteer who facilitated my fanzine printing encouranged me to make a website of the fanzine. On later visits he gave me a print out of a website that detailed how to write HTML web pages and offered free webspace as part of the HCCC site. Pete enthusiastic about the Unix operating system common mostly on webservers and university computers. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicenced music events. In 1995 and 1996, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. The site of street party as a chaotic and inspirational learning environment has been explored [carmo_reclaim_2012;jordan_notes_2005].  
 
-- generative nature of research. It has created teaching resources
-- the detail of game making pedagogy, suitable for other researcher and Teachers
-- tools are novel - media practices are situated, thus will differ with technology
-- application of guided participation as lens to this domain
-- something about methods using 360 and screen capture?
+Five years in 2001 later after working as a teacher, activist and music event promoter in Spain and Oxford I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site.
+
+
+
+
+
+
+https://communityreporter.net/story/internet-and-evolution-manchester-communities
+
+
+### Empowerment agenda & personal motivations
+
+Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society.
+
+This agenda has parallels with other domains of participatory culture that I have been involved in.
+
+- DIY music and protest event organisation
+- Participatory media making for social and environmental causes
+- Documentation writing using collaborative processes
+- Creative coding
+
+In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
+
+However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
+
+- Hive Manchester and Code Club
+- Coder Dojo
+- Creative coding at Manchester Libraries
+- Speciality training for PGCE and Primary Education programmes
+- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.
+
+Context of Home Education consultation as part of EdLab.
+
+My interest of computer games was rekindled via being able to use pirate networks and technology to rediscover and to replay
+
+The activities of Nicola Whitton exploring the rules and components of games in a playful way.
+
+Then pirate ways of playing games on hacked hardware activated another of my interests.
+
+### Teaching the Web - Mozilla and beyond
+
+My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
+FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
+
+Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
+
+In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
+
+### The context of retro gaming
+
+This study concerns the creation of games and for reasons that will be explored uses a design tool set that suits the creation of retro-games from the era of early arcade games from the 1970s and early 1980s and early generation of home consoles atari, nes and megadrive.
+
+Significant contextual factors include (and supporting literature references):
+
+- Retro games have a particular aesthetic driven by graphical limitations
+- Simplified game mechanics
+- For older participants, the effect of nostalgia is significant.
+
+These factors have been used by educators and community builders to faciliate x and y?
+
+
+
+
 
 # Existing Material from other chapters below
 
@@ -125,57 +184,6 @@ Broadly game making and creative coding can he
     - more general / social / 21st C, computational fluency
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
-
-
-### Empowerment agenda & personal motivations
-
-Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society.
-
-This agenda has parallels with other domains of participatory culture that I have been involved in.
-
-- DIY music and protest event organisation
-- Participatory media making for social and environmental causes
-- Documentation writing using collaborative processes
-- Creative coding
-
-In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
-
-However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
-
-- Hive Manchester and Code Club
-- Coder Dojo
-- Creative coding at Manchester Libraries
-- Speciality training for PGCE and Primary Education programmes
-- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.
-
-Context of Home Education consultation as part of EdLab.
-
-My interest of computer games was rekindled via being able to use pirate networks and technology to rediscover and to replay
-
-The activities of Nicola Whitton exploring the rules and components of games in a playful way.
-
-Then pirate ways of playing games on hacked hardware activated another of my interests.
-
-### Teaching the Web - Mozilla and beyond
-
-My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
-FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
-
-Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
-
-In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
-
-### The context of retro gaming
-
-This study concerns the creation of games and for reasons that will be explored uses a design tool set that suits the creation of retro-games from the era of early arcade games from the 1970s and early 1980s and early generation of home consoles atari, nes and megadrive.
-
-Significant contextual factors include (and supporting literature references):
-
-- Retro games have a particular aesthetic driven by graphical limitations
-- Simplified game mechanics
-- For older participants, the effect of nostalgia is significant.
-
-These factors have been used by educators and community builders to faciliate x and y?
 
 
 ### mOVED HERE FROM DESING CHAPTER
@@ -276,6 +284,15 @@ In the second part of the chapter, I outline the process of how data was gathere
 
 The following chapter outlines the learning design that emerged from the research programme.
 
+## Overall key messages & contribution to Knowledge
+
+This research is valid in the following ways:
+
+- generative nature of research. It has created teaching resources
+- the detail of game making pedagogy, suitable for other researcher and Teachers
+- tools are novel - media practices are situated, thus will differ with technology
+- application of guided participation as lens to this domain
+- something about methods using 360 and screen capture?
 
 
 ## Link to next chapter
