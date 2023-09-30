@@ -50,10 +50,17 @@ In the middle of regenerated Hulme on the corner opposite the Birley fields camp
 Five years in 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project.  
 https://communityreporter.net/story/internet-and-evolution-manchester-communities
 
-This more stable based helped me to develop internet and media creation training and community as paid activity to support environmental and migrant activism. I stopped being active after my networks were inflitrated by police. 
+My involvement with a broad network of media and internet activists centre around the network of Indymedia, a description and quote. The range of skills involved in travelling to new places and setting up temporary media centres and reporting on events was significant. I both learnt and shared many innovative tools and skills.
 
-To cut along story short the ethos of sharing
+The empowerment and education aspect of these networks and new uses of technology was something that I wanted to share with wider networks. To pay the bills I developed a specialism in  internet and media creation training and community as paid activity to support my environmental and migrant activism. One role was as a documentation writer for Floss manuals specialising in free and open sources tools for media and secure communications. Another of those roles was to set up run a media centres for Community Arts Northwest and People's Voice Media.
 
+As time developed, activist activities aligned with arts techniques. Specifically integrating performance art and activist outreach activities. The concept gain traction with the rebel clown army FIND SOURCES.   
+
+Unfortunately, the performative element of activism took a dark turn as when it was revealed that the activist network I had been involved with were heavily infiltrated by police. Police infiltrators had also been undertaking a performance. The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark.  While I had always been aware of the limits of our agency, I had got carried away. This all came crashing down and the process of being secretive about our actions and my role in outreach for this movement became very uncomfortable. What was I getting people involved with?   
+
+The intervention of environmental direct action had clashed against the interests of the state. It had become clear that more than one team were prepared to bend or break the rules.
+
+Different people responded to this crisis in different ways. My response was to retreat from this grass-roots activism to focus on community work and more international training and documentation work with international networks. Later I retrained with a masters in Computing and PGCE in Computing  at Manchester Met
 
 ### Empowerment agenda & personal motivations
 
