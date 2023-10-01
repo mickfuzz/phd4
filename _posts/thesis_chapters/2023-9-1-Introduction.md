@@ -64,9 +64,11 @@ This all seemed a bit much, I had clashed up against the limits of independence 
 
 My response was to shift focus on community work and training and documentation work with international networks. Project-based community and communications felt rewarding but the legs of communinty-based adult education were being cut off by the coalition government. Thus it was strategic to I retrained with a masters in Computing and PGCE in Computing at Manchester Met.
 
-During my PGCE year I found it impossible to bring in the kind of project based learning techniques to the classroom. I did however manage to create a pilot scheme to teach javascript in playful ways which I trialled in the classroom and wrote up as a dissertation and published the results as part o the Mozilla Teach the Web online resources. I used their Thimble tool. Thimble was an early code playground - define 
+During my PGCE year I found it impossible to bring in the kind of project based learning techniques to the classroom. I explore some of the challenges I and other educators face in later chapters. I did however manage to create a pilot scheme to teach javascript in playful ways which I trialled in the classroom and wrote up as a dissertation and published the results as part o the Mozilla Teach the Web online resources. I used their Thimble tool. Thimble was an early code playground - define
 
-It was from this base, and in response to home educators call to enage with parntership work with Manchester Met Uni wit work around learning to code using games that I returned to Mozilla's web resources to discover a javascript library to facilitate game making in the browser.
+It was from this base, and in response to home educators call to enage with parntership work with Manchester Met Uni wit work around learning to code using games that I returned to Mozilla's web resources to discover a javascript library to facilitate game making in the browser. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience.
+
+This shift had been a long time coming. In some ways the interest in young people and family was a positive and strategic shift to align with my new role as a  parent. In other ways the shift to playing and making in a more electronic, de-politicised playground was a retreat from painful memories of loss, betrayal and defeat. This reconciling of these elements and is an on-going process of which this thesis plays a part.    
 
 ### Empowerment agenda & personal motivations
 
@@ -117,9 +119,6 @@ Significant contextual factors include (and supporting literature references):
 - For older participants, the effect of nostalgia is significant.
 
 These factors have been used by educators and community builders to faciliate x and y?
-
-
-
 
 
 # Existing Material from other chapters below
