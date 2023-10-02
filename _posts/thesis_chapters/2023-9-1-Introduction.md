@@ -71,26 +71,6 @@ It was from this base, and in response to home educators call to enage with parn
 This shift had been a long time coming. In some ways the interest in young people and family was a positive and strategic shift to align with my new role as a  parent. In other ways the shift to playing and making in a more electronic, de-politicised playground was a retreat from painful memories of loss, betrayal and defeat. This reconciling of these elements and is an on-going process of which this thesis plays a part.    
 
 
-### Teaching the Web - Mozilla and beyond
-
-My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
-FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
-
-Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
-
-In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
-
-### The context of retro gaming
-
-This study concerns the creation of games and for reasons that will be explored uses a design tool set that suits the creation of retro-games from the era of early arcade games from the 1970s and early 1980s and early generation of home consoles atari, nes and megadrive.
-
-Significant contextual factors include (and supporting literature references):
-
-- Retro games have a particular aesthetic driven by graphical limitations
-- Simplified game mechanics
-- For older participants, the effect of nostalgia is significant.
-
-These factors have been used by educators and community builders to faciliate x and y?
 
 
 ## Aligning with other contextual factors
@@ -129,6 +109,23 @@ Broadly game making and creative coding can he
 - STEM pipeline in more general terms
 - for empowerment of individual and health of society
 
+
+
+
+
+### The context of retro gaming
+
+This study concerns the creation of games and for reasons that will be explored uses a design tool set that suits the creation of retro-games from the era of early arcade games from the 1970s and early 1980s and early generation of home consoles atari, nes and megadrive.
+
+Significant contextual factors include (and supporting literature references):
+
+- Retro games have a particular aesthetic driven by graphical limitations
+- Simplified game mechanics
+- For older participants, the effect of nostalgia is significant.
+
+These factors have been used by educators and community builders to faciliate x and y?
+
+
 ### Skills & STEM pipeline agenda
 
 - Motivation of activity? [pick up from Intro - move entirely to intro ]
@@ -139,7 +136,7 @@ Broadly game making and creative coding can he
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
 
 
-### Empowerment agenda of computing aligning with personal motivations
+### Empowerment agenda of authentic computing aligning with personal motivations
 
 Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society.
 
@@ -160,14 +157,25 @@ However, a new position as a project work for EdLab allowed me the ability to ex
 - Speciality training for PGCE and Primary Education programmes
 - Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.
 
+#### Authenticity as Empowering
 
+Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016]. In this introduction I refer making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
 
-The activities of Nicola Whitton exploring the rules and components of games in a playful way.
+I was attracted and received positive feedback from the process of lifting the lid on the specifics of authentic tools computing. The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology.
 
+In additions, the practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
 
-- the link to cultural practices of code patching and remixing - the example of the plumber coder potentially being someone who finishes the job rather than elegant coder.
-- other experiences of social coding being important being part of a community working on a joint project (add a quote from Dave?)
+My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
 
+FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
+
+In additions the process of making a game for peers is authentic for young people.
+
+Aligning with the activities of Nicola Whitton exploring the rules and components of games in a playful way.
+
+Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
+
+In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
 
 
 ### Game Making, Project Based Learning and Inclusion
