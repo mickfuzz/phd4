@@ -210,15 +210,19 @@ When reading about different approaches to teaching computing the terms concrete
 
 The context of these communities is important to situate the relevance of this study. These contexts are explored in summary. In the following chapter some of the pedagogies, e.g. tinkering, are explored in more depth.
 
-Maker culture and community (relevant but peripheral?).  Alignment with wider tinkering of practice in stem education, supported by family involvement and brokering of experiences.
 
-Home learning of digial technologies. The work of Livingstone is foundational in this area,
+Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
 
-Messing around and affinity groups. Ito playing around, and Gee and the process of tapping into affinity groups.
+ The work of Livingstone is foundational in the area of home learning of digial technologies[@livingstone_digital_2018].
 
-Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities .
+Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
+
+Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
 
 Kafai and Burke's extensive work proposes applying the power of Gee's work around the game playing to game making [@kafai_connected_2016, p. 56].
+
+In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences.
+
 
 
 ### Context of Home Education and family learning
