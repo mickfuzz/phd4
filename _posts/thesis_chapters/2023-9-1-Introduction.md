@@ -206,6 +206,15 @@ The researchers outline how the three stages of CRA (Concrete, Representational 
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
 
+### Context of informal science and design
+
+**Outline of relevant research on home education and home learning of media:**
+
+- The work of Livingstone is foundational in this area,
+- in addition Ito playing around, and Gee and the process of tapping into affinity groups.
+- alignment with wider tinkering of practice in stem education, supported by family involvement and brokering of experiences.
+
+
 ### Context of Home Education and family learning
 
 The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
@@ -216,11 +225,6 @@ However the practical and and cultural difficulties of undertaking a project-bas
 
 In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
 
-**Outline of relevant research on home education and home learning of media:**
-
-- The work of Livingstone is foundational in this area,
-- in addition Ito playing around, and Gee and the process of tapping into affinity groups.
-- alignment with wider tinkering of practice in stem education, supported by family involvement and brokering of experiences.
 
 **Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics and motivations of the networks and families that I tapped into.
 
