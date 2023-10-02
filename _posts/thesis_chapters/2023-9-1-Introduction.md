@@ -206,13 +206,18 @@ The researchers outline how the three stages of CRA (Concrete, Representational 
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
 
-### Context of informal science and design
+### Context of digital making and design
 
 **Outline of relevant research on home education and home learning of media:**
 
-- The work of Livingstone is foundational in this area,
-- in addition Ito playing around, and Gee and the process of tapping into affinity groups.
-- alignment with wider tinkering of practice in stem education, supported by family involvement and brokering of experiences.
+The context of these communities is important to situate the relevance of this study. These contexts are explored in summary. In the following chapter some of the pedagogies, e.g. tinkering, are explored in more depth.
+
+Maker culture and community (relevant but peripheral?).  Alignment with wider tinkering of practice in stem education, supported by family involvement and brokering of experiences.
+
+Home learning of digial technologies. The work of Livingstone is foundational in this area,
+
+Messing aroudn and affinity groups. Ito playing around, and Gee and the process of tapping into affinity groups.
+
 
 
 ### Context of Home Education and family learning
