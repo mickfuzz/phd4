@@ -217,6 +217,7 @@ I also problematise educational projects beyond the sometimes superficial take o
 
 I then link to more activist conceptions of education and learning as a way to ground the study with my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
 
+This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. 
 
 ## Outline of the structure of the thesis
 
