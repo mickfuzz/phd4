@@ -425,7 +425,7 @@ One of the key motivations of this approach is to produce educational research t
 
 ### Early limits of DBR addressed by expansive learning - and formative interventions
 
-Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits.
+Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR.
 
 A principle of design-based research is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this varies not a key part of all definitions [@easterday_design-based_2014].
 
@@ -443,8 +443,7 @@ Later work on DBR applied from a CHAT perspective has addressed limitations in t
 
 Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
 
-Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI).
-The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
 Work on agency in change labs and more wider concepts of formative interventions are important to this study.
 
@@ -454,14 +453,22 @@ Work on agency in change labs and more wider concepts of formative interventions
 
 From  [@engestrom_design_2011]
 
+This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
+
+When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process.
+
+How this maps onto a new activity in informal setting with novice learners is requires some clarification.
+
+There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process.
+
+Other areas are less aligned with existing models propsed by Engeestrom, CL, etc.
+The specific drive for participants to identify new tools,
+
+Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment.
+
 <!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
-
 INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
-
-
--->
-
-
+->
 
 <!--
 From [@cakir_contradictions_2022]
@@ -471,12 +478,13 @@ In the last decade, learning scientists, psychologists, and education researcher
 
 While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
 
-Designed systems: Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
+**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
 
+This section has identified broad alignments in direction for CHAT perspective on DBR.
 
 <!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
 
-### Exploring specific techniques of formative interventions
+### Exploring specific techniques of formative interventions - DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
 
 One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
 EXPAND THIS WITH EXAMPLES?
@@ -498,7 +506,9 @@ NOTE - IF USING PRACTICE THEN EXPLAIN IT IN REFERENCE TO AT - OPERAION / ACTION 
 
 I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
 
-NOTE - REWRITE - SECONDARY STIMULI
+In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013].
+
+ REWRITE - EXPLAIN AND EXPLORE SECONDARY STIMULI
 
 <!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
 
