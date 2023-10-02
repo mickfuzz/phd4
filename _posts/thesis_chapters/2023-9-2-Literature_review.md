@@ -108,26 +108,16 @@ The aims of this literature review:
 
   <!-- - Design-based & Tinkering / Exploratory - Bevan et al  -->
   <!-- - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first -->
+
 - Examples informal community creation in practice and research
       - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
       - 5th dimension
       - Mantle of the Expert (and drama processes games)
 
-
-
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
-
 
 <!-- I've done previous planning here.
 chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit review_.docx.md
--->
-
-<!--
-## Research Questions
-- What game making pedagogies exist?
-- How can you apply Project Based Learning principles (and inclusive teaching methods) to a game making / creative coding?
-- How do game patterns support the development of coding practices with novices?
-- What effect does a pedagogical model focused on PBL principles (especially learner choice) have on parent and child learner experiences of digital game making ?
 -->
 
 <!-- Removed from review_  
@@ -152,7 +142,7 @@ Because of additional the community focus of the study, this is done in a way wh
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
-## Start exploring  barriers to participation in digital making 
+## Start exploring  barriers to participation in digital making
 
 <!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
 

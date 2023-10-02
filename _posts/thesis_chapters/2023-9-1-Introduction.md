@@ -208,6 +208,22 @@ The researchers outline how the three stages of CRA (Concrete, Representational 
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
 
+### Context of Home Education and family learning
+
+The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
+
+Many professional programmers began with support provided by family. Barron and Livingstone have outlined the advantages and processes involved. There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality.
+
+However the practical and and cultural difficulties of undertaking a project-based approach withing the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
+
+In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
+
+**Outline of relevant research on home education and home learning of media:** The work of Livingstone is foundational in this area, in addition Ito,
+
+**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied. In the UK the reasons are broadly from reasons pedagogy or from ideology, and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics of the networks and families that I tapped into.
+
+
+
 
 ## The importance of understanding Projects and socio cultural and activist concepts of Activity
 
@@ -217,7 +233,7 @@ I also problematise educational projects beyond the sometimes superficial take o
 
 I then link to more activist conceptions of education and learning as a way to ground the study with my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
 
-This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. 
+This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
 
 ## Outline of the structure of the thesis
 
@@ -232,7 +248,7 @@ In line with a situated view of learning the details of process of coding are im
 The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include:
 
 - authenticity in project based approaches
-- nature of informal settings, in particular home education, and the possibilities offered compared to school lesson settings
+- nature of informal settings, in particular home education, and the possibilities offered compared to school lesson settings - PERHAPS IN INTRO INSTEAD
 - barriers to participation in digital making and pedagogies to create inclusive learning environments
 - key accessible pedagogies to help learning coding for young people
 
