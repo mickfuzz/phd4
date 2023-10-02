@@ -45,7 +45,9 @@ title: 1. Introduction
 
 ### Personal context
 
-In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascention. A part from being  a site of sanctuary for the political refugee Virag Mendes in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls. In 1996, as an unemployed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic populised by 2000AD and the authour William Gibson. At the Hulme Community Computing Centre the hippy volunteer who facilitated my fanzine printing encouranged me to make a website of the fanzine. On later visits he gave me a print out of a website that detailed how to write HTML web pages and offered free webspace as part of the HCCC site. Pete enthusiastic about the Unix operating system common mostly on webservers and university computers. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicenced music events. In 1995 and 1996, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [carmo_reclaim_2012;jordan_notes_2005], its value as a site of learning still bears exploration.   
+In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascention. A part from being  a site of sanctuary for the political refugee Virag Mendes in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls. In 1996, as an unemployed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic populised by 2000AD and the authour William Gibson. At the Hulme Community Computing Centre the hippy volunteer who facilitated my fanzine printing encouranged me to make a website of the fanzine. On later visits he gave me a print out of a website that detailed how to write HTML web pages and offered free webspace as part of the HCCC site. Pete enthusiastic about the Unix operating system common mostly on webservers and university computers.
+
+This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicenced music events. In 1995 and 1996, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [carmo_reclaim_2012;jordan_notes_2005], its value as a site of learning still bears exploration.   
 
 Five years in 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project.  
 https://communityreporter.net/story/internet-and-evolution-manchester-communities
@@ -58,9 +60,11 @@ As time developed, activist activities aligned with arts techniques. Specificall
 
 Unfortunately, the performative element of activism took a dark turn as when it was revealed that the activist network I had been involved with were heavily infiltrated by police. Police infiltrators had also been undertaking a performance. The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark.  While I had always been aware of the limits of our agency, I had got carried away. This all came crashing down and the process of being secretive about our actions and my role in outreach for this movement became very uncomfortable. What was I getting people involved with?   
 
-The intervention of environmental direct action had clashed against the interests of the state. It had become clear that more than one team were prepared to bend or break the rules.
+The intervention of environmental direct action had clashed against the interests of the state. It had become clear that more than one team were prepared to bend or break the rules and that our side was woefully less prepared in terms of legal and financial back up.
 
-This all seemed a bit much, I had clashed up against the limits of independence of my agency in three ways. Firstly the state clamp down on free festivals, then the corporate embrace and destroy of alternative internet cultures and finally the state infiltration of activist networks.
+I had got involved with three movements that had pushed up against the limits to their independence and had seen push back. Firstly the state clamp down on free festivals, then the corporate embrace and destroy of alternative internet cultures and finally the state infiltration of activist networks. Our attempts to make change happen and develop agency in a complex modern society had had the rug pulled out from under us. It all felt a bit much.
+
+#### A response of sorts
 
 My response was to shift focus on community work and training and documentation work with international networks. Project-based community and communications felt rewarding but the legs of communinty-based adult education were being cut off by the coalition government. Thus it was strategic to I retrained with a masters in Computing and PGCE in Computing at Manchester Met.
 
@@ -69,8 +73,6 @@ During my PGCE year I found it impossible to bring in the kind of project based 
 It was from this base, and in response to home educators call to enage with parntership work with Manchester Met Uni wit work around learning to code using games that I returned to Mozilla's web resources to discover a javascript library to facilitate game making in the browser. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience.
 
 This shift had been a long time coming. In some ways the interest in young people and family was a positive and strategic shift to align with my new role as a  parent. In other ways the shift to playing and making in a more electronic, de-politicised playground was a retreat from painful memories of loss, betrayal and defeat. This reconciling of these elements and is an on-going process of which this thesis plays a part.    
-
-
 
 
 ## Aligning with other contextual factors
@@ -108,10 +110,6 @@ Broadly game making and creative coding can he
 - for commercial purposes to join games industry
 - STEM pipeline in more general terms
 - for empowerment of individual and health of society
-
-
-
-
 
 ### The context of retro gaming
 
@@ -218,10 +216,17 @@ However the practical and and cultural difficulties of undertaking a project-bas
 
 In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
 
-**Outline of relevant research on home education and home learning of media:** The work of Livingstone is foundational in this area, in addition Ito,
+**Outline of relevant research on home education and home learning of media:**
 
-**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied. In the UK the reasons are broadly from reasons pedagogy or from ideology, and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics of the networks and families that I tapped into.
+- The work of Livingstone is foundational in this area,
+- in addition Ito playing around, and Gee and the process of tapping into affinity groups.
+- alignment with wider tinkering of practice in stem education, supported by family involvement and brokering of experiences.
 
+**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics and motivations of the networks and families that I tapped into.
+
+- Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
+- Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
+-
 
 
 
