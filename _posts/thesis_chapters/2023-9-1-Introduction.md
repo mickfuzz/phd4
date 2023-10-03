@@ -136,9 +136,6 @@ Retro games have a particular aesthetic driven by graphical limitations and the 
 due to the limited capabilities of the hardware and storage space involved. These limits suit the capabilities of the chosen design tool Phaser.js.
 
 
-
-
-
 ### Motivations for learning to code specifically via game making
 
 Broadly game making and creative coding can he
