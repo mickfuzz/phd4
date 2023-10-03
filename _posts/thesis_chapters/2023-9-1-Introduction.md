@@ -14,16 +14,16 @@ title: 1. Introduction
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Starting thoughts for contents of
     introduction](#starting-thoughts-for-contents-of-introduction)
-    -   [Personal context](#personal-context)
-        -   [A response of sorts](#a-response-of-sorts)
--   [Aligning with other contextual
-    factors](#aligning-with-other-contextual-factors)
-    -   [Alignment with teaching Computing in UK
-        context](#alignment-with-teaching-computing-in-uk-context)
+-   [Personal context](#personal-context)
+    -   [A response of sorts](#a-response-of-sorts)
+-   [Learning game making using text coding
+    languages](#learning-game-making-using-text-coding-languages)
+    -   [The context of retro gaming](#the-context-of-retro-gaming)
 -   [Motivations for learning to code specifically via game
     making](#motivations-for-learning-to-code-specifically-via-game-making)
-    -   [The context of retro gaming](#the-context-of-retro-gaming)
-    -   [Skills & STEM pipeline agenda](#skills-stem-pipeline-agenda)
+    -   [Context of game making](#context-of-game-making)
+    -   [Computing as a School Subject in the
+        UK](#computing-as-a-school-subject-in-the-uk)
     -   [Empowerment agenda of authentic computing aligning with
         personal
         motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
@@ -37,11 +37,13 @@ title: 1. Introduction
 -   [The importance of understanding Projects and socio cultural and
     activist concepts of
     Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
--   [Outline of the structure of the
-    thesis](#outline-of-the-structure-of-the-thesis)
--   [Overall key messages & contribution to
-    Knowledge](#overall-key-messages-contribution-to-knowledge)
--   [Link to next chapter](#link-to-next-chapter)
+-   [Summary of the thesis structure](#summary-of-the-thesis-structure)
+    -   [Research Questions](#research-questions)
+    -   [Chapter outline](#chapter-outline)
+    -   [Overall key messages & contribution to
+        Knowledge](#overall-key-messages-contribution-to-knowledge)
+    -   [Link to next chapter](#link-to-next-chapter)
+-   [Links](#links)
 
 
 
@@ -79,67 +81,94 @@ to come - for now see outline of thesis at the end of chapter
 
 ## Personal context
 
-In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascention. A part from being  a site of sanctuary for the political refugee Virag Mendes in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls. In 1996, as an unemployed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic populised by 2000AD and the authour William Gibson. At the Hulme Community Computing Centre the hippy volunteer who facilitated my fanzine printing encouranged me to make a website of the fanzine. On later visits he gave me a print out of a website that detailed how to write HTML web pages and offered free webspace as part of the HCCC site. Pete was enthusiastic about the Unix operating system common mostly on webservers and university computers.
+In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. A part from being  a site of sanctuary for the political refugee Virag Mendes in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls. In 1996, as an unemployed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. At the Hulme Community Computing Centre the hippy volunteer who facilitated my fanzine printing encouraged me to make a website of the fanzine. On later visits he gave me a print out of a website that detailed how to write HTML web pages and offered free webspace as part of the HCCC site. Pete was enthusiastic about the Unix operating system common mostly on web servers and university computers.
 
-This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicenced music events. In 1995 and 1996, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [carmo_reclaim_2012;jordan_notes_2005]. I have been inspired by the possibilities of the party and protest movement as a site of learning. On a personal level, my development as a media activist including but not limited to: graphic design; web page creation; computer programming; video editing; audio-visual events tech; and server maintenance was driven with motivation and support provided by people involved in that scene.
+This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995 and 1996, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005].
 
-In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project.  
-https://communityreporter.net/story/internet-and-evolution-manchester-communities
+I have been inspired by the possibilities of the party and protest movement as an inspirational site of learning. My involvement with the movement led me to help develop my internet publishing skills aligning myself with a broad network of media and internet activists centred around the Indymedia project. On a personal level, my development as a media activist including but not limited to: graphic design; web page creation; computer programming; video editing; audio-visual events tech; and server maintenance was driven with motivation and support provided by people involved in that scene.
 
-My involvement with a broad network of media and internet activists centre around the network of Indymedia, a description and quote. The range of skills involved in travelling to new places and setting up temporary media centres and reporting on events was significant. I both learnt and shared many innovative tools and skills.
+<!-- In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project [^4].   -->
 
-The empowerment and education aspect of these networks and new uses of technology was something that I wanted to share with wider networks. To pay the bills I developed a specialism in  internet and media creation training and community as paid activity to support my environmental and migrant activism. One role was as a documentation writer for Floss manuals specialising in free and open sources tools for media and secure communications. Another of those roles was to set up run a media centres for Community Arts Northwest and People's Voice Media.
+The empowerment and education aspect of these networks and new uses of technology was something that I wanted to share with wider networks. To pay the bills I developed a specialism in  internet and media creation training and community as paid activity to support my environmental and migrant activism. One role was as a documentation writer for Floss manuals specialising in free and open sources tools for media and secure communications. Another of those roles was to set up run a media centres for an activist social centre, Community Arts Northwest and People's Voice Media.
 
-As time developed, activist activities aligned with arts techniques. Specifically integrating performance art and activist outreach activities. I enjoyed being part of a wide network of activist embracing playful, performance based actions and activism [@klepto_making_2004; @routledge_sensuous_2012].   
+As time developed, my activist activities aligned with arts techniques, integrating performance art and activist outreach particularly at film screenings. I enjoyed being part of a wide network of activist embracing playful, performance based actions and activism [@klepto_making_2004; @routledge_sensuous_2012].   
 
-Unfortunately, the performative element of activism took a dark turn as when it was revealed that the activist network I had been involved with were heavily infiltrated by police. Police infiltrators had also been undertaking a performance. The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark.  While I had always been aware of the limits of our agency, I had got carried away. This all came crashing down and the process of being secretive about our actions and my role in outreach for this movement became very uncomfortable. What was I getting people involved with?   
+Unfortunately, the performative element of activism took a dark turn as when it was revealed that the activist network I had been involved with were heavily infiltrated by police. Police infiltrators had also been undertaking a performance. The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark.  While I had always been aware of the limits of our agency, I was still not ready for the reveal. The process of being secretive about our actions and my role in outreach for this movement became very uncomfortable.  The movement felt unsafe for myself and for others.   
 
-The intervention of environmental direct action had clashed against the interests of the state. It had become clear that more than one team were prepared to bend or break the rules and that our side was woefully less prepared in terms of legal and financial back up. The use of corporate paid agents to infiltrate protest groups is now common. After writing the first draft of this personal history, it seemed quite depressing. The ongoing revelations of the extent of the police infiltration of activist networks[^1], and the use of personal and sexual relationships to further this disruption to the groups[^2], took a heavy toll on my mental health and my world outlook. My work with social movements to take advantages of new opportunities created in part by community-driven technology to cause societal change had been met with a response from forces that were far better resources than we were. The push back from state and corporate bodies had used a diversity of means at their disposal: some legislative and bureaucratic; some underhand — notably the embrace, extend & extinguish [^3] tactic to counter to open source successes —; and some illegal means.
+The intervention of environmental direct action had clashed against the interests of the state. It had become clear that while bother sides were prepared to bend or break the rules our side was much less prepared in terms of legal and financial back up.
+
+After writing the first draft of this personal history, it seemed quite depressing. The ongoing revelations of the extent of the police infiltration of activist networks[^1], and the use of personal and sexual relationships to further this disruption to the groups[^2], took a heavy toll on my mental health and my world outlook. My work with social movements to take advantages of new opportunities created in part by community-driven technology to cause societal change had been met with a response from forces that were far better resources than we were. The push back from state and corporate bodies had used a diversity of means at their disposal: some legislative and bureaucratic; some underhand — notably the embrace, extend & extinguish [^3] tactic to counter to open source successes —; and some illegal means.
 
 
 <!-- Project-based community and communications felt rewarding but the legs of community-based adult education were being cut off by the coalition government. -->
 
-#### A response of sorts
+### A response of sorts
 
 My response was to shift focus on community work and training and documentation work with international networks and then eventually to informal learning of media creation with young people and families. While this move was a retreat from other domains in part driven by painful experiences outlined above, my shift of interest towards young people and family was a positive and strategic shift to align with my new role as a university tutor in education and as a new parent.
 
 There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question.
 
-My work in for FLOSS Manuals allowed me access to diverse international networks. These seemed one step away from grass roots organising  on the frontline but still informed by participatory and egalitarian methods. These networks included those advocating for Open Web and Free Culture, promoting Open Video and Video for Change movements. One thread of this work led me to work in partnership work with Mozilla and to gain awareness of the Webmaker education programme.
+My work in for FLOSS Manuals allowed me access to diverse international networks. These seemed one step away from grass roots organising  on the frontline but still informed by participatory and egalitarian methods. These networks included those advocating for Open Web and Free Culture, promoting Open Video and Video for Change movements. One thread of this work led me to work in partnership work with Mozilla and to gain awareness of the Webmaker education programme. Webmaker was more than a set of tools, Mozilla created workshops guides and in partnership with networks of informal educators in the US like Mouse, Hive Neworks and The New Youth City Learning Network. The motivation was to involve teens in being web literate through making web products inspired in part by Douglas Rushkoff's call for everyone to know at least a little bit of coding [@rushkoff_program_2010].
 
-Webmaker was more than a set of tools, Mozilla created workshops guides and in partnership with networks of informal educators in the US like Mouse, Hive Neworks and The New Youth City Learning Network. The motivation was to involve teens in being web literate through making web products inspired in part by Douglas Rushkoff's call for everyone to know at least a little bit of coding [@rushkoff_program_2010].
-
-  And as we move into an increasingly digital reality, we must learn not just how to use programs but how to make them. In the emerging highly programmed landscape ahead, you will either create the software or you will be the software. It's really that simple: Program, or be programmed. [@rushkoff_program_2010].
+    And as we move into an increasingly digital reality, we must learn not just how to use programs but how to make them. In the emerging highly programmed landscape ahead, you will either create the software or you will be the software. It's really that simple: Program, or be programmed. [@rushkoff_program_2010].
 
 This avenue offered a positive way to discuss the politics of independent communications and an empowerment agenda. The development of javascript based libraries like Popcorn.js also exposed the limits of my self-directed computing skills.
-Thus it was strategic to I retrained with a masters in Computing and then a PGCE in Computing at Manchester Met.
+Thus it was strategic to I retrained with a masters in Computing and then a PGCE in Computing at Manchester Met. The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next].
 
-The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next].
+During my PGCE year I found it challenging to bring in the kind of project based learning techniques to the classroom, a theme explored in this thesis. I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources.
 
-During my PGCE year I found it challenging to bring in the kind of project based learning techniques to the classroom, a theme explored in this thesis. I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources. 
+The turn to games began in my new role  Manchester Met Uni role doing community partnerships, in a consultation with home educators partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding.
 
-It was from this base, and in response to home educators call to engage with partnership work with Manchester Met Uni wit work around learning to code using games that I returned to Mozilla's web resources to discover a javascript library to facilitate game making in the browser. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience.
+The shift from making web-based media to games made sense given the patch success I had had with web coding pages with school children. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience. Both were grounded in self-expression, participatory culture and I was to find out both could use similar technology. To inform this work I returned to Mozilla's web developer resources to discover two step-by-step tutorials outlining how to game making in the browser using a javascript library called Phaser. I was able to combine my work using the code playground Thimble with the js library Phaser to create an potentially accessible toolset for young learners.
 
 My study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
 
 
-## Aligning with other contextual factors
+## Learning game making using text coding languages
 
-### Alignment with teaching Computing in UK context
+### The context of retro gaming
+
+One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
+
+What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
+
+Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
+due to the limited capabilities of the hardware and storage space involved. These limits suit the capabilities of the chosen design tool Phaser.js.
+
+
+
+
+
+### Motivations for learning to code specifically via game making
+
+Broadly game making and creative coding can he
+
+- for intrinsic pleasure of making games or other products
+- for commercial purposes to join games industry
+- STEM pipeline in more general terms
+- for empowerment of individual and health of society
+
+also
+
+    - From Kafai's review (not directly) draw on
+    - personal
+    - more general / social / 21st C, computational fluency
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
+
+### Context of game making for educational purposes
+
 
 The potential of digital game making is explored in depth in a review by Kafai and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Finally, because, game making involves a systems-based understanding of the world, and as games are themselves interactive systems, they are a powerful vehicle for exploring complex problems involving race, sex, social issues [@tekinbas_quest_2010].
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
 
-
-
+### Computing as a School Subject in the UK
 
 The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
-The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation;
-authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
-A key grassroots group addressing issues of inclusion in UK computing is Computing at School Include which is a working group of teachers and researchers in the field.[^1] The CAS Include website includes resources created by the network and they hold regular in-person and online events. They promote an inclusive approach to programming by creating projects and using examples which are "real world and culturally relevant".[^2]  The following section examines the intersection of inclusion, a project approach and game making.
 
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
 A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
@@ -150,38 +179,6 @@ While projects are mentioned as a principle that allows learners to deepen their
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
 
-## Motivations for learning to code specifically via game making
-
-Broadly game making and creative coding can he
-
-- for intrinsic pleasure of making games or other products
-- for commercial purposes to join games industry
-- STEM pipeline in more general terms
-- for empowerment of individual and health of society
-
-### The context of retro gaming
-
-This study concerns the creation of games and for reasons that will be explored uses a design tool set that suits the creation of retro-games from the era of early arcade games from the 1970s and early 1980s and early generation of home consoles atari, nes and megadrive.
-
-Significant contextual factors include (and supporting literature references):
-
-- Retro games have a particular aesthetic driven by graphical limitations
-- Simplified game mechanics
-- For older participants, the effect of nostalgia is significant.
-
-These factors have been used by educators and community builders to faciliate x and y?
-
-
-### Skills & STEM pipeline agenda
-
-- Motivations of game making activity.
-
-[pick up from Intro - move entirely to intro ]
-    - From Kafai's review (not directly) draw on
-    - personal
-    - more general / social / 21st C, computational fluency
-    - more general / social / 21st C,
-    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
 
 
 ### Empowerment agenda of authentic computing aligning with personal motivations
@@ -359,3 +356,4 @@ This chapter has explored the context of HE, informal science learning and speci
 [^1]: https://en.wikipedia.org/wiki/Undercover_Policing_Inquiry
 [^2]: https://en.wikipedia.org/wiki/UK_undercover_policing_relationships_scandal
 [^3]: https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish
+[^4]: https://communityreporter.net/story/internet-and-evolution-manchester-communities

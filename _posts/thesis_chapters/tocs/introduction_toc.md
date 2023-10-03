@@ -2,16 +2,16 @@
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Starting thoughts for contents of
     introduction](#starting-thoughts-for-contents-of-introduction)
-    -   [Personal context](#personal-context)
-        -   [A response of sorts](#a-response-of-sorts)
--   [Aligning with other contextual
-    factors](#aligning-with-other-contextual-factors)
-    -   [Alignment with teaching Computing in UK
-        context](#alignment-with-teaching-computing-in-uk-context)
+-   [Personal context](#personal-context)
+    -   [A response of sorts](#a-response-of-sorts)
+-   [Learning game making using text coding
+    languages](#learning-game-making-using-text-coding-languages)
+    -   [The context of retro gaming](#the-context-of-retro-gaming)
 -   [Motivations for learning to code specifically via game
     making](#motivations-for-learning-to-code-specifically-via-game-making)
-    -   [The context of retro gaming](#the-context-of-retro-gaming)
-    -   [Skills & STEM pipeline agenda](#skills-stem-pipeline-agenda)
+    -   [Context of game making](#context-of-game-making)
+    -   [Computing as a School Subject in the
+        UK](#computing-as-a-school-subject-in-the-uk)
     -   [Empowerment agenda of authentic computing aligning with
         personal
         motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
@@ -25,8 +25,10 @@
 -   [The importance of understanding Projects and socio cultural and
     activist concepts of
     Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
--   [Outline of the structure of the
-    thesis](#outline-of-the-structure-of-the-thesis)
--   [Overall key messages & contribution to
-    Knowledge](#overall-key-messages-contribution-to-knowledge)
--   [Link to next chapter](#link-to-next-chapter)
+-   [Summary of the thesis structure](#summary-of-the-thesis-structure)
+    -   [Research Questions](#research-questions)
+    -   [Chapter outline](#chapter-outline)
+    -   [Overall key messages & contribution to
+        Knowledge](#overall-key-messages-contribution-to-knowledge)
+    -   [Link to next chapter](#link-to-next-chapter)
+-   [Links](#links)
