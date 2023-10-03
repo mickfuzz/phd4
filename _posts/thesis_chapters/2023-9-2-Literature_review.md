@@ -239,11 +239,19 @@ Kafai and Burke also address the  of gender identities and game design 2014). Th
 
 **Race related identities**
 
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+I adopt a similar approach but use the language of AT contradictions, barriers and tensions.
+
 Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+
 
 **Other Non-dominant identities**
 
-Shift to other tactics like Family Connected Learning Roque. 
+Shift to other tactics like Family Connected Learning Roque.
 
 ### Barriers - Unsuitable technical tools and support documentation
 
