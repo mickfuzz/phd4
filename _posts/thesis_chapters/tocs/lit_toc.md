@@ -1,3 +1,5 @@
+-   [Research Questions - October
+    2023](#research-questions---october-2023)
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Literature Review overview - structure by
     hand](#literature-review-overview---structure-by-hand)
@@ -5,18 +7,22 @@
     review](#structuring-the-literature-review)
 -   [Start exploring barriers to participation in digital
     making](#start-exploring-barriers-to-participation-in-digital-making)
+-   [Review of relevant barriers emerging in the
+    literature](#review-of-relevant-barriers-emerging-in-the-literature)
+    -   [Barrier: Paucity on research on designing for face to face
+        learning communities of novice game
+        makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
     -   [Cultural / Identity barriers to participation in
         ...](#cultural-identity-barriers-to-participation-in)
         -   [Barrier - Identity and computer
             cultures](#barrier---identity-and-computer-cultures)
+    -   [Studies with pedagogies addressing barriers to do with identity
+        and computer
+        cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
     -   [Barriers - Unsuitable technical tools and support
         documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
     -   [Barrier - unfamiliarity with support
         practices](#barrier---unfamiliarity-with-support-practices)
-    -   [Key Game Making Tools used in this
-        study](#key-game-making-tools-used-in-this-study)
-        -   [Code Playgrounds](#code-playgrounds)
-        -   [Pixel Art Editors](#pixel-art-editors)
 -   [Pedagogies from coding for learning community - K12
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
@@ -84,8 +90,3 @@
             TENSIONS](#barrier---inequality-of-access-to-participatory-culture-communities---perhaps-rewrite-this-based-on-tensions)
     -   [Barrier - lack of knowledge of cultural
         processes](#barrier---lack-of-knowledge-of-cultural-processes)
--   [Review of relevant barriers emerging in the
-    literature](#review-of-relevant-barriers-emerging-in-the-literature)
-    -   [Barrier: Paucity on research on designing for face to face
-        learning communities of novice game
-        makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)

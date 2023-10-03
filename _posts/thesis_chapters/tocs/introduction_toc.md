@@ -1,5 +1,6 @@
 -   [Abstract](#abstract)
--   [Research Questions - June 2023](#research-questions---june-2023)
+-   [Research Questions - October
+    2023](#research-questions---october-2023)
 -   [Starting thoughts for contents of
     introduction](#starting-thoughts-for-contents-of-introduction)
 -   [Personal context](#personal-context)
@@ -7,9 +8,10 @@
 -   [Learning game making using text coding
     languages](#learning-game-making-using-text-coding-languages)
     -   [The context of retro gaming](#the-context-of-retro-gaming)
--   [Motivations for learning to code specifically via game
-    making](#motivations-for-learning-to-code-specifically-via-game-making)
-    -   [Context of game making](#context-of-game-making)
+    -   [Motivations for learning to code specifically via game
+        making](#motivations-for-learning-to-code-specifically-via-game-making)
+    -   [Context of game making for educational
+        purposes](#context-of-game-making-for-educational-purposes)
     -   [Computing as a School Subject in the
         UK](#computing-as-a-school-subject-in-the-uk)
     -   [Empowerment agenda of authentic computing aligning with
