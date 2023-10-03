@@ -24,10 +24,7 @@ title: 2. Literature Review
         documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
     -   [Barrier - unfamiliarity with support
         practices](#barrier---unfamiliarity-with-support-practices)
-    -   [Key Game Making Tools used in this
-        study](#key-game-making-tools-used-in-this-study)
-        -   [Code Playgrounds](#code-playgrounds)
-        -   [Pixel Art Editors](#pixel-art-editors)
+
     -   [Conclusion to this section](#conclusion-to-this-section)
 -   [Pedagogies from coding for learning community - K12
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
@@ -155,6 +152,33 @@ The focus of this review is to identify broad streams and currents in research.
 
 In the next chapter the focus here is on practitioner attempts to identify and address barriers to participation in programming .
 
+## Review of relevant barriers   emerging in the literature
+
+NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
+CHOOSE CAREFULLY WHERE TO PUT THE RESULTS.
+
+#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with PBL approaches and has a focus on fostering online collaboration and resources sharing.
+
+Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).
+
+However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
+
+Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.  
+
+Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
+
+**Tension of leaner choice and direction to learning objectives**
+
+Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
+
+  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
+
+Quote from [@franklin_analysis_2020]
+
 
 ### Cultural / Identity barriers to participation in ...
 
@@ -173,31 +197,53 @@ The underlying assumption of the work here is re-examined in a stream on later w
 When faced with choice learners are sometimes unsure how to start creating.
 Design scaffolds have been created to support this. -->
 
-#### Barrier - Identity and computer cultures
+### Studies with pedagogies addressing barriers to do with identity and computer cultures
 
 **Studies exploring identity and barriers to participation**
 
-Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
-
-Game making is thus a suitable medium to support existing collaborative practices and home interests to overcome difficulties in computer coding.
+Game making is thus a suitable mediumn to support existing collaborative practices and home interests to overcome difficulties in computer coding.
 
 Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
-REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
- REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.  
+REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   
 
- To address the issue of girl's low self-confidence in the area of computing compared to their ability Beyer et al., 2003; Margolis and Fisher, 2002), extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests Robertson, 2013, 2012). The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future. The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+**Gender related identities**
 
- The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
 
- Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008).
 
-
-To address the issue of girl's low self-confidence in the area of computing compared to their ability Beyer et al., 2003; Margolis and Fisher, 2002), extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests Robertson, 2013, 2012). The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future. The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+<!-- Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
 
 Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
+
+- girl's low self-confidence in the area of computing compared to their ability [@beyer_gender_2003; @margolis_unlocking_2002]
+
+**Research**
+Extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests [@robertson_making_2012; @robertson_influence_2013].  
+
+The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future.
+
+The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies [@denner_girls_2007] . Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
+
+Kafai and Burke also address the  of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+
+**Race related identities**
+
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+**Other Non-dominant identities**
+
+Shift to other tactics like Family Connected Learning Roque. 
 
 ### Barriers - Unsuitable technical tools and support documentation
 
@@ -230,25 +276,6 @@ While home education support practices of families are expressed in this setting
  Computing syntax
  Lack of knowledge of what to design..
   which they call “sandbox games,” that integrates the worlds"
-
-
-### Key Game Making Tools used in this study
-
-These tools are of use by both professionals and novice coders.
-The use by indy communities blurs the line also
-
-#### Code Playgrounds
-
-Find definition
-
-NOTES ON CODE PLAYGROUNDS
-However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
-
-
-#### Pixel Art Editors
-
-Find definition
-
 
 
 ## Pedagogies from coding for learning community - K12 focused
@@ -710,36 +737,6 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 
 We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
-## Review of relevant barriers   emerging in the literature
-
-NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
-CHOOSE CAREFULLY WHERE TO PUT THE RESULTS.
-
-#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers
-
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
-
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with PBL approaches and has a focus on fostering online collaboration and resources sharing.
-
-Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).
-
-However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
-
-Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.  
-
-Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
-
-
-
-
-
-**Tension of leaner choice and direction to learning objectives**
-
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
-
-  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
-
-Quote from [@franklin_analysis_2020]
 
 **Developing UMC - adding the "Choose"**
 
