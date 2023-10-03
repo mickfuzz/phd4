@@ -51,10 +51,9 @@ title: 1. Introduction
 
 to come - for now see outline of thesis at the end of chapter
 
-## Research Questions - June 2023
+## Research Questions - October 2023
 
 - What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-<!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
 - How can participants build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
