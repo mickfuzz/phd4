@@ -134,7 +134,11 @@ Because of additional the community focus of the study, this is done in a way wh
 - Professional and enthusiast game making commuity resources and processes
 - Wider pedagogical frameworks which allow practiioners / learners to develop agency in an evolving community
 
-<!-- now turns to explore game making and digital making studies which explore social and community planes either explicitly or implicitly. -->
+OR It may be better to identify types of barriers / obstacles and address pedagogies which address then?
+
+
+
+<!-- now turns to explore game making and digital makSing studies which explore social and community planes either explicitly or implicitly. -->
 
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
@@ -183,6 +187,8 @@ Quote from [@franklin_analysis_2020]
 ### Cultural / Identity barriers to participation in ...
 
 EDIT DOWN FIND RECENT EVIDENCE
+
+MOVE THIS ?
 
 Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
 
