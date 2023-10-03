@@ -10,18 +10,50 @@ categories: chapter
 title: 1. Introduction
 ---
 
+-   [Abstract](#abstract)
+-   [Research Questions - June 2023](#research-questions---june-2023)
+-   [Starting thoughts for contents of
+    introduction](#starting-thoughts-for-contents-of-introduction)
+    -   [Personal context](#personal-context)
+        -   [A response of sorts](#a-response-of-sorts)
+-   [Aligning with other contextual
+    factors](#aligning-with-other-contextual-factors)
+    -   [Alignment with teaching Computing in UK
+        context](#alignment-with-teaching-computing-in-uk-context)
+-   [Motivations for learning to code specifically via game
+    making](#motivations-for-learning-to-code-specifically-via-game-making)
+    -   [The context of retro gaming](#the-context-of-retro-gaming)
+    -   [Skills & STEM pipeline agenda](#skills-stem-pipeline-agenda)
+    -   [Empowerment agenda of authentic computing aligning with
+        personal
+        motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
+        -   [Authenticity as Empowering](#authenticity-as-empowering)
+    -   [Game Making, Project Based Learning and
+        Inclusion](#game-making-project-based-learning-and-inclusion)
+    -   [Context of digital making and design and home learning of
+        media](#context-of-digital-making-and-design-and-home-learning-of-media)
+    -   [Context of Home Education and family
+        learning](#context-of-home-education-and-family-learning)
+-   [The importance of understanding Projects and socio cultural and
+    activist concepts of
+    Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
+-   [Outline of the structure of the
+    thesis](#outline-of-the-structure-of-the-thesis)
+-   [Overall key messages & contribution to
+    Knowledge](#overall-key-messages-contribution-to-knowledge)
+-   [Link to next chapter](#link-to-next-chapter)
 
-# Introduction -
 
 
 ## Abstract
 
+to come - for now see outline of thesis at the end of chapter
 
 ## Research Questions - June 2023
 
 - What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
 <!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
-- How can learners build agency in an evolving community of game makers?
+- How can participants build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
 
@@ -37,13 +69,15 @@ title: 1. Introduction
 
 - Personal introduction, DiY media and music,
 - Coding, digital making, game making, media literacy -  Exploring motivations in each domain.
-- Inclusive approaches and the value of PBL, ULD  Introduction to RQs (move to lit review as pedagogies?)
+- (move mostly to lit review) PBL,
+- Context, and motivations of Home Ed / Family Learning
 - Formal, Informal and non-formal spaces
   - increasing role in professional spaces to keep abreast of new changes in practices, sectors and technology (cf conferences / hackathons)
-- Characteristics of Family Learning
+
+-  Introduction to RQs, outline of thesis etc
 
 
-### Personal context
+## Personal context
 
 In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascention. A part from being  a site of sanctuary for the political refugee Virag Mendes in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls. In 1996, as an unemployed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic populised by 2000AD and the authour William Gibson. At the Hulme Community Computing Centre the hippy volunteer who facilitated my fanzine printing encouranged me to make a website of the fanzine. On later visits he gave me a print out of a website that detailed how to write HTML web pages and offered free webspace as part of the HCCC site. Pete enthusiastic about the Unix operating system common mostly on webservers and university computers.
 
@@ -66,13 +100,27 @@ I had got involved with three movements that had pushed up against the limits to
 
 #### A response of sorts
 
-My response was to shift focus on community work and training and documentation work with international networks. Project-based community and communications felt rewarding but the legs of communinty-based adult education were being cut off by the coalition government. Thus it was strategic to I retrained with a masters in Computing and PGCE in Computing at Manchester Met.
+My response was to shift focus on community work and training and documentation work with international networks. Project-based community and communications felt rewarding but the legs of community-based adult education were being cut off by the coalition government.
 
-During my PGCE year I found it impossible to bring in the kind of project based learning techniques to the classroom. I explore some of the challenges I and other educators face in later chapters. I did however manage to create a pilot scheme to teach javascript in playful ways which I trialled in the classroom and wrote up as a dissertation and published the results as part o the Mozilla Teach the Web online resources. I used their Thimble tool. Thimble was an early code playground - define
+My work in for FLOSS Manuals in the arena of Free Culture advocacy, the Open Web and particularly creating resources for Open Video movement lead to partnership work with Mozilla and in particular their work on the Webmaker programme. They had created this thread in partnership with community educators in the US like X and Y.
+https://wiki.mozilla.org/Drumbeat/Hackasaurus/jams
+http://jessicaklein.blogspot.com/2011/04/youth-design-jams-101-building-your.html
 
-It was from this base, and in response to home educators call to enage with parntership work with Manchester Met Uni wit work around learning to code using games that I returned to Mozilla's web resources to discover a javascript library to facilitate game making in the browser. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience.
+This avenue offered a positive way to discuss the politics of independent communicaitons and an empowerment agenda
 
-This shift had been a long time coming. In some ways the interest in young people and family was a positive and strategic shift to align with my new role as a  parent. In other ways the shift to playing and making in a more electronic, de-politicised playground was a retreat from painful memories of loss, betrayal and defeat. This reconciling of these elements and is an on-going process of which this thesis plays a part.    
+Thus it was strategic to I retrained with a masters in Computing and PGCE in Computing at Manchester Met.
+
+The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next].
+
+During my PGCE year I found it challenging to bring in the kind of project based learning techniques to the classroom, a theme explored in this thesis.
+
+I did however manage to create a pilot scheme to teach javascript in playful ways which I trialled in the classroom and wrote up as a dissertation and published the results as part o the Mozilla Teach the Web online resources. I used their Thimble tool. Thimble was an early code playground - define
+
+It was from this base, and in response to home educators call to engage with partnership work with Manchester Met Uni wit work around learning to code using games that I returned to Mozilla's web resources to discover a javascript library to facilitate game making in the browser. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience.
+
+My shift of interest towards young people and family was a positive and strategic shift to align with my new role as a university tutor in education and as a new parent. In other ways the shift to playing and making in a more electronic, de-politicised playground was a retreat from painful memories of loss, betrayal and defeat. The reconciling of these elements and is an on-going process of which this thesis plays a part.    
+
+My study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
 
 
 ## Aligning with other contextual factors
@@ -83,7 +131,7 @@ The potential of digital game making is explored in depth in a review by Kafai a
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
 
-The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next]. While my experience aligned with research which exposes the wider challenges of introducing project approaches in UK secondary schools [cite], my study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
+
 
 
 The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
@@ -126,7 +174,9 @@ These factors have been used by educators and community builders to faciliate x 
 
 ### Skills & STEM pipeline agenda
 
-- Motivation of activity? [pick up from Intro - move entirely to intro ]
+- Motivations of game making activity.
+
+[pick up from Intro - move entirely to intro ]
     - From Kafai's review (not directly) draw on
     - personal
     - more general / social / 21st C, computational fluency
@@ -250,11 +300,21 @@ I also problematise educational projects beyond the sometimes superficial take o
 
 While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
 
-In addition the wider framework of CHAT is optimistic but realistic in the focus on the possibility of change. 
+In addition the wider framework of CHAT is optimistic but realistic in the focus on the possibility of change.
 
 This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
 
-## Outline of the structure of the thesis
+## Summary of the thesis structure
+
+### Research Questions
+
+- What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+<!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
+- How can participants build agency in an evolving community of game makers?
+- How can game design patterns support the development of coding practices with novices?
+
+
+### Chapter outline
 
 As has been outlined in this introduction the a leading thread of the thesis is my desire to better understand my own experience as a facilitator of learners creating media and digital products in relation with existing research.
 
@@ -271,13 +331,13 @@ The literature review begins the exploration of the key themes and threads that 
 - barriers to participation in digital making and pedagogies to create inclusive learning environments
 - key accessible pedagogies to help learning coding for young people
 
-The next chapter outlines the theoretical framework and the key methodologies of this study. I explain how the underlying approach of design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school of activity theory and narrower techniques and terminology of what is termed third generation activity theory (3GAT). In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. This mutually created and emergent nature of the resources and processes that were created and adopted becomes a key theme of the thesis.
+Chapter three outlines the theoretical framework and the key methodologies of this study. I explain how the underlying approach of design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school of activity theory and narrower techniques and terminology of what is termed third generation activity theory (3GAT). In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. This mutually created and emergent nature of the resources and processes that were created and adopted becomes a key theme of the thesis.
 
 In the second part of the chapter, I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras which had been inspired by partnership work between EdLab and the Biosocial Lab. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
 
 The following chapter outlines the learning design that emerged from the research programme.
 
-## Overall key messages & contribution to Knowledge
+### Overall key messages & contribution to Knowledge
 
 This research is valid in the following ways:
 
@@ -288,6 +348,7 @@ This research is valid in the following ways:
 - something about methods using 360 and screen capture?
 
 
-## Link to next chapter
+### Link to next chapter
 
 It is worth noting at this stage that the process of being guided by personal interests, those of participants and creating and designing
+This chapter has explored the context of HE, informal science learning and specifically computer coding and game making. The pedagogies of those areas are explored in the next chapter.  
