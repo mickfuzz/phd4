@@ -103,11 +103,11 @@ title: 2. Literature Review
         learning communities of novice game
         makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
 
-## Research Questions - October 2023
+        ## Research Questions - October 2023
 
-- What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-- How can participants build agency in an evolving community of game makers?
-- How can game design patterns support the development of coding practices with novices?
+        - What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+        - How can participants build agency in an evolving community of game makers?
+        - How can game design patterns support the development of coding practices with novices?
 
 ## Literature Review Introduction
 
@@ -133,10 +133,7 @@ The aims of this literature review:
       - 5th dimension
       - Mantle of the Expert (and drama processes games)
 
-- Pedagogies
-      - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
-      - 5th dimension
-      - Mantle of the Expert (and drama processes games)
+
 
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
 

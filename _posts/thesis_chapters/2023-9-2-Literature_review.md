@@ -89,6 +89,12 @@ title: 2. Literature Review
         learning communities of novice game
         makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
 
+## Research Questions - October 2023
+
+- What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+- How can participants build agency in an evolving community of game makers?
+- How can game design patterns support the development of coding practices with novices?
+
 ## Literature Review Introduction
 
 The aims of this literature review:
@@ -111,6 +117,11 @@ The aims of this literature review:
       - 5th dimension
       - Mantle of the Expert (and drama processes games)
 
+- Pedagogies
+      - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
+      - 5th dimension
+      - Mantle of the Expert (and drama processes games)
+
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
 
 <!-- I've done previous planning here.
@@ -128,11 +139,16 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 
 To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
 
+
+<!-- NOTE - THIS ISN'T REALLY NEEDED NOW - HOW ELSE? -->
+
+
 Because of additional the community focus of the study, this is done in a way which spans different community perspectives / scopes. Namely;
 
-- K12 community of learning focused around curriculum goals and supported by relevant organisations.
-- Professional and enthusiast game making commuity resources and processes
-- Wider pedagogical frameworks which allow practiioners / learners to develop agency in an evolving community
+K12 context focused around curriculum and assessment,
+professional and enthusiast game making communities,
+wider pedagogical frameworks focused on participants to develop agency in an evolving community.
+
 
 OR It may be better to identify types of barriers / obstacles and address pedagogies which address then?
 
@@ -186,17 +202,20 @@ Quote from [@franklin_analysis_2020]
 
 ### Cultural / Identity barriers to participation in ...
 
-EDIT DOWN FIND RECENT EVIDENCE
+**Barriers to participation**
 
-MOVE THIS ?
+Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
+
+The focus of this review is to identify broad streams and currents in research.
+
+
+#### Barrier - Identity and computer cultures
 
 Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
 
 Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
 
-The underlying assumption of the work here is re-examined in a stream on later work by  Kafai and Peppler etc, who after extensive research in this area begin to ask instead how to create new communities rather than aiming to break into existing ones.  
-
- - building new clubhouses is important, creating new learning environments which align with values of participants [@kafai_beyond_2014].
+Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
 <!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
 
@@ -240,7 +259,6 @@ The Girls Creating Games programme which asked similar questions concerning the 
 
 Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
 
-Kafai and Burke also address the  of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
 
 **Race related identities**
