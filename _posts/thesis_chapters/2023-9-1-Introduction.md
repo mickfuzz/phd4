@@ -213,7 +213,7 @@ The context of these communities is important to situate the relevance of this s
 
 Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
 
- The work of Livingstone is foundational in the area of home learning of digial technologies[@livingstone_digital_2018].
+The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
 
 Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
 
@@ -221,20 +221,19 @@ Messing around and affinity groups. Ito's work on  and naturalistic studies of d
 
 Kafai and Burke's extensive work proposes applying the power of Gee's work around the game playing to game making [@kafai_connected_2016, p. 56].
 
-In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences.
-
-
+In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
 
 ### Context of Home Education and family learning
 
 The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
 
-Many professional programmers began with support provided by family. Barron and Livingstone have outlined the advantages and processes involved. There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality.
+Many professional programmers began with support provided by family.
+
+Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality.
 
 However the practical and and cultural difficulties of undertaking a project-based approach withing the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
 
 In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
-
 
 **Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics and motivations of the networks and families that I tapped into.
 
@@ -243,14 +242,15 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 -
 
 
-
 ## The importance of understanding Projects and socio cultural and activist concepts of Activity
 
 In this section I briefly explain CHAT as a suitable choice to explore this research based around a shared project.
 
 I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition.
 
-I then link to more activist conceptions of education and learning as a way to ground the study with my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+In addition the wider framework of CHAT is optimistic but realistic in the focus on the possibility of change. 
 
 This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
 

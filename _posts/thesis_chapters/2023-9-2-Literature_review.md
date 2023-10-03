@@ -548,11 +548,6 @@ The following studies are relevant:
 
 - guided participation framed in media literacy @aarsand_appropriation_2016.
 
-### Online communities and affinity spaces
-
-Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process; I will draw on work on participatory culture (Jenkins, 2009), affinity spaces (Gee, 2004a) and naturalistic studies of digital use and creativity in the home (Itō et al., 2010; Livingstone et al., 2018). Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how they engender a shared discourse and emerging identities .
-
-Kafai and Burke's extensive work proposes applying the power of Gee's work around the game playing to game making [@kafai_connected_2016, p. 56].
 
 
 
