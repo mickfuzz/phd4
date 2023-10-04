@@ -122,6 +122,28 @@ The aims of this literature review:
   - PERHAPS MOVE TO NEXT CHAPTER?
 
 
+
+## Structuring the literature review
+
+<!-- NOTE - Does this need to be explicitly via Sociocultural take -->
+
+To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
+
+
+<!-- NOTE - THIS ISN'T REALLY NEEDED NOW - HOW ELSE? -->
+
+
+Coverage of wider pedagogical frameworks focused on participants to develop agency in an evolving community.
+
+Identify types of barriers / obstacles and address pedagogies which address then?
+
+Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
+
+- K12 context: types of barriers addressed focused around curriculum and assessment, end with analysis of what formal ed often fails to address
+
+- professional and enthusiast game making communities and informal setttings: better to address
+
+
 ## Literature Review overview - structure by hand
 
   <!-- - Design-based & Tinkering / Exploratory - Bevan et al  -->
@@ -148,31 +170,102 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
     - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey -->
 
 
-## Structuring the literature review
-
-<!-- NOTE - Does this need to be explicitly via Sociocultural take -->
-
-To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
-
-
-<!-- NOTE - THIS ISN'T REALLY NEEDED NOW - HOW ELSE? -->
-
-
-Because of additional the community focus of the study, this is done in a way which spans different community perspectives / scopes. Namely;
-
-K12 context focused around curriculum and assessment,
-professional and enthusiast game making communities,
-wider pedagogical frameworks focused on participants to develop agency in an evolving community.
-
-
-OR It may be better to identify types of barriers / obstacles and address pedagogies which address then?
-
 
 
 <!-- now turns to explore game making and digital makSing studies which explore social and community planes either explicitly or implicitly. -->
 
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
+
+## Informal Education Pedagogies
+
+To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
+
+
+
+### Defining and conceptualising informal education
+
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012] [].
+
+Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that informal learning can take place in formal settings and vice-versa.
+
+Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
+#### Conceptualising informal education via foundational theory
+
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+
+<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
+
+- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
+
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995] .
+
+- Rogoff - community of learners and 3 foci as a way to frame this in education
+
+<!--
+// don't focus in on DBR save that... -->
+<!-- NOTE - MOVE TO METHODOLOGY
+### Activity as Unit of Analysis
+Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
+
+The vital role of cultural mediation in development [@cole_beyond_1996-1]
+
+This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
+
+
+#### Informal, participatory, digital and gaming communities
+
+Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
+
+
+
+### Guided participation Rogoff and Communities of Learners
+
+<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
+
+(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
+
+Participation on community activities as a valid approach.
+
+Cultural and social factors are vital to development process even if hidden in as school setting.
+Guided participation as a middle ground between instruction and discovery.
+
+Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
+
+This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
+
+
+
+#### Funds of Knowledge
+
+My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
+
+COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
+The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+
+Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
+- and update outlined here [@rajala_utopian_2023]
+
+
+#### Retro Gaming as a Fund of knowledge - move to intro?
+
+- What is retro gaming? [Nostalgia in Retro Game Design.]
+- Why is it powerful in affect?
+- What potential does that give to family game making?
+
+
 
 ## Start exploring  barriers to participation in digital making
 
@@ -573,93 +666,6 @@ No research for GDP pattern collection for to text code games with for CS or gam
 **Link paragraph to game making pedagogies**
 
 
-## Informal Education Pedagogies
-
-To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
-
-
-
-### Defining and conceptualising informal education
-
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012] [].
-
-Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that informal learning can take place in formal settings and vice-versa.
-
-Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
-
-#### Conceptualising informal education via foundational theory
-
-Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
-
-<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
-
-- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
-
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995] .
-
-- Rogoff - community of learners and 3 foci as a way to frame this in education
-
-<!--
-// don't focus in on DBR save that... -->
-<!-- NOTE - MOVE TO METHODOLOGY
-### Activity as Unit of Analysis
-Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
-
-The vital role of cultural mediation in development [@cole_beyond_1996-1]
-
-This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
-
-
-#### Informal, participatory, digital and gaming communities
-
-Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
-
-
-### Guided participation Rogoff and Communities of Learners
-
-<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
-
-(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
-
-Participation on community activities as a valid approach.
-
-Cultural and social factors are vital to development process even if hidden in as school setting.
-Guided participation as a middle ground between instruction and discovery.
-
-Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
-
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
-
-
-
-#### Funds of Knowledge
-
-My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
-
-COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
-The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
-- and update outlined here [@rajala_utopian_2023]
-
-
-#### Retro Gaming as a Fund of knowledge - move to intro?
-
-- What is retro gaming? [Nostalgia in Retro Game Design.]
-- Why is it powerful in affect?
-- What potential does that give to family game making?
 
 
 ## Relevant case studies in face-to-face context -  Family Making, Ito / Gee etc
