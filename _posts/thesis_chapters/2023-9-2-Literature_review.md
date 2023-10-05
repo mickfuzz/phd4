@@ -139,6 +139,8 @@ Identify types of barriers / obstacles and address pedagogies which address then
 
 Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
 
+- computational thinking vs coding practices: explain why CT not the focus, abstract / concrete apsect. 
+
 - K12 context: types of barriers addressed focused around curriculum and assessment, end with analysis of what formal ed often fails to address
 
 - professional and enthusiast game making communities and informal setttings: better to address
