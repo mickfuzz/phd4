@@ -138,17 +138,16 @@ Because of the community focus of the study, but the relevance of new curriculum
 - Coverage of wider pedagogical frameworks focused on participants to develo-p agency in an evolving community.
 
     - communities of practice - legitimate peripheral participation boundaries and Barriers
-    - community of learner and the methods to expose practice 
+    - community of learner and the methods to expose practice
 
+    <!-- - Note lack of specifics of community-building approaches for game making - so next section will cast net wider for general principles first -->
 
-- Examples informal community creation in practice and research & pedogogies
+- Examples informal community creation in practice and research & pedogogies with young people
 
     - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
     - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
     - 5th dimension
     - Mantle of the Expert (and drama processes games)
-
-
 
 
 - K12 context: types of barriers addressed focused around curriculum and assessment, end with analysis of what formal ed often fails to address
@@ -159,10 +158,9 @@ Because of the community focus of the study, but the relevance of new curriculum
       -hci and affordance theory, technical barriers , solved by design
       - MDA
       - design patterns and gdp collections
+      - game jam
 
-
-  <!-- - Design-based & Tinkering / Exploratory - Bevan et al  -->
-  <!-- - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first -->
+The study then seeks to reconsile some of the different elements above in the context of family / informal ed - 
 
 
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
@@ -170,12 +168,6 @@ Because of the community focus of the study, but the relevance of new curriculum
 <!-- I've done previous planning here.
 chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit review_.docx.md
 -->
-
-<!-- Removed from review_  
-- Visual methods in game making
-    - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey -->
-
-<!-- now turns to explore game making and digital makSing studies which explore social and community planes either explicitly or implicitly. -->
 
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
