@@ -129,12 +129,16 @@ The aims of this literature review:
 
 To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
 
-<!-- NOTE - THIS ISN'T REALLY NEEDED NOW - HOW ELSE? -->
+
+Identify types of barriers / obstacles and address pedagogies which address then?
+
+Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
+
 
 - Coverage of wider pedagogical frameworks focused on participants to develo-p agency in an evolving community.
 
     - communities of practice - legitimate peripheral participation boundaries and Barriers
-    -
+    - community of learner and the methods to expose practice 
 
 
 - Examples informal community creation in practice and research & pedogogies
@@ -145,16 +149,12 @@ To help answer RQ1 and 2, this literature review explores pedagogies and resourc
     - Mantle of the Expert (and drama processes games)
 
 
-Identify types of barriers / obstacles and address pedagogies which address then?
-
-Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
-
 
 
 - K12 context: types of barriers addressed focused around curriculum and assessment, end with analysis of what formal ed often fails to address
-    - computational thinking vs coding practices: explain why CT not the focus, abstract / concrete apsect.
+    - computational thinking vs coding practices: explain why CT not the focus, abstract / concrete aspsect.
 
-    
+
 - professional and enthusiast game making communities and informal setttings: better to address coding practices not
       -hci and affordance theory, technical barriers , solved by design
       - MDA
