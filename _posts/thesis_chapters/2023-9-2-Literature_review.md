@@ -137,6 +137,7 @@ Because of the community focus of the study, but the relevance of new curriculum
 
 - Coverage of wider pedagogical frameworks focused on participants to develo-p agency in an evolving community.
 
+    - what is informal settings / learning?
     - communities of practice - legitimate peripheral participation boundaries and Barriers
     - community of learner and the methods to expose practice
 
@@ -160,7 +161,7 @@ Because of the community focus of the study, but the relevance of new curriculum
       - design patterns and gdp collections
       - game jam
 
-The study then seeks to reconsile some of the different elements above in the context of family / informal ed - 
+The study then seeks to reconsile some of the different elements above in the context of family / informal ed -
 
 
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
