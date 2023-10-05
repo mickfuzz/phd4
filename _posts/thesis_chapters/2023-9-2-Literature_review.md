@@ -182,7 +182,7 @@ To develop these focused professional frameworks of concepts, we now place them 
 Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012] [].
 
 Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that informal learning can take place in formal settings and vice-versa.
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
 
 Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
 
