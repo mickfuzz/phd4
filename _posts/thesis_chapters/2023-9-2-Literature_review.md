@@ -129,37 +129,41 @@ The aims of this literature review:
 
 To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
 
-
 <!-- NOTE - THIS ISN'T REALLY NEEDED NOW - HOW ELSE? -->
 
+- Coverage of wider pedagogical frameworks focused on participants to develo-p agency in an evolving community.
 
-Coverage of wider pedagogical frameworks focused on participants to develop agency in an evolving community.
+    - communities of practice - legitimate peripheral participation boundaries and Barriers
+    -
+
+
+- Examples informal community creation in practice and research & pedogogies
+
+    - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
+    - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
+    - 5th dimension
+    - Mantle of the Expert (and drama processes games)
+
 
 Identify types of barriers / obstacles and address pedagogies which address then?
 
 Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
 
-- computational thinking vs coding practices: explain why CT not the focus, abstract / concrete apsect. 
+
 
 - K12 context: types of barriers addressed focused around curriculum and assessment, end with analysis of what formal ed often fails to address
+    - computational thinking vs coding practices: explain why CT not the focus, abstract / concrete apsect.
 
-- professional and enthusiast game making communities and informal setttings: better to address
+    
+- professional and enthusiast game making communities and informal setttings: better to address coding practices not
+      -hci and affordance theory, technical barriers , solved by design
+      - MDA
+      - design patterns and gdp collections
 
-
-## Literature Review overview - structure by hand
 
   <!-- - Design-based & Tinkering / Exploratory - Bevan et al  -->
   <!-- - Note lack of specifics of community-building approaches - so next section will cast net wider for general principles first -->
 
-- Examples informal community creation in practice and research
-      - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
-      - 5th dimension
-      - Mantle of the Expert (and drama processes games)
-
-- Pedagogies
-      - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
-      - 5th dimension
-      - Mantle of the Expert (and drama processes games)
 
 <!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
 
@@ -171,9 +175,6 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 - Visual methods in game making
     - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey -->
 
-
-
-
 <!-- now turns to explore game making and digital makSing studies which explore social and community planes either explicitly or implicitly. -->
 
 <!-- NOTE - More to include from here.
@@ -182,8 +183,6 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 ## Informal Education Pedagogies
 
 To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
-
-
 
 ### Defining and conceptualising informal education
 
