@@ -1,17 +1,31 @@
 -   [Research Questions - October
     2023](#research-questions---october-2023)
 -   [Literature Review Introduction](#literature-review-introduction)
--   [Literature Review overview - structure by
-    hand](#literature-review-overview---structure-by-hand)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
--   [Start exploring barriers to participation in digital
-    making](#start-exploring-barriers-to-participation-in-digital-making)
--   [Review of relevant barriers emerging in the
-    literature](#review-of-relevant-barriers-emerging-in-the-literature)
+-   [Informal Education Pedagogies](#informal-education-pedagogies)
+    -   [Defining and conceptualising informal
+        education](#defining-and-conceptualising-informal-education)
+        -   [Conceptualising informal education via foundational
+            theory](#conceptualising-informal-education-via-foundational-theory)
+    -   [Communities of Practice](#communities-of-practice)
+        -   [Informal, participatory, digital and gaming
+            communities](#informal-participatory-digital-and-gaming-communities)
+    -   [Guided participation Rogoff and Communities of
+        Learners](#guided-participation-rogoff-and-communities-of-learners)
+    -   [Funds of Knowledge](#funds-of-knowledge)
+        -   [Retro Gaming as a Fund of knowledge - move to
+            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
+    -   [Mantle of the Expert as a processes
+        drama](#mantle-of-the-expert-as-a-processes-drama)
+-   [Review of relevant barriers to participating in coding practices
+    emerging in the
+    literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
     -   [Barrier: Paucity on research on designing for face to face
         learning communities of novice game
         makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
+    -   [Barrier - limited leaner choice in
+        process](#barrier---limited-leaner-choice-in-process)
     -   [Cultural / Identity barriers to participation in
         ...](#cultural-identity-barriers-to-participation-in)
         -   [Barrier - Identity and computer
@@ -57,30 +71,15 @@
             patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
         -   [Using pattern collections and code examples to help
             students.](#using-pattern-collections-and-code-examples-to-help-students.)
--   [Informal Education Pedagogies](#informal-education-pedagogies)
-    -   [Defining and conceptualising informal
-        education](#defining-and-conceptualising-informal-education)
-        -   [Conceptualising informal education via foundational
-            theory](#conceptualising-informal-education-via-foundational-theory)
-        -   [Informal, participatory, digital and gaming
-            communities](#informal-participatory-digital-and-gaming-communities)
-    -   [Guided participation Rogoff and Communities of
-        Learners](#guided-participation-rogoff-and-communities-of-learners)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-        -   [Retro Gaming as a Fund of knowledge - move to
-            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
--   [Relevant case studies in face-to-face context - Family Making, Ito
-    / Gee
-    etc](#relevant-case-studies-in-face-to-face-context---family-making-ito-gee-etc)
-    -   [Participatory Design](#participatory-design)
+-   [Relevant case studies / research in digital making context - Family
+    Making, Ito / Gee etc, 5th
+    Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
     -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
         ?](#family-making---what-in-particular-to-explore)
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
     -   [Game jams & game competitions](#game-jams-game-competitions)
-    -   [Mantle of the Expert (and drama processes
-        games)](#mantle-of-the-expert-and-drama-processes-games)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)
     -   [Tinkering and Maps of learning

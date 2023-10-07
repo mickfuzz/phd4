@@ -9,22 +9,34 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
-
-
 -   [Research Questions - October
     2023](#research-questions---october-2023)
 -   [Literature Review Introduction](#literature-review-introduction)
--   [Literature Review overview - structure by
-    hand](#literature-review-overview---structure-by-hand)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
--   [Start exploring barriers to participation in digital
-    making](#start-exploring-barriers-to-participation-in-digital-making)
--   [Review of relevant barriers emerging in the
-    literature](#review-of-relevant-barriers-emerging-in-the-literature)
+-   [Informal Education Pedagogies](#informal-education-pedagogies)
+    -   [Defining and conceptualising informal
+        education](#defining-and-conceptualising-informal-education)
+        -   [Conceptualising informal education via foundational
+            theory](#conceptualising-informal-education-via-foundational-theory)
+    -   [Communities of Practice](#communities-of-practice)
+        -   [Informal, participatory, digital and gaming
+            communities](#informal-participatory-digital-and-gaming-communities)
+    -   [Guided participation Rogoff and Communities of
+        Learners](#guided-participation-rogoff-and-communities-of-learners)
+    -   [Funds of Knowledge](#funds-of-knowledge)
+        -   [Retro Gaming as a Fund of knowledge - move to
+            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
+    -   [Mantle of the Expert as a processes
+        drama](#mantle-of-the-expert-as-a-processes-drama)
+-   [Review of relevant barriers to participating in coding practices
+    emerging in the
+    literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
     -   [Barrier: Paucity on research on designing for face to face
         learning communities of novice game
         makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
+    -   [Barrier - limited leaner choice in
+        process](#barrier---limited-leaner-choice-in-process)
     -   [Cultural / Identity barriers to participation in
         ...](#cultural-identity-barriers-to-participation-in)
         -   [Barrier - Identity and computer
@@ -70,30 +82,15 @@ title: 2. Literature Review
             patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
         -   [Using pattern collections and code examples to help
             students.](#using-pattern-collections-and-code-examples-to-help-students.)
--   [Informal Education Pedagogies](#informal-education-pedagogies)
-    -   [Defining and conceptualising informal
-        education](#defining-and-conceptualising-informal-education)
-        -   [Conceptualising informal education via foundational
-            theory](#conceptualising-informal-education-via-foundational-theory)
-        -   [Informal, participatory, digital and gaming
-            communities](#informal-participatory-digital-and-gaming-communities)
-    -   [Guided participation Rogoff and Communities of
-        Learners](#guided-participation-rogoff-and-communities-of-learners)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-        -   [Retro Gaming as a Fund of knowledge - move to
-            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
--   [Relevant case studies in face-to-face context - Family Making, Ito
-    / Gee
-    etc](#relevant-case-studies-in-face-to-face-context---family-making-ito-gee-etc)
-    -   [Participatory Design](#participatory-design)
+-   [Relevant case studies / research in digital making context - Family
+    Making, Ito / Gee etc, 5th
+    Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
     -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
         ?](#family-making---what-in-particular-to-explore)
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
     -   [Game jams & game competitions](#game-jams-game-competitions)
-    -   [Mantle of the Expert (and drama processes
-        games)](#mantle-of-the-expert-and-drama-processes-games)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)
     -   [Tinkering and Maps of learning
@@ -208,6 +205,9 @@ The vital role of cultural mediation in development [@cole_beyond_1996-1]
 
 This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
 
+### Communities of Practice
+
+communities of practice - legitimate peripheral participation boundaries and Barriers
 
 #### Informal, participatory, digital and gaming communities
 
@@ -219,8 +219,6 @@ However, the concept has been used to analyse participation in non-formal and fo
 The following studies are relevant:
 
 - guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
 
 
 ### Guided participation Rogoff and Communities of Learners
@@ -240,7 +238,7 @@ This has been applied in various forms, PBL, apprenticeship models, for example 
 
 
 
-#### Funds of Knowledge
+### Funds of Knowledge
 
 My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
 
@@ -260,24 +258,49 @@ Problematising Funds of knowledge and funds of identity which may perpetuate sta
 - What potential does that give to family game making?
 
 
+### Mantle of the Expert as a processes drama
 
-## Start exploring  barriers to participation in digital making
+A way of leveraging some of the processes outline above in a schooling context.
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+
+## Review of relevant barriers to participating in coding practices emerging in the literature
+
+<!-- NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
+CHOOSE CAREFULLY WHERE TO PUT THE RESULTS. -->
+
+
+This section draws on concepts of the introductory section to review existing research on digital making to identify barriers to participation in digital making and in particular coding practices.
 
 <!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
 
 This section then which summarises existing research in this area needs a clear and different focus.
 -->
 
-Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
+The focus of this review is to identify broad streams and currents in research. The next section examines research on pedagogical responses.
 
-The focus of this review is to identify broad streams and currents in research.
-
-In the next chapter the focus here is on practitioner attempts to identify and address barriers to participation in programming .
-
-## Review of relevant barriers   emerging in the literature
-
-NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
-CHOOSE CAREFULLY WHERE TO PUT THE RESULTS.
+Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
 
 #### Barrier: Paucity on research on designing for face to face learning communities of novice game makers
 
@@ -293,7 +316,7 @@ Sharing practice for researchers and practitioners is complicated. The results a
 
 Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
 
-**Tension of leaner choice and direction to learning objectives**
+### Barrier - limited leaner choice in process
 
 Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
 
@@ -662,15 +685,13 @@ No research for GDP pattern collection for to text code games with for CS or gam
 
 
 
-## Relevant case studies in face-to-face context -  Family Making, Ito / Gee etc
+## Relevant case studies / research  in digital making context -  Family Making, Ito / Gee etc, 5th Dimension
 
 Outline case studies of similar work and identify gaps.
 
 Gap in particular exploring support for face-to-face informal communities.
 
-### Participatory Design
 
-Ideally, find a key study to bring in.
 
 
 ### Family Making - WHAT IN PARTICULAR TO EXPLORE ?
@@ -726,29 +747,6 @@ Play testing is the process of involving other participants to try out a prototy
 GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
 
 
-### Mantle of the Expert (and drama processes games)
-
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
-
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
-
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
 
 ### Digital informal / participatory culture and Learning
 
