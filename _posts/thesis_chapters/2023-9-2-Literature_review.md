@@ -305,7 +305,7 @@ Here, the term barrier is used in a general way. In the next chapter it will be 
 
 <!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
 
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with PBL approaches and has a focus on fostering online collaboration and resources sharing.
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing.
 
 Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).
 
