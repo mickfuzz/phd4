@@ -119,7 +119,6 @@ The aims of this literature review:
   - PERHAPS MOVE TO NEXT CHAPTER?
 
 
-
 ## Structuring the literature review
 
 <!-- NOTE - Does this need to be explicitly via Sociocultural take -->
@@ -302,7 +301,7 @@ The focus of this review is to identify broad streams and currents in research. 
 
 Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
 
-#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers
+#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers - MOVE?
 
 <!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
 
