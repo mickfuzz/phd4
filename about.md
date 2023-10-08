@@ -13,4 +13,4 @@ date: 2021-03-26
 
 A place for my PhD writing - and related blog posts.
 
-For help on Writing using github / gitlab I plan upcoming video tutorials. 
+I may use this space to also offer help on writing using github / gitlab. 
