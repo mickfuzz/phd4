@@ -10,7 +10,6 @@ categories: chapter
 title: 3. Methodology
 ---
 
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Theoretical Framework](#theoretical-framework)
     -   [Primary framework Activity
