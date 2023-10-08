@@ -155,7 +155,7 @@ Because of the community focus of the study, but the relevance of new curriculum
       -hci and affordance theory, technical barriers , solved by design
       - MDA
       - design patterns and gdp collections
-      - game jam
+      - game jam, playful approaches, drama games  
 
 The study then seeks to reconsile some of the different elements above in the context of family / informal ed -
 
@@ -746,6 +746,12 @@ Play testing is the process of involving other participants to try out a prototy
 GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
 
 
+Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
+
+The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
+
+
+The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
 
 ### Digital informal / participatory culture and Learning
 
