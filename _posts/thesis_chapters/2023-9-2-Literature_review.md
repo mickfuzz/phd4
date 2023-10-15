@@ -725,23 +725,20 @@ The value of rapid prototyping has been popularised by Agile design techniques a
 
 Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
 
-Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or48 hours. Team events often take place in physical venues which may be part of a wider global Jams Aryaet al., 2013). Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam Eberhardt,2016).
+Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam [@eberhardt_no_2016].
 
-
-
-Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience Eberhardt,2016, p. 3).
+Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience [@eberhardt_no_2016, p. 3].
 
 Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
 
-Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017] (Games for Change, 2017). Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
+Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017]. Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
 
 <!-- These are broken down into; space, goal,components, mechanics and rules.  -->
-
-The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016).
+<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
 
 The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
 
-Play testing is the process of involving other participants to try out a prototype of a game early the creation process Eladhariand Ollila, 2012). It has a particular value in forcing an iterative approach.
+Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
 
 GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
 
@@ -749,7 +746,6 @@ GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
 Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
 
 The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
-
 
 The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
 
@@ -759,14 +755,9 @@ Livingstone
 Sefton green
 ITO and Gee
 
-### Tinkering and Maps of learning Dimensions
+#### Inequality of access to participatory culture communities (Barrier)
 
-To address the play paradox,
-
-
-#### Barrier - Inequality of access to participatory culture communities - PERHAPS REWRITE THIS BASED ON TENSIONS
-
-In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities 2010). Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects Luther et al., 2010).
+In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
 
 On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
 
@@ -781,7 +772,10 @@ EXPLORE RESEARCH HERE.
 
 **Roles and practices to support learners**
 
-The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input, Kirschner et al., 2006; Kollar et al., 2006). I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling
+The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input
+[@kirschner_why_2006; @kollar_collaboration_2006]
+
+I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling
 
 Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home.
 
