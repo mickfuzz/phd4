@@ -297,6 +297,18 @@ In addition the wider framework of CHAT is optimistic but realistic in the focus
 
 This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
 
+
+### Why this study is needed
+
+Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+
+Thus why would this study based on observations of one context be of use?
+Thoughts:  
+  - similar contexts exist 
+  - underlying treads may emerge which may transcend context  
+
+
+
 ## Summary of the thesis structure
 
 ### Research Questions
