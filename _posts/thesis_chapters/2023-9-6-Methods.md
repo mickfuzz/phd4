@@ -9,10 +9,13 @@ layout: post
 categories: chapter
 title: 6. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
-
 -   [Research Questions - June 2023](#research-questions---june-2023)
 -   [Notes on structure](#notes-on-structure)
 -   [Introduction](#introduction)
+-   [Re-examining barriers associated with cultural
+    factors](#re-examining-barriers-associated-with-cultural-factors)
+    -   [Barriers and tensions associated with authenticity of
+        audience](#barriers-and-tensions-associated-with-authenticity-of-audience)
 -   [Exploring the impact of a drama
     processes](#exploring-the-impact-of-a-drama-processes)
     -   [Vignette 4.1.a - Introducing a drama
@@ -34,13 +37,13 @@ title: 6. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
     -   [Concluding remarks on process
         drama](#concluding-remarks-on-process-drama)
 -   [Emerging practices](#emerging-practices)
+    -   [Playtesting](#playtesting)
     -   [Emerging use of narratives and graphics which drawing on home
         funds of
         knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
         -   [Summary: Home Funds and RQs](#summary-home-funds-and-rqs)
-    -   [Playtesting](#playtesting)
-    -   [The development of flexible divisions of
-        labour](#the-development-of-flexible-divisions-of-labour)
+    -   [The development of divisions of
+        labour](#the-development-of-divisions-of-labour)
     -   [Flexible design practices](#flexible-design-practices)
         -   [Supporting Digital/Game
             Jamming](#supporting-digitalgame-jamming)
@@ -49,18 +52,21 @@ title: 6. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
 -   [Discussion](#discussion)
     -   [COMMENTS ON FORMAT OF Discussions /
         Conclusion](#comments-on-format-of-discussions-conclusion)
-    -   [Agency and emerging spaces for community
-        activity](#agency-and-emerging-spaces-for-community-activity)
-        -   [Discussion on authenticity - MOVE OR ALIGN WITH
-            AGENCY](#discussion-on-authenticity---move-or-align-with-agency)
+    -   [Nurturing agency by creating space for emergent
+        practices](#nurturing-agency-by-creating-space-for-emergent-practices)
+    -   [Discussion on authenticity - MOVE OR ALIGN WITH
+        AGENCY](#discussion-on-authenticity---move-or-align-with-agency)
+        -   [Analysis against (and calls to heed) existing design
+            heuristics - AS THIS ADDRESSES GDP TOO PERHAPS MOVE TO GDP
+            CHAPTER OR TO DISCUSSION CHAPTER OR
+            DESIGN](#analysis-against-and-calls-to-heed-existing-design-heuristics---as-this-addresses-gdp-too-perhaps-move-to-gdp-chapter-or-to-discussion-chapter-or-design)
         -   [Positive affective space within a drama
             process](#positive-affective-space-within-a-drama-process)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
         -   [Implications in conceptualisations of forms of
             agency](#implications-in-conceptualisations-of-forms-of-agency)
--   [Conclusion Nurturing agency by creating space for emergent
-    practices](#conclusion-nurturing-agency-by-creating-space-for-emergent-practices)
+-   [Conclusion](#conclusion)
     -   [Transition to next chapter](#transition-to-next-chapter)
 
 <!-- ## Overview in points
@@ -79,21 +85,26 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - How can learners build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
-## Notes on structure
+## Introduction
 
-<!-- COMMENT - While there is an overarching theme of findings surrounding the inclusive methods that are introduce and which emerge, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
+This chapter explores the development of the emerging game making through the lens of the cultural and community activity.
 
-
-DROP? Pivot from planned to emergent? But it's not so neat
-
-**New framing of question for this chapter** - How do participants use the created and emerging cultural tools of this game making program to build agency?
+The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contract, the processes explored in this following section emerged more directly from input from the participants involved.  
 
 
-_Why lead so much on the drama process? How can this be justified?_
+### Notes on structure of the chapter
 
-The drama process is an example of an introduced cultural tool. The process acts as wrapper to several supporting techniques. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
+<!-- COMMENT - While there is an overarching theme of, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
 
-It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
+The chapter addresses research questions one and two. Thus, a guiding direction of this chapter is on how participants use the created and emerging cultural tools of this game making program, particularly in reference to the building of agency?
+
+
+Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
+
+The distinction between planned and emergent activities is of note and bears exploration.
+
+NOTE - HOW AND WHY - Why because this allows a more detailed analyis of different aspects of agency.
+
 
 _How does this fit into other findings chapters?_
 
@@ -104,22 +115,24 @@ Chap 5 - zoom out in scale to main focus of the activity as communicated between
 Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It
 
 
-## Introduction
 
-This chapter explores the development of the emerging game making activity through the lens cultural and community
+The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
 
-In previous chapters I outlined the
- excluding the more specific work on game design patterns which is explored in the following chapter.
+<!-- _Why lead so much on the drama process? How can this be justified?_ -->
 
-The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contract, the processes explored in this following section emerged more directly from input from the participants involved.  
+The drama process is an example of an introduced cultural tool. The process acts as wrapper to several supporting techniques. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
+
+It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
 
 
 
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. The second section examines the impact of core software tools in the initial learning design. Another section explores the community behaviour of the group of game makers and some of the specifics of their design processes.
+Other  section explores the community behaviour of the group of game makers and some of the specifics of their design processes.
 
-he processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; playtesting and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
+The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; play testing and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
 
-In the discussion section, the chapter builds on material explored in this chapter in relation to exiting research to explore the development of agency in this learning design. Particular attention is given to processes which support learners to develop agency in the game making process and the role of different levels of authenticity within these processes.
+In the discussion section, the chapter builds on material explored in this chapter in relation to exiting research to explore the development of agency in this learning design.
+
+Particular attention is given to processes which support learners to develop agency in the game making process and the role of different levels of authenticity within these processes.
 
 
 <!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.
@@ -1025,7 +1038,7 @@ Instead, I propose that the tools, process and the community in this study mutua
 
 There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
 
-NOTE - Explore jamming in relation to lit review concepts and data of the chapter. 
+NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
 
 **Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
 
