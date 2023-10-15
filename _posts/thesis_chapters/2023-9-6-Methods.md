@@ -1265,7 +1265,7 @@ Thus, I propose that key areas of the learning design should be more open in str
 
 
 
-### Discussion on authenticity - MOVE OR ALIGN WITH AGENCY
+### Discussion on dimensions of authenticity in in relation to Agency
 <!-- #### Authenticity of Problem / Project
 Well established in PBL.
 Here the challenge is make a game to share, thus well aligned. -->
@@ -1277,6 +1277,8 @@ Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warn
 Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
 
 CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
+
+In chapter four the use of coding tools and the impact on instrumental agency was explored. 
 
 <!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
 
@@ -1300,8 +1302,6 @@ Educators should be aware of this tension and help resolve it by developing thei
 
 While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
 CROSSREFF -  list the benefits here.
-
-
 
 
 #### Positive affective space within a drama process
