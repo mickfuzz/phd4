@@ -719,7 +719,8 @@ _posts/thesis_chapters/planning/lit review/game making/game making environments 
 
 Hackathons, Game Jams and accelerated production methods
 
-Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains Johnson and Robinson, 2014; Kienzler and Fontanesi, 2017).
+Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains  [@johnson_civic_2014; @kienzler_learning_2017]
+
 
 The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
 
@@ -741,7 +742,6 @@ The Moveable Game Jam can be situated on the playful side of the spectrum in tha
 Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
 
 GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
-
 
 Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
 
