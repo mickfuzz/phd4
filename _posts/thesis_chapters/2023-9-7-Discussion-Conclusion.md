@@ -115,10 +115,11 @@ And if so are they distinct from existing frameworks explored in literature revi
 - Regular informal feedback and chances to discuss evolving designs
 
 
-### Agency, choice and practicalities 
+### Agency, choice and practicalities
 
 In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
 
+In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
 
 ### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
 
@@ -134,6 +135,8 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 - developing agency through celebration of different game maker styles
 - authenticity of tool use, especially docs and access to Community
 - authenticity of audience - and role of drama to facilitate reflection
+
+This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point. 
 
 
 #### Game design to understanding games as a design artefact for empowerment purposes - PERHAPS GOOD FOR CONCLUSION.
