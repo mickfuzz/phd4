@@ -1026,7 +1026,10 @@ In a closer review of key literature claims of of the value for participants of 
 
 While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
 
-This section explores the process of jamming in the context of game making and proposes that it extends to other areas of digital making.
+This section explores the process of jamming in the context of game making. While the processes identified are often improvised, there is a group element of the process where makers pick up techniques from other makers in the group. I propose the value of facilitators noticing and nurturing potentially productive practices.
+
+I propose that this process can have value in other areas of digital making.
+
 
 Flexible design practices are often present in recorded data. Younger participants in particular developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed rapid, responsive creativity. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about with the capability of the tools which spurs creativity. The joint jamming created two different soundtracks. This sparks a new proposal to incorporate different soundtracks for different levels. Pairs often adopted a similar spirit of improvisaion. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
 
@@ -1278,7 +1281,7 @@ Authentic tools in settings where students may find their novice skills lacking 
 
 CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
 
-In chapter four the use of coding tools and the impact on instrumental agency was explored. 
+In chapter four the use of coding tools and the impact on instrumental agency was explored.
 
 <!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
 
