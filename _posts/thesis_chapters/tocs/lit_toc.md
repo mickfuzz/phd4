@@ -22,8 +22,8 @@
     emerging in the
     literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
     -   [Barrier: Paucity on research on designing for face to face
-        learning communities of novice game
-        makers](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers)
+        learning communities of novice game makers -
+        MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move)
     -   [Barrier - limited leaner choice in
         process](#barrier---limited-leaner-choice-in-process)
     -   [Cultural / Identity barriers to participation in
@@ -82,10 +82,7 @@
     -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)
-    -   [Tinkering and Maps of learning
-        Dimensions](#tinkering-and-maps-of-learning-dimensions)
-        -   [Barrier - Inequality of access to participatory culture
-            communities - PERHAPS REWRITE THIS BASED ON
-            TENSIONS](#barrier---inequality-of-access-to-participatory-culture-communities---perhaps-rewrite-this-based-on-tensions)
+        -   [Inequality of access to participatory culture communities
+            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
     -   [Barrier - lack of knowledge of cultural
         processes](#barrier---lack-of-knowledge-of-cultural-processes)
