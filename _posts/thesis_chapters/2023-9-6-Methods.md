@@ -115,7 +115,6 @@ Chap 5 - zoom out in scale to main focus of the activity as communicated between
 Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It
 
 
-
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
 
 <!-- _Why lead so much on the drama process? How can this be justified?_ -->
@@ -123,8 +122,6 @@ The first section examines the impact of a process drama with an aim to establis
 The drama process is an example of an introduced cultural tool. The process acts as wrapper to several supporting techniques. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
 
 It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
-
-
 
 Other  section explores the community behaviour of the group of game makers and some of the specifics of their design processes.
 
@@ -158,9 +155,9 @@ In gdp chapter 5 - more detail on the social interaction in a good level of deta
 
 This section explores the obstacles in practice tensions in more depth to give context to looking at impact of subsequent interventions.
 
-### Barriers and tensions associated with authenticity of audience
+### Barriers and tensions associated with authenticity of audience - MOVE PERHAPS TO PLAYTESTING
 
-**Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**.
+#### Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience
 
 Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
 
@@ -182,7 +179,7 @@ As a designer I identified this tactic as a way to address learner disengagement
 
 Similarly, in my journal notes, I reflect on the difficulty of interrupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
 
-**Restricted vs extended community - e.g. why not scratch with online community? - MOVE**
+#### Restricted vs extended community - e.g. why not scratch with online community? - MOVE TO DISCUSSION ON PLAYTESTING?
 
 Beyond technical considerations regarding scratch and use of physics etc,
 Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009].
@@ -211,9 +208,12 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 
 
-### Barriers of identity hardcore coding & disfunctional group work
+### Barriers of identity hardcore coding & dysfunctional group work - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION? 
 
 NOTE DUPLICATION WITH DESIGN CHAPTER.
+
+In chapter 4 I surfaced the conflict experiences by participants in phase one of the process where an alienation from the culture of coding prevented participation. In this section I explore the barriers in more depth
+
 
 <!-- **Participants stuck / demotivated : scope of ambition to high,  clashes of identity not hard core coders, no on-going playtesting, collaboration groups too big (transition),**
 
@@ -230,7 +230,7 @@ I was struck that his incident happened during a session where I had not played 
 
 While members of this family were able to engage in planing via sketching on paper and in creating pixel art, they were reliant on others to implement code changes. This was in part due to improvised group roles.
 
-The freedom of choice and imagination allowed by desining on paper and via pixel art created compounding tensions. One crisis point involved a frustration of a child who was not able to implement a feature they wanted to add to the game next:
+The freedom of choice and imagination allowed by designing on paper and via pixel art created compounding tensions. One crisis point involved a frustration of a child who was not able to implement a feature they wanted to add to the game next:
 
 A 3d bee design of one participant which happened when there was no framework.
 
@@ -255,7 +255,7 @@ One way of navigating this was via exit and certain families did drop out at dif
 
 **Encouraging peer learning with flexible working practices**
 
-CHECK FOR DUPLICATION WITH FOLLOWING CHAPTER
+CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
 
 This tensions was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
 
@@ -301,6 +301,9 @@ As an example some layer created impossible or overly easy game levels. They app
 The conflict comprised of compounding factors and resulted in a lack of desire to complete coding activities before fully engaging with them.
 
 In the initial stages some families struggled to reconcile the obstacles presented but their active participation in warm up games shows ....
+
+While many families talked of the challenge of coding, one family in particular were s
+In reflection on the session that ended their participation
 
 INSERT SOME ANALYSIS HERE BASED ON AGENCY AND AFFORDENCES OFFERED
 
