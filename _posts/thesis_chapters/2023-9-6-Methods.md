@@ -211,6 +211,102 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 
 
+### Barriers of identity hardcore coding & disfunctional group work
+
+NOTE DUPLICATION WITH DESIGN CHAPTER.
+
+<!-- **Participants stuck / demotivated : scope of ambition to high,  clashes of identity not hard core coders, no on-going playtesting, collaboration groups too big (transition),**
+
+For some families and individual participants there were conflicts to do with a sense of anxiety and alienation from the group coding environment and associated peer working dynamics.
+
+One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
+
+The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
+
+I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
+
+
+**Gulfs between desires and reality**
+
+While members of this family were able to engage in planing via sketching on paper and in creating pixel art, they were reliant on others to implement code changes. This was in part due to improvised group roles.
+
+The freedom of choice and imagination allowed by desining on paper and via pixel art created compounding tensions. One crisis point involved a frustration of a child who was not able to implement a feature they wanted to add to the game next:
+
+A 3d bee design of one participant which happened when there was no framework.
+
+While personal expression can facilitates engagement and motivation it can lead to conflict if desired changes are not realistic.
+
+In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made as a two dimensional (2D) platformer game.
+
+<!-- Based on my previous teaching experience, analysis of literature and knowledge of platform games, I pre-prepared a set of coded example and tutorials to implement a range of game design patterns. -->
+
+The incident lead me to greater reflection on ongoing measures needed to prevent participant drop out for due to cultural tensions and negative affect to the working community. These include:
+
+-   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
+-   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
+-   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
+
+
+#### Navigating the conflict
+
+**Via exit**
+
+One way of navigating this was via exit and certain families did drop out at different phases.
+
+**Encouraging peer learning with flexible working practices**
+
+CHECK FOR DUPLICATION WITH FOLLOWING CHAPTER
+
+This tensions was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
+
+The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
+
+Thus in the next iteration, rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
+
+These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
+
+The fruits of this freedom of participation are explored in chapter five.
+
+
+**A game encouraging maker / player types**
+
+My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
+
+In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored in the literature review [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
+
+<!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
+
+This line of thinking developed from a warm-up activity trialled in P3 were participants took the Bartle test (what kind of game player are you).  
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
+
+The process was adapted so players moved
+to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
+
+The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+As an example some layer created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+**Narrative summary of conflict - TRANSITION TO DRAMA SCENARIO**
+
+The conflict comprised of compounding factors and resulted in a lack of desire to complete coding activities before fully engaging with them.
+
+In the initial stages some families struggled to reconcile the obstacles presented but their active participation in warm up games shows ....
+
+INSERT SOME ANALYSIS HERE BASED ON AGENCY AND AFFORDENCES OFFERED
+
+
+
+
 ## Exploring the impact of a drama processes
 
 The introduction of a drama process was introduced in response to a the barriers to participation caused by not identifying with the culture of coding or gaming. This section describes the addition ot the intervention and explores its value as a pedagogical tool to seed game coding practices and to develop learner agency.
