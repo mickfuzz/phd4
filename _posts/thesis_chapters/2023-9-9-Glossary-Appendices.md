@@ -14,7 +14,14 @@ title: Glossary & Appendices
 
 NOTE THIS COULD MAKE UP PART OF THE LITERATURE REVIEW AS A MORE CONCISE WAY TO COVER A LOT OF GROUND - AND BOOKMARKED BY A JUSTIFICATION - THE COMPLEXITY IS IN THE MIX OF CONCEPTS AND IN LATER CHAPTERS.
 
+PERHAPS ORGANISE BY CHAPTER?
+
 Or perhaps group terms by theme, include references in each description with examples and characteristics. Then have a short complex commentary at the end of each section.  
+
+
+### Chapter four
+
+**Code syntax errors:** errors to do with the grammar of the code.
 
 ### Pedagogies and Design Concepts
 

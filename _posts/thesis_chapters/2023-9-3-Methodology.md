@@ -517,6 +517,31 @@ In addition the concept of diversion from the primary task are relevant to the m
 <!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
 
 
+## Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
+
+
+In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
+
+In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
+
+Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
+
+While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework
+
+NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
+
+On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
+
+In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
+
+Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
+
+<!-- (Relational agency?) -->
+
+In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
+
+
+
 ## Data Gathering and Preparation
 
 ### Aligning data gathering and analysis with socio cultural approach
