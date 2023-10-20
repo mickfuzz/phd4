@@ -5,7 +5,19 @@
 -   [Re-examining barriers associated with cultural
     factors](#re-examining-barriers-associated-with-cultural-factors)
     -   [Barriers and tensions associated with authenticity of
-        audience](#barriers-and-tensions-associated-with-authenticity-of-audience)
+        audience - MOVE PERHAPS TO
+        PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
+        -   [Learners may not find coding a project a motivating project
+            if it is only a private activity with no authentic
+            audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience)
+        -   [Restricted vs extended community - e.g. why not scratch
+            with online community? - MOVE TO DISCUSSION ON
+            PLAYTESTING?](#restricted-vs-extended-community---e.g.-why-not-scratch-with-online-community---move-to-discussion-on-playtesting)
+    -   [Barriers of identity hardcore coding & dysfunctional group
+        work - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS
+        BASIS FOR
+        DISCUSSION?](#barriers-of-identity-hardcore-coding-dysfunctional-group-work---really-compress-unless-data-becomes-present---use-as-basis-for-discussion)
+        -   [Navigating the conflict](#navigating-the-conflict)
 -   [Exploring the impact of a drama
     processes](#exploring-the-impact-of-a-drama-processes)
     -   [Vignette 4.1.a - Introducing a drama

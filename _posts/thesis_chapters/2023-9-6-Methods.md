@@ -9,13 +9,27 @@ layout: post
 categories: chapter
 title: 6. Seeding and Nurturing Game Making Communities to Facilitate Learner Agency
 ---
+
 -   [Research Questions - June 2023](#research-questions---june-2023)
--   [Notes on structure](#notes-on-structure)
 -   [Introduction](#introduction)
+    -   [Notes on structure of the
+        chapter](#notes-on-structure-of-the-chapter)
 -   [Re-examining barriers associated with cultural
     factors](#re-examining-barriers-associated-with-cultural-factors)
     -   [Barriers and tensions associated with authenticity of
-        audience](#barriers-and-tensions-associated-with-authenticity-of-audience)
+        audience - MOVE PERHAPS TO
+        PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
+        -   [Learners may not find coding a project a motivating project
+            if it is only a private activity with no authentic
+            audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience)
+        -   [Restricted vs extended community - e.g. why not scratch
+            with online community? - MOVE TO DISCUSSION ON
+            PLAYTESTING?](#restricted-vs-extended-community---e.g.-why-not-scratch-with-online-community---move-to-discussion-on-playtesting)
+    -   [Barriers of identity hardcore coding & dysfunctional group
+        work - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS
+        BASIS FOR
+        DISCUSSION?](#barriers-of-identity-hardcore-coding-dysfunctional-group-work---really-compress-unless-data-becomes-present---use-as-basis-for-discussion)
+        -   [Navigating the conflict](#navigating-the-conflict)
 -   [Exploring the impact of a drama
     processes](#exploring-the-impact-of-a-drama-processes)
     -   [Vignette 4.1.a - Introducing a drama
@@ -54,12 +68,8 @@ title: 6. Seeding and Nurturing Game Making Communities to Facilitate Learner Ag
         Conclusion](#comments-on-format-of-discussions-conclusion)
     -   [Nurturing agency by creating space for emergent
         practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-    -   [Discussion on authenticity - MOVE OR ALIGN WITH
-        AGENCY](#discussion-on-authenticity---move-or-align-with-agency)
-        -   [Analysis against (and calls to heed) existing design
-            heuristics - AS THIS ADDRESSES GDP TOO PERHAPS MOVE TO GDP
-            CHAPTER OR TO DISCUSSION CHAPTER OR
-            DESIGN](#analysis-against-and-calls-to-heed-existing-design-heuristics---as-this-addresses-gdp-too-perhaps-move-to-gdp-chapter-or-to-discussion-chapter-or-design)
+    -   [Discussion on dimensions of authenticity in in relation to
+        Agency](#discussion-on-dimensions-of-authenticity-in-in-relation-to-agency)
         -   [Positive affective space within a drama
             process](#positive-affective-space-within-a-drama-process)
         -   [Extending the metaphor - anchoring in sheltered
@@ -208,7 +218,7 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 
 
-### Barriers of identity hardcore coding & dysfunctional group work - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION? 
+### Barriers of identity hardcore coding & dysfunctional group work - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION?
 
 NOTE DUPLICATION WITH DESIGN CHAPTER.
 

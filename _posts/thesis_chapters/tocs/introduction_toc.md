@@ -27,6 +27,7 @@
 -   [The importance of understanding Projects and socio cultural and
     activist concepts of
     Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
+    -   [Why this study is needed](#why-this-study-is-needed)
 -   [Summary of the thesis structure](#summary-of-the-thesis-structure)
     -   [Research Questions](#research-questions)
     -   [Chapter outline](#chapter-outline)
