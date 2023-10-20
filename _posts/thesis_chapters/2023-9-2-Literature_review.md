@@ -280,70 +280,7 @@ Existing research shows value in STEM education to address barriers associated w
 
 My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
 
-
-## Review of relevant barriers to participating in coding practices emerging in the literature
-
-<!-- NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
-CHOOSE CAREFULLY WHERE TO PUT THE RESULTS. -->
-
-
-This section draws on concepts of the introductory section to review existing research on digital making to identify barriers to participation in digital making and in particular coding practices.
-
-<!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
-
-This section then which summarises existing research in this area needs a clear and different focus.
--->
-
-The focus of this review is to identify broad streams and currents in research. The next section examines research on pedagogical responses.
-
-Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
-
-#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers - MOVE?
-
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
-
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing.
-
-Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).
-
-However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
-
-Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.  
-
-Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
-
-### Barrier - limited leaner choice in process
-
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
-
-  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
-
-Quote from [@franklin_analysis_2020]
-
-
-### Cultural / Identity barriers to participation in ...
-
-**Barriers to participation**
-
-Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
-
-The focus of this review is to identify broad streams and currents in research.
-
-
-#### Barrier - Identity and computer cultures
-
-Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
-
-Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
-
-Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
-
-<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
-
-When faced with choice learners are sometimes unsure how to start creating.
-Design scaffolds have been created to support this. -->
-
-### Studies with pedagogies addressing barriers to do with identity and computer cultures
+## Studies with pedagogies addressing barriers to do with identity and computer cultures
 
 **Studies exploring identity and barriers to participation**
 
@@ -398,37 +335,6 @@ Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_lear
 
 Shift to other tactics like Family Connected Learning Roque.
 
-### Barriers - Unsuitable technical tools and support documentation
-
-The approach of computer coding languages has changed and improved. Those dedicated for new learners.
-Lgo,
-
-Over generations of
-
-Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
-
- - Block coding vs text coding, syntax
- - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
- - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
-
-### Barrier - unfamiliarity with support practices
-
-While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
-
-
-
-
- <!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
- High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
- Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
- We added a fourth principle to emphasize the equally important social dimension of construction tools:11
-
- Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
-
-
- Computing syntax
- Lack of knowledge of what to design..
-  which they call “sandbox games,” that integrates the worlds"
 
 
 ## Pedagogies from coding for learning community - K12 focused

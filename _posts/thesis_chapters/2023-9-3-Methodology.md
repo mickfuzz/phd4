@@ -35,14 +35,24 @@ title: 3. Methodology
     -   [On double stimulation and
         agency](#on-double-stimulation-and-agency)
         -   [On affordances and anchors](#on-affordances-and-anchors)
--   [DBR and formative
-    interventions.](#dbr-and-formative-interventions.)
-    -   [Agreeing terminology](#agreeing-terminology)
+-   [DBR and formative interventions - MOVE UP
+    ?](#dbr-and-formative-interventions---move-up)
     -   [Design-based research and formative intervention studies within
         educational
         field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-    -   [Exploring specific techniques of formative
-        interventions](#exploring-specific-techniques-of-formative-interventions)
+    -   [Early limits of DBR addressed by expansive learning - and
+        formative
+        interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
+    -   [Exploring specific techniques of formative interventions - DROP
+        FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION?
+        FIND MORE DIRECT PARALLELS? 5D FOR
+        EXAMPLE](#exploring-specific-techniques-of-formative-interventions---drop-for-a-more-personal-take-so-comparative-to-this-intervention-find-more-direct-parallels-5d-for-example)
+-   [Agreeing terminology](#agreeing-terminology)
+    -   [Overall process DBR or CHAT or
+        Fomative](#overall-process-dbr-or-chat-or-fomative)
+    -   [Disambiguating terminology - Conflicts, tensions,
+        contradictions,
+        dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
 -   [Data Gathering and Preparation](#data-gathering-and-preparation)
     -   [Aligning data gathering and analysis with socio cultural
         approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
@@ -68,11 +78,11 @@ title: 3. Methodology
     sources](#detailed-transcription-of-video-sources)
     -   [Transcription/description of
         data](#transcriptiondescription-of-data)
+        -   [Grades of video data
+            analysis](#grades-of-video-data-analysis)
         -   [Justification of selecting sessions and sections for more
             detailed
             analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-        -   [Grades of video data
-            analysis](#grades-of-video-data-analysis)
         -   [Incorporating gesture and wider movement in
             analysis](#incorporating-gesture-and-wider-movement-in-analysis)
         -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
@@ -105,9 +115,6 @@ title: 3. Methodology
     -   [What research questions are answered by what data gathering and
         analysis - and described in what
         chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
-    -   [RQ1](#rq1)
-    -   [RQ2](#rq2)
-    -   [RQ3](#rq3)
 -   [Discussion on Methodology](#discussion-on-methodology)
     -   [Discussion](#discussion)
     -   [Authenticity - creating value](#authenticity---creating-value)
@@ -413,11 +420,8 @@ My own research in game making is an experimental approach to create a new learn
 MOVE UP - MERGE
 I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
 
-#### Agreeing terminology
 
-Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
 
-Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
 
 ### Design-based research and formative intervention studies within educational field
 
@@ -517,7 +521,17 @@ In addition the concept of diversion from the primary task are relevant to the m
 <!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
 
 
-## Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
+
+## Agreeing terminology
+
+### Overall process DBR or CHAT or Fomative
+
+Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
+
+Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
+
+
+### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
 
 
 In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.

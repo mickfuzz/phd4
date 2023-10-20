@@ -23,14 +23,24 @@
     -   [On double stimulation and
         agency](#on-double-stimulation-and-agency)
         -   [On affordances and anchors](#on-affordances-and-anchors)
--   [DBR and formative
-    interventions.](#dbr-and-formative-interventions.)
-    -   [Agreeing terminology](#agreeing-terminology)
+-   [DBR and formative interventions - MOVE UP
+    ?](#dbr-and-formative-interventions---move-up)
     -   [Design-based research and formative intervention studies within
         educational
         field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-    -   [Exploring specific techniques of formative
-        interventions](#exploring-specific-techniques-of-formative-interventions)
+    -   [Early limits of DBR addressed by expansive learning - and
+        formative
+        interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
+    -   [Exploring specific techniques of formative interventions - DROP
+        FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION?
+        FIND MORE DIRECT PARALLELS? 5D FOR
+        EXAMPLE](#exploring-specific-techniques-of-formative-interventions---drop-for-a-more-personal-take-so-comparative-to-this-intervention-find-more-direct-parallels-5d-for-example)
+-   [Agreeing terminology](#agreeing-terminology)
+    -   [Overall process DBR or CHAT or
+        Fomative](#overall-process-dbr-or-chat-or-fomative)
+    -   [Disambiguating terminology - Conflicts, tensions,
+        contradictions,
+        dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
 -   [Data Gathering and Preparation](#data-gathering-and-preparation)
     -   [Aligning data gathering and analysis with socio cultural
         approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
@@ -56,11 +66,11 @@
     sources](#detailed-transcription-of-video-sources)
     -   [Transcription/description of
         data](#transcriptiondescription-of-data)
+        -   [Grades of video data
+            analysis](#grades-of-video-data-analysis)
         -   [Justification of selecting sessions and sections for more
             detailed
             analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-        -   [Grades of video data
-            analysis](#grades-of-video-data-analysis)
         -   [Incorporating gesture and wider movement in
             analysis](#incorporating-gesture-and-wider-movement-in-analysis)
         -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
@@ -93,9 +103,6 @@
     -   [What research questions are answered by what data gathering and
         analysis - and described in what
         chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
-    -   [RQ1](#rq1)
-    -   [RQ2](#rq2)
-    -   [RQ3](#rq3)
 -   [Discussion on Methodology](#discussion-on-methodology)
     -   [Discussion](#discussion)
     -   [Authenticity - creating value](#authenticity---creating-value)
