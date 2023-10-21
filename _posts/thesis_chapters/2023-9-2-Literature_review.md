@@ -128,7 +128,7 @@ Identify types of barriers / obstacles and address pedagogies which address then
 Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
 
 
-- Coverage of wider pedagogical frameworks focused on participants to develo-p agency in an evolving community.
+- Coverage of wider pedagogical frameworks focused on participants to develop agency in an evolving community.
 
     - what is informal settings / learning?
     - communities of practice - legitimate peripheral participation boundaries and Barriers
@@ -170,9 +170,19 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 
 To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
 
+### The role of Agency in Informal Pedagogies
+
+### Defining Agency in this study
+
+Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
+
+Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes the agency of non-human actors; and authorial agency which involves agentic changes to the learning environment.
+
+Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
+
 ### Defining and conceptualising informal education
 
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012] [].
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
 
 Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
 Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
@@ -611,6 +621,30 @@ In particular st
 <!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
 
 Games are funds of knowledge
+
+
+### Mozilla - Teach the Web
+
+
+Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike. A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
+
+ <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
+- web literacy - narrower
+- webmaker - and more specific affordances of key web based coding and exploring tools -->
+
+
+Javascript is an authentic language, core to modern web pages and applications. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+
+I contributed to the Mozilla teach the web programme by writing a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].  
+
+#### Phaser.js
+
+While the Webmaker program was discontinued and the end of a funding cycle, ongoing core work of Mozilla to provide resources for webdevelopers. One strand of this is game development using javascript  https://developer.mozilla.org/en-US/docs/Games
+
+Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
+
+
+
 
 ### Game jams & game competitions
 

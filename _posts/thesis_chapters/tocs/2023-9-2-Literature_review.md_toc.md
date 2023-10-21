@@ -4,6 +4,9 @@
 -   [Structuring the literature
     review](#structuring-the-literature-review)
 -   [Informal Education Pedagogies](#informal-education-pedagogies)
+    -   [The role of Agency in Informal
+        Pedagogies](#the-role-of-agency-in-informal-pedagogies)
+    -   [Defining Agency in this study](#defining-agency-in-this-study)
     -   [Defining and conceptualising informal
         education](#defining-and-conceptualising-informal-education)
         -   [Conceptualising informal education via foundational
