@@ -100,7 +100,7 @@ title: 2. Literature Review
 
 ## Research Questions - October 2023
 
-- What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+- What pedagogical tools and processes are available to support novices to overcome barriers to authentic game coding and design?
 - How can participants build agency in an evolving community of game makers?
 - How can game design patterns support the development of coding practices with novices?
 
@@ -122,6 +122,7 @@ The aims of this literature review:
 
 To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
 
+_Specifically in RQ1 terms  - what does authentic mean. A bit of what does agency mean which is followed in chapter three._ 
 
 Identify types of barriers / obstacles and address pedagogies which address then?
 

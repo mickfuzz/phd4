@@ -24,18 +24,7 @@ The working draft of this chapter now merges a proposed discussion chapter with 
 
 
 
-#### Metaphors around creating space
 
-The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter. The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
-
-The process of Playtesting and working towards an external audience.
-
-Some of the processes for building community were more mutual - collecting requirements
-
-Creating documentation
-Other processess
-
-Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
 
 
@@ -136,8 +125,20 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 - authenticity of tool use, especially docs and access to Community
 - authenticity of audience - and role of drama to facilitate reflection
 
-This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point. 
+This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
 
+#### Metaphors around creating space
+
+The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter. The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
+
+The process of Playtesting and working towards an external audience.
+
+Some of the processes for building community were more mutual - collecting requirements
+
+Creating documentation
+Other processess
+
+Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
 #### Game design to understanding games as a design artefact for empowerment purposes - PERHAPS GOOD FOR CONCLUSION.
 
