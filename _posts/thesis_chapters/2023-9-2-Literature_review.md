@@ -122,7 +122,7 @@ The aims of this literature review:
 
 To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
 
-_Specifically in RQ1 terms  - what does authentic mean. A bit of what does agency mean which is followed in chapter three._ 
+_Specifically in RQ1 terms  - what does authentic mean. A bit of what does agency mean which is followed in chapter three._
 
 Identify types of barriers / obstacles and address pedagogies which address then?
 
@@ -643,6 +643,34 @@ I contributed to the Mozilla teach the web programme by writing a course called 
 While the Webmaker program was discontinued and the end of a funding cycle, ongoing core work of Mozilla to provide resources for webdevelopers. One strand of this is game development using javascript  https://developer.mozilla.org/en-US/docs/Games
 
 Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
+
+
+#### Tensions surrounding authenticity of tool use- move to LIT REVIEW / END DISCUSSION?
+
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter - e.g.  literacy, maths, science and history -  and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
+
+This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
+
+PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL  The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning [find support]. One advatange of working with digital tools is that if issues of complexity and cost can be addressed access to laptops and the internet allow learners to use very similar production tools to professionals.
+
+
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
+
+
+<!-- - audience
+- tools
+- processes (professional and peers ?)
+- shared concepts - link to GDPs as a big one -->
+  <!-- An unusual approach so why?
+  - involvement with mozilla / teach the web
+  - authenticity - link between developer community and education, global in scope
+  - can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
+  other unexpected Benefits
+  - could bring in other web creation resource, piskel, -->
+
+Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
+
+<!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
 
 
 
