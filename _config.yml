@@ -16,7 +16,7 @@ url: https://mickfuzz.github.io
 
 
 baseurl: /phd4
-imgurl: http://mickfuzz.github.io/phd4
+imgurl: https://github.com/mickfuzz/phd4/blob/master/
 show_excerpts: true
 #theme: jekyll-theme-minimal
 
