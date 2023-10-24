@@ -1049,6 +1049,10 @@ The source of Pa's hesitancy to share more is not clear. However her willingness
 
 In another example, Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
 
+<!-- The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".  -->
+
+
+
 <!-- NOTE
 NARRATIVE / drama IN PREVIOUS CHAPTER?
 how do these two sections work together? remove this one?

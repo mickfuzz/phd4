@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 3. Methodology
 ---
-
 -   [Research Questions - May 2023](#research-questions---may-2023)
 -   [Theoretical Framework](#theoretical-framework)
     -   [Primary framework Activity
@@ -125,7 +124,6 @@ title: 3. Methodology
 -   [Transition to next Chapter - About the specifics of mutual
     evolution of Learning
     DESIGN](#transition-to-next-chapter---about-the-specifics-of-mutual-evolution-of-learning-design)
-
 
 <!-- Also see this writing.
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->

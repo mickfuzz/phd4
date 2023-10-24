@@ -1,6 +1,4 @@
 -   [Outline notes](#outline-notes)
-    -   [Metaphors around creating
-        space](#metaphors-around-creating-space)
     -   [Initial Discussion Outline](#initial-discussion-outline)
     -   [Initial Conclusion Outline](#initial-conclusion-outline)
 -   [3M through the lens of agency](#m-through-the-lens-of-agency)
@@ -14,6 +12,8 @@
     -   [PROPOSAL Coding impact on design/ processes on learner agency -
         boiled down
         -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+        -   [Metaphors around creating
+            space](#metaphors-around-creating-space)
         -   [Game design to understanding games as a design artefact for
             empowerment purposes - PERHAPS GOOD FOR
             CONCLUSION.](#game-design-to-understanding-games-as-a-design-artefact-for-empowerment-purposes---perhaps-good-for-conclusion.)

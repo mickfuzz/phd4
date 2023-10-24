@@ -66,6 +66,11 @@
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
+    -   [Mozilla - Teach the Web](#mozilla---teach-the-web)
+        -   [Phaser.js](#phaser.js)
+        -   [Tensions surrounding authenticity of tool use- move to LIT
+            REVIEW / END
+            DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
     -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)

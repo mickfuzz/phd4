@@ -9,12 +9,16 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
+
 -   [Research Questions - October
     2023](#research-questions---october-2023)
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
 -   [Informal Education Pedagogies](#informal-education-pedagogies)
+    -   [The role of Agency in Informal
+        Pedagogies](#the-role-of-agency-in-informal-pedagogies)
+    -   [Defining Agency in this study](#defining-agency-in-this-study)
     -   [Defining and conceptualising informal
         education](#defining-and-conceptualising-informal-education)
         -   [Conceptualising informal education via foundational
@@ -29,25 +33,9 @@ title: 2. Literature Review
             intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Mantle of the Expert as a processes
         drama](#mantle-of-the-expert-as-a-processes-drama)
--   [Review of relevant barriers to participating in coding practices
-    emerging in the
-    literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
-    -   [Barrier: Paucity on research on designing for face to face
-        learning communities of novice game makers -
-        MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move)
-    -   [Barrier - limited leaner choice in
-        process](#barrier---limited-leaner-choice-in-process)
-    -   [Cultural / Identity barriers to participation in
-        ...](#cultural-identity-barriers-to-participation-in)
-        -   [Barrier - Identity and computer
-            cultures](#barrier---identity-and-computer-cultures)
-    -   [Studies with pedagogies addressing barriers to do with identity
-        and computer
-        cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
-    -   [Barriers - Unsuitable technical tools and support
-        documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
-    -   [Barrier - unfamiliarity with support
-        practices](#barrier---unfamiliarity-with-support-practices)
+-   [Studies with pedagogies addressing barriers to do with identity and
+    computer
+    cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
 -   [Pedagogies from coding for learning community - K12
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
@@ -90,6 +78,11 @@ title: 2. Literature Review
     -   [Game playing and making communities - community activities
         around the game Gee /
         Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
+    -   [Mozilla - Teach the Web](#mozilla---teach-the-web)
+        -   [Phaser.js](#phaser.js)
+        -   [Tensions surrounding authenticity of tool use- move to LIT
+            REVIEW / END
+            DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
     -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)
