@@ -363,7 +363,26 @@ chapters/planning/lit review/game making/overview of gamemaking studies part one
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
-### Tutorials and code examples
+
+### Definitions of Computational Thinking
+
+The promotion of Computational Thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking (CT). The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
+
+Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
+
+- _Computational concepts_ include sequences,
+loops, parallelism, events, conditionals, operators, and data; thus representing the mechanics of coding structures.
+- _Computational practices_ include debugging, iteration, reuse and remixing, and abstracting and taking a modular approach.
+- _Computational perspectives_ such as expressing, questioning connecting were observed in the behaviour of learners completing their coding designs.
+
+This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
+
+This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such, it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
+
+
+
+
+### Instruction-based tutorials and code examples
 
 Tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
 
@@ -371,6 +390,7 @@ Code snippets are often interwoven with text explaining the function of the code
 
 The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
 
+Critique of instruction... 
 
 
 ### Use Modify Create
@@ -392,6 +412,7 @@ A study involving five hundred 9 to 14 year-olds found that the UMC approach can
 Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
 
 Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. Instead here CT concepts are heuristics developed from concrete experience.  
+This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT.
 
 Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process. For a deeper take on constructionism - see - NOTE FIND GOOD SUMMARY.
 
@@ -399,7 +420,7 @@ He argued that by working with microworlds, students could engage in hands-on an
 
 The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1].
 
-Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
+Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
 
 ### Half-baked games as Microworlds
 
