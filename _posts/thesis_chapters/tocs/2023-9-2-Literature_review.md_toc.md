@@ -28,12 +28,14 @@
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
         adapt](#also-see-this-writing-and-adapt)
-    -   [Tutorials and code examples](#tutorials-and-code-examples)
-    -   [UMC, Mircroworlds and Half-Baked
-        Games](#umc-mircroworlds-and-half-baked-games)
-        -   [Use Modify Create](#use-modify-create)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
+    -   [Definitions of Computational
+        Thinking](#definitions-of-computational-thinking)
+    -   [Instruction-based tutorials and code
+        examples](#instruction-based-tutorials-and-code-examples)
+    -   [Use Modify Create](#use-modify-create)
+    -   [Microworlds](#microworlds)
+    -   [Half-baked games as
+        Microworlds](#half-baked-games-as-microworlds)
     -   [PRIMM](#primm)
     -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
     -   [Pair programming & social/collaborative
