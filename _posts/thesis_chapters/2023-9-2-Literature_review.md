@@ -382,19 +382,29 @@ This broader, process driven definition of CT has been used and adapted by many 
 
 
 
-### Instruction-based tutorials and code examples
+### Exploring the territory between instruction-based tutorials and unguided approaches
 
-Tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
+The process of learning technical skills through trial and error is something that many self-driven learners are familiar with. The desire to complete a particular project and self-motivated access to the resources to achieve it is the stuff of computing mythology, recalling the kind of garage innovation that created Apple computer and early hacker computing culture [@fuller_garage_2015]. However, this is not an ideal pedagogy. Even with access to resources and critiques of pure discovery learning are also valid [@mayer_should_2004].
+
+On the other end of the spectrum, tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
 
 Code snippets are often interwoven with text explaining the function of the code constructions.
 
 The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
 
-Critique of instruction... 
+Critique of instruction...
+
+
+
+
 
 
 ### Use Modify Create
-The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety surrounding the difficulty of coding games. It comes from the desire to be able to integrate game making and robotics to support computational thinking and draws upon grounded game making studies [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]
+
+
+The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games.
+
+UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014].
 
 The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
 
@@ -405,6 +415,38 @@ The model advocates the remixing of existing games to act as a scaffold to build
 **Create:** After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
 
 A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed the UMC approach as they had more choice and agency in the process. This is supported by other research which compared UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students using UMC had more time to play around with code, they were able to add their own personal touches and that this ownership over the code sustained their continued engagement.  
+
+While the scope of the study is limited, observations support motivation of UMC that this pattern of creation maintains higher level of engagement through reducing technical barriers to participation, and affording greater sense of learner's ownership over end project through greater choice over the final outcome.
+
+**Research on UMC which develops learner choice**
+
+<!-- NOTE - This may be moved to design chapter -->
+
+UMC has been developed to be end with scaffolded set of choices.
+In a study where students use a block based language to develop simulations - the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1; @lytle_use_2019]
+
+- Scaffold Students and Teachers- Providing the necessary programming blocks students need to complete a choice
+- Differentiate Choices by Difficulty -create choice systems that have varying difficulty
+- Create Choices that Show Visible and Immediate Changes
+- Make things Complex, not Complicated
+- Draw from Student Desires - students will engage more with the material, feeling like the creations are their own.
+
+
+
+
+<!--
+  - Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice ala a Par-son’s Problem greatly reduces cognitive load, especially in activitieswhere lots of choices means lots of blocks. Similarly, giving teachers a “Cheat Sheet" of answers for each choice, scaffolds their abilityto act as a facilitator and debugger.
+
+  Differentiate Choices by Difficulty- This time, challenge came from adding morec hoices, but each choice was relatively the samedifficulty. In the future, we wish to create choice systems that havevarying difficulty to give targeted tasks for each student skill level.
+
+- Create Choices that Show Visible Change
+  - Prioritize choicesthat produce immediate changes in the run of the simulation (e.g. anew animal appearing in the environment).Create Choices that Promote Content Inquiry- Our decisionto primarily focus on adding more animals came from the fact thateach new animal made the Food Web more complex.
+
+  - Make things Complex, not Complicated- As demonstrated in Figure 2, each animal had relatively the same set of code blocks. In this way, a lot of choices were available without adding many additional necessary blocks for students.
+
+- Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
+
+
 
 ### Microworlds
 <!-- (generated by chat gpt) -->
@@ -644,17 +686,14 @@ It is of value to explore the community aspect...
 
 In particular st
 
-###  Game playing and making communities - community activities around the game Gee / Ito
 
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
+### Mozilla, Webmaking and code playgrounds
 
-Games are funds of knowledge
+Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
 
+#### Webmaking
 
-### Mozilla - Teach the Web
-
-
-Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike. A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
+A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
 
  <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
 - web literacy - narrower
@@ -665,41 +704,20 @@ Javascript is an authentic language, core to modern web pages and applications. 
 
 I contributed to the Mozilla teach the web programme by writing a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].  
 
+#### Code playgrounds
+
+Scratch is a tool which could be considered a code playground.
+
+#### Other online asset creation tools
+
+There are other ways to create assets online. Piskel is a pixel graphics editor, audio creation of assets. These tools are provided by a mix of enthusiast coders and communites of game makers. ### Mozilla, Webmaking and code playgrounds
+
+
 #### Phaser.js
 
 While the Webmaker program was discontinued and the end of a funding cycle, ongoing core work of Mozilla to provide resources for webdevelopers. One strand of this is game development using javascript  https://developer.mozilla.org/en-US/docs/Games
 
 Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
-
-
-#### Tensions surrounding authenticity of tool use- move to LIT REVIEW / END DISCUSSION?
-
-Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter - e.g.  literacy, maths, science and history -  and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
-
-This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
-
-PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL  The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning [find support]. One advatange of working with digital tools is that if issues of complexity and cost can be addressed access to laptops and the internet allow learners to use very similar production tools to professionals.
-
-
-**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
-
-
-<!-- - audience
-- tools
-- processes (professional and peers ?)
-- shared concepts - link to GDPs as a big one -->
-  <!-- An unusual approach so why?
-  - involvement with mozilla / teach the web
-  - authenticity - link between developer community and education, global in scope
-  - can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
-  other unexpected Benefits
-  - could bring in other web creation resource, piskel, -->
-
-Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
-
-<!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
-
-
 
 
 ### Game jams & game competitions
@@ -742,11 +760,26 @@ The area of improvisation is under explored in game jam context compared to that
 
 The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
 
+
+
 ### Digital informal / participatory culture and Learning
 
 Livingstone
 Sefton green
 ITO and Gee
+
+ community activities around the game Gee / Ito
+
+<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
+
+Games are funds of knowledge
+
+
+## Discussion
+
+
+
+
 
 #### Inequality of access to participatory culture communities (Barrier)
 
@@ -775,27 +808,29 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
 
-**Developing UMC - adding the "Choose"**
+### Tensions surrounding authenticity of tool use- move to LIT REVIEW / END DISCUSSION?
 
-<!-- NOTE - This may be moved to design chapter -->
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter - e.g.  literacy, maths, science and history -  and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
 
-UMC has been developed to be end with scaffolded set of choices.
-In a study where students use a block based language to develop simulations - the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1]
+This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
 
-- Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice
-- Differentiate Choices by Difficulty -create choice systems that have varying difficulty
-- Create Choices that Show Visible and Immediate Changes
-- Make things Complex, not Complicated
-- Draw from Student Desires - students will engage morewith the material, feeling like the creations are their own.
+PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL  The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning [find support]. One advatange of working with digital tools is that if issues of complexity and cost can be addressed access to laptops and the internet allow learners to use very similar production tools to professionals.
 
-<!--
-  - Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice ala a Par-son’s Problem greatly reduces cognitive load, especially in activitieswhere lots of choices means lots of blocks. Similarly, giving teachers a “Cheat Sheet" of answers for each choice, scaffolds their abilityto act as a facilitator and debugger.
 
-  Differentiate Choices by Difficulty- This time, challenge came from adding morec hoices, but each choice was relatively the samedifficulty. In the future, we wish to create choice systems that havevarying difficulty to give targeted tasks for each student skill level.
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
 
-- Create Choices that Show Visible Change
-  - Prioritize choicesthat produce immediate changes in the run of the simulation (e.g. anew animal appearing in the environment).Create Choices that Promote Content Inquiry- Our decisionto primarily focus on adding more animals came from the fact thateach new animal made the Food Web more complex.
 
-  - Make things Complex, not Complicated- As demonstrated in Figure 2, each animal had relatively the same set of code blocks. In this way, a lot of choices were available without adding many additional necessary blocks for students.
+<!-- - audience
+- tools
+- processes (professional and peers ?)
+- shared concepts - link to GDPs as a big one -->
+  <!-- An unusual approach so why?
+  - involvement with mozilla / teach the web
+  - authenticity - link between developer community and education, global in scope
+  - can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
+  other unexpected Benefits
+  - could bring in other web creation resource, piskel, -->
 
-- Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
+Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
+
+<!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
