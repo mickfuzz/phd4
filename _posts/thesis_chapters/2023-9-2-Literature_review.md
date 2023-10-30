@@ -40,12 +40,15 @@ title: 2. Literature Review
     focused](#pedagogies-from-coding-for-learning-community---k12-focused)
     -   [Also See this writing and
         adapt](#also-see-this-writing-and-adapt)
-    -   [Tutorials and code examples](#tutorials-and-code-examples)
-    -   [UMC, Mircroworlds and Half-Baked
-        Games](#umc-mircroworlds-and-half-baked-games)
-        -   [Use Modify Create](#use-modify-create)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
+    -   [Definitions of Computational
+        Thinking](#definitions-of-computational-thinking)
+    -   [Exploring the territory between instruction-based tutorials and
+        unguided
+        approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
+    -   [Use Modify Create](#use-modify-create)
+    -   [Microworlds](#microworlds)
+    -   [Half-baked games as
+        Microworlds](#half-baked-games-as-microworlds)
     -   [PRIMM](#primm)
     -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
     -   [Pair programming & social/collaborative
@@ -75,21 +78,26 @@ title: 2. Literature Review
     Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
     -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
         ?](#family-making---what-in-particular-to-explore)
-    -   [Game playing and making communities - community activities
-        around the game Gee /
-        Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
-    -   [Mozilla - Teach the Web](#mozilla---teach-the-web)
+    -   [Mozilla, Webmaking and code
+        playgrounds](#mozilla-webmaking-and-code-playgrounds)
+        -   [Webmaking](#webmaking)
+        -   [Code playgrounds](#code-playgrounds)
+        -   [Other online asset creation
+            tools](#other-online-asset-creation-tools)
         -   [Phaser.js](#phaser.js)
-        -   [Tensions surrounding authenticity of tool use- move to LIT
-            REVIEW / END
-            DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
+        -   [Summary of authenticity- COMMENT OR
+            MOVE](#summary-of-authenticity--comment-or-move)
     -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
+-   [Discussion](#discussion)
+    -   [Inequality of access to participatory culture communities
+        (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
     -   [Barrier - lack of knowledge of cultural
         processes](#barrier---lack-of-knowledge-of-cultural-processes)
+    -   [Tensions surrounding authenticity of tool use- move to LIT
+        REVIEW / END
+        DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
 
 ## Research Questions - October 2023
 
@@ -689,8 +697,6 @@ In particular st
 
 ### Mozilla, Webmaking and code playgrounds
 
-Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
-
 #### Webmaking
 
 A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
@@ -699,19 +705,19 @@ A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of 
 - web literacy - narrower
 - webmaker - and more specific affordances of key web based coding and exploring tools -->
 
-
-Javascript is an authentic language, core to modern web pages and applications. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+Javascript is an authentic language, core to modern web pages and applications.  
 
 I contributed to the Mozilla teach the web programme by writing a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].  
 
 #### Code playgrounds
 
-Scratch is a tool which could be considered a code playground.
+Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+
+However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
 
 #### Other online asset creation tools
 
 There are other ways to create assets online. Piskel is a pixel graphics editor, audio creation of assets. These tools are provided by a mix of enthusiast coders and communites of game makers. ### Mozilla, Webmaking and code playgrounds
-
 
 #### Phaser.js
 
@@ -719,6 +725,9 @@ While the Webmaker program was discontinued and the end of a funding cycle, ongo
 
 Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
 
+#### Summary of authenticity- COMMENT OR MOVE
+
+Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
 
 ### Game jams & game competitions
 

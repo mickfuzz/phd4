@@ -30,8 +30,9 @@
         adapt](#also-see-this-writing-and-adapt)
     -   [Definitions of Computational
         Thinking](#definitions-of-computational-thinking)
-    -   [Instruction-based tutorials and code
-        examples](#instruction-based-tutorials-and-code-examples)
+    -   [Exploring the territory between instruction-based tutorials and
+        unguided
+        approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
     -   [Use Modify Create](#use-modify-create)
     -   [Microworlds](#microworlds)
     -   [Half-baked games as
@@ -65,18 +66,23 @@
     Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
     -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
         ?](#family-making---what-in-particular-to-explore)
-    -   [Game playing and making communities - community activities
-        around the game Gee /
-        Ito](#game-playing-and-making-communities---community-activities-around-the-game-gee-ito)
-    -   [Mozilla - Teach the Web](#mozilla---teach-the-web)
+    -   [Mozilla, Webmaking and code
+        playgrounds](#mozilla-webmaking-and-code-playgrounds)
+        -   [Webmaking](#webmaking)
+        -   [Code playgrounds](#code-playgrounds)
+        -   [Other online asset creation
+            tools](#other-online-asset-creation-tools)
         -   [Phaser.js](#phaser.js)
-        -   [Tensions surrounding authenticity of tool use- move to LIT
-            REVIEW / END
-            DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
+        -   [Summary of authenticity- COMMENT OR
+            MOVE](#summary-of-authenticity--comment-or-move)
     -   [Game jams & game competitions](#game-jams-game-competitions)
     -   [Digital informal / participatory culture and
         Learning](#digital-informal-participatory-culture-and-learning)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
+-   [Discussion](#discussion)
+    -   [Inequality of access to participatory culture communities
+        (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
     -   [Barrier - lack of knowledge of cultural
         processes](#barrier---lack-of-knowledge-of-cultural-processes)
+    -   [Tensions surrounding authenticity of tool use- move to LIT
+        REVIEW / END
+        DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
