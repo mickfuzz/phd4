@@ -54,7 +54,7 @@ Javascript library:
 
 
 
-## Appendices
+## Appendices (numbered by chapter?)
 
 <!-- ## Tables
 
@@ -74,6 +74,11 @@ Full print out of the design pattern cards  - x 4 as samples.
 
 
 
+#### Appendix 4.x  - Feedback from P1 participants (extracts)
+
+This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
+
+Find extracts from - https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
 
 #### Appendix 4.x  - Addition to vignette 4.1 - documentation in drama
 
