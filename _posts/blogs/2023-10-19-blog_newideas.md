@@ -23,7 +23,15 @@ In the glitch environment code errors were highlighted in with red dot in the in
 
 The next chapter explores different types of errors and participant responses to them.
 
+### Meeting yourself in the middle
 
+<!-- Removed from docs part of design chapter.  -->
+
+However, as these tutorials took as a starting point the code of the starting template and did not attempt to explain that, they  did not however resolve the issue of participants wanting resources that explained these core constructs and underlying concepts.
+
+Thus I created opening chapter of the online manual which were more traditional in format and contained foundational knowledge. I wondered how to best frame the relationship between these chapters and the self-contained ones described above. In practice, as user had started with a template game that is already up and running, to use this resources which would have involved backtracking.
+
+I named this concept _meeting yourself in the middle_ to represent the possibility of retracing the process of learning from first principles. The key concept here was that after making the game from a template, these foundational chapters resources are available at any time to explain all underlying concepts that the starting template had initially abstracted away from the participants. Thus the process would have value to reinforce computing concepts present in the design. Narratively these chapters form the equivalent of a prequel for readers interested in the full story.
 
 
 [^1]: https://glitch-game-makers-manual.glitch.me/
