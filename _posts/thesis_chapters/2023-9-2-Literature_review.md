@@ -470,7 +470,16 @@ Papert's concept of microworlds refers to simplified computer simulations or mod
 Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. Instead here CT concepts are heuristics developed from concrete experience.  
 This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT.
 
-Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process. For a deeper take on constructionism - see - NOTE FIND GOOD SUMMARY.
+MOVE TO LR
+There is  research on computing projects in the work of Papert [-@papert_mindstorms_1980] on Mircoworlds and subsequent research on programming tools in the constructionist tradition  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
+
+
+
+
+Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process. 
+
+While, examples of a Microworlds are diverse [@rieber_microworlds_2004], a Turtle drawing world using  LOGO can be used here as an example. In the Mathland of the turtle which speaks only LOGO, children are drawn to speak LOGO to progress. The affordances of the physical turtle provide visible motivation.
+
 
 He argued that by working with microworlds, students could engage in hands-on and minds-on learning, which would help them to develop a deeper and more meaningful understanding of the concepts they were studying.
 
