@@ -74,6 +74,24 @@ Full print out of the design pattern cards  - x 4 as samples.
 
 
 
+#### Appendix 4.x  - Summary of the tools and processes used in P2 and P3.
+
+Table - or short entries with screenshots. 
+
+Phaser 2.6.2 javascript library
+Glitch code playground
+Incomplete game template
+Print out of cards with simple coding missions
+Online graphics editor Piskel.
+Audio editors, audacity,
+Updated incomplete game template
+Piskel online graphics editor
+Step by step tutorials on FLOSS manuals
+Drama scenario
+Interactive chat page in glitch
+
+
+
 #### Appendix 4.x  - Feedback from P1 participants (extracts)
 
 This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
