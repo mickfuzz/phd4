@@ -76,7 +76,7 @@ Full print out of the design pattern cards  - x 4 as samples.
 
 #### Appendix 4.x  - Summary of the tools and processes used in P2 and P3.
 
-Table - or short entries with screenshots. 
+Table - or short entries with screenshots.
 
 Phaser 2.6.2 javascript library
 Glitch code playground
@@ -89,6 +89,29 @@ Piskel online graphics editor
 Step by step tutorials on FLOSS manuals
 Drama scenario
 Interactive chat page in glitch
+
+
+
+#### Appendix 4.x  - Dialogue of use of physical maps
+
+MOVE TO APPENDIX  - PULL OUT TWO PERHAPS.
+
+| **Transcript**| **Description**|
+|----------------|------------------|
+|Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  | Mick cuts a out an image from [^4] representing a GDP of key and doors.   |
+|  Olivia(c): So I've gone really far away on the map. <br/>   |  Olivia(c) quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker.  |
+| Mick(f): Yeah.  |  Mick smiles too whilst walking to get and glue another cut out. |
+|  Olivia(c): Heh!  | Olivia walks back to her mother and stretches out her arms to her mother who picks her up. Olivia whispers in her mother's ear  |
+| Mick(f): There should be some blue tack if you are struggling to make your character stand up.   | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island.  Roxanne(p) notices Agnes's(c) falling character and passes the child blue tack to help.  |
+| Rozanne(p): Oh that's something you were wanting to do |  Roxanne points at a cut out that Mick has just stuck down |
+|  Richie(c): I like the idea of making the enemies move |  |
+|Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter? |   |   
+|  Richie(c): No. |   |
+|  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.  | Roxanne  waves sheet and smiles at Mick and laughs.   |
+|  Mick(f): Great that's good. We've got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move  when it moves around the screen.  | Mick moves hands when saying make your character move, indicating animation.   |
+|  Mick(f): Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that.  | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate "you guys".  
+|
+
 
 
 
