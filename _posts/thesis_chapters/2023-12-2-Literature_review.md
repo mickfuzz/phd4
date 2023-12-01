@@ -476,7 +476,7 @@ There is  research on computing projects in the work of Papert [-@papert_mindsto
 
 
 
-Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process. 
+Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process.
 
 While, examples of a Microworlds are diverse [@rieber_microworlds_2004], a Turtle drawing world using  LOGO can be used here as an example. In the Mathland of the turtle which speaks only LOGO, children are drawn to speak LOGO to progress. The affordances of the physical turtle provide visible motivation.
 
@@ -696,8 +696,25 @@ Outline case studies of similar work and identify gaps.
 
 Gap in particular exploring support for face-to-face informal communities.
 
+### Specialist coding tools and computational kits
+
+There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
+
+This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
+
+Scratch and GSM merit particular examination as mini-case studies. The  
+
+- Scratch and community element.
+- Remix as a feature: [@amanullah_evaluating_2019]
+- Online log in
+- library of assets to speed up creation
+- In built asset authoring tools.
+
+Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interst to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges. 
 
 
+
+NOTE - referenced in design chapter - the alignment with the use of code playground and template.
 
 ### Family Making - WHAT IN PARTICULAR TO EXPLORE ?
 
