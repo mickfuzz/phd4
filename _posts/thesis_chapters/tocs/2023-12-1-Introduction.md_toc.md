@@ -31,6 +31,8 @@
 -   [Review of relevant barriers to participating in coding practices
     emerging in the
     literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+    -   [Barrier: Difficulties in learning to
+        program](#barrier-difficulties-in-learning-to-program)
     -   [Barrier: Paucity on research on designing for face to face
         learning communities of novice game makers -
         MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move)

@@ -6,6 +6,11 @@
     -   [Technical Terms](#technical-terms)
 -   [Appendices (numbered by chapter?)](#appendices-numbered-by-chapter)
 -   [Transcript Excerpts](#transcript-excerpts)
+    -   [Appendix 4.x - Summary of the tools and processes used in P2
+        and
+        P3.](#appendix-4.x---summary-of-the-tools-and-processes-used-in-p2-and-p3.)
+    -   [Appendix 4.x - Dialogue of use of physical
+        maps](#appendix-4.x---dialogue-of-use-of-physical-maps)
     -   [Appendix 4.x - Feedback from P1 participants
         (extracts)](#appendix-4.x---feedback-from-p1-participants-extracts)
     -   [Appendix 4.x - Addition to vignette 4.1 - documentation in

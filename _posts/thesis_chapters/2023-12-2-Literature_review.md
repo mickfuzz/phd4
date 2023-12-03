@@ -491,7 +491,7 @@ Today, microworlds are used in a variety of educational settings, from primary s
 
 The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
 
-Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction. 
+Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
 
 ### Half-baked games as Microworlds
 
@@ -751,7 +751,14 @@ I contributed to the Mozilla teach the web programme by writing a course called 
 
 Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
 
-However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
+MOVE TO LR.
+The process of running web code can be complicated by setting up a server environment locally to test and then finding a live webserver and the complexity of transferring files to the server via FTP/SSH processes. . Code playground allow users to circumvent such problems. While originally designed more for problem solving, a service more recent code playgrounds provide is to act as a more permanent host for web projects.  
+
+In their brand style and selected  picks of projects, many code playgrounds celebrate and encourage a playful spirit of creativity and sharing.
+
+<!-- NOTE  - I loved FTP and feel nostalgic? perhaps rfer back to that in conclusion? -->
+
+<!-- DROPPED -  There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter. -->
 
 #### Other online asset creation tools
 

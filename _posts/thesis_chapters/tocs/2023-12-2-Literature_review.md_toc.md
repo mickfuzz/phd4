@@ -1,5 +1,6 @@
 -   [Research Questions - October
     2023](#research-questions---october-2023)
+-   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
@@ -34,7 +35,8 @@
         unguided
         approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
     -   [Use Modify Create](#use-modify-create)
-    -   [Microworlds](#microworlds)
+    -   [Microworlds and constructionist design
+        principles](#microworlds-and-constructionist-design-principles)
     -   [Half-baked games as
         Microworlds](#half-baked-games-as-microworlds)
     -   [PRIMM](#primm)
@@ -64,6 +66,8 @@
 -   [Relevant case studies / research in digital making context - Family
     Making, Ito / Gee etc, 5th
     Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+    -   [Specialist coding tools and computational
+        kits](#specialist-coding-tools-and-computational-kits)
     -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
         ?](#family-making---what-in-particular-to-explore)
     -   [Mozilla, Webmaking and code
