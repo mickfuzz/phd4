@@ -326,6 +326,21 @@ The focus of this review is to identify broad streams and currents in research. 
 
 Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
 
+
+#### Barrier: Difficulties in learning to program
+
+Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
+
+    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
+
+In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
+
+More literature which examines the complexity of language and development environments should be found here.
+
+Complexity of syntax and problem of leading with syntax [@gomes2007learning]
+
+Issues of needing levels of abstraction in learning programming [@gomes2007learning].
+
 #### Barrier: Paucity on research on designing for face to face learning communities of novice game makers - MOVE?
 
 <!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
