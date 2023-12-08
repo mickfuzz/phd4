@@ -267,6 +267,39 @@ Da: It’s not a bad starting idea is it?
 Te: I suppose make a new one (begins the process of remixing game from the template)
 
 
+### Appendix 4.R.x - Framework to support game analysis via game elements
+
+Include also the powerpoint sheet or link to it.
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+--
+As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
+
+**SPACE:** Where the game takes place.
+**GOAL:** What is the objective of the game? What are you trying to do?
+**COMPONENTS:** What are all the objects or actors in the game?
+**MECHANICS:** What actions take place in the game. What are the verbs involved?
+**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
+
+Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
+--
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+
+### Appendix 4.R.x - sketching towards a map to help navigation.
+
+In trying to organise and represent code examples to participants in a logical way, I experimented with different categories and themes to contains the emerging game elements. I also explored the concept of mapping the different challenges by difficulty on a map via structuring via concentric rings. An example of the kind of grouping sketch used is included below as Figure 4.x.  
+
+![Scan of Journal Sketch of early attempt at dividing features by type and difficulty](./Pictures/pattern_types_sketch.png){width=85%}
+
+_Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type and difficulty - Dated 11.3.2019_
+
+The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
+
+
+
 ## Extracts from evaluation and Journal Notes
 
 Evaluation of Phase 1.
