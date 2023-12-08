@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title:  5. The Use of Gameplay Design Patterns "It’s like a project in itself, really"
 ---
-
 -   [Chapter outline](#chapter-outline)
 -   [On GDP as a germ-cell and unit of
     analysis](#on-gdp-as-a-germ-cell-and-unit-of-analysis)
@@ -18,32 +17,34 @@ title:  5. The Use of Gameplay Design Patterns "It’s like a project in itself,
         A](#descriptive-commentary-on-vignette-a)
 -   [Observations and analysis of use of Game Design Patterns by
     participants](#observations-and-analysis-of-use-of-game-design-patterns-by-participants)
+-   [Personal Dimension](#personal-dimension)
     -   [GDPs used to explore computational, design and systems
         concepts](#gdps-used-to-explore-computational-design-and-systems-concepts)
+-   [Guided Particpation](#guided-particpation)
     -   [GDPs used to scaffold ideation
         processes](#gdps-used-to-scaffold-ideation-processes)
-        -   [GDPs used to facilitate prioritisation in the design
-            process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
+        -   [GDPs as used by participants in their prioritisation in the
+            design
+            process](#gdps-as-used-by-participants-in-their-prioritisation-in-the-design-process)
     -   [GDPs can aid the use of documentation and
         resources](#gdps-can-aid-the-use-of-documentation-and-resources)
         -   [GDPs offer the potential to assist project navigation,
             acting as a framework for code examples and step-by-step
             tutorials](#gdps-offer-the-potential-to-assist-project-navigation-acting-as-a-framework-for-code-examples-and-step-by-step-tutorials)
-        -   [GDPs used to nurture tactical responses to errors and
-            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
     -   [GDPs aiding the process of division of
         labour](#gdps-aiding-the-process-of-division-of-labour)
     -   [GDP driving adoption of emerging technical
         processes](#gdp-driving-adoption-of-emerging-technical-processes)
-        -   [Code patching process using GDPs as a
-            base](#code-patching-process-using-gdps-as-a-base)
+        -   [GDPs used to nurture tactical responses to errors and
+            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
+        -   [Use of GDPs to support debugging and the product revision
+            process - EDIT DOWN AND
+            MOVE](#use-of-gdps-to-support-debugging-and-the-product-revision-process---edit-down-and-move)
         -   [Other examples of GDP driving adoption of technical
             processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
     -   [Repeated implementations of GDP developing fluency of coding
         practices](#repeated-implementations-of-gdp-developing-fluency-of-coding-practices)
-    -   [Use of GDPs to support debugging and the product revision
-        process - EDIT DOWN AND
-        MOVE](#use-of-gdps-to-support-debugging-and-the-product-revision-process---edit-down-and-move)
+-   [Cultural Dimension](#cultural-dimension)
     -   [GDPs can encourage learners to design for
         others](#gdps-can-encourage-learners-to-design-for-others)
     -   [The propagation of use of GDPs through
@@ -610,68 +611,6 @@ NOTE THIS HAS BEEN REMOVED
 
 This section examines the use of GDPs to facilitate guided participation via interpersonal interactions in game making. Guided participation in this context involved, guidance on organising design activities, various forms of problem solving and help to shift design perspectives. While the primary source of material is from pair interactions between children and parents, at times peer interaction between non-pairs developed into guidance. For example, in the in the example above where Te provides assistance for Ch1 in adding levels to his game. -->
 
-#### GDPs used to nurture tactical responses to errors and blockages
-
-In critique of online tutorials researchers note  few provide common errors[@kim_pedagogical_2017]. This lack of problem solving techniques communicated in online tutorials may addressed through use of GDPs.  
-
-NOTE - rewrite the below highlighting the possibility of highlighting different possible errors and responses helped by the high level of context present in each
-
- How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
-
- Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
-
- More research would be welcome on how to help learners pick up these understandings.
- Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
-
- Question - do more useful / less de-motivating errors result from remixing and game patching?
-
- Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
-
- For example,  on into the detail and types or errors.  These include:
-
-  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
-  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
-  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
-
-
- Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
-
- <!-- ### On different kinds of snags / blockages
-
- PERHAPS MOVE BACK TO THE GDP CHAPTER IF SPACE?
-
- #### On Debugging and Embracing Different Types of Errors
-
- In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
-
- Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error. I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
-
- For example,  on into the detail and types or errors.  These include:
-
-  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
-  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
-  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
-  -->
-
- <!-- #### Examples of Glitch types of errors
-
- Short examples of different types and the affect implications.
-
- Glitch errors can be productive.
-
- **Productive in exploring code / creating new game opportunites**
- An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
-
- **Productive in in**
-
- - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
-
-  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
-
-
-
-
-
 
 ### GDPs aiding the process of division of labour
 
@@ -807,133 +746,83 @@ We can explore this behaviour from the child's perspective using terms from Acti
 the interaction also shows positive affect of child.
 her role in the community can be explored here. -->
 
-#### Code patching process using GDPs as a base
+#### GDPs used to nurture tactical responses to errors and blockages
 
-- NOTE - THIS MAY NEED MOVING IF NOT DIRECTLY ALIGNED WITH GDPS (LATER DISCUSSION?)
+In critique of online tutorials researchers note  few provide common errors[@kim_pedagogical_2017]. This lack of problem solving techniques communicated in online tutorials may addressed through use of GDPs.  
 
-<!-- - NOTE - KEEP FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS -->
+NOTE - rewrite the below highlighting the possibility of highlighting different possible errors and responses helped by the high level of context present in each
 
-**What is code patching?**
+ How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
 
-While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world connotations of craft and physical repair of materials in a relatable way.  
+ Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
 
-Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
+ More research would be welcome on how to help learners pick up these understandings.
+ Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
 
-**Dialectical development of support for patching**
+ Question - do more useful / less de-motivating errors result from remixing and game patching?
 
-THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
+ Question - what impact does the process of being driven by GDPs have on how users deal with errors? PERHAPS EXPLORE LATER?
 
-Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
+ For example,  on into the detail and types or errors.  These include:
 
-In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
-
-Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
-
-I wrote detailed documentation of how to add in code patches support participants less confident in scanning and applying patches from code examples. However, from some  this longer form documentation became a barrier in itself. Mark, in extract 5.x below, spends a lot of time puzzling over a print out of documentation, seemingly stuck in a conflict of motives between wanting to progress and feeling daunted by the complicated process. Conversely, other participants would face other challenges as they copied and pasted code into the wrong areas of the game. Or struggled to find the correct game functions to add selected code to. (FIND EXAMPLE)
-
-To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
 
 
-This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
+ Perhaps see the above glitch examples. Not fully understanding every line of code can create a fun, unpredictable environment. We can infer from these examples that wrong behaviour may be easier to investigate and to correct than no-behaviour errors. Aspects of the design encourage this kinds of error. Certainly the process of code patching does.
 
- ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+ <!-- ### On different kinds of snags / blockages
 
+ PERHAPS MOVE BACK TO THE GDP CHAPTER IF SPACE?
 
-<!-- I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
+ #### On Debugging and Embracing Different Types of Errors
 
-**Patching as a guided process**
+ In analysis of journal notes and recorded screens I began to identify different kinds of problems that blocked participants from progressing. I refer to different kinds of blockages which result from tensions and contradictions between different elements in activity systems.
 
-During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person.
+ Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error. I propose that more granular understanding  of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
 
-When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
+ For example,  on into the detail and types or errors.  These include:
 
-<!-- NOTE  CASE STUDY EXAMPLE- D and T - using the console in applying a pac-man enemy GDP
+  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+  -->
 
-DOES THIS ANSWER RQS?
-- SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  
-- GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
+ <!-- #### Examples of Glitch types of errors
 
+ Short examples of different types and the affect implications.
 
-note - PERHAPS MOVE TO DISCU#### Code patching process using GDPs as a base
+ Glitch errors can be productive.
 
-- NOTE - THIS MAY NEED MOVING IF NOT DIRECTLY ALIGNED WITH GDPS (LATER DISCUSSION?)
+ **Productive in exploring code / creating new game opportunites**
+ An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
 
-<!-- - NOTE - KEEP FOCUS HERE ON THE IMPACT NOT DESIGN - OBSERVABLE RESULTS -->
+ **Productive in in**
 
-**What is code patching?**
+ - Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
 
-While the process of copying and pasting fixes into on-going projects is not technically equivalent to modern software patching processes, it contains many appropriate conotations. A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world connotations of craft and physical repair of materials in a relatable way.  
-
-Patching rather than coding from scratch is authentic process which is often needed when asking for help on professional forums like stack overload. The process is included as a professional coding pattern which while critiqued as not being a high quality practice is common and the critique does not apply to novices [^1]. The process of reading and reusing code examples from sources like support forums is certainly is an essential skill for both professional and novice coders.
-
-**Dialectical development of support for patching**
-
-THIS POTENTIALLY DUPLICATES DESIGN CHAPTER - MOVE OR COMPRESS
-
-Patching justified in this program due to the low programming skill level of participants and my decision to prioritise progress over completeness of understanding code from first principles.
-
-In response to on-going frustrations of not being able to respond to participant requests for help on how to add new features, in the end of phase 1 I began to created small self contained code project with a minimal game example snippets outlining one key feature, e.g. jump on an enemy to zap it.
-
-Some participants were early adopters of the code patching process from code examples. In the last chapter we see Toby engaging in the code patching process. However, for other participants coding errors and initial participant feedback showed that this approach involved a high level of code literacy and confidence to use.
-
-I wrote detailed documentation of how to add in code patches support participants less confident in scanning and applying patches from code examples. However, from some  this longer form documentation became a barrier in itself. Mark, in extract 5.x below, spends a lot of time puzzling over a print out of documentation, seemingly stuck in a conflict of motives between wanting to progress and feeling daunted by the complicated process. Conversely, other participants would face other challenges as they copied and pasted code into the wrong areas of the game. Or struggled to find the correct game functions to add selected code to. (FIND EXAMPLE)
-
-To address this, I added an additional layer of a more systematic structure to the existing resources. Visual aids guided where to cut and paste code patches within their code structure with a greater level of specificity see figure as an example. In a fuller transcript of vignette 4.1.b (appendix 4.x) I introduce a overview of kinds of documentation and highlighting the support for code patching process.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+  The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
 
 
-This scaffolded understanding of the underlying code structure used in the code underlining the importance to place code extracts in the correct function to maintain the integrity of the syntax.
 
- ![](./Pictures/10000000000003C00000021CF8C083766ADDCF9E.png){width="16.51cm" height="9.278cm"}
+#### Use of GDPs to support debugging and the product revision process - EDIT DOWN AND MOVE
 
+_NOTE - This section is particularly underdeveloped at this stage_
 
-<!-- I am balancing here many different factors of concern in the complex learning environment. These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
+Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug JavaScript errors or the process of hovering over red dots in the code playground to explore error messages.
 
-**Patching as a guided process**
+<!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
 
-During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person.
+In the area of product revision the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge. The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern. The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
 
-When doing this I or other volunteers were able at times to give wider perspectives on the details of specific coding concepts and wider computational patterns. For example in terms of process, rather than writing code from first principles, this 'code patching' technique and subsequent debugging more closely represents the kinds of skills used by computer professionals on an everyday basis
-
-<!-- NOTE  CASE STUDY EXAMPLE- D and T - using the console in applying a pac-man enemy GDP
-
-DOES THIS ANSWER RQS?
-- SCAFFOLDING A PROCESS THAT BUILDS AGENCY /  
-- GUIDING TOWARDS THE RIGHT KINDS OF ERRORS?
+<!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
+CAN i FIND ANY KEY EXAMPLES OF THIS?
+-->
 
 
-note - PERHAPS MOVE TO DISCUSSION - OR TO THE DESIGN CHAPTER -->
 
-<!-- In making decisions like the one to include extra visual scaffolding in step by step documentations.  -->
 
-SSION - OR TO THE DESIGN CHAPTER -->
-
-<!-- In making decisions like the one to include extra visual scaffolding in step by step documentations.  -->
 
 
 #### Other examples of GDP driving adoption of technical processes
@@ -1031,21 +920,6 @@ May need a way to differential this chapters discussion of GDP - and that of the
  -->
 
 <!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
-
-
-### Use of GDPs to support debugging and the product revision process - EDIT DOWN AND MOVE
-
-_NOTE - This section is particularly underdeveloped at this stage_
-
-Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug JavaScript errors or the process of hovering over red dots in the code playground to explore error messages.
-
-<!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
-
-In the area of product revision the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge. The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors emerging as explored in the previous chapter. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern. The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
-
-<!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
-CAN i FIND ANY KEY EXAMPLES OF THIS?
--->
 
 
 
