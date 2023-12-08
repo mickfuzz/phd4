@@ -25,5 +25,9 @@
         interests](#appendix-4.x---mark-and-ed-working-with-home-interests)
     -   [Appendix 5.x - 2019-05-08-te-da pt
         1](#appendix-5.x---2019-05-08-te-da-pt-1)
+    -   [Appendix 4.R.x - Framework to support game analysis via game
+        elements](#appendix-4.r.x---framework-to-support-game-analysis-via-game-elements)
+    -   [Appendix 4.R.x - sketching towards a map to help
+        navigation.](#appendix-4.r.x---sketching-towards-a-map-to-help-navigation.)
 -   [Extracts from evaluation and Journal
     Notes](#extracts-from-evaluation-and-journal-notes)

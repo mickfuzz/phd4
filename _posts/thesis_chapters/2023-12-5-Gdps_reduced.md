@@ -9,50 +9,34 @@ layout: post
 categories: chapter
 title:  5. The Use of Gameplay Design Patterns "It’s like a project in itself, really"
 ---
--   [Chapter introduction and place in the
-    thesis](#chapter-introduction-and-place-in-the-thesis)
-    -   [Chapter outline](#chapter-outline)
--   [Re-examing design patterns in this
-    context](#re-examing-design-patterns-in-this-context)
-    -   [On GDP as a Germ cell and unit of
-        Analysis](#on-gdp-as-a-germ-cell-and-unit-of-analysis)
-        -   [On GDPs as a germ concept to help
-            development](#on-gdps-as-a-germ-concept-to-help-development)
-        -   [On GDPs as a concept to help
-            analysis](#on-gdps-as-a-concept-to-help-analysis)
+
+-   [Chapter outline](#chapter-outline)
+-   [On GDP as a germ-cell and unit of
+    analysis](#on-gdp-as-a-germ-cell-and-unit-of-analysis)
 -   [Study of Vignette A](#study-of-vignette-a)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
 -   [Observations and analysis of use of Game Design Patterns by
     participants](#observations-and-analysis-of-use-of-game-design-patterns-by-participants)
-    -   [Using cultural, interpersonal & Personal Planes Analysis of use
-        of
-        GDPs](#using-cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
-    -   [The propagation of use of GDPs through
-        playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
-    -   [GDPs facilitate the use of wider funds of
-        knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
-    -   [GDPs can aid the use of documentation and
-        resources](#gdps-can-aid-the-use-of-documentation-and-resources)
-        -   [GDPs help learners navigation acting as a framework for
-            code examples and step-by-step
-            tutorials](#gdps-help-learners-navigation-acting-as-a-framework-for-code-examples-and-step-by-step-tutorials)
-        -   [GDPs helping navigation of external
-            documentation](#gdps-helping-navigation-of-external-documentation)
-        -   [Code patching process using GDPs as a
-            base](#code-patching-process-using-gdps-as-a-base)
-        -   [GDPs used to nurture tactical responses to errors and
-            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
+    -   [GDPs used to explore computational, design and systems
+        concepts](#gdps-used-to-explore-computational-design-and-systems-concepts)
     -   [GDPs used to scaffold ideation
         processes](#gdps-used-to-scaffold-ideation-processes)
         -   [GDPs used to facilitate prioritisation in the design
             process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
+    -   [GDPs can aid the use of documentation and
+        resources](#gdps-can-aid-the-use-of-documentation-and-resources)
+        -   [GDPs offer the potential to assist project navigation,
+            acting as a framework for code examples and step-by-step
+            tutorials](#gdps-offer-the-potential-to-assist-project-navigation-acting-as-a-framework-for-code-examples-and-step-by-step-tutorials)
+        -   [GDPs used to nurture tactical responses to errors and
+            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
     -   [GDPs aiding the process of division of
         labour](#gdps-aiding-the-process-of-division-of-labour)
-    -   [GDPs can encourage learners to design for
-        others](#gdps-can-encourage-learners-to-design-for-others)
     -   [GDP driving adoption of emerging technical
         processes](#gdp-driving-adoption-of-emerging-technical-processes)
+        -   [Code patching process using GDPs as a
+            base](#code-patching-process-using-gdps-as-a-base)
         -   [Other examples of GDP driving adoption of technical
             processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
     -   [Repeated implementations of GDP developing fluency of coding
@@ -60,8 +44,15 @@ title:  5. The Use of Gameplay Design Patterns "It’s like a project in itself,
     -   [Use of GDPs to support debugging and the product revision
         process - EDIT DOWN AND
         MOVE](#use-of-gdps-to-support-debugging-and-the-product-revision-process---edit-down-and-move)
-    -   [GDPs used to explore computational, design and systems
-        concepts](#gdps-used-to-explore-computational-design-and-systems-concepts)
+    -   [GDPs can encourage learners to design for
+        others](#gdps-can-encourage-learners-to-design-for-others)
+    -   [The propagation of use of GDPs through
+        playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
+    -   [GDPs facilitate the use of wider funds of
+        knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
+        -   [Problem solving practices as a fund of knowledge (but not
+            really
+            GDP)](#problem-solving-practices-as-a-fund-of-knowledge-but-not-really-gdp)
 -   [Discussion on the use of game design patterns in the 3M learning
     design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
     -   [Discussion on the use of design patterns and pattern
@@ -76,7 +67,6 @@ title:  5. The Use of Gameplay Design Patterns "It’s like a project in itself,
             designers](#implications-for-facilitators-and-designers)
     -   [Discussion on GDPs, emerging processes and learner
         agency](#discussion-on-gdps-emerging-processes-and-learner-agency)
-
 
 
 
@@ -345,6 +335,7 @@ SHIFT THIS TO Methodolgy & SUMMARISE HERE -->
 
 
 
+## Personal Dimension
 
 ### GDPs used to explore computational, design and systems concepts
 
@@ -399,6 +390,7 @@ Situation
 
 
 
+## Guided Particpation
 
 
 ### GDPs used to scaffold ideation processes
@@ -1059,7 +1051,7 @@ CAN i FIND ANY KEY EXAMPLES OF THIS?
 
 
 
-
+## Cultural Dimension
 
 ### GDPs can encourage learners to design for others
 
