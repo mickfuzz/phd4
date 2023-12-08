@@ -285,7 +285,7 @@ There is also awareness of the conventions of a platformer game as a dynamic sys
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-The implementation of a new GDP involve adding new code to the game. The amount of code and changes needed varied depending on its complexity. Larger changes typically need more careful manipulation of code and subsequent debugging. For this pair, these more involved coding activities were beyond the ability of the child.
+The implementation of a new GDP involve adding new code to the game. The amount of code and/ changes needed varied depending on its complexity. Larger changes typically need more careful manipulation of code and subsequent debugging. For this pair, these more involved coding activities were beyond the ability of the child.
 
 For this child developed a cyclicar pattern of alternation between higher and lower engagement with the coding processes based on lower engagement the period of time when her parent was problem solving code and higher engagement once it was implemention of the structural element was almost complete. Completion of the code implementation of a GDP allows for new possibilities in design dynamics using the same text matrix level design tool. This stage of working on a new GDP sustains the child's activity. The child shows high engagement at this stage outlining her plan for implementing the pattern in the process of designing their game. sPECIFICALLY SAYING X, Y Z.
 
@@ -506,10 +506,9 @@ The mother develops her proficiency of expressing GDP related concepts and langu
 
 
 
-#### GDPs used to facilitate prioritisation in the design process
+#### GDPs as used by participants in their  prioritisation in the design process
 
 **GDPs are mentioned by name and via verbal and physical descriptions as a lingua franca and as shortcuts by participants when prioritising work**
-
 
 <!-- informal task division -->
 The following exchange between participants Fi and Ma shows GDPs being used to try to organise future activity.
@@ -561,13 +560,13 @@ Da – Yeah we can do that. Save that for version 1.1
 
 
 
-
-
 ### GDPs can aid the use of documentation and resources
+
+
+#### GDPs offer the potential to assist project navigation, acting as a framework for code examples and step-by-step tutorials
 
 **The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.**
 
-#### GDPs offer the potential to assist project navigation, acting as a framework for code examples and step-by-step tutorials
 
 <!-- #### Use of simple code examples which demonstrate the pattern in isolation -->
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
