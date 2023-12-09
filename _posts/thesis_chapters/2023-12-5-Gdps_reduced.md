@@ -865,11 +865,9 @@ May need a way to differential this chapters discussion of GDP - and that of the
 <!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
 
 
-
-
 ## Cultural Dimension
 
-### GDPs can encourage learners to design for others
+### GDPs can encourage learners to design for others - ALSO LINKED TO IDEATION?
 
 **Referring to GDPs (especially during playtesting) can help scaffold the process of imagining the end user experiences.**
 
@@ -877,7 +875,7 @@ As explored previously, playtesing as a regular practice can shift learners to a
 
 In the starting vignette of the chapter Th and Sh come into conflict over the imagined experience of future players. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. Sh shares _"Must be quite hard to get through that door._" when Sh places the exit door high above a platform. She then continues - _“It’s no fun having a game without any hazards to avoid.”_ The child seems determined to remove all hazards. _"It is for me!"_ the child counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play (as explored in the previous chapter). This interaction shows the use of terms from GDPs to both explain and negotiate a conflict over the imagined user experience.
 
-Later Th interacts with one of the student helpers and outlines her motivations in design.
+<!-- Later Th interacts with one of the student helpers and outlines her motivations in design.
 
     H1: Have you enjoyed making the game?
     Th: Yes
@@ -899,9 +897,9 @@ Later Th interacts with one of the student helpers and outlines her motivations 
     Th turns away to get a hug from her mother.
     H1: I got to your level
     Th: Good! (laughs)
-    Th: It’s a secret, special one. (...) If people tried hard they would get to my level.
+    Th: It’s a secret, special one. (...) If people tried hard they would get to my level. -->
 
-Th comments that she wants players to be frustrated when playing the game and that this is a contrast to final level which has only rewards and no hazards. This being a secret, special experience which plays against the norms of platform game design, thus provoking player surprise and fun. She notes the persistence of the student helper who pushes past her frustration to complete the game. Sh remark "If people tried hard they would get to my level" shows her awareness of that not all players will persist in the same way.
+Th comments that she wants players to be frustrated when playing the game and that this is a contrast to final level which has only rewards and no hazards. This being a "secret, special experience" which plays against the norms of platform game design, thus provoking player surprise and fun. She notes the persistence of the student helper who pushes past her frustration to complete the game. Sh remark "If people tried hard they would get to my level" shows her awareness of that not all players will persist in the same way.
 
 <!-- #### Other examples and interpretation on designing for others / shifts of perspective
 In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations of additions.
