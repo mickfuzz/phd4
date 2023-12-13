@@ -212,3 +212,32 @@ Question, rather than a focus on concepts of personal / transferable knowledge, 
 Situation
   The concept of participatory appropriation refers to how individuals change through their involvement in one or another activity, in the process becoming prepared for subsequent involvement in related activities. With guided participation as the interpersonal process through which people are involved in sociocultural activity, participatory appropriation is the personal process by which, through engagement in an activity, individuals change and handle a later situation in ways prepared by their own participation in the previous situation. This is a process of becoming, rather than acquisition, as I argue later. [@rogoff_observing_1995-1]
 -->
+
+
+
+
+### The example of GDP card to help computational thinking and systems thinking 
+
+To further aid practitioners, in P5 I restructured paper and online resources on game design patterns to included links to online descriptions of the concepts in the learning dimensions map. The following boxed section outlines a designed mission card which identifies the more abstract concepts embedded in the more concrete design missions.
+
+BOX BEGINS
+
+Your mission is to apply the following pattern to your game. There are supporting step-by-step resources available if you need them. When you finish be sure to reflect on how adding this pattern helps your understanding of the computing concepts and similar patterns listed. This concludes your mission.  
+
+* **Name of Game Design Pattern:** Jumping on Enemies to Zap them
+
+* **Type Pattern:** Game Mechanic
+
+* **Description:** If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+
+* **Need for Pattern:** Enemies create challenge and being able to jump on an enemy is a good way of clearing the area you want to explore.
+
+* **Coding Concepts involved:** Arrays[^8], Change Listener[^9]
+
+* **Links to other Computing Patterns:** Systems Dynamics[^10]
+
+* **Related Game Patterns:** You'll need to have added the **Add Enemies** pattern to your game before you can add this one.
+
+BOX ENDS
+
+While the process of creating these cards of game design patterns linked to the underlying framework is labour intensive, the process offers several potential benefits which may merit the effort, including linking curricular concepts to more concrete experience and aid in navigating the learning experience.
