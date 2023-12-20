@@ -7,11 +7,19 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: archive
-title:  6. The Use of Gameplay Design Patterns "It’s like a project in itself, really"
+title:  5. The Use of Gameplay Design Patterns "It’s like a project in itself, really"
 ---
-
--   [Introduction to This Writing](#introduction-to-this-writing)
--   [Chapter introduction](#chapter-introduction)
+-   [Chapter introduction and place in the
+    thesis](#chapter-introduction-and-place-in-the-thesis)
+    -   [Chapter outline](#chapter-outline)
+-   [Re-examing design patterns in this
+    context](#re-examing-design-patterns-in-this-context)
+    -   [On GDP as a Germ cell and unit of
+        Analysis](#on-gdp-as-a-germ-cell-and-unit-of-analysis)
+        -   [On GDPs as a germ concept to help
+            development](#on-gdps-as-a-germ-concept-to-help-development)
+        -   [On GDPs as a concept to help
+            analysis](#on-gdps-as-a-concept-to-help-analysis)
 -   [Study of Vignette A](#study-of-vignette-a)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
@@ -33,6 +41,8 @@ title:  6. The Use of Gameplay Design Patterns "It’s like a project in itself,
             documentation](#gdps-helping-navigation-of-external-documentation)
         -   [Code patching process using GDPs as a
             base](#code-patching-process-using-gdps-as-a-base)
+        -   [GDPs used to nurture tactical responses to errors and
+            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
     -   [GDPs used to scaffold ideation
         processes](#gdps-used-to-scaffold-ideation-processes)
         -   [GDPs used to facilitate prioritisation in the design
@@ -45,6 +55,8 @@ title:  6. The Use of Gameplay Design Patterns "It’s like a project in itself,
         processes](#gdp-driving-adoption-of-emerging-technical-processes)
         -   [Other examples of GDP driving adoption of technical
             processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
+    -   [Repeated implementations of GDP developing fluency of coding
+        practices](#repeated-implementations-of-gdp-developing-fluency-of-coding-practices)
     -   [Use of GDPs to support debugging and the product revision
         process - EDIT DOWN AND
         MOVE](#use-of-gdps-to-support-debugging-and-the-product-revision-process---edit-down-and-move)
@@ -67,7 +79,6 @@ title:  6. The Use of Gameplay Design Patterns "It’s like a project in itself,
 
 
 
-
 <!-- ## Introduction to This Writing
 
 While this piece of writing contains results, it also contains references to concepts and methodologies which will be included in other chapters in the final thesis. Other emerging chapters are online at - https://mickfuzz.github.io/phd4/thesis_chapters.html
@@ -87,51 +98,28 @@ To help the reader understand the data in this chapter the following notes on in
 
 <!-- - A quick summary of how parts of the design address three planes [is here](https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit?usp=sharing) -->
 
-## Chapter introduction
-
 <!-- The working title of this chapter is Missions which aligns with a strand of the 3M game making pedagogical model developed in the course of this study. -->
+
+<!-- NOTE ## Chapter introduction and place in the thesis
 
 The purpose of this chapter is to explore how the data gathered informs thinking on two research questions of this study.  
 
 - How can game design patterns support the development of coding practices by novices?
-- How can learners build agency in an evolving community of game makers?
-
-In the last chapter we explored inclusive pedagogical methods that helped participants become part of an emerging community of game makers. This chapter analyses a sub-activity system to the creation of the whole game, namely the implementation of individual game design patterns (GDPs).
-
-### On GDP as unit of analyis
-
-NOTE  - WHERE TO PUT THIS?
-
-The implementation of GDPs as a unit of analysis for the researcher also has the following utility / validity;
-
-- There is a practicality in terms of defining possible boundaries of what to analyse in depth.
-- There is a more frequent iteration present - usually a period of playtesting after each new pattern added.
-- This research with a practitioner focus, looks to identify emerging barriers to comprehension, communication and practical barriers to implementing code structures. Thus a smaller unit that allows a large amount of granularity is useful. (compared to broader observations)
-- Each GDP can be seen as a project given an interpretation of project as the concrete implementation of a goal
-- That concreteness / implementation is particularly valid given the regular play-testing of creations often after each GDP is added in a peer environment.
-
-This sentiment is echoed by something I found in the video data. As one parent expressed when looking at the documentation for implementing one of the GDPs. "It’s like a project in itself really"
-
-
-Analysing the implementation of GDPs as a unit of activity allows the use of useful concepts to explore the specifics of participant behaviour. In the methodology and design chapter I explored the concept of resolving tensions involved in tool use and interaction with the learning design. In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
-
-  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
-
+- How can participants build agency in an evolving community of game makers? -->
 
 
 ### Chapter outline
 
-In the following sections, I draw on such detailed observations of participants in practice to outline how GDPs are used by participants.
+In the last chapter I outlined use of tools in detail. In the next chapter I outline this use of key inclusive pedagogical methods that helped participants become part of an emerging community of game makers.
 
-This chapter begins with a Vignette of parent child interaction in game making process. The vignette is used to introduce an overview of interactions of that pair generated from analysis of video data.
+This chapter analyses activity at a scope between the concrete tool use and the wider cultural context of the game making community. The particular focus is the implementation of individual game design patterns (GDPs). This chapter addresses how data gathered informs thinking on the research question how can game design patterns support the development of coding practices by novices?
 
-The chapter then focuses on the use of game design patterns by participants in these interactions. A summary of these is available as a table.
+This chapter begins with reframing of game design patterns and game play design patterns which builds on the previous chapters description of the emerging learning design. Following this a Vignette of parent child interaction in game making process introduces an overview of interactions of that pair generated from analysis of video data.
 
-Finally a discussion section explores implications and observations from these findings in relation to existing research and concepts.
+The chapter then focuses on the use of game design patterns by participants
+drawing on detailed observations of practice. A discussion section explores implications and observations from these findings in relation to existing research and concepts. As part if this discussion, I draw on the examples of use of game design patterns in practice to explore the analysis of GDPs as a mid-level construct, of use both to designers and as a pedagogical tool for those seeking to help novice coders become inculcated into a coding community.
 
 <!-- In that community-focused analysis, the unit of activity/ analysis was the creation by individuals learners or pairs of an engaging game with an additional goal of exploring an environmental concept.  The implementation of GDPs as a unit of activity allows for a more detailed and granular exploration of the many actions and operations that comprise each pattern.  -->
-
-
 
 <!-- ## Other Documents
 NOTE MOVE THESE TO THE RELEVANT CHAPTERS SOON
@@ -144,6 +132,69 @@ https://docs.google.com/document/d/1RZnznbR4HKrgL8VFfIqoCrCAJM0mf_sM8iEN4KCGeZ4/
 
 And the coding structure here   
 https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit# -->
+
+
+### On GDP as a germ-cell and unit of analysis
+
+In the introduction, I outlined some of the broader challenges of sharing practice and research to practically support the learning of coding practices beyond the immediate context of the research in question. The choice of what scope of activity to examine in detail is relevant to this challenge. While this concept of germ cell / unit of analysis a is more typically used in a larger scope of societal activity, the principles apply this smaller scope. For a study of this nature, too broad an analysis risks insufficient detail to allow replication, too narrow risks being overly context dependant and limiting the potential for wider application.
+
+This chapter centres on the exploration of the implementation of game design patterns (GDPs) as a key objective of in a way which correlates with the mid-level activity described in the last chapter. The same concept can be expressed using AT terminology as the use of GDPs as a unit of analysis or germ-cell of activity, two similar concepts with slightly different foci.
+
+<!-- Mid-level construct of design / patterns heuristics [] -->
+
+    ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
+
+
+As a designer / researcher and practitioner both aspects are relevant and are explored separately in the following two sections.
+
+IS THIS NEEDED HERE? OR REDO THIS.
+**It is thus potentially helpful to undertake a deeper analysis of the design patterns** and specifically game design patterns at this point.  Recap on the value of design patterns in learning design which exist at different scopes of activity [@mcandrew_patterns_2006].(CHECK THIS)
+How design patterns interplay with design principles and how the process relates to design based research  [@linn_science_2006].
+
+
+<!-- #### On GDPs as a concept to help analysis -->
+
+<!-- MOVE TO METHODOLOGY - JUST GET ON WITH IT?
+Blunden cites the process of identifying a germ cell of activity as a fruitful process for researchers [FIND]. In addition, Engestrom frames expansive learning as instructive for organisational change. While research is more sparse in the field of educational practice, the principles are frequently applied to classroom practice. -->
+
+
+<!-- My decision to privilege the implementation of each GDP as the main objective  activity system mirrors choices by other researchers valuing  -->
+
+A granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002]. However, despite the value of a micro approach which includes close analysis of implementation of code structures. The process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth, thus help avoid over-scoping of the study in which preludes a greater depth of analysis.
+
+Thus, while in this study activity covers a full spectrum of activity in other chapters, this chapter focuses on the implementation of GDPs in greater depth allowing for the identification of  patterns of design stages involving discussion, planning, implementation and playtesting after each new game element. At this scope, each GDP can be seen as a project, taken here as a concrete implementation of a planned goal. This sentiment is echoed by a parent when noticing that the documentation on one GDPs involved several distinct stages - "It’s like a project in itself really!".
+
+<!-- THERE IS OVERLAP HERE WITH THE LAST CHAPTER - HOW TO REMOVE THAT AND RETAIN CLARITY ?
+
+Thus in this study activity covers a full spectrum including close analysis of implementation of code structures. However these smaller operations are not worthy of being treated as an activity system in full. WHY MAKE THIS POINT. wHAT IS THE OVERALL MOTIVATION HERE?  -->
+
+<!--
+#### On GDPs as a germ concept to help practical development -->
+
+<!-- NOTE - removed -  what is the germ cell of the overall game making activity. -->
+
+GDPs emerged as a unit of analysis through their initial observation of GDPs as a germ-cell being used at different phases / scope of the learning design as it evolved. Chapter four charts the evolution of the use of GDPs in the learning design from participant led brainstorming of desired features, to self-contained tutorials and code snippets. This then was enriched by wider framework from academia, professional community and and the work of educational Game Jams, the UMC framework.
+
+The design process is described as a mutual, i that while I led the production of the resources, I was driven by the explicit requests and implicit needs of the community and resulting feedback. The resulting design included a themed collection of GDPs
+
+
+
+<!-- around, game mechanics, game space, game polish and game challenges. -->
+
+<!-- LATER?
+AT provides a concept of rising to the concrete which invites analysis of how the construct of  GDPs can be be adapted to serve the development of a game making community at different scopes of activity. To illustrate this concept we can use Marx's concept of exchange as a germ-cell for analysis of capitalism.  -->
+<!-- The previous chapter described the  key elements of the learning design that were in place by P2 ( remixing from a game template, use of distributed asset creation showcasing and social playtesting).  The shared tools and documentations began to shape goal setting around implementing new features, some where held in common with other groups. -->
+
+
+The core concept of altering a game at the level of gameplay design pattern which emerged from experimental pilot process is adapted by participants and used in various forms of activity.
+
+At a larger level, the amalgamation of the GDPs into a finished game, is key to the success of the project. Good games communicate their affordances, (in the form of GDPs) to the player without the need for extensive additional documentation [@gee_learning_2005].
+
+This process also communicates GDPs implicitly to players, a process borne out by brainstorming sessions early in the process which say participants listing GDPs or variants of them without explicit guidance in this direction. This  goal setting and implementation using GDP as a bse developed into a principle activity of P1 with varied results.
+
+By P2, to support a scaffolded entry to this practice, I developed quick start activities which proposed micro level code modification rather than implementing new code structures. While they were distinct in their pedagogy use, these shot-cuts  stemmed from the same germ-cell base of altering the game through transforming GDPs.
+
+In addition to support their identification of the different elements that make up a game I created a sheet which drew on existing work framework (mechanics, space, goals, etc) to scaffold the process.
 
 
 ## Study of Vignette A
@@ -263,21 +314,29 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 ### Descriptive Commentary on Vignette A
 
-The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. As well as the key and door pattern which has just been implemented, the child also wants to add additional levels to the game. It is likely that this stems from observations of other games being made and conversations overheard. As this pattern has been added to other games and has become a popular topic of discourse between participants.
+The parent has taken on the role of solving harder code problems following  instructions carefully. The child is one of the younger participants when blockages occur she explores the room or to dwell on the periphery of other participants interactions. As well as the key and door pattern which has just been implemented, the child also wants to add additional levels to the game. In this and the previous sessions several young participants had added levels to their games and this GDP sparked discourse between participants. It is likely that this Th's interest stems at least in part from observations of other participants games and this discourse.
 
-The key and door pattern is one of the harder ones to implement as it involves adding two new functions, which while simple enough, represent new code structures and thus this adds a new level of conceptual and practical complexity. This is borne out in the coding blockage the family found themselves in the first part of the session. The supporting resources for this pattern are included in Appendix 6.x. The parent finally circumnavigates her own hesitancy by asking for facilitator help by sending out her child to ask.
+The key and door pattern is one of the harder ones to implement as it involves adding two new functions, which while simple enough, represent new code structures and thus this adds a new level of conceptual and practical complexity. This is borne out in the coding blockage the family found themselves in the first part of the session. The supporting resources for this pattern are included in Appendix 6.x. The parent finally circumnavigates the conflict of her own hesitancy regarding asking for facilitator help by sending out her child to ask. REWRITE IN SANNINO TERMS.
 
 <!--
 The supporting resources are available here.
 https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/#game-mechanic-keys-and-doors -->
 
-For both parent and child there is an explicit awareness of game making patterns, the cultural conventions of a platformer game and concept of the game as a dynamic system. This awareness drives their work on the design and coding mechanics of the game.  The target game design pattern Keys and Doors is repeated in a sing song voice by the child along with chivvying.
+Both parent and child show explicit and implicit awareness of game making patterns. For example, one target game design pattern _Keys and Doors_ is repeated in a sing song voice by the child along with chivvying to the mother to get started on it.
 
-Understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates a desire to play against game conventions with a desire to confuse or disorient players.
+There is also awareness of the conventions of a platformer game as a dynamic system in way which drives their work on the design and coding mechanics of the game.  An understanding of the game as a dynamic system is seen clearly in the parent’s alarm at the child’s deletion of all elements of hazard. This interaction shows the parent guiding the child to imagine the user experience (LINK WITH HCI TERMS) through the use of terms from GDPs. The parent uses GDPs as a prompt that they are designing for others. The child has also thought ahead to this time of playtesting. Both child and parent make reference to the imagined player experiences. In the vignette above Sh mentions "it's no fun if their are no hazards". The response of Th "It is for me." indicates an awareness of the conventions and a desire to play against them. The child articulate her motivation to _surprise_ players.
 
 Game making patterns are outlined by both the child and parent. They talk of adding more levels, of the mechanic of keys and doors in this vignette. After a blockage caused by debugging coding is removed, the parent immediately re-engages the child. The parent says "Did you see Th?" and then prompts the child to play-test the game. The child is keen to both replicate the GDP of keys and doors in the second level and to add a new GDP of adding additional levels to the game.  
 
-Completion of the code implementation of a GDP allows for new possibilities in design dynamics using the same text matrix level design tool. This stage of working on a new GDP sustains the child's activity. The child shows high engagement at this stage outlining her plan for implementing the pattern in the process of designing their game. The transformation from the period of time when her parent was problem solving code is dramatic. For this child this alternation between higher and lower engagement with the coding processes happening on screen was fairly consistent. The implementation of a new GDP often involves adding new code to the game or a significant change in code which may need debugging. For this pair, larger coding activities were beyond the ability of the child. The transition from adding one GDP involves playtesting. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
+The implementation of a new GDP involve adding new code to the game. The amount of code and changes needed varied depending on its complexity. Larger changes typically need more careful manipulation of code and subsequent debugging. For this pair, these more involved coding activities were beyond the ability of the child.
+
+For this child developed a cyclicar pattern of alternation between higher and lower engagement with the coding processes based on lower engagement the period of time when her parent was problem solving code and higher engagement once it was implemention of the structural element was almost complete. Completion of the code implementation of a GDP allows for new possibilities in design dynamics using the same text matrix level design tool. This stage of working on a new GDP sustains the child's activity. The child shows high engagement at this stage outlining her plan for implementing the pattern in the process of designing their game. sPECIFICALLY SAYING X, Y Z.
+
+As the child progress from making changes to then testing them her engagement stays high. In this example, the process of playtesting also involves the child speaking and identification of modifications to and new GDPs to implement.
+PULL OUT AN EXAMPLE
+
+
+ADD IN APPENDIX OF MAPS - AND GDPS FOR NAVIGATIONS AND REFRAME IN THIS CHAPTER.
 
 <!-- NOTE - MOVE TO ANOTHER SECTIONS WITH TRIANGULATION? -->
 <!-- ### Gdp and motivation -->
@@ -285,9 +344,9 @@ Completion of the code implementation of a GDP allows for new possibilities in d
 <!-- The process of personal development of knowledge is less clear from video data.
 NOTE - SOME MORE READING ON AN INTERPRETATION OF THIS THAT I CAN WORK WITH FOR THIS DATA IS PERHAPS NEEDED. -->
 
-The adult is building proficiency in coding practice. This is shown in a variety of ways including; finding and comprehending supporting documentation, fluidly navigating between undertaking more advanced coding to implement new GDPs, playtesting and preparing the coding environment for more basic coding of her child.
+In the programme Sh has built important proficiency in coding practice, which include; finding and comprehending supporting documentation, fluidly navigating between undertaking more advanced coding to implement new GDPs, playtesting and preparing the coding environment for more basic coding of her child. The parent navigates this process skilfully and is able to incorporate the child's interests. She takes signals clearly to her child when the process returns certain design stages indicating that she is aware of the greater possibility for effective child input at these moments.
 
-This chapter now expands to represent the diversity  of the coding and community practices of participants through focusing on their use of game design patterns. (and opportunites for educators)
+While this adult structured the process of implementing new GDPs through engaging with documentation in a careful and methodical  way, other individuals and pairs approached the same objectives in diverse ways. This chapter now expands to represent the diversity  of the coding and community practices of participants through focusing on their use of game design patterns. (and opportunities for educators)
 
 
 <!-- The child uses her concepts of game design patterns in the end of course evaluation. She responded to the question _What would you like to see next time? What would you add?_ with the comment. "Th: I'd add a health bar and lots more levels and keep on changing the characters and background." -->
@@ -303,18 +362,25 @@ In ask/imagine stages parent and child are able  discuss storytelling, graphical
 
 ## Observations and analysis of use of Game Design Patterns by participants
 
-### Using cultural, interpersonal & Personal Planes Analysis of use of GDPs
-
-SHIFT THIS TO Methodolgy & SUMMARISE HERE
-
-Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction.
+NOTE HOW THESE FINDING ARE STRUCTURED. MOVE TO INTRO?
 
 In the previous chapter the role of cultural activities to engage and sustain engagement in this game making programme were examined. This chapter allows us to develop this direction to focus in on the way design patterns used are by parents, children and facilitators in in this emerging game making community.
+
+<!-- ### Using cultural, interpersonal & Personal Planes Analysis of use of GDPs
+
+SHIFT THIS TO Methodolgy & SUMMARISE HERE -->
+
+<!-- Acknowledging that these observation do not fall nearly into each of the three planes, I begin with those oriented more to cultural focus before progressing to  observations oriented chiefly to interpersonal activity and  then ending with some observation on GDPs impact on personal knowledge construction. -->
 
 
 <!-- NOTE - ADD QUICK SUMMARY OF PREVIOUS CHAPTERS FINDINGS - IF THIS HELPS GROUND THIS SECTION -->
 <!-- - Tools: Specifics on Code Playgrounds and Phaser and a Javascript framework -->
 <!-- - the media literacy practices of transfer between tools - similar to other studies - see guided participation papers -->
+
+
+
+
+
 
 
 ### The propagation of use of GDPs through playtesting
@@ -347,6 +413,7 @@ Exchanges like this allow the propagation of GDPs. The process of playing a game
 **New GDPs emerged from existing patterns through peer activity during playtesting**
 
 In addition to the propagation of main game design patterns, sub patterns and related design concepts emerged organically from the community. The concept of safe zone in the game of Ch and Pa arrived as a direct result of after adding a moving enemies GDP, the extensive use of that pattern dominates the game challenge to such an extent that it is essential for players to quickly identify and use 'safe zones'.
+DEVELOP
 
 <!-- Playtesting also helped propogate emerging practices. For example, after testing Mi's game In the example above after comments on the jump speed Fi continues.
 
@@ -359,7 +426,6 @@ In addition to the propagation of main game design patterns, sub patterns and re
 
 While Fi has only just been introduced to the ability to "cramp". He is happy and able to share this useful tool with Mi. Theme -->
 
-NOTE - DELETED INFORMAL
 
 ### GDPs facilitate the use of wider funds of knowledge
 
@@ -402,22 +468,36 @@ Te adopts with this suggestion readily once he understands Da's suggestion. He t
     Da: and see what happens?
     Mick: and see what happens.
 
-<!--
-Te is implicit in the use of is process, saying "I was thinking can we make like a pacman game kind of thing".
-Da is more explicit naming the shift of perspective but also implying
-Mick takes this to a different level by making reference to a key change of code that would be involved.
-NOTE - LINK THIS TO LOA -
---> –
 
-Da expresses his desire to for the pair to try something new by implementing a pattern not in the menu of GDPs provided. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games). This decision can be triangulated with interview data from Da on the motivation behind his involvement in volunteering at Coder Dojos.  
+
+
+LOA FROM COMPUTING PEDAGOGY RELEVANT HERE - WHERE ELSE ARE THEY EXPLORED?
+
+Da expresses his desire to for the pair to try something new by implementing a pattern not in the menu of GDPs provided. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games).
+
+Toby takes on the role of checking these change of direction with me. He uses a concrete example of a game to indicate the shift of genre and games space structure implied, saying "I was thinking can we make like a pacman game kind of thing". Da is more explicit naming the shift of perspective and genre. Mick takes this to a concrete code level by making reference to a key change of code that would be involved.
+
+The decision to divert from the existing meny of GDPs and genre can be triangulated with interview data from Da on the motivation behind his involvement in volunteering at Coder Dojos.  
+
+PERHAPS DROP THIS QUOTE OR WORK OUT HOW TO BETTER INTEGRATE IT?
 
     Honestly, it's just it's just my hobby and I love it is the main reason. In fact, it's probably the only reason. If I can, if I can persuade / cajole / trick my kids into being involved at the same time, then that's even better. Personally, I think that's about it. I've always been interested in computers. I love, I love, I love programming. I'm no good at pencils and pens drawing or anything like that. But writing software is the closest I get to a creative outlet. So I just love doing that.  
 
-Given this additional perspective, I interpret Da's influence to divert as a way of embracing a creative challenge and bringing his child along for the ride. However, Da is also aware of potential challenges of straying too far from the template. He does not want to "mess things up". This tension has a parallel to a professional practice of "forking" code-bases in open-source code communities. The practice of forking can involve taking a code base in a new direction and the benefits of adaption may be out-weighed by disadvantages including the friction involved in splitting an existing community and duplication of effort. The parent checking with a Mick a guiding community member about the advantages and disadvantages of a major fork in the code structure mirrors this professional tension.
+Given this additional perspective, I interpret Da's influence to divert as a way of embracing a creative challenge and bringing his child along for the ride. However, Da is also aware of potential challenges of straying too far from the template. He does not want to "mess things up".
+
+
+This tension has a parallel to a professional practice of "forking" code-bases in open-source code communities. The practice of forking can involve taking a code base in a new direction and the benefits of adaption may be out-weighed by disadvantages including the friction involved in splitting an existing community and duplication of effort. The parent checking with a Mick a guiding community member about the advantages and disadvantages of a major fork in the code structure mirrors this professional tension.
+
+This example shows that while the use of GDP can help support choices within a frame, there is also the ability to break out of that restriction and keep some of the benefits of the shared code base.
 
 My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
 
-Summary / Other examples:
+**Summary / Other examples:**
+Thus in this xample the family bring their knowledge of game play patterns and genre conventions and more broadly experience and a perspecive of coding as a creative challenge to the activity.
+
+Other families? examples with GDDP.
+
+A wider exploration of use of FOK in the programme reated to art and narrative is explored in chapter six.
 
 
 <!--
@@ -430,7 +510,7 @@ Article on intangibility of game feel.
 
 **The process of choice, use of documentation to support implementation and testing pivots on the design pattern and its behaviour.**
 
-#### GDPs help learners navigation acting as a framework for code examples and step-by-step tutorials
+#### GDPs offer the potential to assist project navigation, acting as a framework for code examples and step-by-step tutorials
 
 <!-- #### Use of simple code examples which demonstrate the pattern in isolation -->
 <!--NOTE DEVELOP THIS EXAMPLE - RELATE TO PRACTICE OF CODE PATCHING (EXPLORED IN PREVIOUS CHAPTER) -->
@@ -438,7 +518,7 @@ Article on intangibility of game feel.
 
 NOTE - In the most straight forward way this is driven by a design decision to base supporting resources around GDPs,
 
-The following example outlines the process of Te finding a GDP to implement and adding it to his game.  
+The vignette in chapter four outlined the process of Toby finding a GDP to implement and adding it to his game.  
 Insert table from https://docs.google.com/document/d/1fYuwJe4GbbGtZQttIz1mP1wYNPAwaPErr7BNjmbRmBM/edit#
 
 The timings of the process of patching the code show that the learner is hesitant in the process. He checks the code and then checks the game output to test that the code creates the desired behaviour. Once this is verified he progresses to copy and paste the code from the create function of the sample code to the create function of his own source code.
@@ -1059,7 +1139,25 @@ References to such emerging practices driven by GDPs were present in many exchan
 
 There are many other examples of processes being adopted by participants through the implementation of GDPs including the fluidity of navigation between playing and coding window shown by all younger participants and many adults and the development of keyboard and mouse coordination to facilitate navigation within the code environment and external support resources to facilitate the code patching process.
 
-<!-- (NOTE - OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
+
+### Repeated implementations of GDP developing  fluency of coding practices
+
+<!-- (NOTE - SHOULD THIS BE EARLIER?
+
+OPERATION, ACTION, ACTIVITY - explore in aT part of this chapte ) -->
+
+In this section I briefly explore the utility of the concepts of activity, actions and operations when applied to implementing GDPs [@kuutti_activity_1995].
+
+  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practised long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
+
+This fluency is a key for learners developing elements of agency as lack of fluency prevents effective x.
+
+RECAP ON ELEMENT OF Agency,
+
+-  expression
+-  etc
+
+
 
 
 <!--
@@ -1125,6 +1223,8 @@ In the area of product revision the repeated, solo, incremental changes of the d
 <!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 CAN i FIND ANY KEY EXAMPLES OF THIS?
 -->
+
+
 
 ### GDPs used to explore computational, design and systems concepts
 
@@ -1224,6 +1324,12 @@ Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narr
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them undertand the level of abstraction that they are working at  [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
 This conception of levels abstraction is also present in the analysis of the different scopes game making activity systems. Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets.
+
+
+
+
+
+
 
 #### Implications for facilitators and designers
 
