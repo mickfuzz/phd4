@@ -6,7 +6,7 @@ zotero:
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
-categories: chapter
+categories: parked
 title:  5. Parked from - The Use of Gameplay Design Patterns "It’s like a project in itself, really"
 ---
 
@@ -216,7 +216,7 @@ Situation
 
 
 
-### The example of GDP card to help computational thinking and systems thinking 
+### The example of GDP card to help computational thinking and systems thinking
 
 To further aid practitioners, in P5 I restructured paper and online resources on game design patterns to included links to online descriptions of the concepts in the learning dimensions map. The following boxed section outlines a designed mission card which identifies the more abstract concepts embedded in the more concrete design missions.
 
