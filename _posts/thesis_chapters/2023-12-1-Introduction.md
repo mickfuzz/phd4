@@ -453,6 +453,9 @@ In the second part of the chapter, I outline the process of how data was gathere
 
 The following chapter outlines the learning design that emerged from the research programme.
 
+Chapter six explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. In a similar vein, drama processes like the mantle of the expert are designed and enacted by facilitators in ways which allow participants to draw on their existing knowledge and encourages them to put this into practice in fictional scenarios.
+
+
 ### Overall key messages & contribution to Knowledge
 
 This research is valid in the following ways:
