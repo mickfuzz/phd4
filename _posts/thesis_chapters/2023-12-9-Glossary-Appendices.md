@@ -51,7 +51,10 @@ Code Playground:
 
 Javascript library:  
 
+Game states: Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017; @kostolny_digital_2017]
 
+Game loop:
+See **https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/the-game-loop/**
 
 
 ## Appendices (numbered by chapter?)
