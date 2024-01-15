@@ -415,12 +415,7 @@ Critique of instruction...
 
 ### Use Modify Create
 
-
-The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games.
-
-UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014].
-
-The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
+The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games. UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]. The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
 
 **Use:** In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces.
 
@@ -428,9 +423,7 @@ The model advocates the remixing of existing games to act as a scaffold to build
 
 **Create:** After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
 
-A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed the UMC approach as they had more choice and agency in the process. This is supported by other research which compared UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students using UMC had more time to play around with code, they were able to add their own personal touches and that this ownership over the code sustained their continued engagement.  
-
-While the scope of the study is limited, observations support motivation of UMC that this pattern of creation maintains higher level of engagement through reducing technical barriers to participation, and affording greater sense of learner's ownership over end project through greater choice over the final outcome.
+A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed the UMC approach as they had more choice and agency in the process. This is supported by other research which compared UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students using UMC had more time to play around with code, they were able to add their own personal touches and that this ownership over the code sustained their continued engagement. While the scope of the study is limited, observations support motivation of UMC that this pattern of creation maintains higher level of engagement through reducing technical barriers to participation, and affording greater sense of learner's ownership over end project through greater choice over the final outcome.
 
 **Research on UMC which develops learner choice**
 
@@ -440,7 +433,7 @@ UMC has been developed to be end with scaffolded set of choices.
 In a study where students use a block based language to develop simulations - the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1; @lytle_use_2019]
 
 - Scaffold Students and Teachers- Providing the necessary programming blocks students need to complete a choice
-- Differentiate Choices by Difficulty -create choice systems that have varying difficulty
+- Differentiate Choices by Difficulty - create choice systems that have varying difficulty
 - Create Choices that Show Visible and Immediate Changes
 - Make things Complex, not Complicated
 - Draw from Student Desires - students will engage more with the material, feeling like the creations are their own.
