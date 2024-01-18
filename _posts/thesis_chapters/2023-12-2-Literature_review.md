@@ -561,9 +561,20 @@ When learners undertake real life projects with relevance for, or with a direct 
 The structuring of the learning involved in PBL is highlighted by those wishing to defend it from dismissal as unsupported, pure discovery learning (Hmelo-Silver et al., 2007; Kirschner et al., 2006). We can see parallels in PBL programme design to that tinkering tools and environments in that decisions are made to support specific areas of learner discovery deemed of particular value by carefully obscuring other potentially distracting aspects behind ‘black box’ processes (Resnick and Silverman, 2005).
 OTHER HEURISTICS OF CONSTRUCTIONISM
 
-#### PBL and Authenticity
+I propose that there guidance and tactics in area of discovery based learning to help balance between learner choice and engaging, open experimentation verses steering towards useful shared concepts is often under explored in research leaving a documentation gap that .   
 
-The goal of authenticity of expression, assessment and the motivation of a real audience aligns PBL with the kind of learning that happens when people take part in work-place or other authentic activities .
+Why does this gap exist? Partly due to the compressed form of academic papers, partly due to the privileging of abstract analysis over more domain specific observations on practice.
+
+
+#### PBL and Authenticity in the domain of teaching programming
+
+The goal of authenticity of expression, assessment and the motivation of a real audience aligns PBL with the kind of learning that happens when people take part in work-place or other authentic activities.
+
+There are overlapping dimensions and spectrum of authenticity in learning environments including; hands-on experimentation (as opposed to text-book sources); proximity to workplace practices and professional tools; personal relevance to learners.
+
+While PBL has the potential to address all of these factors there is some ambiguity in much of the literature on PBL. EXAPAND WITH CRITICALITY. There is a lack of clear advice on how to ensure authenticity
+
+In the domain of computer programming, 
 
 The next section deals with pedagogical approaches that are rooted in professional or non-educational settings.  
 
