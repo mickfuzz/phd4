@@ -84,8 +84,8 @@
         -   [Coding Design Cycle Stages](#coding-design-cycle-stages)
         -   [Coding Game Design Themes](#coding-game-design-themes)
     -   [PROPOSAL Coding impact on design/ processes on learner agency -
-        boiled down
-        -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+        boiled
+        down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
     -   [Limits of / problems with video data
         analysis](#limits-of-problems-with-video-data-analysis)
     -   [Analysis of activities based on Cultural, Interpersonal and
