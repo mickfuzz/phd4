@@ -4,31 +4,14 @@
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
--   [Informal Education Pedagogies](#informal-education-pedagogies)
-    -   [The role of Agency in Informal
-        Pedagogies](#the-role-of-agency-in-informal-pedagogies)
-    -   [Defining Agency in this study](#defining-agency-in-this-study)
-    -   [Defining and conceptualising informal
-        education](#defining-and-conceptualising-informal-education)
-        -   [Conceptualising informal education via foundational
-            theory](#conceptualising-informal-education-via-foundational-theory)
-    -   [Communities of Practice](#communities-of-practice)
-        -   [Informal, participatory, digital and gaming
-            communities](#informal-participatory-digital-and-gaming-communities)
-    -   [Guided participation Rogoff and Communities of
-        Learners](#guided-participation-rogoff-and-communities-of-learners)
-    -   [Funds of Knowledge](#funds-of-knowledge)
-        -   [Retro Gaming as a Fund of knowledge - move to
-            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-    -   [Mantle of the Expert as a processes
-        drama](#mantle-of-the-expert-as-a-processes-drama)
--   [Studies with pedagogies addressing barriers to do with identity and
-    computer
-    cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
--   [Pedagogies from coding for learning community - K12
-    focused](#pedagogies-from-coding-for-learning-community---k12-focused)
-    -   [Also See this writing and
-        adapt](#also-see-this-writing-and-adapt)
+-   [Addressing and disambiguating definitions of agency in
+    education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+    -   [Instrumental and relational
+        agency](#instrumental-and-relational-agency)
+    -   [Authorial and transformative
+        agency](#authorial-and-transformative-agency)
+        -   [Also See this writing and
+            adapt](#also-see-this-writing-and-adapt)
     -   [Definitions of Computational
         Thinking](#definitions-of-computational-thinking)
     -   [Exploring the territory between instruction-based tutorials and
@@ -64,6 +47,24 @@
             patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
         -   [Using pattern collections and code examples to help
             students.](#using-pattern-collections-and-code-examples-to-help-students.)
+-   [Informal Education Pedagogies](#informal-education-pedagogies)
+    -   [Defining and conceptualising informal
+        education](#defining-and-conceptualising-informal-education)
+        -   [Conceptualising informal education via foundational
+            theory](#conceptualising-informal-education-via-foundational-theory)
+    -   [Communities of Practice](#communities-of-practice)
+        -   [Informal, participatory, digital and gaming
+            communities](#informal-participatory-digital-and-gaming-communities)
+    -   [Guided participation Rogoff and Communities of
+        Learners](#guided-participation-rogoff-and-communities-of-learners)
+    -   [Funds of Knowledge](#funds-of-knowledge)
+        -   [Retro Gaming as a Fund of knowledge - move to
+            intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
+    -   [Mantle of the Expert as a processes
+        drama](#mantle-of-the-expert-as-a-processes-drama)
+-   [Studies with pedagogies addressing barriers to do with identity and
+    computer
+    cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
 -   [Relevant case studies / research in digital making context - Family
     Making, Ito / Gee etc, 5th
     Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)

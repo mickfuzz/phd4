@@ -12,13 +12,54 @@ title: 2. Literature Review
 
 -   [Research Questions - October
     2023](#research-questions---october-2023)
+-   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
 -   [Literature Review Introduction](#literature-review-introduction)
 -   [Structuring the literature
     review](#structuring-the-literature-review)
+-   [Addressing and disambiguating definitions of agency in
+    education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+    -   [Instrumental and relational
+        agency](#instrumental-and-relational-agency)
+    -   [Authorial and transformative
+        agency](#authorial-and-transformative-agency)
+        -   [Also See this writing and
+            adapt](#also-see-this-writing-and-adapt)
+    -   [Definitions of Computational
+        Thinking](#definitions-of-computational-thinking)
+    -   [Exploring the territory between instruction-based tutorials and
+        unguided
+        approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
+    -   [Use Modify Create](#use-modify-create)
+    -   [Microworlds and constructionist design
+        principles](#microworlds-and-constructionist-design-principles)
+    -   [Half-baked games as
+        Microworlds](#half-baked-games-as-microworlds)
+    -   [PRIMM](#primm)
+    -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
+    -   [Pair programming & social/collaborative
+        coding](#pair-programming-socialcollaborative-coding)
+    -   [Project based learning PBL](#project-based-learning-pbl)
+        -   [Game making and Project / Problem Based
+            Learning](#game-making-and-project-problem-based-learning)
+        -   [PBL and Authenticity in the domain of teaching
+            programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
+-   [Pedagogical resources in the form of professional practices and
+    frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
+    -   [Design steps frameworks via
+        stages](#design-steps-frameworks-via-stages)
+        -   [Broad design based
+            approaches](#broad-design-based-approaches)
+    -   [MDA and conceptual game elements
+        framework](#mda-and-conceptual-game-elements-framework)
+    -   [Design Patterns and Game Design Patterns in professional
+        context](#design-patterns-and-game-design-patterns-in-professional-context)
+    -   [Using professional frameworks to help novice game
+        makers](#using-professional-frameworks-to-help-novice-game-makers)
+        -   [Using concepts of design patterns and game design
+            patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
+        -   [Using pattern collections and code examples to help
+            students.](#using-pattern-collections-and-code-examples-to-help-students.)
 -   [Informal Education Pedagogies](#informal-education-pedagogies)
-    -   [The role of Agency in Informal
-        Pedagogies](#the-role-of-agency-in-informal-pedagogies)
-    -   [Defining Agency in this study](#defining-agency-in-this-study)
     -   [Defining and conceptualising informal
         education](#defining-and-conceptualising-informal-education)
         -   [Conceptualising informal education via foundational
@@ -36,46 +77,11 @@ title: 2. Literature Review
 -   [Studies with pedagogies addressing barriers to do with identity and
     computer
     cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
--   [Pedagogies from coding for learning community - K12
-    focused](#pedagogies-from-coding-for-learning-community---k12-focused)
-    -   [Also See this writing and
-        adapt](#also-see-this-writing-and-adapt)
-    -   [Definitions of Computational
-        Thinking](#definitions-of-computational-thinking)
-    -   [Exploring the territory between instruction-based tutorials and
-        unguided
-        approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
-    -   [Use Modify Create](#use-modify-create)
-    -   [Microworlds](#microworlds)
-    -   [Half-baked games as
-        Microworlds](#half-baked-games-as-microworlds)
-    -   [PRIMM](#primm)
-    -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
-    -   [Pair programming & social/collaborative
-        coding](#pair-programming-socialcollaborative-coding)
-    -   [Project based learning PBL](#project-based-learning-pbl)
-        -   [Game making and Project / Problem Based
-            Learning](#game-making-and-project-problem-based-learning)
-        -   [PBL and Authenticity](#pbl-and-authenticity)
--   [Pedagogical resources in the form of professional practices and
-    frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
-    -   [Design steps frameworks via
-        stages](#design-steps-frameworks-via-stages)
-        -   [Broad design based
-            approaches](#broad-design-based-approaches)
-    -   [MDA and conceptual game elements
-        framework](#mda-and-conceptual-game-elements-framework)
-    -   [Design Patterns and Game Design Patterns in professional
-        context](#design-patterns-and-game-design-patterns-in-professional-context)
-    -   [Using professional frameworks to help novice game
-        makers](#using-professional-frameworks-to-help-novice-game-makers)
-        -   [Using concepts of design patterns and game design
-            patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
-        -   [Using pattern collections and code examples to help
-            students.](#using-pattern-collections-and-code-examples-to-help-students.)
 -   [Relevant case studies / research in digital making context - Family
     Making, Ito / Gee etc, 5th
     Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+    -   [Specialist coding tools and computational
+        kits](#specialist-coding-tools-and-computational-kits)
     -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
         ?](#family-making---what-in-particular-to-explore)
     -   [Mozilla, Webmaking and code
@@ -181,13 +187,7 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 
 Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
 
-Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016].
-
 See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
-
-
-
 
 
 To effectively answer RQ2 and RQ1 the concept of agency needs disambiguating.  
@@ -198,210 +198,46 @@ Concepts of facilitating the development of agency in education have diverse thr
 
 Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
 
-
-
 Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
 
 The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
 
-
-
-### Instrumental agency
+### Instrumental and relational agency
 
 Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
 
 In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
 
-### Authorial agency
 
-Matusov and colleagues also propose authorial agency [@matusov_mapping_2016] as a useful concept
+### Authorial and transformative agency
+
+Other takes of socio cultural school of research focus less on the individual and more on broader conceptions of activity. Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016].
+
+
+
+Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
 
 DEFINE
 
-bringing transformational agency within that perspective.
+As well as the work on Lave and Wegner on community based conceptions of agency,
+Matusov bases much of the definition of authorial agency on existing work on transformational agency.
 
-Within this definition comes TADS and other takes of socio cultural school of research.
+Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
+
+Specifically, TAS, TADS
+
+TAS from Stetsenko addresses grand ideas of agency directly.
+However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
+
+
+Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
+
+In exploring their differences Hopwood x and y.
 
 Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
-Hopwood outlines three major grounded conceptions of agency  [@hopwood_agency_2022], TAS, TADS and relational agency.
-
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
-
-## Informal Education Pedagogies
-
-To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
-
-Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
-
-
-### Defining and conceptualising informal education
-
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
-
-Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
-
-Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
-
-#### Conceptualising informal education via foundational theory
-
-Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
-
-<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
-
-- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
-
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995] .
-
-- Rogoff - community of learners and 3 foci as a way to frame this in education
-
-<!--
-// don't focus in on DBR save that... -->
-<!-- NOTE - MOVE TO METHODOLOGY
-### Activity as Unit of Analysis
-Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
-
-The vital role of cultural mediation in development [@cole_beyond_1996-1]
-
-This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
-
-### Communities of Practice
-
-communities of practice - legitimate peripheral participation boundaries and Barriers
-
-#### Informal, participatory, digital and gaming communities
-
-Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
-### Guided participation Rogoff and Communities of Learners
-
-<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
-
-(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
-
-Participation on community activities as a valid approach.
-
-Cultural and social factors are vital to development process even if hidden in as school setting.
-Guided participation as a middle ground between instruction and discovery.
-
-Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
-
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
-
-
-
-### Funds of Knowledge
-
-My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
-
-COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
-The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
-- and update outlined here [@rajala_utopian_2023]
-
-
-#### Retro Gaming as a Fund of knowledge - move to intro?
-
-- What is retro gaming? [Nostalgia in Retro Game Design.]
-- Why is it powerful in affect?
-- What potential does that give to family game making?
-
-
-### Mantle of the Expert as a processes drama
-
-A way of leveraging some of the processes outline above in a schooling context.
-
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
-
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
-
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
-
-## Studies with pedagogies addressing barriers to do with identity and computer cultures
-
-**Studies exploring identity and barriers to participation**
-
-Game making is thus a suitable mediumn to support existing collaborative practices and home interests to overcome difficulties in computer coding.
-
-Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
-REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   
-
-**Gender related identities**
-
-The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008).
-
-<!-- Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
-
-
-- girl's low self-confidence in the area of computing compared to their ability [@beyer_gender_2003; @margolis_unlocking_2002]
-
-**Research**
-Extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests [@robertson_making_2012; @robertson_influence_2013].  
-
-The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future.
-
-The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies [@denner_girls_2007] . Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
-
-
-
-**Race related identities**
-
-In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-I adopt a similar approach but use the language of AT contradictions, barriers and tensions.
-
-Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-
-
-**Other Non-dominant identities**
-
-Shift to other tactics like Family Connected Learning Roque.
-
-
-
 ## Pedagogies from coding for learning community - K12 focused
 
 There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
@@ -743,6 +579,181 @@ What could have been different?-->
 No research for GDP pattern collection for to text code games with for CS or game studies in young people.
 
 **Link paragraph to game making pedagogies**
+
+
+
+## Informal Education Pedagogies
+
+To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
+
+Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
+
+
+### Defining and conceptualising informal education
+
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
+
+Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
+
+Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
+#### Conceptualising informal education via foundational theory
+
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+
+<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
+
+- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
+
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995] .
+
+- Rogoff - community of learners and 3 foci as a way to frame this in education
+
+<!--
+// don't focus in on DBR save that... -->
+<!-- NOTE - MOVE TO METHODOLOGY
+### Activity as Unit of Analysis
+Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
+
+The vital role of cultural mediation in development [@cole_beyond_1996-1]
+
+This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
+
+### Communities of Practice
+
+communities of practice - legitimate peripheral participation boundaries and Barriers
+
+#### Informal, participatory, digital and gaming communities
+
+Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
+
+### Guided participation Rogoff and Communities of Learners
+
+<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
+
+(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
+
+Participation on community activities as a valid approach.
+
+Cultural and social factors are vital to development process even if hidden in as school setting.
+Guided participation as a middle ground between instruction and discovery.
+
+Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
+
+This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
+
+
+
+### Funds of Knowledge
+
+My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
+
+COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
+The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+
+Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
+- and update outlined here [@rajala_utopian_2023]
+
+
+#### Retro Gaming as a Fund of knowledge - move to intro?
+
+- What is retro gaming? [Nostalgia in Retro Game Design.]
+- Why is it powerful in affect?
+- What potential does that give to family game making?
+
+
+### Mantle of the Expert as a processes drama
+
+A way of leveraging some of the processes outline above in a schooling context.
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+## Studies with pedagogies addressing barriers to do with identity and computer cultures
+
+**Studies exploring identity and barriers to participation**
+
+Game making is thus a suitable mediumn to support existing collaborative practices and home interests to overcome difficulties in computer coding.
+
+Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
+REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   
+
+**Gender related identities**
+
+The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008).
+
+<!-- Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+
+- girl's low self-confidence in the area of computing compared to their ability [@beyer_gender_2003; @margolis_unlocking_2002]
+
+**Research**
+Extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests [@robertson_making_2012; @robertson_influence_2013].  
+
+The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future.
+
+The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies [@denner_girls_2007] . Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
+
+
+
+**Race related identities**
+
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+I adopt a similar approach but use the language of AT contradictions, barriers and tensions.
+
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+
+
+**Other Non-dominant identities**
+
+Shift to other tactics like Family Connected Learning Roque.
+
 
 
 
