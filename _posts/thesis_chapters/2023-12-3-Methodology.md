@@ -352,24 +352,6 @@ Look for tensions in ATs - and how learners overcome barriers or blockages, is a
 
 ### On agency, activity theory and formative interventions
 
-Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
-
-Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016].
-
-See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
-
-Hopwood outlines three major grounded conceptions of agency  [@hopwood_agency_2022], TAS, TADS and relational agency.
-
-Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
-
-The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
-
-Matusov and colleagues also propose authorial agency [@matusov_mapping_2016] as a useful concept
-
-- DEFINE - bringing transformational agency within that perspective.
-
-For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
 ### On double stimulation and agency
 

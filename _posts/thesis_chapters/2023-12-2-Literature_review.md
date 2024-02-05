@@ -132,9 +132,11 @@ To help answer RQ1 and 2, this literature review explores pedagogies and resourc
 _Specifically in RQ1 terms  - what does authentic mean. A bit of what does agency mean which is followed in chapter three._
 
 Identify types of barriers / obstacles and address pedagogies which address then?
-
 Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
 
+- What is learner agency
+  - definitions of agency and education
+  - what is agency in this context?
 
 - Coverage of wider pedagogical frameworks focused on participants to develop agency in an evolving community.
 
@@ -174,19 +176,64 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
+## Addressing and disambiguating definitions of agency in education
+
+
+Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
+
+Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016].
+
+See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
+
+
+
+
+
+To effectively answer RQ2 and RQ1 the concept of agency needs disambiguating.  
+
+Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
+
+Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
+
+Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
+
+
+
+Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
+
+The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
+
+
+
+### Instrumental agency
+
+Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+
+In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
+
+### Authorial agency
+
+Matusov and colleagues also propose authorial agency [@matusov_mapping_2016] as a useful concept
+
+DEFINE
+
+bringing transformational agency within that perspective.
+
+Within this definition comes TADS and other takes of socio cultural school of research.
+
+Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+Hopwood outlines three major grounded conceptions of agency  [@hopwood_agency_2022], TAS, TADS and relational agency.
+
+For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
+
 ## Informal Education Pedagogies
 
 To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
 
-### The role of Agency in Informal Pedagogies
-
-### Defining Agency in this study
-
-Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
-
-Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes the agency of non-human actors; and authorial agency which involves agentic changes to the learning environment.
-
 Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
+
 
 ### Defining and conceptualising informal education
 
@@ -574,7 +621,7 @@ There are overlapping dimensions and spectrum of authenticity in learning enviro
 
 While PBL has the potential to address all of these factors there is some ambiguity in much of the literature on PBL. EXAPAND WITH CRITICALITY. There is a lack of clear advice on how to ensure authenticity
 
-In the domain of computer programming, 
+In the domain of computer programming,
 
 The next section deals with pedagogical approaches that are rooted in professional or non-educational settings.  
 
