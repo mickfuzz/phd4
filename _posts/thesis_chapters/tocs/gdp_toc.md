@@ -34,16 +34,20 @@
         debugging](#gdps-in-relation-to-project-revision-and-debugging)
         -   [Code Patching as a guided
             process](#code-patching-as-a-guided-process)
-        -   [GDPs used to nurture tactical responses to errors and
-            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
+        -   [GDPs used to nurture tactical responses to coding
+            errors](#gdps-used-to-nurture-tactical-responses-to-coding-errors)
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
 -   [Cultural Dimension](#cultural-dimension)
-    -   [GDPs can encourage learners to design for others - ALSO LINKED
-        TO IDEATION? - is this guided
-        participation?](#gdps-can-encourage-learners-to-design-for-others---also-linked-to-ideation---is-this-guided-participation)
-    -   [The propagation of use of GDPs through
-        playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
+    -   [The role of GDPs to facilitate learners to design for
+        others](#the-role-of-gdps-to-facilitate-learners-to-design-for-others)
+    -   [Role of playtesting and feedback and
+        GDPs](#role-of-playtesting-and-feedback-and-gdps)
+        -   [GDP concepts and language used in informal feedback for
+            peers to influence modification of
+            games](#gdp-concepts-and-language-used-in-informal-feedback-for-peers-to-influence-modification-of-games)
+        -   [The propagation of use of GDPs through
+            playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
     -   [GDPs facilitate the use of wider funds of
         knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
         -   [Problem solving practices as a fund of knowledge (but not
