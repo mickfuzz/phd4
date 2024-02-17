@@ -1,54 +1,63 @@
--   [Introduction to This Writing](#introduction-to-this-writing)
--   [Chapter introduction](#chapter-introduction)
+-   [Research Questions - June 2023](#research-questions---june-2023)
+-   [Notes to restructure](#notes-to-restructure)
+    -   [Chapter outline](#chapter-outline)
+    -   [On GDP as a germ-cell and unit of
+        analysis](#on-gdp-as-a-germ-cell-and-unit-of-analysis)
 -   [Study of Vignette A](#study-of-vignette-a)
     -   [Descriptive Commentary on Vignette
         A](#descriptive-commentary-on-vignette-a)
 -   [Observations and analysis of use of Game Design Patterns by
     participants](#observations-and-analysis-of-use-of-game-design-patterns-by-participants)
-    -   [Using cultural, interpersonal & Personal Planes Analysis of use
-        of
-        GDPs](#using-cultural-interpersonal-personal-planes-analysis-of-use-of-gdps)
+-   [Personal Appropriation](#personal-appropriation)
+    -   [GDPs used to explore computational, design and systems concepts
+        from a perspective of personal
+        appropriation](#gdps-used-to-explore-computational-design-and-systems-concepts-from-a-perspective-of-personal-appropriation)
+-   [Guided Participation](#guided-participation)
+    -   [GDPs offer the potential to assist project navigation, acting
+        as a framework for code examples and step-by-step
+        tutorials](#gdps-offer-the-potential-to-assist-project-navigation-acting-as-a-framework-for-code-examples-and-step-by-step-tutorials)
+    -   [GDPs used to scaffold ideation
+        processes](#gdps-used-to-scaffold-ideation-processes)
+        -   [Paper prototyping mapping visual
+            matrix](#paper-prototyping-mapping-visual-matrix)
+        -   [GDPs as used by participants in their prioritisation in the
+            ideation
+            process](#gdps-as-used-by-participants-in-their-prioritisation-in-the-ideation-process)
+    -   [GDPs aiding the process of division of
+        labour](#gdps-aiding-the-process-of-division-of-labour)
+    -   [The role of GDP used in emerging tool use, technical processes
+        and specialist
+        language](#the-role-of-gdp-used-in-emerging-tool-use-technical-processes-and-specialist-language)
+        -   [Other examples of GDP driving adoption of technical
+            processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
+    -   [GDPs in relation to project revision and
+        debugging](#gdps-in-relation-to-project-revision-and-debugging)
+        -   [Code Patching as a guided
+            process](#code-patching-as-a-guided-process)
+        -   [GDPs used to nurture tactical responses to errors and
+            blockages](#gdps-used-to-nurture-tactical-responses-to-errors-and-blockages)
+        -   [Concluding remarks on debugging and
+            revision](#concluding-remarks-on-debugging-and-revision)
+-   [Cultural Dimension](#cultural-dimension)
+    -   [GDPs can encourage learners to design for others - ALSO LINKED
+        TO IDEATION? - is this guided
+        participation?](#gdps-can-encourage-learners-to-design-for-others---also-linked-to-ideation---is-this-guided-participation)
     -   [The propagation of use of GDPs through
         playtesting](#the-propagation-of-use-of-gdps-through-playtesting)
     -   [GDPs facilitate the use of wider funds of
         knowledge](#gdps-facilitate-the-use-of-wider-funds-of-knowledge)
-    -   [GDPs can aid the use of documentation and
-        resources](#gdps-can-aid-the-use-of-documentation-and-resources)
-        -   [GDPs help learners navigation acting as a framework for
-            code examples and step-by-step
-            tutorials](#gdps-help-learners-navigation-acting-as-a-framework-for-code-examples-and-step-by-step-tutorials)
-        -   [GDPs helping navigation of external
-            documentation](#gdps-helping-navigation-of-external-documentation)
-        -   [Code patching process using GDPs as a
-            base](#code-patching-process-using-gdps-as-a-base)
-    -   [GDPs used to scaffold ideation
-        processes](#gdps-used-to-scaffold-ideation-processes)
-        -   [GDPs used to facilitate prioritisation in the design
-            process](#gdps-used-to-facilitate-prioritisation-in-the-design-process)
-    -   [GDPs aiding the process of division of
-        labour](#gdps-aiding-the-process-of-division-of-labour)
-    -   [GDPs can encourage learners to design for
-        others](#gdps-can-encourage-learners-to-design-for-others)
-    -   [GDP driving adoption of emerging technical
-        processes](#gdp-driving-adoption-of-emerging-technical-processes)
-        -   [Other examples of GDP driving adoption of technical
-            processes](#other-examples-of-gdp-driving-adoption-of-technical-processes)
-    -   [Use of GDPs to support debugging and the product revision
-        process - EDIT DOWN AND
-        MOVE](#use-of-gdps-to-support-debugging-and-the-product-revision-process---edit-down-and-move)
-    -   [GDPs used to explore computational, design and systems
-        concepts](#gdps-used-to-explore-computational-design-and-systems-concepts)
+        -   [Problem solving practices as a fund of knowledge (but not
+            really
+            GDP)](#problem-solving-practices-as-a-fund-of-knowledge-but-not-really-gdp)
 -   [Discussion on the use of game design patterns in the 3M learning
     design](#discussion-on-the-use-of-game-design-patterns-in-the-3m-learning-design)
-    -   [Discussion on the use of design patterns and pattern
-        catalogues](#discussion-on-the-use-of-design-patterns-and-pattern-catalogues)
+    -   [Discussion on GDPs, emerging processes and learner
+        agency](#discussion-on-gdps-emerging-processes-and-learner-agency)
     -   [Game design patterns as a intermediate-level construct to
         facilitate developing coding
         fluency](#game-design-patterns-as-a-intermediate-level-construct-to-facilitate-developing-coding-fluency)
-        -   [Problematising conceptions of abstract / concrete concepts
-            in computing
-            education.](#problematising-conceptions-of-abstract-concrete-concepts-in-computing-education.)
-        -   [Implications for facilitators and
-            designers](#implications-for-facilitators-and-designers)
-    -   [Discussion on GDPs, emerging processes and learner
-        agency](#discussion-on-gdps-emerging-processes-and-learner-agency)
+        -   [Potential implications for facilitators and
+            researchers](#potential-implications-for-facilitators-and-researchers)
+    -   [Discussion on the use of design patterns and pattern
+        catalogues - MERGE WITH THE SECTION
+        ABOVE](#discussion-on-the-use-of-design-patterns-and-pattern-catalogues---merge-with-the-section-above)
