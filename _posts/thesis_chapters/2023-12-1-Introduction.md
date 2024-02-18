@@ -51,11 +51,12 @@ title: 1. Introduction
 
 to come - for now see outline of thesis at the end of chapter
 
-## Research Questions - October 2023
+## Research Questions - Feb 2023
 
-- What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-- How can participants build agency in an evolving community of game makers?
-- How can game design patterns support the development of coding practices with novices?
+1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+2. How can learners build agency in an evolving community of game makers?
+3. How can game design patterns support the development of coding practices with novices?
+
 
 
 <!-- ## Research Questions - Early 2023
@@ -449,7 +450,7 @@ This chapter begins by re-examining of game design patterns and game play design
 
 Chapter six outline the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
 
-Chapter seven concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work. 
+Chapter seven concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
 
 ### Overall key messages & contribution to Knowledge
 

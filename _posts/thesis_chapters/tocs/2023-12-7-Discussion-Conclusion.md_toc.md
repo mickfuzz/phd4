@@ -10,8 +10,8 @@
     -   [Agency, choice and
         practicalities](#agency-choice-and-practicalities)
     -   [PROPOSAL Coding impact on design/ processes on learner agency -
-        boiled
-        down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+        boiled down
+        -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
         -   [Metaphors around creating
             space](#metaphors-around-creating-space)
         -   [Game design to understanding games as a design artefact for
