@@ -12,6 +12,66 @@ title:  5. Parked from - The Use of Gameplay Design Patterns "It’s like a proj
 
 
 
+Thus in this xample the family bring their knowledge of game play patterns and genre conventions and more broadly experience and a perspecive of coding as a creative challenge to the activity.
+
+
+
+The following exchange shows how the use of GDPs help participants navigate the professional practice of forking a codebase and the exploration of developer resources. Technically, he has the courage to divert from the existing game paradigm from platform to maze. Practically it brings up issues as many of the dominant game design patterns are different. Thus the first one they identify that of enemy following is not present in the current menu of choices.
+
+
+
+
+
+
+
+THIS IS STRONGLY LINKED WITH IDEATION - PERHAPS MOVE THERE.
+
+    Dave: Have you thought about pushing it a bit further and have a different style of game?
+    Toby: What do you mean?
+    Dave: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+    Toby: Pause. I don’t know what to do thought.
+    Dave: Well quite but what other games are there? again
+
+Toby adopts with this suggestion readily once he understands Da's suggestion. He then approaches Mick with a suggestion.
+
+    Toby: You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
+    Dave: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+    Toby: Hmm. How should I do this then?
+    Dave: That’s a good question. Shall we ask Mick to see if that would mess things up or not?
+    Toby: Mick
+    Mick: Hi ya.
+    Toby: Erm. Thinking about what game to do . I was thinking can we make like a Pac-man game kind of thing (indicates movement of character with hands)
+    Dave: If we had an on the top game rather than a platform game
+    Mick: I think it could work. You could kind of adapt that game by, kind of, removing gravity.
+    Dave: and see what happens?
+    Mick: and see what happens.
+
+
+LOA FROM COMPUTING PEDAGOGY RELEVANT HERE - WHERE ELSE ARE THEY EXPLORED?
+
+Dave  expresses his desire to for the pair to try something new by implementing a pattern not in the menu of GDPs provided. Their new choice is a change of perspective which involves a new game pattern of a new movement game mechanic. The specific proposal is to remove a jumping game mechanic and using a 2D top down movement mechanic used in maze and adventure games (e.g. Pac-man and Zelda games).
+
+Toby takes on the role of checking these change of direction with me. He uses a concrete example of a game to indicate the shift of genre and games space structure implied, saying "I was thinking can we make like a pacman game kind of thing". Dave  is more explicit naming the shift of perspective and genre. Mick takes this to a concrete code level by making reference to a key change of code that would be involved.
+
+The decision to divert from the existing meny of GDPs and genre can be triangulated with interview data from Dave  on the motivation behind his involvement in volunteering at Coder Dojos.
+
+PERHAPS DROP THIS QUOTE OR WORK OUT HOW TO BETTER INTEGRATE IT?
+
+    Honestly, it's just it's just my hobby and I love it is the main reason. In fact, it's probably the only reason. If I can, if I can persuade / cajole / trick my kids into being involved at the same time, then that's even better. Personally, I think that's about it. I've always been interested in computers. I love, I love, I love programming. I'm no good at pencils and pens drawing or anything like that. But writing software is the closest I get to a creative outlet. So I just love doing that.
+
+Given this additional perspective, I interpret Da's influence to divert as a way of embracing a creative challenge and bringing his child along for the ride. However, Dave  is also aware of potential challenges of straying too far from the template. He does not want to "mess things up".
+
+A BIT ON FORKING ISSUES - TO EXPLORE LATER MOVE BELOW TO DISCUSSION?
+
+This tension has a parallel to a professional practice of "forking" code-bases in open-source code communities. The practice of forking can involve taking a code base in a new direction and the benefits of adaption may be out-weighed by disadvantages including the friction involved in splitting an existing community and duplication of effort. The parent checking with a Mick a guiding community member about the advantages and disadvantages of a major fork in the code structure mirrors this professional tension.
+
+This example shows that while the use of GDP can help support choices within a frame, there is also the ability to break out of that restriction and keep some of the benefits of the shared code base.
+
+My own positive response to their suggestion was driven partly from knowledge of Da's cultural background a both a professional coding and a volunteer supporting children's coding programmes. While simultaneously checking with other groups that they use the starting template as a base, to avoid overload as previously discussed in design decisions, I encourage this pair to see what happens as a potential learning opportunity. I am conscious that the change of movement may open up different possibilities for new game patterns that this pair may be able to solve. This outweighs the possibility that the pair will get bogged down in complex code problems or structures which may be beyond the capacity of the young person. After all even if they encounter father must solve, the apprentice does not need to understand everything in order to benefit from observing the master at work.
+
+
+
+
 #### Code patching process using GDPs as a base
 
 - NOTE - THIS MAY NEED MOVING IF NOT DIRECTLY ALIGNED WITH GDPS (LATER DISCUSSION?)
