@@ -242,3 +242,52 @@ Your mission is to apply the following pattern to your game. There are supportin
 BOX ENDS
 
 While the process of creating these cards of game design patterns linked to the underlying framework is labour intensive, the process offers several potential benefits which may merit the effort, including linking curricular concepts to more concrete experience and aid in navigating the learning experience.
+
+
+
+
+## Personal focus - Discussion on 
+
+<!--
+
+NOTE REMOVED PERSONAL FOCUS SECTION
+
+## The use of GDPs explored from a personal focus
+
+In line with conventional schooling approaches, computing education in formal settings has large focus on the acquisition and testing of personal knowledge and skills. However, following Rogoff's interpretation of this personal plane as participatory appropriation [@rogoff_observing_1995-1], knowledge or processes which individuals adopt, reuse and transform fits within this plane. Thus beyond solo activity demonstrating personal knowledge, expressions of personal knowledge or practices when they are shared back into the community activity are also valid here.
+
+This chapters' examples of interaction of the participants shows the development of the effectiveness and confidence in participants personal communication surrounding articulation of characteristics games and vitally the processes involved in their creation. This section explore participants experience of GDPs from a personal focus and in particular an examination of and practices of debugging and product revision. -->
+
+
+
+<!-- #### Expression of evolution of practices
+Increase effectiveness and confidence in communication surrounding articulation of characteristics of their and others game
+**Example - 2019-03-18 - Suzanna & Olivia in the same session as Vignette A.**
+
+We can contrast Th's general lack of confidence in coding and other peer activities (where she remains on the periphery) with her strong ability to share back progress and decisions during the end of session playtesting.
+using language afforded by GDPs?
+
+HERE INCLUDE  excerpt -  1.05 - Looking for Olivia using GDP language - as well ask drawing on other home interests.
+FIND THIS EXCERPT  -->
+<!-- NOTE - FOLLOWING IS TOO TECHNICAL - REWORD/ REMOVE
+The pattern we see here is less relatable to every day game constructs in the way a game mechanic is. The pattern involved here is a coding pattern and a pattern in process. In code terms you need to add asset in preload, change name in create. In process terms you also need to export in correct format, note location of download, then using the editing tool locate and upload to correct area of the project file structure.
+
+**Discussion on Personal Focus**
+
+NOTE - Sumarise this and shift to another section.
+Probably Discussion
+
+The process of being able to map the demonstrations of development of understanding - of ? concrete practices -  can be important for practitioners. Especially true if the learning environment needs to be justified.
+In this intervention the justification is partly contextual, coding as a desirable employablabilty skill. In other contexts, the justification may be against more abstract curriculum concepts.
+
+My work on a learning dimensions framework for this intervention was driven by integration with curriculum based learning settings to devise a map - similar to drive of Bevan and colleagues to justify learning happening in science-focused tinkering exhibits in museums [-@bevan_learning_2015; -@petrich_it_2013]
+-->
+<!-- NOTE - REMOVE THIS. INCORPORATE HERE?
+The personal plane is explored in a following chapter (working title Maps).
+This will cover findings relating to the value of participatory methods of mapping project progress and potential learning dimensions of activities.
+-->
+<!-- Provide a link to next chapter - but before that a round up / discussion / to specific elements in relation to GDPs
+May need a way to differential this chapters discussion of GDP - and that of the next one.
+ -->
+
+<!-- NOTE - perhaps end this section with some observations of personal expression of understanding as per Bevan et al during playtesting. Then link to next chapter / discussion. completes circle? -->
