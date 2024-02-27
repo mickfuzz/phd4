@@ -66,7 +66,7 @@ SOME NOTES HERE ON conclusions
 
 ### Mid level constructs, frameworks and case studies
 
-When engaging students in project based work there is a value in identifying key elements and characteristics of the kinds of products, experiences of other project outcomes that
+
 
 There are several existing streams of research which explore this area which are potentially useful to draw upon.
 
@@ -80,3 +80,14 @@ Design patterns have been explored as a form of scaffolding [@ertmer_scaffolding
 In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
 Introduce the idea and examples of Case Studies of more specific frameworks that are more tied to the nature of the project itself - or the domain knowledge being explored (either to curricular concepts or specific design practices)
+
+## Putting this into practice
+
+When engaging students in project based work there is a value in identifying key elements and characteristics of the kinds of products, experiences of other project outcomes that are recognisable by students.
+
+Boiling down broad observations into a more limited, "curated" collection of characteristics as a framework or pattern collection is of value to avoid overloading students.
+
+Activities which building familiarity with the element of these frameworks or collections are a useful starting point to design work. For example:
+
+- analysing existing campaigns based on the framework
+- analysing popular games based a framework of common game elements.
