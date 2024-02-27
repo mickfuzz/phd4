@@ -66,8 +66,6 @@ SOME NOTES HERE ON conclusions
 
 ### Mid level constructs, frameworks and case studies
 
-
-
 There are several existing streams of research which explore this area which are potentially useful to draw upon.
 
 - the use of design heuristics in Human Computer Interface work (HCI) [@dearden_pattern_2006; @wania_exploring_2019]
