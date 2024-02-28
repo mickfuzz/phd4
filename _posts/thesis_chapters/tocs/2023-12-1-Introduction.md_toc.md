@@ -1,54 +1,73 @@
--   [Abstract](#abstract)
--   [Research Questions - Feb 2023](#research-questions---feb-2023)
--   [Starting thoughts for contents of
+-   [[0.1]{.toc-section-number} Abstract](#abstract)
+-   [[0.2]{.toc-section-number} Research Questions - Feb
+    2023](#research-questions---feb-2023)
+-   [[0.3]{.toc-section-number} Starting thoughts for contents of
     introduction](#starting-thoughts-for-contents-of-introduction)
--   [Personal context](#personal-context)
-    -   [A response of sorts](#a-response-of-sorts)
--   [Learning game making using text coding
+-   [[0.4]{.toc-section-number} Personal context](#personal-context)
+    -   [[0.4.1]{.toc-section-number} A response of
+        sorts](#a-response-of-sorts)
+-   [[0.5]{.toc-section-number} Learning game making using text coding
     languages](#learning-game-making-using-text-coding-languages)
-    -   [The context of retro gaming](#the-context-of-retro-gaming)
-    -   [Motivations for learning to code specifically via game
+    -   [[0.5.1]{.toc-section-number} The context of retro
+        gaming](#the-context-of-retro-gaming)
+    -   [[0.5.2]{.toc-section-number} Motivations for learning to code
+        specifically via game
         making](#motivations-for-learning-to-code-specifically-via-game-making)
-    -   [Context of game making for educational
+    -   [[0.5.3]{.toc-section-number} Context of game making for
+        educational
         purposes](#context-of-game-making-for-educational-purposes)
-    -   [Computing as a School Subject in the
-        UK](#computing-as-a-school-subject-in-the-uk)
-    -   [Empowerment agenda of authentic computing aligning with
-        personal
+    -   [[0.5.4]{.toc-section-number} Computing as a School Subject in
+        the UK](#computing-as-a-school-subject-in-the-uk)
+    -   [[0.5.5]{.toc-section-number} Empowerment agenda of authentic
+        computing aligning with personal
         motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
-        -   [Authenticity as Empowering](#authenticity-as-empowering)
-    -   [Game Making, Project Based Learning and
+        -   [[0.5.5.1]{.toc-section-number} Authenticity as
+            Empowering](#authenticity-as-empowering)
+    -   [[0.5.6]{.toc-section-number} Game Making, Project Based
+        Learning and
         Inclusion](#game-making-project-based-learning-and-inclusion)
-    -   [Context of digital making and design and home learning of
+    -   [[0.5.7]{.toc-section-number} Context of digital making and
+        design and home learning of
         media](#context-of-digital-making-and-design-and-home-learning-of-media)
-    -   [Context of Home Education and family
-        learning](#context-of-home-education-and-family-learning)
--   [The importance of understanding Projects and socio cultural and
-    activist concepts of
+    -   [[0.5.8]{.toc-section-number} Context of Home Education and
+        family learning](#context-of-home-education-and-family-learning)
+-   [[0.6]{.toc-section-number} The importance of understanding Projects
+    and socio cultural and activist concepts of
     Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
-    -   [Why this study is needed](#why-this-study-is-needed)
--   [Review of relevant barriers to participating in coding practices
-    emerging in the
+    -   [[0.6.1]{.toc-section-number} Why this study is
+        needed](#why-this-study-is-needed)
+-   [[0.7]{.toc-section-number} Review of relevant barriers to
+    participating in coding practices emerging in the
     literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
-    -   [Barrier: Difficulties in learning to
+    -   [[0.7.0.1]{.toc-section-number} Barrier: Difficulties in
+        learning to
         program](#barrier-difficulties-in-learning-to-program)
-    -   [Barrier: Paucity on research on designing for face to face
-        learning communities of novice game makers -
+    -   [[0.7.0.2]{.toc-section-number} Barrier: Paucity on research on
+        designing for face to face learning communities of novice game
+        makers -
         MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move)
-    -   [Barrier - limited leaner choice in
+    -   [[0.7.1]{.toc-section-number} Barrier - limited leaner choice in
         process](#barrier---limited-leaner-choice-in-process)
-    -   [Cultural / Identity barriers to participation in
+    -   [[0.7.2]{.toc-section-number} Cultural / Identity barriers to
+        participation in
         ...](#cultural-identity-barriers-to-participation-in)
-        -   [Barrier - Identity and computer
+        -   [[0.7.2.1]{.toc-section-number} Barrier - Identity and
+            computer
             cultures](#barrier---identity-and-computer-cultures)
-    -   [Barriers - Unsuitable technical tools and support
+    -   [[0.7.3]{.toc-section-number} Barriers - Unsuitable technical
+        tools and support
         documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
-    -   [Barrier - unfamiliarity with support
+    -   [[0.7.4]{.toc-section-number} Barrier - unfamiliarity with
+        support
         practices](#barrier---unfamiliarity-with-support-practices)
--   [Summary of the thesis structure](#summary-of-the-thesis-structure)
-    -   [Research Questions](#research-questions)
-    -   [Chapter outline](#chapter-outline)
-    -   [Overall key messages & contribution to
+-   [[0.8]{.toc-section-number} Summary of the thesis
+    structure](#summary-of-the-thesis-structure)
+    -   [[0.8.1]{.toc-section-number} Research
+        Questions](#research-questions)
+    -   [[0.8.2]{.toc-section-number} Chapter outline](#chapter-outline)
+    -   [[0.8.3]{.toc-section-number} Overall key messages &
+        contribution to
         Knowledge](#overall-key-messages-contribution-to-knowledge)
-    -   [Link to next chapter](#link-to-next-chapter)
--   [Links](#links)
+    -   [[0.8.4]{.toc-section-number} Link to next
+        chapter](#link-to-next-chapter)
+-   [[0.9]{.toc-section-number} Links](#links)
