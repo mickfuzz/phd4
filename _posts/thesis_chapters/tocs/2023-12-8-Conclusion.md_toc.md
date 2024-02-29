@@ -1,1 +1,1 @@
--   [[0.1]{.toc-section-number} Chapter Outline](#chapter-outline)
+-   [Chapter Outline](#chapter-outline)
