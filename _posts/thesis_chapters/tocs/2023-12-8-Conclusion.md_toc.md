@@ -1,1 +1,0 @@
--   [Chapter Outline](#chapter-outline)
