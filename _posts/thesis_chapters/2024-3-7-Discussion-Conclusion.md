@@ -70,6 +70,79 @@ The working draft of this chapter now merges a proposed discussion chapter with 
 3 foci and 3M element compared - save for the conclusion/ discussion?
   https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60  
 
+
+
+
+
+
+
+
+
+## Research output  - WAS Conflicts stemming from tensions between privileging participant choices or underlying computing and systems concepts
+
+While the focus on this research is informal environment, I wanted to create resources and processes which are of potential value to practitioners in the UK classroom. Chapter two explored ways in which digital game making is commonly aligned with curricular areas [@kafai_connected_2016]. It also surfaced tensions that emerge between the exploration of curricular concepts participants desire to follow activities following learner expression and choice [@hoyles_pedagogy_1992].
+
+This section addresses my interventions to resolve this tension. From my own perspective as a research designer/facilitator, there are two dimensions of contradiction which are explored in the following section: one my perception of the contradiction between curriculum and learner choice; the second a conflict which manifested via my hesitancy to introduce tools and activities designed to address this tension.
+
+
+<!-- This conflict provoked me to create resources which could serve to pull participants towards more curricular goals. I adapted and extended resources to suit use in more formal learning environments, e.g. particularly a secondary computing classroom. -->
+
+<!-- stylised in a way that mirrored a map used for navigation in a quest-themed computer game.
+
+As learners traced a trail between the different island/missions they had visited, the map prov new tools is also exploredoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments.
+-->
+
+#### Learning Dimensions Map
+
+Research on _concept maps_ [@canas2003summary] as methods for teachers and researchers to identify key learning suited to particular computing projects has gained traction in the field of computing education [@keppens_concept_2008; @noauthor_quick_2020; @weinerth_concept_2014]. The value of facilitators presenting concepts  and asking students to create maps of concepts for formative assessment. In addition, there is value in mapping which are likely to occur in project work especially when such concepts are embedded in activity in a way which resists superficial analysis. Research on hands-on tinkering in science museums by Bevan and Petrich [-@petrich_it_2013] together with educators examined video footage of families interacting with exhibits to make a structured list of the learning they observed. Their resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
+
+Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
+
+<!-- In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. -->
+
+<!-- Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects.  -->
+
+
+<!-- NOTE WHY THESE CONCEPTS? -->
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+
+To illustrate these concepts in more depth, I created concise descriptions of the concepts [^2], and cross referenced with examples of the concepts in practice in the application common game features[^3]. This process aimed to be an aid to my existing attempts to highlight relevant concepts in-situ.
+
+In journal notes I note my attempts to find learning relating to abstract concepts happening in-situ. A common example of use of loops or arrays or functions. I would highlight their use by participants and link to their activity. This mirrors the concept of the value of abstract in context for wider application is underlined in the work Davydov of rising to the concrete [@valsiner_cultural-historical_2007].
+
+#### The potential of learning and navigational maps
+
+This process of mapping this framework is potentially of use for teachers and other researchers to help their observation of students in game making activities to align with design, coding and computational concepts. Offering student choice in project work can create stressful demands on a teacher trying to support a diverse design paths [@blumenfeld_motivating_1991; @cole_fifth_2006]. To address this issue practically, rather than students working on varied game types and features, I restricted the genre of game and offered a significant but limited menu of features, a process explored in the next section. The mapping of specific design features to the related concepts, as outlined above, has potential to aid teachers and students to track and correlate the underlying curricular concepts being explored in these divergent learning pathways.
+
+The process of adapting this learning design to the needs of more formal settings can be aligned to existing research on this area. For example the concept of semantic waves is relevant here as a way of visioning the alternation between concrete design experience and communicating the underlying abstract concepts [@curzon_using_2020; @maton_making_2013].   
+
+However, despite this alignment and potential utility in a school setting, I was reluctant to introduce these resources in this informal context, reflecting the lack of external motivation for participants to align with curricular demands driven by exam requirements. Introducing additional mediational tools with the aim of the communicating and reinforcing abstract computing or systems concepts risked effectively establishing a new competing activity system. This perspective validates my reluctance to introduce additional distracting stimulus, instead prioritising time spent in on-going hands on experimentation, peer learning and playful activities. Additionally, while this approach aligns with situated  understandings of knowledge which problematise the separation of the content to be learned from the embodied social activity itself [@rogoff_observing_1995; @leontev_problem_1974], this alignment did not halt my concern over remaining locked into concrete experience and not developing awareness of repeated abstract concepts which could be of future generalised utility [@maton_making_2013]. My ongoing discomfort surrounding the validity of the learning experience without direct alignment to abstract content, stem from wider concerns around avoiding danger of tacit learning by reinforcing learning and spur metacognition [@gherardi_toward_1998]. Even if generalisable concepts can be encountered in the context of an learner-driven activity, they may not be explored without guidance from others. Hoyles and Noss term this tension a 'play paradox' [@hoyles_pedagogy_1992, p.46]. This theme is explored in more detail in chapter six concentrating on social processes rather than external documentation.
+
+
+<!-- Thus, while this aspect and merits further exploration to potential help classroom practice, this is be beyond the scope of this thesis. -->
+
+<!-- This reflection was helpful for me as a researcher in that it helped decided to keep the focus on this study on more informal and organically evolving processes.  -->
+
+<!--
+My progress in this study would have been more direct if I had not attempted to resolve the conflict between the informal choice and curriculum alignment. -->
+
+<!-- Despite this, the niggling feeling, it looks like fun but are they learning, remained.  -->
+
+
+
+
+
 ## 3M through the lens of agency
 
 In previous chapters, we have looked at broad conceptions of agency in the emergence of learning communities.
