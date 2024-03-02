@@ -10,6 +10,142 @@ categories: chapter
 title: 3. Methodology
 ---
 
+-   [Methodology](#methodology)
+    -   [Research Questions - May 2023](#research-questions---may-2023)
+    -   [Theoretical Framework](#theoretical-framework)
+        -   [Primary framework Activity
+            Theory](#primary-framework-activity-theory)
+        -   [Socio cultural approaches and the primacy of
+            context](#socio-cultural-approaches-and-the-primacy-of-context)
+        -   [Context and Generalisation of
+            results:](#context-and-generalisation-of-results)
+        -   [Utility of research:](#utility-of-research)
+        -   [Justification of choice (esp compared to
+            contructionism)](#justification-of-choice-esp-compared-to-contructionism)
+    -   [Conceptualising activity in this learning
+        design](#conceptualising-activity-in-this-learning-design)
+        -   [Levels of Abstraction in Activity
+            Theory](#levels-of-abstraction-in-activity-theory)
+            -   [Choosing smaller units of
+                analysis](#choosing-smaller-units-of-analysis)
+        -   [The role of contradictions between activity system
+            elements](#the-role-of-contradictions-between-activity-system-elements)
+    -   [Conceptualising agency](#conceptualising-agency)
+        -   [On agency, activity theory and formative
+            interventions](#on-agency-activity-theory-and-formative-interventions)
+        -   [On double stimulation and
+            agency](#on-double-stimulation-and-agency)
+            -   [On affordances and
+                anchors](#on-affordances-and-anchors)
+    -   [DBR and formative interventions - MOVE UP
+        ?](#dbr-and-formative-interventions---move-up)
+        -   [Design-based research and formative intervention studies
+            within educational
+            field](#design-based-research-and-formative-intervention-studies-within-educational-field)
+        -   [Early limits of DBR addressed by expansive learning - and
+            formative
+            interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
+        -   [Exploring specific techniques of formative interventions -
+            DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS
+            INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR
+            EXAMPLE](#exploring-specific-techniques-of-formative-interventions---drop-for-a-more-personal-take-so-comparative-to-this-intervention-find-more-direct-parallels-5d-for-example)
+    -   [Agreeing terminology](#agreeing-terminology)
+        -   [Overall process DBR or CHAT or
+            Fomative](#overall-process-dbr-or-chat-or-fomative)
+        -   [Disambiguating terminology - Conflicts, tensions,
+            contradictions,
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+    -   [Data Gathering and
+        Preparation](#data-gathering-and-preparation)
+        -   [Aligning data gathering and analysis with socio cultural
+            approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
+            -   [Describing the formative intervention of this
+                research](#describing-the-formative-intervention-of-this-research)
+        -   [Data Processing](#data-processing)
+            -   [360 Video Processing](#video-processing)
+            -   [Screen Capture Processing](#screen-capture-processing)
+            -   [Learnings and
+                recommendations](#learnings-and-recommendations)
+    -   [Data analysis methods and
+        justification](#data-analysis-methods-and-justification)
+        -   [Interview data](#interview-data)
+            -   [Practitioner interviews](#practitioner-interviews)
+            -   [Participant interviews](#participant-interviews)
+            -   [Limitations in interview
+                data](#limitations-in-interview-data)
+        -   [Other data](#other-data)
+    -   [Analysis of Video overview](#analysis-of-video-overview)
+        -   [Rational and approach of video data
+            analysis](#rational-and-approach-of-video-data-analysis)
+    -   [Detailed transcription of video
+        sources](#detailed-transcription-of-video-sources)
+        -   [Transcription/description of
+            data](#transcriptiondescription-of-data)
+            -   [Grades of video data
+                analysis](#grades-of-video-data-analysis)
+            -   [Justification of selecting sessions and sections for
+                more detailed
+                analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
+            -   [Incorporating gesture and wider movement in
+                analysis](#incorporating-gesture-and-wider-movement-in-analysis)
+            -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
+    -   [Thematic analysis of video
+        data](#thematic-analysis-of-video-data)
+        -   [Notes on Underpinning of Thematic Analysis of Video
+            Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
+            -   [What was Excluded and
+                Rationale](#what-was-excluded-and-rationale)
+            -   [Coding Participant Roles and
+                Interactions.](#coding-participant-roles-and-interactions.)
+            -   [Coding Design Cycle
+                Stages](#coding-design-cycle-stages)
+            -   [Coding Game Design Themes](#coding-game-design-themes)
+        -   [PROPOSAL Coding impact on design/ processes on learner
+            agency - boiled down
+            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+        -   [Limits of / problems with video data
+            analysis](#limits-of-problems-with-video-data-analysis)
+        -   [Analysis of activities based on Cultural, Interpersonal and
+            Personal
+            focusing](#analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing)
+        -   [Discussion on evolving coding process - PERHAPS SHIFT TO
+            LAST CHAPTER
+            finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
+        -   [Data Validity - Triangulation of
+            Data](#data-validity---triangulation-of-data)
+        -   [Generalisation of Results](#generalisation-of-results)
+    -   [Research Questions](#research-questions)
+        -   [How Research Questions
+            Evolved](#how-research-questions-evolved)
+        -   [What research questions are answered by what data gathering
+            and analysis - and described in what
+            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
+    -   [Discussion on Methodology](#discussion-on-methodology)
+        -   [Discussion](#discussion)
+        -   [Authenticity - creating
+            value](#authenticity---creating-value)
+    -   [Summary of design evolution](#summary-of-design-evolution)
+        -   [P1: Exploratory stage: Oct 2017 - Dec
+            2018](#p1-exploratory-stage-oct-2017---dec-2018)
+        -   [P2: Accelerated game making programme (5 weeks): Jan - Feb
+            2019](#p2-accelerated-game-making-programme-5-weeks-jan---feb-2019)
+        -   [P3: Adding a process drama to the game making programme:
+            April - May
+            2019](#p3-adding-a-process-drama-to-the-game-making-programme-april---may-2019)
+        -   [P4: Adapting to MakeCode Arcade and more formal settings:
+            Jan 2020 - September
+            2020](#p4-adapting-to-makecode-arcade-and-more-formal-settings-jan-2020---september-2020)
+        -   [On the emergent and mutual nature of the design and
+            research
+            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
+            -   [Note on creation of learning and teaching
+                resources](#note-on-creation-of-learning-and-teaching-resources)
+        -   [More material on Expansive Learning / Formative
+            Inteventions /
+            DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
+    -   [Transition to next Chapter](#transition-to-next-chapter)
+
+
 # Methodology
 <!-- Also see this writing.
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
@@ -545,24 +681,24 @@ One of the challenges of adopting a naturalistic research approach is to work wi
 
 ### Interview data
 
-
+<!--
 #### Practitioner  interviews
 
 Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
 
 The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
 
-The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
+The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone. -->
 
 #### Participant interviews
 
-These interviews took place at the end of P4
+These interviews took place at the end of between P3 and P4.
 
 At times the resources that the
 
 These interviews allowed triangulation and confirmation of data observered in video recordings.
 
-Limitations, In retrospect, shorter interviews
+Limitations, in retrospect, shorter interviews more regularly in the process would have been benefi
 
 #### Limitations in interview data
 
@@ -978,6 +1114,17 @@ Perhaps summarise the the context, and motivations of the above case studies are
 
 ## Summary of design evolution
 
+
+I conclude this chapter with a section that introduces the next chapter which is a rich description of the evolution of the learning design.
+
+More than a design the result was a dynamic community which is analysed on several scopes of activity.
+
+Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
+
+- mutual appropriation and ethics of participation rather than extraction
+- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
+- the difficulties of transmitting research outcomes to non-academics - give positive examples.
+
 <!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 see updated table in tables subdirectory  
 -->
@@ -1073,19 +1220,19 @@ The concept of the feel of the game or the challenges maps to the Dynamics of MD
  -->
 
 
-#### P2: Accelerated game making programme (5 weeks): Jan - Feb 2019
+#### P3: Accelerated game making programme (5 weeks): Jan - Feb 2019
 
 By the beginning of P2 most of the resources and activities were in place and relatively stable. There were some incremental evolutions in the template that stemmed from participant feedback and my reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants. The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.
 
-#### P3: Adding a process drama to the game making programme: April - May 2019
+#### P4: Adding a process drama to the game making programme: April - May 2019
 
 P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
 
-#### P4: Adapting to MakeCode Arcade and more formal settings: Jan 2020 - September 2020
+<!-- #### P4: Adapting to MakeCode Arcade and more formal settings: Jan 2020 - September 2020
 
 I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter. In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding approach. In 2020 I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
-This thesis draws for the most part on data from P2 and P3 and thus focuses on text-based coding as a primary method.
+This thesis draws for the most part on data from P2 and P3 and thus focuses on text-based coding as a primary method. -->
 
 ### On the emergent and mutual nature of the design and research process
 
@@ -1112,18 +1259,10 @@ _posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
 
 
 
-## Transition to next Chapter - About the specifics of mutual evolution of Learning DESIGN
+## Transition to next Chapter
+If needed.
 
 
-I conclude this chapter with a section that introduces the next chapter which is a rich description of the evolution of the learning design.
-
-More than a design the result was a dynamic community which is analysed on several scopes of activity.
-
-Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
-
-- mutual appropriation and ethics of participation rather than extraction
-- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
-- the difficulties of transmitting research outcomes to non-academics - give positive examples.
 -
 
 
@@ -1151,7 +1290,7 @@ Another guiding principle of design-based research - which is present in the tec
   Journal notes on participation, screen capture data, participant interviews, all but one sessions 360 camera
 
   5       October -- December 2019   
-  Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                            Journal notes on participation, extensive screen capture data, participant interviews, all sessions 360 camera
+  Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                           Journal notes on participation, extensive screen capture data, participant interviews, all sessions 360 camera
 
   6       Jan-March 2020             
   Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                               -->

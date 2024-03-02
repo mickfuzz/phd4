@@ -89,8 +89,8 @@
                 Stages](#coding-design-cycle-stages)
             -   [Coding Game Design Themes](#coding-game-design-themes)
         -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled
-            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+            agency - boiled down
+            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
         -   [Limits of / problems with video data
             analysis](#limits-of-problems-with-video-data-analysis)
         -   [Analysis of activities based on Cultural, Interpersonal and
@@ -123,11 +123,12 @@
         -   [P4: Adapting to MakeCode Arcade and more formal settings:
             Jan 2020 - September
             2020](#p4-adapting-to-makecode-arcade-and-more-formal-settings-jan-2020---september-2020)
-        -   [Note on creation of learning and teaching
-            resources](#note-on-creation-of-learning-and-teaching-resources)
+        -   [On the emergent and mutual nature of the design and
+            research
+            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
+            -   [Note on creation of learning and teaching
+                resources](#note-on-creation-of-learning-and-teaching-resources)
         -   [More material on Expansive Learning / Formative
             Inteventions /
             DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
-    -   [Transition to next Chapter - About the specifics of mutual
-        evolution of Learning
-        DESIGN](#transition-to-next-chapter---about-the-specifics-of-mutual-evolution-of-learning-design)
+    -   [Transition to next Chapter](#transition-to-next-chapter)
