@@ -1257,8 +1257,6 @@ How does this methodology relate / add to existing models?
 _posts/thesis_chapters/holding/methodology_notes_longform_pre_spring_2022.md
 
 
-
-
 ## Transition to next Chapter
 If needed.
 
