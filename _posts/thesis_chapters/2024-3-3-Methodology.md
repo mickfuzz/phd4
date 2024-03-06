@@ -151,11 +151,13 @@ title: 3. Methodology
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 
-## Research Questions - May 2023
+## Research Questions - Feb 2024
 
-- What pedagogical resources are available to support novices learning coding, particularly in game making communities?
-- How can learners build agency in an evolving community of game makers?
-- How can game design patterns support the development of coding practices with novices?
+1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+2. How can learners build agency in an evolving community of game makers?
+3. How can game design patterns support the development of coding practices with novices?
+
+
 
 
 <!-- ### Coding based on chapter 4 -->
@@ -238,7 +240,7 @@ While the concept of utility is slippery their is an increasing stream of resear
 
 ### Justification of choice (esp compared to contructionism)
 
---- 
+---
 MOVED FROM ANOTHER SECTION SEE IF IT FITS.
 
 Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
