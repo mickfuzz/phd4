@@ -241,6 +241,7 @@ While the concept of utility is slippery their is an increasing stream of resear
 ### Justification of choice (esp compared to contructionism)
 
 ---
+
 MOVED FROM ANOTHER SECTION SEE IF IT FITS.
 
 Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
