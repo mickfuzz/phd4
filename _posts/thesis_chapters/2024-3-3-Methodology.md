@@ -198,6 +198,12 @@ Emergent
 
 <!-- IMPLICIT ## Justification of choice of methodology -->
 
+
+
+
+
+
+
 ### Primary framework Activity Theory
 
 In the literature review we explored sociocultural views on learning and development on learning in created cultures.
@@ -231,6 +237,18 @@ While the concept of utility is slippery their is an increasing stream of resear
 
 
 ### Justification of choice (esp compared to contructionism)
+
+--- 
+MOVED FROM ANOTHER SECTION SEE IF IT FITS.
+
+Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
+
+- mutual appropriation and ethics of participation rather than extraction
+- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
+- the difficulties of transmitting research outcomes to non-academics - give positive examples.
+
+----
+
 
 Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
 oloughlin_rethinking_1992
@@ -526,7 +544,7 @@ In addition the concept of diversion from the primary task are relevant to the m
 
 ## Agreeing terminology
 
-### Overall process DBR or CHAT or Fomative
+### Overall process DBR or CHAT or FORESHADOWmative
 
 Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
 
@@ -584,29 +602,7 @@ There is a framework for looking at tensions here.
 https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
 
 
-#### Describing the formative intervention of this research
 
-The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants.
-
-One experimental team consisted of Home Educating families another involved local primary schools with Year 6 (10-11 year old) classes. Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-
-**Practical factors**
-
-Key contextual factors have facilitated and shaped development of the research design including:
-
-- Impact of research practicalities
-- The location at the university
-
-<!-- Eliza effect? If so how relevant? -->
-
-The availability of resources potentially  attractive to this audience.
-
-For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.  
-
-and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
-
-Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims.
 
 
 ### Data Processing
@@ -947,8 +943,6 @@ REMOVED AS PROPOSAL BUT INSTEAD HOW TO ADDRESS THIS?
 
 FIND ANOTHER FRAMEWORK FOR AGENCY AND CODE TO THAT.
 
-
-
 Answering RQ - on pedagogical resources / agency / use of GDPs
 
 THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
@@ -1117,13 +1111,35 @@ Perhaps summarise the the context, and motivations of the above case studies are
 
 I conclude this chapter with a section that introduces the next chapter which is a rich description of the evolution of the learning design.
 
+### Describing the formative intervention of this research
+
+The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants.
+
+The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
+**Practical factors**
+
+Key contextual factors have facilitated and shaped development of the research design including:
+
+- Impact of research practicalities
+- The location at the university
+
+<!-- Eliza effect? If so how relevant? -->
+
+The availability of resources potentially  attractive to this audience.
+
+For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.  
+
+and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
+
+Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims.
+
+### On the details of the design
+
 More than a design the result was a dynamic community which is analysed on several scopes of activity.
 
-Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
 
-- mutual appropriation and ethics of participation rather than extraction
-- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
-- the difficulties of transmitting research outcomes to non-academics - give positive examples.
 
 <!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 see updated table in tables subdirectory  
