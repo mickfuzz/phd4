@@ -1,5 +1,5 @@
 -   [Methodology](#methodology)
-    -   [Research Questions - May 2023](#research-questions---may-2023)
+    -   [Research Questions - Feb 2024](#research-questions---feb-2024)
     -   [Theoretical Framework](#theoretical-framework)
         -   [Primary framework Activity
             Theory](#primary-framework-activity-theory)
@@ -39,7 +39,7 @@
             EXAMPLE](#exploring-specific-techniques-of-formative-interventions---drop-for-a-more-personal-take-so-comparative-to-this-intervention-find-more-direct-parallels-5d-for-example)
     -   [Agreeing terminology](#agreeing-terminology)
         -   [Overall process DBR or CHAT or
-            Fomative](#overall-process-dbr-or-chat-or-fomative)
+            FORESHADOWmative](#overall-process-dbr-or-chat-or-foreshadowmative)
         -   [Disambiguating terminology - Conflicts, tensions,
             contradictions,
             dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
@@ -47,8 +47,6 @@
         Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural
             approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
-            -   [Describing the formative intervention of this
-                research](#describing-the-formative-intervention-of-this-research)
         -   [Data Processing](#data-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
@@ -57,7 +55,6 @@
     -   [Data analysis methods and
         justification](#data-analysis-methods-and-justification)
         -   [Interview data](#interview-data)
-            -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
             -   [Limitations in interview
                 data](#limitations-in-interview-data)
@@ -113,16 +110,18 @@
         -   [Authenticity - creating
             value](#authenticity---creating-value)
     -   [Summary of design evolution](#summary-of-design-evolution)
-        -   [P1: Exploratory stage: Oct 2017 - Dec
-            2018](#p1-exploratory-stage-oct-2017---dec-2018)
-        -   [P2: Accelerated game making programme (5 weeks): Jan - Feb
-            2019](#p2-accelerated-game-making-programme-5-weeks-jan---feb-2019)
-        -   [P3: Adding a process drama to the game making programme:
-            April - May
-            2019](#p3-adding-a-process-drama-to-the-game-making-programme-april---may-2019)
-        -   [P4: Adapting to MakeCode Arcade and more formal settings:
-            Jan 2020 - September
-            2020](#p4-adapting-to-makecode-arcade-and-more-formal-settings-jan-2020---september-2020)
+        -   [Describing the formative intervention of this
+            research](#describing-the-formative-intervention-of-this-research)
+        -   [On the details of the
+            design](#on-the-details-of-the-design)
+            -   [P1: Exploratory stage: Oct 2017 - Dec
+                2018](#p1-exploratory-stage-oct-2017---dec-2018)
+            -   [P3: Accelerated game making programme (5 weeks): Jan -
+                Feb
+                2019](#p3-accelerated-game-making-programme-5-weeks-jan---feb-2019)
+            -   [P4: Adding a process drama to the game making
+                programme: April - May
+                2019](#p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019)
         -   [On the emergent and mutual nature of the design and
             research
             process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
