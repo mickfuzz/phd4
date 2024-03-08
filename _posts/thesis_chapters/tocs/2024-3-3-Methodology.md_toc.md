@@ -1,15 +1,5 @@
 -   [Methodology](#methodology)
     -   [Research Questions - Feb 2024](#research-questions---feb-2024)
-    -   [Theoretical Framework](#theoretical-framework)
-        -   [Primary framework Activity
-            Theory](#primary-framework-activity-theory)
-        -   [Socio cultural approaches and the primacy of
-            context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [Context and Generalisation of
-            results:](#context-and-generalisation-of-results)
-        -   [Utility of research:](#utility-of-research)
-        -   [Justification of choice (esp compared to
-            contructionism)](#justification-of-choice-esp-compared-to-contructionism)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
         -   [Levels of Abstraction in Activity
@@ -25,14 +15,6 @@
             agency](#on-double-stimulation-and-agency)
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
-    -   [DBR and formative interventions - MOVE UP
-        ?](#dbr-and-formative-interventions---move-up)
-        -   [Design-based research and formative intervention studies
-            within educational
-            field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-        -   [Early limits of DBR addressed by expansive learning - and
-            formative
-            interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
         -   [Exploring specific techniques of formative interventions -
             DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS
             INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR
