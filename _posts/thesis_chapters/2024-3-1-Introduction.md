@@ -151,6 +151,69 @@ My study, in part, explores ways in which how the motivational and navigational 
 
 
 
+
+## Conceptual Context
+
+### Addressing and disambiguating definitions of agency in education
+
+
+Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
+
+See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
+
+
+To effectively answer RQ2 and RQ1 the concept of agency needs disambiguating.  
+
+Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
+
+Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
+
+Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
+
+Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
+
+The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
+
+#### Instrumental and relational agency
+
+Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+
+In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
+
+
+#### Authorial and transformative agency
+
+Other takes of socio cultural school of research focus less on the individual and more on broader conceptions of activity. Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016].
+
+
+
+Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
+
+DEFINE
+
+As well as the work on Lave and Wegner on community based conceptions of agency,
+Matusov bases much of the definition of authorial agency on existing work on transformational agency.
+
+Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
+
+Specifically, TAS, TADS
+
+TAS from Stetsenko addresses grand ideas of agency directly.
+However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
+
+
+Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
+
+In exploring their differences Hopwood x and y.
+
+Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
+
+
+
+
 ## Educational Context
 
 ### Computing as a School Subject in the UK

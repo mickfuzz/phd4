@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
-
 -   [Literature Review](#literature-review)
     -   [Research Questions - October
         2023](#research-questions---october-2023)
@@ -18,6 +17,30 @@ title: 2. Literature Review
         Introduction](#literature-review-introduction)
     -   [Structuring the literature
         review](#structuring-the-literature-review)
+    -   [Theoretical Framework](#theoretical-framework)
+        -   [Socio cultural approaches and the primacy of
+            context](#socio-cultural-approaches-and-the-primacy-of-context)
+        -   [Primary framework Activity
+            Theory](#primary-framework-activity-theory)
+        -   [Design-based research and formative intervention studies
+            within educational
+            field](#design-based-research-and-formative-intervention-studies-within-educational-field)
+        -   [Early limits of DBR addressed by expansive learning - and
+            formative
+            interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
+            -   [Context and Generalisation of
+                results:](#context-and-generalisation-of-results)
+        -   [Utility of research:](#utility-of-research)
+        -   [Justification of choice (esp compared to
+            contructionism)](#justification-of-choice-esp-compared-to-contructionism)
+        -   [Addressing and disambiguating definitions of agency in
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            -   [Instrumental and relational
+                agency](#instrumental-and-relational-agency)
+            -   [Authorial and transformative
+                agency](#authorial-and-transformative-agency)
+    -   [DBR and formative interventions - MOVE UP
+        ?](#dbr-and-formative-interventions---move-up)
     -   [Pedagogies from coding for learning community - K12
         focused](#pedagogies-from-coding-for-learning-community---k12-focused)
         -   [Also See this writing and
@@ -105,32 +128,9 @@ title: 2. Literature Review
         -   [Tensions surrounding authenticity of tool use- move to LIT
             REVIEW / END
             DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
-    -   [Theoretical Framework](#theoretical-framework)
-        -   [Primary framework Activity
-            Theory](#primary-framework-activity-theory)
-        -   [Socio cultural approaches and the primacy of
-            context](#socio-cultural-approaches-and-the-primacy-of-context)
-            -   [Context and Generalisation of
-                results:](#context-and-generalisation-of-results)
-        -   [Utility of research:](#utility-of-research)
-        -   [Justification of choice (esp compared to
-            contructionism)](#justification-of-choice-esp-compared-to-contructionism)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
-    -   [DBR and formative interventions - MOVE UP
-        ?](#dbr-and-formative-interventions---move-up)
-        -   [Design-based research and formative intervention studies
-            within educational
-            field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-        -   [Early limits of DBR addressed by expansive learning - and
-            formative
-            interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
 
 # Literature Review
+
 ## Research Questions - October 2023
 
 - What pedagogical tools and processes are available to support novices to overcome barriers to authentic game coding and design?
@@ -207,6 +207,208 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 
 <!-- NOTE - More to include from here.
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
+
+
+
+
+## Theoretical Framework
+
+
+<!-- The following terms and concepts have already been explored in the literature review.
+- Activity - as unit of analysis  Vygotsky
+- Mediation as concept - cole and wertsch  
+- Rogoff planes - and beyond instruction vs child led - a move towards helping teachers to see patterns - towards understandings in pedagogical terms
+-->
+
+
+<!-- IMPLICIT ## Justification of choice of methodology -->
+
+
+
+
+
+### Socio cultural approaches and the primacy of context
+
+This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
+
+    A central assumption underlying
+    this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
+    the learners’ belief that they are likely to do something meaningful with that which they are learning.
+
+
+
+This primacy of context described above underlies much of the social turn of educational and psychological research.
+
+As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
+
+There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .  
+<!-- [@laveSituatedLearningLegitimate1991]  -->
+
+I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff  and the use of three planes of activity to analyse complex community actions.
+
+### Primary framework Activity Theory
+
+In the literature review we explored sociocultural views on learning and development on learning in created cultures.
+
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
+
+To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
+
+
+
+
+
+
+### Design-based research and formative intervention studies within educational field
+
+Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+
+Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
+
+One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
+
+### Early limits of DBR addressed by expansive learning - and formative interventions
+
+Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR.
+
+A principle of design-based research is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+Engestrom [@engestrom_learning_2009] proposes a more rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
+
+<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work [@engestrom_design_2011]
+
+Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
+
+Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
+
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
+
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
+
+Work on agency in change labs and more wider concepts of formative interventions are important to this study.
+
+  The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
+
+  Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
+
+From  [@engestrom_design_2011]
+
+This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
+
+When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process.
+
+How this maps onto a new activity in informal setting with novice learners is requires some clarification.
+
+There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process.
+
+Other areas are less aligned with existing models propsed by Engeestrom, CL, etc.
+The specific drive for participants to identify new tools,
+
+Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment.
+
+<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
+INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
+->
+
+<!--
+From [@cakir_contradictions_2022]
+
+In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
+
+
+While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
+
+**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
+
+This section has identified broad alignments in direction for CHAT perspective on DBR.
+
+<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
+
+
+
+
+
+#### Context and Generalisation of results:
+
+Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+
+This context of this research, which is x,  
+
+### Utility of research:
+
+While the concept of utility is slippery their is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
+
+
+### Justification of choice (esp compared to contructionism)
+
+---
+
+MOVED FROM ANOTHER SECTION SEE IF IT FITS.
+
+Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
+
+- mutual appropriation and ethics of participation rather than extraction
+- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
+- the difficulties of transmitting research outcomes to non-academics - give positive examples.
+
+----
+
+
+Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
+oloughlin_rethinking_1992
+
+While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000].
+
+The alignments noted by Barab between constructionist approach and apprenticeship also apply to DBR namely "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
+
+Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
+
+
+NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
+
+WHAT DOES BROADER FRAMEWORK OFFER?
+
+
+<!-- Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. -->
+
+
+Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
+
+
+ <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
+
+<!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
+
+
+
+<!-- [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] -->
+
+
+<!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
+
+<!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
+
+Barab and Squire [@barab_design-based_2004]
+
+For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
+
+As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
+
+
+## DBR and formative interventions - MOVE UP ?
+
+My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
+
+MOVE UP - MERGE
+I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
+
+
+
 
 ## Pedagogies from coding for learning community - K12 focused
 
@@ -944,253 +1146,3 @@ PBL is adapted to schools in many settings thus, authenticity is "on a scale" in
 Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
 
 <!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
-
-## Theoretical Framework
-
-
-<!-- The following terms and concepts have already been explored in the literature review.
-- Activity - as unit of analysis  Vygotsky
-- Mediation as concept - cole and wertsch  
-- Rogoff planes - and beyond instruction vs child led - a move towards helping teachers to see patterns - towards understandings in pedagogical terms
--->
-
-
-<!-- IMPLICIT ## Justification of choice of methodology -->
-
-
-
-
-
-
-
-### Primary framework Activity Theory
-
-In the literature review we explored sociocultural views on learning and development on learning in created cultures.
-
-The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
-
-To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
-
-
-### Socio cultural approaches and the primacy of context
-
-This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
-
-    A central assumption underlying
-    this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
-    the learners’ belief that they are likely to do something meaningful with that which they are learning.
-
-
-
-This primacy of context described above underlies much of the social turn of educational and psychological research.
-
-#### Context and Generalisation of results:
-
-Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
-
-This context of this research, which is x,  
-
-### Utility of research:
-
-While the concept of utility is slippery their is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
-
-
-### Justification of choice (esp compared to contructionism)
-
----
-
-MOVED FROM ANOTHER SECTION SEE IF IT FITS.
-
-Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
-
-- mutual appropriation and ethics of participation rather than extraction
-- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
-- the difficulties of transmitting research outcomes to non-academics - give positive examples.
-
-----
-
-
-Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
-oloughlin_rethinking_1992
-
-While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000].
-
-The alignments noted by Barab between constructionist approach and apprenticeship also apply to DBR namely "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
-
-Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
-
-
-NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
-
-WHAT DOES BROADER FRAMEWORK OFFER?
-
-
-<!-- Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. -->
-
-
-Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
-
-
- <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
-
-<!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
-
-
-As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
-
-There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .  
-<!-- [@laveSituatedLearningLegitimate1991]  -->
-
-I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff  and the use of three planes of activity to analyse complex community actions.
-<!-- [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] -->
-
-
-<!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
-
-<!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
-
-Barab and Squire [@barab_design-based_2004]
-
-For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
-NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
-
-As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces.
-
-
-### Addressing and disambiguating definitions of agency in education
-
-
-Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
-
-See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
-
-
-To effectively answer RQ2 and RQ1 the concept of agency needs disambiguating.  
-
-Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
-
-Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
-
-Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
-
-Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
-
-The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
-
-#### Instrumental and relational agency
-
-Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-
-In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
-
-
-#### Authorial and transformative agency
-
-Other takes of socio cultural school of research focus less on the individual and more on broader conceptions of activity. Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016].
-
-
-
-Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
-
-DEFINE
-
-As well as the work on Lave and Wegner on community based conceptions of agency,
-Matusov bases much of the definition of authorial agency on existing work on transformational agency.
-
-Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
-
-Specifically, TAS, TADS
-
-TAS from Stetsenko addresses grand ideas of agency directly.
-However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
-
-
-Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
-
-In exploring their differences Hopwood x and y.
-
-Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
-
-For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
-
-
-
-## DBR and formative interventions - MOVE UP ?
-
-My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
-
-MOVE UP - MERGE
-I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
-
-
-
-
-### Design-based research and formative intervention studies within educational field
-
-Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
-
-Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
-
-One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
-
-### Early limits of DBR addressed by expansive learning - and formative interventions
-
-Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR.
-
-A principle of design-based research is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this varies not a key part of all definitions [@easterday_design-based_2014].
-
-For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
-
-Engestrom [@engestrom_learning_2009] proposes a more rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
-
-<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
-
-Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work [@engestrom_design_2011]
-
-Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
-
-Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
-
-Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
-
-Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
-
-Work on agency in change labs and more wider concepts of formative interventions are important to this study.
-
-  The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
-
-  Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
-
-From  [@engestrom_design_2011]
-
-This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
-
-When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process.
-
-How this maps onto a new activity in informal setting with novice learners is requires some clarification.
-
-There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process.
-
-Other areas are less aligned with existing models propsed by Engeestrom, CL, etc.
-The specific drive for participants to identify new tools,
-
-Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment.
-
-<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
-INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
-->
-
-<!--
-From [@cakir_contradictions_2022]
-
-In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
-
-
-While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
-
-**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
-
-This section has identified broad alignments in direction for CHAT perspective on DBR.
-
-<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->

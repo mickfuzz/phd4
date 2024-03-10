@@ -24,9 +24,9 @@
         -   [On Retro Gaming](#on-retro-gaming)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [The importance of understanding Projects and socio cultural and
-        activist concepts of
-        Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
+        -   [The importance of understanding Projects and socio cultural
+            and activist concepts of
+            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
     -   [Why this study is needed](#why-this-study-is-needed)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
