@@ -646,6 +646,5 @@ Comments include:
 - Thus a very fruitful area for jointly created design research
 - However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.
 
-# From Conclusion - integrate here.
 
 ### How can this map to other computing environments?

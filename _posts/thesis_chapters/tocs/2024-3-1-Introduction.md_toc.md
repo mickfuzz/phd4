@@ -3,8 +3,17 @@
     -   [Research Questions - Feb 2023](#research-questions---feb-2023)
     -   [Starting thoughts for contents of
         introduction](#starting-thoughts-for-contents-of-introduction)
+    -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context](#personal-context)
         -   [A response of sorts](#a-response-of-sorts)
+        -   [Transition COMMENT](#transition-comment)
+    -   [Conceptual Context](#conceptual-context)
+        -   [Addressing and disambiguating definitions of agency in
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            -   [Instrumental and relational
+                agency](#instrumental-and-relational-agency)
+            -   [Authorial and transformative
+                agency](#authorial-and-transformative-agency)
     -   [Educational Context](#educational-context)
         -   [Computing as a School Subject in the
             UK](#computing-as-a-school-subject-in-the-uk)
@@ -19,14 +28,14 @@
                 Empowering](#authenticity-as-empowering)
         -   [Game Making, Project Based Learning and
             Inclusion](#game-making-project-based-learning-and-inclusion)
+        -   [The importance of understanding Projects and socio cultural
+            and activist concepts of
+            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
     -   [Context of digital making and home media
         use](#context-of-digital-making-and-home-media-use)
         -   [On Retro Gaming](#on-retro-gaming)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-        -   [The importance of understanding Projects and socio cultural
-            and activist concepts of
-            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
     -   [Why this study is needed](#why-this-study-is-needed)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the

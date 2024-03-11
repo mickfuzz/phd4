@@ -278,7 +278,8 @@ Include also the powerpoint sheet or link to it.
 
 Extract from Game Jam Guide [@cornish_game_2018]
 
---
+---
+
 As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
 
 **SPACE:** Where the game takes place.
@@ -288,7 +289,8 @@ As part of the introductory activity make sure students are familiar with the 5 
 **RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
 
 Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
---
+
+---
 
 Extract from Game Jam Guide [@cornish_game_2018]
 

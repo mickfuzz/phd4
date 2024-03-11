@@ -93,7 +93,5 @@
             cards](#missing-data-on-starting-game-quick-start-cards)
         -   [Advantages and limitations of Home Education
             context](#advantages-and-limitations-of-home-education-context)
--   [From Conclusion - integrate
-    here.](#from-conclusion---integrate-here.)
-    -   [How can this map to other computing
-        environments?](#how-can-this-map-to-other-computing-environments)
+        -   [How can this map to other computing
+            environments?](#how-can-this-map-to-other-computing-environments)
