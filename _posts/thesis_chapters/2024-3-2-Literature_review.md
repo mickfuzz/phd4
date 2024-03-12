@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
+
 -   [Literature Review](#literature-review)
     -   [Research Questions - October
         2023](#research-questions---october-2023)
@@ -23,20 +24,28 @@ title: 2. Literature Review
             adapt](#also-see-this-writing-and-adapt)
         -   [Definitions of Computational
             Thinking](#definitions-of-computational-thinking)
-            -   [CT as an pedagogical
-                framework](#ct-as-an-pedagogical-framework)
+            -   [Can CT be used as an pedagogical
+                framework](#can-ct-be-used-as-an-pedagogical-framework)
         -   [Exploring the territory between instruction-based tutorials
             and unguided
             approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
         -   [Use Modify Create](#use-modify-create)
-        -   [Microworlds and constructionist design
-            principles](#microworlds-and-constructionist-design-principles)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
         -   [PRIMM](#primm)
         -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
+    -   [Pedagogies for informal
+        settings](#pedagogies-for-informal-settings)
+        -   [Digital informal / participatory culture and
+            Learning](#digital-informal-participatory-culture-and-learning)
+        -   [Microworlds as an embodiment of constructionist design
+            principles](#microworlds-as-an-embodiment-of-constructionist-design-principles)
+            -   [Constructionist design
+                principles](#constructionist-design-principles)
+            -   [Microworlds & constructionist
+                concepts](#microworlds-constructionist-concepts)
+        -   [Half-baked games as
+            Microworlds](#half-baked-games-as-microworlds)
         -   [Project based learning PBL](#project-based-learning-pbl)
             -   [Game making and Project / Problem Based
                 Learning](#game-making-and-project-problem-based-learning)
@@ -50,15 +59,20 @@ title: 2. Literature Review
                 approaches](#broad-design-based-approaches)
         -   [MDA and conceptual game elements
             framework](#mda-and-conceptual-game-elements-framework)
+        -   [Game jams & game
+            competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
             context](#design-patterns-and-game-design-patterns-in-professional-context)
+    -   [Synthesis of chapter /
+        discussion](#synthesis-of-chapter-discussion)
+        -   [Discussion on Informal Education
+            Pedagogies](#discussion-on-informal-education-pedagogies)
         -   [Using professional frameworks to help novice game
             makers](#using-professional-frameworks-to-help-novice-game-makers)
             -   [Using concepts of design patterns and game design
                 patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
             -   [Using pattern collections and code examples to help
                 students.](#using-pattern-collections-and-code-examples-to-help-students.)
-    -   [Informal Education Pedagogies](#informal-education-pedagogies)
         -   [Defining and conceptualising informal
             education](#defining-and-conceptualising-informal-education)
             -   [Conceptualising informal education via foundational
@@ -71,8 +85,6 @@ title: 2. Literature Review
         -   [Funds of Knowledge](#funds-of-knowledge)
             -   [Retro Gaming as a Fund of knowledge - move to
                 intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-        -   [Mantle of the Expert as a processes
-            drama](#mantle-of-the-expert-as-a-processes-drama)
     -   [Studies with pedagogies addressing barriers to do with identity
         and computer
         cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
@@ -92,11 +104,8 @@ title: 2. Literature Review
             -   [Phaser.js](#phaser.js)
             -   [Summary of authenticity- COMMENT OR
                 MOVE](#summary-of-authenticity--comment-or-move)
-        -   [Game jams & game
-            competitions](#game-jams-game-competitions)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
-    -   [Discussion](#discussion)
+    -   [The problem statement of the
+        thesis](#the-problem-statement-of-the-thesis)
         -   [Inequality of access to participatory culture communities
             (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
         -   [Barrier - lack of knowledge of cultural
@@ -122,6 +131,10 @@ title: 2. Literature Review
             contructionism)](#justification-of-choice-esp-compared-to-contructionism)
     -   [DBR and formative interventions - MOVE UP
         ?](#dbr-and-formative-interventions---move-up)
+    -   [Currently Parked from Literature
+        REVIEW](#currently-parked-from-literature-review)
+        -   [Mantle of the Expert as a processes
+            drama](#mantle-of-the-expert-as-a-processes-drama)
 
 # Literature Review
 
@@ -203,17 +216,13 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
 
-
-
 ## Pedagogies from coding for learning community - K12 focused
 
 There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
 
-- UMC / Remixing  - Half-baked games
-- Design approaches - designing for an audience
 - Broader definition of CT, computational fluency / computational participation.
-- Physical methods, feedback, from constructionism
-- Design patterns in Agent sheets
+- UMC / Remixing  - Half-baked games
+
 
 
 #### Also See this writing and adapt
@@ -244,7 +253,7 @@ This interpretation of CT, based on observation of learners in action, is more a
 This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such, it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
 
 
-#### CT as an pedagogical framework
+#### Can CT be used as an pedagogical framework
 
 NOTE - PARTS OF THIS WILL LIVE IN LIT REVIEW.
 
@@ -316,49 +325,6 @@ In a study where students use a block based language to develop simulations - th
 
 
 
-### Microworlds and constructionist design principles
-<!-- (generated by chat gpt) -->
-
-Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
-
-Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. Instead here CT concepts are heuristics developed from concrete experience.  
-This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT.
-
-MOVE TO LR
-There is  research on computing projects in the work of Papert [-@papert_mindstorms_1980] on Mircoworlds and subsequent research on programming tools in the constructionist tradition  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
-
-
-
-
-Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process.
-
-While, examples of a Microworlds are diverse [@rieber_microworlds_2004], a Turtle drawing world using  LOGO can be used here as an example. In the Mathland of the turtle which speaks only LOGO, children are drawn to speak LOGO to progress. The affordances of the physical turtle provide visible motivation.
-
-
-He argued that by working with microworlds, students could engage in hands-on and minds-on learning, which would help them to develop a deeper and more meaningful understanding of the concepts they were studying.
-
-The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1].
-
-Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
-
-**Constructionist design principles**
-
-The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
-
-Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
-
-### Half-baked games as Microworlds
-
-The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
-
-This concept of builds on Papert's concept of micro world used a framework for making and coding.
-
-The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking.
-
-Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
-
-
-
 ### PRIMM
 
 FIND MATERIAL IN OTHER BOOK CHAPTERS
@@ -383,7 +349,6 @@ Figure 3.1 A Semantic Profile with Semantic Waves
 
 Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
-
 ### Pair programming & social/collaborative coding
 
 **Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
@@ -396,6 +361,73 @@ Bring in limits  and extension of research on pair programming to wider groups /
 **Concepts** -  perhaps some of the underlying concepts like
 - joint problem spaces
 - resource interdependence from Preston
+
+
+## Pedagogies for informal settings
+
+
+- Design approaches - designing for an audience
+- Physical methods, feedback, from constructionism
+- Design patterns in Agent sheets
+
+### Digital informal / participatory culture and Learning
+
+Tinkering and Constructionism
+Livingstone
+Sefton green
+ITO and Gee
+
+
+ community activities around the game Gee / Ito
+
+<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
+
+
+### Microworlds as an embodiment of constructionist design principles
+<!-- (generated by chat gpt) -->
+
+
+#### Constructionist design principles
+
+The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
+
+Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
+
+#### Microworlds & constructionist concepts
+
+Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
+
+Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. Instead here CT concepts are heuristics developed from concrete experience.  
+This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT.
+
+MOVE TO LR
+There is  research on computing projects in the work of Papert [-@papert_mindstorms_1980] on Mircoworlds and subsequent research on programming tools in the constructionist tradition  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
+
+
+Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking. In addition to the software based tool of the microworld, the social context is key to the whole process.
+
+While, examples of a Microworlds are diverse [@rieber_microworlds_2004], a Turtle drawing world using  LOGO can be used here as an example. In the Mathland of the turtle which speaks only LOGO, children are drawn to speak LOGO to progress. The affordances of the physical turtle provide visible motivation.
+
+
+He argued that by working with microworlds, students could engage in hands-on and minds-on learning, which would help them to develop a deeper and more meaningful understanding of the concepts they were studying.
+
+The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1].
+
+Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
+
+
+### Half-baked games as Microworlds
+
+The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
+
+This concept of builds on Papert's concept of micro world used a framework for making and coding.
+
+The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking.
+
+Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
+
+
+
 
 
 
@@ -487,6 +519,48 @@ The Mechanics element of the framework has much in common with GDPs. The differe
 The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
 The levels of abstraction of
 
+
+### Game jams & game competitions
+
+Some of the tools that emerge allow participants to rapidly explore game concepts -
+See exercises on -  space, mechanics, rules,
+
+<!-- FROM Here
+_posts/thesis_chapters/planning/lit review/game making/game making environments v5.odt.md -->
+
+Hackathons, Game Jams and accelerated production methods
+
+Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains  [@johnson_civic_2014; @kienzler_learning_2017]
+
+
+The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
+
+Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
+
+Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam [@eberhardt_no_2016].
+
+Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience [@eberhardt_no_2016, p. 3].
+
+Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
+
+Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017]. Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
+
+<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
+<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
+
+The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
+
+Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
+
+GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
+
+Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
+
+The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
+
+The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
+
+
 ### Design Patterns and Game Design Patterns in professional context
 
 NOTE - I think there is material to copy and paste here.
@@ -540,6 +614,16 @@ Could move some of this to the results discussion -
 <!--
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
+## Synthesis of chapter / discussion
+
+
+
+### Discussion on Informal Education Pedagogies
+
+To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
+
+Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
+
 ### Using professional frameworks to help novice game makers
 
 This section examines the use of potential use of these professional tools or processes in an educational context.
@@ -572,14 +656,6 @@ No research for GDP pattern collection for to text code games with for CS or gam
 **Link paragraph to game making pedagogies**
 
 
-
-## Informal Education Pedagogies
-
-To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
-
-Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
-
-
 ### Defining and conceptualising informal education
 
 Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
@@ -588,6 +664,7 @@ Gerber define formal learning as that which happens in school and informal learn
 Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
 
 Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
 
 #### Conceptualising informal education via foundational theory
 
@@ -642,8 +719,6 @@ Teachers benefit from the concept of scaffolding, and designing learning environ
 
 This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
 
-
-
 ### Funds of Knowledge
 
 My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
@@ -663,32 +738,6 @@ Problematising Funds of knowledge and funds of identity which may perpetuate sta
 - Why is it powerful in affect?
 - What potential does that give to family game making?
 
-
-### Mantle of the Expert as a processes drama
-
-A way of leveraging some of the processes outline above in a schooling context.
-
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
-
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
-
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
 
 ## Studies with pedagogies addressing barriers to do with identity and computer cultures
 
@@ -744,9 +793,6 @@ Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_lear
 **Other Non-dominant identities**
 
 Shift to other tactics like Family Connected Learning Roque.
-
-
-
 
 
 ## Relevant case studies / research  in digital making context -  Family Making, Ito / Gee etc, 5th Dimension
@@ -827,59 +873,8 @@ Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser i
 
 Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
 
-### Game jams & game competitions
-
-Some of the tools that emerge allow participants to rapidly explore game concepts -
-See exercises on -  space, mechanics, rules,
-
-<!-- FROM Here
-_posts/thesis_chapters/planning/lit review/game making/game making environments v5.odt.md -->
-
-Hackathons, Game Jams and accelerated production methods
-
-Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains  [@johnson_civic_2014; @kienzler_learning_2017]
 
 
-The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
-
-Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
-
-Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam [@eberhardt_no_2016].
-
-Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience [@eberhardt_no_2016, p. 3].
-
-Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
-
-Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017]. Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
-
-<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
-<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
-
-The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
-
-Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
-
-GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
-
-Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
-
-The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
-
-The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
-
-
-
-### Digital informal / participatory culture and Learning
-
-Livingstone
-Sefton green
-ITO and Gee
-
- community activities around the game Gee / Ito
-
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
-
-Games are funds of knowledge
 
 
 ## The problem statement of the thesis
@@ -986,10 +981,6 @@ In the literature review we explored sociocultural views on learning and develop
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers.
 
 To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
-
-
-
-
 
 
 ### Design-based research and formative intervention studies within educational field
@@ -1139,3 +1130,34 @@ My own research in game making is an experimental approach to create a new learn
 
 MOVE UP - MERGE
 I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
+
+
+
+
+## Currently Parked from Literature REVIEW
+
+### Mantle of the Expert as a processes drama
+
+A way of leveraging some of the processes outline above in a schooling context.
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]

@@ -12,20 +12,28 @@
             adapt](#also-see-this-writing-and-adapt)
         -   [Definitions of Computational
             Thinking](#definitions-of-computational-thinking)
-            -   [CT as an pedagogical
-                framework](#ct-as-an-pedagogical-framework)
+            -   [Can CT be used as an pedagogical
+                framework](#can-ct-be-used-as-an-pedagogical-framework)
         -   [Exploring the territory between instruction-based tutorials
             and unguided
             approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
         -   [Use Modify Create](#use-modify-create)
-        -   [Microworlds and constructionist design
-            principles](#microworlds-and-constructionist-design-principles)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
         -   [PRIMM](#primm)
         -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
+    -   [Pedagogies for informal
+        settings](#pedagogies-for-informal-settings)
+        -   [Digital informal / participatory culture and
+            Learning](#digital-informal-participatory-culture-and-learning)
+        -   [Microworlds as an embodiment of constructionist design
+            principles](#microworlds-as-an-embodiment-of-constructionist-design-principles)
+            -   [Constructionist design
+                principles](#constructionist-design-principles)
+            -   [Microworlds & constructionist
+                concepts](#microworlds-constructionist-concepts)
+        -   [Half-baked games as
+            Microworlds](#half-baked-games-as-microworlds)
         -   [Project based learning PBL](#project-based-learning-pbl)
             -   [Game making and Project / Problem Based
                 Learning](#game-making-and-project-problem-based-learning)
@@ -39,15 +47,20 @@
                 approaches](#broad-design-based-approaches)
         -   [MDA and conceptual game elements
             framework](#mda-and-conceptual-game-elements-framework)
+        -   [Game jams & game
+            competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
             context](#design-patterns-and-game-design-patterns-in-professional-context)
+    -   [Synthesis of chapter /
+        discussion](#synthesis-of-chapter-discussion)
+        -   [Discussion on Informal Education
+            Pedagogies](#discussion-on-informal-education-pedagogies)
         -   [Using professional frameworks to help novice game
             makers](#using-professional-frameworks-to-help-novice-game-makers)
             -   [Using concepts of design patterns and game design
                 patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
             -   [Using pattern collections and code examples to help
                 students.](#using-pattern-collections-and-code-examples-to-help-students.)
-    -   [Informal Education Pedagogies](#informal-education-pedagogies)
         -   [Defining and conceptualising informal
             education](#defining-and-conceptualising-informal-education)
             -   [Conceptualising informal education via foundational
@@ -60,8 +73,6 @@
         -   [Funds of Knowledge](#funds-of-knowledge)
             -   [Retro Gaming as a Fund of knowledge - move to
                 intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-        -   [Mantle of the Expert as a processes
-            drama](#mantle-of-the-expert-as-a-processes-drama)
     -   [Studies with pedagogies addressing barriers to do with identity
         and computer
         cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
@@ -81,10 +92,6 @@
             -   [Phaser.js](#phaser.js)
             -   [Summary of authenticity- COMMENT OR
                 MOVE](#summary-of-authenticity--comment-or-move)
-        -   [Game jams & game
-            competitions](#game-jams-game-competitions)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
     -   [The problem statement of the
         thesis](#the-problem-statement-of-the-thesis)
         -   [Inequality of access to participatory culture communities
@@ -112,3 +119,7 @@
             contructionism)](#justification-of-choice-esp-compared-to-contructionism)
     -   [DBR and formative interventions - MOVE UP
         ?](#dbr-and-formative-interventions---move-up)
+    -   [Currently Parked from Literature
+        REVIEW](#currently-parked-from-literature-review)
+        -   [Mantle of the Expert as a processes
+            drama](#mantle-of-the-expert-as-a-processes-drama)
