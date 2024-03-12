@@ -8,6 +8,9 @@
         -   [A response of sorts](#a-response-of-sorts)
         -   [Transition COMMENT](#transition-comment)
     -   [Conceptual Context](#conceptual-context)
+        -   [The importance of understanding Projects and socio cultural
+            and activist concepts of
+            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
@@ -19,24 +22,22 @@
             UK](#computing-as-a-school-subject-in-the-uk)
         -   [Context of game making for educational
             purposes](#context-of-game-making-for-educational-purposes)
-        -   [Motivations for learning to code specifically via game
-            making](#motivations-for-learning-to-code-specifically-via-game-making)
         -   [Empowerment agenda of authentic computing aligning with
             personal
             motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
             -   [Authenticity as
                 Empowering](#authenticity-as-empowering)
-        -   [Game Making, Project Based Learning and
-            Inclusion](#game-making-project-based-learning-and-inclusion)
-        -   [The importance of understanding Projects and socio cultural
-            and activist concepts of
-            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
+        -   [Project Based Learning and
+            Inclusion](#project-based-learning-and-inclusion)
     -   [Context of digital making and home media
         use](#context-of-digital-making-and-home-media-use)
-        -   [On Retro Gaming](#on-retro-gaming)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Why this study is needed](#why-this-study-is-needed)
+    -   [Context of game making
+        strategies](#context-of-game-making-strategies)
+        -   [Motivations for learning to code specifically via game
+            making](#motivations-for-learning-to-code-specifically-via-game-making)
+        -   [On Retro Gaming](#on-retro-gaming)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -55,11 +56,13 @@
             documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
-    -   [Summary of the thesis
-        structure](#summary-of-the-thesis-structure)
+    -   [Summary of the thesis motivation and
+        structure](#summary-of-the-thesis-motivation-and-structure)
+        -   [Recap of motivation](#recap-of-motivation)
+        -   [Gaps in existing research / Contribution to knowledge of
+            this
+            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
         -   [Research Questions](#research-questions)
         -   [Chapter outline](#chapter-outline)
-        -   [Overall key messages & contribution to
-            Knowledge](#overall-key-messages-contribution-to-knowledge)
         -   [Link to next chapter](#link-to-next-chapter)
     -   [Links](#links)

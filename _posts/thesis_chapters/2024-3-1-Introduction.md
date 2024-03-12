@@ -19,6 +19,9 @@ title: 1. Introduction
         -   [A response of sorts](#a-response-of-sorts)
         -   [Transition COMMENT](#transition-comment)
     -   [Conceptual Context](#conceptual-context)
+        -   [The importance of understanding Projects and socio cultural
+            and activist concepts of
+            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
@@ -30,24 +33,22 @@ title: 1. Introduction
             UK](#computing-as-a-school-subject-in-the-uk)
         -   [Context of game making for educational
             purposes](#context-of-game-making-for-educational-purposes)
-        -   [Motivations for learning to code specifically via game
-            making](#motivations-for-learning-to-code-specifically-via-game-making)
         -   [Empowerment agenda of authentic computing aligning with
             personal
             motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
             -   [Authenticity as
                 Empowering](#authenticity-as-empowering)
-        -   [Game Making, Project Based Learning and
-            Inclusion](#game-making-project-based-learning-and-inclusion)
+        -   [Project Based Learning and
+            Inclusion](#project-based-learning-and-inclusion)
     -   [Context of digital making and home media
         use](#context-of-digital-making-and-home-media-use)
-        -   [On Retro Gaming](#on-retro-gaming)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-        -   [The importance of understanding Projects and socio cultural
-            and activist concepts of
-            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
-    -   [Why this study is needed](#why-this-study-is-needed)
+    -   [Context of game making
+        strategies](#context-of-game-making-strategies)
+        -   [Motivations for learning to code specifically via game
+            making](#motivations-for-learning-to-code-specifically-via-game-making)
+        -   [On Retro Gaming](#on-retro-gaming)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -66,15 +67,16 @@ title: 1. Introduction
             documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
-    -   [Summary of the thesis
-        structure](#summary-of-the-thesis-structure)
+    -   [Summary of the thesis motivation and
+        structure](#summary-of-the-thesis-motivation-and-structure)
+        -   [Recap of motivation](#recap-of-motivation)
+        -   [Gaps in existing research / Contribution to knowledge of
+            this
+            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
         -   [Research Questions](#research-questions)
         -   [Chapter outline](#chapter-outline)
-        -   [Overall key messages & contribution to
-            Knowledge](#overall-key-messages-contribution-to-knowledge)
         -   [Link to next chapter](#link-to-next-chapter)
     -   [Links](#links)
-
 
 # Introduction
 ## Abstract
@@ -167,6 +169,20 @@ Conversely, changes happen within wider systems, which can push back to reverse 
 
 ## Conceptual Context
 
+
+### The importance of understanding Projects and socio cultural and activist concepts of Activity
+
+In this section I briefly explain CHAT as a suitable choice to explore this research based around a shared project.
+
+I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition.
+
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+In addition the wider framework of CHAT is optimistic but realistic in the focus on the possibility of change.
+
+This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+
+
 ### Addressing and disambiguating definitions of agency in education
 
 To effectively answer RQ2 the concept of agency needs disambiguating.  
@@ -222,6 +238,7 @@ Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @s
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
 
+
 ## Educational Context
 
 ### Computing as a School Subject in the UK
@@ -246,22 +263,6 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
 
 
-### Motivations for learning to code specifically via game making
-
-Broadly game making and creative coding can he
-
-- for intrinsic pleasure of making games or other products
-- for commercial purposes to join games industry
-- STEM pipeline in more general terms
-- for empowerment of individual and health of society
-
-also
-
-    - From Kafai's review (not directly) draw on
-    - personal
-    - more general / social / 21st C, computational fluency
-    - more general / social / 21st C,
-    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
 
 
 ### Empowerment agenda of authentic computing aligning with personal motivations
@@ -306,7 +307,8 @@ Javascript is an authentic language, core the web. Phaser is a professional and 
 In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
 
 
-### Game Making, Project Based Learning and Inclusion
+
+### Project Based Learning and Inclusion
 
 Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
 
@@ -337,18 +339,6 @@ The researchers outline how the three stages of CRA (Concrete, Representational 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
 
 
-### The importance of understanding Projects and socio cultural and activist concepts of Activity
-
-In this section I briefly explain CHAT as a suitable choice to explore this research based around a shared project.
-
-I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
-
-In addition the wider framework of CHAT is optimistic but realistic in the focus on the possibility of change.
-
-This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
-
 
 
 
@@ -371,14 +361,6 @@ Kafai and Burke's extensive work proposes applying the power of Gee's work aroun
 In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
 
 
-### On Retro Gaming
-
-One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
-
-What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
-
-Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
-due to the limited capabilities of the hardware and storage space involved. These limits suit the capabilities of the chosen design tool Phaser.js.
 
 ### Context of Home Education and family learning
 
@@ -398,16 +380,33 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
 -
 
-## Why this study is needed
+## Context of game making strategies
 
-Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+### Motivations for learning to code specifically via game making
 
-Thus why would this study based on observations of one context be of use?
-Thoughts:  
-  - similar contexts exist
-  - underlying treads may emerge which may transcend context  
+Broadly game making and creative coding can he
 
+- for intrinsic pleasure of making games or other products
+- for commercial purposes to join games industry
+- STEM pipeline in more general terms
+- for empowerment of individual and health of society
 
+also
+
+    - From Kafai's review (not directly) draw on
+    - personal
+    - more general / social / 21st C, computational fluency
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
+
+### On Retro Gaming
+
+One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
+
+What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
+
+Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
+due to the limited capabilities of the hardware and storage space involved. These limits suit the capabilities of the chosen design tool Phaser.js.
 
 ## Review of relevant barriers to participating in coding practices emerging in the literature
 
@@ -519,8 +518,43 @@ While home education support practices of families are expressed in this setting
  Lack of knowledge of what to design..
   which they call “sandbox games,” that integrates the worlds"
 
+## Summary of the thesis motivation and structure
 
-## Summary of the thesis structure
+### Recap of motivation
+
+A motivation is to better understand my practice as an activist, community worker and educator.
+
+While I am wary of runaway objects, I am still active in a community and university setting.
+
+An understanding of this controlled experiment in creating culture can shed light on previous work.
+
+Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+
+Thus why would this study based on observations of one context be of use?
+Thoughts:  
+  - similar contexts exist
+  - underlying treads may emerge which may transcend context  
+
+### Gaps in existing research / Contribution to knowledge of this thesis
+
+**Gaps in research**
+- Kafai's review on game making research is thin in cultural terms.
+- Not many addressing the explicit intention to create a community.  
+- Game design patterns emerged in this research as fruitful and is under researched
+
+
+
+**Other thoughts on thesis**
+
+This research is valid in the following ways:
+
+- generative nature of research. It has created teaching resources
+- the detail of game making pedagogy, suitable for other researcher and Teachers
+- tools are novel - media practices are situated, thus will differ with technology
+- application of guided participation as lens to this domain
+- something about methods using 360 and screen capture?
+
+
 
 ### Research Questions
 
@@ -551,15 +585,7 @@ Chapter six outline the use of inclusive pedagogical methods that helped partici
 
 Chapter seven concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
 
-### Overall key messages & contribution to Knowledge
 
-This research is valid in the following ways:
-
-- generative nature of research. It has created teaching resources
-- the detail of game making pedagogy, suitable for other researcher and Teachers
-- tools are novel - media practices are situated, thus will differ with technology
-- application of guided participation as lens to this domain
-- something about methods using 360 and screen capture?
 
 
 ### Link to next chapter

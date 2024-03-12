@@ -85,7 +85,8 @@
             competitions](#game-jams-game-competitions)
         -   [Digital informal / participatory culture and
             Learning](#digital-informal-participatory-culture-and-learning)
-    -   [Discussion](#discussion)
+    -   [The problem statement of the
+        thesis](#the-problem-statement-of-the-thesis)
         -   [Inequality of access to participatory culture communities
             (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
         -   [Barrier - lack of knowledge of cultural
