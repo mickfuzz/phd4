@@ -83,8 +83,10 @@ title: 2. Literature Review
                 MOVE](#summary-of-authenticity--comment-or-move)
     -   [Synthesis of chapter /
         discussion](#synthesis-of-chapter-discussion)
-        -   [Discussion on Informal Education
-            Pedagogies](#discussion-on-informal-education-pedagogies)
+        -   [Defining and conceptualising informal
+            education](#defining-and-conceptualising-informal-education)
+            -   [Informal, participatory, digital and gaming
+                communities](#informal-participatory-digital-and-gaming-communities)
         -   [Using professional frameworks to help novice game
             makers](#using-professional-frameworks-to-help-novice-game-makers)
             -   [Using concepts of design patterns and game design
@@ -111,23 +113,13 @@ title: 2. Literature Review
         -   [Early limits of DBR addressed by expansive learning - and
             formative
             interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
-            -   [Context and Generalisation of
-                results:](#context-and-generalisation-of-results)
-        -   [Utility of research:](#utility-of-research)
         -   [Justification of choice (esp compared to
             contructionism)](#justification-of-choice-esp-compared-to-contructionism)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
+            -   [Context and Generalisation of
+                results:](#context-and-generalisation-of-results)
+            -   [Why not constructionism](#why-not-constructionism)
             -   [Conceptualising informal education via foundational
                 theory](#conceptualising-informal-education-via-foundational-theory)
-        -   [Communities of Practice](#communities-of-practice)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
-        -   [Guided participation Rogoff and Communities of
-            Learners](#guided-participation-rogoff-and-communities-of-learners)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of knowledge - move to
-                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Currently Parked from Literature
         REVIEW](#currently-parked-from-literature-review)
         -   [Mantle of the Expert as a processes
@@ -753,11 +745,34 @@ Javascript as coding language, Phaser as a game making framework and Glitch as a
 
 
 
-### Discussion on Informal Education Pedagogies
 
-To develop these focused professional frameworks of concepts, we now place them in the context of wider theories of community and informal  learning.
+### Defining and conceptualising informal education
 
-Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms,
+**on Informal Education Pedagogies**
+
+To assess the wider use of professional frameworks of concepts, it is potential valuable to test them in the context of wider theories of community and informal  learning.
+
+Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
+
+**Defining Informal Education**
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
+
+Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
+
+Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
+#### Informal, participatory, digital and gaming communities
+
+Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
 
 ### Using professional frameworks to help novice game makers
 
@@ -981,15 +996,9 @@ This section has identified broad alignments in direction for CHAT perspective o
 
 
 
-#### Context and Generalisation of results:
 
-Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
-This context of this research, which is x,  
 
-### Utility of research:
-
-While the concept of utility is slippery their is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
 
 
 ### Justification of choice (esp compared to contructionism)
@@ -1006,6 +1015,21 @@ Before progressing to explore the details of the design, I want to briefly explo
 
 ----
 
+----
+
+AGAIN MOVED
+**Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
+
+----
+
+
+#### Context and Generalisation of results:
+
+Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+
+This context of this research, which is x,  
+
+#### Why not constructionism
 
 Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
 oloughlin_rethinking_1992
@@ -1051,18 +1075,6 @@ As we have seen in the literature review on game making, context is explored in 
 
 
 
-
-
-### Defining and conceptualising informal education
-
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
-
-Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
-
-Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
-
-
 #### Conceptualising informal education via foundational theory
 
 Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
@@ -1071,7 +1083,7 @@ Foundation sociocultural approach which goes beyond a conception of transmission
 
 - Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
 
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995] .
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
 - Rogoff - community of learners and 3 foci as a way to frame this in education
 
@@ -1084,57 +1096,6 @@ Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
 The vital role of cultural mediation in development [@cole_beyond_1996-1]
 
 This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
-
-### Communities of Practice
-
-communities of practice - legitimate peripheral participation boundaries and Barriers
-
-#### Informal, participatory, digital and gaming communities
-
-Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
-### Guided participation Rogoff and Communities of Learners
-
-<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
-
-(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
-
-Participation on community activities as a valid approach.
-
-Cultural and social factors are vital to development process even if hidden in as school setting.
-Guided participation as a middle ground between instruction and discovery.
-
-Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
-
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
-
-### Funds of Knowledge
-
-My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
-
-COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
-The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
-- and update outlined here [@rajala_utopian_2023]
-
-
-#### Retro Gaming as a Fund of knowledge - move to intro?
-
-- What is retro gaming? [Nostalgia in Retro Game Design.]
-- Why is it powerful in affect?
-- What potential does that give to family game making?
-
 
 
 

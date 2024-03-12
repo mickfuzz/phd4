@@ -13,12 +13,21 @@ title: 3. Methodology
     -   [Research Questions - Feb 2024](#research-questions---feb-2024)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
-        -   [Levels of Abstraction in Activity
-            Theory](#levels-of-abstraction-in-activity-theory)
+        -   [Choosing a suitable unit of analysis / germ
+            cell](#choosing-a-suitable-unit-of-analysis-germ-cell)
+            -   [Levels of Abstraction in Activity
+                Theory](#levels-of-abstraction-in-activity-theory)
             -   [Choosing smaller units of
                 analysis](#choosing-smaller-units-of-analysis)
-        -   [The role of contradictions between activity system
-            elements](#the-role-of-contradictions-between-activity-system-elements)
+        -   [Analysis of activity system through conflicts and
+            contradictions between
+            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+        -   [Communities of Practice](#communities-of-practice)
+        -   [Guided participation Rogoff and Communities of
+            Learners](#guided-participation-rogoff-and-communities-of-learners)
+        -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [Retro Gaming as a Fund of knowledge - move to
+                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Conceptualising agency](#conceptualising-agency)
         -   [On agency, activity theory and formative
             interventions](#on-agency-activity-theory-and-formative-interventions)
@@ -178,7 +187,14 @@ This section examines the use of activity theory to examine the data and help co
 NOTE - for similar work see [@barab_using_2002]
 
 
-### Levels of Abstraction in Activity Theory
+### Choosing a suitable unit of analysis / germ cell
+
+This process is outlined in chapter 5 -
+Move some of that here
+Or drop?
+
+
+#### Levels of Abstraction in Activity Theory
 
 The educational activity can be seen as different scopes of activity
 
@@ -205,7 +221,7 @@ Move summary of Activity, actions, operation (as per Barab here), link to GDP as
 In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined.
 
 
-### The role of contradictions between activity system elements
+### Analysis of activity system through conflicts and contradictions between elements
 
 
 Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" []
@@ -251,6 +267,48 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 <!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
 <!-- #### LOA in Computing pedagogy
 Call back to PRIMM and Waite Sentence's work here -->
+
+
+### Communities of Practice
+
+communities of practice - legitimate peripheral participation boundaries and Barriers
+
+
+
+
+### Guided participation Rogoff and Communities of Learners
+
+<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
+
+(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
+
+Participation on community activities as a valid approach.
+
+Cultural and social factors are vital to development process even if hidden in as school setting.
+Guided participation as a middle ground between instruction and discovery.
+
+Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
+
+This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
+
+### Funds of Knowledge
+
+My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
+
+COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
+The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+
+Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
+- and update outlined here [@rajala_utopian_2023]
+
+
+#### Retro Gaming as a Fund of knowledge - move to intro?
+
+- What is retro gaming? [Nostalgia in Retro Game Design.]
+- Why is it powerful in affect?
+- What potential does that give to family game making?
 
 
 ## Conceptualising agency

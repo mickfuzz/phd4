@@ -2,12 +2,21 @@
     -   [Research Questions - Feb 2024](#research-questions---feb-2024)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
-        -   [Levels of Abstraction in Activity
-            Theory](#levels-of-abstraction-in-activity-theory)
+        -   [Choosing a suitable unit of analysis / germ
+            cell](#choosing-a-suitable-unit-of-analysis-germ-cell)
+            -   [Levels of Abstraction in Activity
+                Theory](#levels-of-abstraction-in-activity-theory)
             -   [Choosing smaller units of
                 analysis](#choosing-smaller-units-of-analysis)
-        -   [The role of contradictions between activity system
-            elements](#the-role-of-contradictions-between-activity-system-elements)
+        -   [Analysis of activity system through conflicts and
+            contradictions between
+            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+        -   [Communities of Practice](#communities-of-practice)
+        -   [Guided participation Rogoff and Communities of
+            Learners](#guided-participation-rogoff-and-communities-of-learners)
+        -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [Retro Gaming as a Fund of knowledge - move to
+                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Conceptualising agency](#conceptualising-agency)
         -   [On agency, activity theory and formative
             interventions](#on-agency-activity-theory-and-formative-interventions)

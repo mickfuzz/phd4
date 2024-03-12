@@ -72,8 +72,10 @@
                 MOVE](#summary-of-authenticity--comment-or-move)
     -   [Synthesis of chapter /
         discussion](#synthesis-of-chapter-discussion)
-        -   [Discussion on Informal Education
-            Pedagogies](#discussion-on-informal-education-pedagogies)
+        -   [Defining and conceptualising informal
+            education](#defining-and-conceptualising-informal-education)
+            -   [Informal, participatory, digital and gaming
+                communities](#informal-participatory-digital-and-gaming-communities)
         -   [Using professional frameworks to help novice game
             makers](#using-professional-frameworks-to-help-novice-game-makers)
             -   [Using concepts of design patterns and game design
@@ -100,23 +102,13 @@
         -   [Early limits of DBR addressed by expansive learning - and
             formative
             interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
-            -   [Context and Generalisation of
-                results:](#context-and-generalisation-of-results)
-        -   [Utility of research:](#utility-of-research)
         -   [Justification of choice (esp compared to
             contructionism)](#justification-of-choice-esp-compared-to-contructionism)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
+            -   [Context and Generalisation of
+                results:](#context-and-generalisation-of-results)
+            -   [Why not constructionism](#why-not-constructionism)
             -   [Conceptualising informal education via foundational
                 theory](#conceptualising-informal-education-via-foundational-theory)
-        -   [Communities of Practice](#communities-of-practice)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
-        -   [Guided participation Rogoff and Communities of
-            Learners](#guided-participation-rogoff-and-communities-of-learners)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of knowledge - move to
-                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Currently Parked from Literature
         REVIEW](#currently-parked-from-literature-review)
         -   [Mantle of the Expert as a processes

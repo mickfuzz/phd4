@@ -570,9 +570,11 @@ As has been outlined in this introduction the a leading thread of the thesis is 
 
 In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and a summary table is present as an introductory section to the literature review.
 
-The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include: authenticity in project based approaches; nature of informal settings in particular home education; barriers to participation in digital making; pedagogies to create inclusive learning environments and to help young people learn computer coding.
+The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include: authenticity in project based approaches; nature of informal settings in particular home education; barriers to participation in digital making; pedagogies to create inclusive learning environments and to help young people learn computer coding. To follow I outline the theoretical framework and the key methodologies of this study. I explain how the design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school and the leading approach of third generation activity theory (3GAT).
 
-Chapter three outlines the theoretical framework and the key methodologies of this study. I explain how the underlying approach of design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school of activity theory and narrower techniques and terminology of what is termed third generation activity theory (3GAT). In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. This mutually created and emergent nature of the resources and processes that were created and adopted becomes a key theme of the thesis. In the second part of the chapter, I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
+<!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
+
+Chapter three starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency. In the second part of the chapter, I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
 
  <!-- which had been inspired by partnership work between EdLab and the Biosocial Lab -->
 
@@ -584,9 +586,6 @@ This chapter begins by re-examining of game design patterns and game play design
 Chapter six outline the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
 
 Chapter seven concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
-
-
-
 
 ### Link to next chapter
 
