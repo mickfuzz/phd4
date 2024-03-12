@@ -22,6 +22,16 @@ title: 3. Methodology
         -   [Analysis of activity system through conflicts and
             contradictions between
             elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+        -   [Disambiguating terminology - Conflicts, tensions,
+            contradictions,
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Analysis of CHAT / DBR interventions over
+            time](#analysis-of-chat-dbr-interventions-over-time)
+            -   [Early limits of DBR addressed by expansive learning -
+                and formative
+                interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
+        -   [Creating Ideocultures as a designed
+            system](#creating-ideocultures-as-a-designed-system)
         -   [Communities of Practice](#communities-of-practice)
         -   [Guided participation Rogoff and Communities of
             Learners](#guided-participation-rogoff-and-communities-of-learners)
@@ -29,22 +39,13 @@ title: 3. Methodology
             -   [Retro Gaming as a Fund of knowledge - move to
                 intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Conceptualising agency](#conceptualising-agency)
-        -   [On agency, activity theory and formative
-            interventions](#on-agency-activity-theory-and-formative-interventions)
-        -   [On double stimulation and
-            agency](#on-double-stimulation-and-agency)
+        -   [TADS - On double stimulation and
+            agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
         -   [Exploring specific techniques of formative interventions -
-            DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS
-            INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR
-            EXAMPLE](#exploring-specific-techniques-of-formative-interventions---drop-for-a-more-personal-take-so-comparative-to-this-intervention-find-more-direct-parallels-5d-for-example)
-    -   [Agreeing terminology](#agreeing-terminology)
-        -   [Overall process DBR or CHAT or
-            FORESHADOWmative](#overall-process-dbr-or-chat-or-foreshadowmative)
-        -   [Disambiguating terminology - Conflicts, tensions,
-            contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+            MAKE MORE TARGETED
+            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
     -   [Data Gathering and
         Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural
@@ -133,7 +134,6 @@ title: 3. Methodology
             Inteventions /
             DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
     -   [Transition to next Chapter](#transition-to-next-chapter)
-
 
 # Methodology
 <!-- Also see this writing.
@@ -235,6 +235,30 @@ Unresolved contradictions develop into impasses or conflicts. These can serve as
 
 
 
+### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
+
+
+In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
+
+In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
+
+Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
+
+While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework
+
+NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
+
+On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
+
+In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
+
+Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
+
+<!-- (Relational agency?) -->
+
+In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
+
+
 <!-- DROP THIS - NOT NEEDED
 REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
 
@@ -269,10 +293,100 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 Call back to PRIMM and Waite Sentence's work here -->
 
 
+### Analysis of CHAT / DBR interventions over time
+
+This section addresses concepts common to DBR, and early inteventions of CHAT.
+
+While this is a contested topic, here I do not aim or a full analysis rather a working definition suitable for this study.
+
+However, to explore tensions in a nutshell ....
+
+Overall process DBR or CHAT or formative interventions - or expansive learning
+
+Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
+
+Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
+
+
+
+#### Early limits of DBR addressed by expansive learning - and formative interventions
+
+Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR.
+
+A principle of design-based research is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+Engestrom [@engestrom_learning_2009] proposes a more rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
+
+<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work [@engestrom_design_2011]
+
+Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
+
+Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
+
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
+
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
+
+Work on agency in change labs and more wider concepts of formative interventions are important to this study.
+
+  The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
+
+  Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
+
+From  [@engestrom_design_2011]
+
+This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
+
+When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process.
+
+How this maps onto a new activity in informal setting with novice learners is requires some clarification.
+
+There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process.
+
+Other areas are less aligned with existing models propsed by Engeestrom, CL, etc.
+The specific drive for participants to identify new tools,
+
+Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment.
+
+<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
+INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
+->
+
+<!--
+From [@cakir_contradictions_2022]
+
+In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
+
+
+While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
+
+**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
+
+This section has identified broad alignments in direction for CHAT perspective on DBR.
+
+<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
+
+
+
+
+
+### Creating Ideocultures as a designed system
+
+From Cole.
+
+Useful when compared to expansive learning and presumption of existing objects.  
+
+
+
 ### Communities of Practice
 
-communities of practice - legitimate peripheral participation boundaries and Barriers
+Communities of practice - legitimate peripheral participation boundaries and Barriers
 
+While this is relevant - it may be too much.
 
 
 
@@ -322,10 +436,9 @@ Cultural mediation via artefacts [cole], as a base.
 Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
 
 
-### On agency, activity theory and formative interventions
 
 
-### On double stimulation and agency
+### TADS - On double stimulation and agency
 
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
@@ -366,7 +479,9 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 
-### Exploring specific techniques of formative interventions - DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
+### Exploring specific techniques of formative interventions - MAKE MORE TARGETED -
+
+DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
 
 One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
 EXPAND THIS WITH EXAMPLES?
@@ -396,37 +511,7 @@ In addition the concept of diversion from the primary task are relevant to the m
 
 
 
-## Agreeing terminology
 
-### Overall process DBR or CHAT or FORESHADOWmative
-
-Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
-
-Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
-
-
-### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
-
-
-In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
-
-In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
-
-Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
-
-While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework
-
-NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
-
-On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
-
-In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
-
-Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
-
-<!-- (Relational agency?) -->
-
-In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 
 

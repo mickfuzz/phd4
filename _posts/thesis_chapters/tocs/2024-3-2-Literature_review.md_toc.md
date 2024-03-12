@@ -99,9 +99,6 @@
         -   [Design-based research and formative intervention studies
             within educational
             field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-        -   [Early limits of DBR addressed by expansive learning - and
-            formative
-            interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
         -   [Justification of choice (esp compared to
             contructionism)](#justification-of-choice-esp-compared-to-contructionism)
             -   [Context and Generalisation of

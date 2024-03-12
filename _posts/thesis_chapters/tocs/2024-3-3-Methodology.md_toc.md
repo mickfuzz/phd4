@@ -11,6 +11,16 @@
         -   [Analysis of activity system through conflicts and
             contradictions between
             elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+        -   [Disambiguating terminology - Conflicts, tensions,
+            contradictions,
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Analysis of CHAT / DBR interventions over
+            time](#analysis-of-chat-dbr-interventions-over-time)
+            -   [Early limits of DBR addressed by expansive learning -
+                and formative
+                interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
+        -   [Creating Ideocultures as a designed
+            system](#creating-ideocultures-as-a-designed-system)
         -   [Communities of Practice](#communities-of-practice)
         -   [Guided participation Rogoff and Communities of
             Learners](#guided-participation-rogoff-and-communities-of-learners)
@@ -18,22 +28,13 @@
             -   [Retro Gaming as a Fund of knowledge - move to
                 intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Conceptualising agency](#conceptualising-agency)
-        -   [On agency, activity theory and formative
-            interventions](#on-agency-activity-theory-and-formative-interventions)
-        -   [On double stimulation and
-            agency](#on-double-stimulation-and-agency)
+        -   [TADS - On double stimulation and
+            agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
         -   [Exploring specific techniques of formative interventions -
-            DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS
-            INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR
-            EXAMPLE](#exploring-specific-techniques-of-formative-interventions---drop-for-a-more-personal-take-so-comparative-to-this-intervention-find-more-direct-parallels-5d-for-example)
-    -   [Agreeing terminology](#agreeing-terminology)
-        -   [Overall process DBR or CHAT or
-            FORESHADOWmative](#overall-process-dbr-or-chat-or-foreshadowmative)
-        -   [Disambiguating terminology - Conflicts, tensions,
-            contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+            MAKE MORE TARGETED
+            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
     -   [Data Gathering and
         Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural
