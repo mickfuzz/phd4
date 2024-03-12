@@ -51,34 +51,12 @@
             competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
             context](#design-patterns-and-game-design-patterns-in-professional-context)
-    -   [Synthesis of chapter /
-        discussion](#synthesis-of-chapter-discussion)
-        -   [Discussion on Informal Education
-            Pedagogies](#discussion-on-informal-education-pedagogies)
-        -   [Using professional frameworks to help novice game
-            makers](#using-professional-frameworks-to-help-novice-game-makers)
-            -   [Using concepts of design patterns and game design
-                patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
-            -   [Using pattern collections and code examples to help
-                students.](#using-pattern-collections-and-code-examples-to-help-students.)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
-            -   [Conceptualising informal education via foundational
-                theory](#conceptualising-informal-education-via-foundational-theory)
-        -   [Communities of Practice](#communities-of-practice)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
-        -   [Guided participation Rogoff and Communities of
-            Learners](#guided-participation-rogoff-and-communities-of-learners)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of knowledge - move to
-                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-    -   [Studies with pedagogies addressing barriers to do with identity
-        and computer
-        cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
         Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+        -   [Studies with pedagogies addressing barriers to do with
+            identity and computer
+            cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
         -   [Specialist coding tools and computational
             kits](#specialist-coding-tools-and-computational-kits)
         -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
@@ -92,6 +70,16 @@
             -   [Phaser.js](#phaser.js)
             -   [Summary of authenticity- COMMENT OR
                 MOVE](#summary-of-authenticity--comment-or-move)
+    -   [Synthesis of chapter /
+        discussion](#synthesis-of-chapter-discussion)
+        -   [Discussion on Informal Education
+            Pedagogies](#discussion-on-informal-education-pedagogies)
+        -   [Using professional frameworks to help novice game
+            makers](#using-professional-frameworks-to-help-novice-game-makers)
+            -   [Using concepts of design patterns and game design
+                patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
+            -   [Using pattern collections and code examples to help
+                students.](#using-pattern-collections-and-code-examples-to-help-students.)
     -   [The problem statement of the
         thesis](#the-problem-statement-of-the-thesis)
         -   [Inequality of access to participatory culture communities
@@ -117,8 +105,18 @@
         -   [Utility of research:](#utility-of-research)
         -   [Justification of choice (esp compared to
             contructionism)](#justification-of-choice-esp-compared-to-contructionism)
-    -   [DBR and formative interventions - MOVE UP
-        ?](#dbr-and-formative-interventions---move-up)
+        -   [Defining and conceptualising informal
+            education](#defining-and-conceptualising-informal-education)
+            -   [Conceptualising informal education via foundational
+                theory](#conceptualising-informal-education-via-foundational-theory)
+        -   [Communities of Practice](#communities-of-practice)
+            -   [Informal, participatory, digital and gaming
+                communities](#informal-participatory-digital-and-gaming-communities)
+        -   [Guided participation Rogoff and Communities of
+            Learners](#guided-participation-rogoff-and-communities-of-learners)
+        -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [Retro Gaming as a Fund of knowledge - move to
+                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
     -   [Currently Parked from Literature
         REVIEW](#currently-parked-from-literature-review)
         -   [Mantle of the Expert as a processes
