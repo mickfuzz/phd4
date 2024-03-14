@@ -30,22 +30,24 @@ title: 3. Methodology
             -   [Early limits of DBR addressed by expansive learning -
                 and formative
                 interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
-        -   [Creating Ideocultures as a designed
-            system](#creating-ideocultures-as-a-designed-system)
-        -   [Communities of Practice](#communities-of-practice)
-        -   [Guided participation Rogoff and Communities of
-            Learners](#guided-participation-rogoff-and-communities-of-learners)
+        -   [Exploring specific techniques of formative interventions -
+            MAKE MORE TARGETED
+            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
+        -   [Creating ideocultures as designed
+            systems](#creating-ideocultures-as-designed-systems)
+        -   [Rogoff's three planes of analysis of learning
+            communities](#rogoffs-three-planes-of-analysis-of-learning-communities)
+            -   [Communities of practice and communities of
+                learners](#communities-of-practice-and-communities-of-learners)
         -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of knowledge - move to
-                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-    -   [Conceptualising agency](#conceptualising-agency)
+            -   [Retro Gaming as a Fund of
+                knowledge](#retro-gaming-as-a-fund-of-knowledge)
+    -   [Conceptual tools associated with
+        agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
             agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
-        -   [Exploring specific techniques of formative interventions -
-            MAKE MORE TARGETED
-            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
     -   [Data Gathering and
         Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural
@@ -374,23 +376,54 @@ This section has identified broad alignments in direction for CHAT perspective o
 
 
 
-### Creating Ideocultures as a designed system
+### Exploring specific techniques of formative interventions - MAKE MORE TARGETED -
+
+DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
+
+One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+EXPAND THIS WITH EXAMPLES?
+
+As the game making activity for participants is novel there are few if any established community or working processes. Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants.
+
+However, the expansive process and the use of transformational agency through double stimulation as a guiding technique offers  significant opportunities.
+LINK THE CONCEPTS / PROCESS HERE.
+
+For example, in and educational settings INSERT QUICK CASE STUDY
+
+A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
+
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
+
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
+
+NOTE - IF USING PRACTICE THEN EXPLAIN IT IN REFERENCE TO AT - OPERAION / ACTION ETC
+
+I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
+
+In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013].
+
+ REWRITE - EXPLAIN AND EXPLORE SECONDARY STIMULI
+
+<!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
+
+
+
+### Creating ideocultures as designed systems
 
 From Cole.
 
-Useful when compared to expansive learning and presumption of existing objects.  
+The concept of ideocultures is useful when compared to expansive learning and presumption of existing objects.  
 
 
 
-### Communities of Practice
 
-Communities of practice - legitimate peripheral participation boundaries and Barriers
+### Rogoff's three planes of analysis of learning communities
 
-While this is relevant - it may be too much.
+#### Communities of practice and communities of learners
+
+Communities of practice - legitimate peripheral participation boundaries and barriers to participation
 
 
-
-### Guided participation Rogoff and Communities of Learners
 
 <!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
 
@@ -405,6 +438,8 @@ Teachers benefit from the concept of scaffolding, and designing learning environ
 
 This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
 
+
+
 ### Funds of Knowledge
 
 My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
@@ -418,24 +453,24 @@ Problematising Funds of knowledge and funds of identity which may perpetuate sta
 - and update outlined here [@rajala_utopian_2023]
 
 
-#### Retro Gaming as a Fund of knowledge - move to intro?
+#### Retro Gaming as a Fund of knowledge
 
-- What is retro gaming? [Nostalgia in Retro Game Design.]
-- Why is it powerful in affect?
-- What potential does that give to family game making?
+As explored in the introduction retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects.
+
+This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
+
+What potential does that give to family game making?
 
 
-## Conceptualising agency
+## Conceptual tools associated with agency
 
-DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW ALONG WITH COL ?
+<!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
 
 - agency as choice already explored in in 5D
 
 Cultural mediation via artefacts [cole], as a base.
 
 Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
-
-
 
 
 ### TADS - On double stimulation and agency
@@ -475,44 +510,6 @@ Not all throws will be successful. The anchor may slip or it may catch on someth
 Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
 
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-
-
-
-### Exploring specific techniques of formative interventions - MAKE MORE TARGETED -
-
-DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
-
-One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
-EXPAND THIS WITH EXAMPLES?
-
-As the game making activity for participants is novel there are few if any established community or working processes. Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants.
-
-However, the expansive process and the use of transformational agency through double stimulation as a guiding technique offers  significant opportunities.
-LINK THE CONCEPTS / PROCESS HERE.
-
-For example, in and educational settings INSERT QUICK CASE STUDY
-
-A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
-
-The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
-
-NOTE - IF USING PRACTICE THEN EXPLAIN IT IN REFERENCE TO AT - OPERAION / ACTION ETC
-
-I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
-
-In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013].
-
- REWRITE - EXPLAIN AND EXPLORE SECONDARY STIMULI
-
-<!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
-
-
-
-
-
 
 
 ## Data Gathering and Preparation

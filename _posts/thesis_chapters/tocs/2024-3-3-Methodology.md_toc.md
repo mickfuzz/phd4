@@ -19,22 +19,24 @@
             -   [Early limits of DBR addressed by expansive learning -
                 and formative
                 interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
-        -   [Creating Ideocultures as a designed
-            system](#creating-ideocultures-as-a-designed-system)
-        -   [Communities of Practice](#communities-of-practice)
-        -   [Guided participation Rogoff and Communities of
-            Learners](#guided-participation-rogoff-and-communities-of-learners)
+        -   [Exploring specific techniques of formative interventions -
+            MAKE MORE TARGETED
+            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
+        -   [Creating ideocultures as designed
+            systems](#creating-ideocultures-as-designed-systems)
+        -   [Rogoff's three planes of analysis of learning
+            communities](#rogoffs-three-planes-of-analysis-of-learning-communities)
+            -   [Communities of practice and communities of
+                learners](#communities-of-practice-and-communities-of-learners)
         -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of knowledge - move to
-                intro?](#retro-gaming-as-a-fund-of-knowledge---move-to-intro)
-    -   [Conceptualising agency](#conceptualising-agency)
+            -   [Retro Gaming as a Fund of
+                knowledge](#retro-gaming-as-a-fund-of-knowledge)
+    -   [Conceptual tools associated with
+        agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
             agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
-        -   [Exploring specific techniques of formative interventions -
-            MAKE MORE TARGETED
-            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
     -   [Data Gathering and
         Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural

@@ -38,6 +38,25 @@
         -   [Motivations for learning to code specifically via game
             making](#motivations-for-learning-to-code-specifically-via-game-making)
         -   [On Retro Gaming](#on-retro-gaming)
+    -   [Relevant case studies / research in digital making context -
+        Family Making, Ito / Gee etc, 5th
+        Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+        -   [Studies with pedagogies addressing barriers to do with
+            identity and computer
+            cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
+        -   [Specialist coding tools and computational
+            kits](#specialist-coding-tools-and-computational-kits)
+        -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
+            ?](#family-making---what-in-particular-to-explore)
+        -   [Mozilla, Webmaking and code
+            playgrounds](#mozilla-webmaking-and-code-playgrounds)
+            -   [Webmaking](#webmaking)
+            -   [Code playgrounds](#code-playgrounds)
+            -   [Other online asset creation
+                tools](#other-online-asset-creation-tools)
+            -   [Phaser.js](#phaser.js)
+            -   [Summary of authenticity- COMMENT OR
+                MOVE](#summary-of-authenticity--comment-or-move)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
