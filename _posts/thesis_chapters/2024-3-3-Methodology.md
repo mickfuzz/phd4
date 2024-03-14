@@ -142,11 +142,11 @@ title: 3. Methodology
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 
-## Research Questions - Feb 2024
+## Research Questions - March 2024
 
 1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
-2. How can learners build agency in an evolving community of game makers?
-3. How can game design patterns support the development of coding practices with novices?
+2. How can game design patterns support the development of coding practices with novices?
+3. How can learners build agency in an evolving community of game makers?
 
 
 

@@ -102,11 +102,11 @@ title: 1. Introduction
 
 to come - for now see outline of thesis at the end of chapter
 
-## Research Questions - Feb 2023
+## Research Questions - March 2024
 
 1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
-2. How can learners build agency in an evolving community of game makers?
-3. How can game design patterns support the development of coding practices with novices?
+2. How can game design patterns support the development of coding practices with novices?
+3. How can learners build agency in an evolving community of game makers?
 
 
 
