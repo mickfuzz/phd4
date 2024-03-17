@@ -94,6 +94,8 @@ The distinction between planned and emergent activities is of note and bears exp
 
 NOTE - HOW AND WHY - Why because this allows a more detailed analyis of different aspects of agency.
 
+To recap we can see emergent use of GDPs as both practice and knowledge in the previous chapter.
+
 ### Re-examining barriers associated with cultural factors
 
 In chapter 4 social and cultural barriers were treated in summary alongside other more technical obstacles.
@@ -126,14 +128,6 @@ As a designer I identified this tactic as a way to address learner disengagement
 
 Similarly, in my journal notes, I reflect on the difficulty of interrupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
 
-#### Restricted vs extended community - e.g. why not scratch with online community? - MOVE TO DISCUSSION ON PLAYTESTING?
-
-Beyond technical considerations regarding scratch and use of physics etc,
-Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways. [@blunden_interdisciplinary_2009].
-
-Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
-
-Also - the diversity of creations available on a online commmunity  could remove the more communal experience of the designed limitations.
 
 
 <!-- There are examples of the authenticity of the audience being used by participants
@@ -153,7 +147,9 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 
 <!-- NOTE - Find complexity here?  -->
 
-### Note this has been moved from Design chapter  so needs a place to sit.
+
+## Results on key interventions of the design concerning agency
+
 ### Using Physical Maps of Missions as Game Design Patterns
 
 I used flip chart paper and print outs to draw a coastal landscape with GDPs represented as different islands.  I asked learners to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it.
@@ -980,9 +976,22 @@ Relevant theory / studies.
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
 
+#### Restricted vs extended community - e.g. why not engage with a wider online community? ?
+
+
+<!-- A broad concern of Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways.  -->
+
+Beyond technical considerations regarding scratch and use of physics, authenticity,
+
+Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
+
+Also - the diversity of creations available on a online community  could remove the more communal experience of the designed limitations.
+
+
+
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
-<!-- While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved. -->
+**While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.** 
 
 The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
 
