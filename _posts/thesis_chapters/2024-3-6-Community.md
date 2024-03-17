@@ -190,7 +190,7 @@ NOTE - HOW AND WHY - Why because this allows a more detailed analyis of differen
 
 To recap we can see emergent use of GDPs as both practice and knowledge in the previous chapter.
 
-### Re-examining barriers associated with cultural factors
+### Re-examining barriers and tensions associated with cultural factors
 
 In chapter 4 social and cultural barriers were treated in summary alongside other more technical obstacles.
 
@@ -198,9 +198,9 @@ In gdp chapter 5 - more detail on the social interaction in a good level of deta
 
 This section explores the obstacles in practice tensions in more depth to give context to looking at impact of subsequent interventions.
 
-### Barriers and tensions associated with authenticity of audience - MOVE PERHAPS TO PLAYTESTING
+#### Barriers and tensions associated with authenticity of audience - MOVE PERHAPS TO PLAYTESTING
 
-#### Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience
+**Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**
 
 Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
 
@@ -242,8 +242,7 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 <!-- NOTE - Find complexity here?  -->
 
 
-
-### Barriers of identity hardcore coding & dysfunctional group work
+#### Barriers of identity hardcore coding & dysfunctional group work
 
 NOTE - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION / or keep here in intro to Chap 6 - but compress
 
