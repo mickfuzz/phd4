@@ -10,6 +10,99 @@ categories: chapter
 title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
 
+-   [Seeding and Nurturing Community Game Making Practices to Facilitate
+    Learner
+    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency){#toc-seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency}
+    -   [Research Questions - March
+        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
+    -   [Introduction](#introduction){#toc-introduction}
+        -   [Notes on structure of the
+            chapter](#notes-on-structure-of-the-chapter){#toc-notes-on-structure-of-the-chapter}
+        -   [Introduced and emergent
+            activity](#introduced-and-emergent-activity){#toc-introduced-and-emergent-activity}
+        -   [Re-examining barriers associated with cultural
+            factors](#re-examining-barriers-associated-with-cultural-factors){#toc-re-examining-barriers-associated-with-cultural-factors}
+        -   [Barriers and tensions associated with authenticity of
+            audience - MOVE PERHAPS TO
+            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting){#toc-barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting}
+            -   [Learners may not find coding a project a motivating
+                project if it is only a private activity with no
+                authentic
+                audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience){#toc-learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience}
+        -   [Barriers of identity hardcore coding & dysfunctional group
+            work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work){#toc-barriers-of-identity-hardcore-coding-dysfunctional-group-work}
+    -   [Results on key interventions of the design concerning
+        agency](#results-on-key-interventions-of-the-design-concerning-agency){#toc-results-on-key-interventions-of-the-design-concerning-agency}
+        -   [Using Physical Maps of Missions as Game Design
+            Patterns](#using-physical-maps-of-missions-as-game-design-patterns){#toc-using-physical-maps-of-missions-as-game-design-patterns}
+        -   [Encouraging peer learning and varied working
+            practices](#encouraging-peer-learning-and-varied-working-practices){#toc-encouraging-peer-learning-and-varied-working-practices}
+        -   [A game encouraging maker / player
+            types](#a-game-encouraging-maker-player-types){#toc-a-game-encouraging-maker-player-types}
+    -   [Exploring the impact of a drama
+        processes](#exploring-the-impact-of-a-drama-processes){#toc-exploring-the-impact-of-a-drama-processes}
+        -   [Vignette 4.1.a - Introducing a drama
+            process](#vignette-4.1.a---introducing-a-drama-process){#toc-vignette-4.1.a---introducing-a-drama-process}
+        -   [Description of Vignette
+            4.1.a](#description-of-vignette-4.1.a){#toc-description-of-vignette-4.1.a}
+        -   [Vignette 4.1.b - Session reflections and secret
+            missions](#vignette-4.1.b---session-reflections-and-secret-missions){#toc-vignette-4.1.b---session-reflections-and-secret-missions}
+        -   [Description of Vignette
+            4.1.b](#description-of-vignette-4.1.b){#toc-description-of-vignette-4.1.b}
+        -   [Reflecting in
+            role](#reflecting-in-role){#toc-reflecting-in-role}
+        -   [Observations on written interactions with the alien in the
+            drama](#observations-on-written-interactions-with-the-alien-in-the-drama){#toc-observations-on-written-interactions-with-the-alien-in-the-drama}
+            -   [Exploring documentation and accessing technical help
+                within the drama
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame){#toc-exploring-documentation-and-accessing-technical-help-within-the-drama-frame}
+            -   [Playful dialogue with the aliens unrelated to game
+                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making){#toc-playful-dialogue-with-the-aliens-unrelated-to-game-making}
+        -   [Use of side missions to encourage varied creative
+            practices](#use-of-side-missions-to-encourage-varied-creative-practices){#toc-use-of-side-missions-to-encourage-varied-creative-practices}
+        -   [Concluding remarks on process
+            drama](#concluding-remarks-on-process-drama){#toc-concluding-remarks-on-process-drama}
+    -   [Emerging cultural
+        practices](#emerging-cultural-practices){#toc-emerging-cultural-practices}
+        -   [Playtesting](#playtesting){#toc-playtesting}
+            -   [Playtesting as a cultural
+                process](#playtesting-as-a-cultural-process){#toc-playtesting-as-a-cultural-process}
+            -   [Playtesting and embodied participation in the games of
+                others](#playtesting-and-embodied-participation-in-the-games-of-others){#toc-playtesting-and-embodied-participation-in-the-games-of-others}
+            -   [Community concepts and norming behaviour emerging
+                during
+                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting){#toc-community-concepts-and-norming-behaviour-emerging-during-playtesting}
+            -   [Restricted vs extended community - e.g. why not engage
+                with a wider online community?
+                ?](#restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community){#toc-restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community}
+        -   [Emerging use of narratives and graphics which drawing on
+            home funds of
+            knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge){#toc-emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge}
+            -   [Summary: Home Funds and
+                RQs](#summary-home-funds-and-rqs){#toc-summary-home-funds-and-rqs}
+        -   [Flexible design
+            practices](#flexible-design-practices){#toc-flexible-design-practices}
+            -   [Supporting Digital/Game
+                Jamming](#supporting-digitalgame-jamming){#toc-supporting-digitalgame-jamming}
+            -   [The potential of emergent "non-productive"
+                activities](#the-potential-of-emergent-non-productive-activities){#toc-the-potential-of-emergent-non-productive-activities}
+    -   [Discussion](#discussion){#toc-discussion}
+        -   [COMMENTS ON FORMAT OF Discussions /
+            Conclusion](#comments-on-format-of-discussions-conclusion){#toc-comments-on-format-of-discussions-conclusion}
+        -   [Nurturing agency by creating space for emergent
+            practices](#nurturing-agency-by-creating-space-for-emergent-practices){#toc-nurturing-agency-by-creating-space-for-emergent-practices}
+        -   [Discussion on dimensions of authenticity in in relation to
+            Agency](#discussion-on-dimensions-of-authenticity-in-in-relation-to-agency){#toc-discussion-on-dimensions-of-authenticity-in-in-relation-to-agency}
+            -   [Positive affective space within a drama
+                process](#positive-affective-space-within-a-drama-process){#toc-positive-affective-space-within-a-drama-process}
+            -   [The freedoms and restrictions of
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds){#toc-the-freedoms-and-restrictions-of-playgrounds}
+            -   [Extending the metaphor - anchoring in sheltered
+                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours){#toc-extending-the-metaphor---anchoring-in-sheltered-harbours}
+            -   [Implications in conceptualisations of forms of
+                agency](#implications-in-conceptualisations-of-forms-of-agency){#toc-implications-in-conceptualisations-of-forms-of-agency}
+    -   [Conclusion](#conclusion){#toc-conclusion}
+
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 
 <!-- ## Overview in points
@@ -148,37 +241,10 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 <!-- NOTE - Find complexity here?  -->
 
 
-## Results on key interventions of the design concerning agency
 
-### Using Physical Maps of Missions as Game Design Patterns
+### Barriers of identity hardcore coding & dysfunctional group work
 
-I used flip chart paper and print outs to draw a coastal landscape with GDPs represented as different islands.  I asked learners to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it.
-
-![learning islands](./Pictures/navigational_paper_map.png){width=95%}
-![learning islands]({{ site.imgurl }}/_posts/thesis_chapters/Pictures/navigational_paper_map.png){width=95%}
-_Missions as Islands_
-
-My motivations for this intervention were that it encourage a sense of community and peer learning, to help learners navigate their design experience and that the process would encourage reflect on the coding concepts or other learning dimensions that they had been working with. The use of space on the map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions.
-
-The following excerpts of dialogue are from a fuller transcription in appendix 4.x
-
-  Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  ( Mick cuts a out an image from [^4] representing a GDP of key and doors.)     Olivia(c): So I've gone really far away on the map.
-
-The process of mapping the difficulty is something that the child picks up on here. Moments after we see a parent using the map and the resources to help her child fix a goal for the session.
-
-  Rozanne(p): Oh that's something you were wanting to do	(Roxanne points at a cut out that Mick has just stuck down.)
-  Richie(c): I like the idea of making the enemies move.
-  Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter?
-  Richie(c): No.
-  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.	(Roxanne waves sheet and smiles at Mick.)
-
-The new resources seem welcomed by the parent. This is probably as in previous sessions there had been conflict between them about goals. The process of aiding reflection and meta-cognition through the use of visual materials in the form of a map aligns with inclusive pedagogical design principles of UDL in that it provides means of action and expression. In chapter six, I explore the use of a process drama to achieve similar aims.
-
-While it is beyond the remit of this thesis to examine the impact of these processes in more curricular focused environments, the following section offers a synthesis of the ideas in explored in this chapter and alignment with existing research.
-
-
-
-### Barriers of identity hardcore coding & dysfunctional group work - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION?
+NOTE - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION / or keep here in intro to Chap 6 - but compress
 
 NOTE DUPLICATION WITH DESIGN CHAPTER.
 
@@ -221,17 +287,43 @@ The incident lead me to greater reflection on ongoing measures needed to prevent
 -   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
 
 
-#### Navigating the conflict
 
-**Via exit**
 
-One way of navigating this was via exit and certain families did drop out at different phases.
+## Results on key interventions of the design concerning agency
 
-**Encouraging peer learning with flexible working practices**
+### Using Physical Maps of Missions as Game Design Patterns
+
+I used flip chart paper and print outs to draw a coastal landscape with GDPs represented as different islands.  I asked learners to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it.
+
+![learning islands](./Pictures/navigational_paper_map.png){width=95%}
+![learning islands]({{ site.imgurl }}/_posts/thesis_chapters/Pictures/navigational_paper_map.png){width=95%}
+_Missions as Islands_
+
+My motivations for this intervention were that it encourage a sense of community and peer learning, to help learners navigate their design experience and that the process would encourage reflect on the coding concepts or other learning dimensions that they had been working with. The use of space on the map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions.
+
+The following excerpts of dialogue are from a fuller transcription in appendix 4.x
+
+  Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  ( Mick cuts a out an image from [^4] representing a GDP of key and doors.)     Olivia(c): So I've gone really far away on the map.
+
+The process of mapping the difficulty is something that the child picks up on here. Moments after we see a parent using the map and the resources to help her child fix a goal for the session.
+
+  Rozanne(p): Oh that's something you were wanting to do	(Roxanne points at a cut out that Mick has just stuck down.)
+  Richie(c): I like the idea of making the enemies move.
+  Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter?
+  Richie(c): No.
+  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.	(Roxanne waves sheet and smiles at Mick.)
+
+The new resources seem welcomed by the parent. This is probably as in previous sessions there had been conflict between them about goals. The process of aiding reflection and meta-cognition through the use of visual materials in the form of a map aligns with inclusive pedagogical design principles of UDL in that it provides means of action and expression. In chapter six, I explore the use of a process drama to achieve similar aims.
+
+While it is beyond the remit of this thesis to examine the impact of these processes in more curricular focused environments, the following section offers a synthesis of the ideas in explored in this chapter and alignment with existing research.
+
+
+
+### Encouraging peer learning and varied working practices
 
 CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
 
-This tensions was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
+The tension outlined concerning participant identity was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
 
 The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
 
@@ -241,7 +333,7 @@ These tensions are mirrored in similar research and were highlighted in the prac
 
 
 
-**A game encouraging maker / player types**
+### A game encouraging maker / player types
 
 My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
 
@@ -991,7 +1083,7 @@ Also - the diversity of creations available on a online community  could remove 
 
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
-**While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.** 
+**While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.**
 
 The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
 
