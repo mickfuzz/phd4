@@ -1,97 +1,88 @@
--   [Introduction](#introduction){#toc-introduction}
-    -   [Abstract](#abstract){#toc-abstract}
+-   [Introduction](#introduction)
+    -   [Abstract](#abstract)
     -   [Research Questions - March
-        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
+        2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of
-        introduction](#starting-thoughts-for-contents-of-introduction){#toc-starting-thoughts-for-contents-of-introduction}
-    -   [Introduction to broad
-        context](#introduction-to-broad-context){#toc-introduction-to-broad-context}
-    -   [Personal context](#personal-context){#toc-personal-context}
-        -   [A response of
-            sorts](#a-response-of-sorts){#toc-a-response-of-sorts}
-        -   [Transition
-            COMMENT](#transition-comment){#toc-transition-comment}
-    -   [Conceptual
-        Context](#conceptual-context){#toc-conceptual-context}
+        introduction](#starting-thoughts-for-contents-of-introduction)
+    -   [Introduction to broad context](#introduction-to-broad-context)
+    -   [Personal context](#personal-context)
+        -   [A response of sorts](#a-response-of-sorts)
+        -   [Transition COMMENT](#transition-comment)
+    -   [Conceptual Context](#conceptual-context)
         -   [The importance of understanding Projects and socio cultural
             and activist concepts of
-            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity){#toc-the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity}
+            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
         -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education){#toc-addressing-and-disambiguating-definitions-of-agency-in-education}
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency){#toc-instrumental-and-relational-agency}
+                agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency){#toc-authorial-and-transformative-agency}
-    -   [Educational
-        Context](#educational-context){#toc-educational-context}
+                agency](#authorial-and-transformative-agency)
+    -   [Educational Context](#educational-context)
         -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk){#toc-computing-as-a-school-subject-in-the-uk}
+            UK](#computing-as-a-school-subject-in-the-uk)
         -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes){#toc-context-of-game-making-for-educational-purposes}
+            purposes](#context-of-game-making-for-educational-purposes)
         -   [Empowerment agenda of authentic computing aligning with
             personal
-            motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations){#toc-empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations}
+            motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
             -   [Authenticity as
-                Empowering](#authenticity-as-empowering){#toc-authenticity-as-empowering}
+                Empowering](#authenticity-as-empowering)
         -   [Project Based Learning and
-            Inclusion](#project-based-learning-and-inclusion){#toc-project-based-learning-and-inclusion}
+            Inclusion](#project-based-learning-and-inclusion)
     -   [Context of digital making and home media
-        use](#context-of-digital-making-and-home-media-use){#toc-context-of-digital-making-and-home-media-use}
+        use](#context-of-digital-making-and-home-media-use)
         -   [Context of Home Education and family
-            learning](#context-of-home-education-and-family-learning){#toc-context-of-home-education-and-family-learning}
+            learning](#context-of-home-education-and-family-learning)
     -   [Context of game making
-        strategies](#context-of-game-making-strategies){#toc-context-of-game-making-strategies}
+        strategies](#context-of-game-making-strategies)
         -   [Motivations for learning to code specifically via game
-            making](#motivations-for-learning-to-code-specifically-via-game-making){#toc-motivations-for-learning-to-code-specifically-via-game-making}
-        -   [On Retro Gaming](#on-retro-gaming){#toc-on-retro-gaming}
+            making](#motivations-for-learning-to-code-specifically-via-game-making)
+        -   [On Retro Gaming](#on-retro-gaming)
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
-        Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension){#toc-relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension}
+        Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
         -   [Studies with pedagogies addressing barriers to do with
             identity and computer
-            cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures){#toc-studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures}
+            cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
         -   [Specialist coding tools and computational
-            kits](#specialist-coding-tools-and-computational-kits){#toc-specialist-coding-tools-and-computational-kits}
+            kits](#specialist-coding-tools-and-computational-kits)
         -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
-            ?](#family-making---what-in-particular-to-explore){#toc-family-making---what-in-particular-to-explore}
+            ?](#family-making---what-in-particular-to-explore)
         -   [Mozilla, Webmaking and code
-            playgrounds](#mozilla-webmaking-and-code-playgrounds){#toc-mozilla-webmaking-and-code-playgrounds}
-            -   [Webmaking](#webmaking){#toc-webmaking}
-            -   [Code
-                playgrounds](#code-playgrounds){#toc-code-playgrounds}
+            playgrounds](#mozilla-webmaking-and-code-playgrounds)
+            -   [Webmaking](#webmaking)
+            -   [Code playgrounds](#code-playgrounds)
             -   [Other online asset creation
-                tools](#other-online-asset-creation-tools){#toc-other-online-asset-creation-tools}
-            -   [Phaser.js](#phaser.js){#toc-phaser.js}
+                tools](#other-online-asset-creation-tools)
+            -   [Phaser.js](#phaser.js)
             -   [Summary of authenticity- COMMENT OR
-                MOVE](#summary-of-authenticity--comment-or-move){#toc-summary-of-authenticity--comment-or-move}
+                MOVE](#summary-of-authenticity--comment-or-move)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
-        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature){#toc-review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature}
+        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
         -   [Barrier: Difficulties in learning to
-            program](#barrier-difficulties-in-learning-to-program){#toc-barrier-difficulties-in-learning-to-program}
+            program](#barrier-difficulties-in-learning-to-program)
         -   [Barrier: Paucity on research on designing for face to face
             learning communities of novice game makers -
-            MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move){#toc-barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move}
+            MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move)
         -   [Barrier - limited leaner choice in
-            process](#barrier---limited-leaner-choice-in-process){#toc-barrier---limited-leaner-choice-in-process}
+            process](#barrier---limited-leaner-choice-in-process)
         -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in){#toc-cultural-identity-barriers-to-participation-in}
+            ...](#cultural-identity-barriers-to-participation-in)
             -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures){#toc-barrier---identity-and-computer-cultures}
+                cultures](#barrier---identity-and-computer-cultures)
         -   [Barriers - Unsuitable technical tools and support
-            documentation](#barriers---unsuitable-technical-tools-and-support-documentation){#toc-barriers---unsuitable-technical-tools-and-support-documentation}
+            documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
         -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices){#toc-barrier---unfamiliarity-with-support-practices}
+            practices](#barrier---unfamiliarity-with-support-practices)
     -   [Summary of the thesis motivation and
-        structure](#summary-of-the-thesis-motivation-and-structure){#toc-summary-of-the-thesis-motivation-and-structure}
-        -   [Recap of
-            motivation](#recap-of-motivation){#toc-recap-of-motivation}
+        structure](#summary-of-the-thesis-motivation-and-structure)
+        -   [Recap of motivation](#recap-of-motivation)
         -   [Gaps in existing research / Contribution to knowledge of
             this
-            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis){#toc-gaps-in-existing-research-contribution-to-knowledge-of-this-thesis}
-        -   [Research
-            Questions](#research-questions){#toc-research-questions}
-        -   [Chapter outline](#chapter-outline){#toc-chapter-outline}
-        -   [Link to next
-            chapter](#link-to-next-chapter){#toc-link-to-next-chapter}
-    -   [Links](#links){#toc-links}
+            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
+        -   [Research Questions](#research-questions)
+        -   [Chapter outline](#chapter-outline)
+        -   [Link to next chapter](#link-to-next-chapter)
+    -   [Links](#links)

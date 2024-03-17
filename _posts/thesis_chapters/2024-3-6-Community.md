@@ -12,96 +12,97 @@ title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Le
 
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
-    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency){#toc-seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency}
+    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
     -   [Research Questions - March
-        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
-    -   [Introduction](#introduction){#toc-introduction}
+        2024](#research-questions---march-2024)
+    -   [Introduction](#introduction)
         -   [Notes on structure of the
-            chapter](#notes-on-structure-of-the-chapter){#toc-notes-on-structure-of-the-chapter}
+            chapter](#notes-on-structure-of-the-chapter)
         -   [Introduced and emergent
-            activity](#introduced-and-emergent-activity){#toc-introduced-and-emergent-activity}
+            activity](#introduced-and-emergent-activity)
         -   [Re-examining barriers associated with cultural
-            factors](#re-examining-barriers-associated-with-cultural-factors){#toc-re-examining-barriers-associated-with-cultural-factors}
+            factors](#re-examining-barriers-associated-with-cultural-factors)
         -   [Barriers and tensions associated with authenticity of
             audience - MOVE PERHAPS TO
-            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting){#toc-barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting}
+            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
             -   [Learners may not find coding a project a motivating
                 project if it is only a private activity with no
                 authentic
-                audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience){#toc-learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience}
+                audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience)
         -   [Barriers of identity hardcore coding & dysfunctional group
-            work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work){#toc-barriers-of-identity-hardcore-coding-dysfunctional-group-work}
+            work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
     -   [Results on key interventions of the design concerning
-        agency](#results-on-key-interventions-of-the-design-concerning-agency){#toc-results-on-key-interventions-of-the-design-concerning-agency}
+        agency](#results-on-key-interventions-of-the-design-concerning-agency)
         -   [Using Physical Maps of Missions as Game Design
-            Patterns](#using-physical-maps-of-missions-as-game-design-patterns){#toc-using-physical-maps-of-missions-as-game-design-patterns}
-        -   [Encouraging peer learning and varied working
-            practices](#encouraging-peer-learning-and-varied-working-practices){#toc-encouraging-peer-learning-and-varied-working-practices}
+            Patterns](#using-physical-maps-of-missions-as-game-design-patterns)
         -   [A game encouraging maker / player
-            types](#a-game-encouraging-maker-player-types){#toc-a-game-encouraging-maker-player-types}
+            types](#a-game-encouraging-maker-player-types)
+        -   [Use of side missions to encourage varied creative
+            practices](#use-of-side-missions-to-encourage-varied-creative-practices)
     -   [Exploring the impact of a drama
-        processes](#exploring-the-impact-of-a-drama-processes){#toc-exploring-the-impact-of-a-drama-processes}
+        processes](#exploring-the-impact-of-a-drama-processes)
         -   [Vignette 4.1.a - Introducing a drama
-            process](#vignette-4.1.a---introducing-a-drama-process){#toc-vignette-4.1.a---introducing-a-drama-process}
+            process](#vignette-4.1.a---introducing-a-drama-process)
         -   [Description of Vignette
-            4.1.a](#description-of-vignette-4.1.a){#toc-description-of-vignette-4.1.a}
+            4.1.a](#description-of-vignette-4.1.a)
         -   [Vignette 4.1.b - Session reflections and secret
-            missions](#vignette-4.1.b---session-reflections-and-secret-missions){#toc-vignette-4.1.b---session-reflections-and-secret-missions}
+            missions](#vignette-4.1.b---session-reflections-and-secret-missions)
         -   [Description of Vignette
-            4.1.b](#description-of-vignette-4.1.b){#toc-description-of-vignette-4.1.b}
-        -   [Reflecting in
-            role](#reflecting-in-role){#toc-reflecting-in-role}
+            4.1.b](#description-of-vignette-4.1.b)
+        -   [Relevant observations on side missions and drama from the
+            data](#relevant-observations-on-side-missions-and-drama-from-the-data)
+        -   [Reflecting in role](#reflecting-in-role)
         -   [Observations on written interactions with the alien in the
-            drama](#observations-on-written-interactions-with-the-alien-in-the-drama){#toc-observations-on-written-interactions-with-the-alien-in-the-drama}
+            drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
             -   [Exploring documentation and accessing technical help
                 within the drama
-                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame){#toc-exploring-documentation-and-accessing-technical-help-within-the-drama-frame}
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
             -   [Playful dialogue with the aliens unrelated to game
-                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making){#toc-playful-dialogue-with-the-aliens-unrelated-to-game-making}
-        -   [Use of side missions to encourage varied creative
-            practices](#use-of-side-missions-to-encourage-varied-creative-practices){#toc-use-of-side-missions-to-encourage-varied-creative-practices}
+                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
         -   [Concluding remarks on process
-            drama](#concluding-remarks-on-process-drama){#toc-concluding-remarks-on-process-drama}
-    -   [Emerging cultural
-        practices](#emerging-cultural-practices){#toc-emerging-cultural-practices}
-        -   [Playtesting](#playtesting){#toc-playtesting}
+            drama](#concluding-remarks-on-process-drama)
+    -   [Emerging cultural practices](#emerging-cultural-practices)
+        -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
-                process](#playtesting-as-a-cultural-process){#toc-playtesting-as-a-cultural-process}
+                process](#playtesting-as-a-cultural-process)
             -   [Playtesting and embodied participation in the games of
-                others](#playtesting-and-embodied-participation-in-the-games-of-others){#toc-playtesting-and-embodied-participation-in-the-games-of-others}
+                others](#playtesting-and-embodied-participation-in-the-games-of-others)
             -   [Community concepts and norming behaviour emerging
                 during
-                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting){#toc-community-concepts-and-norming-behaviour-emerging-during-playtesting}
+                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
             -   [Restricted vs extended community - e.g. why not engage
                 with a wider online community?
-                ?](#restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community){#toc-restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community}
+                ?](#restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community)
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
-            knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge){#toc-emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge}
+            knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
-                RQs](#summary-home-funds-and-rqs){#toc-summary-home-funds-and-rqs}
-        -   [Flexible design
-            practices](#flexible-design-practices){#toc-flexible-design-practices}
+                RQs](#summary-home-funds-and-rqs)
+        -   [Flexible design practices](#flexible-design-practices)
+            -   [Encouraging peer learning and varied working
+                practices](#encouraging-peer-learning-and-varied-working-practices)
+            -   [Beyond design cycle
+                stages](#beyond-design-cycle-stages)
             -   [Supporting Digital/Game
-                Jamming](#supporting-digitalgame-jamming){#toc-supporting-digitalgame-jamming}
+                Jamming](#supporting-digitalgame-jamming)
             -   [The potential of emergent "non-productive"
-                activities](#the-potential-of-emergent-non-productive-activities){#toc-the-potential-of-emergent-non-productive-activities}
-    -   [Discussion](#discussion){#toc-discussion}
+                activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Discussion](#discussion)
         -   [COMMENTS ON FORMAT OF Discussions /
-            Conclusion](#comments-on-format-of-discussions-conclusion){#toc-comments-on-format-of-discussions-conclusion}
+            Conclusion](#comments-on-format-of-discussions-conclusion)
         -   [Nurturing agency by creating space for emergent
-            practices](#nurturing-agency-by-creating-space-for-emergent-practices){#toc-nurturing-agency-by-creating-space-for-emergent-practices}
+            practices](#nurturing-agency-by-creating-space-for-emergent-practices)
         -   [Discussion on dimensions of authenticity in in relation to
-            Agency](#discussion-on-dimensions-of-authenticity-in-in-relation-to-agency){#toc-discussion-on-dimensions-of-authenticity-in-in-relation-to-agency}
+            Agency](#discussion-on-dimensions-of-authenticity-in-in-relation-to-agency)
             -   [Positive affective space within a drama
-                process](#positive-affective-space-within-a-drama-process){#toc-positive-affective-space-within-a-drama-process}
+                process](#positive-affective-space-within-a-drama-process)
             -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds){#toc-the-freedoms-and-restrictions-of-playgrounds}
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
             -   [Extending the metaphor - anchoring in sheltered
-                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours){#toc-extending-the-metaphor---anchoring-in-sheltered-harbours}
+                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
             -   [Implications in conceptualisations of forms of
-                agency](#implications-in-conceptualisations-of-forms-of-agency){#toc-implications-in-conceptualisations-of-forms-of-agency}
-    -   [Conclusion](#conclusion){#toc-conclusion}
+                agency](#implications-in-conceptualisations-of-forms-of-agency)
+    -   [Conclusion](#conclusion)
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 
@@ -287,7 +288,16 @@ The incident lead me to greater reflection on ongoing measures needed to prevent
 -   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
 
 
+**Narrative summary of conflict - TRANSITION TO DRAMA SCENARIO**
 
+The conflict comprised of compounding factors and resulted in a lack of desire to complete coding activities before fully engaging with them.
+
+In the initial stages some families struggled to reconcile the obstacles presented but their active participation in warm up games shows ....
+
+While many families talked of the challenge of coding, one family in particular were s
+In reflection on the session that ended their participation
+
+INSERT SOME ANALYSIS HERE BASED ON AGENCY AND AFFORDENCES OFFERED
 
 ## Results on key interventions of the design concerning agency
 
@@ -319,17 +329,6 @@ While it is beyond the remit of this thesis to examine the impact of these proce
 
 
 
-### Encouraging peer learning and varied working practices
-
-CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
-
-The tension outlined concerning participant identity was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
-
-The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
-
-Thus in the next iteration, rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
-
-These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
 
 
 
@@ -390,16 +389,63 @@ The process of exploring identity in this way surfaced the cheekiness of some yo
 
 As an example some layer created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
 
-**Narrative summary of conflict - TRANSITION TO DRAMA SCENARIO**
 
-The conflict comprised of compounding factors and resulted in a lack of desire to complete coding activities before fully engaging with them.
 
-In the initial stages some families struggled to reconcile the obstacles presented but their active participation in warm up games shows ....
 
-While many families talked of the challenge of coding, one family in particular were s
-In reflection on the session that ended their participation
+### Use of side missions to encourage varied creative practices
 
-INSERT SOME ANALYSIS HERE BASED ON AGENCY AND AFFORDENCES OFFERED
+<!--
+Perhaps add back in as an unintended consequence?
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage community-focused patterns of behaviour which had emerged in previous iterations of game making. These include social aspect of playtesting and playful interactions, explored in later section in this chapter, which I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
+
+<!-- AN EXAMPLE HELPFUL? -->
+
+A table of both social and public missions follows. These mission were printed out on cards and one of each type was given to the participants in the first half of the first two sessions.
+
+<!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
+<!-- NOTE ONLINE VERSION Secret missions and public missions -
+https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
+
+
+| Your Alien Mission (social)          | Your Secret Alien Mission:              
+|----------------|----------------|
+| Find out the names of 3 games that are being made.  | Change the variables at the start of someone else’s game to make it play in a funny way.    |
+| Make a list of characters in two other games being made.   | Change of the images in someone else’s project to a totally different image and see if they notice.    |
+| Find out the favourite computer games of 4 people.   | Change the level design of the first level of someone else’s project to make it impossible but try to change as little as possible to do that.   |
+| Find out who plays the most computer games per week in your group.   | Change of the images in someone else’s project to a very similar but slightly different version and see if they notice.    |
+| Find out what other people are planning. Give some friendly feedback to one other person / group. Why don’t you try…   | Add a rude sound to someone else’s project.    |
+| Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
+| Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
+
+<br />
+
+In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+
+These sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
+
+<!-- PROVISIONAL BRING accurate FIGURES TO THIS. -->
+
+The process was not without friction. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
+
+
+
+Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children. This supported and encouraged behaviours that I had observed in the previous stage where they had been energised by breaks for coding and interactions with others. This activity helps addresses one of the key barriers to taking part in a coding community that of alienation from the culture of _hardcore coding_.
+
+    Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
+    Ed: Yes. (Ed starts to type very slowly)
+    Mark: (after some time) While you do that I’m going to go do my mission.
+    Ed: What's your mission?
+    Mark: To find out about other people's favourite games.
+    Ed: Alright.
+
+While the some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
+
+The use of missions introduced by facilitator are taken up voluntarily by participants and work to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
+A BIT MORE ON AGENCY?
+
+
 
 ## Exploring the impact of a drama processes
 
@@ -583,6 +629,38 @@ RESTATING RQS
 
 In this extract participants are invited to take turns showing their game, recapping their progress and outlining next steps to the alien observers. I play the role as a liaison facilitating the process for the fictional, remote audience. I also draw attention to the secret missions that had been distributed to participants (along with social missions - both explore later in this chapter).
 
+### Relevant observations on side missions and drama from the data
+
+The positive reaction of young people to the drama process was also picked up in interview data.
+
+    Mark: Tell us about the Weean?
+    Ed: er.
+    Mark: What did you like about the Weean?
+    Ed: Just very silly and I don't know. They answered your questions.
+    Mark: Was it, because there was a sense of play, a bit of fun and a bit of anarchy.
+    Ed: Yeah.
+    Mark: What else can you tell us about the Weean?
+    Ed: er.
+    Mark: There was the little sabotage things you had to do as well.
+    Ed: Yeah
+    Mark: So you liked those games where you had to kind of hack somebody else?
+    Ed: Yeah
+    ...
+    Mark: The Weean thing was, I think, a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overtly technical. Brought a personal element in and obviously that anarchy. Kids love the absurd.
+
+
+<!-- WHERE AND HOW TO LINK DISCUSSION?
+- link to side missions of adventure games - zelda - perhaps find motivation there too. -->
+<!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
+<!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
+<!-- It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory.  -->
+<!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
+<!-- The secret missions were part of this workshop
+https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
+
+There is more evidence of the impact of the drama process in the vignette above. In the end of session reflection, Richie occupies a peripheral position and continues to interact with his laptop. However, he reacts positively when Ed's questions to the Weean are read out. He later adds to the discussion when it turns to the sabotage based missions set in the drama process. It is probably that the ability to represent his irreverent approach helped his participation in the more formal, collaborative reflection and feedback activity in a way that had not happened in previous sessions.
+
+
 ### Reflecting in role
 
 **It doesn't look like we've got anywhere but we have!**
@@ -595,7 +673,7 @@ In my journal notes for phases prior to using the drama process, I documented th
 
 In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
 
-To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of partfanicipants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
+To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x. The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.  
 
 <!-- MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
 NOTE ON CODING - LIMITED -->
@@ -663,86 +741,6 @@ To express this using affordance theory, the affordance offered by the medium of
 <!-- NOTES
 - identity of playfulness  
   -->
-
-### Use of side missions to encourage varied creative practices
-
-<!--
-Perhaps add back in as an unintended consequence?
-The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
-
-In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage community-focused patterns of behaviour which had emerged in previous iterations of game making. These include social aspect of playtesting and playful interactions, explored in later section in this chapter, which I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
-
-<!-- AN EXAMPLE HELPFUL? -->
-
-A table of both social and public missions follows. These mission were printed out on cards and one of each type was given to the participants in the first half of the first two sessions.
-
-<!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
-<!-- NOTE ONLINE VERSION Secret missions and public missions -
-https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
-
-
-| Your Alien Mission (social)          | Your Secret Alien Mission:              
-|----------------|----------------|
-| Find out the names of 3 games that are being made.  | Change the variables at the start of someone else’s game to make it play in a funny way.    |
-| Make a list of characters in two other games being made.   | Change of the images in someone else’s project to a totally different image and see if they notice.    |
-| Find out the favourite computer games of 4 people.   | Change the level design of the first level of someone else’s project to make it impossible but try to change as little as possible to do that.   |
-| Find out who plays the most computer games per week in your group.   | Change of the images in someone else’s project to a very similar but slightly different version and see if they notice.    |
-| Find out what other people are planning. Give some friendly feedback to one other person / group. Why don’t you try…   | Add a rude sound to someone else’s project.    |
-| Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
-| Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
-
-<br />
-
-In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
-
-These sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
-
-<!-- PROVISIONAL BRING accurate FIGURES TO THIS. -->
-
-The process was not without friction. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
-
-The positive reaction of young people to the drama process was also picked up in interview data.
-
-    Mark: Tell us about the Weean?
-    Ed: er.
-    Mark: What did you like about the Weean?
-    Ed: Just very silly and I don't know. They answered your questions.
-    Mark: Was it, because there was a sense of play, a bit of fun and a bit of anarchy.
-    Ed: Yeah.
-    Mark: What else can you tell us about the Weean?
-    Ed: er.
-    Mark: There was the little sabotage things you had to do as well.
-    Ed: Yeah
-    Mark: So you liked those games where you had to kind of hack somebody else?
-    Ed: Yeah
-    ...
-    Mark: The Weean thing was, I think, a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overtly technical. Brought a personal element in and obviously that anarchy. Kids love the absurd.
-
-
-<!-- WHERE AND HOW TO LINK DISCUSSION?
-- link to side missions of adventure games - zelda - perhaps find motivation there too. -->
-<!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
-<!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
-<!-- It is of value to briefly discussion the value of the missions in relation to drama process theory and play theory.  -->
-<!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
-<!-- The secret missions were part of this workshop
-https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
-
-There is more evidence of the impact of the drama process in the vignette above. In the end of session reflection, Richie occupies a peripheral position and continues to interact with his laptop. However, he reacts positively when Ed's questions to the Weean are read out. He later adds to the discussion when it turns to the sabotage based missions set in the drama process. It is probably that the ability to represent his irreverent approach helped his participation in the more formal, collaborative reflection and feedback activity in a way that had not happened in previous sessions.
-
-Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children. This supported and encouraged behaviours that I had observed in the previous stage where they had been energised by breaks for coding and interactions with others. This activity helps addresses one of the key barriers to taking part in a coding community that of alienation from the culture of _hardcore coding_.
-
-    Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
-    Ed: Yes. (Ed starts to type very slowly)
-    Mark: (after some time) While you do that I’m going to go do my mission.
-    Ed: What's your mission?
-    Mark: To find out about other people's favourite games.
-    Ed: Alright.
-
-While the some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
-
-The use of missions introduced by facilitator are taken up voluntarily by participants and work to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
-A BIT MORE ON AGENCY?
 
 ### Concluding remarks on process drama
 
@@ -1163,6 +1161,22 @@ Take the example above, through use of pixel art editor, and template with small
 ### Flexible design practices
 
 
+
+#### Encouraging peer learning and varied working practices
+
+CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
+
+The tension outlined concerning participant identity was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
+
+The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
+
+Thus in the next iteration, rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
+
+These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
+
+
+#### Beyond design cycle stages
+
 As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
 
 In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
@@ -1366,7 +1380,7 @@ But at the cost of maintaining a working game. -->
 
 This doesn't seem to hang together well. What about a more quantative approach to justify some of the findings above and below as a big part of the end of this chapter.
 
-NOTE - What about coding based on “processes to develop agency” - as per thematic analysis doc - and chapter 4? This could work as a summary of the chapter and something to put in a table and give some
+NOTE - What about coding based on “processes to develop agency” - as per thematic analysis doc - and chapter 4? This could work as a summary of the chapter and something to put in a table and give some greater coherence here.
 
 
 <!-- ## Discussion on designing for learner agency -->
