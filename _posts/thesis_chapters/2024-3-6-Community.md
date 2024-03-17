@@ -44,18 +44,16 @@ The chapter addresses research questions one and two. Thus, a guiding direction 
 
 Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
 
-The distinction between planned and emergent activities is of note and bears exploration.
-
-NOTE - HOW AND WHY - Why because this allows a more detailed analyis of different aspects of agency.
 
 
-_How does this fit into other findings chapters?_
+
+<!-- _How does this fit into other findings chapters?_
 
 Chap 4 - overall design context / evolution - Then in greater detail on personal observations on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
 
 Chap 5 - zoom out in scale to main focus of the activity as communicated between participants and their impact and appropriation by participants. It
 
-Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It
+Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It -->
 
 
 The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
@@ -90,7 +88,13 @@ The first section examines the impact of a process drama with an aim to establis
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
-## Re-examining barriers associated with cultural factors
+### Introduced and emergent activity
+
+The distinction between planned and emergent activities is of note and bears exploration.
+
+NOTE - HOW AND WHY - Why because this allows a more detailed analyis of different aspects of agency.
+
+### Re-examining barriers associated with cultural factors
 
 In chapter 4 social and cultural barriers were treated in summary alongside other more technical obstacles.
 
