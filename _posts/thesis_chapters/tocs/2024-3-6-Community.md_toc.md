@@ -8,17 +8,14 @@
             chapter](#notes-on-structure-of-the-chapter)
         -   [Introduced and emergent
             activity](#introduced-and-emergent-activity)
-        -   [Re-examining barriers associated with cultural
-            factors](#re-examining-barriers-associated-with-cultural-factors)
-        -   [Barriers and tensions associated with authenticity of
-            audience - MOVE PERHAPS TO
-            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
-            -   [Learners may not find coding a project a motivating
-                project if it is only a private activity with no
-                authentic
-                audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience)
-        -   [Barriers of identity hardcore coding & dysfunctional group
-            work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
+        -   [Re-examining barriers and tensions associated with cultural
+            factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
+            -   [Barriers and tensions associated with authenticity of
+                audience - MOVE PERHAPS TO
+                PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
+            -   [Barriers of identity hardcore coding & dysfunctional
+                group
+                work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
     -   [Results on key interventions of the design concerning
         agency](#results-on-key-interventions-of-the-design-concerning-agency)
         -   [Using Physical Maps of Missions as Game Design
