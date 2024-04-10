@@ -213,7 +213,7 @@ I argue that a narrower objectives  most vital unit of activity for participants
 
 Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]
 
-There is a strong case to make for the sub-projects of implementing GDP as a key unit of analysis. Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
+
 
 
 **Activity, Actions and Operations**
