@@ -6,21 +6,18 @@
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-        -   [Introduced and emergent
-            activity](#introduced-and-emergent-activity)
         -   [Re-examining barriers and tensions associated with cultural
             factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
     -   [Discussion on Authenticity](#discussion-on-authenticity)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
         -   [Barriers and tensions associated with authenticity of
-            audience - MOVE PERHAPS TO
-            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
-            -   [Barriers of identity hardcore coding & dysfunctional
-                group
-                work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
+            audience - MOVE TO A CULTURAL
+            SECTION?](#barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section)
     -   [DISCUSSION ON - Emerging cultural
         practices](#discussion-on---emerging-cultural-practices)
+        -   [Introduced and emergent
+            activity](#introduced-and-emergent-activity)
         -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
                 process](#playtesting-as-a-cultural-process)

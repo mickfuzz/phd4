@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
+
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -17,21 +18,18 @@ title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-        -   [Introduced and emergent
-            activity](#introduced-and-emergent-activity)
         -   [Re-examining barriers and tensions associated with cultural
             factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
     -   [Discussion on Authenticity](#discussion-on-authenticity)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
         -   [Barriers and tensions associated with authenticity of
-            audience - MOVE PERHAPS TO
-            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
-            -   [Barriers of identity hardcore coding & dysfunctional
-                group
-                work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
+            audience - MOVE TO A CULTURAL
+            SECTION?](#barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section)
     -   [DISCUSSION ON - Emerging cultural
         practices](#discussion-on---emerging-cultural-practices)
+        -   [Introduced and emergent
+            activity](#introduced-and-emergent-activity)
         -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
                 process](#playtesting-as-a-cultural-process)
@@ -153,13 +151,7 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
 
-### Re-examining barriers and tensions associated with cultural factors
 
-In chapter 4 social and cultural barriers were treated in summary alongside other more technical obstacles.
-
-In gdp chapter 5 - more detail on the social interaction in a good level of detail using data analysis from video capture.  
-
-This section explores the obstacles in practice tensions in more depth to give context to looking at impact of subsequent interventions.
 
 ## Discussion on Authenticity
 
