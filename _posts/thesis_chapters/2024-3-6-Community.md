@@ -151,13 +151,7 @@ The first section examines the impact of a process drama with an aim to establis
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
-### Introduced and emergent activity
 
-The distinction between planned and emergent activities is of note and bears exploration.
-
-NOTE - HOW AND WHY - Why because this allows a more detailed analyis of different aspects of agency.
-
-To recap we can see emergent use of GDPs as both practice and knowledge in the previous chapter.
 
 ### Re-examining barriers and tensions associated with cultural factors
 
@@ -168,8 +162,6 @@ In gdp chapter 5 - more detail on the social interaction in a good level of deta
 This section explores the obstacles in practice tensions in more depth to give context to looking at impact of subsequent interventions.
 
 ## Discussion on Authenticity
-
-
 
 ### Discussion on authenticity and agency concerning tools and resources  
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
@@ -210,7 +202,7 @@ Lifting the lid on hidden technologies and concepts in hands-on, exploratory pro
     Pearl: You just take things for granted don’t you?
 
 
-### Barriers and tensions associated with authenticity of audience - MOVE PERHAPS TO PLAYTESTING
+### Barriers and tensions associated with authenticity of audience - MOVE TO A CULTURAL SECTION?
 
 **Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**
 
@@ -254,61 +246,6 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 <!-- NOTE - Find complexity here?  -->
 
 
-#### Barriers of identity hardcore coding & dysfunctional group work
-
-NOTE - REALLY COMPRESS UNLESS DATA BECOMES PRESENT - USE AS BASIS FOR DISCUSSION / or keep here in intro to Chap 6 - but compress
-
-NOTE DUPLICATION WITH DESIGN CHAPTER.
-
-In chapter 4 I surfaced the conflict experiences by participants in phase one of the process where an alienation from the culture of coding prevented participation. While this was articulated clearly by just one family, this aligns with the thread of the LR exploring barriers to participation in the the culture of coding. In this section I explore the emerging tensions / barriers in more depth (and responses) to provide context for the following chapters sections.
-NOTE - REALLY HERE? IS THERE A BETTER PLACE? CH.4?
-
-NOTE - MENTION SOURCE OF FAMILY FROM THE DIGITAL BRAVES ACTIVITY?
-While speculative, it may be of significance that this family had also attended an open workshop for families before this programme which used drama processes to begin to explore issues of digital tracking and give hands on coding experiences. It is possible that it was this combination of tech and non-tech activities which gave them the confidence to attend a program based around coding.  When the family withdrew, in my journal notes I reflected that the they shared of alienation from the group process occurred in a session where, due to a sense of urgency to complete games, I had omitted drama-based warm up activities. Instead as participant entered I began to support to help some participants debug some pressing code errors.
-
-
-<!-- **Participants stuck / demotivated : scope of ambition to high,  clashes of identity not hard core coders, no on-going playtesting, collaboration groups too big (transition),**
-
-For some families and individual participants there were conflicts to do with a sense of anxiety and alienation from the group coding environment and associated peer working dynamics.
-
-One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
-
-The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
-
-I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
-
-
-**Gulfs between desires and reality**
-
-While members of this family were able to engage in planing via sketching on paper and in creating pixel art, they were reliant on others to implement code changes. This was in part due to improvised group roles.
-
-The freedom of choice and imagination allowed by designing on paper and via pixel art created compounding tensions. One crisis point involved a frustration of a child who was not able to implement a feature they wanted to add to the game next:
-
-A 3d bee design of one participant which happened when there was no framework.
-
-While personal expression can facilitates engagement and motivation it can lead to conflict if desired changes are not realistic.
-
-In order to accelerate the process of making a game to fit into contextual expectations of an acceptable project timeframe, I pre-chose the genre of game to be made as a two dimensional (2D) platformer game.
-
-<!-- Based on my previous teaching experience, analysis of literature and knowledge of platform games, I pre-prepared a set of coded example and tutorials to implement a range of game design patterns. -->
-
-The incident lead me to greater reflection on ongoing measures needed to prevent participant drop out for due to cultural tensions and negative affect to the working community. These include:
-
--   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
--   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
--   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
-
-
-**Narrative summary of conflict - TRANSITION TO DRAMA SCENARIO**
-
-The conflict comprised of compounding factors and resulted in a lack of desire to complete coding activities before fully engaging with them.
-
-In the initial stages some families struggled to reconcile the obstacles presented but their active participation in warm up games shows ....
-
-While many families talked of the challenge of coding, one family in particular were s
-In reflection on the session that ended their participation
-
-INSERT SOME ANALYSIS HERE BASED ON AGENCY AND AFFORDENCES OFFERED
 
 ## DISCUSSION ON - Emerging cultural practices
 
@@ -319,9 +256,21 @@ NOTE THIS NEEDS A QUICK INTRODUCTION TO MAKE A TRANSITION - LINK THIS PART AND R
 
 AT theory emphasises that the process of activity does not start in a vacuum. This helps justify the formative intervention process which is active in intervention and in the initial shaping of activity. In an educational context, this can involve introduction of tasks as starting activities to shape. This is justified conceptually from a view of not restricting participant agency in that some form of activity should be suggested in order for them to make a rational choice as to weather to participate. It follows that this activity should encourage the communication that participant choice is significant in the design.
 
-Beyond the starting point, the focus shifts to the way participants appropriate and use these practices. Many outlined here were very minimal in embryonic form but extended significantly by participants.
+
+### Introduced and emergent activity
+
+The distinction between facilitator designs and emergent activities is blurred. But it bears exploration because this allows a more detailed analyis of different aspects of agency.
+
+- tool support and design decisions allowing greater instrumental agency
+- we can see emergent use of GDPs as both practice and knowledge in the previous chapter
+- summary of cultural aspects
+
+While the design was responsive to learner need as,
+The following section shifts focus to the way participants appropriate and use these practices. Some processes outlined here were very minimal in embryonic form but extended significantly by participants.
 
 However the focus should not solely rest on the emerging practices but on the measures that facilitators can encourage them. The following sections address these dimensions using a lens of inclusive pedagogy and authorial agency.
+
+
 
 ### Playtesting
 
