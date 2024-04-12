@@ -48,9 +48,6 @@
                 terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
             -   [On CTs and CTs emerging in the
                 wild.](#on-cts-and-cts-emerging-in-the-wild.)
-                -   [Compare formal teaching of CT and CS with an
-                    approach based on a freer choice of
-                    patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
     -   [Recommendations for Practice /
         Research](#recommendations-for-practice-research)
     -   [Synthesis of reflections on designing for learner
