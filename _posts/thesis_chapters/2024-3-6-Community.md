@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
-
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -20,48 +19,19 @@ title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             chapter](#notes-on-structure-of-the-chapter)
         -   [Introduced and emergent
             activity](#introduced-and-emergent-activity)
-        -   [Re-examining barriers associated with cultural
-            factors](#re-examining-barriers-associated-with-cultural-factors)
+        -   [Re-examining barriers and tensions associated with cultural
+            factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
+    -   [Discussion on Authenticity](#discussion-on-authenticity)
+        -   [Discussion on authenticity and agency concerning tools and
+            resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
         -   [Barriers and tensions associated with authenticity of
             audience - MOVE PERHAPS TO
             PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
-            -   [Learners may not find coding a project a motivating
-                project if it is only a private activity with no
-                authentic
-                audience](#learners-may-not-find-coding-a-project-a-motivating-project-if-it-is-only-a-private-activity-with-no-authentic-audience)
-        -   [Barriers of identity hardcore coding & dysfunctional group
-            work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
-    -   [Results on key interventions of the design concerning
-        agency](#results-on-key-interventions-of-the-design-concerning-agency)
-        -   [Using Physical Maps of Missions as Game Design
-            Patterns](#using-physical-maps-of-missions-as-game-design-patterns)
-        -   [A game encouraging maker / player
-            types](#a-game-encouraging-maker-player-types)
-        -   [Use of side missions to encourage varied creative
-            practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-    -   [Exploring the impact of a drama
-        processes](#exploring-the-impact-of-a-drama-processes)
-        -   [Vignette 4.1.a - Introducing a drama
-            process](#vignette-4.1.a---introducing-a-drama-process)
-        -   [Description of Vignette
-            4.1.a](#description-of-vignette-4.1.a)
-        -   [Vignette 4.1.b - Session reflections and secret
-            missions](#vignette-4.1.b---session-reflections-and-secret-missions)
-        -   [Description of Vignette
-            4.1.b](#description-of-vignette-4.1.b)
-        -   [Relevant observations on side missions and drama from the
-            data](#relevant-observations-on-side-missions-and-drama-from-the-data)
-        -   [Reflecting in role](#reflecting-in-role)
-        -   [Observations on written interactions with the alien in the
-            drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
-            -   [Exploring documentation and accessing technical help
-                within the drama
-                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-            -   [Playful dialogue with the aliens unrelated to game
-                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
-        -   [Concluding remarks on process
-            drama](#concluding-remarks-on-process-drama)
-    -   [Emerging cultural practices](#emerging-cultural-practices)
+            -   [Barriers of identity hardcore coding & dysfunctional
+                group
+                work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
+    -   [DISCUSSION ON - Emerging cultural
+        practices](#discussion-on---emerging-cultural-practices)
         -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
                 process](#playtesting-as-a-cultural-process)
@@ -341,156 +311,12 @@ In reflection on the session that ended their participation
 
 INSERT SOME ANALYSIS HERE BASED ON AGENCY AND AFFORDENCES OFFERED
 
-## Results on key interventions of the design concerning agency
+## DISCUSSION ON - Emerging cultural practices
 
-### Using Physical Maps of Missions as Game Design Patterns
-
-I used flip chart paper and print outs to draw a coastal landscape with GDPs represented as different islands.  I asked learners to create and personalise a movable marker representing themselves. When learners selected their next mission, they moved their counter to the relevant island. Thus learners had to be intentional about their next goal and were implicitly encouraged to stick to it.
-
-![learning islands](./Pictures/navigational_paper_map.png){width=95%}
-![learning islands]({{ site.imgurl }}/_posts/thesis_chapters/Pictures/navigational_paper_map.png){width=95%}
-_Missions as Islands_
-
-My motivations for this intervention were that it encourage a sense of community and peer learning, to help learners navigate their design experience and that the process would encourage reflect on the coding concepts or other learning dimensions that they had been working with. The use of space on the map on which GDP were arranged aimed to communicate which patterns were more complicated to implement.  Starting patterns limited the maximum complexity of missions.
-
-The following excerpts of dialogue are from a fuller transcription in appendix 4.x
-
-  Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  ( Mick cuts a out an image from [^4] representing a GDP of key and doors.)     Olivia(c): So I've gone really far away on the map.
-
-The process of mapping the difficulty is something that the child picks up on here. Moments after we see a parent using the map and the resources to help her child fix a goal for the session.
-
-  Rozanne(p): Oh that's something you were wanting to do	(Roxanne points at a cut out that Mick has just stuck down.)
-  Richie(c): I like the idea of making the enemies move.
-  Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter?
-  Richie(c): No.
-  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.	(Roxanne waves sheet and smiles at Mick.)
-
-The new resources seem welcomed by the parent. This is probably as in previous sessions there had been conflict between them about goals. The process of aiding reflection and meta-cognition through the use of visual materials in the form of a map aligns with inclusive pedagogical design principles of UDL in that it provides means of action and expression. In chapter six, I explore the use of a process drama to achieve similar aims.
-
-While it is beyond the remit of this thesis to examine the impact of these processes in more curricular focused environments, the following section offers a synthesis of the ideas in explored in this chapter and alignment with existing research.
-
-
-
-
-
-
-### A game encouraging maker / player types
-
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
-
-In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-An additional rationale for this process was to help reduce potential internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches explored in the literature review [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-
-
-
-<!-- #### Building Identities as Game Makers (dropped) -->
-
-<!-- NOTE - MAY NEED TO REWRITE to clearly precursor next chapter -->
-
-
-<!-- One warm activities that took on a life of its own was a group activity of taking a Bartle test (what kind of game player are you) as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing. -->
-<!--
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals.
-
-In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014].
-EXPLAIN HOW.  
-Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
-
-I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
- - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
- -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
- -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users -->
-
-
-
-<!-- there's a limit here as the drama scenario is done on people already engaged
-so there's a problem in getting any data from this
-however the rationale is intact and  -->
-
-<!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
-
-This line of thinking developed from a warm-up activity trialled in P3 were participants took the Bartle test (what kind of game player are you).  
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
-
-The process was adapted so players moved
-to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some layer created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-
-
-
-### Use of side missions to encourage varied creative practices
-
-<!--
-Perhaps add back in as an unintended consequence?
-The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
-
-In addition to the the main mission of given in role to make a game to entertain and inform visiting aliens, and extra social and secret mission were delivered with the frame of a drama process, with an explicit aim to encourage community-focused patterns of behaviour which had emerged in previous iterations of game making. These include social aspect of playtesting and playful interactions, explored in later section in this chapter, which I had identified these behaviours as potentially helpful in maintaining the positive affect and identification with the on-going group process of game making.
-
-<!-- AN EXAMPLE HELPFUL? -->
-
-A table of both social and public missions follows. These mission were printed out on cards and one of each type was given to the participants in the first half of the first two sessions.
-
-<!-- NOTE - PERHAPS MOVE TO APPENDIX OR DESIGN CHAPTER -->
-<!-- NOTE ONLINE VERSION Secret missions and public missions -
-https://drive.google.com/drive/folders/1I8D_axlOUAFIGarrnzGV5mSCe2MDCDso -->
-
-
-| Your Alien Mission (social)          | Your Secret Alien Mission:              
-|----------------|----------------|
-| Find out the names of 3 games that are being made.  | Change the variables at the start of someone else’s game to make it play in a funny way.    |
-| Make a list of characters in two other games being made.   | Change of the images in someone else’s project to a totally different image and see if they notice.    |
-| Find out the favourite computer games of 4 people.   | Change the level design of the first level of someone else’s project to make it impossible but try to change as little as possible to do that.   |
-| Find out who plays the most computer games per week in your group.   | Change of the images in someone else’s project to a very similar but slightly different version and see if they notice.    |
-| Find out what other people are planning. Give some friendly feedback to one other person / group. Why don’t you try…   | Add a rude sound to someone else’s project.    |
-| Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
-| Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
-
-<br />
-
-In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
-
-These sanctioned non-design activities, designed to reduce participant stress, to encourage the exploration of the games of others are taken up enthusiastically by much of the community. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
-
-<!-- PROVISIONAL BRING accurate FIGURES TO THIS. -->
-
-The process was not without friction. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference. Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
-
-
-
-Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children. This supported and encouraged behaviours that I had observed in the previous stage where they had been energised by breaks for coding and interactions with others. This activity helps addresses one of the key barriers to taking part in a coding community that of alienation from the culture of _hardcore coding_.
-
-    Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
-    Ed: Yes. (Ed starts to type very slowly)
-    Mark: (after some time) While you do that I’m going to go do my mission.
-    Ed: What's your mission?
-    Mark: To find out about other people's favourite games.
-    Ed: Alright.
-
-While the some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. The vignette above shows a chance for the parent to express his frustration at the process in a playful way.
-
-The use of missions introduced by facilitator are taken up voluntarily by participants and work to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
-A BIT MORE ON AGENCY?
-
-
-## Emerging cultural practices
+CHECK TO SEE IF ANY SHOULD BE IN CHAPTER 4 - THAT IT IS DISCUSSION-Y ENOUGH
 
 NOTE THIS NEEDS A QUICK INTRODUCTION TO MAKE A TRANSITION - LINK THIS PART AND RECONNECT IT WITH CHAPTER 4.
+
 
 AT theory emphasises that the process of activity does not start in a vacuum. This helps justify the formative intervention process which is active in intervention and in the initial shaping of activity. In an educational context, this can involve introduction of tasks as starting activities to shape. This is justified conceptually from a view of not restricting participant agency in that some form of activity should be suggested in order for them to make a rational choice as to weather to participate. It follows that this activity should encourage the communication that participant choice is significant in the design.
 

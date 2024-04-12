@@ -10,43 +10,17 @@
             activity](#introduced-and-emergent-activity)
         -   [Re-examining barriers and tensions associated with cultural
             factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
-            -   [Barriers and tensions associated with authenticity of
-                audience - MOVE PERHAPS TO
-                PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
+    -   [Discussion on Authenticity](#discussion-on-authenticity)
+        -   [Discussion on authenticity and agency concerning tools and
+            resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
+        -   [Barriers and tensions associated with authenticity of
+            audience - MOVE PERHAPS TO
+            PLAYTESTING](#barriers-and-tensions-associated-with-authenticity-of-audience---move-perhaps-to-playtesting)
             -   [Barriers of identity hardcore coding & dysfunctional
                 group
                 work](#barriers-of-identity-hardcore-coding-dysfunctional-group-work)
-    -   [Results on key interventions of the design concerning
-        agency](#results-on-key-interventions-of-the-design-concerning-agency)
-        -   [Using Physical Maps of Missions as Game Design
-            Patterns](#using-physical-maps-of-missions-as-game-design-patterns)
-        -   [A game encouraging maker / player
-            types](#a-game-encouraging-maker-player-types)
-        -   [Use of side missions to encourage varied creative
-            practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-    -   [Exploring the impact of a drama
-        processes](#exploring-the-impact-of-a-drama-processes)
-        -   [Vignette 4.1.a - Introducing a drama
-            process](#vignette-4.1.a---introducing-a-drama-process)
-        -   [Description of Vignette
-            4.1.a](#description-of-vignette-4.1.a)
-        -   [Vignette 4.1.b - Session reflections and secret
-            missions](#vignette-4.1.b---session-reflections-and-secret-missions)
-        -   [Description of Vignette
-            4.1.b](#description-of-vignette-4.1.b)
-        -   [Relevant observations on side missions and drama from the
-            data](#relevant-observations-on-side-missions-and-drama-from-the-data)
-        -   [Reflecting in role](#reflecting-in-role)
-        -   [Observations on written interactions with the alien in the
-            drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
-            -   [Exploring documentation and accessing technical help
-                within the drama
-                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
-            -   [Playful dialogue with the aliens unrelated to game
-                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
-        -   [Concluding remarks on process
-            drama](#concluding-remarks-on-process-drama)
-    -   [Emerging cultural practices](#emerging-cultural-practices)
+    -   [DISCUSSION ON - Emerging cultural
+        practices](#discussion-on---emerging-cultural-practices)
         -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
                 process](#playtesting-as-a-cultural-process)
