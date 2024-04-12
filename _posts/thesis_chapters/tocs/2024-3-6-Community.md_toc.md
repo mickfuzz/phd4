@@ -46,9 +46,8 @@
                 Jamming](#supporting-digitalgame-jamming)
             -   [The potential of emergent "non-productive"
                 activities](#the-potential-of-emergent-non-productive-activities)
-    -   [Discussion](#discussion)
-        -   [COMMENTS ON FORMAT OF Discussions /
-            Conclusion](#comments-on-format-of-discussions-conclusion)
+    -   [Discussion on designing for learner
+        agency](#discussion-on-designing-for-learner-agency)
         -   [Nurturing agency by creating space for emergent
             practices](#nurturing-agency-by-creating-space-for-emergent-practices)
         -   [Discussion on dimensions of authenticity in in relation to

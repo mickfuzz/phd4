@@ -57,9 +57,8 @@ title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 Jamming](#supporting-digitalgame-jamming)
             -   [The potential of emergent "non-productive"
                 activities](#the-potential-of-emergent-non-productive-activities)
-    -   [Discussion](#discussion)
-        -   [COMMENTS ON FORMAT OF Discussions /
-            Conclusion](#comments-on-format-of-discussions-conclusion)
+    -   [Discussion on designing for learner
+        agency](#discussion-on-designing-for-learner-agency)
         -   [Nurturing agency by creating space for emergent
             practices](#nurturing-agency-by-creating-space-for-emergent-practices)
         -   [Discussion on dimensions of authenticity in in relation to
@@ -856,17 +855,9 @@ Te and Da's decision to explore a different starting point and add uncharted GDP
 A potential tension which was resolved quickly in some ways.
 But at the cost of maintaining a working game. -->
 
-## Discussion
+## Discussion on designing for learner agency
 
-### COMMENTS ON FORMAT OF Discussions / Conclusion
-
-This doesn't seem to hang together well. What about a more quantative approach to justify some of the findings above and below as a big part of the end of this chapter.
-
-NOTE - What about coding based on “processes to develop agency” - as per thematic analysis doc - and chapter 4? This could work as a summary of the chapter and something to put in a table and give some greater coherence here.
-
-
-<!-- ## Discussion on designing for learner agency -->
-<!-- I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.  -->
+I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.
 
 <!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
 
