@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 6. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
+title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
 
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
@@ -104,7 +104,7 @@ This chapter explores the development of the emerging game making through the le
 
 The guiding direction of this chapter is on how participants use the created and emerging cultural tools of this game making program, particularly in reference to the building of agency? Thus mostly addressing RQ4. However to do this, the chapter builds on the work of previous chapters and in doing so discusses aspects of all three research questions.
 
-Chapter four detailed and overall design context, tensions and evolution of tool use. It began to examine the impact of the design decision and scaffolding approaches to tool use. A discussion here deepens this analysis in particular in relation to the 
+Chapter four detailed and overall design context, tensions and evolution of tool use. It began to examine the impact of the design decision and scaffolding approaches to tool use. A discussion here deepens this analysis in particular in relation to the
 
 
 
@@ -171,6 +171,8 @@ The concept of dual stimulation can help illuminate the design and pedagogical t
 
 Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process. Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017]. This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. This curated replication of authentic process of finding and incorporating code snippets into the starting template was supported the development of skills used in professional coding communities. The careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above, a theme explored in more detail in chapter five.
 CHOICE - AUTHORIAL IN THE P1 AND P2 PROCESS OF CHOOSING DESIGN PATTERNS - BRIEF - BEYOND INSTRUCTIONAL APPROACHES AT LEAST
+
+THIS SHOULD SHIFT TO A CULTURAL SECTION?
 
 Learner agency in the form of choice over the the chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it. Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
 
@@ -491,6 +493,8 @@ Also - the diversity of creations available on a online community  could remove 
 
 
 
+
+
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
 **While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.**
@@ -567,7 +571,15 @@ Take the example above, through use of pixel art editor, and template with small
 
 
 
+### Discussion on Drama Process
 
+#### Discussion on reflecting in role
+
+to come
+
+#### Discussion on mediated chat and potential for addressing contradictions in activity
+
+to come
 
 
 ### Flexible design practices
@@ -813,12 +825,10 @@ This section continues to explore tensions surrounding support learner agency, u
 
 Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
 
-Thus, I propose that key areas of the learning design should be more open in structured to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
-
-
-
+Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
 
 ### Discussion on dimensions of authenticity in in relation to Agency
+
 <!-- #### Authenticity of Problem / Project
 Well established in PBL.
 Here the challenge is make a game to share, thus well aligned. -->
