@@ -12,6 +12,8 @@
         -   [Barriers and tensions associated with authenticity of
             audience - MOVE TO A CULTURAL
             SECTION?](#barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section)
+            -   [Discussion on dimensions of authenticity and Process
+                Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
     -   [DISCUSSION ON - Emerging cultural
         practices](#discussion-on---emerging-cultural-practices)
         -   [Introduced and emergent
@@ -32,6 +34,12 @@
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs)
+        -   [Discussion on Drama Process](#discussion-on-drama-process)
+            -   [Discussion on reflecting in
+                role](#discussion-on-reflecting-in-role)
+            -   [Discussion on mediated chat and potential for
+                addressing contradictions in
+                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
         -   [Flexible design practices](#flexible-design-practices)
             -   [Encouraging peer learning and varied working
                 practices](#encouraging-peer-learning-and-varied-working-practices)
@@ -45,14 +53,12 @@
         agency](#discussion-on-designing-for-learner-agency)
         -   [Nurturing agency by creating space for emergent
             practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-        -   [Discussion on dimensions of authenticity in in relation to
-            Agency](#discussion-on-dimensions-of-authenticity-in-in-relation-to-agency)
-            -   [Positive affective space within a drama
-                process](#positive-affective-space-within-a-drama-process)
-            -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-            -   [Extending the metaphor - anchoring in sheltered
-                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+        -   [Positive affective space within a drama
+            process](#positive-affective-space-within-a-drama-process)
+        -   [The freedoms and restrictions of
+            playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+        -   [Extending the metaphor - anchoring in sheltered
+            harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
             -   [Implications in conceptualisations of forms of
                 agency](#implications-in-conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)

@@ -227,6 +227,46 @@ Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the 
 <!-- NOTE - Find complexity here?  -->
 
 
+#### Discussion on dimensions of authenticity and Process Drama
+
+<!-- #### Authenticity of Problem / Project
+Well established in PBL.
+Here the challenge is make a game to share, thus well aligned. -->
+
+Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the processes explored. To do so, she argues, would expose their inexpertness in the cold light of day.
+
+> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
+
+Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
+
+CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
+
+In chapter four the use of coding tools and the impact on instrumental agency was explored.
+
+<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
+
+Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
+
+As explored in this chapter and in chapter four, the authenticity of the tools and processes involved are more complex.
+
+Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
+
+There are examples of the authenticity of the audience being used by participants
+
+  - Suzanna uses the imagined audience to norm behaviour.
+  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+The use of code playgrounds and js? structured along design principles which align with affordance theory.
+
+THEREFORE - WHAT IS THE KEY POINT HERE?
+
+While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
+
+Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
+
+While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
+CROSSREFF -  list the benefits here.
+
+
 
 ## DISCUSSION ON - Emerging cultural practices
 
@@ -827,47 +867,9 @@ Adopting analysis which aligns authorial agency and transformative agency, there
 
 Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
 
-### Discussion on dimensions of authenticity in in relation to Agency
-
-<!-- #### Authenticity of Problem / Project
-Well established in PBL.
-Here the challenge is make a game to share, thus well aligned. -->
-
-Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the processes explored. To do so, she argues, would expose their inexpertness in the cold light of day.
-
-> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
-
-Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
-
-CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
-
-In chapter four the use of coding tools and the impact on instrumental agency was explored.
-
-<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
-
-Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
-
-As explored in this chapter and in chapter four, the authenticity of the tools and processes involved are more complex.
-
-Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
-
-There are examples of the authenticity of the audience being used by participants
-
-  - Suzanna uses the imagined audience to norm behaviour.
-  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
-The use of code playgrounds and js? structured along design principles which align with affordance theory.
-
-THEREFORE - WHAT IS THE KEY POINT HERE?
-
-While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
-
-Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
-
-While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
-CROSSREFF -  list the benefits here.
 
 
-#### Positive affective space within a drama process
+### Positive affective space within a drama process
 
 The work in this research around designing and coding _in role_ and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces" [@piazzoli_process_2011; @stinson_dol_2006]. The drama process can be viewed as magic circle [@stenros_defence_2012; @whitton_playful_2018]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude.
 
@@ -892,14 +894,14 @@ For example, Heathcote refers to curricula content as an example of object inter
 
 <!-- Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners. -->
 
-#### The freedoms and restrictions of playgrounds
+### The freedoms and restrictions of playgrounds
 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
 
 These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
 
 
-#### Extending the metaphor - anchoring in sheltered harbours
+### Extending the metaphor - anchoring in sheltered harbours
 
 This chapter has discussed affordences of a bespoke and mutually designed learning exeriences and their impact on learner agency. At times, Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage in their process has been used. The metaphor is useful to explain the active process of participants seekig to resolve conflicts and problems in their creative processes. However, much research employing this metaphor is often used in less-structured workplace settings. As such, the designed nature of the environment is less relevant. This section proposes an expansion of the metaphor to encompass concerns of a more structured learning design.
 
