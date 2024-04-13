@@ -1,13 +1,11 @@
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
-    -   [Research Questions - March
-        2024](#research-questions---march-2024)
+    -   [Research Questions - April
+        2024](#research-questions---april-2024)
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-        -   [Re-examining barriers and tensions associated with cultural
-            factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
     -   [Discussion on Authenticity](#discussion-on-authenticity)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)

@@ -82,11 +82,13 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Etc -->
 
-## Research Questions - March 2024
+## Research Questions - April 2024
 
-1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
+1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of coding practices with novices?
 3. How can learners build agency in an evolving community of game makers?
+
 
 
 ## Introduction
@@ -100,11 +102,9 @@ This chapter explores the development of the emerging game making through the le
 
 <!-- COMMENT - While there is an overarching theme of, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
 
-The chapter addresses research questions one and two. Thus, a guiding direction of this chapter is on how participants use the created and emerging cultural tools of this game making program, particularly in reference to the building of agency?
+The guiding direction of this chapter is on how participants use the created and emerging cultural tools of this game making program, particularly in reference to the building of agency? Thus mostly addressing RQ4. However to do this, the chapter builds on the work of previous chapters and in doing so discusses aspects of all three research questions.
 
-
-Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
-
+Chapter four detailed and overall design context, tensions and evolution of tool use. It began to examine the impact of the design decision and scaffolding approaches to tool use. A discussion here deepens this analysis in particular in relation to the 
 
 
 
@@ -116,22 +116,12 @@ Chap 5 - zoom out in scale to main focus of the activity as communicated between
 
 Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It -->
 
+A later section explores the community behaviour of the group of game makers and some of the specifics of their design processes. The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; play testing and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
 
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlights the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame.
 
-<!-- _Why lead so much on the drama process? How can this be justified?_ -->
+The chapter then begins a broader discussion on wider concerns of designing for learner agency.
 
-The drama process is an example of an introduced cultural tool. The process acts as wrapper to several supporting techniques. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches.
-
-It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
-
-Other  section explores the community behaviour of the group of game makers and some of the specifics of their design processes.
-
-The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; play testing and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
-
-In the discussion section, the chapter builds on material explored in this chapter in relation to exiting research to explore the development of agency in this learning design.
-
-Particular attention is given to processes which support learners to develop agency in the game making process and the role of different levels of authenticity within these processes.
+Here I synthesise analysis on processes which support learners to develop agency in this game making community and the role of different levels of authenticity.
 
 
 <!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.
@@ -148,9 +138,6 @@ The first section examines the impact of a process drama with an aim to establis
 <!-- **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
-
-
-
 
 
 ## Discussion on Authenticity
@@ -247,6 +234,9 @@ NOTE THIS NEEDS A QUICK INTRODUCTION TO MAKE A TRANSITION - LINK THIS PART AND R
 
 
 AT theory emphasises that the process of activity does not start in a vacuum. This helps justify the formative intervention process which is active in intervention and in the initial shaping of activity. In an educational context, this can involve introduction of tasks as starting activities to shape. This is justified conceptually from a view of not restricting participant agency in that some form of activity should be suggested in order for them to make a rational choice as to weather to participate. It follows that this activity should encourage the communication that participant choice is significant in the design.
+
+
+Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
 
 
 ### Introduced and emergent activity
