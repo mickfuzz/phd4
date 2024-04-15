@@ -42,6 +42,9 @@
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
         Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+        -   [5th Dimension Summary](#th-dimension-summary)
+            -   [Digital Braves as a small MoE / 5D
+                project](#digital-braves-as-a-small-moe-5d-project)
         -   [Studies with pedagogies addressing barriers to do with
             identity and computer
             cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)

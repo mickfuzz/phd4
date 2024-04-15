@@ -11,7 +11,8 @@ title: 1. Introduction
 ---
 -   [Introduction](#introduction)
     -   [Abstract](#abstract)
-    -   [Research Questions - Feb 2023](#research-questions---feb-2023)
+    -   [Research Questions - March
+        2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of
         introduction](#starting-thoughts-for-contents-of-introduction)
     -   [Introduction to broad context](#introduction-to-broad-context)
@@ -52,6 +53,9 @@ title: 1. Introduction
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
         Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+        -   [5th Dimension Summary](#th-dimension-summary)
+            -   [Digital Braves as a small MoE / 5D
+                project](#digital-braves-as-a-small-moe-5d-project)
         -   [Studies with pedagogies addressing barriers to do with
             identity and computer
             cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
@@ -434,6 +438,14 @@ Outline case studies of similar work and identify gaps.
 
 Gap in particular exploring support for face-to-face informal communities.
 
+
+### 5th Dimension Summary
+
+Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimesion project
+
+#### Digital Braves as a small MoE / 5D project
+
+Insert a summary of Digital Braves - link to republication version.  
 
 ### Studies with pedagogies addressing barriers to do with identity and computer cultures
 
