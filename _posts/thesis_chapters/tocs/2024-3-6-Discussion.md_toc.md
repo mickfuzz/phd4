@@ -6,7 +6,8 @@
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-    -   [Discussion on Authenticity](#discussion-on-authenticity)
+    -   [Discussion on Authenticity and Personal
+        Dimension](#discussion-on-authenticity-and-personal-dimension)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
         -   [Barriers and tensions associated with authenticity of
@@ -14,10 +15,26 @@
             SECTION?](#barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section)
             -   [Discussion on dimensions of authenticity and Process
                 Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
-    -   [DISCUSSION ON - Emerging cultural
-        practices](#discussion-on---emerging-cultural-practices)
+    -   [Guided Participation
+        Dimension](#guided-participation-dimension)
+        -   [Flexible design practices](#flexible-design-practices)
+            -   [Encouraging peer learning and varied working
+                practices](#encouraging-peer-learning-and-varied-working-practices)
+            -   [Beyond design cycle
+                stages](#beyond-design-cycle-stages)
+            -   [Supporting Digital/Game
+                Jamming](#supporting-digitalgame-jamming)
+            -   [The potential of emergent "non-productive"
+                activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Discussion on emerging cultural practices (cultural
+        dimension)](#discussion-on-emerging-cultural-practices-cultural-dimension)
         -   [Introduced and emergent
             activity](#introduced-and-emergent-activity)
+        -   [Discussion on Game Maker types and process
+            drama](#discussion-on-game-maker-types-and-process-drama)
+            -   [Player types](#player-types)
+            -   [Drama process and side
+                missions](#drama-process-and-side-missions)
         -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
                 process](#playtesting-as-a-cultural-process)
@@ -40,15 +57,6 @@
             -   [Discussion on mediated chat and potential for
                 addressing contradictions in
                 activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
-        -   [Flexible design practices](#flexible-design-practices)
-            -   [Encouraging peer learning and varied working
-                practices](#encouraging-peer-learning-and-varied-working-practices)
-            -   [Beyond design cycle
-                stages](#beyond-design-cycle-stages)
-            -   [Supporting Digital/Game
-                Jamming](#supporting-digitalgame-jamming)
-            -   [The potential of emergent "non-productive"
-                activities](#the-potential-of-emergent-non-productive-activities)
     -   [Discussion on designing for learner
         agency](#discussion-on-designing-for-learner-agency)
         -   [Nurturing agency by creating space for emergent

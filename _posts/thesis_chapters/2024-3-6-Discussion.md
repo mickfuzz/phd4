@@ -13,23 +13,40 @@ title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to 
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
-    -   [Research Questions - March
-        2024](#research-questions---march-2024)
+    -   [Research Questions - April
+        2024](#research-questions---april-2024)
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-        -   [Re-examining barriers and tensions associated with cultural
-            factors](#re-examining-barriers-and-tensions-associated-with-cultural-factors)
-    -   [Discussion on Authenticity](#discussion-on-authenticity)
+    -   [Discussion on Authenticity and Personal
+        Dimension](#discussion-on-authenticity-and-personal-dimension)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
         -   [Barriers and tensions associated with authenticity of
             audience - MOVE TO A CULTURAL
             SECTION?](#barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section)
-    -   [DISCUSSION ON - Emerging cultural
-        practices](#discussion-on---emerging-cultural-practices)
+            -   [Discussion on dimensions of authenticity and Process
+                Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
+    -   [Guided Participation
+        Dimension](#guided-participation-dimension)
+        -   [Flexible design practices](#flexible-design-practices)
+            -   [Encouraging peer learning and varied working
+                practices](#encouraging-peer-learning-and-varied-working-practices)
+            -   [Beyond design cycle
+                stages](#beyond-design-cycle-stages)
+            -   [Supporting Digital/Game
+                Jamming](#supporting-digitalgame-jamming)
+            -   [The potential of emergent "non-productive"
+                activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Discussion on emerging cultural practices (cultural
+        dimension)](#discussion-on-emerging-cultural-practices-cultural-dimension)
         -   [Introduced and emergent
             activity](#introduced-and-emergent-activity)
+        -   [Discussion on Game Maker types and process
+            drama](#discussion-on-game-maker-types-and-process-drama)
+            -   [Player types](#player-types)
+            -   [Drama process and side
+                missions](#drama-process-and-side-missions)
         -   [Playtesting](#playtesting)
             -   [Playtesting as a cultural
                 process](#playtesting-as-a-cultural-process)
@@ -46,27 +63,22 @@ title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to 
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs)
-        -   [Flexible design practices](#flexible-design-practices)
-            -   [Encouraging peer learning and varied working
-                practices](#encouraging-peer-learning-and-varied-working-practices)
-            -   [Beyond design cycle
-                stages](#beyond-design-cycle-stages)
-            -   [Supporting Digital/Game
-                Jamming](#supporting-digitalgame-jamming)
-            -   [The potential of emergent "non-productive"
-                activities](#the-potential-of-emergent-non-productive-activities)
+        -   [Discussion on Drama Process](#discussion-on-drama-process)
+            -   [Discussion on reflecting in
+                role](#discussion-on-reflecting-in-role)
+            -   [Discussion on mediated chat and potential for
+                addressing contradictions in
+                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
     -   [Discussion on designing for learner
         agency](#discussion-on-designing-for-learner-agency)
         -   [Nurturing agency by creating space for emergent
             practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-        -   [Discussion on dimensions of authenticity in in relation to
-            Agency](#discussion-on-dimensions-of-authenticity-in-in-relation-to-agency)
-            -   [Positive affective space within a drama
-                process](#positive-affective-space-within-a-drama-process)
-            -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-            -   [Extending the metaphor - anchoring in sheltered
-                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+        -   [Positive affective space within a drama
+            process](#positive-affective-space-within-a-drama-process)
+        -   [The freedoms and restrictions of
+            playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+        -   [Extending the metaphor - anchoring in sheltered
+            harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
             -   [Implications in conceptualisations of forms of
                 agency](#implications-in-conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
@@ -140,7 +152,7 @@ The following elements have emerged from many in the learning design as of merit
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
-## Discussion on Authenticity
+## Discussion on Authenticity and Personal Dimension
 
 ### Discussion on authenticity and agency concerning tools and resources  
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
@@ -268,7 +280,228 @@ CROSSREFF -  list the benefits here.
 
 
 
-## DISCUSSION ON - Emerging cultural practices
+## Guided Participation Dimension
+
+
+
+### Flexible design practices
+
+
+
+#### Encouraging peer learning and varied working practices
+
+CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
+
+The tension outlined concerning participant identity was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
+
+The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
+
+Thus in the next iteration, rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
+
+These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
+
+
+#### Beyond design cycle stages
+
+As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
+
+In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
+
+
+#### Supporting Digital/Game Jamming
+
+While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
+
+This section explores the process of jamming in the context of game making. While the processes identified are often improvised, there is a group element of the process where makers pick up techniques from other makers in the group. I propose the value of facilitators noticing and nurturing potentially productive practices.
+
+I propose that this process can have value in other areas of digital making.
+
+
+Flexible design practices are often present in recorded data. Younger participants in particular developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed rapid, responsive creativity. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about with the capability of the tools which spurs creativity. The joint jamming created two different soundtracks. This sparks a new proposal to incorporate different soundtracks for different levels. Pairs often adopted a similar spirit of improvisaion. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
+
+These observations of the value of flexible design processes, invite discssion on how best to conceptualise and support these flexible approaches. Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014].
+
+Other relevant perspectives include rhizomatic design approaches  [@de_freitas_classroom_2012]. Research exists on the promise of rhizomatic approaches design thinking in creative educational programmes [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
+
+Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
+
+There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
+
+NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
+
+**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
+
+Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
+
+
+#### The potential of emergent "non-productive" activities
+
+NOTE - Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices.
+
+Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
+
+ <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+ <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
+
+
+Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared. In retrospect, many of the social missions explored above encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
+
+The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+In addition, I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
+
+| Participant Dialogue          | Participant Gestures & Activities              
+|----------------|----------------|
+|   |  Nadine has just rapidly demonstrated how to bring a created graphical element into the game |
+|      **Molly:** How did you do that so quickly? I’ve got to like, carefully...  |  Molly makes hand gestures to show a sense of hesitant keyboard use)  |
+|  | A parent peer next to Molly laughs.      <br/>    Nadine, the child of Molly bounces up in place and smiles broadly.    |
+
+In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants. This a concept is developed later in this discussion.
+
+
+<!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
+
+<!-- ##### Relevant terms and concepts in their relevant scope  / focus
+
+There is not a well-used framework in the area of researching teaching creative technology to undertake  analysis of group coding.
+
+- Tool affordance - in this context
+- Process affordance - in this context
+ -->
+
+
+
+<!--
+PERHAPS MOVE TO CONCLUSION
+
+Highlighting and supporting these more naturally emerging roles behaviours may be more useful  (explain - well aligned to creating a game making community?) to facilitators in informal environments that the more prescriptive roles in pedagogies like pair programming.
+ -->
+
+<!--
+MOVE THIS SOMEHOW INTO A DISCUSSION AREA
+#### Helpers supporting supportive community behaviours
+
+While not a key part of this study, it is of value to briefly examine the role of student helpers in this phase.
+One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions. In journal notes I made observations and gathered feedback, while not fo extensively studied there is potential here.
+Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
+DEVELOP IN RELATION TO DISUCSSION BELOW.
+ -->
+
+
+
+<!--
+#### Code roles  and experimentation
+
+While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
+
+In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind
+- perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
+FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER -->
+
+
+
+<!-- #### Emerging tactics in accessing help from peers and facilitators PARK NOW TO DEVELOP LATER
+
+IN NOTE FORM - Families and individuals showed flexibility and tactical choices when trying to overcome problems. -->
+
+
+<!-- The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
+
+Zi more directly and loudly asking for help for facilitator often followed by comment from his mother to leave him alone.
+
+in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
+- Student helper to get online,
+- Peer parent about use of piskel, and then her son
+- Ne daughter
+- Mick overall facilitator
+
+Other pairs and individuals had other tactics.
+Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
+
+<!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
+
+<!-- ### On different kinds of snags / blockages
+ -->
+
+<!-- #### Examples of Glitch types of errors
+
+Short examples of different types and the affect implications.
+
+Glitch errors can be productive.
+
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in**
+
+- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
+
+<!--
+SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
+<!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
+
+<!-- Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices. -->
+
+ <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
+
+<!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
+
+ <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
+ As such observations are listed in bullet point in case a lot restructuring is needed. -->
+
+ <!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addresAs sed in Methodology / Design
+  -->
+
+ <!-- As mentioned in the previous sections, after analysis of this vignette in particular, it seemed promising to investigate behaviour and engagement at different stages of design process for this pair. To do this I have made extensive notes and used a coding structure for two complete sessions of this parent-child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated participant feedback and my own journal notes. The observations are presented themed by the design stages used in the coding process with some general observations listed at the end of this section. -->
+
+ <!-- NOTE PERHAPS MOVE THE GENERAL OBSERVATIONS TO THE END OF THIS SECTION AS DISCUSSION OR SOME WHERE EVEN LATER. OR ANOTHER Chapter
+ REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
+   -->
+
+
+<!-- #### Discussion on design stages and GDP for this pair - DROP THIS?
+
+ - This grouping sometimes left early having completed more in code development than others but completed less social activities.
+ This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
+
+ This parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles." This alternation is driven or facilitated by the different stages of implementing GDPs. The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
+
+ Using the coded data from nvivo to compare design cycle stages with pair collaboration, it can be observed that the most likely stages for pair collaboration were during the Ask/Imagine stage, Testing and Planning.
+
+ The vignette shows evidence of that the actions of the parent to re-engage the child at different stages of the design cycle helped sustain the child's engagement in the more focused design process happening on the screen. However, an opposing pattern of behaviour may also be valid. When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation. The child's ability to legitimately disengage from pair coding to observe the work and interactions of others in this emerging community of learners may also be sustaining.
+
+ It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system. -->
+
+ <!-- #### Comparing the activity patterns of this family to others
+
+ NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION?
+  NOTE - This more general observation may be part of the previous chapter
+
+ We can compare this pairs pattern of activity with other pairs / families.
+
+ - The parent here is much more commonly rooted to the computer than other parents.
+ - This meant they engaged far less in play testing of other games and found it harder to gain attention for direct support.
+ - This grouping sometimes left early having completed more in code development than others but completed less social activities.
+
+ Discussion
+
+ - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
+
+ The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
+
+<!-- Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them. -->
+<!--
+MOVE to Discussion?
+**Breaking out of the walled garden:**
+
+Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
+A potential tension which was resolved quickly in some ways.
+But at the cost of maintaining a working game. -->
+
+
+## Discussion on emerging cultural practices (cultural dimension)
 
 CHECK TO SEE IF ANY SHOULD BE IN CHAPTER 4 - THAT IT IS DISCUSSION-Y ENOUGH
 
@@ -293,6 +526,19 @@ While the design was responsive to learner need as,
 The following section shifts focus to the way participants appropriate and use these practices. Some processes outlined here were very minimal in embryonic form but extended significantly by participants.
 
 However the focus should not solely rest on the emerging practices but on the measures that facilitators can encourage them. The following sections address these dimensions using a lens of inclusive pedagogy and authorial agency.
+
+### Discussion on Game Maker types and process drama
+
+Move things here -
+
+
+#### Player types
+
+Move things here -
+
+Limits of discussion findings - what to put in
+
+#### Drama process and side missions
 
 
 
@@ -621,222 +867,6 @@ to come
 
 to come
 
-
-### Flexible design practices
-
-
-
-#### Encouraging peer learning and varied working practices
-
-CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
-
-The tension outlined concerning participant identity was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
-
-The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
-
-Thus in the next iteration, rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
-
-These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
-
-
-#### Beyond design cycle stages
-
-As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
-
-In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
-
-
-#### Supporting Digital/Game Jamming
-
-While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
-
-This section explores the process of jamming in the context of game making. While the processes identified are often improvised, there is a group element of the process where makers pick up techniques from other makers in the group. I propose the value of facilitators noticing and nurturing potentially productive practices.
-
-I propose that this process can have value in other areas of digital making.
-
-
-Flexible design practices are often present in recorded data. Younger participants in particular developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed rapid, responsive creativity. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about with the capability of the tools which spurs creativity. The joint jamming created two different soundtracks. This sparks a new proposal to incorporate different soundtracks for different levels. Pairs often adopted a similar spirit of improvisaion. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
-
-These observations of the value of flexible design processes, invite discssion on how best to conceptualise and support these flexible approaches. Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014].
-
-Other relevant perspectives include rhizomatic design approaches  [@de_freitas_classroom_2012]. Research exists on the promise of rhizomatic approaches design thinking in creative educational programmes [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
-
-Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
-
-There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
-
-NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
-
-**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
-
-Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
-
-
-#### The potential of emergent "non-productive" activities
-
-NOTE - Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices.
-
-Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
-
- <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
- <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
-
-
-Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared. In retrospect, many of the social missions explored above encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
-
-The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
-
-In addition, I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
-
-| Participant Dialogue          | Participant Gestures & Activities              
-|----------------|----------------|
-|   |  Nadine has just rapidly demonstrated how to bring a created graphical element into the game |
-|      **Molly:** How did you do that so quickly? I’ve got to like, carefully...  |  Molly makes hand gestures to show a sense of hesitant keyboard use)  |
-|  | A parent peer next to Molly laughs.      <br/>    Nadine, the child of Molly bounces up in place and smiles broadly.    |
-
-In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants. This a concept is developed later in this discussion.
-
-
-<!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
-
-<!-- ##### Relevant terms and concepts in their relevant scope  / focus
-
-There is not a well-used framework in the area of researching teaching creative technology to undertake  analysis of group coding.
-
-- Tool affordance - in this context
-- Process affordance - in this context
- -->
-
-
-
-<!--
-PERHAPS MOVE TO CONCLUSION
-
-Highlighting and supporting these more naturally emerging roles behaviours may be more useful  (explain - well aligned to creating a game making community?) to facilitators in informal environments that the more prescriptive roles in pedagogies like pair programming.
- -->
-
-<!--
-MOVE THIS SOMEHOW INTO A DISCUSSION AREA
-#### Helpers supporting supportive community behaviours
-
-While not a key part of this study, it is of value to briefly examine the role of student helpers in this phase.
-One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions. In journal notes I made observations and gathered feedback, while not fo extensively studied there is potential here.
-Especialy in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
-DEVELOP IN RELATION TO DISUCSSION BELOW.
- -->
-
-
-
-<!--
-#### Code roles  and experimentation
-
-While the parents are the ones doing the majority of the heavily lifting importing new code, children are observering and emulating this behaviour.
-
-In one interaction child Ne visits the page to add a mechanic, starts to scan it, highlights some code, but then seems to change her mind
-- perhaps recognising limits - or fearing the process of breaking her game - and returns to more familiar territory of changing game assets and level design.
-FIND MORE EXAMPLES OF ROLES HERE - T AND D FOR EXAMPLE - CF OTHER CHAPTER -->
-
-
-
-<!-- #### Emerging tactics in accessing help from peers and facilitators PARK NOW TO DEVELOP LATER
-
-IN NOTE FORM - Families and individuals showed flexibility and tactical choices when trying to overcome problems. -->
-
-
-<!-- The family group of Mi, Zi and Ne showed a lot of flexibility and tactical choices when trying to overcome blocks.
-
-Zi more directly and loudly asking for help for facilitator often followed by comment from his mother to leave him alone.
-
-in 2019-03-18 - 18.20 Mi's meets many small blocks and asks for help from a variety of people.
-- Student helper to get online,
-- Peer parent about use of piskel, and then her son
-- Ne daughter
-- Mick overall facilitator
-
-Other pairs and individuals had other tactics.
-Parent Mark made a comment showing that he was aware of the particular value of the in-class sessions to overcome some kinds of blockages. -->
-
-<!-- In the context surrounding the interaction outlined in the above vignette, the parent had tried valiantly to overcome a conflict caused by incomplete documentation and her own incomplete knowledge of the computational patterns used in the construction of the game's code. -->
-
-<!-- ### On different kinds of snags / blockages
- -->
-
-<!-- #### Examples of Glitch types of errors
-
-Short examples of different types and the affect implications.
-
-Glitch errors can be productive.
-
-**Productive in exploring code / creating new game opportunites**
-An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
-
-**Productive in in**
-
-- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
-
- The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
-
-<!--
-SHOULD THIS TALK OF DESIGNING FOR LEARNER AGENCY AND FOR DIFFERENT MAKING STYLES BE INCLUDED IN THE PREVIOUS CHAPTER  ON INTERVENTION METHODS? -->
-<!-- NOTE - LIMITS OF THIS DISCUSSION - NOT INCLUDING THE USE OF GDP -->
-
-<!-- Previously a broad range of observed design practices of participants which involve game design patterns were observed. The overall direction of the section is that it is beneficial to creative a community where there is a diversity of approaches being undertaken but with some underlying shared themes and practices. -->
-
- <!-- https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/ -->
-
-<!-- #### Vingette -  Describing design stages for Th and Sh pair beyond this interaction -->
-
- <!-- NOTE - This section may move to a (previous) chapter (provisionally structured around inclusive methods) - of which overall interaction with design stages could be one aspect.
- As such observations are listed in bullet point in case a lot restructuring is needed. -->
-
- <!-- NOTE -  the chapter is moving towards GDP as main activity unit. or is this already addresAs sed in Methodology / Design
-  -->
-
- <!-- As mentioned in the previous sections, after analysis of this vignette in particular, it seemed promising to investigate behaviour and engagement at different stages of design process for this pair. To do this I have made extensive notes and used a coding structure for two complete sessions of this parent-child pair. The following observations have been made by comparing the codes on stages of design and types of participant interaction. This data was then triangulated participant feedback and my own journal notes. The observations are presented themed by the design stages used in the coding process with some general observations listed at the end of this section. -->
-
- <!-- NOTE PERHAPS MOVE THE GENERAL OBSERVATIONS TO THE END OF THIS SECTION AS DISCUSSION OR SOME WHERE EVEN LATER. OR ANOTHER Chapter
- REWRITE TO KEEP FOCUSED ON DESIGN PATTERNS.
-   -->
-
-
-<!-- #### Discussion on design stages and GDP for this pair - DROP THIS?
-
- - This grouping sometimes left early having completed more in code development than others but completed less social activities.
- This parent was much more commonly rooted to the computer than other parents. The parent had indicated that she considered herself a "planner" as a maker/player type (concepts explored in previous chapter). This interpretation seems confirmed by less social interactions compared to may parents. The pair engaged far less in play testing of other games and peer support to overcome barriers. They also followed the stages of design more closely than may other groupings, an observation which is explored in more detail later in this chapter.
-
- This parent-child pair alternate between use of keyboard and mouse. The parent is keen to give the child hands on experience when possible, noting "I resist the urge to fix things immediately when she struggles." This alternation is driven or facilitated by the different stages of implementing GDPs. The parent may take the driving seat to overcome code blockages early in a create stage but yield to allow the child to input their design choices when more complicated work is complete.
-
- Using the coded data from nvivo to compare design cycle stages with pair collaboration, it can be observed that the most likely stages for pair collaboration were during the Ask/Imagine stage, Testing and Planning.
-
- The vignette shows evidence of that the actions of the parent to re-engage the child at different stages of the design cycle helped sustain the child's engagement in the more focused design process happening on the screen. However, an opposing pattern of behaviour may also be valid. When parent problem solving the child is sometimes physically inactive, looking into space, but then explores the space and/or engages in peripheral activity with other groups. Within Rogoff's model of community of learners [-@rogoff_developing_1994], this observation is viewed as valid form of participation. The child's ability to legitimately disengage from pair coding to observe the work and interactions of others in this emerging community of learners may also be sustaining.
-
- It is of note that when describing the design cycle for this family that this family along with others are working with decomposed smaller design challenges in the form of implementing GDPs. Thus the cycle is repeated for each new pattern that the pair take on. These smaller design iterations can be expressed within the framework of AT as an activity system. -->
-
- <!-- #### Comparing the activity patterns of this family to others
-
- NOTE - MOVE / REINTEGRATE? OR REWRITE AS A LINK TO THE NEXT SECTION?
-  NOTE - This more general observation may be part of the previous chapter
-
- We can compare this pairs pattern of activity with other pairs / families.
-
- - The parent here is much more commonly rooted to the computer than other parents.
- - This meant they engaged far less in play testing of other games and found it harder to gain attention for direct support.
- - This grouping sometimes left early having completed more in code development than others but completed less social activities.
-
- Discussion
-
- - The parent had indicated that she considered herself a "planner" as a maker type  which is confirmed by less social Interactions
-
- The observations above show the importance of recording the whole room. Some participants will roam to observe the work of others, to socialise, to gain attention of others for support or for feedback. When analysing data using 360 recorded video side-by-side with the screen captured data, the participant can be followed around the room and their activity can be noted even when away from their activity. -->
-
-<!-- Or to use a similar metaphor as a gargoyles for spiderman to shoot his webspinners at so he can swing from them. -->
-<!--
-MOVE to Discussion?
-**Breaking out of the walled garden:**
-
-Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
-A potential tension which was resolved quickly in some ways.
-But at the cost of maintaining a working game. -->
 
 ## Discussion on designing for learner agency
 
