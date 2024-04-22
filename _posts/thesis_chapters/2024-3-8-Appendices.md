@@ -128,6 +128,15 @@ And yeah. That we can work by ourselves but also work as part of a team. So weâ€
 
 This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
 
+In my journal notes for phases prior to using the drama process, I documented that the occasional end of session debriefs as _go-rounds_ had limited success in terms of amount and quality of participation compared to these sessions. The video and audio recordings document rich feedback from individuals and pair teams, near complete participation and productive elements of interaction as the feedback progresses.
+
+In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
+
+To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
+
+The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them. 
+
+
 > Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if thatâ€™s alright.
 organiser
 

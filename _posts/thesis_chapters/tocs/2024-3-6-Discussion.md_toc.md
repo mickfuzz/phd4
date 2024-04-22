@@ -63,6 +63,9 @@
             practices](#nurturing-agency-by-creating-space-for-emergent-practices)
         -   [Positive affective space within a drama
             process](#positive-affective-space-within-a-drama-process)
+            -   [Reflection on reflecting in
+                role](#reflection-on-reflecting-in-role)
+            -   [Reflecting in role](#reflecting-in-role)
         -   [The freedoms and restrictions of
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Extending the metaphor - anchoring in sheltered

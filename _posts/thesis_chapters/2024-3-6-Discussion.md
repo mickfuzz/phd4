@@ -935,6 +935,26 @@ For example, Heathcote refers to curricula content as an example of object inter
 
 <!-- Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners. -->
 
+#### Reflection on reflecting in role
+
+
+
+
+#### Reflecting in role
+
+**It doesn't look like we've got anywhere but we have!**
+
+<!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
+
+While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. In line with this intervention, they propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. In this intervention however, main activities happen only weakly in role, whereas the end reflection highlights the fictional frame of the making more strongly.
+
+<!-- MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
+NOTE ON CODING - LIMITED -->
+
+Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator to help convene learners and to help them participate in reflection, and project sharing [@sannino_principle_2015].  
+
+
+
 ### The freedoms and restrictions of playgrounds
 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
