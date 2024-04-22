@@ -1,5 +1,8 @@
 -   [Appendices](#appendices)
     -   [Chapter Four](#chapter-four)
+        -   [Summary of tool used](#summary-of-tool-used)
+        -   [Summary of Game Template
+            structure](#summary-of-game-template-structure)
         -   [Summary of interactive Bartle
             test.](#summary-of-interactive-bartle-test.)
         -   [Vignette featuring Toby's
