@@ -51,12 +51,6 @@
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs)
-        -   [Discussion on Drama Process](#discussion-on-drama-process)
-            -   [Discussion on reflecting in
-                role](#discussion-on-reflecting-in-role)
-            -   [Discussion on mediated chat and potential for
-                addressing contradictions in
-                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
     -   [Discussion on designing for learner
         agency](#discussion-on-designing-for-learner-agency)
         -   [Nurturing agency by creating space for emergent
@@ -66,6 +60,9 @@
             -   [Reflection on reflecting in
                 role](#reflection-on-reflecting-in-role)
             -   [Reflecting in role](#reflecting-in-role)
+            -   [Discussion on mediated chat and potential for
+                addressing contradictions in
+                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
         -   [The freedoms and restrictions of
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Extending the metaphor - anchoring in sheltered
