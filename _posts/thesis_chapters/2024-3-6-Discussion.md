@@ -868,15 +868,7 @@ Take the example above, through use of pixel art editor, and template with small
 
 
 
-### Discussion on Drama Process
 
-#### Discussion on reflecting in role
-
-to come
-
-#### Discussion on mediated chat and potential for addressing contradictions in activity
-
-to come
 
 
 ## Discussion on designing for learner agency
@@ -938,8 +930,6 @@ For example, Heathcote refers to curricula content as an example of object inter
 #### Reflection on reflecting in role
 
 
-
-
 #### Reflecting in role
 
 **It doesn't look like we've got anywhere but we have!**
@@ -953,8 +943,17 @@ NOTE ON CODING - LIMITED -->
 
 Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator to help convene learners and to help them participate in reflection, and project sharing [@sannino_principle_2015].  
 
+LINK TO EXISTING RESEARCH
+More links to the limits of reflection processes and the challenges of critical approaches in PBL. 
+
+#### Discussion on mediated chat and potential for addressing contradictions in activity
+
+Writing in role.
+
 MOVED
 The start of playful chat with aliens process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. It is helpful to expore this interaction using AT and TADS terminology. Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
+
+
 
 
 ### The freedoms and restrictions of playgrounds
