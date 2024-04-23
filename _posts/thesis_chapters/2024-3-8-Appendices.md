@@ -222,7 +222,59 @@ organiser
 > Mick: So that’s interesting. some people notice some people didn’t.
 
 
-<!--
-RESTATING RQS
- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts?
-- How can learners build agency in an evolving community of game makers? -->
+### Commentary on Vignette 4.1.b
+
+
+#### Commentary on side missions
+
+Full table of side missions. 
+
+| Your Alien Mission (social)          | Your Secret Alien Mission:              
+|----------------|----------------|
+| Find out the names of 3 games that are being made.  | Change the variables at the start of someone else’s game to make it play in a funny way.    |
+| Make a list of characters in two other games being made.   | Change of the images in someone else’s project to a totally different image and see if they notice.    |
+| Find out the favourite computer games of 4 people.   | Change the level design of the first level of someone else’s project to make it impossible but try to change as little as possible to do that.   |
+| Find out who plays the most computer games per week in your group.   | Change of the images in someone else’s project to a very similar but slightly different version and see if they notice.    |
+| Find out what other people are planning. Give some friendly feedback to one other person / group. Why don’t you try…   | Add a rude sound to someone else’s project.    |
+| Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
+| Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
+
+
+
+
+In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+
+
+
+
+Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children.
+
+
+
+    Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
+    Ed: Yes. (Ed starts to type very slowly)
+    Mark: (after some time) While you do that I’m going to go do my mission.
+    Ed: What's your mission?
+    Mark: To find out about other people's favourite games.
+    Ed: Alright.
+
+#### Exploring documentation and accessing technical help within the drama frame
+
+
+To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
+
+Dan and Toby also received written help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of following a code suggestion from the aliens gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien when asking a clarifying question.
+
+    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
+
+Here the text dialogue with the aliens is used as a mediating artefact first by the facilitator to share help in-role, and then by a parent to suggest a modification to the code syntax to create more readable code structure for novices.  
+
+While this aspect of the drama process was introduced by the facilitator, in alignment with the understanding of Sannino's concepts of transformative agency through double stimulation (TADS) participants transform the function of the alien conversation to their own purposes. This theme is developed in the next section.
+
+#### Playful dialogue with the aliens unrelated to game making
+
+The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens.
+
+This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
+
+The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.

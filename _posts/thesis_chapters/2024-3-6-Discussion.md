@@ -886,21 +886,9 @@ I propose that learner agency entails the practice of designing and facilitating
 
 <!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
 
+### Discussion on Drama Process and Agency
 
-### Nurturing agency by creating space for emergent practices
-
-<!--
-NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
-
-THIS SECTION IS STILL UNDER DEVELOPMENT
-
-This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
-
-Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
-
-Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
-
-
+Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _responsible team_ is contracted into a _commission_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resilience_ to overcome the _grappling and struggling_ involved. The following sections explore some of these key concepts via the example in vignette.
 
 ### Positive affective space within a drama process
 
@@ -944,7 +932,7 @@ NOTE ON CODING - LIMITED -->
 Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator to help convene learners and to help them participate in reflection, and project sharing [@sannino_principle_2015].  
 
 LINK TO EXISTING RESEARCH
-More links to the limits of reflection processes and the challenges of critical approaches in PBL. 
+More links to the limits of reflection processes and the challenges of critical approaches in PBL.
 
 #### Discussion on mediated chat and potential for addressing contradictions in activity
 
@@ -952,6 +940,21 @@ Writing in role.
 
 MOVED
 The start of playful chat with aliens process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. It is helpful to expore this interaction using AT and TADS terminology. Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
+
+
+
+### Nurturing agency by creating space for emergent practices
+
+<!--
+NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
+
+THIS SECTION IS STILL UNDER DEVELOPMENT
+
+This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
+
+Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
+
+Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
 
 
 

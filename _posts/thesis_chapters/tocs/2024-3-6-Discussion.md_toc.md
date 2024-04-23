@@ -53,8 +53,8 @@
                 RQs](#summary-home-funds-and-rqs)
     -   [Discussion on designing for learner
         agency](#discussion-on-designing-for-learner-agency)
-        -   [Nurturing agency by creating space for emergent
-            practices](#nurturing-agency-by-creating-space-for-emergent-practices)
+        -   [Discussion on Drama Process and
+            Agency](#discussion-on-drama-process-and-agency)
         -   [Positive affective space within a drama
             process](#positive-affective-space-within-a-drama-process)
             -   [Reflection on reflecting in
@@ -63,6 +63,8 @@
             -   [Discussion on mediated chat and potential for
                 addressing contradictions in
                 activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
+        -   [Nurturing agency by creating space for emergent
+            practices](#nurturing-agency-by-creating-space-for-emergent-practices)
         -   [The freedoms and restrictions of
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Extending the metaphor - anchoring in sheltered

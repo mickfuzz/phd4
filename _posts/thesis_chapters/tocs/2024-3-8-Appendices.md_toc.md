@@ -12,3 +12,5 @@
                 process](#vignette-4.1.a---introducing-a-drama-process)
             -   [Vignette 4.1.b - Session reflections and secret
                 missions](#vignette-4.1.b---session-reflections-and-secret-missions)
+        -   [Commentary on Vignette
+            4.1.b](#commentary-on-vignette-4.1.b)
