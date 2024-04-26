@@ -218,9 +218,12 @@ Blunden makes a pragmatic proposal to use the project as they key unit of activi
 
 **Activity, Actions and Operations**
 
-MOVE TO ANALYSIS DISCUSSION SECTION OF THIS CHAPTER?
+
+Following the terms and concepts used by Leontiev [-@leontiev_activity_2009], EXPLAIN IN JUST ENOUGH DETAIL HERE.
+
 Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
-In the methodology chapter the concept of activity as a primary unit for analysis to research community activity was outlined.
+
+The concept of activity as a primary unit for analysis to research community activity was outlined.
 
 
 ### Analysis of activity system through conflicts and contradictions between elements
@@ -246,7 +249,7 @@ In HCI and DBR and other design based research, similar concepts are are explore
 
 Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
 
-While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework
+While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework.
 
 NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
 
@@ -257,6 +260,9 @@ In Sannino's later work on transformational agency TADS conflicts are examined -
 Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
 
 <!-- (Relational agency?) -->
+
+SUMMARY OF DISAMBIGUATION
+In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contradictions as a broad term wrapper encompassing concepts of tensions, barriers, breakdowns, conflicts.
 
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 

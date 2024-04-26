@@ -14,3 +14,10 @@
                 missions](#vignette-4.1.b---session-reflections-and-secret-missions)
         -   [Commentary on Vignette
             4.1.b](#commentary-on-vignette-4.1.b)
+            -   [Commentary on side
+                missions](#commentary-on-side-missions)
+            -   [Exploring documentation and accessing technical help
+                within the drama
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+            -   [Playful dialogue with the aliens unrelated to game
+                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)

@@ -329,7 +329,9 @@ Javascript is an authentic language, core the web. Phaser is a professional and 
 
 In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
 
+#### Authentic web technology
 
+The motivation was to align to authentic web technology due to my previous experience. The reason for working with code this authentic bears exploration. Characteristics of broader dimensions of authenticity of tools and processes in learning environments are explored in the literature review. A brief summary being: similarity to workplace settings; facilitating activity which serves a need of participants; an ability to showcased resulting work to an audience [@shaffer_thick_1999; @warr_bridging_2020]. While my choice of open source digital tools allowed for a high level of aligning with professional practices, it was also potentially complex in terms of use of tools. In part my motivation for choice of code language (Javascript, Phaser) was driven by desire to align with common workplace practices and to be potentially extensible for future student-led web projects.
 
 ### Project Based Learning and Inclusion
 
