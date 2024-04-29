@@ -6,15 +6,27 @@
     -   [Introduction](#introduction){#toc-introduction}
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter){#toc-notes-on-structure-of-the-chapter}
+        -   [Planned and emergent activity (in introduction to
+            discussion)](#planned-and-emergent-activity-in-introduction-to-discussion){#toc-planned-and-emergent-activity-in-introduction-to-discussion}
     -   [Discussion on Authenticity and Personal
         Dimension](#discussion-on-authenticity-and-personal-dimension){#toc-discussion-on-authenticity-and-personal-dimension}
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources){#toc-discussion-on-authenticity-and-agency-concerning-tools-and-resources}
-        -   [Barriers and tensions associated with authenticity of
-            audience - MOVE TO A CULTURAL
-            SECTION?](#barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section){#toc-barriers-and-tensions-associated-with-authenticity-of-audience---move-to-a-cultural-section}
-            -   [Discussion on dimensions of authenticity and Process
-                Drama](#discussion-on-dimensions-of-authenticity-and-process-drama){#toc-discussion-on-dimensions-of-authenticity-and-process-drama}
+            -   [Increased scaffolding of tools can increase
+                instrumental agency but at what
+                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost){#toc-increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost}
+            -   [Different black boxes for different
+                goals](#different-black-boxes-for-different-goals){#toc-different-black-boxes-for-different-goals}
+            -   [The potentially awesome impact of lifting the lid on
+                authentic
+                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies){#toc-the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies}
+            -   [Exploring different dimentions of agency using the
+                concept fo dual
+                stimuation](#exploring-different-dimentions-of-agency-using-the-concept-fo-dual-stimuation){#toc-exploring-different-dimentions-of-agency-using-the-concept-fo-dual-stimuation}
+        -   [Agency in resposes to a series of second
+            stiumuli](#agency-in-resposes-to-a-series-of-second-stiumuli){#toc-agency-in-resposes-to-a-series-of-second-stiumuli}
+        -   [Conclusion to this
+            section](#conclusion-to-this-section){#toc-conclusion-to-this-section}
     -   [Guided Participation
         Dimension](#guided-participation-dimension){#toc-guided-participation-dimension}
         -   [Flexible design
@@ -29,11 +41,13 @@
                 activities](#the-potential-of-emergent-non-productive-activities){#toc-the-potential-of-emergent-non-productive-activities}
     -   [Discussion on emerging cultural practices (cultural
         dimension)](#discussion-on-emerging-cultural-practices-cultural-dimension){#toc-discussion-on-emerging-cultural-practices-cultural-dimension}
-        -   [Introduced and emergent
-            activity](#introduced-and-emergent-activity){#toc-introduced-and-emergent-activity}
         -   [Discussion on Game Maker types and process
             drama](#discussion-on-game-maker-types-and-process-drama){#toc-discussion-on-game-maker-types-and-process-drama}
             -   [Player types](#player-types){#toc-player-types}
+        -   [Disucssion on conflicts associated with authenticity of
+            audience](#disucssion-on-conflicts-associated-with-authenticity-of-audience){#toc-disucssion-on-conflicts-associated-with-authenticity-of-audience}
+            -   [Discussion on dimensions of authenticity and Process
+                Drama](#discussion-on-dimensions-of-authenticity-and-process-drama){#toc-discussion-on-dimensions-of-authenticity-and-process-drama}
             -   [Drama process and side
                 missions](#drama-process-and-side-missions){#toc-drama-process-and-side-missions}
         -   [Playtesting](#playtesting){#toc-playtesting}
