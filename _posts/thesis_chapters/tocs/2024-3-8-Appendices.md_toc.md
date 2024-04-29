@@ -6,6 +6,8 @@
             structure](#summary-of-game-template-structure){#toc-summary-of-game-template-structure}
         -   [Summary of interactive Bartle
             test.](#summary-of-interactive-bartle-test.){#toc-summary-of-interactive-bartle-test.}
+        -   [Discussion on Player types - moved from chapter
+            6](#discussion-on-player-types---moved-from-chapter-6){#toc-discussion-on-player-types---moved-from-chapter-6}
         -   [Vignette featuring Toby's
             activity](#vignette-featuring-tobys-activity){#toc-vignette-featuring-tobys-activity}
         -   [Vignettes of drama

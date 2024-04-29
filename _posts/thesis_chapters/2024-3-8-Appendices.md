@@ -84,6 +84,24 @@ in open world games are used in part to appeal to different kinds of players [@b
 <!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
 
 
+### Discussion on Player types - moved from chapter 6
+
+DATA REQUIRED FROM VIDEO!?
+
+The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+Below I outline how I designed to encourage this behaviour.
+
+My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990].
+
+I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
+
+
+Limits of discussion findings - what to put in
+
+
 ### Vignette featuring Toby's activity
 
 The vignette is included as a principle appendix.
@@ -227,7 +245,7 @@ organiser
 
 #### Commentary on side missions
 
-Full table of side missions. 
+Full table of side missions.
 
 | Your Alien Mission (social)          | Your Secret Alien Mission:              
 |----------------|----------------|

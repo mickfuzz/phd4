@@ -19,8 +19,9 @@ title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to 
             chapter](#notes-on-structure-of-the-chapter){#toc-notes-on-structure-of-the-chapter}
         -   [Planned and emergent activity (in introduction to
             discussion)](#planned-and-emergent-activity-in-introduction-to-discussion){#toc-planned-and-emergent-activity-in-introduction-to-discussion}
-    -   [Discussion on Authenticity and Personal
-        Dimension](#discussion-on-authenticity-and-personal-dimension){#toc-discussion-on-authenticity-and-personal-dimension}
+    -   [Discussion on authenticity and agency in relation to (personal
+        appropiration?) of tool
+        use](#discussion-on-authenticity-and-agency-in-relation-to-personal-appropiration-of-tool-use){#toc-discussion-on-authenticity-and-agency-in-relation-to-personal-appropiration-of-tool-use}
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources){#toc-discussion-on-authenticity-and-agency-concerning-tools-and-resources}
             -   [Increased scaffolding of tools can increase
@@ -38,58 +39,52 @@ title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to 
             stiumuli](#agency-in-resposes-to-a-series-of-second-stiumuli){#toc-agency-in-resposes-to-a-series-of-second-stiumuli}
         -   [Conclusion to this
             section](#conclusion-to-this-section){#toc-conclusion-to-this-section}
-    -   [Guided Participation
-        Dimension](#guided-participation-dimension){#toc-guided-participation-dimension}
-        -   [Flexible design
-            practices](#flexible-design-practices){#toc-flexible-design-practices}
-            -   [Encouraging peer learning and varied working
-                practices](#encouraging-peer-learning-and-varied-working-practices){#toc-encouraging-peer-learning-and-varied-working-practices}
-            -   [Beyond design cycle
-                stages](#beyond-design-cycle-stages){#toc-beyond-design-cycle-stages}
-            -   [Supporting Digital/Game
-                Jamming](#supporting-digitalgame-jamming){#toc-supporting-digitalgame-jamming}
+    -   [Discussion on emergent elements of guided
+        participation](#discussion-on-emergent-elements-of-guided-participation){#toc-discussion-on-emergent-elements-of-guided-participation}
+        -   [Encouraging peer learning and varied working
+            practices](#encouraging-peer-learning-and-varied-working-practices){#toc-encouraging-peer-learning-and-varied-working-practices}
+        -   [Beyond design cycle
+            stages](#beyond-design-cycle-stages){#toc-beyond-design-cycle-stages}
+        -   [Supporting Digital/Game
+            Jamming](#supporting-digitalgame-jamming){#toc-supporting-digitalgame-jamming}
             -   [The potential of emergent "non-productive"
                 activities](#the-potential-of-emergent-non-productive-activities){#toc-the-potential-of-emergent-non-productive-activities}
+        -   [The interaction of emergent / flexible deign practices and
+            the collection of Game Design
+            Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns){#toc-the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns}
     -   [Discussion on emerging cultural practices (cultural
         dimension)](#discussion-on-emerging-cultural-practices-cultural-dimension){#toc-discussion-on-emerging-cultural-practices-cultural-dimension}
-        -   [Discussion on Game Maker types and process
-            drama](#discussion-on-game-maker-types-and-process-drama){#toc-discussion-on-game-maker-types-and-process-drama}
-            -   [Player types](#player-types){#toc-player-types}
-        -   [Disucssion on conflicts associated with authenticity of
-            audience](#disucssion-on-conflicts-associated-with-authenticity-of-audience){#toc-disucssion-on-conflicts-associated-with-authenticity-of-audience}
-            -   [Discussion on dimensions of authenticity and Process
-                Drama](#discussion-on-dimensions-of-authenticity-and-process-drama){#toc-discussion-on-dimensions-of-authenticity-and-process-drama}
-            -   [Drama process and side
-                missions](#drama-process-and-side-missions){#toc-drama-process-and-side-missions}
-        -   [Playtesting](#playtesting){#toc-playtesting}
-            -   [Playtesting as a cultural
-                process](#playtesting-as-a-cultural-process){#toc-playtesting-as-a-cultural-process}
-            -   [Playtesting and embodied participation in the games of
-                others](#playtesting-and-embodied-participation-in-the-games-of-others){#toc-playtesting-and-embodied-participation-in-the-games-of-others}
-            -   [Community concepts and norming behaviour emerging
-                during
-                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting){#toc-community-concepts-and-norming-behaviour-emerging-during-playtesting}
-            -   [Restricted vs extended community - e.g. why not engage
-                with a wider online community?
-                ?](#restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community){#toc-restricted-vs-extended-community---e.g.-why-not-engage-with-a-wider-online-community}
+        -   [Introduction to this
+            section](#introduction-to-this-section){#toc-introduction-to-this-section}
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge){#toc-emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge}
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs){#toc-summary-home-funds-and-rqs}
-    -   [Discussion on designing for learner
-        agency](#discussion-on-designing-for-learner-agency){#toc-discussion-on-designing-for-learner-agency}
+        -   [Discussion on
+            playtesting](#discussion-on-playtesting){#toc-discussion-on-playtesting}
+            -   [Community concepts and norming behaviour emerging
+                during
+                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting){#toc-community-concepts-and-norming-behaviour-emerging-during-playtesting}
+        -   [Discussion on Drama
+            Process](#discussion-on-drama-process){#toc-discussion-on-drama-process}
+            -   [Discussion on conflicts associated with authenticity of
+                audience](#discussion-on-conflicts-associated-with-authenticity-of-audience){#toc-discussion-on-conflicts-associated-with-authenticity-of-audience}
+            -   [Discussion on dimensions of authenticity and Process
+                Drama](#discussion-on-dimensions-of-authenticity-and-process-drama){#toc-discussion-on-dimensions-of-authenticity-and-process-drama}
+            -   [Discussion on making types and process drama / side
+                missions](#discussion-on-making-types-and-process-drama-side-missions){#toc-discussion-on-making-types-and-process-drama-side-missions}
         -   [Discussion on Drama Process and
             Agency](#discussion-on-drama-process-and-agency){#toc-discussion-on-drama-process-and-agency}
         -   [Positive affective space within a drama
             process](#positive-affective-space-within-a-drama-process){#toc-positive-affective-space-within-a-drama-process}
             -   [Reflection on reflecting in
                 role](#reflection-on-reflecting-in-role){#toc-reflection-on-reflecting-in-role}
-            -   [Reflecting in
-                role](#reflecting-in-role){#toc-reflecting-in-role}
             -   [Discussion on mediated chat and potential for
                 addressing contradictions in
                 activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity){#toc-discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity}
+    -   [Discussion on designing for learner
+        agency](#discussion-on-designing-for-learner-agency){#toc-discussion-on-designing-for-learner-agency}
         -   [Nurturing agency by creating space for emergent
             practices](#nurturing-agency-by-creating-space-for-emergent-practices){#toc-nurturing-agency-by-creating-space-for-emergent-practices}
         -   [The freedoms and restrictions of
@@ -99,6 +94,7 @@ title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to 
             -   [Implications in conceptualisations of forms of
                 agency](#implications-in-conceptualisations-of-forms-of-agency){#toc-implications-in-conceptualisations-of-forms-of-agency}
     -   [Conclusion](#conclusion){#toc-conclusion}
+
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 
@@ -362,6 +358,25 @@ In addition, I observed that navigating these essential but non-creative tasks i
 In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants. This a concept is developed later in this discussion.
 
 
+
+
+### The interaction of emergent / flexible deign practices and the collection of Game Design Patterns
+
+THIS SECTION SHOULD BE DEVELOPED.
+
+BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS.
+
+In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks.
+
+The nature of the framework provided by game play design patterns can be explored through the lens of agency and authenticity.  
+
+They are authentic  -
+There is choice  - and interaction - contribution to the overall object.
+
+
+
+
+
 <!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
 
 <!-- ##### Relevant terms and concepts in their relevant scope  / focus
@@ -519,150 +534,92 @@ THIS IS ALSO INTRO - REMOVE? REDUCE?
 Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
 
 
-### Discussion on Game Maker types and process drama
-
-Move things here -
-
-
-#### Player types
-
-DATA REQUIRED FROM VIDEO!?
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data.
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-
-Limits of discussion findings - what to put in
 
 
 
+### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
-### Disucssion on conflicts associated with authenticity of audience
+**While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.**
 
-**Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**
+The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
 
-Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
+Video evidence indicated that conflicts involved between learner expectations and their technical abilities are helped by the use of the starting template. The
+constraints of provided game elements and implied narrative structure of the template accelerated the initial creative process.
 
-<!--
-MOVE To LATER DISCUSSION ON AUTHENTICITY IN LATER CHAPTERS?
+<!-- (like a  musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.) -->
 
-In line existing PBL research [LIT NEEDED]  with previous iterations of this learning design the process of creating a game for a real audience of university students was motivating [DATA NEEDED].
+One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
 
-While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
+     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
+     Use the arrow keys to move the bee. Press return to START.";
 
-In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (something about learner identities)
--->
+<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
 
-Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
+   zi: Have you done amazing things?
 
-The process of starting with a broken but playable template game allowed learners to be able to share their game with others from the start of the coding process.
+The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
 
-As a designer I identified this tactic as a way to address learner disengagement if game coding is taught from scratch via a step by step instructions from first principles, especially in younger ages.
+The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
 
-Similarly, in my journal notes, I reflect on the difficulty of interrupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
+In another example, Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
 
-
-
-<!-- There are examples of the authenticity of the audience being used by participants
-- Suzanna uses the imagined audience to norm behaviour.
-- Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions. -->
-
-
-<!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
-The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
-The process of bringing people into the culture merit allocating time to address inequalities.
-
-Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
-
-<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
-<!--
-Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
-
-<!-- NOTE - Find complexity here?  -->
-
-
-#### Discussion on dimensions of authenticity and Process Drama
-
-<!-- #### Authenticity of Problem / Project
-Well established in PBL.
-Here the challenge is make a game to share, thus well aligned. -->
-
-Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the processes explored. To do so, she argues, would expose their inexpertness in the cold light of day.
-
-> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
-
-Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
-
-CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
-
-In chapter four the use of coding tools and the impact on instrumental agency was explored.
-
-<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
-
-Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
-
-As explored in this chapter and in chapter four, the authenticity of the tools and processes involved are more complex.
-
-Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
-
-There are examples of the authenticity of the audience being used by participants
-
-  - Suzanna uses the imagined audience to norm behaviour.
-  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
-The use of code playgrounds and js? structured along design principles which align with affordance theory.
-
-THEREFORE - WHAT IS THE KEY POINT HERE?
-
-While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
-
-Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
-
-While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
-CROSSREFF -  list the benefits here.
-
-
-#### Drama process and side missions
+<!-- The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".  -->
 
 
 
-### Playtesting
+<!-- NOTE
+NARRATIVE / drama IN PREVIOUS CHAPTER?
+how do these two sections work together? remove this one?
+ -->
+<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
+
+<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
+
+<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
+
+Other participants expressed pride over their graphical creations. In this excerpt parent Molly has spent time creating a pixel art representation of an alien. The full exchange (see appendix 4.x) sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel".
+
+    Molly: We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
+    Sonia: Have you saved it?
+    Molly: No I’ve not saved it.
+    Sonia: Save there. (points to relevant button on screen)
+
+The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
+
+#### Summary: Home Funds and RQs
+
+This research supports findings of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
+
+This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
+
+In addition, the tacit knowledge of children as game players gives them access to varied affordances in the process of feeding back.
+
+There is also evidence here that frictions involved in dealing with participant expectations of the genre and professionalism of the game they will create, are helped by the use of a templated game. Both in terms of the technical platform and the implied narrative and creative frame which scaffolds the initial creative process. This supports existing research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama. The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
+HOW TO EXTEND?
+
+<!-- NOTE - CHECK LITERATURE -->
+
+<!-- This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
+ -->
+
+<!-- This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression. -->
+<!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
+
+<!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
+Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make. -->
+
+<!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
+- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
+
+
+### Discussion on playtesting
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
 As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour.
 
- <!-- By the time video data recording started in phase three there were already complex patterns of playtesting underway. In this section, I review data to describe some of the emerging playtesting behaviours of participants. -->
+<!-- NOTE - CAN SOME OF THIS BE MOVED TO CHAPTER FOUR? -->
 
-#### Playtesting as a cultural process
-
-Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
-
-Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
-
-#### Playtesting and embodied participation in the games of others
-
-<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
-<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
-
-
- <!-- Examples include.... -->
-Some children added additional playful elements to playtesting. Because these interactions were mobile between works is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
-
-WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
-
-    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
-
-These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
-
-<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
-<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
 
 
 #### Community concepts and norming behaviour emerging during playtesting
@@ -856,114 +813,102 @@ Relevant theory / studies.
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
 
-#### Restricted vs extended community - e.g. why not engage with a wider online community? ?
-
-
-<!-- A broad concern of Learning technology in community settings can engender feelings of agency and motivation from part of wide network and the  diverse pathways.  -->
-
-Beyond technical considerations regarding scratch and use of physics, authenticity,
-
-Time consideration of the process of being involved in an online community may remove time spent doing real life playtesting.
-
-Also - the diversity of creations available on a online community  could remove the more communal experience of the designed limitations.
 
 
 
+### Discussion on Drama Process
 
+#### Discussion on conflicts associated with authenticity of audience
 
-### Emerging use of narratives and graphics which drawing on home funds of knowledge
+**Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**
 
-**While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.**
+Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
 
-The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
+<!--
+MOVE To LATER DISCUSSION ON AUTHENTICITY IN LATER CHAPTERS?
 
-Video evidence indicated that conflicts involved between learner expectations and their technical abilities are helped by the use of the starting template. The
-constraints of provided game elements and implied narrative structure of the template accelerated the initial creative process.
+In line existing PBL research [LIT NEEDED]  with previous iterations of this learning design the process of creating a game for a real audience of university students was motivating [DATA NEEDED].
 
-<!-- (like a  musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.) -->
+While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
 
-One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
+In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (something about learner identities)
+-->
 
-     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
-     Use the arrow keys to move the bee. Press return to START.";
+Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
 
-<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
+The process of starting with a broken but playable template game allowed learners to be able to share their game with others from the start of the coding process.
 
-   zi: Have you done amazing things?
+As a designer I identified this tactic as a way to address learner disengagement if game coding is taught from scratch via a step by step instructions from first principles, especially in younger ages.
 
-The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
-
-The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
-
-In another example, Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
-
-<!-- The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".  -->
+Similarly, in my journal notes, I reflect on the difficulty of interrupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
 
 
 
-<!-- NOTE
-NARRATIVE / drama IN PREVIOUS CHAPTER?
-how do these two sections work together? remove this one?
- -->
-<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
-
-<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
-
-<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
-
-Other participants expressed pride over their graphical creations. In this excerpt parent Molly has spent time creating a pixel art representation of an alien. The full exchange (see appendix 4.x) sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel".
-
-    Molly: We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
-    Sonia: Have you saved it?
-    Molly: No I’ve not saved it.
-    Sonia: Save there. (points to relevant button on screen)
-
-The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
-
-#### Summary: Home Funds and RQs
-
-This research supports findings of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
-
-This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
-
-In addition, the tacit knowledge of children as game players gives them access to varied affordances in the process of feeding back.
-
-There is also evidence here that frictions involved in dealing with participant expectations of the genre and professionalism of the game they will create, are helped by the use of a templated game. Both in terms of the technical platform and the implied narrative and creative frame which scaffolds the initial creative process. This supports existing research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama. The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
-HOW TO EXTEND?
-
-<!-- NOTE - CHECK LITERATURE -->
-
-<!-- This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression.
- -->
-
-<!-- This shifts the focus of activity away from emboddied STEM concepts, often maths or computing concepts, to provide a base for creative expression. -->
-<!-- While, the personal expression via narrative and asset design can be engage and sustain the motivation of participants, these processes brought tensions identified in the _design chapter_ namely: (edit down into list? ) -->
-
-<!-- **Exploring Tension - time spent on task - ALSO EXPLORED IN LAST CHAPTER**
-Take the example above, through use of pixel art editor, and template with small, retro themed graphics, as a designer, reduce the propensity to spend along time on asset creation as retro pixel art is quicker to make. -->
-
-<!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
-- incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
+<!-- There are examples of the authenticity of the audience being used by participants
+- Suzanna uses the imagined audience to norm behaviour.
+- Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions. -->
 
 
+<!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
+The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
+The process of bringing people into the culture merit allocating time to address inequalities.
+
+Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
+
+<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
+<!--
+Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
+
+<!-- NOTE - Find complexity here?  -->
 
 
+#### Discussion on dimensions of authenticity and Process Drama
+
+<!-- #### Authenticity of Problem / Project
+Well established in PBL.
+Here the challenge is make a game to share, thus well aligned. -->
+
+Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the processes explored. To do so, she argues, would expose their inexpertness in the cold light of day.
+
+> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
+
+Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
+
+CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
+
+In chapter four the use of coding tools and the impact on instrumental agency was explored.
+
+<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
+
+Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
+
+As explored in this chapter and in chapter four, the authenticity of the tools and processes involved are more complex.
+
+Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
+
+There are examples of the authenticity of the audience being used by participants
+
+  - Suzanna uses the imagined audience to norm behaviour.
+  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+The use of code playgrounds and js? structured along design principles which align with affordance theory.
+
+THEREFORE - WHAT IS THE KEY POINT HERE?
+
+While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
+
+Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
+
+While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
+CROSSREFF -  list the benefits here.
 
 
-## Discussion on designing for learner agency
+#### Discussion on making  types and process drama / side missions
 
-I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.
+The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
-<!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
-
-<!-- This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process. -->
+As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
 
 
-<!-- I will extract observations from this research that extend beyond the process of coding into other domains.   -->
-
-<!-- In this section analysis uses the language and concepts introduces in literature on affordances and transformational agency which in turn draws on concepts of conflicts in activity in activity theory. To help this process a quick recap of relevant concepts in relation to the contents of this chapter follows. -->
-
-<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
 
 ### Discussion on Drama Process and Agency
 
@@ -997,7 +942,6 @@ For example, Heathcote refers to curricula content as an example of object inter
 #### Reflection on reflecting in role
 
 
-#### Reflecting in role
 
 **It doesn't look like we've got anywhere but we have!**
 
@@ -1022,10 +966,29 @@ The start of playful chat with aliens process began when Ed in a moment of free 
 
 
 
+
+## Discussion on designing for learner agency
+
+I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.
+
+<!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
+
+<!-- This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process. -->
+
+
+<!-- I will extract observations from this research that extend beyond the process of coding into other domains.   -->
+
+<!-- In this section analysis uses the language and concepts introduces in literature on affordances and transformational agency which in turn draws on concepts of conflicts in activity in activity theory. To help this process a quick recap of relevant concepts in relation to the contents of this chapter follows. -->
+
+<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
+
 ### Nurturing agency by creating space for emergent practices
 
 <!--
 NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
+
+
+
 
 THIS SECTION IS STILL UNDER DEVELOPMENT
 
