@@ -260,10 +260,10 @@ CHOICE - AUTHORIAL IN THE P1 AND P2 PROCESS OF CHOOSING DESIGN PATTERNS - BRIEF 
 THIS SHOULD SHIFT TO A CULTURAL SECTION?
 
 
-### Agency in resposes to a series of second stiumuli
+### Agency in response to a series of second stimuli
 
 Learner agency in the form of choice over the the chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
-KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER ESCTIONS IF NEEDED.
+KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED.
 
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
 
@@ -285,19 +285,36 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 I also outline the rationale behind my responses to them.
 
-
-
 ### Encouraging peer learning and varied working practices
 
-CHECK FOR DUPLICATION WITH FOLLOWING SECTIONS
+This section discusses some of the outcomes stemming from interventions and emergent participant responses in the area of peer and individual working practices.
 
-The tension outlined concerning participant identity was resolved partly by freeing up some patterns of collaboration and interaction and removing others.
+In chapter four, one of area of contractions was the dysfunctional group work which was freed up by allowing greater atomisation and greater scaffolding of tool use.
+
+<!-- Some barriers stemming from alienation from participant group working processes were resolved partly by freeing up some patterns of collaboration and interaction and removing others.
 
 The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
 
-Thus in the next iteration, rather than the larger groups, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
+Thus in P2, rather than the larger groups of P1, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
+
+There is a flexibility here which is encouraged by informal moments of  playtesting
 
 These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
+ -->
+
+These tensions of allocated roles and dysfunctional group work are mirrored in similar research  - FIND THIS ON PAIR PROGRAMMING
+
+These tensions were were highlighted in the end of P1 feedback and in some practitioner interviews that I conducted. FIND THIS IF SO
+
+In contrast in P2 and P3 there is flexibility of interaction  which suits informal moments of playtesting.
+
+Chapter five outlined examples of GDPS being used as a lingua franca in playtesting sessions for a variety of collaborative work from feedback to direct requests for help from peers.
+
+ARE THERE ARE OTHER STUDIES WHICH ENCOURAGE THIS?
+
+This informal, unguided approach is also present in some Game Jams.
+
+In addition to ad-hoc partnership work and collaboration
 
 
 ### Beyond design cycle stages
@@ -328,6 +345,7 @@ There are disparate resources available for game jams but due to the adult centr
 
 NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
 
+MOVE THIS CLAIM LATER. 
 **Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
 
 Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
