@@ -1,140 +1,128 @@
--   [Methodology](#methodology){#toc-methodology}
+-   [Methodology](#methodology)
     -   [Research Questions - March
-        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
+        2024](#research-questions---march-2024)
     -   [Conceptualising activity in this learning
-        design](#conceptualising-activity-in-this-learning-design){#toc-conceptualising-activity-in-this-learning-design}
+        design](#conceptualising-activity-in-this-learning-design)
         -   [Choosing a suitable unit of analysis / germ
-            cell](#choosing-a-suitable-unit-of-analysis-germ-cell){#toc-choosing-a-suitable-unit-of-analysis-germ-cell}
+            cell](#choosing-a-suitable-unit-of-analysis-germ-cell)
             -   [Levels of Abstraction in Activity
-                Theory](#levels-of-abstraction-in-activity-theory){#toc-levels-of-abstraction-in-activity-theory}
+                Theory](#levels-of-abstraction-in-activity-theory)
             -   [Choosing smaller units of
-                analysis](#choosing-smaller-units-of-analysis){#toc-choosing-smaller-units-of-analysis}
+                analysis](#choosing-smaller-units-of-analysis)
         -   [Analysis of activity system through conflicts and
             contradictions between
-            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements){#toc-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements}
+            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
         -   [Disambiguating terminology - Conflicts, tensions,
             contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas){#toc-disambiguating-terminology---conflicts-tensions-contradictions-dilemmas}
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
         -   [Analysis of CHAT / DBR interventions over
-            time](#analysis-of-chat-dbr-interventions-over-time){#toc-analysis-of-chat-dbr-interventions-over-time}
+            time](#analysis-of-chat-dbr-interventions-over-time)
             -   [Early limits of DBR addressed by expansive learning -
                 and formative
-                interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions){#toc-early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions}
+                interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
         -   [Exploring specific techniques of formative interventions -
             MAKE MORE TARGETED
-            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--){#toc-exploring-specific-techniques-of-formative-interventions---make-more-targeted--}
+            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
         -   [Creating ideocultures as designed
-            systems](#creating-ideocultures-as-designed-systems){#toc-creating-ideocultures-as-designed-systems}
+            systems](#creating-ideocultures-as-designed-systems)
         -   [Rogoff's three planes of analysis of learning
-            communities](#rogoffs-three-planes-of-analysis-of-learning-communities){#toc-rogoffs-three-planes-of-analysis-of-learning-communities}
+            communities](#rogoffs-three-planes-of-analysis-of-learning-communities)
             -   [Communities of practice and communities of
-                learners](#communities-of-practice-and-communities-of-learners){#toc-communities-of-practice-and-communities-of-learners}
-        -   [Funds of
-            Knowledge](#funds-of-knowledge){#toc-funds-of-knowledge}
+                learners](#communities-of-practice-and-communities-of-learners)
+        -   [Funds of Knowledge](#funds-of-knowledge)
             -   [Retro Gaming as a Fund of
-                knowledge](#retro-gaming-as-a-fund-of-knowledge){#toc-retro-gaming-as-a-fund-of-knowledge}
+                knowledge](#retro-gaming-as-a-fund-of-knowledge)
     -   [Conceptual tools associated with
-        agency](#conceptual-tools-associated-with-agency){#toc-conceptual-tools-associated-with-agency}
+        agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency){#toc-tads---on-double-stimulation-and-agency}
+            agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances and
-                anchors](#on-affordances-and-anchors){#toc-on-affordances-and-anchors}
+                anchors](#on-affordances-and-anchors)
     -   [Data Gathering and
-        Preparation](#data-gathering-and-preparation){#toc-data-gathering-and-preparation}
+        Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural
-            approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach){#toc-aligning-data-gathering-and-analysis-with-socio-cultural-approach}
-        -   [Data Processing](#data-processing){#toc-data-processing}
-            -   [360 Video
-                Processing](#video-processing){#toc-video-processing}
-            -   [Screen Capture
-                Processing](#screen-capture-processing){#toc-screen-capture-processing}
+            approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
+        -   [Data Processing](#data-processing)
+            -   [360 Video Processing](#video-processing)
+            -   [Screen Capture Processing](#screen-capture-processing)
             -   [Learnings and
-                recommendations](#learnings-and-recommendations){#toc-learnings-and-recommendations}
+                recommendations](#learnings-and-recommendations)
     -   [Data analysis methods and
-        justification](#data-analysis-methods-and-justification){#toc-data-analysis-methods-and-justification}
-        -   [Interview data](#interview-data){#toc-interview-data}
-            -   [Participant
-                interviews](#participant-interviews){#toc-participant-interviews}
+        justification](#data-analysis-methods-and-justification)
+        -   [Interview data](#interview-data)
+            -   [Participant interviews](#participant-interviews)
             -   [Limitations in interview
-                data](#limitations-in-interview-data){#toc-limitations-in-interview-data}
-        -   [Other data](#other-data){#toc-other-data}
-    -   [Analysis of Video
-        overview](#analysis-of-video-overview){#toc-analysis-of-video-overview}
+                data](#limitations-in-interview-data)
+        -   [Other data](#other-data)
+    -   [Analysis of Video overview](#analysis-of-video-overview)
         -   [Rational and approach of video data
-            analysis](#rational-and-approach-of-video-data-analysis){#toc-rational-and-approach-of-video-data-analysis}
+            analysis](#rational-and-approach-of-video-data-analysis)
     -   [Detailed transcription of video
-        sources](#detailed-transcription-of-video-sources){#toc-detailed-transcription-of-video-sources}
+        sources](#detailed-transcription-of-video-sources)
         -   [Transcription/description of
-            data](#transcriptiondescription-of-data){#toc-transcriptiondescription-of-data}
+            data](#transcriptiondescription-of-data)
             -   [Grades of video data
-                analysis](#grades-of-video-data-analysis){#toc-grades-of-video-data-analysis}
+                analysis](#grades-of-video-data-analysis)
             -   [Justification of selecting sessions and sections for
                 more detailed
-                analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis){#toc-justification-of-selecting-sessions-and-sections-for-more-detailed-analysis}
+                analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
             -   [Incorporating gesture and wider movement in
-                analysis](#incorporating-gesture-and-wider-movement-in-analysis){#toc-incorporating-gesture-and-wider-movement-in-analysis}
-            -   [Using a 3 Planes
-                Approach](#using-a-3-planes-approach){#toc-using-a-3-planes-approach}
+                analysis](#incorporating-gesture-and-wider-movement-in-analysis)
+            -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
     -   [Thematic analysis of video
-        data](#thematic-analysis-of-video-data){#toc-thematic-analysis-of-video-data}
+        data](#thematic-analysis-of-video-data)
         -   [Notes on Underpinning of Thematic Analysis of Video
-            Data](#notes-on-underpinning-of-thematic-analysis-of-video-data){#toc-notes-on-underpinning-of-thematic-analysis-of-video-data}
+            Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
             -   [What was Excluded and
-                Rationale](#what-was-excluded-and-rationale){#toc-what-was-excluded-and-rationale}
+                Rationale](#what-was-excluded-and-rationale)
             -   [Coding Participant Roles and
-                Interactions.](#coding-participant-roles-and-interactions.){#toc-coding-participant-roles-and-interactions.}
+                Interactions.](#coding-participant-roles-and-interactions.)
             -   [Coding Design Cycle
-                Stages](#coding-design-cycle-stages){#toc-coding-design-cycle-stages}
-            -   [Coding Game Design
-                Themes](#coding-game-design-themes){#toc-coding-game-design-themes}
+                Stages](#coding-design-cycle-stages)
+            -   [Coding Game Design Themes](#coding-game-design-themes)
         -   [PROPOSAL Coding impact on design/ processes on learner
             agency - boiled down
-            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--){#toc-proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--}
+            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
         -   [Limits of / problems with video data
-            analysis](#limits-of-problems-with-video-data-analysis){#toc-limits-of-problems-with-video-data-analysis}
+            analysis](#limits-of-problems-with-video-data-analysis)
         -   [Analysis of activities based on Cultural, Interpersonal and
             Personal
-            focusing](#analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing){#toc-analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing}
+            focusing](#analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing)
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
-            finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally){#toc-discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally}
+            finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
         -   [Data Validity - Triangulation of
-            Data](#data-validity---triangulation-of-data){#toc-data-validity---triangulation-of-data}
-        -   [Generalisation of
-            Results](#generalisation-of-results){#toc-generalisation-of-results}
-    -   [Research
-        Questions](#research-questions){#toc-research-questions}
+            Data](#data-validity---triangulation-of-data)
+        -   [Generalisation of Results](#generalisation-of-results)
+    -   [Research Questions](#research-questions)
         -   [How Research Questions
-            Evolved](#how-research-questions-evolved){#toc-how-research-questions-evolved}
+            Evolved](#how-research-questions-evolved)
         -   [What research questions are answered by what data gathering
             and analysis - and described in what
-            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter){#toc-what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter}
-    -   [Discussion on
-        Methodology](#discussion-on-methodology){#toc-discussion-on-methodology}
-        -   [Discussion](#discussion){#toc-discussion}
+            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
+    -   [Discussion on Methodology](#discussion-on-methodology)
+        -   [Discussion](#discussion)
         -   [Authenticity - creating
-            value](#authenticity---creating-value){#toc-authenticity---creating-value}
-    -   [Summary of design
-        evolution](#summary-of-design-evolution){#toc-summary-of-design-evolution}
+            value](#authenticity---creating-value)
+    -   [Summary of design evolution](#summary-of-design-evolution)
         -   [Describing the formative intervention of this
-            research](#describing-the-formative-intervention-of-this-research){#toc-describing-the-formative-intervention-of-this-research}
+            research](#describing-the-formative-intervention-of-this-research)
         -   [On the details of the
-            design](#on-the-details-of-the-design){#toc-on-the-details-of-the-design}
+            design](#on-the-details-of-the-design)
             -   [P1: Exploratory stage: Oct 2017 - Dec
-                2018](#p1-exploratory-stage-oct-2017---dec-2018){#toc-p1-exploratory-stage-oct-2017---dec-2018}
+                2018](#p1-exploratory-stage-oct-2017---dec-2018)
             -   [P3: Accelerated game making programme (5 weeks): Jan -
                 Feb
-                2019](#p3-accelerated-game-making-programme-5-weeks-jan---feb-2019){#toc-p3-accelerated-game-making-programme-5-weeks-jan---feb-2019}
+                2019](#p3-accelerated-game-making-programme-5-weeks-jan---feb-2019)
             -   [P4: Adding a process drama to the game making
                 programme: April - May
-                2019](#p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019){#toc-p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019}
+                2019](#p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019)
         -   [On the emergent and mutual nature of the design and
             research
-            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process){#toc-on-the-emergent-and-mutual-nature-of-the-design-and-research-process}
+            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
             -   [Note on creation of learning and teaching
-                resources](#note-on-creation-of-learning-and-teaching-resources){#toc-note-on-creation-of-learning-and-teaching-resources}
+                resources](#note-on-creation-of-learning-and-teaching-resources)
         -   [More material on Expansive Learning / Formative
             Inteventions /
-            DBR](#more-material-on-expansive-learning-formative-inteventions-dbr){#toc-more-material-on-expansive-learning-formative-inteventions-dbr}
-    -   [Transition to next
-        Chapter](#transition-to-next-chapter){#toc-transition-to-next-chapter}
+            DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
+    -   [Transition to next Chapter](#transition-to-next-chapter)
