@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
-
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -88,8 +87,14 @@ title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to 
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
-            -   [Implications in conceptualisations of forms of
-                agency](#implications-in-conceptualisations-of-forms-of-agency)
+        -   [Synthesis on implications for project based practice to
+            encourage
+            agency](#synthesis-on-implications-for-project-based-practice-to-encourage-agency)
+            -   [Divining authentic
+                frameworks](#divining-authentic-frameworks)
+            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
+    -   [Implications in conceptualisations of forms of
+        agency](#implications-in-conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
 
 
@@ -1050,8 +1055,33 @@ While it is important to acknowledge the danger that such support may make learn
 
 ### Synthesis on implications for project based practice to encourage agency
 
-Previous chapters explored varied understandings of agency. To here is a potential tension between instrumental agency and transformative agency. In designing out conflicts the facilitator may reduce the capacity for participants to profitably address them, both as individuals pair or collectively as a group. There is a balance here for the facilitator to take an appropriate position on. The following section explores these tensions in more depth.  
+Previous chapters explored varied understandings of agency.
 
+
+#### Divining authentic frameworks
+
+The process of discovering the framework of GDPs explored in chapter five merits exploration from the perspective of replicability.
+
+Is there is something particular about the format of the game product to be designed that particularly suits this process. What other products does it suit?
+
+What are the broad implication for the use of this frameworks in other domains.
+
+PERHAPS ONE FOR FINAL CHAPTER
+
+
+#### Keeping hard fun hard
+
+Hard fun is a well used concept in creative computing education.
+
+A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. My results Drawing from authentic resources can be chaotic and create problematic errors.
+
+Where participants lacked the concepts and technical  language needed to find external support materials, the combination of the starting code template and a selection of curated code and documentation examples helped address this.
+
+However, in designing out conflicts the facilitator may reduce the capacity for participants to profitably address them, both as individuals pair or collectively as a group. There is a balance here for the facilitator to take an appropriate position on.
+
+Some parents were aware of this tension as outlined in appendix.
+
+There is a potential tension between instrumental agency and transformative agency.
 
 ## Implications in conceptualisations of forms of agency
 
@@ -1068,15 +1098,11 @@ This section contributes observations from this research process with the follow
 ## Conclusion
 
 
-
-
 <!-- These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
 
 <!-- While some areas of the design emerged in phase one, became a stable part of the design, (for example template and supporting documentation) other processes remained more flexible to interpretation and direction by participants; , playtesting, division of labour and use of home interests.   -->
 
-A different but relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. Drawing from authentic resources can be chaotic and create problematic errors.
 
-Participants may also lack the concepts and technical  language needed to find external support materials easily. Some of these challenges are potentially addressed through the combination of possibilities of the starting and a selection of curated code examples. The next chapter explores the use of a collection of game design patterns to help address these issues.
 
 <!-- #### Seeding community practices vs allowing open experimentation
 

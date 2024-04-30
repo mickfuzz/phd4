@@ -76,6 +76,12 @@
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
-            -   [Implications in conceptualisations of forms of
-                agency](#implications-in-conceptualisations-of-forms-of-agency)
+        -   [Synthesis on implications for project based practice to
+            encourage
+            agency](#synthesis-on-implications-for-project-based-practice-to-encourage-agency)
+            -   [Divining authentic
+                frameworks](#divining-authentic-frameworks)
+            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
+    -   [Implications in conceptualisations of forms of
+        agency](#implications-in-conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
