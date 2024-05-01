@@ -467,6 +467,7 @@ This study positions this interest and identification as a fund of knowledge whi
 
 What potential does that give to family game making?
 
+NOTE - HOW IS THIS EXPLORE LATER?  IS THIS REALLY A METHODOLOGY ASPECT - OR SOMETHING FOR THE INTRODUCTION OR THE DISCUSSION CHAPTER 6 ? 
 
 ## Conceptual tools associated with agency
 
@@ -481,15 +482,22 @@ Look for tensions in ATs - and how learners overcome barriers or blockages, is a
 
 ### TADS - On double stimulation and agency
 
+NOTE - HOW MUCH TO GO INTO THIS HERE OR BRING IT UP LATER?
+
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
 Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
-#### On affordances and anchors
+#### On affordances
+
+NOTE - (not anchors - moved to discussion  )
 <!-- NOTE
 AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+In my analysi of
+
 
 Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
 
@@ -506,19 +514,7 @@ However, affordances are originally conceived of as part of activity, not separa
 
 NOTE - more on affordances here from Nardi
 
-Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
-    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
-
-In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
-Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
-
-Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
-
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-
-## Data Gathering and Preparation
 
 ### Aligning data gathering and analysis with socio cultural approach
 

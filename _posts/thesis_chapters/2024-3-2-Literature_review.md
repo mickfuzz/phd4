@@ -34,7 +34,7 @@ title: 2. Literature Review
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
     -   [Pedagogies for informal
-        settings](#pedagogies-for-informal-settings)
+        settings](#pedagogies-for-informal-seINSttings)
         -   [Digital informal / participatory culture and
             Learning](#digital-informal-participatory-culture-and-learning)
         -   [Microworlds as an embodiment of constructionist design
@@ -244,6 +244,9 @@ Code snippets are often interwoven with text explaining the function of the code
 The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
 
 Critique of instruction...
+
+The tensions explored here are similar to those explored in the introduction in relation to project based approaches and the discovery learning that happens within PBL.
+This is explored in a later section of this chapter. s
 
 
 
