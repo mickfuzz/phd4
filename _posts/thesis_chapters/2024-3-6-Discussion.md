@@ -237,7 +237,7 @@ Lifting the lid on hidden technologies and concepts in hands-on, exploratory pro
 
 
 
-#### Exploring different dimentions of agency using the concept fo dual stimuation
+#### Exploring different dimentions of agency  in tool use  (using the concept fo dual stimuation) 
 
 The distinction between instrumental forms of agency and more authorial/ transformative variants were explored from the perspective of AT in the methodology chapter.  
 
@@ -245,18 +245,25 @@ Design decisions of tool use can to increase agency in practical terms by provid
 
 I now turn to explore tool use to engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
-<!-- An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production. -->
+An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
 
-<!-- The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice. -->
+The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice.
 
 <!-- PIVOT -->
 
 The concept of dual stimulation can help illuminate the design and pedagogical tensions related to authenticity of tool use to shed light on dimensions of participant agency.
 
 
-In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments. While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
+In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli.
 
-Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process. Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017]. This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. This curated replication of authentic process of finding and incorporating code snippets into the starting template was supported the development of skills used in professional coding communities. The careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above, a theme explored in more detail in chapter five.
+WHERE BEST TO ADD THE SERIES PART - THE MANY - AND LINKING TO MAKING TYPES TOO
+They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments. While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
+
+Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process.
+
+Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
+
+This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. This curated replication of authentic process of finding and incorporating code snippets into the starting template was supported the development of skills used in professional coding communities. The careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above, a theme explored in more detail in chapter five.
 CHOICE - AUTHORIAL IN THE P1 AND P2 PROCESS OF CHOOSING DESIGN PATTERNS - BRIEF - BEYOND INSTRUCTIONAL APPROACHES AT LEAST
 
 THIS SHOULD SHIFT TO A CULTURAL SECTION?
