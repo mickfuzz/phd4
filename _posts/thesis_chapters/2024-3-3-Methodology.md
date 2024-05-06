@@ -856,9 +856,9 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? PROBABLY JUST REFERENCE REALLY BRIEFLY AND PICK UP IN DESIGN
 
-OR DROP TOTALLY!
+OR DROP TOTALLY! eg. 
 
-I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate. 
+I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate.
 
 The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008].
 
