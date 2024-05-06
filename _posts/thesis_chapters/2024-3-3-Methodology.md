@@ -797,9 +797,15 @@ How much emphasis to place on the Thematic Analysis is questionable. The process
 <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
 
 
-### Notes on Underpinning of Thematic Analysis of Video Data
+### Stage one - Development Stage of Thematic Analysis of Video Data
+
+Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
+
 
 Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
+
+
+Table of stage one
 
 
 
@@ -814,7 +820,9 @@ They have been excluded as there is other extensive or focused work in these fie
 
 #### Coding Participant Roles and Interactions.
 
-Evolving notes on coding of roles and interactions are in an online document here. https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
+Evolving notes on coding of roles and interactions are in an online document here.
+
+Excel doc -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
 Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
 
@@ -848,7 +856,9 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? PROBABLY JUST REFERENCE REALLY BRIEFLY AND PICK UP IN DESIGN
 
-Coding based on the game elements that are being added to the game serves to xxx ?
+OR DROP TOTALLY!
+
+I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate. 
 
 The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008].
 
@@ -858,7 +868,34 @@ As way of coding initially I considered the MDA framework for the simplicity and
 - aesthetics
 - dynamics
 
-Finally i used the xx
+Finally I adapted this framework to match the one use for documentation.
+
+- Game mechanics
+- Game Challenge
+- Game Space
+- Game Polish (aesthetics)
+
+This had the following limits.
+
+- didn't really add much to
+- in someways the division was arbitrary
+
+Also, while helpful in preparing resources as a navigational framework, as explored in chapters four and five, the coding to participant engagement with creating different areas of game elements / design pattern, it did not yield particularly interesting insights in itself. However, in coding I noted the use of the game design patterns as mediational strategies which overlapped with the
+
+
+
+### Stage two: revised coding schema and process
+
+After data analysis in stage one. The following revisions were made in overall schema of coding.
+
+While useful, I dropping design stages as a schema, for justification and implications see discussion in chapter six.
+
+
+
+The wider helping interactions, again while useful had drawbacks. Firsly, they were so numerous. Secondly, given the existing work of a general scope of digital making by Barron, it was not clear what I would add in terms of contribution to knowledge beyond broadly confirming it in the scope of digital game making.
+
+Instead, an area that was more targetted emerged from these areas.  
+
 
 <!-- Notes
 A start of a framework here from Salen
