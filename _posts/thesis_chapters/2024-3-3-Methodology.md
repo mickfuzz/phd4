@@ -180,11 +180,9 @@ Emergent
   - the play around the playtesting -->
 
 
-
-
 ## Conceptualising activity in this learning design
 
-This section examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
+**This section** examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
 
 NOTE - for similar work see [@barab_using_2002]
 
@@ -856,7 +854,7 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 
 NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? PROBABLY JUST REFERENCE REALLY BRIEFLY AND PICK UP IN DESIGN
 
-OR DROP TOTALLY! eg. 
+OR DROP TOTALLY! eg.
 
 I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate.
 
