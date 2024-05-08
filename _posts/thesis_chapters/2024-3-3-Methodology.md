@@ -696,7 +696,23 @@ Overall analysis helped to:
 - to identify roles through repeated patterns of interactions
 - to reflect on the thesis questions
 
-LATER - Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+Analysis was in different forms, and drew on additional forms of data gathering. 
+
+- Broad dipping into sessions via 360 video, advantages, focusing on community interactions, disadvantages of
+- Transcription and annoation of video capture footage in parallel with 360 data
+- Coding of sections of video to both emergent themes and themes relating to the reseearch questions.
+
+NOTE - Import more from the post of 2024- 05 - 08 - in diary.
+
+
+### 3 planes approach - noting tensions and behaviours
+
+Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+
+I created an excel spreadsheet and noted behaviour and tentions that emerged in transcription and coding.
+
+
+
 
 ## Detailed transcription of video sources
 
