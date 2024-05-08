@@ -45,7 +45,7 @@ title: 3. Methodology
     -   [Conceptual tools associated with
         agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency)
+            agency](#tads---on-double-stimulation-and-agency)stable.
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
     -   [Data Gathering and
@@ -55,7 +55,7 @@ title: 3. Methodology
         -   [Data Processing](#data-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
-            -   [Learnings and
+            -   [Learnings andstable.
                 recommendations](#learnings-and-recommendations)
     -   [Data analysis methods and
         justification](#data-analysis-methods-and-justification)
@@ -457,9 +457,13 @@ Problematising Funds of knowledge and funds of identity which may perpetuate sta
 - and update outlined here [@rajala_utopian_2023]
 
 
-#### Retro Gaming as a Fund of knowledge
+#### Possible funds of knowledge  
 
-As explored in the introduction retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects.
+NOTE - THIS PROBABLY NEEDS TO GO SOMEWHERE ELSE - TOO CONTEXT SPECIFIC
+
+As explored in the introduction this study explores an area where several contexts meeting, family learning, coding cultures and informal science clubs.
+
+**Retro Gaming as a Fund of knowledge:**  retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects.
 
 This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
 
@@ -613,6 +617,21 @@ My study draws on traditional ethnographic methods of my journal as participant 
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
 
+### Summary of Data Gathering and ANALYSIS
+
+Online version here
+
+Outer pipes Cell padding
+
+| Name                       | Gathering & Storage                                   | Processing                                                                                             | Analysis                                                                                                                  |
+| -------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| Journal entries            | In books and electronics documents                    | n/a                                                                                                    | Impressionistic                                                                                                           |
+| Learning resources created | Evolved during each phase - kept in online spaces     | n/a                                                                                                    | Present in video data and in journal notes                                                                                |
+| Screen capture data        | Captures as fbr files                                 | Transcoded to mp4. Transcribed to word documents                                                       | Word documents imported to Nvino for thematic analysis.<br><br>Key conflicts collated into Excel document                 |
+| 360 Video Data             | Transfer from mini SD to external HD                  | Via Samsung app & command line tool ffmpeg                                                             | Used in parallel with screen capture to add additional information about participant gestures and community interaction   |
+| Practitioner Interviews    | Collected via Zoom, stored as mp4 files and mp3 files | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes | Broadly used to expose tensions in design process and triangulated with evolution of learning resources and journal notes |
+| Participant Interviews     | Collected via Zoom, stored as mp4 files and mp3 files | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes | Triangulated with themes emerging via video analysis.                                                                     |
+
 
 
 ### Interview data
@@ -696,7 +715,7 @@ Overall analysis helped to:
 - to identify roles through repeated patterns of interactions
 - to reflect on the thesis questions
 
-Analysis was in different forms, and drew on additional forms of data gathering. 
+Analysis was in different forms, and drew on additional forms of data gathering.
 
 - Broad dipping into sessions via 360 video, advantages, focusing on community interactions, disadvantages of
 - Transcription and annoation of video capture footage in parallel with 360 data
