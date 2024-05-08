@@ -490,9 +490,8 @@ Double stimulation refers to the use of tools and processes to overcome such con
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
 #### On affordances
-(and anchors)
-<!-- NOTE
-AT's relationship with affordances more here [@ba_erentsen_activity_2002; @] -->
+
+AT's relationship with affordances are explored here [@ba_erentsen_activity_2002]
 
 Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
 
