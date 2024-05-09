@@ -45,7 +45,7 @@ title: 3. Methodology
     -   [Conceptual tools associated with
         agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency)stable.
+            agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances and
                 anchors](#on-affordances-and-anchors)
     -   [Data Gathering and
@@ -187,16 +187,19 @@ Emergent
 NOTE - for similar work see [@barab_using_2002]
 
 
-### Choosing a suitable unit of analysis / germ cell
+### Choosing a suitable unit of analysis / germ cell & situating which activity systems is of primary value to explore
 
-This process is outlined in chapter 5 -
-Move some of that here
-Or drop?
-
+This process is outlined in chapter  4 & 5 -
+Move some of that here - Or drop?
+EXPLAIN IN JUST ENOUGH DETAIL HERE.
 
 #### Levels of Abstraction in Activity Theory
 
+LINK INSTEAD WITH ROGOFF - SET UP FOR CHAPTER 4
+
 The educational activity can be seen as different scopes of activity
+
+
 
 - wider education
 - guided activity
@@ -216,8 +219,9 @@ Blunden makes a pragmatic proposal to use the project as they key unit of activi
 
 **Activity, Actions and Operations**
 
+EXPLAIN IN JUST ENOUGH DETAIL HERE.
 
-Following the terms and concepts used by Leontiev [-@leontiev_activity_2009], EXPLAIN IN JUST ENOUGH DETAIL HERE.
+Following the terms and concepts used by Leontiev [-@leontiev_activity_2009],
 
 Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
 

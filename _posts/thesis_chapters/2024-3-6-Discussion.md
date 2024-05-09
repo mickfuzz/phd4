@@ -1078,6 +1078,24 @@ Many design decisions were made to create a supported, simplified coding environ
 
 While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
 
+
+#### Summary on metaphors around creating space
+
+KEEP METAPHORS TO THIS CHAPTER - BUT EXPLORATION OF THE IDEAS AS A SUMMARY FOR PRACTITIONERS IN NEXT CHAPTER?
+
+The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter.
+
+The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
+
+The process of Playtesting and working towards an external audience.
+
+Some of the processes for building community were more mutual - collecting requirements
+
+Creating documentation
+Other processess
+
+Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
+
 ### Synthesis on implications for project based practice to encourage agency
 
 Previous chapters explored varied understandings of agency.
