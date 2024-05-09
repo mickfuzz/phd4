@@ -8,6 +8,8 @@
             chapter](#notes-on-structure-of-the-chapter)
         -   [Planned and emergent activity (in introduction to
             discussion)](#planned-and-emergent-activity-in-introduction-to-discussion)
+    -   [Representing Coded the Patterns of Activity via coded
+        data](#representing-coded-the-patterns-of-activity-via-coded-data)
     -   [Discussion on authenticity and agency in relation to (personal
         appropiration?) of tool
         use](#discussion-on-authenticity-and-agency-in-relation-to-personal-appropiration-of-tool-use)

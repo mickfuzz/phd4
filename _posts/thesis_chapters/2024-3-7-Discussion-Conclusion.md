@@ -49,8 +49,13 @@ title: 7. Discursive Conclusion
         practitioners](#implications-and-recommendations-for-practitioners)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
-            -   [Supporting different game making
-                approaches](#supporting-different-game-making-approaches)
+            -   [Supporting different game making approaches via
+                scaffolding within choice with
+                limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
+        -   [Recommendations / Commentary / Discussion on
+            toolsets](#recommendations-commentary-discussion-on-toolsets)
+        -   [Further recommendations regarding tools
+            sets](#further-recommendations-regarding-tools-sets)
         -   [Design patterns as a teaching
             aid](#design-patterns-as-a-teaching-aid)
         -   [Game Design Patterns vs CT and more established
@@ -62,17 +67,8 @@ title: 7. Discursive Conclusion
                 terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
             -   [On CTs and CTs emerging in the
                 wild.](#on-cts-and-cts-emerging-in-the-wild.)
-    -   [Recommendations for Practice /
-        Research](#recommendations-for-practice-research)
     -   [Synthesis of reflections on designing for learner
         agency](#synthesis-of-reflections-on-designing-for-learner-agency)
-    -   [Recommendations / Commentary / Discussion on
-        toolsets](#recommendations-commentary-discussion-on-toolsets)
-        -   [Further recommendations regarding tools
-            sets](#further-recommendations-regarding-tools-sets)
-    -   [Representing Coded the Patterns of Activity via coded
-        data](#representing-coded-the-patterns-of-activity-via-coded-data)
-        -   [Discussion on data](#discussion-on-data)
     -   [Thoughts Log - things that may end up
         here.](#thoughts-log---things-that-may-end-up-here.)
         -   [GDPs that are already in the
@@ -407,9 +403,38 @@ These metaphorical ideas have implications for practitioners that can be framed 
 - know the territory but don't pre-plan the route for your learners
 -
 
-#### Supporting different game making approaches
+#### Supporting different game making approaches via scaffolding within choice with limits.
 
 A different strokes commentary. Depending on aims of the practitioner and context of the game making different tactics may be applicable.
+
+At this point it is of value to return to one of the key challenge of a more bricolage approach to making and undertaking projects. How can you balance an approach based on choice of what to implement next, and the difficultly of participants navigating and overcoming blocks.
+
+In chapter four and five we explored the value of a menu of tutorials and code snippets to support participant choice and a more active approach to learning which still contained the needed technical information.
+
+This can be framed as Just-in-time learning [@riel1998education] but with certain modifications which offer additional scaffolding to reduce learner confusion.
+
+
+
+### Recommendations / Commentary / Discussion on toolsets
+
+Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
+
+- Code playgrounds are now common and suggested by CS
+
+However phaser while authentic has mismatches. Exposed by Belen, as I am using version 2 instead of 3.
+Thus the resources available are harder to navigate.
+
+Alternative exist using the same 3M approach.
+
+###  Further recommendations regarding tools sets
+
+However, here are some more possible directions.
+
+Make-code arcade has been created and adopted by educators. I developed this over lock down and gathered data on use which is available for further study.
+
+P5.js perhaps provides a better base which is more aligned with learners needs.
+Recreating resources in P5.js is a strong possibility to mnake this approach more familiar and less porous / daunting.
+
 
 ### Design patterns as a teaching aid
 
@@ -504,20 +529,7 @@ Elements of contrast with 3M include;
 
 
 
-##  Recommendations / Commentary / Discussion on toolsets
 
-Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
-
-- Code playgrounds are now common and suggested by CS
-- Make-code arcade has been created and adopted by educators.
-
-
-###  Further recommendations regarding tools sets
-
-However, here are some more possible directions.
-
-JS is a fantastic but challenging tool but supporting  
-P5 perhaps
 
 
 

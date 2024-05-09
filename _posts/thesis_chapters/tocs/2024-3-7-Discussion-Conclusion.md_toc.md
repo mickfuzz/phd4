@@ -38,8 +38,13 @@
         practitioners](#implications-and-recommendations-for-practitioners)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
-            -   [Supporting different game making
-                approaches](#supporting-different-game-making-approaches)
+            -   [Supporting different game making approaches via
+                scaffolding within choice with
+                limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
+        -   [Recommendations / Commentary / Discussion on
+            toolsets](#recommendations-commentary-discussion-on-toolsets)
+        -   [Further recommendations regarding tools
+            sets](#further-recommendations-regarding-tools-sets)
         -   [Design patterns as a teaching
             aid](#design-patterns-as-a-teaching-aid)
         -   [Game Design Patterns vs CT and more established
@@ -51,17 +56,8 @@
                 terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
             -   [On CTs and CTs emerging in the
                 wild.](#on-cts-and-cts-emerging-in-the-wild.)
-    -   [Recommendations for Practice /
-        Research](#recommendations-for-practice-research)
     -   [Synthesis of reflections on designing for learner
         agency](#synthesis-of-reflections-on-designing-for-learner-agency)
-    -   [Recommendations / Commentary / Discussion on
-        toolsets](#recommendations-commentary-discussion-on-toolsets)
-        -   [Further recommendations regarding tools
-            sets](#further-recommendations-regarding-tools-sets)
-    -   [Representing Coded the Patterns of Activity via coded
-        data](#representing-coded-the-patterns-of-activity-via-coded-data)
-        -   [Discussion on data](#discussion-on-data)
     -   [Thoughts Log - things that may end up
         here.](#thoughts-log---things-that-may-end-up-here.)
         -   [GDPs that are already in the
