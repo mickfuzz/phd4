@@ -25,7 +25,6 @@
         -   [Discussion on UMC and PRIMM in relation to use of 3M model
             (Practitioner
             focus)](#discussion-on-umc-and-primm-in-relation-to-use-of-3m-model-practitioner-focus)
-        -   [Different strokes](#different-strokes)
     -   [Synthesising the characteristics and potential of the 3M
         pedagogy](#synthesising-the-characteristics-and-potential-of-the-3m-pedagogy)
         -   [3M through the lens of
@@ -33,12 +32,16 @@
             -   [TADS - interventions and affordances as double
                 stimulation](#tads---interventions-and-affordances-as-double-stimulation)
         -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled down
-            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-            -   [Metaphors around creating
-                space](#metaphors-around-creating-space)
-    -   [Design patterns as a teaching
-        aid](#design-patterns-as-a-teaching-aid)
+            agency - boiled
+            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+    -   [Implications and recommendations for
+        practitioners](#implications-and-recommendations-for-practitioners)
+        -   [The value and processes of creating space for emergent
+            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+            -   [Supporting different game making
+                approaches](#supporting-different-game-making-approaches)
+        -   [Design patterns as a teaching
+            aid](#design-patterns-as-a-teaching-aid)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
             -   [GDP, CT & Transfer](#gdp-ct-transfer)

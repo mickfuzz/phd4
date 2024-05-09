@@ -727,8 +727,6 @@ Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  
 I created an excel spreadsheet and noted behaviour and tentions that emerged in transcription and coding.
 
 
-
-
 ## Detailed transcription of video sources
 
 ### Transcription/description of data
@@ -783,6 +781,19 @@ Criteria  for inclusion included both practical and theoretical considerations.
 - Diversity of participant actions in terms of tasks being worked on
 - Diversity of kinds of pair and peer interactions
 
+
+##### Discussion on data analysis 
+<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
+
+For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
+This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
+
+The game elements / design patterns categories which are presented are created as a design guide rather than on exact principles.
+It is possible to code drilling down into another level. This might yield more results.
+
+In summary, the coding process is more valuable as a tool to allow more qualitative reflection and analysis rather than a quantitative process as attempted above.
+
+To make a quantitative approach work better X,Y and Z would need to be in place which was not suitable for this study because of A and B.
 
 #### Incorporating gesture and wider movement in analysis
 

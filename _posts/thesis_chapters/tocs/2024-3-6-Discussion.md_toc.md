@@ -21,9 +21,9 @@
             -   [The potentially awesome impact of lifting the lid on
                 authentic
                 technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-            -   [Exploring different dimentions of agency using the
-                concept fo dual
-                stimuation](#exploring-different-dimentions-of-agency-using-the-concept-fo-dual-stimuation)
+            -   [Exploring different dimentions of agency in tool use
+                (using the concept fo dual
+                stimuation)](#exploring-different-dimentions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation)
         -   [Agency in response to a series of second
             stimuli](#agency-in-response-to-a-series-of-second-stimuli)
         -   [Conclusion to this section](#conclusion-to-this-section)
@@ -76,6 +76,8 @@
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+            -   [Summary on metaphors around creating
+                space](#summary-on-metaphors-around-creating-space)
         -   [Synthesis on implications for project based practice to
             encourage
             agency](#synthesis-on-implications-for-project-based-practice-to-encourage-agency)

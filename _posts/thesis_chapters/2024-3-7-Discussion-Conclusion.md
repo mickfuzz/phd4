@@ -15,6 +15,8 @@ title: 7. Discursive Conclusion
     -   [Outline notes](#outline-notes)
         -   [Initial Discussion Outline](#initial-discussion-outline)
         -   [Initial Conclusion Outline](#initial-conclusion-outline)
+    -   [Research outputs & discussion on
+        outputs](#research-outputs-discussion-on-outputs)
     -   [Research output: 3M Game Making
         Model](#research-output-3m-game-making-model)
         -   [Missions](#missions)
@@ -25,6 +27,15 @@ title: 7. Discursive Conclusion
         -   [Learning Dimensions Map](#learning-dimensions-map)
         -   [The potential of learning and navigational
             maps](#the-potential-of-learning-and-navigational-maps)
+        -   [Commentary / Discussion on Learning
+            Dimensions](#commentary-discussion-on-learning-dimensions)
+        -   [CT as a practical skill or a more abstract
+            concept.](#ct-as-a-practical-skill-or-a-more-abstract-concept.)
+        -   [It's fun but are they
+            learning](#its-fun-but-are-they-learning)
+        -   [Discussion on UMC and PRIMM in relation to use of 3M model
+            (Practitioner
+            focus)](#discussion-on-umc-and-primm-in-relation-to-use-of-3m-model-practitioner-focus)
     -   [Synthesising the characteristics and potential of the 3M
         pedagogy](#synthesising-the-characteristics-and-potential-of-the-3m-pedagogy)
         -   [3M through the lens of
@@ -32,12 +43,16 @@ title: 7. Discursive Conclusion
             -   [TADS - interventions and affordances as double
                 stimulation](#tads---interventions-and-affordances-as-double-stimulation)
         -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled down
-            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-            -   [Metaphors around creating
-                space](#metaphors-around-creating-space)
-    -   [Design patterns as a teaching
-        aid](#design-patterns-as-a-teaching-aid)
+            agency - boiled
+            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+    -   [Implications and recommendations for
+        practitioners](#implications-and-recommendations-for-practitioners)
+        -   [The value and processes of creating space for emergent
+            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+            -   [Supporting different game making
+                approaches](#supporting-different-game-making-approaches)
+        -   [Design patterns as a teaching
+            aid](#design-patterns-as-a-teaching-aid)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
             -   [GDP, CT & Transfer](#gdp-ct-transfer)
@@ -47,20 +62,14 @@ title: 7. Discursive Conclusion
                 terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
             -   [On CTs and CTs emerging in the
                 wild.](#on-cts-and-cts-emerging-in-the-wild.)
+    -   [Recommendations for Practice /
+        Research](#recommendations-for-practice-research)
+    -   [Synthesis of reflections on designing for learner
+        agency](#synthesis-of-reflections-on-designing-for-learner-agency)
     -   [Recommendations / Commentary / Discussion on
         toolsets](#recommendations-commentary-discussion-on-toolsets)
         -   [Further recommendations regarding tools
             sets](#further-recommendations-regarding-tools-sets)
-    -   [Commentary / Discussion on Learning
-        Dimensions](#commentary-discussion-on-learning-dimensions)
-        -   [CT as a practical skill or a more abstract
-            concept.](#ct-as-a-practical-skill-or-a-more-abstract-concept.)
-        -   [It's fun but are they
-            learning](#its-fun-but-are-they-learning)
-        -   [Discussion on UMC and PRIMM in relation to use of 3M model
-            (Practitioner
-            focus)](#discussion-on-umc-and-primm-in-relation-to-use-of-3m-model-practitioner-focus)
-        -   [Different strokes](#different-strokes)
     -   [Representing Coded the Patterns of Activity via coded
         data](#representing-coded-the-patterns-of-activity-via-coded-data)
         -   [Discussion on data](#discussion-on-data)
@@ -75,10 +84,9 @@ title: 7. Discursive Conclusion
             designs](#synergies-of-use-of-gdp-by-practioners-and-learners-in-research-designs)
         -   [On transfer of gdps -
             debates](#on-transfer-of-gdps---debates)
-    -   [Initial Conclusion Outline](#initial-conclusion-outline-1)
-    -   [Synthesis of reflections on designing for learner
-        agency](#synthesis-of-reflections-on-designing-for-learner-agency)
     -   [Follow up work / limitations](#follow-up-work-limitations)
+        -   [Gender based issues of
+            inclusion](#gender-based-issues-of-inclusion)
         -   [Missing data on starting game / quick start
             cards](#missing-data-on-starting-game-quick-start-cards)
         -   [Advantages and limitations of Home Education
@@ -325,9 +333,7 @@ This is an interaction which in some ways is comparable to the PRIMM model which
 
 UMC on the other hand while being less described and open to interpretation seems to match the more informal, iterative game making of many participants.
 
-### Different strokes
 
-A different strokes commentary. Depending on aims of the practitioner and context of the game making different tactics may be applicable.
 
 
 
@@ -399,7 +405,11 @@ In the last chapter there was discussion on
 These metaphorical ideas have implications for practitioners that can be framed perhaps best as tensions.
 
 - know the territory but don't pre-plan the route for your learners
-- 
+-
+
+#### Supporting different game making approaches
+
+A different strokes commentary. Depending on aims of the practitioner and context of the game making different tactics may be applicable.
 
 ### Design patterns as a teaching aid
 
@@ -489,23 +499,6 @@ Elements of contrast with 3M include;
 - Code patching from existing code examples, as previously explored, allows for participants to take code and add it into their game without full knowledge of the syntactical complexities of each line they use.
 
 
----
-
-## Recommendations for Practice / Research
-
----
-
-
-## Synthesis of reflections on designing for learner agency
-
-Pulling all together with recommendations from research . add in from notes
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community Playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especialy docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
 
 
 
@@ -527,69 +520,7 @@ JS is a fantastic but challenging tool but supporting
 P5 perhaps
 
 
-## Representing Coded the Patterns of Activity via coded data
 
-NOTE - NOT SURE WHERE TO PUT THIS PART OR IF THE CHART ELEMENT IS REALLY VALUABLE -
-IT COULD BE A DISTRACTION
-SO HERE AS A POSSIBILITY IN CONCLUSION - could be moved?
-
-ANOTHER NOTE - I HAVE NOT HAD TIME TO DO THE ACTUAL CHARTS OR WORK WITH THE 5 FULLY CODED VIDEOS YET.
-
-We can to examine patterns of activity is through an analysis of the coded video interactions. The coding structure decided upon and the process of coding in five minutes sections.
-
-<!-- NOTE - there may be some value is coding some key interactions more carefully in more granuar detail if this process is useful.  -->
-
-Note The full coding scheme will be included here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
-
-The main schemes as below.
-
-- Design Stages -
-- Interaction Description -
-- Game Elements Addressed (Game Polish, Game Space, Game Mechanics, Game Challenge(remove?))
-
-The process of coding data shed light onto patterns of activity in creating a list of general behaviours shared by participants and thus also identifying outlying behaviours that did not meet the emerging coding scheme. (NOTE FOR HERE OR PREVIOUS?)
-
-Later in the chapter the limits of the chosen design stage schema are explored as a way of illuminating interesting game making behaviour of participants.
-
-<!-- See current table here.
-https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing -->
-
-In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
-
-<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
-
-The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
-
-- Question One: During which design phase does parent-child pair interaction happen most frequently?
-- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
-
-TO COME.
-
-The first scenario represented in a chart which compares activity grouping with design stages and activity description.
-
-Pair work -> TEST, CREATE, IMPROVE, etc
-Peer work -> TEST, CREATE, IMPROVE, etc
-Solo work -> perhaps dont an
-
-CHART
-
-The second scenario is represented by pie charts for each game element showing the duration spent on each by a diversity of participants.  
-
-CHART
-
-#### Discussion on data
-<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
-
-For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
-This approach has some clear limits. Firstly the breaking of data into 5 min sections is practical but does not allow for some of the finer interactions and changes of behaviour to be accurately coded.  There may be some value is coding some key interactions more carefully in more granular detail.
-
-The game elements / design patterns categories which are presented are created as a design guide rather than on exact principles.
-It is possible to code drilling down into another level. This might yield more results.
-
-In summary, the coding process is more valuable as a tool to allow more qualitative reflection and analysis rather than a quantitative process as attempted above.
-
-To make a quantitative approach work better X,Y and Z would need to be in place which was not suitable for this study because of A and B.
 
 <!-- By coding the activity of the child and the adult for this session in depth the following representation of how the child spent their time is available.
 
@@ -600,6 +531,17 @@ To make a quantitative approach work better X,Y and Z would need to be in place 
 - time discussing game features with parent -->
 
 <!-- For more information on the value of physical computing to increase inclusion you can read this article (RUSK?) -->
+## Synthesis of reflections on designing for learner agency
+
+Pulling all together with recommendations from research . add in from notes
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community Playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especialy docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
+
 
 
 ## Thoughts Log - things that may end up here.
