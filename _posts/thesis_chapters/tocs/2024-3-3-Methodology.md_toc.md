@@ -51,11 +51,6 @@
         justification](#data-analysis-methods-and-justification)
         -   [Summary of Data Gathering and
             ANALYSIS](#summary-of-data-gathering-and-analysis)
-        -   [Interview data](#interview-data)
-            -   [Participant interviews](#participant-interviews)
-            -   [Limitations in interview
-                data](#limitations-in-interview-data)
-        -   [Other data](#other-data)
     -   [Analysis of Video overview](#analysis-of-video-overview)
         -   [Rational and approach of video data
             analysis](#rational-and-approach-of-video-data-analysis)
@@ -70,6 +65,14 @@
             -   [Justification of selecting sessions and sections for
                 more detailed
                 analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
+        -   [Journal Data](#journal-data)
+        -   [Programme resources created](#programme-resources-created)
+        -   [Interview data](#interview-data)
+            -   [Practitioner interviews](#practitioner-interviews)
+            -   [Participant interviews](#participant-interviews)
+            -   [Limitations in interview
+                data](#limitations-in-interview-data)
+        -   [Discussion on data analysis](#discussion-on-data-analysis)
             -   [Incorporating gesture and wider movement in
                 analysis](#incorporating-gesture-and-wider-movement-in-analysis)
             -   [Using a 3 Planes Approach](#using-a-3-planes-approach)

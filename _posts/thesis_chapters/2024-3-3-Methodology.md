@@ -10,11 +10,13 @@ categories: chapter
 title: 3. Methodology
 ---
 -   [Methodology](#methodology)
-    -   [Research Questions - Feb 2024](#research-questions---feb-2024)
+    -   [Research Questions - March
+        2024](#research-questions---march-2024)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
-        -   [Choosing a suitable unit of analysis / germ
-            cell](#choosing-a-suitable-unit-of-analysis-germ-cell)
+        -   [Choosing a suitable unit of analysis / germ cell &
+            situating which activity systems is of primary value to
+            explore](#choosing-a-suitable-unit-of-analysis-germ-cell-situating-which-activity-systems-is-of-primary-value-to-explore)
             -   [Levels of Abstraction in Activity
                 Theory](#levels-of-abstraction-in-activity-theory)
             -   [Choosing smaller units of
@@ -31,8 +33,8 @@ title: 3. Methodology
                 and formative
                 interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
         -   [Exploring specific techniques of formative interventions -
-            MAKE MORE TARGETED
-            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
+            MAKE MORE
+            TARGETED -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
         -   [Creating ideocultures as designed
             systems](#creating-ideocultures-as-designed-systems)
         -   [Rogoff's three planes of analysis of learning
@@ -40,14 +42,13 @@ title: 3. Methodology
             -   [Communities of practice and communities of
                 learners](#communities-of-practice-and-communities-of-learners)
         -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of
-                knowledge](#retro-gaming-as-a-fund-of-knowledge)
+            -   [Possible funds of
+                knowledge](#possible-funds-of-knowledge)
     -   [Conceptual tools associated with
         agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
             agency](#tads---on-double-stimulation-and-agency)
-            -   [On affordances and
-                anchors](#on-affordances-and-anchors)
+            -   [On affordances](#on-affordances)
     -   [Data Gathering and
         Preparation](#data-gathering-and-preparation)
         -   [Aligning data gathering and analysis with socio cultural
@@ -55,18 +56,17 @@ title: 3. Methodology
         -   [Data Processing](#data-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
-            -   [Learnings andstable.
+            -   [Learnings and
                 recommendations](#learnings-and-recommendations)
     -   [Data analysis methods and
         justification](#data-analysis-methods-and-justification)
-        -   [Interview data](#interview-data)
-            -   [Participant interviews](#participant-interviews)
-            -   [Limitations in interview
-                data](#limitations-in-interview-data)
-        -   [Other data](#other-data)
+        -   [Summary of Data Gathering and
+            ANALYSIS](#summary-of-data-gathering-and-analysis)
     -   [Analysis of Video overview](#analysis-of-video-overview)
         -   [Rational and approach of video data
             analysis](#rational-and-approach-of-video-data-analysis)
+        -   [3 planes approach - noting tensions and
+            behaviours](#planes-approach---noting-tensions-and-behaviours)
     -   [Detailed transcription of video
         sources](#detailed-transcription-of-video-sources)
         -   [Transcription/description of
@@ -76,13 +76,21 @@ title: 3. Methodology
             -   [Justification of selecting sessions and sections for
                 more detailed
                 analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
+        -   [Journal Data](#journal-data)
+        -   [Programme resources created](#programme-resources-created)
+        -   [Interview data](#interview-data)
+            -   [Practitioner interviews](#practitioner-interviews)
+            -   [Participant interviews](#participant-interviews)
+            -   [Limitations in interview
+                data](#limitations-in-interview-data)
+        -   [Discussion on data analysis](#discussion-on-data-analysis)
             -   [Incorporating gesture and wider movement in
                 analysis](#incorporating-gesture-and-wider-movement-in-analysis)
             -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
     -   [Thematic analysis of video
         data](#thematic-analysis-of-video-data)
-        -   [Notes on Underpinning of Thematic Analysis of Video
-            Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
+        -   [Stage one - Development Stage of Thematic Analysis of Video
+            Data](#stage-one---development-stage-of-thematic-analysis-of-video-data)
             -   [What was Excluded and
                 Rationale](#what-was-excluded-and-rationale)
             -   [Coding Participant Roles and
@@ -90,9 +98,11 @@ title: 3. Methodology
             -   [Coding Design Cycle
                 Stages](#coding-design-cycle-stages)
             -   [Coding Game Design Themes](#coding-game-design-themes)
+        -   [Stage two: revised coding schema and
+            process](#stage-two-revised-coding-schema-and-process)
         -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled down
-            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+            agency - boiled
+            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
         -   [Limits of / problems with video data
             analysis](#limits-of-problems-with-video-data-analysis)
         -   [Analysis of activities based on Cultural, Interpersonal and
