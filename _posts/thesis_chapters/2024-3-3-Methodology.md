@@ -630,67 +630,6 @@ Outer pipes Cell padding
 
 
 
-### Interview data
-
-<!--
-#### Practitioner  interviews
-
-Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
-
-The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
-
-The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone. -->
-
-#### Participant interviews
-
-These interviews took place at the end of between P3 and P4.
-
-At times the resources that the
-
-These interviews allowed triangulation and confirmation of data observered in video recordings.
-
-Limitations, in retrospect, shorter interviews more regularly in the process would have been benefi
-
-#### Limitations in interview data
-
-In retrospect, shorter interviews at more regular intervals with participants would have been useful as for some a re
-
-
-
-### Other data
-
-
-My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
-
-<!-- To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. -->
-
-The process of analysis of journal notes and resulting resources required a different approach from that of video data.
-
-The following resources were examined
-
-- Book Journal pages
-- Digital journal entries directly in response to teaching sessions
-- Additional teaching resources
--
-<!-- - Linear support book and print outs to support participants in sessions
-- Additional 3M model resources to help navigation and reflection and gameful approaches -->
-
-Journal Notes were used in the following ways: (perhaps code this)
-
-- as a reflective tool after sessions
-- as a note pad to plan resource creation
-- as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
-- as a
-
-The quantity of data prevented extensive and detailed coding using thematic analysis.
-
-Instead, observations are triangulated with data from lit review to expose key themes and tensions.
-
-My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
-
-<!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
-
-<!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
 
 
 
@@ -782,7 +721,82 @@ Criteria  for inclusion included both practical and theoretical considerations.
 - Diversity of kinds of pair and peer interactions
 
 
-##### Discussion on data analysis 
+
+### Journal Data
+
+
+My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
+
+<!-- To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. -->
+
+The process of analysis of journal notes and resulting resources required a different approach from that of video data.
+
+The following resources were examined
+
+- Book Journal pages
+- Digital journal entries directly in response to teaching sessions
+- Additional teaching resources
+-
+<!-- - Linear support book and print outs to support participants in sessions
+- Additional 3M model resources to help navigation and reflection and gameful approaches -->
+
+Journal Notes were used in the following ways: (perhaps code this)
+
+- as a reflective tool after sessions
+- as a note pad to plan resource creation
+- as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
+- as a
+
+The quantity of data prevented extensive and detailed coding using thematic analysis.
+
+Instead, observations are triangulated with data from lit review to expose key themes and tensions.
+
+My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests.
+
+Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
+
+<!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
+
+<!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
+
+### Programme resources created
+
+There were two main types of resources created.
+
+- supporting teaching / facilitation RESOURCES
+- games and game and assets created
+
+The documentation and other forms of support evolved during each phase -
+
+I did not try to collect any personal notes that participants used for planning. And this was minimal for many participants.
+
+
+### Interview data
+
+
+#### Practitioner  interviews
+
+Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
+
+The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
+
+The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
+
+#### Participant interviews
+
+These interviews took place at the end of between P3 and P4.
+
+At times the resources that the
+
+These interviews allowed triangulation and confirmation of data observered in video recordings.
+
+#### Limitations in interview data
+
+MOVE TO CONCLUSION
+In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
+
+
+### Discussion on data analysis
 <!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
 
 For the first question only suitable pairs were chosen. This removes a lot of validity from any generalisation of claims that could be made.
