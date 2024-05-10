@@ -526,9 +526,29 @@ NOTE - more on affordances here from Nardi
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 
-## Data Gathering and Preparation
+## Data Collection
 
-### Aligning data gathering and analysis with socio cultural approach
+
+### Summary Table of Data Collection
+
+Online version here
+https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
+
+
+| Name                        | Details                                                   | Description                                                                                                                                                                          | Processing before analysis                                                                                                            |
+| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Screen capture data         | 72 recordings from 12 sessions                            | Captured in Flashback pro and stored as fbr                                                                                                                                          | Transcoded to mp4 (involving loss of keystroke and mouse click data)                                                                  |
+| 360 Video Data              | 9 recordings from 9 sessions in P2 and P3                 | Captured in 360 Gear camera on mini SD card                                                                                                                                          | Transcoded via Samsung app & command line tool ffmpeg - see appendix 3.x                                                              |
+| Journal entries             | 3 journals in  book form and 50 pages of electronic notes | Books journals contained planning, immediate reflections on sessions. Electronics documents focused more on evaluation of evolving sessions and problems encountered by participants | n/a                                                                                                                                   |
+| Programme resources created | Diverse resources (see Ch. 4)                             | Evolved during each phase - kept in online spaces                                                                                                                                    | These resources were altered for an external audience after the programme ended                                                       |
+| Practitioner Interviews     | 4 x 90 min (average) interviews                           | Video and audio data recorded via a zoom meeting. Data stored as mp4 video files.                                                                                                    | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes                                |
+| Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | Transcoded to mp3 audio files. Transcribed using open source software, then speaker data added and split into time zones of 5 minutes |
+
+
+
+### Justification of data collection and selection
+
+#### Alignment with with socio cultural approach
 
 My process is informed by the work previously explored, specifically Rogoff,
 
@@ -555,7 +575,8 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42X
 
 
 
-### Data Processing
+
+### Challenges of data collection and processing
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
 
@@ -609,7 +630,7 @@ It not possible to code the natively created files directly. Thus need to be con
 
 
 
-#### Learnings and recommendations
+#### Learnings and recommendations on processing
 
 The following learning and recommendations emerged from this process.
 
@@ -623,27 +644,13 @@ My study draws on traditional ethnographic methods of my journal as participant 
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
 
-### Summary of Data Gathering and ANALYSIS
-
-Online version here
-
-Outer pipes Cell padding
-
-| Name                       | Gathering & Storage                                   | Processing                                                                                             | Analysis                                                                                                                  |
-| -------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| Journal entries            | In books and electronics documents                    | n/a                                                                                                    | Impressionistic                                                                                                           |
-| Learning resources created | Evolved during each phase - kept in online spaces     | n/a                                                                                                    | Present in video data and in journal notes                                                                                |
-| Screen capture data        | Captures as fbr files                                 | Transcoded to mp4. Transcribed to word documents                                                       | Word documents imported to Nvino for thematic analysis.<br><br>Key conflicts collated into Excel document                 |
-| 360 Video Data             | Transfer from mini SD to external HD                  | Via Samsung app & command line tool ffmpeg                                                             | Used in parallel with screen capture to add additional information about participant gestures and community interaction   |
-| Practitioner Interviews    | Collected via Zoom, stored as mp4 files and mp3 files | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes | Broadly used to expose tensions in design process and triangulated with evolution of learning resources and journal notes |
-| Participant Interviews     | Collected via Zoom, stored as mp4 files and mp3 files | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes | Triangulated with themes emerging via video analysis.                                                                     |
 
 
+## Data Analysis
 
+### Overall table and rational of data analysis
 
-
-
-## Analysis of Video overview
+Theere is a table online here
 
 ### Rational and approach of video data analysis
 
@@ -805,6 +812,8 @@ These interviews allowed triangulation and confirmation of data observered in vi
 MOVE TO CONCLUSION
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
+
+## Data validity and reliability  
 
 ### Discussion on data analysis
 <!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
