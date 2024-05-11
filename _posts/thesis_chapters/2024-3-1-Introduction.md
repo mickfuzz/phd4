@@ -102,6 +102,12 @@ title: 1. Introduction
     -   [Links](#links)
 
 # Introduction
+
+## “What kind of Game Maker are you?”
+### A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.
+
+Author Mick Chesterman
+
 ## Abstract
 
 to come - for now see outline of thesis at the end of chapter
