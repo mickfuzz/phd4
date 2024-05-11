@@ -126,7 +126,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Introduction
 
-This chapter explores the development of the emerging game making through the lens of the cultural and community activity.
+This chapter explores emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency.
 
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants involved.   -->
 
@@ -135,7 +135,7 @@ This chapter explores the development of the emerging game making through the le
 
 <!-- COMMENT - While there is an overarching theme of, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
 
-The guiding direction of this chapter is on how participants use the created and emerging cultural tools of this game making program, particularly in reference to the building of agency? Thus mostly addressing RQ4. However to do this, the chapter builds on the work of previous chapters and in doing so discusses aspects of all three research questions.
+The guiding direction of this chapter is on how participants use the created and emerging cultural and practical tools of this game making program, particularly in reference to the building of agency? Thus mostly addressing RQ4. However to do this, the chapter builds on the work of previous chapters and in doing so discusses aspects of all three research questions.
 
 The first section explores the community behaviour of the group of game makers and some of the specifics of their design processes. The processes include: emerging use of narratives and graphics which drawing on home funds of knowledge; playtesting as a social process; play testing and embodied participation in the games of others; community concepts and norming behaviour emerging during playtesting; the development of flexible divisions of labour;
 
@@ -1160,6 +1160,13 @@ This section contributes observations from this research process with the follow
 <!-- Transistion - When designing with learner agency in mind. Some of the following may help -->
 
 ## Conclusion
+
+In AT terminology, this chapter has in a general sense returned to the concrete (see Marx / Blunden). Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.  This chapter has explored emergent cultural and community activity, and deepened discussion on interpersonal activity, and then returned to discuss implications for dimensions of concrete tool use on learner agency.
+
+It's dialectic innit. We call it praxis.
+The methodology chapter outlined some of the challenges of this approach, particularly in the thick description of context, and the challenge of then satisfying the goal of generalisability / and overall utitlity.
+
+The final chapters aims to address this with research outputs, implications and recommendations for facilitators and researchers.
 
 
 <!-- These include; authenticity of programming environment and language, use of the existing structure of the phaser library, the learning process of participants getting stuck and having to resolve tensions, my time limits providing individual support as a facilitator of a group, and the patience of participants when they encounter incomplete documentation. -->
