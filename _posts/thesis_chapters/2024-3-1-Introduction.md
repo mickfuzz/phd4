@@ -108,7 +108,7 @@ title: 1. Introduction
 
 Author Mick Chesterman
 
-## Abstract
+## **Abstract**
 
 to come - for now see outline of thesis at the end of chapter
 

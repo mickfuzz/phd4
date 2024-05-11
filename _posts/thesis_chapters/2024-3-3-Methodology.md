@@ -1290,12 +1290,17 @@ see updated table in tables subdirectory
 
 The following overview of activity use by stage focusing on the evolution of tools and processes concisely exploring the rationale for their selection or production. Fuller descriptions of the tools used at each stage and links to the online resources created are available as appendix 4.x
 
-<!-- Table from
-https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
+
 
 
 
 #### Phases and data Gathering
+
+
+
+<!-- Table from
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
+
 
 | Name and Date                                         | Description                                                                                                                                                                                                                                                                                                                                          | Data Gathered                                                                                                                                                                                                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
