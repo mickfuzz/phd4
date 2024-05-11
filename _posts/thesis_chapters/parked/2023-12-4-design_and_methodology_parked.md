@@ -1,5 +1,56 @@
 
 
+## DROPPED  - BUT KEEP AS ARCHIVE. Representing Coded the Patterns of Activity via coded data
+
+NOTE - NOT SURE WHERE TO PUT THIS PART OR IF THE CHART ELEMENT IS REALLY VALUABLE -
+IT COULD BE A DISTRACTION
+SO HERE AS A POSSIBILITY IN CONCLUSION - could be moved?
+
+ANOTHER NOTE - I HAVE NOT HAD TIME TO DO THE ACTUAL CHARTS OR WORK WITH THE 5 FULLY CODED VIDEOS YET.
+
+We can to examine patterns of activity is through an analysis of the coded video interactions. The coding structure decided upon and the process of coding in five minutes sections.
+
+<!-- NOTE - there may be some value is coding some key interactions more carefully in more granuar detail if this process is useful.  -->
+
+Note The full coding scheme will be included here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing
+
+The main schemes as below.
+
+- Design Stages -
+- Interaction Description -
+- Game Elements Addressed (Game Polish, Game Space, Game Mechanics, Game Challenge(remove?))
+
+The process of coding data shed light onto patterns of activity in creating a list of general behaviours shared by participants and thus also identifying outlying behaviours that did not meet the emerging coding scheme. (NOTE FOR HERE OR PREVIOUS?)
+
+Later in the chapter the limits of the chosen design stage schema are explored as a way of illuminating interesting game making behaviour of participants.
+
+<!-- See current table here.
+https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit?usp=sharing -->
+
+In the following section I use key tools provided by the research software Nvivo to give insight about the engagement of participants by compare time on different tasks.
+
+<!-- For example for the session that the vignette was taken from the below is chart of the time on each of the codes. -->
+
+The coding structure (may) also allows to show the overlap between different code areas. This is useful to explore a question like the following:
+
+- Question One: During which design phase does parent-child pair interaction happen most frequently?
+- Question Two: What are the different patterns for participant interaction that happen when working on different game elements?
+
+TO COME.
+
+The first scenario represented in a chart which compares activity grouping with design stages and activity description.
+
+Pair work -> TEST, CREATE, IMPROVE, etc
+Peer work -> TEST, CREATE, IMPROVE, etc
+Solo work -> perhaps dont an
+
+CHART
+
+The second scenario is represented by pie charts for each game element showing the duration spent on each by a diversity of participants.  
+
+CHART
+
 
 
 ## Exploring issues and context from practitioner interviews and existing research
