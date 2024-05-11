@@ -84,8 +84,9 @@
         -   [Use of Interview data](#use-of-interview-data)
             -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
-    -   [Data validity and reliability and decisions of what to not
-        analyse](#data-validity-and-reliability-and-decisions-of-what-to-not-analyse)
+    -   [Data validity, replicability and reliability and decisions of
+        what to not
+        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse)
         -   [Data Validity - Triangulation of Data - THE
             THEORY](#data-validity---triangulation-of-data---the-theory)
             -   [Limits of / problems with video data
@@ -93,7 +94,10 @@
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
             finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
-        -   [Generalisation of Results](#generalisation-of-results)
+        -   [Generalisation of Research](#generalisation-of-research)
+            -   [Data Replicability](#data-replicability)
+            -   [Generalisation of
+                Research](#generalisation-of-research-1)
     -   [Research Questions](#research-questions)
         -   [How Research Questions
             Evolved](#how-research-questions-evolved)

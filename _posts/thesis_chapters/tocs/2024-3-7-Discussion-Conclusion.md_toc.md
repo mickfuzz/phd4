@@ -69,7 +69,13 @@
             designs](#synergies-of-use-of-gdp-by-practioners-and-learners-in-research-designs)
         -   [On transfer of gdps -
             debates](#on-transfer-of-gdps---debates)
-    -   [Follow up work / limitations](#follow-up-work-limitations)
+    -   [Synthesis of this research in relation to other
+        research](#synthesis-of-this-research-in-relation-to-other-research)
+        -   [How does this fit into other domain specific research -
+            Constructionism, Computer supported collaborative learning
+            CSCL](#how-does-this-fit-into-other-domain-specific-research---constructionism-computer-supported-collaborative-learning-cscl)
+    -   [Limitations of this research and potential areas for future
+        research](#limitations-of-this-research-and-potential-areas-for-future-research)
         -   [Gender based issues of
             inclusion](#gender-based-issues-of-inclusion)
         -   [Missing data on starting game / quick start
