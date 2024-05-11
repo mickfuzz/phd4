@@ -583,16 +583,19 @@ Game design patterns contain elements of more abstract and thus repeatable struc
 
 
 
+## Synthesis of this research in relation to other research
+
+### How does this fit into other domain specific research - Constructionism, Computer supported collaborative learning CSCL
+
+This section follows up on gaps in the reserach exposed in the introduction
+
+Attempt to show differences and possible lines of inquiry that have been neglected in other areas.
 
 
 
 
----
+## Limitations of this research and potential areas for future research
 
-
-## Follow up work / limitations
-
----
 
 ### Gender based issues of inclusion
 

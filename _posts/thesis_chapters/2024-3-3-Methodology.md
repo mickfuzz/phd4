@@ -1058,7 +1058,7 @@ MOVE TO CONCLUSION
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
-## Data validity and reliability and decisions of what to not analyse
+## Data validity, replicability and reliability and decisions of what to not analyse
 
 
 <!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
@@ -1069,7 +1069,7 @@ In retrospect, shorter interviews at more regular intervals with participants wo
 Draw on other chapters to represent overcoming of weaknesses of design-based approach.
 
 Having a wide based on data allowed data triangulation
-e.g.  find a dood example of finding confirmation in niterview data
+e.g.  find a dood example of finding confirmation in interview data
 
 
 #### Limits of / problems with video data analysis
@@ -1127,7 +1127,24 @@ Thus my interpretation involved ....
 
 
 
-### Generalisation of Results
+### Generalisation of Research
+
+
+#### Data Replicability
+
+The elements of the design are online and included in appendices.
+
+This study faces an issue of being culturally embodies, thus think descriptions of context are needed here [@hoadley_creating_2002].
+
+The final chapter addresses the need to replicate this study in different contexts and the challenges involved in replicating the spontaneous emergent elements of specifics of this study.
+
+As such chapter four can be conceptualised as a design narrative (see [@hoadley_creating_2002]) to address the common deficit of detail of the designed product and process. "the usual study presents a technology fully
+formed as if it had risen from the oceans like Venus herself"
+
+" Would that all interventional research included this kind of rich description of the “treatment” so that one might infer whether the results were applicable elsewhere."
+
+#### Generalisation of Research
+
 
 Generalisation is one of the guiding principles of DBR. While results are intertwined with context, designs should be assessed for generalisation to other settings.
 
