@@ -544,20 +544,21 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 
 #### Alignment with with socio cultural approach
 
-My process is informed by the work previously explored, specifically Rogoff,
+The methodology of the data collection and analysis process is informed by socio-cultural approaches. If found the work of Rogoff in particular to research community oriented processes particularly illuminating
 
 The process is a suitable approach for informal education.
 
-The research questions invite a broad spectrum of analysis - cultural and social factors.
+As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors.
 
-The depth justifies smaller data size and depth of analysis.
+<!-- The depth justifies smaller data size and depth of analysis. -->
 
-One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour. Large amounts of video data are being gathered, up to 20 hours of footage for each 2 hour session.
+Here I adopt a naturalistic (is this the right word) research approach involves gathering data in situ to find and describe patterns of behaviour.
+
+Large amounts of video data were being gathered, a challenge which is explored later in this chapter
 
 Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
 
-
-Again while diversity of data invites drawing on diverse methods of analysis, AT will provide a foundation for the analysis of these diverse data.
+While diversity of data invites drawing on diverse methods of analysis (3 planes, DBR approaches), ATs provide a foundation for the analysis of these diverse data.
 
 <!-- WHAT IS THE FOUNDATION FOR ANALYSIS ?
 CERTAINLY FINDING AND RESOLVING TENSIONS.
@@ -873,15 +874,29 @@ Also, while helpful in preparing resources as a navigational framework, as explo
 
 Used in chapters to orient the reader
 
-**Incorporating gesture and wider movement in analysis of vignettes**
+
+**Incorporating  movement around the room in analysis**
 
 The 360 camera allowed for side by side analyis of the group, pair or individual working. Due to the layout these were cluster often around a laptop.
 
 In the initial stages of transcription and description having this data was extremely useful to disambiguate spoken statements.
 
-As a personal experience of describing and transcribing even thought it was a significant amount of work to syncronise and then to play both video sources side by side, the additional information really aided the description process in adding detail to the interpretations of motivations of participants.  
+As a personal experience of describing and transcribing even thought it was a significant amount of work to synchronise and then to play both video sources side by side, the additional information really aided the description process in adding detail to the interpretations of motivations of participants.  
 
-In some exchanges, 360 data was vital to explain spoken word. For an example see the vignette in chapter 6.
+For an example see the vignette in appendix 6.x (Suzanna and Olivia) chapter 6 which details the movement and behaviours of the child away from the computer as an example of legitimate peripheral activity.
+
+
+
+**Simple gesture analysis**
+
+In some exchanges, 360 data was vital to explain spoken word.
+
+This helped clarify some things that were unclear from audio and screen capture data.
+
+
+For example, deictic referencing, where unclear statements were clafied with pointing or other gestures was common. Such gesture were used often  to clarify game movements on screen, or in one case a software procedure of cropping an image.
+
+
 
 #### Analysis of the evolution of the programme resources created
 
