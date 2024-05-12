@@ -25,9 +25,6 @@
         -   [PRIMM](#primm)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-    -   [Pedagogies for informal settings - PERHAPS MERGE WITH SECTION
-        ABOVE ON AGENCY
-        FACILITATING](#pedagogies-for-informal-settings---perhaps-merge-with-section-above-on-agency-facilitating)
         -   [Digital informal / participatory culture and
             Learning](#digital-informal-participatory-culture-and-learning)
         -   [Microworlds as an embodiment of constructionist design

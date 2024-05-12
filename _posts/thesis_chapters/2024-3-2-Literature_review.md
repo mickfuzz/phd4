@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
-
 -   [Literature Review](#literature-review)
     -   [Research Questions - April
         2024](#research-questions---april-2024)
@@ -37,9 +36,6 @@ title: 2. Literature Review
         -   [PRIMM](#primm)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-    -   [Pedagogies for informal settings - PERHAPS MERGE WITH SECTION
-        ABOVE ON AGENCY
-        FACILITATING](#pedagogies-for-informal-settings---perhaps-merge-with-section-above-on-agency-facilitating)
         -   [Digital informal / participatory culture and
             Learning](#digital-informal-participatory-culture-and-learning)
         -   [Microworlds as an embodiment of constructionist design
@@ -107,7 +103,6 @@ title: 2. Literature Review
         REVIEW](#currently-parked-from-literature-review)
         -   [Mantle of the Expert as a processes
             drama](#mantle-of-the-expert-as-a-processes-drama)
-
 # Literature Review
 
 ## Research Questions - April 2024
@@ -281,6 +276,16 @@ In short there are concerns with reproduction of information as a goal for varie
 ## What pedagogies support learner agency?
 
 This section covers pedagogies more aligned with developing agency.
+This needs clarification
+
+It was originally focused only informal settings, which offer advantages for developing agency in terms of having less restrictions.
+
+NOTES remaining. ADD IN  SECTIONS IF RELEVANT / AND OR TIME / SPACE
+
+- Design approaches - designing for an audience
+- Physical methods, feedback, from constructionism
+- Design patterns in Agent sheets
+
 
 ### Use Modify Create
 
@@ -348,14 +353,13 @@ Bring in limits  and extension of research on pair programming to wider groups /
 - resource interdependence from Preston
 
 
-## Pedagogies for informal settings - PERHAPS MERGE WITH SECTION ABOVE ON AGENCY FACILITATING
 
 
-- Design approaches - designing for an audience
-- Physical methods, feedback, from constructionism
-- Design patterns in Agent sheets
 
 ### Digital informal / participatory culture and Learning
+
+
+
 
 Tinkering and Constructionism
 Livingstone
