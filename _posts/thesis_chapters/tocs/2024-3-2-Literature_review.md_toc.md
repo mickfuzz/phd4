@@ -1,11 +1,12 @@
 -   [Literature Review](#literature-review)
-    -   [Research Questions - March
-        2024](#research-questions---march-2024)
+    -   [Research Questions - April
+        2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Literature Review
         Introduction](#literature-review-introduction)
         -   [Structuring the literature
             review](#structuring-the-literature-review)
+        -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Pedagogies from coding for learning community - K12
         focused](#pedagogies-from-coding-for-learning-community---k12-focused)
         -   [Also See this writing and
@@ -14,16 +15,19 @@
             Thinking](#definitions-of-computational-thinking)
             -   [Can CT be used as an pedagogical
                 framework](#can-ct-be-used-as-an-pedagogical-framework)
+        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Exploring the territory between instruction-based tutorials
             and unguided
             approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
+    -   [What pedagogies support learner
+        agency?](#what-pedagogies-support-learner-agency)
         -   [Use Modify Create](#use-modify-create)
         -   [PRIMM](#primm)
-        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-    -   [Pedagogies for informal
-        settings](#pedagogies-for-informal-settings)
+    -   [Pedagogies for informal settings - PERHAPS MERGE WITH SECTION
+        ABOVE ON AGENCY
+        FACILITATING](#pedagogies-for-informal-settings---perhaps-merge-with-section-above-on-agency-facilitating)
         -   [Digital informal / participatory culture and
             Learning](#digital-informal-participatory-culture-and-learning)
         -   [Microworlds as an embodiment of constructionist design

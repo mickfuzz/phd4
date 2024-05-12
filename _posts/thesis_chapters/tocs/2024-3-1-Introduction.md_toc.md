@@ -24,23 +24,25 @@
                 agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-    -   [Educational Context](#educational-context)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
-        -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes)
+    -   [Context of digital making and culture in informal
+        settings](#context-of-digital-making-and-culture-in-informal-settings)
         -   [Empowerment agenda of authentic computing aligning with
             personal
             motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
             -   [Authenticity as
                 Empowering](#authenticity-as-empowering)
             -   [Authentic web technology](#authentic-web-technology)
-        -   [Project Based Learning and
-            Inclusion](#project-based-learning-and-inclusion)
-    -   [Context of digital making and home media
-        use](#context-of-digital-making-and-home-media-use)
+        -   [Home digital making and
+            culture](#home-digital-making-and-culture)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
+    -   [Formal Educational Context](#formal-educational-context)
+        -   [Computing as a School Subject in the
+            UK](#computing-as-a-school-subject-in-the-uk)
+        -   [Context of game making for educational
+            purposes](#context-of-game-making-for-educational-purposes)
+        -   [Project Based Learning and
+            Inclusion](#project-based-learning-and-inclusion)
     -   [Context of game making
         strategies](#context-of-game-making-strategies)
         -   [Motivations for learning to code specifically via game

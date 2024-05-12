@@ -9,14 +9,16 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
+
 -   [Literature Review](#literature-review)
-    -   [Research Questions - October
-        2023](#research-questions---october-2023)
+    -   [Research Questions - April
+        2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Literature Review
         Introduction](#literature-review-introduction)
         -   [Structuring the literature
             review](#structuring-the-literature-review)
+        -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Pedagogies from coding for learning community - K12
         focused](#pedagogies-from-coding-for-learning-community---k12-focused)
         -   [Also See this writing and
@@ -25,16 +27,19 @@ title: 2. Literature Review
             Thinking](#definitions-of-computational-thinking)
             -   [Can CT be used as an pedagogical
                 framework](#can-ct-be-used-as-an-pedagogical-framework)
+        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Exploring the territory between instruction-based tutorials
             and unguided
             approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
+    -   [What pedagogies support learner
+        agency?](#what-pedagogies-support-learner-agency)
         -   [Use Modify Create](#use-modify-create)
         -   [PRIMM](#primm)
-        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-    -   [Pedagogies for informal
-        settings](#pedagogies-for-informal-settings)
+    -   [Pedagogies for informal settings - PERHAPS MERGE WITH SECTION
+        ABOVE ON AGENCY
+        FACILITATING](#pedagogies-for-informal-settings---perhaps-merge-with-section-above-on-agency-facilitating)
         -   [Digital informal / participatory culture and
             Learning](#digital-informal-participatory-culture-and-learning)
         -   [Microworlds as an embodiment of constructionist design
@@ -105,12 +110,13 @@ title: 2. Literature Review
 
 # Literature Review
 
-## Research Questions - March 2024
+## Research Questions - April 2024
 
-1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
+
+1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of coding practices with novices?
 3. How can learners build agency in an evolving community of game makers?
-
 
 ## To perhaps add to Lit REVIEW
 
@@ -183,6 +189,15 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
 
+### What is a pedagogy?
+
+One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1.
+
+It is therefore useful to disambiguate C in this context.
+
+In AT terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of mediational strategy.
+
+
 ## Pedagogies from coding for learning community - K12 focused
 
 There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
@@ -232,6 +247,22 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 
 
 
+### Semantic Profiles and Waves
+
+CT instruction can be aided with a focus of teachers on semantic profiles and waves.
+
+Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
+
+Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
+
+<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
+
+![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+
+
+Figure 3.1 A Semantic Profile with Semantic Waves
+
+Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
 ### Exploring the territory between instruction-based tutorials and unguided approaches
 
@@ -245,10 +276,11 @@ The variety of audience and motivations of writer can account for the variation 
 
 Critique of instruction...
 
+In short there are concerns with reproduction of information as a goal for varied reason but authenticity of experience and resulting negative on effects on motivation and participant agency are of particular relevance to this study.  
 
+## What pedagogies support learner agency?
 
-
-
+This section covers pedagogies more aligned with developing agency.
 
 ### Use Modify Create
 
@@ -301,20 +333,6 @@ FIND MATERIAL IN OTHER BOOK CHAPTERS
 
 Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
 
-### Semantic Profiles and Waves
-
-Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
-
-Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
-
-<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
-
-![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
-
-
-Figure 3.1 A Semantic Profile with Semantic Waves
-
-Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
 ### Pair programming & social/collaborative coding
 
@@ -330,7 +348,7 @@ Bring in limits  and extension of research on pair programming to wider groups /
 - resource interdependence from Preston
 
 
-## Pedagogies for informal settings
+## Pedagogies for informal settings - PERHAPS MERGE WITH SECTION ABOVE ON AGENCY FACILITATING
 
 
 - Design approaches - designing for an audience
