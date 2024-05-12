@@ -16,7 +16,7 @@ title: 1. Introduction
             evolving tool use of an emerging community of families
             coding digital games
             together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
-    -   [**Abstract**](#abstract)
+    -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of
@@ -47,18 +47,21 @@ title: 1. Introduction
             culture](#home-digital-making-and-culture)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Formal Educational Context](#formal-educational-context)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
-        -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes)
-        -   [Project Based Learning and
-            Inclusion](#project-based-learning-and-inclusion)
     -   [Context of game making
         strategies](#context-of-game-making-strategies)
         -   [Motivations for learning to code specifically via game
             making](#motivations-for-learning-to-code-specifically-via-game-making)
         -   [On Retro Gaming](#on-retro-gaming)
+        -   [Context of game making for educational
+            purposes](#context-of-game-making-for-educational-purposes)
+    -   [Formal Educational Context](#formal-educational-context)
+        -   [Computing as a School Subject in the
+            UK](#computing-as-a-school-subject-in-the-uk)
+        -   [Project Based Learning](#project-based-learning)
+            -   [Project Based Learning and
+                Inclusion](#project-based-learning-and-inclusion)
+            -   [Complications with Project Based
+                Learning](#complications-with-project-based-learning)
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
         Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
@@ -117,7 +120,7 @@ title: 1. Introduction
 
 Author Mick Chesterman
 
-## **Abstract**
+## Abstract
 
 to come - for now see outline of thesis at the end of chapter
 
@@ -364,66 +367,6 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
 -
 
-
-
-## Formal Educational Context
-
-### Computing as a School Subject in the UK
-
-The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-
-<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
-A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
-BUT NOT TOO MUCH
-While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
-<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
-https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
--->
-
-
-### Context of game making for educational purposes
-
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
-
-
-
-### Project Based Learning and Inclusion
-
-Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
-
-
-The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017]. To be inclusive schools and teachers must identify both traditional SEND issues and wider cultural barriers to participation in computing classrooms and help student overcome them. Beyond the important technical accessibility tools and assistive learning technologies - for example text in different sizes, screen readers - a diversity for inclusive teaching strategies are also needed.
-
-
-<!-- The next section deals with inclusive
-Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
- pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
-
-<!-- Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report lacking the knowledge to effectively teach children with SEND issues.  -->
-
-One way to address SEND issues is to use differentiation to adapt a the standard lesson plan for learners needing special support. However this view of a standard, optimal learner pathway is not supported by recent research in neurodiversity, which suggests there is no one optimal way for students to learn. Inclusive pedagogies take a different approach to differentiation which places more power in the hands of learners to choose the path that is most appropriate for them. All students are given a greater choice of materials and activities from the start suiting the varied needs of all students. This has the benefit of removing stigmatisation of some learners having to undertake work that seen to be created for _low-achieving_ students. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
-
-
-Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
-
-UDL places great value on the personal relevance, choice and authenticity of learning experiences. As a way to encourage engagement UDL suggests setting choices of concrete learning goals that are relevant to the learners. This learner-led approach is very different to a traditional-instruction based, directive approach to teaching. The diverse learning pathways offered can be unfamiliar for both teachers and for students. The UDL guidelines recognise this and provide information to support teachers to implement them. As educators, we may need to build our own abilities and familiarity with learner-led approaches as well as growing the autonomy of our students.  
-
-<!-- Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. -->
-<!-- ### Case Study - Exploring Universal Design for Learning in Context -->
-One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014].
-
-
-The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
-
-When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
-
-
-
-
 ## Context of game making strategies
 
 ### Motivations for learning to code specifically via game making
@@ -451,6 +394,83 @@ What era and technologies constitute retro games can be disputed, however for th
 
 Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
 due to the limited capabilities of the hardware and storage space involved. These limits suit the capabilities of the chosen design tool Phaser.js.
+
+### Context of game making for educational purposes
+
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
+
+## Formal Educational Context
+
+### Computing as a School Subject in the UK
+
+The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
+
+The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+
+
+<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+BUT NOT TOO MUCH
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
+<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
+https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
+-->
+
+
+
+
+
+### Project Based Learning
+
+#### Project Based Learning and Inclusion
+
+
+
+Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
+
+
+The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017]. To be inclusive schools and teachers must identify both traditional SEND issues and wider cultural barriers to participation in computing classrooms and help student overcome them. Beyond the important technical accessibility tools and assistive learning technologies - for example text in different sizes, screen readers - a diversity for inclusive teaching strategies are also needed.
+
+
+#### Complications with Project Based Learning
+
+PBL should reconcile some of the tension and challenges outlined above in learning coding in formal settings.
+
+Resnick, advocate for Scratch software, in particular is vocal in promotion of PBL approaches in his projects, play and passion - lifelong kindergarten pedagogy.
+
+However there are addition al challenges.
+
+Lack of frameworks, expertise, confidence tc.
+Explored in more depth in lit review.
+
+
+<!-- The next section deals with inclusive
+Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
+ pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
+
+<!-- Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report lacking the knowledge to effectively teach children with SEND issues.  -->
+
+One way to address SEND issues is to use differentiation to adapt a the standard lesson plan for learners needing special support. However this view of a standard, optimal learner pathway is not supported by recent research in neurodiversity, which suggests there is no one optimal way for students to learn. Inclusive pedagogies take a different approach to differentiation which places more power in the hands of learners to choose the path that is most appropriate for them. All students are given a greater choice of materials and activities from the start suiting the varied needs of all students. This has the benefit of removing stigmatisation of some learners having to undertake work that seen to be created for _low-achieving_ students. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
+
+
+Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
+
+UDL places great value on the personal relevance, choice and authenticity of learning experiences. As a way to encourage engagement UDL suggests setting choices of concrete learning goals that are relevant to the learners. This learner-led approach is very different to a traditional-instruction based, directive approach to teaching. The diverse learning pathways offered can be unfamiliar for both teachers and for students. The UDL guidelines recognise this and provide information to support teachers to implement them. As educators, we may need to build our own abilities and familiarity with learner-led approaches as well as growing the autonomy of our students.  
+
+<!-- Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. -->
+<!-- ### Case Study - Exploring Universal Design for Learning in Context -->
+One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014].
+
+
+The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
+
+When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
+
+
+
+
+
 
 
 ## Relevant case studies / research  in digital making context -  Family Making, Ito / Gee etc, 5th Dimension

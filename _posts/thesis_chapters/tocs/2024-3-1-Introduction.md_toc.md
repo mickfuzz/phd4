@@ -5,7 +5,7 @@
             evolving tool use of an emerging community of families
             coding digital games
             together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
-    -   [**Abstract**](#abstract)
+    -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of
@@ -36,18 +36,21 @@
             culture](#home-digital-making-and-culture)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Formal Educational Context](#formal-educational-context)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
-        -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes)
-        -   [Project Based Learning and
-            Inclusion](#project-based-learning-and-inclusion)
     -   [Context of game making
         strategies](#context-of-game-making-strategies)
         -   [Motivations for learning to code specifically via game
             making](#motivations-for-learning-to-code-specifically-via-game-making)
         -   [On Retro Gaming](#on-retro-gaming)
+        -   [Context of game making for educational
+            purposes](#context-of-game-making-for-educational-purposes)
+    -   [Formal Educational Context](#formal-educational-context)
+        -   [Computing as a School Subject in the
+            UK](#computing-as-a-school-subject-in-the-uk)
+        -   [Project Based Learning](#project-based-learning)
+            -   [Project Based Learning and
+                Inclusion](#project-based-learning-and-inclusion)
+            -   [Complications with Project Based
+                Learning](#complications-with-project-based-learning)
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
         Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
