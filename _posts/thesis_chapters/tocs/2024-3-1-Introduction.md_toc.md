@@ -1,5 +1,11 @@
 -   [Introduction](#introduction)
-    -   [Abstract](#abstract)
+    -   ["What kind of Game Maker are
+        you?"](#what-kind-of-game-maker-are-you)
+        -   [A study of the cultural and interpersonal dimensions and
+            evolving tool use of an emerging community of families
+            coding digital games
+            together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
+    -   [**Abstract**](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of

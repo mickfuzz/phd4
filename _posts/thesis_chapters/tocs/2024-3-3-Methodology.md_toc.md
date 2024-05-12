@@ -113,6 +113,7 @@
             research](#describing-the-formative-intervention-of-this-research)
         -   [On the details of the
             design](#on-the-details-of-the-design)
+            -   [Phases and data Gathering](#phases-and-data-gathering)
             -   [P1: Exploratory stage: Oct 2017 - Dec
                 2018](#p1-exploratory-stage-oct-2017---dec-2018)
             -   [P3: Accelerated game making programme (5 weeks): Jan -
