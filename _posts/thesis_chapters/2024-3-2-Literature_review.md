@@ -9,100 +9,102 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
--   [Literature Review](#literature-review)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
-    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
-    -   [Literature Review
-        Introduction](#literature-review-introduction)
-        -   [Structuring the literature
-            review](#structuring-the-literature-review)
-        -   [What is a pedagogy?](#what-is-a-pedagogy)
-    -   [Pedagogies from coding for learning community - K12
-        focused](#pedagogies-from-coding-for-learning-community---k12-focused)
-        -   [Also See this writing and
-            adapt](#also-see-this-writing-and-adapt)
-        -   [Definitions of Computational
-            Thinking](#definitions-of-computational-thinking)
-            -   [Can CT be used as an pedagogical
-                framework](#can-ct-be-used-as-an-pedagogical-framework)
-        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
-        -   [Exploring the territory between instruction-based tutorials
-            and unguided
-            approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
-    -   [What pedagogies support learner
-        agency?](#what-pedagogies-support-learner-agency)
-        -   [Use Modify Create](#use-modify-create)
-        -   [PRIMM](#primm)
-        -   [Pair programming & social/collaborative
-            coding](#pair-programming-socialcollaborative-coding)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
-        -   [Microworlds as an embodiment of constructionist design
-            principles](#microworlds-as-an-embodiment-of-constructionist-design-principles)
-            -   [Constructionist design
-                principles](#constructionist-design-principles)
-            -   [Microworlds & constructionist
-                concepts](#microworlds-constructionist-concepts)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
-        -   [Project based learning PBL](#project-based-learning-pbl)
-            -   [Game making and Project / Problem Based
-                Learning](#game-making-and-project-problem-based-learning)
-            -   [PBL and Authenticity in the domain of teaching
-                programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
-    -   [Pedagogical resources in the form of professional practices and
-        frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
-        -   [Design steps frameworks via
-            stages](#design-steps-frameworks-via-stages)
-            -   [Broad design based
-                approaches](#broad-design-based-approaches)
-        -   [MDA and conceptual game elements
-            framework](#mda-and-conceptual-game-elements-framework)
-        -   [Game jams & game
-            competitions](#game-jams-game-competitions)
-        -   [Design Patterns and Game Design Patterns in professional
-            context](#design-patterns-and-game-design-patterns-in-professional-context)
-    -   [Synthesis of chapter /
-        discussion](#synthesis-of-chapter-discussion)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
-        -   [Using professional frameworks to help novice game
-            makers](#using-professional-frameworks-to-help-novice-game-makers)
-            -   [Using concepts of design patterns and game design
-                patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
-            -   [Using pattern collections and code examples to help
-                students.](#using-pattern-collections-and-code-examples-to-help-students.)
-    -   [The problem statement of the
-        thesis](#the-problem-statement-of-the-thesis)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
-        -   [Barrier - lack of knowledge of cultural
-            processes](#barrier---lack-of-knowledge-of-cultural-processes)
-        -   [Tensions surrounding authenticity of tool use- move to LIT
-            REVIEW / END
-            DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
-    -   [Theoretical Framework](#theoretical-framework)
-        -   [Socio cultural approaches and the primacy of
-            context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [Primary framework Activity
-            Theory](#primary-framework-activity-theory)
-        -   [Design-based research and formative intervention studies
-            within educational
-            field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-        -   [Justification of choice (esp compared to
-            contructionism)](#justification-of-choice-esp-compared-to-contructionism)
-            -   [Context and Generalisation of
-                results:](#context-and-generalisation-of-results)
-            -   [Why not constructionism](#why-not-constructionism)
-            -   [Conceptualising informal education via foundational
-                theory](#conceptualising-informal-education-via-foundational-theory)
-    -   [Currently Parked from Literature
-        REVIEW](#currently-parked-from-literature-review)
-        -   [Mantle of the Expert as a processes
-            drama](#mantle-of-the-expert-as-a-processes-drama)
+-   [Research Questions - April 2024](#research-questions---april-2024)
+-   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
+-   [Literature Review Introduction](#literature-review-introduction)
+    -   [Structuring the literature
+        review](#structuring-the-literature-review)
+    -   [What is a pedagogy?](#what-is-a-pedagogy)
+-   [Pedagogies from coding for learning community - K12
+    focused](#pedagogies-from-coding-for-learning-community---k12-focused)
+    -   [Also See this writing and
+        adapt](#also-see-this-writing-and-adapt)
+    -   [Definitions of Computational
+        Thinking](#definitions-of-computational-thinking)
+        -   [Can CT be used as an pedagogical
+            framework](#can-ct-be-used-as-an-pedagogical-framework)
+    -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
+    -   [Exploring the territory between instruction-based tutorials and
+        unguided
+        approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
+-   [What pedagogies support learner
+    agency?](#what-pedagogies-support-learner-agency)
+    -   [Use Modify Create](#use-modify-create)
+    -   [PRIMM](#primm)
+        -   [Microworlds as an embodiment of UMC and other
+            constructionist design
+            principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
+    -   [Half-baked games as
+        Microworlds](#half-baked-games-as-microworlds)
+    -   [Funds of knowledge and third
+        space](#funds-of-knowledge-and-third-space)
+        -   [Studies using funds of knowledge within their
+            pedagogies](#studies-using-funds-of-knowledge-within-their-pedagogies)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Play circles and MOE as a third
+            space](#play-circles-and-moe-as-a-third-space)
+    -   [Pair programming & social/collaborative
+        coding](#pair-programming-socialcollaborative-coding)
+    -   [Digital informal / participatory culture and
+        Learning](#digital-informal-participatory-culture-and-learning)
+    -   [Project based learning PBL](#project-based-learning-pbl)
+        -   [Game making and Project / Problem Based
+            Learning](#game-making-and-project-problem-based-learning)
+        -   [PBL and Authenticity in the domain of teaching
+            programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
+-   [Pedagogical resources in the form of professional practices and
+    frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
+    -   [Design steps frameworks via
+        stages](#design-steps-frameworks-via-stages)
+        -   [Broad design based
+            approaches](#broad-design-based-approaches)
+    -   [MDA and conceptual game elements
+        framework](#mda-and-conceptual-game-elements-framework)
+    -   [Game jams & game competitions](#game-jams-game-competitions)
+    -   [Design Patterns and Game Design Patterns in professional
+        context](#design-patterns-and-game-design-patterns-in-professional-context)
+-   [Synthesis of chapter /
+    discussion](#synthesis-of-chapter-discussion)
+    -   [Defining and conceptualising informal
+        education](#defining-and-conceptualising-informal-education)
+        -   [Informal, participatory, digital and gaming
+            communities](#informal-participatory-digital-and-gaming-communities)
+    -   [Using professional frameworks to help novice game
+        makers](#using-professional-frameworks-to-help-novice-game-makers)
+        -   [Using concepts of design patterns and game design
+            patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
+        -   [Using pattern collections and code examples to help
+            students.](#using-pattern-collections-and-code-examples-to-help-students.)
+-   [The problem statement of the
+    thesis](#the-problem-statement-of-the-thesis)
+    -   [Inequality of access to participatory culture communities
+        (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
+    -   [Barrier - lack of knowledge of cultural
+        processes](#barrier---lack-of-knowledge-of-cultural-processes)
+    -   [Tensions surrounding authenticity of tool use- move to LIT
+        REVIEW / END
+        DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
+-   [Theoretical Framework](#theoretical-framework)
+    -   [Socio cultural approaches and the primacy of
+        context](#socio-cultural-approaches-and-the-primacy-of-context)
+    -   [Primary framework Activity
+        Theory](#primary-framework-activity-theory)
+    -   [Design-based research and formative intervention studies within
+        educational
+        field](#design-based-research-and-formative-intervention-studies-within-educational-field)
+    -   [Justification of choice (esp compared to
+        contructionism)](#justification-of-choice-esp-compared-to-contructionism)
+        -   [Context and Generalisation of
+            results:](#context-and-generalisation-of-results)
+        -   [Why not constructionism](#why-not-constructionism)
+        -   [Conceptualising informal education via foundational
+            theory](#conceptualising-informal-education-via-foundational-theory)
+-   [Currently Parked from Literature
+    REVIEW](#currently-parked-from-literature-review)
+    -   [Mantle of the Expert as a processes
+        drama](#mantle-of-the-expert-as-a-processes-drama)
+
 # Literature Review
 
 ## Research Questions - April 2024
@@ -338,51 +340,26 @@ FIND MATERIAL IN OTHER BOOK CHAPTERS
 
 Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
 
-
-### Pair programming & social/collaborative coding
-
-**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
-
-
-See Robertson
-
-Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
-
-**Concepts** -  perhaps some of the underlying concepts like
-- joint problem spaces
-- resource interdependence from Preston
-
-
-
-
-
-### Digital informal / participatory culture and Learning
-
-
-
-
-Tinkering and Constructionism
-Livingstone
-Sefton green
-ITO and Gee
-
-
- community activities around the game Gee / Ito
-
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
-
-
-### Microworlds as an embodiment of constructionist design principles
+#### Microworlds as an embodiment of UMC and other constructionist design principles
 <!-- (generated by chat gpt) -->
 
+LOGO and Scratch have had a huge influence as have the constructionist design principles
 
-#### Constructionist design principles
+The main concept of UMC is remixing a game to build . Scratch has been instrumental in bringing this methodology into clubs and classrooms as an explicit feature of its online community.
+
+
+Constructionist design principles emerge in tandem with the frequent revision of the tools in question in response to the direction and interest of the community. This form of praxis is illustrated in a good level of detail in Papert's extensive pedagogical writings and the community of researchers and educators clustered around development of scratch and associated pedagogies.
+
+
+
+
+
+##### Constructionist design principles
 
 The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
 
 Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
 
-#### Microworlds & constructionist concepts
 
 Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
 
@@ -416,6 +393,70 @@ The focus of half-baked games is to design them in a way which encourages mallea
 Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
 
 
+
+
+
+
+### Funds of knowledge and third space
+
+#### Studies using funds of knowledge within their pedagogies
+
+Listed in this section are numerous studies looking into the use of home interests in coding process.
+For example in domain areas of wearable technology and fabric, storytelling, robot making and games.
+
+The concept of funds of knowledge is outlined here in brief form. Include Moll here.
+And followed by key observations supporting the importance of expression, of feelings of expertise, and some pedagogical techniques tactics to
+
+
+#### Third spaces and the context of this study
+
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
+
+It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
+
+
+#### Play circles and MOE as a third space
+
+The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
+
+A foundation of link between between play theory, MOE and third space theory.
+
+A detailed analysis is beyond remit of this review but broad alignments include:
+- use of concept of a new creative space for all participants
+- use of mediated strategies to reduce learner stress
+- ability to bring self identify to share in a scaffolded and protected way
+
+### Pair programming & social/collaborative coding
+
+**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
+
+
+See Robertson
+
+Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
+
+**Concepts** -  perhaps some of the underlying concepts like
+- joint problem spaces
+- resource interdependence from Preston
+
+
+
+
+
+### Digital informal / participatory culture and Learning
+
+
+
+
+Tinkering and Constructionism
+Livingstone
+Sefton green
+ITO and Gee
+
+
+ community activities around the game Gee / Ito
+
+<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
 
 
 
