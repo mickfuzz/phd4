@@ -474,6 +474,7 @@ This study positions this interest and identification as a fund of knowledge whi
 
 What potential does that give to family game making?
 
+NOTE - HOW IS THIS EXPLORE LATER?  IS THIS REALLY A METHODOLOGY ASPECT - OR SOMETHING FOR THE INTRODUCTION OR THE DISCUSSION CHAPTER 6 ?
 
 ## Conceptual tools associated with agency
 
@@ -488,6 +489,8 @@ Look for tensions in ATs - and how learners overcome barriers or blockages, is a
 
 ### TADS - On double stimulation and agency
 
+NOTE - HOW MUCH TO GO INTO THIS HERE OR BRING IT UP LATER?
+
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
 Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
@@ -497,6 +500,9 @@ Blockages caused by contradictions are also analysed the fields of design and HC
 #### On affordances
 
 AT's relationship with affordances are explored here [@ba_erentsen_activity_2002]
+
+In my analysi of
+
 
 Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
 
