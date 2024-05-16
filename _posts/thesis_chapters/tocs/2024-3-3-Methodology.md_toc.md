@@ -3,8 +3,9 @@
         2024](#research-questions---march-2024)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
-        -   [Choosing a suitable unit of analysis / germ
-            cell](#choosing-a-suitable-unit-of-analysis-germ-cell)
+        -   [Choosing a suitable unit of analysis / germ cell &
+            situating which activity systems is of primary value to
+            explore](#choosing-a-suitable-unit-of-analysis-germ-cell-situating-which-activity-systems-is-of-primary-value-to-explore)
             -   [Levels of Abstraction in Activity
                 Theory](#levels-of-abstraction-in-activity-theory)
             -   [Choosing smaller units of
@@ -21,8 +22,8 @@
                 and formative
                 interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
         -   [Exploring specific techniques of formative interventions -
-            MAKE MORE TARGETED
-            -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
+            MAKE MORE
+            TARGETED -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
         -   [Creating ideocultures as designed
             systems](#creating-ideocultures-as-designed-systems)
         -   [Rogoff's three planes of analysis of learning
@@ -30,70 +31,73 @@
             -   [Communities of practice and communities of
                 learners](#communities-of-practice-and-communities-of-learners)
         -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Retro Gaming as a Fund of
-                knowledge](#retro-gaming-as-a-fund-of-knowledge)
+            -   [Possible funds of
+                knowledge](#possible-funds-of-knowledge)
     -   [Conceptual tools associated with
         agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
             agency](#tads---on-double-stimulation-and-agency)
-            -   [On affordances and
-                anchors](#on-affordances-and-anchors)
-    -   [Data Gathering and
-        Preparation](#data-gathering-and-preparation)
-        -   [Aligning data gathering and analysis with socio cultural
-            approach](#aligning-data-gathering-and-analysis-with-socio-cultural-approach)
-        -   [Data Processing](#data-processing)
+            -   [On affordances](#on-affordances)
+    -   [Data Collection](#data-collection)
+        -   [Summary Table of Data
+            Collection](#summary-table-of-data-collection)
+        -   [Justification of data collection and
+            selection](#justification-of-data-collection-and-selection)
+            -   [Alignment with with socio cultural
+                approach](#alignment-with-with-socio-cultural-approach)
+        -   [Challenges of data collection and
+            processing](#challenges-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
-            -   [Learnings and
-                recommendations](#learnings-and-recommendations)
-    -   [Data analysis methods and
-        justification](#data-analysis-methods-and-justification)
-        -   [Interview data](#interview-data)
-            -   [Participant interviews](#participant-interviews)
-            -   [Limitations in interview
-                data](#limitations-in-interview-data)
-        -   [Other data](#other-data)
-    -   [Analysis of Video overview](#analysis-of-video-overview)
-        -   [Rational and approach of video data
-            analysis](#rational-and-approach-of-video-data-analysis)
-    -   [Detailed transcription of video
-        sources](#detailed-transcription-of-video-sources)
-        -   [Transcription/description of
-            data](#transcriptiondescription-of-data)
-            -   [Grades of video data
-                analysis](#grades-of-video-data-analysis)
+            -   [Learnings and recommendations on
+                processing](#learnings-and-recommendations-on-processing)
+    -   [Data Analysis](#data-analysis)
+        -   [Overall table and rational of data
+            analysis](#overall-table-and-rational-of-data-analysis)
+        -   [Notes to allocate to a
+            stage](#notes-to-allocate-to-a-stage)
+            -   [Rational and approach of data
+                analysis -](#rational-and-approach-of-data-analysis--)
+        -   [Data Analysis Stage One](#data-analysis-stage-one)
+            -   [3 planes approach - noting tensions and
+                behaviours](#planes-approach---noting-tensions-and-behaviours)
             -   [Justification of selecting sessions and sections for
                 more detailed
                 analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-            -   [Incorporating gesture and wider movement in
-                analysis](#incorporating-gesture-and-wider-movement-in-analysis)
-            -   [Using a 3 Planes Approach](#using-a-3-planes-approach)
-    -   [Thematic analysis of video
-        data](#thematic-analysis-of-video-data)
-        -   [Notes on Underpinning of Thematic Analysis of Video
-            Data](#notes-on-underpinning-of-thematic-analysis-of-video-data)
-            -   [What was Excluded and
-                Rationale](#what-was-excluded-and-rationale)
-            -   [Coding Participant Roles and
-                Interactions.](#coding-participant-roles-and-interactions.)
-            -   [Coding Design Cycle
-                Stages](#coding-design-cycle-stages)
-            -   [Coding Game Design Themes](#coding-game-design-themes)
-        -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled down
-            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-        -   [Limits of / problems with video data
-            analysis](#limits-of-problems-with-video-data-analysis)
-        -   [Analysis of activities based on Cultural, Interpersonal and
-            Personal
-            focusing](#analysis-of-activities-based-on-cultural-interpersonal-and-personal-focusing)
+        -   [Data Analysis Stage Two](#data-analysis-stage-two)
+            -   [Partial transcription/description of
+                data](#partial-transcriptiondescription-of-data)
+            -   [Partial coding of video at stage
+                2](#partial-coding-of-video-at-stage-2)
+            -   [What was excluded from initial coding and
+                why](#what-was-excluded-from-initial-coding-and-why)
+            -   [Selection of vignettes for deeper
+                analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [Analysis of the evolution of the programme resources
+                created](#analysis-of-the-evolution-of-the-programme-resources-created)
+        -   [Data Analysis Stage Three](#data-analysis-stage-three)
+            -   [A revised processes of thematic
+                analysis](#a-revised-processes-of-thematic-analysis)
+            -   [On Final Transcription/description of
+                data](#on-final-transcriptiondescription-of-data)
+        -   [Use of journal data](#use-of-journal-data)
+        -   [Use of Interview data](#use-of-interview-data)
+            -   [Practitioner interviews](#practitioner-interviews)
+            -   [Participant interviews](#participant-interviews)
+    -   [Data validity, replicability and reliability and decisions of
+        what to not
+        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse)
+        -   [Data Validity - Triangulation of Data - THE
+            THEORY](#data-validity---triangulation-of-data---the-theory)
+            -   [Limits of / problems with video data
+                analysis](#limits-of-problems-with-video-data-analysis)
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
             finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
-        -   [Data Validity - Triangulation of
-            Data](#data-validity---triangulation-of-data)
-        -   [Generalisation of Results](#generalisation-of-results)
+        -   [Generalisation of Research](#generalisation-of-research)
+            -   [Data Replicability](#data-replicability)
+            -   [Generalisation of
+                Research](#generalisation-of-research-1)
     -   [Research Questions](#research-questions)
         -   [How Research Questions
             Evolved](#how-research-questions-evolved)
@@ -109,6 +113,7 @@
             research](#describing-the-formative-intervention-of-this-research)
         -   [On the details of the
             design](#on-the-details-of-the-design)
+            -   [Phases and data Gathering](#phases-and-data-gathering)
             -   [P1: Exploratory stage: Oct 2017 - Dec
                 2018](#p1-exploratory-stage-oct-2017---dec-2018)
             -   [P3: Accelerated game making programme (5 weeks): Jan -

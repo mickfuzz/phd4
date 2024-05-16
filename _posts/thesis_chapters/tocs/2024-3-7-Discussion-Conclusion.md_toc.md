@@ -25,7 +25,6 @@
         -   [Discussion on UMC and PRIMM in relation to use of 3M model
             (Practitioner
             focus)](#discussion-on-umc-and-primm-in-relation-to-use-of-3m-model-practitioner-focus)
-        -   [Different strokes](#different-strokes)
     -   [Synthesising the characteristics and potential of the 3M
         pedagogy](#synthesising-the-characteristics-and-potential-of-the-3m-pedagogy)
         -   [3M through the lens of
@@ -33,12 +32,21 @@
             -   [TADS - interventions and affordances as double
                 stimulation](#tads---interventions-and-affordances-as-double-stimulation)
         -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled down
-            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-            -   [Metaphors around creating
-                space](#metaphors-around-creating-space)
-    -   [Design patterns as a teaching
-        aid](#design-patterns-as-a-teaching-aid)
+            agency - boiled
+            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+    -   [Implications and recommendations for
+        practitioners](#implications-and-recommendations-for-practitioners)
+        -   [The value and processes of creating space for emergent
+            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+            -   [Supporting different game making approaches via
+                scaffolding within choice with
+                limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
+        -   [Recommendations / Commentary / Discussion on
+            toolsets](#recommendations-commentary-discussion-on-toolsets)
+        -   [Further recommendations regarding tools
+            sets](#further-recommendations-regarding-tools-sets)
+        -   [Design patterns as a teaching
+            aid](#design-patterns-as-a-teaching-aid)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
             -   [GDP, CT & Transfer](#gdp-ct-transfer)
@@ -48,17 +56,8 @@
                 terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
             -   [On CTs and CTs emerging in the
                 wild.](#on-cts-and-cts-emerging-in-the-wild.)
-    -   [Recommendations for Practice /
-        Research](#recommendations-for-practice-research)
     -   [Synthesis of reflections on designing for learner
         agency](#synthesis-of-reflections-on-designing-for-learner-agency)
-    -   [Recommendations / Commentary / Discussion on
-        toolsets](#recommendations-commentary-discussion-on-toolsets)
-        -   [Further recommendations regarding tools
-            sets](#further-recommendations-regarding-tools-sets)
-    -   [Representing Coded the Patterns of Activity via coded
-        data](#representing-coded-the-patterns-of-activity-via-coded-data)
-        -   [Discussion on data](#discussion-on-data)
     -   [Thoughts Log - things that may end up
         here.](#thoughts-log---things-that-may-end-up-here.)
         -   [GDPs that are already in the
@@ -70,7 +69,13 @@
             designs](#synergies-of-use-of-gdp-by-practioners-and-learners-in-research-designs)
         -   [On transfer of gdps -
             debates](#on-transfer-of-gdps---debates)
-    -   [Follow up work / limitations](#follow-up-work-limitations)
+    -   [Synthesis of this research in relation to other
+        research](#synthesis-of-this-research-in-relation-to-other-research)
+        -   [How does this fit into other domain specific research -
+            Constructionism, Computer supported collaborative learning
+            CSCL](#how-does-this-fit-into-other-domain-specific-research---constructionism-computer-supported-collaborative-learning-cscl)
+    -   [Limitations of this research and potential areas for future
+        research](#limitations-of-this-research-and-potential-areas-for-future-research)
         -   [Gender based issues of
             inclusion](#gender-based-issues-of-inclusion)
         -   [Missing data on starting game / quick start

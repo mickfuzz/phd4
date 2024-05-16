@@ -1,4 +1,10 @@
 -   [Introduction](#introduction)
+    -   ["What kind of Game Maker are
+        you?"](#what-kind-of-game-maker-are-you)
+        -   [A study of the cultural and interpersonal dimensions and
+            evolving tool use of an emerging community of families
+            coding digital games
+            together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
@@ -18,21 +24,16 @@
                 agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-    -   [Educational Context](#educational-context)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
-        -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes)
+    -   [Context of digital making and culture in informal
+        settings](#context-of-digital-making-and-culture-in-informal-settings)
         -   [Empowerment agenda of authentic computing aligning with
             personal
             motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
             -   [Authenticity as
                 Empowering](#authenticity-as-empowering)
             -   [Authentic web technology](#authentic-web-technology)
-        -   [Project Based Learning and
-            Inclusion](#project-based-learning-and-inclusion)
-    -   [Context of digital making and home media
-        use](#context-of-digital-making-and-home-media-use)
+        -   [Home digital making and
+            culture](#home-digital-making-and-culture)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
     -   [Context of game making
@@ -40,6 +41,16 @@
         -   [Motivations for learning to code specifically via game
             making](#motivations-for-learning-to-code-specifically-via-game-making)
         -   [On Retro Gaming](#on-retro-gaming)
+        -   [Context of game making for educational
+            purposes](#context-of-game-making-for-educational-purposes)
+    -   [Formal Educational Context](#formal-educational-context)
+        -   [Computing as a School Subject in the
+            UK](#computing-as-a-school-subject-in-the-uk)
+        -   [Project Based Learning](#project-based-learning)
+            -   [Project Based Learning and
+                Inclusion](#project-based-learning-and-inclusion)
+            -   [Complications with Project Based
+                Learning](#complications-with-project-based-learning)
     -   [Relevant case studies / research in digital making context -
         Family Making, Ito / Gee etc, 5th
         Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)

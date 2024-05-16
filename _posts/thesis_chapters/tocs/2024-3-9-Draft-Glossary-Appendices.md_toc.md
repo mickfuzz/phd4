@@ -20,8 +20,8 @@
         -   [Appendix 4.x - Addition to vignette 4.1 - community norming
             in
             playtesting](#appendix-4.x---addition-to-vignette-4.1---community-norming-in-playtesting)
-        -   [Appendix 5.x - Addition to vignette 5.1
-            -](#appendix-5.x---addition-to-vignette-5.1--)
+        -   [Appendix 5.x - Addition to vignette
+            5.1 -](#appendix-5.x---addition-to-vignette-5.1--)
         -   [Appendix 4.x - Extract of interaction between Molly and
             Sonia](#appendix-4.x---extract-of-interaction-between-molly-and-sonia)
         -   [Appendix 4.x - Mark and Ed working with home

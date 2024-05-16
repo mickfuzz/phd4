@@ -105,12 +105,13 @@ title: 2. Literature Review
 
 # Literature Review
 
-## Research Questions - March 2024
+## Research Questions - April 2024
 
-1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
+
+1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of coding practices with novices?
 3. How can learners build agency in an evolving community of game makers?
-
 
 ## To perhaps add to Lit REVIEW
 
@@ -183,6 +184,15 @@ chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit r
 /home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
 
+### What is a pedagogy?
+
+One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1.
+
+It is therefore useful to disambiguate C in this context.
+
+In AT terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of mediational strategy.
+
+
 ## Pedagogies from coding for learning community - K12 focused
 
 There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
@@ -232,6 +242,22 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 
 
 
+### Semantic Profiles and Waves
+
+CT instruction can be aided with a focus of teachers on semantic profiles and waves.
+
+Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
+
+Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
+
+<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
+
+![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+
+
+Figure 3.1 A Semantic Profile with Semantic Waves
+
+Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
 ### Exploring the territory between instruction-based tutorials and unguided approaches
 
@@ -245,12 +271,20 @@ The variety of audience and motivations of writer can account for the variation 
 
 Critique of instruction...
 
-The tensions explored here are similar to those explored in the introduction in relation to project based approaches and the discovery learning that happens within PBL.
-This is explored in a later section of this chapter. s
+In short there are concerns with reproduction of information as a goal for varied reason but authenticity of experience and resulting negative on effects on motivation and participant agency are of particular relevance to this study.  
 
+## What pedagogies support learner agency?
 
+This section covers pedagogies more aligned with developing agency.
+This needs clarification
 
+It was originally focused only informal settings, which offer advantages for developing agency in terms of having less restrictions.
 
+NOTES remaining. ADD IN  SECTIONS IF RELEVANT / AND OR TIME / SPACE
+
+- Design approaches - designing for an audience
+- Physical methods, feedback, from constructionism
+- Design patterns in Agent sheets
 
 
 ### Use Modify Create
@@ -304,66 +338,26 @@ FIND MATERIAL IN OTHER BOOK CHAPTERS
 
 Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
 
-### Semantic Profiles and Waves
-
-Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
-
-Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
-
-<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
-
-![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
-
-
-Figure 3.1 A Semantic Profile with Semantic Waves
-
-Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
-
-### Pair programming & social/collaborative coding
-
-**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
-
-
-See Robertson
-
-Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
-
-**Concepts** -  perhaps some of the underlying concepts like
-- joint problem spaces
-- resource interdependence from Preston
-
-
-## Pedagogies for informal settings
-
-
-- Design approaches - designing for an audience
-- Physical methods, feedback, from constructionism
-- Design patterns in Agent sheets
-
-### Digital informal / participatory culture and Learning
-
-Tinkering and Constructionism
-Livingstone
-Sefton green
-ITO and Gee
-
-
- community activities around the game Gee / Ito
-
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
-
-
-### Microworlds as an embodiment of constructionist design principles
+#### Microworlds as an embodiment of UMC and other constructionist design principles
 <!-- (generated by chat gpt) -->
 
+LOGO and Scratch have had a huge influence as have the constructionist design principles
 
-#### Constructionist design principles
+The main concept of UMC is remixing a game to build . Scratch has been instrumental in bringing this methodology into clubs and classrooms as an explicit feature of its online community.
+
+
+Constructionist design principles emerge in tandem with the frequent revision of the tools in question in response to the direction and interest of the community. This form of praxis is illustrated in a good level of detail in Papert's extensive pedagogical writings and the community of researchers and educators clustered around development of scratch and associated pedagogies.
+
+
+
+
+
+##### Constructionist design principles
 
 The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
 
 Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
 
-#### Microworlds & constructionist concepts
 
 Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
 
@@ -397,6 +391,70 @@ The focus of half-baked games is to design them in a way which encourages mallea
 Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
 
 
+
+
+
+
+### Funds of knowledge and third space
+
+#### Studies using funds of knowledge within their pedagogies
+
+Listed in this section are numerous studies looking into the use of home interests in coding process.
+For example in domain areas of wearable technology and fabric, storytelling, robot making and games.
+
+The concept of funds of knowledge is outlined here in brief form. Include Moll here.
+And followed by key observations supporting the importance of expression, of feelings of expertise, and some pedagogical techniques tactics to
+
+
+#### Third spaces and the context of this study
+
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
+
+It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
+
+
+#### Play circles and MOE as a third space
+
+The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
+
+A foundation of link between between play theory, MOE and third space theory.
+
+A detailed analysis is beyond remit of this review but broad alignments include:
+- use of concept of a new creative space for all participants
+- use of mediated strategies to reduce learner stress
+- ability to bring self identify to share in a scaffolded and protected way
+
+### Pair programming & social/collaborative coding
+
+**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
+
+
+See Robertson
+
+Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
+
+**Concepts** -  perhaps some of the underlying concepts like
+- joint problem spaces
+- resource interdependence from Preston
+
+
+
+
+
+### Digital informal / participatory culture and Learning
+
+
+
+
+Tinkering and Constructionism
+Livingstone
+Sefton green
+ITO and Gee
+
+
+ community activities around the game Gee / Ito
+
+<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
 
 
 
