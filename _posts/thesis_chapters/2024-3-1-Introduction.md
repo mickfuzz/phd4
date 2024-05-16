@@ -199,9 +199,9 @@ This avenue offered a positive way to discuss the politics of independent commun
 
 I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources. While the context of secondary schools within which I trained did not suit creative project based approaches, a new role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue this work.
 
-The turn to investigate game creation as a creative media project stemmed a consultation with home educators partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding.
+SHIFT The turn to investigate game creation as a creative media project stemmed a consultation with home educators partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding.
 
-The shift from making web-based media to games made sense given the patch success I had had with web coding pages with school children. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience. Both were grounded in self-expression, participatory culture and I was to find out both could use similar technology. 
+The shift from making web-based media to games made sense given the patch success I had had with web coding pages with school children. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience. Both were grounded in self-expression, participatory culture and I was to find out both could use similar technology.
 
 <!-- To inform this work I returned to Mozilla's web developer resources to discover two step-by-step tutorials outlining how to game making in the browser using a javascript library called Phaser.  -->
 
