@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 1. Introduction
+title: 1. Introduction - What kind of game maker are you?
 ---
 -   [Introduction](#introduction)
     -   ["What kind of Game Maker are
