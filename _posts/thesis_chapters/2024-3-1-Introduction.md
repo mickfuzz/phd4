@@ -9,54 +9,50 @@ layout: post
 categories: chapter
 title: 1. Introduction - What kind of game maker are you?
 ---
--   [Introduction](#introduction)
-    -   ["What kind of Game Maker are
-        you?"](#what-kind-of-game-maker-are-you)
-        -   [A study of the cultural and interpersonal dimensions and
-            evolving tool use of an emerging community of families
-            coding digital games
-            together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
+-   [Introduction - "What kind of Game Maker are
+    you?"](#introduction---what-kind-of-game-maker-are-you)
+    -   [A study of the cultural and interpersonal dimensions and
+        evolving tool use of an emerging community of families coding
+        digital games
+        together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of
         introduction](#starting-thoughts-for-contents-of-introduction)
     -   [Introduction to broad context](#introduction-to-broad-context)
-    -   [Personal context](#personal-context)
-        -   [A response of sorts](#a-response-of-sorts)
+    -   [Personal context and motivation for undertaking this
+        study](#personal-context-and-motivation-for-undertaking-this-study)
+        -   [Contextual details aligning with personal
+            motivations](#contextual-details-aligning-with-personal-motivations)
         -   [Transition COMMENT](#transition-comment)
     -   [Conceptual Context](#conceptual-context)
-        -   [The importance of understanding Projects and socio cultural
+        -   [The utility of understanding projects and socio cultural
             and activist concepts of
-            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
+            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
                 agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-    -   [Context of digital making and culture in informal
-        settings](#context-of-digital-making-and-culture-in-informal-settings)
-        -   [Empowerment agenda of authentic computing aligning with
-            personal
-            motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
-            -   [Authenticity as
-                Empowering](#authenticity-as-empowering)
-            -   [Authentic web technology](#authentic-web-technology)
+    -   [Context of teaching and learning coding via game
+        making](#context-of-teaching-and-learning-coding-via-game-making)
+        -   [Overview and motivations of game making (for
+            learning)](#overview-and-motivations-of-game-making-for-learning)
+        -   [Context of game making for curricular
+            purposes](#context-of-game-making-for-curricular-purposes)
+            -   [Computing as a School Subject in the
+                UK](#computing-as-a-school-subject-in-the-uk)
+        -   [Context of digital making and culture in informal
+            settings](#context-of-digital-making-and-culture-in-informal-settings)
+            -   [Authenticity of tools, practices and relationship with
+                agency](#authenticity-of-tools-practices-and-relationship-with-agency)
         -   [Home digital making and
             culture](#home-digital-making-and-culture)
+            -   [On Retro Gaming](#on-retro-gaming)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Context of game making
-        strategies](#context-of-game-making-strategies)
-        -   [Motivations for learning to code specifically via game
-            making](#motivations-for-learning-to-code-specifically-via-game-making)
-        -   [On Retro Gaming](#on-retro-gaming)
-        -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes)
-    -   [Formal Educational Context](#formal-educational-context)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
         -   [Project Based Learning](#project-based-learning)
             -   [Project Based Learning and
                 Inclusion](#project-based-learning-and-inclusion)
@@ -113,9 +109,8 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Link to next chapter](#link-to-next-chapter)
     -   [Links](#links)
 
-# Introduction
+# Introduction - “What kind of Game Maker are you?”
 
-## “What kind of Game Maker are you?”
 ### A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.
 
 Author Mick Chesterman
@@ -169,7 +164,8 @@ In line educational research which highlights the important of learning contexts
 
 <!-- In 1995, as anyed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
-<!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space as part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
+<!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
+##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space as part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
 
 In 1995, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and more importantly activists. As someone involved with counter culture and political activism, the growth of the internet offered huge potential. I was involved in the resultant linking of activities of disparate political and cultural groups around gatherings international finance institution (IFIs). I found the, so-called, party and protest movement an inspirational site of learning. My involvement with the movement led me to help develop my internet publishing skills aligning myself with a broad network of media and internet activists centred around the Indymedia project [@pickard_united_2006]. On a personal level, my development as a media activist including but not limited to: graphic design; web page creation; computer programming; video editing; audio-visual events tech; and server maintenance was driven with motivation and support provided by people involved in that scene. As time developed, my activist activities aligned with arts techniques, integrating performance art and activist outreach particularly at film screenings. I enjoyed being part of a wide network of activists embracing playful, performance based actions and activism [@klepto_making_2004; @routledge_sensuous_2012].
 
@@ -207,16 +203,40 @@ The shift from making web-based media to games made sense given the patch succes
 
 <!-- I was able to combine my work using the code playground Thimble with the js library Phaser to create an potentially accessible toolset for young learners. -->
 
+
+### Contextual details aligning with personal motivations
+
+Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society. This agenda has parallels with other domains of participatory culture involving music and protest culture that I have been involved in.
+
+<!-- - DIY music and protest event organisation
+- Participatory media making for social and environmental causes
+- Documentation writing using collaborative processes
+- Creative coding -->
+
+In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
+
+However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
+
+<!-- - Hive Manchester and Code Club
+- Coder Dojo
+- Creative coding at Manchester Libraries
+- Speciality training for PGCE and Primary Education programmes
+- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses. -->
+
+
 ### Transition COMMENT
 
 The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
 
 Conversely, changes happen within wider systems, which can push back to reverse the desired changes. My story acts as an example of a the kinds of 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. On a personal level, while my views on the possibilities of new technology are now tempered with guilt and regret associated with not being wary enough of runaway effects of activities, I want to transcend some of the cultural paralysis my experiences have caused.  
 
+
+
+
 ## Conceptual Context
 
 
-### The importance of understanding Projects and socio cultural and activist concepts of Activity
+### The utility of understanding projects and socio cultural and activist concepts of activity
 
 In this section I briefly explain CHAT as a suitable choice to explore this research based around a shared project.
 
@@ -284,61 +304,83 @@ Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @s
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
 
+## Context of teaching and learning coding via game making
 
 
-## Context of digital making and culture in informal settings
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
 
-The context of these communities is important to situate the relevance of this study. These contexts are explored in summary. In the following chapter some of the pedagogies, e.g. tinkering, are explored in more depth.
+### Overview and motivations of game making (for learning)
+
+The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making. In doing so the authours outline motivations for learning to code specifically via game making. Which are in summary:
+
+- for intrinsic pleasure of making games or other products
+- for commercial purposes to join games industry
+- STEM pipeline in more general terms
+- for empowerment of individual and health of society
+
+also
+
+    - From Kafai's review (not directly) draw on
+    - personal
+    - more general / social / 21st C, computational fluency
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
+
+While this book is rightly regarded a  keystone work in this area, Illingworth points out the chapter on cultural elements of game making is not as strong as other aspects focusing mainly on studies of diverse participants rather than sharing culturally focused pedagogies.
 
 
-### Empowerment agenda of authentic computing aligning with personal motivations
+### Context of game making for curricular purposes
 
-Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society.
+The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
 
-This agenda has parallels with other domains of participatory culture that I have been involved in.
+#### Computing as a School Subject in the UK
 
-- DIY music and protest event organisation
-- Participatory media making for social and environmental causes
-- Documentation writing using collaborative processes
-- Creative coding
+The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
-In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
+The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
-However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
 
-- Hive Manchester and Code Club
-- Coder Dojo
-- Creative coding at Manchester Libraries
-- Speciality training for PGCE and Primary Education programmes
-- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses.
+<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+BUT NOT TOO MUCH
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
+<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
+https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
+-->
 
-#### Authenticity as Empowering
+
+### Context of digital making and culture in informal settings
+
+The context of these communities is important to situate the relevance of this study. These contexts are explored in summary.
+
+While key pedagogies used in this area are explored in more depth in chapter two, at times context and pedagogy are not neatly separated. Thus in this section strategies associated with contextual elements are sometimes included.
+
+
+#### Context of authenticity of tools, practices and relationship with agency and empowerment
 
 Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016]. In this introduction I refer making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
 
-I was attracted and received positive feedback from the process of lifting the lid on the specifics of authentic tools computing. The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology.
-
 In additions, the practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
 
+**Authentic web technology**
+
+
+<!-- Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework.  -->
+
+<!-- Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. -->
+
+
+<!-- Aligning with the activities of Nicola Whitton exploring the rules and components of games in a playful way. -->
+
+In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. The motivation was to align to authentic web technology due to my previous experience. The reason for working with code this authentic bears exploration. Characteristics of broader dimensions of authenticity of tools and processes in learning environments are explored in the literature review. A brief summary being: similarity to workplace settings; facilitating activity which serves a need of participants; an ability to showcased resulting work to an audience [@shaffer_thick_1999; @warr_bridging_2020]. While my choice of open source digital tools allowed for a high level of aligning with professional practices, it was also potentially complex in terms of use of tools. In part my motivation for choice of code language (Javascript, Phaser) was driven by desire to align with common workplace practices and to be potentially extensible for future student-led web projects.
+
+**Mozilla - Teach the Web as context and community**
+
+I was attracted and received positive feedback from the process of lifting the lid on the specifics of authentic tools computing. The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology.
 My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
 
-FIND SUPPORT FROM MOZILLA WHITE PAPER - JUSTIFY EFFORT OF JS AS A STARTING LANGUAGE
-
-In additions the process of making a game for peers is authentic for young people.
-
-Aligning with the activities of Nicola Whitton exploring the rules and components of games in a playful way.
-
-Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework. Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals.
-
-In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability.
-
-#### Authentic web technology
-
-The motivation was to align to authentic web technology due to my previous experience. The reason for working with code this authentic bears exploration. Characteristics of broader dimensions of authenticity of tools and processes in learning environments are explored in the literature review. A brief summary being: similarity to workplace settings; facilitating activity which serves a need of participants; an ability to showcased resulting work to an audience [@shaffer_thick_1999; @warr_bridging_2020]. While my choice of open source digital tools allowed for a high level of aligning with professional practices, it was also potentially complex in terms of use of tools. In part my motivation for choice of code language (Javascript, Phaser) was driven by desire to align with common workplace practices and to be potentially extensible for future student-led web projects.
-
-
 ### Home digital making and culture
-
 
 Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
 
@@ -348,13 +390,18 @@ Research exploring home game playing and digital activity uncovers material that
 
 Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
 
-Kafai and Burke's extensive work proposes applying the power of Gee's work around the game playing to game making [@kafai_connected_2016, p. 56].
-
 In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
 
+#### On Retro Gaming
 
+One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
 
-### Context of Home Education and family learning
+What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
+
+Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
+due to the limited capabilities of the hardware and storage space involved.
+
+#### Context of Home Education and family learning
 
 The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
 
@@ -372,65 +419,10 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
 -
 
-## Context of game making strategies
 
-### Motivations for learning to code specifically via game making
-
-Broadly game making and creative coding can he
-
-- for intrinsic pleasure of making games or other products
-- for commercial purposes to join games industry
-- STEM pipeline in more general terms
-- for empowerment of individual and health of society
-
-also
-
-    - From Kafai's review (not directly) draw on
-    - personal
-    - more general / social / 21st C, computational fluency
-    - more general / social / 21st C,
-    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
-
-### On Retro Gaming
-
-One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
-
-What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
-
-Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
-due to the limited capabilities of the hardware and storage space involved. These limits suit the capabilities of the chosen design tool Phaser.js.
-
-### Context of game making for educational purposes
-
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
-
-## Formal Educational Context
-
-### Computing as a School Subject in the UK
-
-The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-
-<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
-A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
-BUT NOT TOO MUCH
-While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
-<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
-https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
--->
-
-
-
-
-
-### Project Based Learning
+### Project Based Learning - as a context?
 
 #### Project Based Learning and Inclusion
-
-
 
 Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
 

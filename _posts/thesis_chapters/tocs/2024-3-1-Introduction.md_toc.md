@@ -1,51 +1,47 @@
--   [Introduction](#introduction)
-    -   ["What kind of Game Maker are
-        you?"](#what-kind-of-game-maker-are-you)
-        -   [A study of the cultural and interpersonal dimensions and
-            evolving tool use of an emerging community of families
-            coding digital games
-            together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
+-   [Introduction - "What kind of Game Maker are
+    you?"](#introduction---what-kind-of-game-maker-are-you)
+    -   [A study of the cultural and interpersonal dimensions and
+        evolving tool use of an emerging community of families coding
+        digital games
+        together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
     -   [Starting thoughts for contents of
         introduction](#starting-thoughts-for-contents-of-introduction)
     -   [Introduction to broad context](#introduction-to-broad-context)
-    -   [Personal context](#personal-context)
-        -   [A response of sorts](#a-response-of-sorts)
+    -   [Personal context and motivation for undertaking this
+        study](#personal-context-and-motivation-for-undertaking-this-study)
+        -   [Contextual details aligning with personal
+            motivations](#contextual-details-aligning-with-personal-motivations)
         -   [Transition COMMENT](#transition-comment)
     -   [Conceptual Context](#conceptual-context)
-        -   [The importance of understanding Projects and socio cultural
+        -   [The utility of understanding projects and socio cultural
             and activist concepts of
-            Activity](#the-importance-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
+            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
                 agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-    -   [Context of digital making and culture in informal
-        settings](#context-of-digital-making-and-culture-in-informal-settings)
-        -   [Empowerment agenda of authentic computing aligning with
-            personal
-            motivations](#empowerment-agenda-of-authentic-computing-aligning-with-personal-motivations)
-            -   [Authenticity as
-                Empowering](#authenticity-as-empowering)
-            -   [Authentic web technology](#authentic-web-technology)
+    -   [Context of teaching and learning coding via game
+        making](#context-of-teaching-and-learning-coding-via-game-making)
+        -   [Overview and motivations of game making (for
+            learning)](#overview-and-motivations-of-game-making-for-learning)
+        -   [Context of game making for curricular
+            purposes](#context-of-game-making-for-curricular-purposes)
+            -   [Computing as a School Subject in the
+                UK](#computing-as-a-school-subject-in-the-uk)
+        -   [Context of digital making and culture in informal
+            settings](#context-of-digital-making-and-culture-in-informal-settings)
+            -   [Authenticity of tools, practices and relationship with
+                agency](#authenticity-of-tools-practices-and-relationship-with-agency)
         -   [Home digital making and
             culture](#home-digital-making-and-culture)
+            -   [On Retro Gaming](#on-retro-gaming)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Context of game making
-        strategies](#context-of-game-making-strategies)
-        -   [Motivations for learning to code specifically via game
-            making](#motivations-for-learning-to-code-specifically-via-game-making)
-        -   [On Retro Gaming](#on-retro-gaming)
-        -   [Context of game making for educational
-            purposes](#context-of-game-making-for-educational-purposes)
-    -   [Formal Educational Context](#formal-educational-context)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
         -   [Project Based Learning](#project-based-learning)
             -   [Project Based Learning and
                 Inclusion](#project-based-learning-and-inclusion)

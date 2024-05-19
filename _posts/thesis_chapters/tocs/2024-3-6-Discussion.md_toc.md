@@ -78,6 +78,7 @@
             practices](#nurturing-agency-by-creating-space-for-emergent-practices)
         -   [The freedoms and restrictions of
             playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+        -   [Affordances and anchors](#affordances-and-anchors)
         -   [Extending the metaphor - anchoring in sheltered
             harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
             -   [Summary on metaphors around creating
