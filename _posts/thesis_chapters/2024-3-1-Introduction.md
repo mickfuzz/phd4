@@ -18,14 +18,14 @@ title: 1. Introduction - What kind of game maker are you?
     -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
-    -   [Starting thoughts for contents of
-        introduction](#starting-thoughts-for-contents-of-introduction)
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Contextual details aligning with personal
             motivations](#contextual-details-aligning-with-personal-motivations)
-        -   [Transition COMMENT](#transition-comment)
+        -   [Revisiting my overall aim in relation to the process of
+            this chapter and
+            RQs\*\*](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
     -   [Conceptual Context](#conceptual-context)
         -   [The utility of understanding projects and socio cultural
             and activist concepts of
@@ -46,22 +46,29 @@ title: 1. Introduction - What kind of game maker are you?
                 UK](#computing-as-a-school-subject-in-the-uk)
         -   [Context of digital making and culture in informal
             settings](#context-of-digital-making-and-culture-in-informal-settings)
-            -   [Authenticity of tools, practices and relationship with
-                agency](#authenticity-of-tools-practices-and-relationship-with-agency)
+            -   [Context of authenticity of tools, practices and
+                relationship with agency and
+                empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)
+            -   [Code playgrounds](#code-playgrounds)
         -   [Home digital making and
             culture](#home-digital-making-and-culture)
             -   [On Retro Gaming](#on-retro-gaming)
-        -   [Context of Home Education and family
-            learning](#context-of-home-education-and-family-learning)
-        -   [Project Based Learning](#project-based-learning)
-            -   [Project Based Learning and
-                Inclusion](#project-based-learning-and-inclusion)
+            -   [Context of Home Education and family
+                learning](#context-of-home-education-and-family-learning)
+    -   [Context of research outlining game making strategies for
+        novices](#context-of-research-outlining-game-making-strategies-for-novices)
+        -   [The context of Project Based
+            Learning](#the-context-of-project-based-learning)
+            -   [Defining PBL for this
+                studying](#defining-pbl-for-this-studying)
+            -   [Project Based Learning as an inclusive
+                pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
             -   [Complications with Project Based
                 Learning](#complications-with-project-based-learning)
-    -   [Relevant case studies / research in digital making context -
-        Family Making, Ito / Gee etc, 5th
-        Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
-        -   [5th Dimension Summary](#th-dimension-summary)
+        -   [Relevant case studies / research in digital making
+            context - Family Making, Ito / Gee etc, 5th
+            Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+            -   [5th Dimension Summary](#th-dimension-summary)
             -   [Digital Braves as a small MoE / 5D
                 project](#digital-braves-as-a-small-moe-5d-project)
         -   [Studies with pedagogies addressing barriers to do with
@@ -71,15 +78,6 @@ title: 1. Introduction - What kind of game maker are you?
             kits](#specialist-coding-tools-and-computational-kits)
         -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
             ?](#family-making---what-in-particular-to-explore)
-        -   [Mozilla, Webmaking and code
-            playgrounds](#mozilla-webmaking-and-code-playgrounds)
-            -   [Webmaking](#webmaking)
-            -   [Code playgrounds](#code-playgrounds)
-            -   [Other online asset creation
-                tools](#other-online-asset-creation-tools)
-            -   [Phaser.js](#phaser.js)
-            -   [Summary of authenticity- COMMENT OR
-                MOVE](#summary-of-authenticity--comment-or-move)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -135,7 +133,7 @@ to come - for now see outline of thesis at the end of chapter
 - How can/do learners build agency in an evolving community of game makers?
 - How can the experience of fostering community focused digital game making practices inform wider practice in this area? -->
 
-## Starting thoughts for contents of introduction
+<!-- ## Starting thoughts for contents of introduction
 
 - intro to the intro.
 - Personal introduction, DiY media and music,
@@ -145,7 +143,7 @@ to come - for now see outline of thesis at the end of chapter
 - Formal, Informal and non-formal spaces
   - increasing role in professional spaces to keep abreast of new changes in practices, sectors and technology (cf conferences / hackathons)
 
--  Introduction to RQs, outline of thesis etc
+-  Introduction to RQs, outline of thesis etc -->
 
 
 ## Introduction to broad context
@@ -224,7 +222,12 @@ However, a new position as a project work for EdLab allowed me the ability to ex
 - Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses. -->
 
 
-### Transition COMMENT
+
+
+
+
+### Revisiting my overall aim in relation to the process of this chapter and RQs**
+
 
 The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
 
@@ -380,6 +383,46 @@ In the early selection of tools the use of a framework based on javascript and w
 I was attracted and received positive feedback from the process of lifting the lid on the specifics of authentic tools computing. The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology.
 My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
 
+
+A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
+
+ <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
+- web literacy - narrower
+- webmaker - and more specific affordances of key web based coding and exploring tools -->
+
+I contributed to the Mozilla teach the web programme by writing a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].  
+
+#### Code playgrounds
+
+Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
+
+MOVE TO LR.
+The process of running web code can be complicated by setting up a server environment locally to test and then finding a live webserver and the complexity of transferring files to the server via FTP/SSH processes. . Code playground allow users to circumvent such problems. While originally designed more for problem solving, a service more recent code playgrounds provide is to act as a more permanent host for web projects.  
+
+In their brand style and selected  picks of projects, many code playgrounds celebrate and encourage a playful spirit of creativity and sharing.
+
+<!-- NOTE  - I loved FTP and feel nostalgic? perhaps rfer back to that in conclusion? -->
+
+<!-- DROPPED -  There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter. -->
+
+<!-- #### Other online asset creation tools
+
+There are other ways to create assets online. Piskel is a pixel graphics editor, audio creation of assets. These tools are provided by a mix of enthusiast coders and communities of game makers. ### Mozilla, Webmaking and code playgrounds
+
+#### Phaser.js
+
+While the Webmaker program was discontinued and the end of a funding cycle, ongoing core work of Mozilla to provide resources for webdevelopers. One strand of this is game development using javascript  https://developer.mozilla.org/en-US/docs/Games
+
+Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
+
+#### Summary of authenticity- COMMENT OR MOVE
+
+Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike. -->
+
+
+
+
+
 ### Home digital making and culture
 
 Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
@@ -417,17 +460,24 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 
 - Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
--
 
 
-### Project Based Learning - as a context?
-
-#### Project Based Learning and Inclusion
-
-Contemporary understandings of inclusion go beyond SEND (special educational needs and disabilities) issues to include cultural exclusion which may include dimensions of race, gender or other cultural factors. Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital. One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
+## Context of research outlining game making strategies for novices
 
 
-The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017]. To be inclusive schools and teachers must identify both traditional SEND issues and wider cultural barriers to participation in computing classrooms and help student overcome them. Beyond the important technical accessibility tools and assistive learning technologies - for example text in different sizes, screen readers - a diversity for inclusive teaching strategies are also needed.
+### The context of Project Based Learning
+
+The educational strategy of learning how to code games
+
+#### Defining PBL for this studying
+
+In broad terms, PBL is an educational strategy which x,y and z
+
+#### Project Based Learning as an inclusive pedagogy
+
+The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of race, culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017].  Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
+
+One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
 
 
 #### Complications with Project Based Learning
@@ -436,10 +486,13 @@ PBL should reconcile some of the tension and challenges outlined above in learni
 
 Resnick, advocate for Scratch software, in particular is vocal in promotion of PBL approaches in his projects, play and passion - lifelong kindergarten pedagogy.
 
-However there are addition al challenges.
+However there are addition al challenges of delivering PBL
 
-Lack of frameworks, expertise, confidence tc.
-Explored in more depth in lit review.
+Lack of frameworks, expertise, confidence etc.
+
+These challenges are often compounded by contextual factors of formal education which challenge creative approaches in general. These include challeges of exam pressure, time factors.
+
+Specific techniques of PBL and digital making are explored in more depth in chapter two and example of practice are also present in the following case studies.
 
 
 <!-- The next section deals with inclusive
@@ -448,36 +501,17 @@ Web-based or software activities include game making, meme creation, hobby websi
 
 <!-- Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report lacking the knowledge to effectively teach children with SEND issues.  -->
 
-One way to address SEND issues is to use differentiation to adapt a the standard lesson plan for learners needing special support. However this view of a standard, optimal learner pathway is not supported by recent research in neurodiversity, which suggests there is no one optimal way for students to learn. Inclusive pedagogies take a different approach to differentiation which places more power in the hands of learners to choose the path that is most appropriate for them. All students are given a greater choice of materials and activities from the start suiting the varied needs of all students. This has the benefit of removing stigmatisation of some learners having to undertake work that seen to be created for _low-achieving_ students. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
-
-
-Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
-
-UDL places great value on the personal relevance, choice and authenticity of learning experiences. As a way to encourage engagement UDL suggests setting choices of concrete learning goals that are relevant to the learners. This learner-led approach is very different to a traditional-instruction based, directive approach to teaching. The diverse learning pathways offered can be unfamiliar for both teachers and for students. The UDL guidelines recognise this and provide information to support teachers to implement them. As educators, we may need to build our own abilities and familiarity with learner-led approaches as well as growing the autonomy of our students.  
-
-<!-- Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. -->
-<!-- ### Case Study - Exploring Universal Design for Learning in Context -->
-One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014].
-
-
-The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
-
-When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
 
 
 
-
-
-
-
-## Relevant case studies / research  in digital making context -  Family Making, Ito / Gee etc, 5th Dimension
+### Relevant case studies / research  in digital making context -  Family Making, Ito / Gee etc, 5th Dimension
 
 Outline case studies of similar work and identify gaps.
 
 Gap in particular exploring support for face-to-face informal communities.
 
 
-### 5th Dimension Summary
+#### 5th Dimension Summary
 
 Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimesion project
 
@@ -571,48 +605,6 @@ I extend this in this study, how can the learning design contribute?
 It is of value to explore the community aspect...
 
 In particular st
-
-
-### Mozilla, Webmaking and code playgrounds
-
-#### Webmaking
-
-A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
-
- <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
-- web literacy - narrower
-- webmaker - and more specific affordances of key web based coding and exploring tools -->
-
-Javascript is an authentic language, core to modern web pages and applications.  
-
-I contributed to the Mozilla teach the web programme by writing a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].  
-
-#### Code playgrounds
-
-Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
-
-MOVE TO LR.
-The process of running web code can be complicated by setting up a server environment locally to test and then finding a live webserver and the complexity of transferring files to the server via FTP/SSH processes. . Code playground allow users to circumvent such problems. While originally designed more for problem solving, a service more recent code playgrounds provide is to act as a more permanent host for web projects.  
-
-In their brand style and selected  picks of projects, many code playgrounds celebrate and encourage a playful spirit of creativity and sharing.
-
-<!-- NOTE  - I loved FTP and feel nostalgic? perhaps rfer back to that in conclusion? -->
-
-<!-- DROPPED -  There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter. -->
-
-#### Other online asset creation tools
-
-There are other ways to create assets online. Piskel is a pixel graphics editor, audio creation of assets. These tools are provided by a mix of enthusiast coders and communites of game makers. ### Mozilla, Webmaking and code playgrounds
-
-#### Phaser.js
-
-While the Webmaker program was discontinued and the end of a funding cycle, ongoing core work of Mozilla to provide resources for webdevelopers. One strand of this is game development using javascript  https://developer.mozilla.org/en-US/docs/Games
-
-Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
-
-#### Summary of authenticity- COMMENT OR MOVE
-
-Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike.
 
 
 

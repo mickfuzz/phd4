@@ -499,6 +499,29 @@ In the domain of computer programming,
 
 The next section deals with pedagogical approaches that are rooted in professional or non-educational settings.  
 
+#### Issues of Inclusion and PBL addressed through UDL principles
+
+One way to address SEND issues is to use differentiation to adapt a the standard lesson plan for learners needing special support. However this view of a standard, optimal learner pathway is not supported by recent research in neurodiversity, which suggests there is no one optimal way for students to learn. Inclusive pedagogies take a different approach to differentiation which places more power in the hands of learners to choose the path that is most appropriate for them. All students are given a greater choice of materials and activities from the start suiting the varied needs of all students. This has the benefit of removing stigmatisation of some learners having to undertake work that seen to be created for _low-achieving_ students. These principles - among others - are presented in a framework called Universal Design for Learning (UDL).
+
+
+Rather than designing separate activities and support for learners with different educational needs in the classroom - often labelled accommodations for disability - UDL facilitates learners to choose a learning pathway that suits their individual abilities and learning strategies.
+
+UDL places great value on the personal relevance, choice and authenticity of learning experiences. As a way to encourage engagement UDL suggests setting choices of concrete learning goals that are relevant to the learners. This learner-led approach is very different to a traditional-instruction based, directive approach to teaching. The diverse learning pathways offered can be unfamiliar for both teachers and for students. The UDL guidelines recognise this and provide information to support teachers to implement them. As educators, we may need to build our own abilities and familiarity with learner-led approaches as well as growing the autonomy of our students.  
+
+<!-- Students can then be supported in the discovery and recording of the underlying concepts after undertaking activities. -->
+<!-- ### Case Study - Exploring Universal Design for Learning in Context -->
+One area of UDL that teachers can implement straightforwardly is to represent concepts in the classroom in a diversity of ways. In a related study, researchers Cook and colleagues [@cook_using_2016] explored the alignment of UDL with another framework, CRA, which consists of a three stage model to support learners to develop concepts [@fyfe_concreteness_2014].
+
+
+The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
+
+When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
+
+
+
+
+
+
 
 ## Pedagogical resources in the form of professional practices and frameworks
 

@@ -7,14 +7,14 @@
     -   [Abstract](#abstract)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
-    -   [Starting thoughts for contents of
-        introduction](#starting-thoughts-for-contents-of-introduction)
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Contextual details aligning with personal
             motivations](#contextual-details-aligning-with-personal-motivations)
-        -   [Transition COMMENT](#transition-comment)
+        -   [Revisiting my overall aim in relation to the process of
+            this chapter and
+            RQs\*\*](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
     -   [Conceptual Context](#conceptual-context)
         -   [The utility of understanding projects and socio cultural
             and activist concepts of
@@ -35,22 +35,29 @@
                 UK](#computing-as-a-school-subject-in-the-uk)
         -   [Context of digital making and culture in informal
             settings](#context-of-digital-making-and-culture-in-informal-settings)
-            -   [Authenticity of tools, practices and relationship with
-                agency](#authenticity-of-tools-practices-and-relationship-with-agency)
+            -   [Context of authenticity of tools, practices and
+                relationship with agency and
+                empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)
+            -   [Code playgrounds](#code-playgrounds)
         -   [Home digital making and
             culture](#home-digital-making-and-culture)
             -   [On Retro Gaming](#on-retro-gaming)
-        -   [Context of Home Education and family
-            learning](#context-of-home-education-and-family-learning)
-        -   [Project Based Learning](#project-based-learning)
-            -   [Project Based Learning and
-                Inclusion](#project-based-learning-and-inclusion)
+            -   [Context of Home Education and family
+                learning](#context-of-home-education-and-family-learning)
+    -   [Context of research outlining game making strategies for
+        novices](#context-of-research-outlining-game-making-strategies-for-novices)
+        -   [The context of Project Based
+            Learning](#the-context-of-project-based-learning)
+            -   [Defining PBL for this
+                studying](#defining-pbl-for-this-studying)
+            -   [Project Based Learning as an inclusive
+                pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
             -   [Complications with Project Based
                 Learning](#complications-with-project-based-learning)
-    -   [Relevant case studies / research in digital making context -
-        Family Making, Ito / Gee etc, 5th
-        Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
-        -   [5th Dimension Summary](#th-dimension-summary)
+        -   [Relevant case studies / research in digital making
+            context - Family Making, Ito / Gee etc, 5th
+            Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
+            -   [5th Dimension Summary](#th-dimension-summary)
             -   [Digital Braves as a small MoE / 5D
                 project](#digital-braves-as-a-small-moe-5d-project)
         -   [Studies with pedagogies addressing barriers to do with
@@ -60,15 +67,6 @@
             kits](#specialist-coding-tools-and-computational-kits)
         -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
             ?](#family-making---what-in-particular-to-explore)
-        -   [Mozilla, Webmaking and code
-            playgrounds](#mozilla-webmaking-and-code-playgrounds)
-            -   [Webmaking](#webmaking)
-            -   [Code playgrounds](#code-playgrounds)
-            -   [Other online asset creation
-                tools](#other-online-asset-creation-tools)
-            -   [Phaser.js](#phaser.js)
-            -   [Summary of authenticity- COMMENT OR
-                MOVE](#summary-of-authenticity--comment-or-move)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)

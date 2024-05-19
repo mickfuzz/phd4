@@ -45,6 +45,8 @@
                 Learning](#game-making-and-project-problem-based-learning)
             -   [PBL and Authenticity in the domain of teaching
                 programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
+            -   [Issues of Inclusion and PBL addressed through UDL
+                principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
     -   [Pedagogical resources in the form of professional practices and
         frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via
