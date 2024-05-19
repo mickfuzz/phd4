@@ -329,7 +329,7 @@ also
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
 
-While this book is rightly regarded a  keystone work in this area, Illingworth points out the chapter on cultural elements of game making is not as strong as other aspects focusing mainly on studies of diverse participants rather than sharing culturally focused pedagogies.
+While this book is rightly regarded a  keystone work in this area the coverage of the cultural elements of game making is not as strong as other aspects focusing mainly on studies of diverse participants rather than sharing culturally focused pedagogies.
 
 
 ### Context of game making for curricular purposes
@@ -464,14 +464,21 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 
 ## Context of research outlining game making strategies for novices
 
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
 
-### The context of Project Based Learning
+In the following sections, I outline PBL as a key strategy, share general findings of studies related to race, gender and other cultural factors, and then address game making strategies in context using two key case studies, a process which is followed up in chapter two.
 
-The educational strategy of learning how to code games
+### The context of Project Based Learning (PBL)
+
+The educational strategy of learning how to code games lends itself to a project based learning (PBL) approach. The following section explores common elements of PBL and summarises links with game making approaches and the legacy of game making studies.
 
 #### Defining PBL for this studying
 
 In broad terms, PBL is an educational strategy which x,y and z
+
+For game making the following aspects are particularly relevant: authenticity of audience, student choice and voice, etc
+
+It is also of value to explore PBL as an inclusive pedagogy - WHY?
 
 #### Project Based Learning as an inclusive pedagogy
 
@@ -504,20 +511,6 @@ Web-based or software activities include game making, meme creation, hobby websi
 
 
 
-### Relevant case studies / research  in digital making context -  Family Making, Ito / Gee etc, 5th Dimension
-
-Outline case studies of similar work and identify gaps.
-
-Gap in particular exploring support for face-to-face informal communities.
-
-
-#### 5th Dimension Summary
-
-Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimesion project
-
-#### Digital Braves as a small MoE / 5D project
-
-Insert a summary of Digital Braves - link to republication version.  
 
 ### Studies with pedagogies addressing barriers to do with identity and computer cultures
 
@@ -575,26 +568,16 @@ Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_lear
 Shift to other tactics like Family Connected Learning Roque.
 
 
+### 5th Dimension Case Study
 
-### Specialist coding tools and computational kits
-
-There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
-
-This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
-
-Scratch and GSM merit particular examination as mini-case studies. The  
-
-- Scratch and community element.
-- Remix as a feature: [@amanullah_evaluating_2019]
-- Online log in
-- library of assets to speed up creation
-- In built asset authoring tools.
-
-Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interst to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
+Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimesion project
 
 
 
-NOTE - referenced in design chapter - the alignment with the use of code playground and template.
+### Digital Braves as a small MoE / 5D project
+
+Insert a summary of Digital Braves - link to republication version.  
+
 
 ### Family Making - WHAT IN PARTICULAR TO EXPLORE ?
 
@@ -639,6 +622,29 @@ More literature which examines the complexity of language and development enviro
 Complexity of syntax and problem of leading with syntax [@gomes2007learning]
 
 Issues of needing levels of abstraction in learning programming [@gomes2007learning].
+
+
+*Specialist coding tools and computational kits*
+
+There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
+
+This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
+
+Scratch and GSM merit particular examination as mini-case studies. The  
+
+- Scratch and community element.
+- Remix as a feature: [@amanullah_evaluating_2019]
+- Online log in
+- library of assets to speed up creation
+- In built asset authoring tools.
+
+Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interst to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
+
+
+
+NOTE - referenced in design chapter - the alignment with the use of code playground and template.
+
+
 
 #### Barrier: Paucity on research on designing for face to face learning communities of novice game makers - MOVE?
 
