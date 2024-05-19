@@ -512,7 +512,7 @@ Web-based or software activities include game making, meme creation, hobby websi
 
 
 
-### Studies with pedagogies addressing barriers to do with identity and computer cultures
+### Studies informing cultural aspects of game making
 
 **Studies exploring identity and barriers to participation**
 
@@ -570,25 +570,23 @@ Shift to other tactics like Family Connected Learning Roque.
 
 ### 5th Dimension Case Study
 
-Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimesion project
+Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
 
 
+### Creative Family Learning - Roque
+
+Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+
+
+It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
+
+The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
+
+I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
 
 ### Digital Braves as a small MoE / 5D project
 
 Insert a summary of Digital Braves - link to republication version.  
-
-
-### Family Making - WHAT IN PARTICULAR TO EXPLORE ?
-
-Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
-I extend this in this study, how can the learning design contribute?
-
-
-It is of value to explore the community aspect...
-
-In particular st
-
 
 
 ## Review of relevant barriers to participating in coding practices emerging in the literature
