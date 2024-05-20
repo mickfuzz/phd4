@@ -502,6 +502,9 @@ These challenges are often compounded by contextual factors of formal education 
 Specific techniques of PBL and digital making are explored in more depth in chapter two and example of practice are also present in the following case studies.
 
 
+
+
+
 <!-- The next section deals with inclusive
 Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
  pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
@@ -575,6 +578,13 @@ Insert a summary of context, motivation and some of the processes to address cul
 
 ### Creative Family Learning - Roque
 
+
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
+
+
 Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
 
 
@@ -628,6 +638,13 @@ There may software and hardware kits aimed at novice coders and in particular yo
 
 This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
 
+Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
+
+ - Block coding vs text coding, syntax
+ - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
+ - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
+
+
 Scratch and GSM merit particular examination as mini-case studies. The  
 
 - Scratch and community element.
@@ -638,33 +655,11 @@ Scratch and GSM merit particular examination as mini-case studies. The
 
 Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interst to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
 
-
-
 NOTE - referenced in design chapter - the alignment with the use of code playground and template.
 
 
 
-#### Barrier: Paucity on research on designing for face to face learning communities of novice game makers - MOVE?
 
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
-
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing.
-
-Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).
-
-However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
-
-Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.  
-
-Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
-
-### Barrier - limited leaner choice in process
-
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
-
-  "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
-
-Quote from [@franklin_analysis_2020]
 
 
 ### Cultural / Identity barriers to participation in ...
@@ -690,18 +685,7 @@ When faced with choice learners are sometimes unsure how to start creating.
 Design scaffolds have been created to support this. -->
 
 
-### Barriers - Unsuitable technical tools and support documentation
 
-The approach of computer coding languages has changed and improved. Those dedicated for new learners.
-Lgo,
-
-Over generations of
-
-Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
-
- - Block coding vs text coding, syntax
- - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
- - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
 
 ### Barrier - unfamiliarity with support practices
 
@@ -739,13 +723,24 @@ Thoughts:
   - similar contexts exist
   - underlying treads may emerge which may transcend context  
 
+#### An area of tension to address - limited leaner choice in process if driven by curriculum.
+
+Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
+
+    "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
+
+Quote from [@franklin_analysis_2020]
+
+
 ### Gaps in existing research / Contribution to knowledge of this thesis
+
+
+Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
 
 **Gaps in research**
 - Kafai's review on game making research is thin in cultural terms.
 - Not many addressing the explicit intention to create a community.  
 - Game design patterns emerged in this research as fruitful and is under researched
-
 
 
 **Other thoughts on thesis**
