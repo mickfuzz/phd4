@@ -10,13 +10,14 @@ categories: chapter
 title: 2. Literature Review
 ---
 -   [Literature Review](#literature-review)
-    -   [Research Questions - October
-        2023](#research-questions---october-2023)
+    -   [Research Questions - April
+        2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Literature Review
         Introduction](#literature-review-introduction)
         -   [Structuring the literature
             review](#structuring-the-literature-review)
+        -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Pedagogies from coding for learning community - K12
         focused](#pedagogies-from-coding-for-learning-community---k12-focused)
         -   [Also See this writing and
@@ -25,31 +26,38 @@ title: 2. Literature Review
             Thinking](#definitions-of-computational-thinking)
             -   [Can CT be used as an pedagogical
                 framework](#can-ct-be-used-as-an-pedagogical-framework)
+        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Exploring the territory between instruction-based tutorials
             and unguided
             approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
+    -   [What pedagogies support learner
+        agency?](#what-pedagogies-support-learner-agency)
         -   [Use Modify Create](#use-modify-create)
         -   [PRIMM](#primm)
-        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
-        -   [Pair programming & social/collaborative
-            coding](#pair-programming-socialcollaborative-coding)
-    -   [Pedagogies for informal
-        settings](#pedagogies-for-informal-seINSttings)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
-        -   [Microworlds as an embodiment of constructionist design
-            principles](#microworlds-as-an-embodiment-of-constructionist-design-principles)
-            -   [Constructionist design
-                principles](#constructionist-design-principles)
-            -   [Microworlds & constructionist
-                concepts](#microworlds-constructionist-concepts)
+            -   [Microworlds as an embodiment of UMC and other
+                constructionist design
+                principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
+        -   [Funds of knowledge and third
+            space](#funds-of-knowledge-and-third-space)
+            -   [Studies using funds of knowledge within their
+                pedagogies](#studies-using-funds-of-knowledge-within-their-pedagogies)
+            -   [Third spaces and the context of this
+                study](#third-spaces-and-the-context-of-this-study)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+        -   [Pair programming & social/collaborative
+            coding](#pair-programming-socialcollaborative-coding)
+        -   [Digital informal / participatory culture and
+            Learning](#digital-informal-participatory-culture-and-learning)
         -   [Project based learning PBL](#project-based-learning-pbl)
             -   [Game making and Project / Problem Based
                 Learning](#game-making-and-project-problem-based-learning)
             -   [PBL and Authenticity in the domain of teaching
                 programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
+            -   [Issues of Inclusion and PBL addressed through UDL
+                principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
     -   [Pedagogical resources in the form of professional practices and
         frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via

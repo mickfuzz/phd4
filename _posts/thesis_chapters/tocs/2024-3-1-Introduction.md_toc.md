@@ -46,48 +46,38 @@
                 learning](#context-of-home-education-and-family-learning)
     -   [Context of research outlining game making strategies for
         novices](#context-of-research-outlining-game-making-strategies-for-novices)
-        -   [The context of Project Based
-            Learning](#the-context-of-project-based-learning)
+        -   [The context of Project Based Learning
+            (PBL)](#the-context-of-project-based-learning-pbl)
             -   [Defining PBL for this
                 studying](#defining-pbl-for-this-studying)
             -   [Project Based Learning as an inclusive
                 pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
             -   [Complications with Project Based
                 Learning](#complications-with-project-based-learning)
-        -   [Relevant case studies / research in digital making
-            context - Family Making, Ito / Gee etc, 5th
-            Dimension](#relevant-case-studies-research-in-digital-making-context---family-making-ito-gee-etc-5th-dimension)
-            -   [5th Dimension Summary](#th-dimension-summary)
-            -   [Digital Braves as a small MoE / 5D
-                project](#digital-braves-as-a-small-moe-5d-project)
-        -   [Studies with pedagogies addressing barriers to do with
-            identity and computer
-            cultures](#studies-with-pedagogies-addressing-barriers-to-do-with-identity-and-computer-cultures)
-        -   [Specialist coding tools and computational
-            kits](#specialist-coding-tools-and-computational-kits)
-        -   [Family Making - WHAT IN PARTICULAR TO EXPLORE
-            ?](#family-making---what-in-particular-to-explore)
+        -   [Studies informing cultural aspects of game
+            making](#studies-informing-cultural-aspects-of-game-making)
+        -   [5th Dimension Case Study](#th-dimension-case-study)
+        -   [Creative Family Learning -
+            Roque](#creative-family-learning---roque)
+        -   [Digital Braves as a small MoE / 5D
+            project](#digital-braves-as-a-small-moe-5d-project)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
         -   [Barrier: Difficulties in learning to
             program](#barrier-difficulties-in-learning-to-program)
-        -   [Barrier: Paucity on research on designing for face to face
-            learning communities of novice game makers -
-            MOVE?](#barrier-paucity-on-research-on-designing-for-face-to-face-learning-communities-of-novice-game-makers---move)
-        -   [Barrier - limited leaner choice in
-            process](#barrier---limited-leaner-choice-in-process)
         -   [Cultural / Identity barriers to participation in
             ...](#cultural-identity-barriers-to-participation-in)
             -   [Barrier - Identity and computer
                 cultures](#barrier---identity-and-computer-cultures)
-        -   [Barriers - Unsuitable technical tools and support
-            documentation](#barriers---unsuitable-technical-tools-and-support-documentation)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
     -   [Summary of the thesis motivation and
         structure](#summary-of-the-thesis-motivation-and-structure)
         -   [Recap of motivation](#recap-of-motivation)
+            -   [An area of tension to address - limited leaner choice
+                in process if driven by
+                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
