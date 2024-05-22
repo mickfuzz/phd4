@@ -153,8 +153,6 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 3. How can learners build agency in an evolving community of game makers?
 
 
-
-
 <!-- ### Coding based on chapter 4 -->
 
 <!-- NOTE  I would say no - too complex -->
@@ -302,20 +300,14 @@ Call back to PRIMM and Waite Sentence's work here -->
 
 ### Comparing characteristics of DBR, expansive learning and formative interventions
 
+**This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
 
-### Analysis of CHAT / DBR interventions over time
+#### The guiding principles of DBR and alignment with CHAT
 
-This section addresses concepts common to DBR, and early inteventions of CHAT.
 
-While this is a contested topic, here I do not aim or a full analysis rather a working definition suitable for this study.
+The definition of DBR is evolving. Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
 
-However, to explore tensions in a nutshell ....
-
-Overall process DBR or CHAT or formative interventions - or expansive learning
-
-Returning to the varied form of DBR / CHAT / Formative , I need to pick a terminology name.
-
-Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
+The broad alignment with CHAT ethos and processes has been explored, including in special editions of journals. In one such edition, Penuel [-@penuel_emerging_2014] proposes the discussion of the term formative interventions. It is valid within CHAT circles and
 
 ### Critique of DBR from CHAT researchers
 
