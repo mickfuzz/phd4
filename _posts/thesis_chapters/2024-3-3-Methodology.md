@@ -221,6 +221,17 @@ Move summary of Activity, actions, operation (as per Barab here), link to GDP as
 The concept of activity as a primary unit for analysis to research community activity was outlined.
 
 
+
+#### ON GERM CELL AND EXPANSIVE LEARNING MOVE
+MAYBE MOVE SOMEWHERE ELSE? INTRODUCING A DISCUSSION LATER?
+
+The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
+
+Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
+From  [@engestrom_design_2011]
+
+This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
+
 ### Analysis of activity system through conflicts and contradictions between elements
 
 
@@ -307,19 +318,20 @@ Call back to PRIMM and Waite Sentence's work here -->
 
 The definition of DBR is evolving. Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
 
-The broad alignment with CHAT ethos and processes has been explored, including in special editions of journals. In one such edition, Penuel [-@penuel_emerging_2014] proposes the discussion of the term formative interventions. It is valid within CHAT circles and
+There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
 
-### Critique of DBR from CHAT researchers
+One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
 
-Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR.
+One of Engestrom's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
-A principle of design-based research is that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this varies not a key part of all definitions [@easterday_design-based_2014].
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
 
-For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
 
-Engestrom [@engestrom_learning_2009] proposes a more rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
+<!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
 <!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+####  The additions / adaptations of the CHAT community to DBR
 
 Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work [@engestrom_design_2011]
 
@@ -331,24 +343,21 @@ Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include
 
 Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
-Work on agency in change labs and more wider concepts of formative interventions are important to this study.
+#### Using the term formative interventions
 
-  The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
+The broad alignment with CHAT ethos and processes has been explored, including in special editions of journals. In one such edition, Penuel [-@penuel_emerging_2014] proposes the discussion of the term formative interventions.
 
-  Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
+I adopt this term to describe the methodology of this rsearch. It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.   
 
-From  [@engestrom_design_2011]
+<!-- Work on agency in change labs and more wider concepts of formative interventions are important to this study. -->
 
-This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
 
-When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process.
 
-How this maps onto a new activity in informal setting with novice learners is requires some clarification.
-
-There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process.
-
-Other areas are less aligned with existing models propsed by Engeestrom, CL, etc.
-The specific drive for participants to identify new tools,
+<!--
+There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process. -->
+<!--
+Other areas are less aligned with existing models proposed by Engeestrom, CL, etc.
+The specific drive for participants to identify new tools, -->
 
 <!-- Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment. -->
 
@@ -363,9 +372,12 @@ In the last decade, learning scientists, psychologists, and education researcher
 
 
 
-#### Exploring specific techniques of formative interventions
+#### Identifying specific techniques of formative interventions suitable to this study
 
-DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
+MAKE MORE SPECIFIC TO THIS INTERVENTION?
+FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
+
+When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process. How this maps onto a new activity in informal setting with novice learners is requires some clarification.
 
 One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
 EXPAND THIS WITH EXAMPLES?
