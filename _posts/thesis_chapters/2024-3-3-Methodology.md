@@ -377,10 +377,7 @@ In the last decade, learning scientists, psychologists, and education researcher
 MAKE MORE SPECIFIC TO THIS INTERVENTION?
 FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
 
-When interogating the literature on expansive learning there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process. How this maps onto a new activity in informal setting with novice learners is requires some clarification.
 
-One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
-EXPAND THIS WITH EXAMPLES?
 
 As the game making activity for participants is novel there are few if any established community or working processes. Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants.
 
@@ -389,11 +386,19 @@ LINK THE CONCEPTS / PROCESS HERE.
 
 For example, in and educational settings INSERT QUICK CASE STUDY
 
-NOTE - IF USING PRACTICE THEN EXPLAIN IT IN REFERENCE TO AT - OPERAION / ACTION ETC
+When interrogating the literature on formative there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process. How this maps onto a new activity in informal setting with novice learners is requires some clarification.
+
+The next section explore techniques to see cultural genesis with concepts of
+
+<!--
+DROP CONTENT ON CHANGE LAB
+
+One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+EXPAND THIS WITH EXAMPLES?
 
 I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
 
-In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013].
+In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013]. -->
 
  REWRITE - EXPLAIN AND EXPLORE SECONDARY STIMULI
 
@@ -445,7 +450,7 @@ Look for tensions in ATs - and how learners overcome barriers or blockages, is a
 
 
 
-### Creating ideocultures as designed systems
+### Creating ideocultures as designed systems (ADD THIRD SPACE HERE)
 
 From Cole.
 
