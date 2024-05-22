@@ -575,6 +575,13 @@ Shift to other tactics like Family Connected Learning Roque.
 
 Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
 
+A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
+
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
+
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
+
+This technique emerged in this study as one of value and is explored in chapters x and y. 
 
 ### Creative Family Learning - Roque
 

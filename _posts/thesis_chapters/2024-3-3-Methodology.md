@@ -14,38 +14,34 @@ title: 3. Methodology
         2024](#research-questions---march-2024)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
-        -   [Choosing a suitable unit of analysis / germ cell &
-            situating which activity systems is of primary value to
-            explore](#choosing-a-suitable-unit-of-analysis-germ-cell-situating-which-activity-systems-is-of-primary-value-to-explore)
-            -   [Levels of Abstraction in Activity
-                Theory](#levels-of-abstraction-in-activity-theory)
-            -   [Choosing smaller units of
-                analysis](#choosing-smaller-units-of-analysis)
+        -   [Scopes of anaylsis, three planes approaches and other
+            learning community
+            methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
         -   [Analysis of activity system through conflicts and
             contradictions between
             elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
         -   [Disambiguating terminology - Conflicts, tensions,
             contradictions,
             dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Comparing characteristics of DBR, expansive learning and
+            formative
+            interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
         -   [Analysis of CHAT / DBR interventions over
             time](#analysis-of-chat-dbr-interventions-over-time)
-            -   [Early limits of DBR addressed by expansive learning -
-                and formative
-                interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
-        -   [Exploring specific techniques of formative interventions -
-            MAKE MORE
-            TARGETED -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
+        -   [Critique of DBR from CHAT
+            researchers](#critique-of-dbr-from-chat-researchers)
+            -   [Exploring specific techniques of formative
+                interventions](#exploring-specific-techniques-of-formative-interventions)
+        -   [Summary of alignments between approaches and the pragmatic
+            approach of this
+            study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
+    -   [Conceptual tools associated with
+        agency](#conceptual-tools-associated-with-agency)
         -   [Creating ideocultures as designed
             systems](#creating-ideocultures-as-designed-systems)
-        -   [Rogoff's three planes of analysis of learning
-            communities](#rogoffs-three-planes-of-analysis-of-learning-communities)
-            -   [Communities of practice and communities of
-                learners](#communities-of-practice-and-communities-of-learners)
         -   [Funds of Knowledge](#funds-of-knowledge)
             -   [Possible funds of
                 knowledge](#possible-funds-of-knowledge)
-    -   [Conceptual tools associated with
-        agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
             agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances](#on-affordances)
@@ -95,8 +91,9 @@ title: 3. Methodology
         -   [Use of Interview data](#use-of-interview-data)
             -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
-    -   [Data validity and reliability and decisions of what to not
-        analyse](#data-validity-and-reliability-and-decisions-of-what-to-not-analyse)
+    -   [Data validity, replicability and reliability and decisions of
+        what to not
+        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse)
         -   [Data Validity - Triangulation of Data - THE
             THEORY](#data-validity---triangulation-of-data---the-theory)
             -   [Limits of / problems with video data
@@ -104,7 +101,10 @@ title: 3. Methodology
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
             finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
-        -   [Generalisation of Results](#generalisation-of-results)
+        -   [Generalisation of Research](#generalisation-of-research)
+            -   [Data Replicability](#data-replicability)
+            -   [Generalisation of
+                Research](#generalisation-of-research-1)
     -   [Research Questions](#research-questions)
         -   [How Research Questions
             Evolved](#how-research-questions-evolved)
@@ -120,6 +120,7 @@ title: 3. Methodology
             research](#describing-the-formative-intervention-of-this-research)
         -   [On the details of the
             design](#on-the-details-of-the-design)
+            -   [Phases and data Gathering](#phases-and-data-gathering)
             -   [P1: Exploratory stage: Oct 2017 - Dec
                 2018](#p1-exploratory-stage-oct-2017---dec-2018)
             -   [P3: Accelerated game making programme (5 weeks): Jan -
@@ -137,6 +138,8 @@ title: 3. Methodology
             Inteventions /
             DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
     -   [Transition to next Chapter](#transition-to-next-chapter)
+
+
 
 # Methodology
 <!-- Also see this writing.
@@ -188,35 +191,26 @@ Emergent
 NOTE - for similar work see [@barab_using_2002]
 
 
-### Choosing a suitable unit of analysis / germ cell & situating which activity systems is of primary value to explore
+### Scopes of anaylsis, three planes approaches and other learning community methods
 
-This process is outlined in chapter  4 & 5 -
-Move some of that here - Or drop?
 EXPLAIN IN JUST ENOUGH DETAIL HERE.
 
-#### Levels of Abstraction in Activity Theory
+Following Rogoff [@ rogoff_observing_1995]
 
-LINK INSTEAD WITH ROGOFF - SET UP FOR CHAPTER 4
+When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty.
 
-The educational activity can be seen as different scopes of activity
+From ?
+In the case of this study, activity can be seen as different scopes
 
-
-
-- wider education
+- wider educational context and the culture of the whole program
 - guided activity
 - specific actions and operations.
 
-While game making can be seen superficially as the primary activity,
+To answer this study's RQs, all three aspects and their interactions need to be investigated.  
 
-OTHER RESEARCHERS ARGUE??
-I argue that a narrower objectives  most vital unit of activity for participants.
+Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]  
 
-#### Choosing smaller units of analysis
-
-Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]
-
-
-
+However the concept of project can also be applied to different scopes of activity. While game making as a community process is clearly as an important activity system to study, chapters four and five explores the value of interpersonal activity around the goal of implementing discrete game design patterns.
 
 **Activity, Actions and Operations**
 
@@ -304,6 +298,11 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 Call back to PRIMM and Waite Sentence's work here -->
 
 
+
+
+### Comparing characteristics of DBR, expansive learning and formative interventions
+
+
 ### Analysis of CHAT / DBR interventions over time
 
 This section addresses concepts common to DBR, and early inteventions of CHAT.
@@ -318,9 +317,7 @@ Returning to the varied form of DBR / CHAT / Formative , I need to pick a termin
 
 Penuel [-@penuel_emerging_2014] chooses formative interventions as a suitable term, which is valid within CHAT circles.
 
-
-
-#### Early limits of DBR addressed by expansive learning - and formative interventions
+### Critique of DBR from CHAT researchers
 
 Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR.
 
@@ -361,7 +358,7 @@ There are some areas that broadly align; the use of second stimulus, a thorny pr
 Other areas are less aligned with existing models propsed by Engeestrom, CL, etc.
 The specific drive for participants to identify new tools,
 
-Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment.
+<!-- Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment. -->
 
 <!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
 INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
@@ -373,19 +370,8 @@ From [@cakir_contradictions_2022]
 In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
 
 
-While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
 
-**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
-
-This section has identified broad alignments in direction for CHAT perspective on DBR.
-
-<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
-
-
-
-
-
-### Exploring specific techniques of formative interventions - MAKE MORE TARGETED -
+#### Exploring specific techniques of formative interventions
 
 DROP FOR A MORE PERSONAL TAKE / SO COMPARATIVE TO THIS INTERVENTION? FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
 
@@ -399,12 +385,6 @@ LINK THE CONCEPTS / PROCESS HERE.
 
 For example, in and educational settings INSERT QUICK CASE STUDY
 
-A complementary take on formative interventions also from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
-
-The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. (explored previously).
-
 NOTE - IF USING PRACTICE THEN EXPLAIN IT IN REFERENCE TO AT - OPERAION / ACTION ETC
 
 I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
@@ -417,24 +397,13 @@ In addition the concept of diversion from the primary task are relevant to the m
 
 
 
-### Creating ideocultures as designed systems
-
-From Cole.
-
-The concept of ideocultures is useful when compared to expansive learning and presumption of existing objects.  
 
 
-
-
-### Rogoff's three planes of analysis of learning communities
-
-#### Communities of practice and communities of learners
+<!-- #### Communities of practice and communities of learners
 
 Communities of practice - legitimate peripheral participation boundaries and barriers to participation
 
 
-
-<!-- Perhaps don't get into 3 planes yet save that for more detailed analysis -->
 
 (Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
 
@@ -445,7 +414,39 @@ Guided participation as a middle ground between instruction and discovery.
 
 Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
 
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.
+This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding. -->
+
+
+
+### Summary of alignments between approaches and the pragmatic approach of this study
+
+While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
+
+**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
+
+This section has identified broad alignments in direction for CHAT perspective on DBR.
+
+<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
+
+## Conceptual tools associated with agency
+
+<!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
+
+- agency as choice already explored in in 5D
+
+Cultural mediation via artefacts [cole], as a base.
+
+Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
+
+
+
+
+### Creating ideocultures as designed systems
+
+From Cole.
+
+The concept of ideocultures is useful when compared to expansive learning and presumption of existing objects.  
+
 
 
 
@@ -476,15 +477,6 @@ What potential does that give to family game making?
 
 NOTE - HOW IS THIS EXPLORE LATER?  IS THIS REALLY A METHODOLOGY ASPECT - OR SOMETHING FOR THE INTRODUCTION OR THE DISCUSSION CHAPTER 6 ?
 
-## Conceptual tools associated with agency
-
-<!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
-
-- agency as choice already explored in in 5D
-
-Cultural mediation via artefacts [cole], as a base.
-
-Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
 
 
 ### TADS - On double stimulation and agency

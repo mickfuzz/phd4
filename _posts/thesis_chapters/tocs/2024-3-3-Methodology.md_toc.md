@@ -3,38 +3,34 @@
         2024](#research-questions---march-2024)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
-        -   [Choosing a suitable unit of analysis / germ cell &
-            situating which activity systems is of primary value to
-            explore](#choosing-a-suitable-unit-of-analysis-germ-cell-situating-which-activity-systems-is-of-primary-value-to-explore)
-            -   [Levels of Abstraction in Activity
-                Theory](#levels-of-abstraction-in-activity-theory)
-            -   [Choosing smaller units of
-                analysis](#choosing-smaller-units-of-analysis)
+        -   [Scopes of anaylsis, three planes approaches and other
+            learning community
+            methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
         -   [Analysis of activity system through conflicts and
             contradictions between
             elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
         -   [Disambiguating terminology - Conflicts, tensions,
             contradictions,
             dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Comparing characteristics of DBR, expansive learning and
+            formative
+            interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
         -   [Analysis of CHAT / DBR interventions over
             time](#analysis-of-chat-dbr-interventions-over-time)
-            -   [Early limits of DBR addressed by expansive learning -
-                and formative
-                interventions](#early-limits-of-dbr-addressed-by-expansive-learning---and-formative-interventions)
-        -   [Exploring specific techniques of formative interventions -
-            MAKE MORE
-            TARGETED -](#exploring-specific-techniques-of-formative-interventions---make-more-targeted--)
+        -   [Critique of DBR from CHAT
+            researchers](#critique-of-dbr-from-chat-researchers)
+            -   [Exploring specific techniques of formative
+                interventions](#exploring-specific-techniques-of-formative-interventions)
+        -   [Summary of alignments between approaches and the pragmatic
+            approach of this
+            study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
+    -   [Conceptual tools associated with
+        agency](#conceptual-tools-associated-with-agency)
         -   [Creating ideocultures as designed
             systems](#creating-ideocultures-as-designed-systems)
-        -   [Rogoff's three planes of analysis of learning
-            communities](#rogoffs-three-planes-of-analysis-of-learning-communities)
-            -   [Communities of practice and communities of
-                learners](#communities-of-practice-and-communities-of-learners)
         -   [Funds of Knowledge](#funds-of-knowledge)
             -   [Possible funds of
                 knowledge](#possible-funds-of-knowledge)
-    -   [Conceptual tools associated with
-        agency](#conceptual-tools-associated-with-agency)
         -   [TADS - On double stimulation and
             agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances](#on-affordances)
