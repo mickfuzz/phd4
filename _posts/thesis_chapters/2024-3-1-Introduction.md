@@ -222,11 +222,7 @@ However, a new position as a project work for EdLab allowed me the ability to ex
 - Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses. -->
 
 
-
-
-
-
-### Revisiting my overall aim in relation to the process of this chapter and RQs**
+### Revisiting my overall aim in relation to the process of this chapter and RQs
 
 
 The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
@@ -581,7 +577,7 @@ The intervention introduced a fictional narrative to create a shared 'project' f
 
 In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
 
-This technique emerged in this study as one of value and is explored in chapters x and y. 
+This technique emerged in this study as one of value and is explored in chapters x and y.
 
 ### Creative Family Learning - Roque
 
