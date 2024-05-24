@@ -186,15 +186,18 @@ Emergent
 
 The last chapter introduced the theoretical framework of this study, namely activity theory.
 
-This chapter describes the
+This chapter describes
+- the methods that make up the methodology
+- data gathering and Processing
+- Data analysis explored in stages 
+- comments on data validity etc.
+- an overview of the design stages of the
 
+## Methods used in this study
 
+This section examines the use of methods aligned with activity theory and DBR to help conceptualise and analyise the learning environment and processes.
 
-## Conceptualising activity in this learning design
-
-**This section** examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
-
-NOTE - for similar work see [@barab_using_2002]
+The methods outlined in this section combine to create a methodology aligned with formative intervention and DBR principles.
 
 
 ### Scopes of anaylsis, three planes approaches and other learning community methods
