@@ -809,7 +809,7 @@ Research on project based learning using technology supports the motivational an
 <!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
 
 
-## Theoretical Framework
+## Theoretical Framework & (Methodology approach)?
 
 
 <!-- The following terms and concepts have already been explored in the literature review.
@@ -820,9 +820,6 @@ Research on project based learning using technology supports the motivational an
 
 
 <!-- IMPLICIT ## Justification of choice of methodology -->
-
-
-
 
 
 ### Socio cultural approaches and the primacy of context
@@ -853,7 +850,7 @@ The focus of this study is on the construction of shared meaning and practices a
 To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
 
-### Design-based research and formative intervention studies within educational field
+#### MOVE FROM lIT REVIEW  -   Design-based research and formative intervention studies within educational field
 
 
 
@@ -870,11 +867,34 @@ Penuel [-@penuel_emerging_2014] describes design based researchers as an eclecti
 One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
 
-### Justification of choice (esp compared to contructionism)
+#### The guiding principles of DBR and alignment with CHAT
+
+
+The definition of DBR is evolving. Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
+
+There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
+
+One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+One of Engestrom's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
+
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
+
+
+
+<!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
+<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+
+
+### Justification of choice (esp compared to contructionism) - DROP ALIGN dbr WITH CONSTRUCTIONISM
 
 ---
 
 MOVED FROM ANOTHER SECTION SEE IF IT FITS.
+
+
+
 
 Before progressing to explore the details of the design, I want to briefly explore how this process brought into focus some of they key debates and issues of design based research.
 
@@ -899,6 +919,8 @@ Barab and Squire [@barab_design-based_2004] describe the messiness of design-bas
 This context of this research, which is x,  
 
 #### Why not constructionism
+
+COMPRESS THIS. - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS [@kynigos_constructionism]
 
 Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
 oloughlin_rethinking_1992

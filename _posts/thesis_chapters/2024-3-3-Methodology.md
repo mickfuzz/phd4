@@ -182,6 +182,14 @@ Emergent
   - the play around the playtesting -->
 
 
+## Introduction and summary of the methdology of this study
+
+The last chapter introduced the theoretical framework of this study, namely activity theory.
+
+This chapter describes the
+
+
+
 ## Conceptualising activity in this learning design
 
 **This section** examines the use of activity theory to examine the data and help conceptualise the learning environment and processes.
@@ -313,23 +321,10 @@ Call back to PRIMM and Waite Sentence's work here -->
 
 **This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
 
-#### The guiding principles of DBR and alignment with CHAT
-
-
-The definition of DBR is evolving. Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
-
-There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
-
-One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
-
-One of Engestrom's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
-
-For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
 
 
 
-<!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
-<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
 
 ####  The additions / adaptations of the CHAT community to DBR
 
