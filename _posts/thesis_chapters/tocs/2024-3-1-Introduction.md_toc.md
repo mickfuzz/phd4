@@ -14,7 +14,7 @@
             motivations](#contextual-details-aligning-with-personal-motivations)
         -   [Revisiting my overall aim in relation to the process of
             this chapter and
-            RQs\*\*](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
+            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
     -   [Conceptual Context](#conceptual-context)
         -   [The utility of understanding projects and socio cultural
             and activist concepts of

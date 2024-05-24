@@ -32,8 +32,8 @@
             -   [TADS - interventions and affordances as double
                 stimulation](#tads---interventions-and-affordances-as-double-stimulation)
         -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled
-            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+            agency - boiled down
+            -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
     -   [Implications and recommendations for
         practitioners](#implications-and-recommendations-for-practitioners)
         -   [The value and processes of creating space for emergent

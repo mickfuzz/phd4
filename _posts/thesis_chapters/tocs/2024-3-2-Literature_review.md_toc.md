@@ -36,6 +36,8 @@
                 study](#third-spaces-and-the-context-of-this-study)
             -   [Play circles and MOE as a third
                 space](#play-circles-and-moe-as-a-third-space)
+            -   [Mantle of the Expert as a processes
+                drama](#mantle-of-the-expert-as-a-processes-drama)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Digital informal / participatory culture and
@@ -80,22 +82,26 @@
         -   [Tensions surrounding authenticity of tool use- move to LIT
             REVIEW / END
             DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
-    -   [Theoretical Framework](#theoretical-framework)
+    -   [Theoretical Framework & other influential theoretical areas
+        (like constructionism as a design / learning theory)
+        (Methodology
+        approach)?](#theoretical-framework-other-influential-theoretical-areas-like-constructionism-as-a-design-learning-theory-methodology-approach)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [Primary framework Activity
-            Theory](#primary-framework-activity-theory)
-        -   [Design-based research and formative intervention studies
-            within educational
-            field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-        -   [Justification of choice (esp compared to
-            contructionism)](#justification-of-choice-esp-compared-to-contructionism)
+        -   [What is and Why choose Activity Theory (&
+            DBR?)](#what-is-and-why-choose-activity-theory-dbr)
+            -   [Justification of choice (esp compared to
+                constructionism) - DROP ALIGN dbr WITH
+                CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop-align-dbr-with-constructionism)
+            -   [Why not constructivism /
+                constructionism](#why-not-constructivism-constructionism)
+            -   [Design-based research and formative intervention
+                studies within educational
+                field](#design-based-research-and-formative-intervention-studies-within-educational-field)
+            -   [The guiding principles of DBR and alignment with
+                CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat)
             -   [Context and Generalisation of
                 results:](#context-and-generalisation-of-results)
-            -   [Why not constructionism](#why-not-constructionism)
             -   [Conceptualising informal education via foundational
-                theory](#conceptualising-informal-education-via-foundational-theory)
-    -   [Currently Parked from Literature
-        REVIEW](#currently-parked-from-literature-review)
-        -   [Mantle of the Expert as a processes
-            drama](#mantle-of-the-expert-as-a-processes-drama)
+                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
+                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)

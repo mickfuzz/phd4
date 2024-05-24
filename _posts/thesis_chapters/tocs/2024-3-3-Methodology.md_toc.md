@@ -1,11 +1,15 @@
 -   [Methodology](#methodology)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
+    -   [Introduction and summary of the methdology of this
+        study](#introduction-and-summary-of-the-methdology-of-this-study)
     -   [Conceptualising activity in this learning
         design](#conceptualising-activity-in-this-learning-design)
         -   [Scopes of anaylsis, three planes approaches and other
             learning community
             methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
+            -   [ON GERM CELL AND EXPANSIVE LEARNING
+                MOVE](#on-germ-cell-and-expansive-learning-move)
         -   [Analysis of activity system through conflicts and
             contradictions between
             elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
@@ -15,19 +19,20 @@
         -   [Comparing characteristics of DBR, expansive learning and
             formative
             interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
-        -   [Analysis of CHAT / DBR interventions over
-            time](#analysis-of-chat-dbr-interventions-over-time)
-        -   [Critique of DBR from CHAT
-            researchers](#critique-of-dbr-from-chat-researchers)
-            -   [Exploring specific techniques of formative
-                interventions](#exploring-specific-techniques-of-formative-interventions)
+            -   [The additions / adaptations of the CHAT community to
+                DBR](#the-additions-adaptations-of-the-chat-community-to-dbr)
+            -   [Using the term formative
+                interventions](#using-the-term-formative-interventions)
+            -   [Identifying specific techniques of formative
+                interventions suitable to this
+                study](#identifying-specific-techniques-of-formative-interventions-suitable-to-this-study)
         -   [Summary of alignments between approaches and the pragmatic
             approach of this
             study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
     -   [Conceptual tools associated with
         agency](#conceptual-tools-associated-with-agency)
-        -   [Creating ideocultures as designed
-            systems](#creating-ideocultures-as-designed-systems)
+        -   [Creating ideocultures as designed systems (ADD THIRD SPACE
+            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
         -   [Funds of Knowledge](#funds-of-knowledge)
             -   [Possible funds of
                 knowledge](#possible-funds-of-knowledge)
@@ -52,8 +57,8 @@
             analysis](#overall-table-and-rational-of-data-analysis)
         -   [Notes to allocate to a
             stage](#notes-to-allocate-to-a-stage)
-            -   [Rational and approach of data
-                analysis -](#rational-and-approach-of-data-analysis--)
+            -   [Rational and approach of data analysis
+                -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)
