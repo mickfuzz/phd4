@@ -838,7 +838,7 @@ Research on project based learning using technology supports the motivational an
 <!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
 
 
-## Theoretical Framework & (Methodology approach)?
+## Theoretical Framework & other influential theoretical areas (like constructionism as a design / learning theory) (Methodology approach)?
 
 
 <!-- The following terms and concepts have already been explored in the literature review.
@@ -949,7 +949,10 @@ This context of this research, which is x,
 
 #### Why not constructionism
 
-COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS [@kynigos_constructionism]
+COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
+Thus it can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
+
+Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
 
 Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
 oloughlin_rethinking_1992
