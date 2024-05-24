@@ -93,8 +93,6 @@
             -   [Justification of choice (esp compared to
                 constructionism) - DROP ALIGN dbr WITH
                 CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop-align-dbr-with-constructionism)
-            -   [Why not constructivism /
-                constructionism](#why-not-constructivism-constructionism)
             -   [Design-based research and formative intervention
                 studies within educational
                 field](#design-based-research-and-formative-intervention-studies-within-educational-field)
@@ -105,3 +103,7 @@
             -   [Conceptualising informal education via foundational
                 theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
                 IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
+            -   [Why not use constructivism /
+                constructionism](#why-not-use-constructivism-constructionism)
+    -   [Conclusion link to the next
+        chapters](#conclusion-link-to-the-next-chapters)

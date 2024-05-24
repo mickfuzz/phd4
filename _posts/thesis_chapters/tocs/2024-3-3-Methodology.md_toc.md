@@ -3,8 +3,7 @@
         2024](#research-questions---march-2024)
     -   [Introduction and summary of the methdology of this
         study](#introduction-and-summary-of-the-methdology-of-this-study)
-    -   [Conceptualising activity in this learning
-        design](#conceptualising-activity-in-this-learning-design)
+    -   [Methods used in this study](#methods-used-in-this-study)
         -   [Scopes of anaylsis, three planes approaches and other
             learning community
             methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
