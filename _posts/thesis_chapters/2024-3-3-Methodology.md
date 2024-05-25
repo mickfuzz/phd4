@@ -9,140 +9,180 @@ layout: post
 categories: chapter
 title: 3. Methodology
 ---
--   [Methodology](#methodology)
+-   [Methodology](#methodology){#toc-methodology}
     -   [Research Questions - March
-        2024](#research-questions---march-2024)
+        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
     -   [Introduction and summary of the methdology of this
-        study](#introduction-and-summary-of-the-methdology-of-this-study)
-    -   [Methods used in this study](#methods-used-in-this-study)
+        study](#introduction-and-summary-of-the-methdology-of-this-study){#toc-introduction-and-summary-of-the-methdology-of-this-study}
+    -   [Theoretical Framework & other influential theoretical areas
+        (like constructionism as a design / learning theory)
+        (Methodology
+        approach)?](#theoretical-framework-other-influential-theoretical-areas-like-constructionism-as-a-design-learning-theory-methodology-approach){#toc-theoretical-framework-other-influential-theoretical-areas-like-constructionism-as-a-design-learning-theory-methodology-approach}
+        -   [Socio cultural approaches and the primacy of
+            context](#socio-cultural-approaches-and-the-primacy-of-context){#toc-socio-cultural-approaches-and-the-primacy-of-context}
+        -   [What is and Why choose Activity Theory (&
+            DBR?)](#what-is-and-why-choose-activity-theory-dbr){#toc-what-is-and-why-choose-activity-theory-dbr}
+            -   [Justification of choice (esp compared to
+                constructionism) - DROP ALIGN dbr WITH
+                CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop-align-dbr-with-constructionism){#toc-justification-of-choice-esp-compared-to-constructionism---drop-align-dbr-with-constructionism}
+            -   [Design-based research and formative intervention
+                studies within educational
+                field](#design-based-research-and-formative-intervention-studies-within-educational-field){#toc-design-based-research-and-formative-intervention-studies-within-educational-field}
+            -   [The guiding principles of DBR and alignment with
+                CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat){#toc-the-guiding-principles-of-dbr-and-alignment-with-chat}
+            -   [Context and Generalisation of
+                results:](#context-and-generalisation-of-results){#toc-context-and-generalisation-of-results}
+            -   [Conceptualising informal education via foundational
+                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
+                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it){#toc-conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it}
+            -   [Why not use constructivism /
+                constructionism](#why-not-use-constructivism-constructionism){#toc-why-not-use-constructivism-constructionism}
+    -   [Methods used in this
+        study](#methods-used-in-this-study){#toc-methods-used-in-this-study}
         -   [Scopes of anaylsis, three planes approaches and other
             learning community
-            methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
+            methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods){#toc-scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods}
             -   [ON GERM CELL AND EXPANSIVE LEARNING
-                MOVE](#on-germ-cell-and-expansive-learning-move)
+                MOVE](#on-germ-cell-and-expansive-learning-move){#toc-on-germ-cell-and-expansive-learning-move}
         -   [Analysis of activity system through conflicts and
             contradictions between
-            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements){#toc-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements}
         -   [Disambiguating terminology - Conflicts, tensions,
             contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas){#toc-disambiguating-terminology---conflicts-tensions-contradictions-dilemmas}
         -   [Comparing characteristics of DBR, expansive learning and
             formative
-            interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
+            interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions){#toc-comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions}
             -   [The additions / adaptations of the CHAT community to
-                DBR](#the-additions-adaptations-of-the-chat-community-to-dbr)
+                DBR](#the-additions-adaptations-of-the-chat-community-to-dbr){#toc-the-additions-adaptations-of-the-chat-community-to-dbr}
             -   [Using the term formative
-                interventions](#using-the-term-formative-interventions)
+                interventions](#using-the-term-formative-interventions){#toc-using-the-term-formative-interventions}
             -   [Identifying specific techniques of formative
                 interventions suitable to this
-                study](#identifying-specific-techniques-of-formative-interventions-suitable-to-this-study)
+                study](#identifying-specific-techniques-of-formative-interventions-suitable-to-this-study){#toc-identifying-specific-techniques-of-formative-interventions-suitable-to-this-study}
         -   [Summary of alignments between approaches and the pragmatic
             approach of this
-            study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
+            study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study){#toc-summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study}
     -   [Conceptual tools associated with
-        agency](#conceptual-tools-associated-with-agency)
+        agency](#conceptual-tools-associated-with-agency){#toc-conceptual-tools-associated-with-agency}
         -   [Creating ideocultures as designed systems (ADD THIRD SPACE
-            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
-        -   [Funds of Knowledge](#funds-of-knowledge)
+            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here){#toc-creating-ideocultures-as-designed-systems-add-third-space-here}
+        -   [Funds of
+            Knowledge](#funds-of-knowledge){#toc-funds-of-knowledge}
             -   [Possible funds of
-                knowledge](#possible-funds-of-knowledge)
+                knowledge](#possible-funds-of-knowledge){#toc-possible-funds-of-knowledge}
         -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency)
-            -   [On affordances](#on-affordances)
-    -   [Data Collection](#data-collection)
+            agency](#tads---on-double-stimulation-and-agency){#toc-tads---on-double-stimulation-and-agency}
+            -   [On affordances](#on-affordances){#toc-on-affordances}
+    -   [Data Collection](#data-collection){#toc-data-collection}
         -   [Summary Table of Data
-            Collection](#summary-table-of-data-collection)
+            Collection](#summary-table-of-data-collection){#toc-summary-table-of-data-collection}
         -   [Justification of data collection and
-            selection](#justification-of-data-collection-and-selection)
+            selection](#justification-of-data-collection-and-selection){#toc-justification-of-data-collection-and-selection}
             -   [Alignment with with socio cultural
-                approach](#alignment-with-with-socio-cultural-approach)
+                approach](#alignment-with-with-socio-cultural-approach){#toc-alignment-with-with-socio-cultural-approach}
         -   [Challenges of data collection and
-            processing](#challenges-of-data-collection-and-processing)
-            -   [360 Video Processing](#video-processing)
-            -   [Screen Capture Processing](#screen-capture-processing)
+            processing](#challenges-of-data-collection-and-processing){#toc-challenges-of-data-collection-and-processing}
+            -   [360 Video
+                Processing](#video-processing){#toc-video-processing}
+            -   [Screen Capture
+                Processing](#screen-capture-processing){#toc-screen-capture-processing}
             -   [Learnings and recommendations on
-                processing](#learnings-and-recommendations-on-processing)
-    -   [Data Analysis](#data-analysis)
+                processing](#learnings-and-recommendations-on-processing){#toc-learnings-and-recommendations-on-processing}
+    -   [Data Analysis](#data-analysis){#toc-data-analysis}
         -   [Overall table and rational of data
-            analysis](#overall-table-and-rational-of-data-analysis)
+            analysis](#overall-table-and-rational-of-data-analysis){#toc-overall-table-and-rational-of-data-analysis}
         -   [Notes to allocate to a
-            stage](#notes-to-allocate-to-a-stage)
+            stage](#notes-to-allocate-to-a-stage){#toc-notes-to-allocate-to-a-stage}
             -   [Rational and approach of data analysis
-                -](#rational-and-approach-of-data-analysis--)
-        -   [Data Analysis Stage One](#data-analysis-stage-one)
+                -](#rational-and-approach-of-data-analysis--){#toc-rational-and-approach-of-data-analysis--}
+        -   [Data Analysis Stage
+            One](#data-analysis-stage-one){#toc-data-analysis-stage-one}
             -   [3 planes approach - noting tensions and
-                behaviours](#planes-approach---noting-tensions-and-behaviours)
+                behaviours](#planes-approach---noting-tensions-and-behaviours){#toc-planes-approach---noting-tensions-and-behaviours}
             -   [Justification of selecting sessions and sections for
                 more detailed
-                analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
-        -   [Data Analysis Stage Two](#data-analysis-stage-two)
+                analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis){#toc-justification-of-selecting-sessions-and-sections-for-more-detailed-analysis}
+        -   [Data Analysis Stage
+            Two](#data-analysis-stage-two){#toc-data-analysis-stage-two}
             -   [Partial transcription/description of
-                data](#partial-transcriptiondescription-of-data)
+                data](#partial-transcriptiondescription-of-data){#toc-partial-transcriptiondescription-of-data}
             -   [Partial coding of video at stage
-                2](#partial-coding-of-video-at-stage-2)
+                2](#partial-coding-of-video-at-stage-2){#toc-partial-coding-of-video-at-stage-2}
             -   [What was excluded from initial coding and
-                why](#what-was-excluded-from-initial-coding-and-why)
+                why](#what-was-excluded-from-initial-coding-and-why){#toc-what-was-excluded-from-initial-coding-and-why}
             -   [Selection of vignettes for deeper
-                analysis](#selection-of-vignettes-for-deeper-analysis)
+                analysis](#selection-of-vignettes-for-deeper-analysis){#toc-selection-of-vignettes-for-deeper-analysis}
             -   [Analysis of the evolution of the programme resources
-                created](#analysis-of-the-evolution-of-the-programme-resources-created)
-        -   [Data Analysis Stage Three](#data-analysis-stage-three)
+                created](#analysis-of-the-evolution-of-the-programme-resources-created){#toc-analysis-of-the-evolution-of-the-programme-resources-created}
+        -   [Data Analysis Stage
+            Three](#data-analysis-stage-three){#toc-data-analysis-stage-three}
             -   [A revised processes of thematic
-                analysis](#a-revised-processes-of-thematic-analysis)
+                analysis](#a-revised-processes-of-thematic-analysis){#toc-a-revised-processes-of-thematic-analysis}
             -   [On Final Transcription/description of
-                data](#on-final-transcriptiondescription-of-data)
-        -   [Use of journal data](#use-of-journal-data)
-        -   [Use of Interview data](#use-of-interview-data)
-            -   [Practitioner interviews](#practitioner-interviews)
-            -   [Participant interviews](#participant-interviews)
+                data](#on-final-transcriptiondescription-of-data){#toc-on-final-transcriptiondescription-of-data}
+        -   [Use of journal
+            data](#use-of-journal-data){#toc-use-of-journal-data}
+        -   [Use of Interview
+            data](#use-of-interview-data){#toc-use-of-interview-data}
+            -   [Practitioner
+                interviews](#practitioner-interviews){#toc-practitioner-interviews}
+            -   [Participant
+                interviews](#participant-interviews){#toc-participant-interviews}
     -   [Data validity, replicability and reliability and decisions of
         what to not
-        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse)
+        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse){#toc-data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse}
         -   [Data Validity - Triangulation of Data - THE
-            THEORY](#data-validity---triangulation-of-data---the-theory)
+            THEORY](#data-validity---triangulation-of-data---the-theory){#toc-data-validity---triangulation-of-data---the-theory}
             -   [Limits of / problems with video data
-                analysis](#limits-of-problems-with-video-data-analysis)
+                analysis](#limits-of-problems-with-video-data-analysis){#toc-limits-of-problems-with-video-data-analysis}
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
-            finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
-        -   [Generalisation of Research](#generalisation-of-research)
-            -   [Data Replicability](#data-replicability)
+            finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally){#toc-discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally}
+        -   [Generalisation of
+            Research](#generalisation-of-research){#toc-generalisation-of-research}
+            -   [Data
+                Replicability](#data-replicability){#toc-data-replicability}
             -   [Generalisation of
-                Research](#generalisation-of-research-1)
-    -   [Research Questions](#research-questions)
+                Research](#generalisation-of-research-1){#toc-generalisation-of-research-1}
+    -   [Research
+        Questions](#research-questions){#toc-research-questions}
         -   [How Research Questions
-            Evolved](#how-research-questions-evolved)
+            Evolved](#how-research-questions-evolved){#toc-how-research-questions-evolved}
         -   [What research questions are answered by what data gathering
             and analysis - and described in what
-            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
-    -   [Discussion on Methodology](#discussion-on-methodology)
-        -   [Discussion](#discussion)
+            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter){#toc-what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter}
+    -   [Discussion on
+        Methodology](#discussion-on-methodology){#toc-discussion-on-methodology}
+        -   [Discussion](#discussion){#toc-discussion}
         -   [Authenticity - creating
-            value](#authenticity---creating-value)
-    -   [Summary of design evolution](#summary-of-design-evolution)
+            value](#authenticity---creating-value){#toc-authenticity---creating-value}
+    -   [Summary of design
+        evolution](#summary-of-design-evolution){#toc-summary-of-design-evolution}
         -   [Describing the formative intervention of this
-            research](#describing-the-formative-intervention-of-this-research)
+            research](#describing-the-formative-intervention-of-this-research){#toc-describing-the-formative-intervention-of-this-research}
         -   [On the details of the
-            design](#on-the-details-of-the-design)
-            -   [Phases and data Gathering](#phases-and-data-gathering)
+            design](#on-the-details-of-the-design){#toc-on-the-details-of-the-design}
+            -   [Phases and data
+                Gathering](#phases-and-data-gathering){#toc-phases-and-data-gathering}
             -   [P1: Exploratory stage: Oct 2017 - Dec
-                2018](#p1-exploratory-stage-oct-2017---dec-2018)
+                2018](#p1-exploratory-stage-oct-2017---dec-2018){#toc-p1-exploratory-stage-oct-2017---dec-2018}
             -   [P3: Accelerated game making programme (5 weeks): Jan -
                 Feb
-                2019](#p3-accelerated-game-making-programme-5-weeks-jan---feb-2019)
+                2019](#p3-accelerated-game-making-programme-5-weeks-jan---feb-2019){#toc-p3-accelerated-game-making-programme-5-weeks-jan---feb-2019}
             -   [P4: Adding a process drama to the game making
                 programme: April - May
-                2019](#p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019)
+                2019](#p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019){#toc-p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019}
         -   [On the emergent and mutual nature of the design and
             research
-            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
+            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process){#toc-on-the-emergent-and-mutual-nature-of-the-design-and-research-process}
             -   [Note on creation of learning and teaching
-                resources](#note-on-creation-of-learning-and-teaching-resources)
+                resources](#note-on-creation-of-learning-and-teaching-resources){#toc-note-on-creation-of-learning-and-teaching-resources}
         -   [More material on Expansive Learning / Formative
             Inteventions /
-            DBR](#more-material-on-expansive-learning-formative-inteventions-dbr)
-    -   [Transition to next Chapter](#transition-to-next-chapter)
-
+            DBR](#more-material-on-expansive-learning-formative-inteventions-dbr){#toc-more-material-on-expansive-learning-formative-inteventions-dbr}
+    -   [Transition to next
+        Chapter](#transition-to-next-chapter){#toc-transition-to-next-chapter}
 
 
 # Methodology
@@ -196,6 +236,209 @@ This chapter describes
 - Data analysis explored in stages
 - comments on data validity etc.
 - an overview of the design stages of the
+
+
+
+
+## Theoretical Framework & other influential theoretical areas (like constructionism as a design / learning theory) (Methodology approach)?
+
+What to cover in this section.
+
+Theoretical framework. AT / CHAT
+I also then describe the broad methodical approach of DBR and formative interventions.
+
+I explore when constructivism/ constructionism is of interested but not the basis for this study.
+
+
+In the next chapter I will cover some of the specific methods and approaches
+
+
+
+
+<!-- The following terms and concepts have already been explored in the literature review.
+- Activity - as unit of analysis  Vygotsky
+- Mediation as concept - cole and wertsch  
+- Rogoff planes - and beyond instruction vs child led - a move towards helping teachers to see patterns - towards understandings in pedagogical terms
+-->
+
+
+<!-- IMPLICIT ## Justification of choice of methodology -->
+
+
+### Socio cultural approaches and the primacy of context
+
+This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
+
+    A central assumption underlying
+    this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
+    the learners’ belief that they are likely to do something meaningful with that which they are learning.
+
+
+This primacy of context described above underlies much of the social turn of educational and psychological research.
+
+As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
+
+There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .  
+<!-- [@laveSituatedLearningLegitimate1991]  -->
+
+### What is and Why choose Activity Theory (& DBR?)
+
+I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff  and the use of three planes of activity to analyse complex community actions.
+
+JUST A QUICK SUMMARY HERE -
+
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
+
+
+
+#### Justification of choice (esp compared to constructionism) - DROP ALIGN dbr WITH CONSTRUCTIONISM
+
+
+
+MOVE ?
+I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
+MOVED FROM ANOTHER SECTION SEE IF IT FITS.
+
+AGAIN MOVED
+**Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
+
+
+
+####  Design-based research and formative intervention studies within educational field
+
+
+
+My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
+
+The research aims of my study brought into focus some of they key debates and issues of design based research.
+
+- mutual appropriation and ethics of participation rather than extraction
+- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
+- the difficulties of transmitting research outcomes to non-academics - give positive examples.
+
+
+
+
+
+Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+
+Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
+
+One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
+
+
+#### The guiding principles of DBR and alignment with CHAT
+
+
+The definition of DBR is evolving. Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
+
+There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
+
+One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+One of Engestrom's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
+
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
+
+
+
+<!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
+<!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
+
+
+
+
+
+
+#### Context and Generalisation of results:
+
+Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+
+This context of this research, which is x,  
+
+
+#### Conceptualising informal education via foundational theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT IT?
+
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+
+<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
+
+- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
+
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
+
+- Rogoff - community of learners and 3 foci as a way to frame this in education
+
+<!--
+// don't focus in on DBR save that... -->
+<!-- NOTE - MOVE TO METHODOLOGY
+### Activity as Unit of Analysis
+Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
+
+The vital role of cultural mediation in development [@cole_beyond_1996-1]
+
+This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
+
+
+
+
+#### Why not use constructivism / constructionism
+
+COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
+
+
+Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
+
+
+Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
+
+NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
+
+
+**Constructionism as applied learning and design  theory**
+
+Much of the foundational literature on game making names constructionism as a guiding theory  (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996).
+
+Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
+
+Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
+
+It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
+
+Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
+
+<!-- NOTE Investigate more
+https://dspace.mit.edu/handle/1721.1/131022/discover?query=constructionism&submit=Go&filtertype_0=department&filter_relational_operator_0=authority&filter_0=845e039612ff85b8394b5ef42a7f3aa7 -->
+
+<!-- While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000], Barab notes following alignmentS with . -->
+
+
+<!-- They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] .  -->
+
+<!-- Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
+oloughlin_rethinking_1992 -->
+
+<!-- Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. -->
+
+ <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
+
+<!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
+
+<!-- [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] -->
+
+
+<!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
+
+<!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
+
+Barab and Squire [@barab_design-based_2004]
+
+For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
+<!--
+As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
+
+
 
 ## Methods used in this study
 
