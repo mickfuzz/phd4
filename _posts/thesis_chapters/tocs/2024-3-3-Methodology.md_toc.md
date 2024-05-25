@@ -11,44 +11,48 @@
             context](#socio-cultural-approaches-and-the-primacy-of-context)
         -   [What is and Why choose Activity
             Theory](#what-is-and-why-choose-activity-theory)
-            -   [Conceptualising informal education via foundational
-                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
-                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
+            -   [Conceptualising AT via foundational theory - FOR CHAP 3
+                INTRO](#conceptualising-at-via-foundational-theory---for-chap-3-intro)
     -   [Methodology of this study](#methodology-of-this-study)
-        -   [The guiding principles of DBR and alignment with
-            CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat)
-        -   [Context and Generalisation of
-            results:](#context-and-generalisation-of-results)
-        -   [Justification of choice (esp compared to constructionism) -
-            DROP - or ALIGN dbr WITH
-            CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop---or-align-dbr-with-constructionism)
+        -   [The guiding principles of DBR, and expansive learning and
+            formative interventions within an AT
+            framework](#the-guiding-principles-of-dbr-and-expansive-learning-and-formative-interventions-within-an-at-framework)
+            -   [Briefly defining terms -
+                DBR](#briefly-defining-terms---dbr)
+            -   [Briefly defining terms - Formative
+                Intervention](#briefly-defining-terms---formative-intervention)
+            -   [the alignment of DBR and Formative
+                Intervention](#the-alignment-of-dbr-and-formative-intervention)
+        -   [Guiding principles of this study's methdological
+            approach](#guiding-principles-of-this-studys-methdological-approach)
+            -   [Principle: Mutuality](#principle-mutuality)
+            -   [Principle: The importance of
+                context](#principle-the-importance-of-context)
+        -   [Principle: Finding suitable units of analysis by focusing
+            on objects of
+            activity](#principle-finding-suitable-units-of-analysis-by-focusing-on-objects-of-activity)
+        -   [Principle: Identifying areas of conflict and contradictions
+            between activity system
+            elements.](#principle-identifying-areas-of-conflict-and-contradictions-between-activity-system-elements.)
+        -   [Principle : Utility of research - overcoming the tension
+            between the rich context and generalisation of
+            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+            -   [Principle : Researcher take and active interventionist
+                approach](#principle-researcher-take-and-active-interventionist-approach)
+            -   [Principle: Analysis of activity system through
+                conflicts and contradictions between
+                elements](#principle-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+    -   [Summary of Justification of
+        choice](#summary-of-justification-of-choice)
+        -   [Ongoing alignments between DBR and the CHAT community /
+            ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
+        -   [Summary statement](#summary-statement)
         -   [Why not use constructivism /
             constructionism](#why-not-use-constructivism-constructionism)
     -   [Methods used in this study](#methods-used-in-this-study)
-        -   [Scopes of anaylsis, three planes approaches and other
-            learning community
-            methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
-            -   [ON GERM CELL AND EXPANSIVE LEARNING
-                MOVE](#on-germ-cell-and-expansive-learning-move)
-        -   [Comparing characteristics of DBR, expansive learning and
-            formative
-            interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
-            -   [The additions / adaptations of the CHAT community to
-                DBR](#the-additions-adaptations-of-the-chat-community-to-dbr)
-            -   [Using the term formative
-                interventions](#using-the-term-formative-interventions)
-            -   [Identifying specific techniques of formative
-                interventions suitable to this
-                study](#identifying-specific-techniques-of-formative-interventions-suitable-to-this-study)
-        -   [Summary of alignments between approaches and the pragmatic
-            approach of this
-            study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
-        -   [Analysis of activity system through conflicts and
-            contradictions between
-            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
-        -   [Disambiguating terminology - Conflicts, tensions,
-            contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Identifying specific techniques (methods) of formative
+            interventions suitable to this
+            study](#identifying-specific-techniques-methods-of-formative-interventions-suitable-to-this-study)
         -   [Methods / Conceptual tools associated with
             agency](#methods-conceptual-tools-associated-with-agency)
             -   [Creating ideocultures as designed systems (ADD THIRD

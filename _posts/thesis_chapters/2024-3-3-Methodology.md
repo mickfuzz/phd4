@@ -22,44 +22,48 @@ title: 3. Methodology
             context](#socio-cultural-approaches-and-the-primacy-of-context)
         -   [What is and Why choose Activity
             Theory](#what-is-and-why-choose-activity-theory)
-            -   [Conceptualising informal education via foundational
-                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
-                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
+            -   [Conceptualising AT via foundational theory - FOR CHAP 3
+                INTRO](#conceptualising-at-via-foundational-theory---for-chap-3-intro)
     -   [Methodology of this study](#methodology-of-this-study)
-        -   [The guiding principles of DBR and alignment with
-            CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat)
-        -   [Context and Generalisation of
-            results:](#context-and-generalisation-of-results)
-        -   [Justification of choice (esp compared to constructionism) -
-            DROP - or ALIGN dbr WITH
-            CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop---or-align-dbr-with-constructionism)
+        -   [The guiding principles of DBR, and expansive learning and
+            formative interventions within an AT
+            framework](#the-guiding-principles-of-dbr-and-expansive-learning-and-formative-interventions-within-an-at-framework)
+            -   [Briefly defining terms -
+                DBR](#briefly-defining-terms---dbr)
+            -   [Briefly defining terms - Formative
+                Intervention](#briefly-defining-terms---formative-intervention)
+            -   [the alignment of DBR and Formative
+                Intervention](#the-alignment-of-dbr-and-formative-intervention)
+        -   [Guiding principles of this study's methdological
+            approach](#guiding-principles-of-this-studys-methdological-approach)
+            -   [Principle: Mutuality](#principle-mutuality)
+            -   [Principle: The importance of
+                context](#principle-the-importance-of-context)
+        -   [Principle: Finding suitable units of analysis by focusing
+            on objects of
+            activity](#principle-finding-suitable-units-of-analysis-by-focusing-on-objects-of-activity)
+        -   [Principle: Identifying areas of conflict and contradictions
+            between activity system
+            elements.](#principle-identifying-areas-of-conflict-and-contradictions-between-activity-system-elements.)
+        -   [Principle : Utility of research - overcoming the tension
+            between the rich context and generalisation of
+            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+            -   [Principle : Researcher take and active interventionist
+                approach](#principle-researcher-take-and-active-interventionist-approach)
+            -   [Principle: Analysis of activity system through
+                conflicts and contradictions between
+                elements](#principle-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+    -   [Summary of Justification of
+        choice](#summary-of-justification-of-choice)
+        -   [Ongoing alignments between DBR and the CHAT community /
+            ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
+        -   [Summary statement](#summary-statement)
         -   [Why not use constructivism /
             constructionism](#why-not-use-constructivism-constructionism)
     -   [Methods used in this study](#methods-used-in-this-study)
-        -   [Scopes of anaylsis, three planes approaches and other
-            learning community
-            methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
-            -   [ON GERM CELL AND EXPANSIVE LEARNING
-                MOVE](#on-germ-cell-and-expansive-learning-move)
-        -   [Comparing characteristics of DBR, expansive learning and
-            formative
-            interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
-            -   [The additions / adaptations of the CHAT community to
-                DBR](#the-additions-adaptations-of-the-chat-community-to-dbr)
-            -   [Using the term formative
-                interventions](#using-the-term-formative-interventions)
-            -   [Identifying specific techniques of formative
-                interventions suitable to this
-                study](#identifying-specific-techniques-of-formative-interventions-suitable-to-this-study)
-        -   [Summary of alignments between approaches and the pragmatic
-            approach of this
-            study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
-        -   [Analysis of activity system through conflicts and
-            contradictions between
-            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
-        -   [Disambiguating terminology - Conflicts, tensions,
-            contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Identifying specific techniques (methods) of formative
+            interventions suitable to this
+            study](#identifying-specific-techniques-methods-of-formative-interventions-suitable-to-this-study)
         -   [Methods / Conceptual tools associated with
             agency](#methods-conceptual-tools-associated-with-agency)
             -   [Creating ideocultures as designed systems (ADD THIRD
@@ -266,7 +270,7 @@ JUST A QUICK SUMMARY HERE -
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
-#### Conceptualising informal education via foundational theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT IT?
+#### Conceptualising AT via foundational theory - FOR CHAP 3 INTRO
 
 Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
@@ -276,7 +280,7 @@ Foundation sociocultural approach which goes beyond a conception of transmission
 
 - Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
-- Rogoff - community of learners and 3 foci as a way to frame this in education
+<!-- - Rogoff - community of learners and 3 foci as a way to frame this in education -->
 
 <!--
 // don't focus in on DBR save that... -->
@@ -284,7 +288,7 @@ Foundation sociocultural approach which goes beyond a conception of transmission
 ### Activity as Unit of Analysis
 Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
 
-The vital role of cultural mediation in development [@cole_beyond_1996-1]
+The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy.
 
 This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
 
@@ -298,15 +302,20 @@ The methdology of this chapter is closely aligned with the activity theory conce
 
 My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
 
-The research aims of my study brought into focus some of they key debates and issues of design based research.
-
-- mutual appropriation and ethics of participation rather than extraction
-- generating material suitable for sharing as research but also basis for starting other communities, be this via tools process or other
-- the difficulties of transmitting research outcomes to non-academics - give positive examples.
 
 
+### The guiding principles of DBR, and expansive learning and formative interventions within an AT framework
 
+The process of researching a suitable methodology for this study surfaced of they key debates and issues of design based research and similar formative interventions in CHAT school. Namely:
 
+- iterative and responsive design process
+- the research process creates new forms of activity and associated resources
+- the mutuality of the process: aligned with research ethic of participation rather than extraction
+- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
+
+To help explore these principles, this section first presents brief definitions of term and then describes some of the fault-lines in the theoretical debates surrounding the methods of DBR, expansive learning / formative interventions. It then
+
+#### Briefly defining terms - DBR
 
 Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
@@ -314,15 +323,35 @@ Penuel [-@penuel_emerging_2014] describes design based researchers as an eclecti
 
 One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
-
-#### The guiding principles of DBR and alignment with CHAT
-
-
 The definition of DBR is evolving. Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
 
 There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
 
+
+#### Briefly defining terms -  Formative Intervention
+
+
+to come
+
+#### the alignment of DBR and Formative Intervention
+
+The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals.
+
+In one such edition, Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
+
+I this study adopt this term to describe the methodology of this research. It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.  
+
+
+
+### Guiding principles of this study's methdological approach
+
+**This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
+
+#### Principle: Mutuality
+
 One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
+
+#### Principle: The importance of context
 
 One of Engestrom's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
@@ -330,27 +359,169 @@ For example, the context of experiments, particularly viewing the classroom as a
 
 
 
+### Principle: Finding suitable units of analysis by focusing on objects of activity
+
+**Scopes of analysis, three planes approaches and other learning community methods**
+
+EXPLAIN IN JUST ENOUGH DETAIL HERE.
+
+Following Rogoff [@ rogoff_observing_1995]
+
+And Engestrom on expansive learning / germ cell
+
+
+
+The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
+
+Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
+From  [@engestrom_design_2011]
+
+This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
+
+When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty.
+
+From ?
+In the case of this study, activity can be seen as different scopes
+
+- wider educational context and the culture of the whole program
+- guided activity
+- specific actions and operations.
+
+To answer this study's RQs, all three aspects and their interactions need to be investigated.  
+
+Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]  
+
+However the concept of project can also be applied to different scopes of activity. While game making as a community process is clearly as an important activity system to study, chapters four and five explores the value of interpersonal activity around the goal of implementing discrete game design patterns.
+
+**Activity, Actions and Operations**
+
+EXPLAIN IN JUST ENOUGH DETAIL HERE.
+
+Following the terms and concepts used by Leontiev [-@leontiev_activity_2009],
+
+Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
+
+The concept of activity as a primary unit for analysis to research community activity was outlined.
+
+
 <!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
 <!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
 
 
 
+<!-- Work on agency in change labs and more wider concepts of formative interventions are important to this study. -->
 
 
 
-#### Context and Generalisation of results:
+<!--
+There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process. -->
+<!--
+Other areas are less aligned with existing models proposed by Engeestrom, CL, etc.
+The specific drive for participants to identify new tools, -->
+
+<!-- Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment. -->
+
+<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
+INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
+->
+
+<!--
+From [@cakir_contradictions_2022]
+
+In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
+
+
+
+### Principle: Identifying areas of conflict and contradictions between activity system elements.
+
+
+
+
+
+### Principle : Utility of research - overcoming the tension between the rich context and generalisation of results
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
 This context of this research, which is x,  
 
 
+#### Principle : Researcher take and active interventionist approach
+
+In both DBR and formative interventions, the researchers take an active role, a stance which has been critique from the perspective of traditional psychological experimental researchers.
+
+
+Different  approaches are needed depending on if the activity and context of that activity is already  established an on-going or if it is a new venture created by researchers / participants.
+
+**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
 
 
 
-#### Justification of choice (esp compared to constructionism) - DROP - or ALIGN dbr WITH CONSTRUCTIONISM
 
 
+#### Principle: Analysis of activity system through conflicts and contradictions between elements
+
+
+Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" []
+ <!-- [@lave_developmental_1993] -->
+
+
+While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
+
+
+Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail.
+
+
+
+##### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
+
+
+In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
+
+In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
+
+Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
+
+While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework.
+
+NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
+
+On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
+
+In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
+
+Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
+
+<!-- (Relational agency?) -->
+
+SUMMARY OF DISAMBIGUATION
+In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contradictions as a broad term wrapper encompassing concepts of tensions, barriers, breakdowns, conflicts.
+
+In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
+
+
+## Summary of Justification of choice
+
+**(esp compared to constructionism) - DROP - or ALIGN dbr WITH CONSTRUCTIONISM**
+
+
+####  Ongoing alignments between  DBR  and the CHAT community / ethos
+
+Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
+<!--
+NOTE PROBLEM REFERNCE for pandoc
+ [@engestrom_design_2011] -->
+
+Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
+
+Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
+
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
+
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
+
+
+
+### Summary statement
 
 MOVE ?
 I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
@@ -359,7 +530,7 @@ MOVED FROM ANOTHER SECTION SEE IF IT FITS.
 AGAIN MOVED
 **Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
 
-#### Why not use constructivism / constructionism
+### Why not use constructivism / constructionism
 
 COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
 
@@ -415,8 +586,6 @@ NOTE - Thus in the next chapter particular attention is paid to the development 
 <!--
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
 
-
-
 ## Methods used in this study
 
 This section examines the use of methods aligned with activity theory and DBR to help conceptualise and analyise the learning environment and processes.
@@ -424,110 +593,16 @@ This section examines the use of methods aligned with activity theory and DBR to
 The methods outlined in this section combine to create a methodology aligned with formative intervention and DBR principles.
 
 
-### Scopes of anaylsis, three planes approaches and other learning community methods
-
-EXPLAIN IN JUST ENOUGH DETAIL HERE.
-
-Following Rogoff [@ rogoff_observing_1995]
-
-When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty.
-
-From ?
-In the case of this study, activity can be seen as different scopes
-
-- wider educational context and the culture of the whole program
-- guided activity
-- specific actions and operations.
-
-To answer this study's RQs, all three aspects and their interactions need to be investigated.  
-
-Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]  
-
-However the concept of project can also be applied to different scopes of activity. While game making as a community process is clearly as an important activity system to study, chapters four and five explores the value of interpersonal activity around the goal of implementing discrete game design patterns.
-
-**Activity, Actions and Operations**
-
-EXPLAIN IN JUST ENOUGH DETAIL HERE.
-
-Following the terms and concepts used by Leontiev [-@leontiev_activity_2009],
-
-Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
-
-The concept of activity as a primary unit for analysis to research community activity was outlined.
-
-
-
-#### ON GERM CELL AND EXPANSIVE LEARNING MOVE
-MAYBE MOVE SOMEWHERE ELSE? INTRODUCING A DISCUSSION LATER?
-
-The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
-
-Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
-From  [@engestrom_design_2011]
-
-This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
-
-### Comparing characteristics of DBR, expansive learning and formative interventions
-
-**This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
-
-
-
-
-
-
-####  The additions / adaptations of the CHAT community to DBR
-
-Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
-<!--
-NOTE PROBLEM REFERNCE for pandoc
- [@engestrom_design_2011] -->
-
-Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
-
-Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
-
-Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
-
-Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
-
-#### Using the term formative interventions
-
-The broad alignment with CHAT ethos and processes has been explored, including in special editions of journals. In one such edition, Penuel [-@penuel_emerging_2014] proposes the discussion of the term formative interventions.
-
-I adopt this term to describe the methodology of this rsearch. It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.   
-
-<!-- Work on agency in change labs and more wider concepts of formative interventions are important to this study. -->
-
-
-
-<!--
-There are some areas that broadly align; the use of second stimulus, a thorny problem that requires a new solution, the move from individual action to a collective object and process. -->
-<!--
-Other areas are less aligned with existing models proposed by Engeestrom, CL, etc.
-The specific drive for participants to identify new tools, -->
-
-<!-- Comparing Engestrom's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment. -->
-
-<!--NOTE - CALL FORWARD This methdology applies this to a smaller domain, but with potential to expand into wider informal education for future studies.
-INSERT LATER REFENCES IN GDP CHAPTER AND FUTURE WORK DISCUSSION
-->
-
-<!--
-From [@cakir_contradictions_2022]
-
-In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
-
-
-
-#### Identifying specific techniques of formative interventions suitable to this study
+#### Identifying specific techniques (methods) of formative interventions suitable to this study
 
 MAKE MORE SPECIFIC TO THIS INTERVENTION?
 FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
 
 
 
-As the game making activity for participants is novel there are few if any established community or working processes. Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants.
+As the game making activity for participants is novel there are few if any established community or working processes.
+
+<!-- Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants. -->
 
 However, the expansive process and the use of transformational agency through double stimulation as a guiding technique offers  significant opportunities.
 LINK THE CONCEPTS / PROCESS HERE.
@@ -575,56 +650,11 @@ This has been applied in various forms, PBL, apprenticeship models, for example 
 
 
 
-### Summary of alignments between approaches and the pragmatic approach of this study
 
-While, this study does not take a strong position on formative intervention / DBR, it is broadly aligned with the need to take into account learner-initiated innovation and the importance of broader contexts.
-
-**Designed systems:** Learning environments are designed systems; be they existing systems like that of the classroom, or newly designed systems [@barnett_ecosystem_2019; @cole_design-based_2016].
-
-This section has identified broad alignments in direction for CHAT perspective on DBR.
 
 <!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
 
 
-### Analysis of activity system through conflicts and contradictions between elements
-
-
-Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" []
- <!-- [@lave_developmental_1993] -->
-
-
-While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
-
-
-Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail.
-
-
-
-### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
-
-
-In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
-
-In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
-
-Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
-
-While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework.
-
-NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
-
-On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
-
-In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
-
-Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
-
-<!-- (Relational agency?) -->
-
-SUMMARY OF DISAMBIGUATION
-In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contradictions as a broad term wrapper encompassing concepts of tensions, barriers, breakdowns, conflicts.
-
-In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 
 <!-- DROP THIS - NOT NEEDED
