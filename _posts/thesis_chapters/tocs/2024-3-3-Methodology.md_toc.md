@@ -11,14 +11,14 @@
             context](#socio-cultural-approaches-and-the-primacy-of-context)
         -   [What is and Why choose Activity
             Theory](#what-is-and-why-choose-activity-theory)
+            -   [Conceptualising informal education via foundational
+                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
+                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
     -   [Methodology of this study](#methodology-of-this-study)
         -   [The guiding principles of DBR and alignment with
             CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat)
         -   [Context and Generalisation of
             results:](#context-and-generalisation-of-results)
-        -   [Conceptualising informal education via foundational
-            theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
-            IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
         -   [Justification of choice (esp compared to constructionism) -
             DROP - or ALIGN dbr WITH
             CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop---or-align-dbr-with-constructionism)
@@ -30,12 +30,6 @@
             methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
             -   [ON GERM CELL AND EXPANSIVE LEARNING
                 MOVE](#on-germ-cell-and-expansive-learning-move)
-        -   [Analysis of activity system through conflicts and
-            contradictions between
-            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
-        -   [Disambiguating terminology - Conflicts, tensions,
-            contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
         -   [Comparing characteristics of DBR, expansive learning and
             formative
             interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
@@ -49,15 +43,20 @@
         -   [Summary of alignments between approaches and the pragmatic
             approach of this
             study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
-    -   [Conceptual tools associated with
-        agency](#conceptual-tools-associated-with-agency)
-        -   [Creating ideocultures as designed systems (ADD THIRD SPACE
-            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Possible funds of
-                knowledge](#possible-funds-of-knowledge)
-        -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency)
+        -   [Analysis of activity system through conflicts and
+            contradictions between
+            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+        -   [Disambiguating terminology - Conflicts, tensions,
+            contradictions,
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Methods / Conceptual tools associated with
+            agency](#methods-conceptual-tools-associated-with-agency)
+            -   [Creating ideocultures as designed systems (ADD THIRD
+                SPACE
+                HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
+            -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [TADS - On double stimulation and
+                agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances](#on-affordances)
     -   [Data Collection](#data-collection)
         -   [Summary Table of Data

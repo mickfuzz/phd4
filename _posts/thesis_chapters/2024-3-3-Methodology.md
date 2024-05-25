@@ -22,14 +22,14 @@ title: 3. Methodology
             context](#socio-cultural-approaches-and-the-primacy-of-context)
         -   [What is and Why choose Activity
             Theory](#what-is-and-why-choose-activity-theory)
+            -   [Conceptualising informal education via foundational
+                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
+                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
     -   [Methodology of this study](#methodology-of-this-study)
         -   [The guiding principles of DBR and alignment with
             CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat)
         -   [Context and Generalisation of
             results:](#context-and-generalisation-of-results)
-        -   [Conceptualising informal education via foundational
-            theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
-            IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
         -   [Justification of choice (esp compared to constructionism) -
             DROP - or ALIGN dbr WITH
             CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop---or-align-dbr-with-constructionism)
@@ -41,12 +41,6 @@ title: 3. Methodology
             methods](#scopes-of-anaylsis-three-planes-approaches-and-other-learning-community-methods)
             -   [ON GERM CELL AND EXPANSIVE LEARNING
                 MOVE](#on-germ-cell-and-expansive-learning-move)
-        -   [Analysis of activity system through conflicts and
-            contradictions between
-            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
-        -   [Disambiguating terminology - Conflicts, tensions,
-            contradictions,
-            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
         -   [Comparing characteristics of DBR, expansive learning and
             formative
             interventions](#comparing-characteristics-of-dbr-expansive-learning-and-formative-interventions)
@@ -60,15 +54,20 @@ title: 3. Methodology
         -   [Summary of alignments between approaches and the pragmatic
             approach of this
             study](#summary-of-alignments-between-approaches-and-the-pragmatic-approach-of-this-study)
-    -   [Conceptual tools associated with
-        agency](#conceptual-tools-associated-with-agency)
-        -   [Creating ideocultures as designed systems (ADD THIRD SPACE
-            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
-        -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Possible funds of
-                knowledge](#possible-funds-of-knowledge)
-        -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency)
+        -   [Analysis of activity system through conflicts and
+            contradictions between
+            elements](#analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
+        -   [Disambiguating terminology - Conflicts, tensions,
+            contradictions,
+            dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+        -   [Methods / Conceptual tools associated with
+            agency](#methods-conceptual-tools-associated-with-agency)
+            -   [Creating ideocultures as designed systems (ADD THIRD
+                SPACE
+                HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
+            -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [TADS - On double stimulation and
+                agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances](#on-affordances)
     -   [Data Collection](#data-collection)
         -   [Summary Table of Data
@@ -267,7 +266,27 @@ JUST A QUICK SUMMARY HERE -
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
+#### Conceptualising informal education via foundational theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT IT?
 
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+
+<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
+
+- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
+
+- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
+
+- Rogoff - community of learners and 3 foci as a way to frame this in education
+
+<!--
+// don't focus in on DBR save that... -->
+<!-- NOTE - MOVE TO METHODOLOGY
+### Activity as Unit of Analysis
+Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
+
+The vital role of cultural mediation in development [@cole_beyond_1996-1]
+
+This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
 
 
 
@@ -326,27 +345,7 @@ Barab and Squire [@barab_design-based_2004] describe the messiness of design-bas
 This context of this research, which is x,  
 
 
-#### Conceptualising informal education via foundational theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT IT?
 
-Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
-
-<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
-
-- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
-
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
-
-- Rogoff - community of learners and 3 foci as a way to frame this in education
-
-<!--
-// don't focus in on DBR save that... -->
-<!-- NOTE - MOVE TO METHODOLOGY
-### Activity as Unit of Analysis
-Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
-
-The vital role of cultural mediation in development [@cole_beyond_1996-1]
-
-This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
 
 
 #### Justification of choice (esp compared to constructionism) - DROP - or ALIGN dbr WITH CONSTRUCTIONISM
@@ -468,83 +467,6 @@ From  [@engestrom_design_2011]
 
 This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
 
-### Analysis of activity system through conflicts and contradictions between elements
-
-
-Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" []
- <!-- [@lave_developmental_1993] -->
-
-
-While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
-
-
-Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail.
-
-
-
-### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
-
-
-In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
-
-In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
-
-Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
-
-While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework.
-
-NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
-
-On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
-
-In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
-
-Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
-
-<!-- (Relational agency?) -->
-
-SUMMARY OF DISAMBIGUATION
-In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contradictions as a broad term wrapper encompassing concepts of tensions, barriers, breakdowns, conflicts.
-
-In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
-
-
-<!-- DROP THIS - NOT NEEDED
-REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
-
-<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
-
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-
-
-<!-- (see blunden for more on project as unit of Activity
-https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
-
-<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
-
-<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
-NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
-
-<!-- review this video to develop
-https://www.youtube.com/watch?v=BMi56ZBSows -->
-
-<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
-
-<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
-<!-- #### LOA in Computing pedagogy
-Call back to PRIMM and Waite Sentence's work here -->
-
-
-
-
 ### Comparing characteristics of DBR, expansive learning and formative interventions
 
 **This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
@@ -556,7 +478,10 @@ Call back to PRIMM and Waite Sentence's work here -->
 
 ####  The additions / adaptations of the CHAT community to DBR
 
-Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work [@engestrom_design_2011]
+Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
+<!--
+NOTE PROBLEM REFERNCE for pandoc
+ [@engestrom_design_2011] -->
 
 Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
 
@@ -660,7 +585,88 @@ This section has identified broad alignments in direction for CHAT perspective o
 
 <!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
 
-## Conceptual tools associated with agency
+
+### Analysis of activity system through conflicts and contradictions between elements
+
+
+Engestrom [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" []
+ <!-- [@lave_developmental_1993] -->
+
+
+While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
+
+
+Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. The following section explores agency in more detail.
+
+
+
+### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
+
+
+In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
+
+In HCI and DBR and other design based research, similar concepts are are explored using a variety of different terms.
+
+Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
+
+While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework.
+
+NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
+
+On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engestrom early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
+
+In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
+
+Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
+
+<!-- (Relational agency?) -->
+
+SUMMARY OF DISAMBIGUATION
+In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contradictions as a broad term wrapper encompassing concepts of tensions, barriers, breakdowns, conflicts.
+
+In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
+
+
+<!-- DROP THIS - NOT NEEDED
+REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
+
+<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
+
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
+
+
+
+<!-- (see blunden for more on project as unit of Activity
+https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
+
+<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
+
+<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
+NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
+
+<!-- review this video to develop
+https://www.youtube.com/watch?v=BMi56ZBSows -->
+
+<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
+
+<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
+<!-- #### LOA in Computing pedagogy
+Call back to PRIMM and Waite Sentence's work here -->
+
+
+
+
+
+### Methods / Conceptual tools associated with agency
+
+NOTE - Are these methods, are they useful theories that need to be framed in a different way?
 
 <!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
 
@@ -673,7 +679,7 @@ Look for tensions in ATs - and how learners overcome barriers or blockages, is a
 
 
 
-### Creating ideocultures as designed systems (ADD THIRD SPACE HERE)
+#### Creating ideocultures as designed systems (ADD THIRD SPACE HERE)
 
 From Cole.
 
@@ -682,7 +688,7 @@ The concept of ideocultures is useful when compared to expansive learning and pr
 
 
 
-### Funds of Knowledge
+#### Funds of Knowledge
 
 My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
 
@@ -695,7 +701,7 @@ Problematising Funds of knowledge and funds of identity which may perpetuate sta
 - and update outlined here [@rajala_utopian_2023]
 
 
-#### Possible funds of knowledge  
+##### Possible funds of knowledge  
 
 NOTE - THIS PROBABLY NEEDS TO GO SOMEWHERE ELSE - TOO CONTEXT SPECIFIC
 
@@ -711,7 +717,7 @@ NOTE - HOW IS THIS EXPLORE LATER?  IS THIS REALLY A METHODOLOGY ASPECT - OR SOME
 
 
 
-### TADS - On double stimulation and agency
+#### TADS - On double stimulation and agency
 
 NOTE - HOW MUCH TO GO INTO THIS HERE OR BRING IT UP LATER?
 
@@ -723,7 +729,9 @@ Blockages caused by contradictions are also analysed the fields of design and HC
 
 #### On affordances
 
-AT's relationship with affordances are explored here [@ba_erentsen_activity_2002]
+AT's relationship with affordances are explored here
+
+<!-- [@ba_erentsen_activity_2002] -->
 
 In my analysi of
 
