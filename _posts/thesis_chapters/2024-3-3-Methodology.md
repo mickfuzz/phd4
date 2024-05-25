@@ -729,14 +729,17 @@ Blockages caused by contradictions are also analysed the fields of design and HC
 
 #### On affordances
 
-AT's relationship with affordances are explored here
-
 <!-- [@ba_erentsen_activity_2002] -->
 
-In my analysi of
+Affordance theory and associated research in the context of designing for created learner experiences provides concept useful for this study.
 
+There is a link between double stimulation and affordances [@romero_analysing_2022]
 
-Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
+A good summary of affordances related to HCI is here [@galliers_affordance_2017]
+
+Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].
+
+They focus particularly in terms of who the affordance is for.
 
 Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
 
