@@ -93,29 +93,8 @@ title: 2. Literature Review
         -   [Tensions surrounding authenticity of tool use- move to LIT
             REVIEW / END
             DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
-    -   [Theoretical Framework & other influential theoretical areas
-        (like constructionism as a design / learning theory)
-        (Methodology
-        approach)?](#theoretical-framework-other-influential-theoretical-areas-like-constructionism-as-a-design-learning-theory-methodology-approach)
-        -   [Socio cultural approaches and the primacy of
-            context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [What is and Why choose Activity Theory (&
-            DBR?)](#what-is-and-why-choose-activity-theory-dbr)
-            -   [Justification of choice (esp compared to
-                constructionism) - DROP ALIGN dbr WITH
-                CONSTRUCTIONISM](#justification-of-choice-esp-compared-to-constructionism---drop-align-dbr-with-constructionism)
-            -   [Why not constructivism /
-                constructionism](#why-not-constructivism-constructionism)
-            -   [Design-based research and formative intervention
-                studies within educational
-                field](#design-based-research-and-formative-intervention-studies-within-educational-field)
-            -   [The guiding principles of DBR and alignment with
-                CHAT](#the-guiding-principles-of-dbr-and-alignment-with-chat)
-            -   [Context and Generalisation of
-                results:](#context-and-generalisation-of-results)
-            -   [Conceptualising informal education via foundational
-                theory - IS THIS NEEDED HERE - NO - BUT WHERE TO PUT
-                IT?](#conceptualising-informal-education-via-foundational-theory---is-this-needed-here---no---but-where-to-put-it)
+    -   [Conclusion link to the next
+        chapters](#conclusion-link-to-the-next-chapters)
 
 
 # Literature Review
