@@ -14,29 +14,26 @@
             -   [Conceptualising AT via foundational theory - FOR CHAP 3
                 INTRO](#conceptualising-at-via-foundational-theory---for-chap-3-intro)
     -   [Methodology of this study](#methodology-of-this-study)
+        -   [Briefly defining terms -
+            DBR](#briefly-defining-terms---dbr)
+        -   [Briefly defining terms - Formative
+            Intervention](#briefly-defining-terms---formative-intervention)
+        -   [the alignment of DBR and Formative
+            Intervention](#the-alignment-of-dbr-and-formative-intervention)
         -   [The guiding principles of DBR, and expansive learning and
             formative interventions within an AT
             framework](#the-guiding-principles-of-dbr-and-expansive-learning-and-formative-interventions-within-an-at-framework)
-            -   [Briefly defining terms -
-                DBR](#briefly-defining-terms---dbr)
-            -   [Briefly defining terms - Formative
-                Intervention](#briefly-defining-terms---formative-intervention)
-            -   [the alignment of DBR and Formative
-                Intervention](#the-alignment-of-dbr-and-formative-intervention)
         -   [Guiding principles of this study's methdological
             approach](#guiding-principles-of-this-studys-methdological-approach)
             -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
-        -   [Principle: Finding suitable units of analysis by focusing
-            on objects of
-            activity](#principle-finding-suitable-units-of-analysis-by-focusing-on-objects-of-activity)
-        -   [Principle: Identifying areas of conflict and contradictions
-            between activity system
-            elements.](#principle-identifying-areas-of-conflict-and-contradictions-between-activity-system-elements.)
-        -   [Principle : Utility of research - overcoming the tension
-            between the rich context and generalisation of
-            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+            -   [Principle: Finding suitable units of analysis by
+                focusing on objects of
+                activity](#principle-finding-suitable-units-of-analysis-by-focusing-on-objects-of-activity)
+            -   [Principle : Utility of research - overcoming the
+                tension between the rich context and generalisation of
+                results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
             -   [Principle: Analysis of activity system through
@@ -59,6 +56,8 @@
                 SPACE
                 HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
             -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [Method of double
+                stimulation](#method-of-double-stimulation)
             -   [TADS - On double stimulation and
                 agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances](#on-affordances)

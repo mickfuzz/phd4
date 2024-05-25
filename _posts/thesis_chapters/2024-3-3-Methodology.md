@@ -25,29 +25,26 @@ title: 3. Methodology
             -   [Conceptualising AT via foundational theory - FOR CHAP 3
                 INTRO](#conceptualising-at-via-foundational-theory---for-chap-3-intro)
     -   [Methodology of this study](#methodology-of-this-study)
+        -   [Briefly defining terms -
+            DBR](#briefly-defining-terms---dbr)
+        -   [Briefly defining terms - Formative
+            Intervention](#briefly-defining-terms---formative-intervention)
+        -   [the alignment of DBR and Formative
+            Intervention](#the-alignment-of-dbr-and-formative-intervention)
         -   [The guiding principles of DBR, and expansive learning and
             formative interventions within an AT
             framework](#the-guiding-principles-of-dbr-and-expansive-learning-and-formative-interventions-within-an-at-framework)
-            -   [Briefly defining terms -
-                DBR](#briefly-defining-terms---dbr)
-            -   [Briefly defining terms - Formative
-                Intervention](#briefly-defining-terms---formative-intervention)
-            -   [the alignment of DBR and Formative
-                Intervention](#the-alignment-of-dbr-and-formative-intervention)
         -   [Guiding principles of this study's methdological
             approach](#guiding-principles-of-this-studys-methdological-approach)
             -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
-        -   [Principle: Finding suitable units of analysis by focusing
-            on objects of
-            activity](#principle-finding-suitable-units-of-analysis-by-focusing-on-objects-of-activity)
-        -   [Principle: Identifying areas of conflict and contradictions
-            between activity system
-            elements.](#principle-identifying-areas-of-conflict-and-contradictions-between-activity-system-elements.)
-        -   [Principle : Utility of research - overcoming the tension
-            between the rich context and generalisation of
-            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+            -   [Principle: Finding suitable units of analysis by
+                focusing on objects of
+                activity](#principle-finding-suitable-units-of-analysis-by-focusing-on-objects-of-activity)
+            -   [Principle : Utility of research - overcoming the
+                tension between the rich context and generalisation of
+                results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
             -   [Principle: Analysis of activity system through
@@ -70,6 +67,8 @@ title: 3. Methodology
                 SPACE
                 HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
             -   [Funds of Knowledge](#funds-of-knowledge)
+            -   [Method of double
+                stimulation](#method-of-double-stimulation)
             -   [TADS - On double stimulation and
                 agency](#tads---on-double-stimulation-and-agency)
             -   [On affordances](#on-affordances)
@@ -304,18 +303,7 @@ My own research in game making is an experimental approach to create a new learn
 
 
 
-### The guiding principles of DBR, and expansive learning and formative interventions within an AT framework
-
-The process of researching a suitable methodology for this study surfaced of they key debates and issues of design based research and similar formative interventions in CHAT school. Namely:
-
-- iterative and responsive design process
-- the research process creates new forms of activity and associated resources
-- the mutuality of the process: aligned with research ethic of participation rather than extraction
-- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
-
-To help explore these principles, this section first presents brief definitions of term and then describes some of the fault-lines in the theoretical debates surrounding the methods of DBR, expansive learning / formative interventions. It then
-
-#### Briefly defining terms - DBR
+### Briefly defining terms - DBR
 
 Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
@@ -328,18 +316,33 @@ The definition of DBR is evolving. Sandoval notes critique from some of the dive
 There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
 
 
-#### Briefly defining terms -  Formative Intervention
+### Briefly defining terms -  Formative Intervention
 
 
-to come
 
-#### the alignment of DBR and Formative Intervention
+A key text here is Cole and Engestrom's early exploration of two models (CL and 5D) of formative interventions designed to align with principle of AT [@valsiner_cultural-historical_2007]
+
+
+
+### the alignment of DBR and Formative Intervention
 
 The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals.
 
 In one such edition, Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
 
 I this study adopt this term to describe the methodology of this research. It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.  
+
+### The guiding principles of DBR, and expansive learning and formative interventions within an AT framework
+
+The process of researching a suitable methodology for this study surfaced of they key debates and issues of design based research and similar formative interventions in CHAT school. Namely:
+
+- iterative and responsive design process
+- the research process creates new forms of activity and associated resources
+- the mutuality of the process: aligned with research ethic of participation rather than extraction
+- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
+
+To help explore these principles, this section first presents brief definitions of term and then describes some of the fault-lines in the theoretical debates surrounding the methods of DBR, expansive learning / formative interventions. It then
+
 
 
 
@@ -359,7 +362,7 @@ For example, the context of experiments, particularly viewing the classroom as a
 
 
 
-### Principle: Finding suitable units of analysis by focusing on objects of activity
+#### Principle: Finding suitable units of analysis by focusing on objects of activity
 
 **Scopes of analysis, three planes approaches and other learning community methods**
 
@@ -432,13 +435,10 @@ In the last decade, learning scientists, psychologists, and education researcher
 
 
 
-### Principle: Identifying areas of conflict and contradictions between activity system elements.
 
 
 
-
-
-### Principle : Utility of research - overcoming the tension between the rich context and generalisation of results
+#### Principle : Utility of research - overcoming the tension between the rich context and generalisation of results
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
@@ -706,6 +706,54 @@ Cultural mediation via artefacts [cole], as a base.
 
 Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
 
+#### Method of double stimulation
+
+Description in general
+
+It is outlined in formative interventions - but mostly for CL rather than for 5D - [@valsiner_cultural-historical_2007]
+
+NOTE - how does cole talk about designing for agency? More pragmatically?
+
+
+
+#### TADS - On double stimulation and agency
+
+NOTE - HOW MUCH TO GO INTO THIS HERE OR BRING IT UP LATER?
+
+Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
+
+Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
+
+Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
+
+
+#### On affordances
+
+AT's relationship with affordances are explored here
+
+<!-- [@ba_erentsen_activity_2002] -->
+
+In my analysi of
+
+
+Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
+
+Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
+
+This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
+
+Nardi and colleagues give an overview regrounding Gibson's concept of affordances as action possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
+
+While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
+
+
+However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
+
+NOTE - more on affordances here from Nardi
+
+**Link with TADS?**
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
+
 
 
 
@@ -745,44 +793,6 @@ What potential does that give to family game making?
 
 NOTE - HOW IS THIS EXPLORE LATER?  IS THIS REALLY A METHODOLOGY ASPECT - OR SOMETHING FOR THE INTRODUCTION OR THE DISCUSSION CHAPTER 6 ?
 
-
-
-#### TADS - On double stimulation and agency
-
-NOTE - HOW MUCH TO GO INTO THIS HERE OR BRING IT UP LATER?
-
-Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
-
-Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
-
-Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
-
-#### On affordances
-
-AT's relationship with affordances are explored here
-
-<!-- [@ba_erentsen_activity_2002] -->
-
-In my analysi of
-
-
-Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].  Focus particularly in terms of who the affordance is for.
-
-Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
-
-This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
-
-Nardi and colleagues give an overview regrounding Gibson's concept of affordances as action possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
-
-While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
-
-
-However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
-
-NOTE - more on affordances here from Nardi
-
-**Link with TADS?**
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 
 ## Data Collection
