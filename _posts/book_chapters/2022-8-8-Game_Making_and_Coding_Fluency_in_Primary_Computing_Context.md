@@ -6,7 +6,7 @@ zotero:
   csl-style: apa # pre-fill the style
 layout: post
 categories: bookchapter
-title: Game Making and Coding Fluency in a Primary Computing Context
+title: Building Coding Fluency Through Seeding Community Game Making Practice
 ---
 
 Mick Chesterman[0000-0002-8005-2390]
