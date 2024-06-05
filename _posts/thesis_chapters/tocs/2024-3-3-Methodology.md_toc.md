@@ -47,20 +47,16 @@
         -   [Why not use constructivism /
             constructionism](#why-not-use-constructivism-constructionism)
     -   [Methods used in this study](#methods-used-in-this-study)
-        -   [Identifying specific techniques (methods) of formative
-            interventions suitable to this
-            study](#identifying-specific-techniques-methods-of-formative-interventions-suitable-to-this-study)
-        -   [Methods / Conceptual tools associated with
-            agency](#methods-conceptual-tools-associated-with-agency)
-            -   [Creating ideocultures as designed systems (ADD THIRD
-                SPACE
-                HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
-            -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Method of double
-                stimulation](#method-of-double-stimulation)
-            -   [TADS - On double stimulation and
-                agency](#tads---on-double-stimulation-and-agency)
-            -   [On affordances](#on-affordances)
+        -   [3 planes approach - noting tensions and
+            behaviours](#planes-approach---noting-tensions-and-behaviours)
+        -   [Method of double
+            stimulation](#method-of-double-stimulation)
+        -   [TADS - On double stimulation and
+            agency](#tads---on-double-stimulation-and-agency)
+        -   [On affordances](#on-affordances)
+        -   [Creating ideocultures as designed systems (ADD THIRD SPACE
+            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
+        -   [Funds of Knowledge](#funds-of-knowledge)
     -   [Data Collection](#data-collection)
         -   [Summary Table of Data
             Collection](#summary-table-of-data-collection)
@@ -83,7 +79,7 @@
                 -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [3 planes approach - noting tensions and
-                behaviours](#planes-approach---noting-tensions-and-behaviours)
+                behaviours](#planes-approach---noting-tensions-and-behaviours-1)
             -   [Justification of selecting sessions and sections for
                 more detailed
                 analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)

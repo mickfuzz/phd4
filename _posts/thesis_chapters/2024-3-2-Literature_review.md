@@ -386,18 +386,28 @@ Kynigos and Yiannoutsou identify a progression in the type of CT skills being us
 
 
 
+### Funds of knowledge and third space - OVERLAP WITH METHODOLOGY
+
+COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
+
+The concept of funds of knowledge (FoK) emerged from research within United States Latino communities.FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
+
+In the original study home visits were carried out to better inform design of after-school activities.
+
+However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
+
+The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
+
+#### Game making as a fund of knowledge
+
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
+
+Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
 
 
 
-### Funds of knowledge and third space
-
-#### Studies using funds of knowledge within their pedagogies
-
-Listed in this section are numerous studies looking into the use of home interests in coding process.
-For example in domain areas of wearable technology and fabric, storytelling, robot making and games.
-
-The concept of funds of knowledge is outlined here in brief form. Include Moll here.
-And followed by key observations supporting the importance of expression, of feelings of expertise, and some pedagogical techniques tactics to
 
 
 #### Third spaces and the context of this study

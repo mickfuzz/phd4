@@ -58,20 +58,16 @@ title: 3. Methodology
         -   [Why not use constructivism /
             constructionism](#why-not-use-constructivism-constructionism)
     -   [Methods used in this study](#methods-used-in-this-study)
-        -   [Identifying specific techniques (methods) of formative
-            interventions suitable to this
-            study](#identifying-specific-techniques-methods-of-formative-interventions-suitable-to-this-study)
-        -   [Methods / Conceptual tools associated with
-            agency](#methods-conceptual-tools-associated-with-agency)
-            -   [Creating ideocultures as designed systems (ADD THIRD
-                SPACE
-                HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
-            -   [Funds of Knowledge](#funds-of-knowledge)
-            -   [Method of double
-                stimulation](#method-of-double-stimulation)
-            -   [TADS - On double stimulation and
-                agency](#tads---on-double-stimulation-and-agency)
-            -   [On affordances](#on-affordances)
+        -   [3 planes approach - noting tensions and
+            behaviours](#planes-approach---noting-tensions-and-behaviours)
+        -   [Method of double
+            stimulation](#method-of-double-stimulation)
+        -   [TADS - On double stimulation and
+            agency](#tads---on-double-stimulation-and-agency)
+        -   [On affordances](#on-affordances)
+        -   [Creating ideocultures as designed systems (ADD THIRD SPACE
+            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
+        -   [Funds of Knowledge](#funds-of-knowledge)
     -   [Data Collection](#data-collection)
         -   [Summary Table of Data
             Collection](#summary-table-of-data-collection)
@@ -94,7 +90,7 @@ title: 3. Methodology
                 -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [3 planes approach - noting tensions and
-                behaviours](#planes-approach---noting-tensions-and-behaviours)
+                behaviours](#planes-approach---noting-tensions-and-behaviours-1)
             -   [Justification of selecting sessions and sections for
                 more detailed
                 analysis](#justification-of-selecting-sessions-and-sections-for-more-detailed-analysis)
@@ -219,8 +215,6 @@ This chapter describes
 - an overview of the design stages of the
 
 
-
-
 ## Theoretical Framework & other influential theoretical areas (like constructionism as a design / learning theory) (Methodology approach)?
 
 What to cover in this section.
@@ -232,8 +226,6 @@ I explore when constructivism/ constructionism is of interested but not the basi
 
 
 In the next chapter I will cover some of the specific methods and approaches
-
-
 
 
 <!-- The following terms and concepts have already been explored in the literature review.
@@ -593,11 +585,8 @@ This section examines the use of methods aligned with activity theory and DBR to
 The methods outlined in this section combine to create a methodology aligned with formative intervention and DBR principles.
 
 
-#### Identifying specific techniques (methods) of formative interventions suitable to this study
-
-MAKE MORE SPECIFIC TO THIS INTERVENTION?
+MAKE MORE SPECIFIC TO THIS INTERVENTION AND RESERACH QUESTIONS.
 FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
-
 
 
 As the game making activity for participants is novel there are few if any established community or working processes.
@@ -611,7 +600,26 @@ For example, in and educational settings INSERT QUICK CASE STUDY
 
 When interrogating the literature on formative there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process. How this maps onto a new activity in informal setting with novice learners is requires some clarification.
 
-The next section explore techniques to see cultural genesis with concepts of
+The next section explore techniques and methodological concepts which facilitate research on social and cultural dimensions of activities.
+
+
+**Methods / Conceptual tools associated with agency**
+
+Some of the following deal specifically with agency.
+NOTE - Are these methods, are they useful theories that need to be framed in a different way?
+
+<!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
+
+- agency as choice already explored in in 5D
+
+Cultural mediation via artefacts [cole], as a base.
+
+Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
+
+
+
+
+
 
 <!--
 DROP CONTENT ON CHANGE LAB
@@ -623,7 +631,6 @@ I am guided by the concepts behind the use of the models rather than drawn to an
 
 In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013]. -->
 
- REWRITE - EXPLAIN AND EXPLORE SECONDARY STIMULI
 
 <!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
 
@@ -692,40 +699,70 @@ Call back to PRIMM and Waite Sentence's work here -->
 
 
 
+#### 3 planes approach - noting tensions and behaviours
+
+The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
+
+For example in study x, y is used to surface tensions.
+
+RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
+
+Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
 
 
-### Methods / Conceptual tools associated with agency
-
-NOTE - Are these methods, are they useful theories that need to be framed in a different way?
-
-<!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
-
-- agency as choice already explored in in 5D
-
-Cultural mediation via artefacts [cole], as a base.
-
-Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
-
-#### Method of double stimulation
-
-Description in general
-
-It is outlined in formative interventions - but mostly for CL rather than for 5D - [@valsiner_cultural-historical_2007]
-
-NOTE - how does cole talk about designing for agency? More pragmatically?
-
-
-
-#### TADS - On double stimulation and agency
-
-NOTE - HOW MUCH TO GO INTO THIS HERE OR BRING IT UP LATER?
+#### Surfacing areas of contradiction in joint activity through method of double stimulation
 
 Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
-Double stimulation refers to the use of tools and processes to overcome such conflicts awareness of these tools and active use of them engenders agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
+The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
+
+Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
+
+One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007], which intervened in kindergarten process [@rajala_utopian_2023].
+
+##### TADS - On double stimulation and agency
+
+
+The active use of secondary stimulus can facilitate agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
+#### Third spaces, idiocultures and designed systems as a research method
+
+This study aligns with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
+
+The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
+
+
+Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
+
+This can be compared to methods addressing existing existing activities like the change laboratory.
+
+However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
+
+
+##### Funds of Knowledge within ideocultures
+
+Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
+
+The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
+
+
+##### Situating this study using third space and FoK terminology and processes
+
+In the context of this study we can conceptualise the learning context as a third space mixing home learning and culture and the context of university research and outreach work.  
+
+It draws on cultural processes of cultures of  family learning, coding cultures and informal science clubs. Of particular relevance is retro Gaming framed as a fund of identity. A process that emerged from early consultation with home educating families.
+
+![](./Pictures/mine_craft_img.png){width=90%}
+
+Retro gaming cultures emcompass broad media and practices beyond the games themselves. The image above shows now only a sketch of the Minecraft game, but also the names of YouTubers making videos about games.
+
+<!-- Retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects. -->
+
+This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
+
+This study contributes to work which explores the potential does that give to developing game coding practices as per RQ3.
 
 #### On affordances
 
@@ -756,46 +793,6 @@ NOTE - more on affordances here from Nardi
 
 **Link with TADS?**
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-
-
-
-#### Creating ideocultures as designed systems (ADD THIRD SPACE HERE)
-
-From Cole.
-
-The concept of ideocultures is useful when compared to expansive learning and presumption of existing objects.  
-
-
-
-
-#### Funds of Knowledge
-
-My study will be guided by understandings of how home discourses or 'funds of knowledge' (Moje et al., 2004; Moll et al., 1992, p. 3) can be drawn on as a resource by participants to facilitate learning in new environments.
-
-COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
-The concept of Funds of Knowledge emerged from research within United States Latino communities. The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992]. Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game. Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-Problematising Funds of knowledge and funds of identity which may perpetuate status quo negatively
-- and update outlined here [@rajala_utopian_2023]
-
-
-##### Possible funds of knowledge  
-
-NOTE - THIS PROBABLY NEEDS TO GO SOMEWHERE ELSE - TOO CONTEXT SPECIFIC
-
-As explored in the introduction this study explores an area where several contexts meeting, family learning, coding cultures and informal science clubs.
-
-**Retro Gaming as a Fund of knowledge:**  retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects.
-
-This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
-
-What potential does that give to family game making?
-
-NOTE - HOW IS THIS EXPLORE LATER?  IS THIS REALLY A METHODOLOGY ASPECT - OR SOMETHING FOR THE INTRODUCTION OR THE DISCUSSION CHAPTER 6 ?
-
 
 
 ## Data Collection
