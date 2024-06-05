@@ -19,10 +19,6 @@ baseurl: /phd4
 imgurl: https://github.com/mickfuzz/phd4/blob/master/
 show_excerpts: true
 
-markup:
-  goldmark:
-   renderer:
-     unsafe: true
 
 #theme: jekyll-theme-minimal
 
