@@ -49,14 +49,13 @@
     -   [Methods used in this study](#methods-used-in-this-study)
         -   [3 planes approach - noting tensions and
             behaviours](#planes-approach---noting-tensions-and-behaviours)
-        -   [Method of double
-            stimulation](#method-of-double-stimulation)
-        -   [TADS - On double stimulation and
-            agency](#tads---on-double-stimulation-and-agency)
+        -   [Surfacing areas of contradiction in joint activity through
+            method of double
+            stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
+        -   [Third spaces, idiocultures and designed systems as a
+            research
+            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
         -   [On affordances](#on-affordances)
-        -   [Creating ideocultures as designed systems (ADD THIRD SPACE
-            HERE)](#creating-ideocultures-as-designed-systems-add-third-space-here)
-        -   [Funds of Knowledge](#funds-of-knowledge)
     -   [Data Collection](#data-collection)
         -   [Summary Table of Data
             Collection](#summary-table-of-data-collection)

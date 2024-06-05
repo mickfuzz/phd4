@@ -28,10 +28,10 @@
                 principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
-        -   [Funds of knowledge and third
-            space](#funds-of-knowledge-and-third-space)
-            -   [Studies using funds of knowledge within their
-                pedagogies](#studies-using-funds-of-knowledge-within-their-pedagogies)
+        -   [Funds of knowledge and third space - OVERLAP WITH
+            METHODOLOGY](#funds-of-knowledge-and-third-space---overlap-with-methodology)
+            -   [Game making as a fund of
+                knowledge](#game-making-as-a-fund-of-knowledge)
             -   [Third spaces and the context of this
                 study](#third-spaces-and-the-context-of-this-study)
             -   [Play circles and MOE as a third
