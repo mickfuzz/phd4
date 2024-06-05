@@ -779,13 +779,7 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 
 
 
-| Name and Date                                  | Description                                                                                                                                                                                                                                             | Data Gathered                                                                                                                                                                                                                                            |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Phase 1<br><br>Oct 2017 - Mar 2018<br><br><br> | Experimental Course: 13 participants started with a blank canvas and were asked to plan and make a game in two  groups of mixed ages. A minimal incomplete starting game code template was introduced to support students after the course has started. | Digital and paper journal notes<br>Learning resources created                                                                                                                                                                                            |
 
-
-
-test
 
 
 
