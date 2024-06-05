@@ -477,7 +477,8 @@ Instrumental agency is relevant here to help examine and the work of learning de
 <!-- (Relational agency?) -->
 
 SUMMARY OF DISAMBIGUATION
-In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contradictions as a broad term wrapper encompassing concepts of tensions, barriers, breakdowns, conflicts.
+
+Instead of a more technical definition [@engestrom_discursive_2011], following Kuuti [-@kuutti_activity_1995], this study adopts  contradictions as a broader definition encompassing concepts of tensions, barriers, breakdowns, conflicts.
 
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
@@ -765,8 +766,32 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 ## Data Collection
 
+This section addresses data collection.
 
-### Summary Table of Data Collection
+While the next chapter outlines the evolution of the learning intervention as a design narrative, the following table presents a summary of the phases involved to help situation this chapters description of data collection. 
+
+### Phases and data Gathering
+
+
+
+<!-- Table from
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
+
+
+| Name and Date                                         | Description                                                                                                                                                                                                                                                                                                                                          | Data Gathered                                                                                                                                                                                                                                            |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 2017 - Mar 2018<br><br>Experimental Course        | Participants started with a blank canvas and used Phaser.js within the Thimble code playground as an online coding environment.<br><br>                                                                                                                                                                                                              | Digital and paper journal notes<br>Learning resources created                                                                                                                                                                                            |
+| May 2018 - Dec 2018<br><br>Resource Development Stage | A series of one-off workshops, and development of a “half baked” game template, and supporting online and printable resources. At this stage I changed the code playground to glitch.com and started to use the onlne graphics editor Piskel.                                                                                                        | Digital and paper journal notes<br>Learning resources created                                                                                                                                                                                            |
+| Jan 2019 - Dec 2019<br><br>Glitch Game Club           | Two iterations of game making course of 5-6 weeks using Phaser.js, glitch.com and Piskel. The template and resources created in the previous stage were used as a starting point but continued to evolve..<br>The room was arranged to allow for both group activities and  audio and video recording as per my research ethics application.         | Digital and paper journal notes<br>Learning resources created<br>360 Video recordings of all participants<br>Screen capture and audio recordings of each participant<br>Code and graphical assets created by participants as part of game making process |
+| Jan 2020 - May 2020<br><br>Make Code Arcade           | Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.<br><br>The first iteration allowed for full audio and video recording. The room used in the second iteration did not allow 360 video data to be gathered. | Digital and paper journal notes<br>Learning resources created<br>360 Video recordings of all participants<br>Screen capture and audio recordings of each participant<br>Code and graphical assets created by participants as part of game making process |
+
+
+
+
+
+
+
+### Table of methods of data collection
 
 Online version here
 https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
@@ -1407,6 +1432,29 @@ NOTE - This could be dropped or picked up again in the limitations section
 The process of exploring this guided the development of the research questions.
 
 
+#### Ethical and Practica issues impacting the formative intervention of this research - MOVED HERE CHECK
+
+<!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
+
+
+
+
+**Practical factors**
+
+Key contextual factors have facilitated and shaped development of the research design including:
+
+- Impact of research practicalities
+- The location at the university
+
+<!-- Eliza effect? If so how relevant? -->
+
+The availability of resources potentially  attractive to this audience.
+
+For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.  
+
+and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
+
+Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims.
 
 <!--
 Generalisation is covered in this thesis.
@@ -1417,6 +1465,7 @@ Imagining a constructionist game-based pedagogical model: Using tabletop role-pl
 <!-- In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
 
 The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
+
 
 ## Research Questions
 
@@ -1447,11 +1496,15 @@ The area of in-depth study of learning and wider behaviours in the development o
 
 ### What research questions are answered by what data gathering and analysis - and described in what chapter?
 
- <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
+ <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their diThe experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.gital gaming practices Rafael Marques de Albuquerque
  As this is done very methodically
  -->
 
+The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
 2. How can learners build agency in an evolving community of game makers?
 3. How can game design patterns support the development of coding practices with novices?
@@ -1480,7 +1533,7 @@ The area of in-depth study of learning and wider behaviours in the development o
 ## Discussion on Methodology
 
 
-### Discussion
+### Discussion / Conclusion
 
 NOTE - WHAT KIND OF DISCUSSION WOULD BE NEEDED HERE?
 A RETURN TO POSSIBLE BARRIERS THAT THE METHODOLOGY AIMS TO OVER COME
@@ -1495,173 +1548,18 @@ Perhaps summarise the the context, and motivations of the above case studies are
 
 
 
-## Summary of design evolution
 
 
-I conclude this chapter with a section that introduces the next chapter which is a rich description of the evolution of the learning design.
 
-### Describing the formative intervention of this research
 
-The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants.
-
-The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly. Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-
-**Practical factors**
-
-Key contextual factors have facilitated and shaped development of the research design including:
-
-- Impact of research practicalities
-- The location at the university
-
-<!-- Eliza effect? If so how relevant? -->
-
-The availability of resources potentially  attractive to this audience.
-
-For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.  
-
-and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
-
-Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims.
-
-### On the details of the design
-
-More than a design the result was a dynamic community which is analysed on several scopes of activity.
-
-
-
-<!-- [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-see updated table in tables subdirectory  
--->
-
-The following overview of activity use by stage focusing on the evolution of tools and processes concisely exploring the rationale for their selection or production. Fuller descriptions of the tools used at each stage and links to the online resources created are available as appendix 4.x
-
-
-
-
-
-#### Phases and data Gathering
-
-
-
-<!-- Table from
-https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# -->
-
-
-| Name and Date                                         | Description                                                                                                                                                                                                                                                                                                                                          | Data Gathered                                                                                                                                                                                                                                            |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Oct 2017 - Mar 2018<br><br>Experimental Course        | Participants started with a blank canvas and used Phaser.js within the Thimble code playground as an online coding environment.<br><br>                                                                                                                                                                                                              | Digital and paper journal notes<br>Learning resources created                                                                                                                                                                                            |
-| May 2018 - Dec 2018<br><br>Resource Development Stage | A series of one-off workshops, and development of a “half baked” game template, and supporting online and printable resources. At this stage I changed the code playground to glitch.com and started to use the onlne graphics editor Piskel.                                                                                                        | Digital and paper journal notes<br>Learning resources created                                                                                                                                                                                            |
-| Jan 2019 - Dec 2019<br><br>Glitch Game Club           | Two iterations of game making course of 5-6 weeks using Phaser.js, glitch.com and Piskel. The template and resources created in the previous stage were used as a starting point but continued to evolve..<br>The room was arranged to allow for both group activities and  audio and video recording as per my research ethics application.         | Digital and paper journal notes<br>Learning resources created<br>360 Video recordings of all participants<br>Screen capture and audio recordings of each participant<br>Code and graphical assets created by participants as part of game making process |
-| Jan 2020 - May 2020<br><br>Make Code Arcade           | Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages using glitch.com.<br><br>The first iteration allowed for full audio and video recording. The room used in the second iteration did not allow 360 video data to be gathered. | Digital and paper journal notes<br>Learning resources created<br>360 Video recordings of all participants<br>Screen capture and audio recordings of each participant<br>Code and graphical assets created by participants as part of game making process |
-
-
-
-
-##### Phases and resources used
-
-Move to appendix - But mention here.
-
-**Phase, Name and Date**| **Description** | **Starting Resources**         
-|--------|------------|--------------|
-|P1: Oct 2017 - Dec 2018; Experimental Course  | Participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.  Then One-off workshops at Mozilla and Feral Vector conferences and to PGCE computer students and the creation of a “half baked” game template |  Phaser 2.6.2 javascript library; Thimble code playground; online graphics editor Piskel; audio creation tools  |
-| P2: Jan - Feb 2019; Glitch Game Club | First iteration of game making course of 5-6 weeks. The template and resources created in the previous stage were used as a starting point but continued to evolve. |  Phaser; Glitch, Piskel; updated game template; quick start cards; step-by-step tutorials; code examples  |
-| P3: May 2019; Glitch Game Club 2| Second iteration of game making course with additional drama and reflective elements |  As per P3; drama scenario; interactive chat page in glitch  |
-| P4: Jan 2020 - September 2020; Make Code Arcade | Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool.  |  Make Code Arcade (MCA) tool; MCA Template starting game; MCA quick start cards; MCA game pattern menu; MCA game pattern tutorials; Learning Dimensions Map   |
-
-
-#### P1: Exploratory stage: Oct 2017 - Dec 2018
-
-<!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
-<!-- This phase took place before the official start of this research and relevant ethics application. As such,  -->
-
-Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials. In response to need, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building. Generalised feedback from participants this stage included; a consensus that the process was too long; more guidance in the process of familiarising themselves the coding tools initially before undertaking ideation would be useful; group work was problematic given the lack of experience in this domain; and that the overall experience of working with code was difficult but rewarding (feedback notes are included as appendix 4.x). At the end of this phase I responded to this feedback and delivered three one-off workshops at conferences and community events. The compressed time frame sparked the use of new tools including a starting template and printable resources to accelerate the game-production process. The results in terms of engagement and impact on rapid personalisation of end products were very promising.
-
-<!-- The requirements of this compressed time frame aligned with feedback to prompt me to design an accelerated process to bump start the game-production process. -->
-
-<!-- The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration, adopting a project based approach inspired by design thinking.  -->
-<!-- To inculcate parents and children in to the culture of retro video games I began initial sessions by inviting participants to older arcade games on laptops. -->
-<!-- Game filled laptops.  
-Should this be added to the table above
--->
-<!-- The tools allow participants to create games using a combination of a free to use online tools.
-an online  coding environment
-using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone). -->
-
-<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
-https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
- -->
-
-<!-- #### The half-baked starting platformer game
-
-NOTE - ALSO EXPLORED IN NEXT CHAPTER - HOW TO ARRANGE?
-
-The use and design characteristics of the starting point of a half-baked game.
-
-- Phaser 2 to avoid complexity of code structure
-- 2D platformer - familiar to most - Mario and Sonic
-- low-spec graphics
-- game of player, platforms, and coins to collect and hazards to avoid.
-- graphical level design
-- key variables brought to the top
-- simple structure of code in terms of aligning with framework and not adding extra functions
-
-
-**Variable editing effective movement**
-
-Player movement was a key to playtesting feedback as such three  key variables were highlighted at the very start of the game code and given descriptive names to facilitate their editing. When testing the game, the player's jump height was not great enough to allow progression up from the floor to one of the platform thus thwarting the collection of items.
-
-Game progression require altering at least one of the descriptively names variables associated with jump height and then activating a preview window to observer the changes by playing the game in a new browser tab.
-<!--FIND  Some evidence of building proficiency with significant work to change these three   
-
-    // Variables that change how the player moves
-    var gravity = 500;
-    var velocity_x = 100;
-    var velocity_y = 300;
-
-While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others were much less concerted with this aspect of game play, lowering gravity drastically to allow a greater jump size but a more frustrating floaty jump.
-
-**Level design and prototyping**
-
-The starting game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. Image 4.x above show a printable _quick start_ cards to aid participants to begin the process of changing level design.
-
-As preThe possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure.
-
-The vignette in the last chapter saw Toby's adding new levels to his  game and undertaking many iterations of changes to the level design. He and several other participants spent extensive time performing level design activity with a goal of making the game extremely challenging but still technically possible. Others played with the convention of the game by removing all hazards and filling the screen with rewards/coins (an example is outlined in the starting vignette of the next chapter).
-
-**Incomplete graphical blocks & Piskel**
-
-The use of blank, coloured blocks of 32 x 32 pixels encouraged participants to change the graphical design and the relatively small size of the sprites encouraged rapid design.
-
-PERHAPS REPLACE THIS WITH SCREEN SHOT OF PISKEL AS A TOOL
-![](./Pictures/whale_1.png){width=50%}
-
-The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using   code syntax.
-
-**Incomplete graphical blocks & Piskel**
-
-The
-
-PARK FOR NOW - Maybe move to Design
-The concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
- -->
-
-
-#### P3: Accelerated game making programme (5 weeks): Jan - Feb 2019
-
-By the beginning of P2 most of the resources and activities were in place and relatively stable. There were some incremental evolutions in the template that stemmed from participant feedback and my reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants. The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.
-
-#### P4: Adding a process drama to the game making programme: April - May 2019
-
-P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
-
-<!-- #### P4: Adapting to MakeCode Arcade and more formal settings: Jan 2020 - September 2020
-
-I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter. In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding approach. In 2020 I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
-
-This thesis draws for the most part on data from P2 and P3 and thus focuses on text-based coding as a primary method. -->
 
 ### On the emergent and mutual nature of the design and research process
+
+
+The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
 
 The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback. This process is particularly evident in the evolution of the learning design and resources. The trialling of the coding environment and starting templated occurred in various informal settings, over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians.
 
