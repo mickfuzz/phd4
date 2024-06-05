@@ -1,30 +1,22 @@
 -   [Methodology](#methodology)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
-    -   [Introduction and summary of the methdology of this
-        study](#introduction-and-summary-of-the-methdology-of-this-study)
-    -   [Theoretical Framework & other influential theoretical areas
-        (like constructionism as a design / learning theory)
-        (Methodology
-        approach)?](#theoretical-framework-other-influential-theoretical-areas-like-constructionism-as-a-design-learning-theory-methodology-approach)
+    -   [Introduction](#introduction)
+    -   [Theoretical framework](#theoretical-framework)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [What is and Why choose Activity
-            Theory](#what-is-and-why-choose-activity-theory)
-            -   [Conceptualising AT via foundational theory - FOR CHAP 3
-                INTRO](#conceptualising-at-via-foundational-theory---for-chap-3-intro)
-    -   [Methodology of this study](#methodology-of-this-study)
-        -   [Briefly defining terms -
-            DBR](#briefly-defining-terms---dbr)
-        -   [Briefly defining terms - Formative
-            Intervention](#briefly-defining-terms---formative-intervention)
-        -   [the alignment of DBR and Formative
-            Intervention](#the-alignment-of-dbr-and-formative-intervention)
-        -   [The guiding principles of DBR, and expansive learning and
-            formative interventions within an AT
-            framework](#the-guiding-principles-of-dbr-and-expansive-learning-and-formative-interventions-within-an-at-framework)
-        -   [Guiding principles of this study's methdological
-            approach](#guiding-principles-of-this-studys-methdological-approach)
+            -   [Conceptualising AT via foundational theory - IN INTRO
+                OR LIT
+                REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
+            -   [Why not use constructivism /
+                constructionism](#why-not-use-constructivism-constructionism)
+    -   [The methodology of this study](#the-methodology-of-this-study)
+        -   [Exploring design-based research and formative
+            interventions](#exploring-design-based-research-and-formative-interventions)
+            -   [Design-based research](#design-based-research)
+            -   [Formative Intervention](#formative-intervention)
+        -   [Outling the guiding principles of DBR and formative
+            interventions](#outling-the-guiding-principles-of-dbr-and-formative-interventions)
             -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
@@ -39,13 +31,11 @@
             -   [Principle: Analysis of activity system through
                 conflicts and contradictions between
                 elements](#principle-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
-    -   [Summary of Justification of
-        choice](#summary-of-justification-of-choice)
-        -   [Ongoing alignments between DBR and the CHAT community /
-            ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
-        -   [Summary statement](#summary-statement)
-        -   [Why not use constructivism /
-            constructionism](#why-not-use-constructivism-constructionism)
+        -   [Summary of Justification of
+            choice](#summary-of-justification-of-choice)
+            -   [Ongoing alignments between DBR and the CHAT community /
+                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
+            -   [Summary statement](#summary-statement)
     -   [Methods used in this study](#methods-used-in-this-study)
         -   [3 planes approach - noting tensions and
             behaviours](#planes-approach---noting-tensions-and-behaviours)

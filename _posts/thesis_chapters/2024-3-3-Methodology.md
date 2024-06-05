@@ -9,33 +9,27 @@ layout: post
 categories: chapter
 title: 3. Methodology
 ---
+---
+
 -   [Methodology](#methodology)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
-    -   [Introduction and summary of the methdology of this
-        study](#introduction-and-summary-of-the-methdology-of-this-study)
-    -   [Theoretical Framework & other influential theoretical areas
-        (like constructionism as a design / learning theory)
-        (Methodology
-        approach)?](#theoretical-framework-other-influential-theoretical-areas-like-constructionism-as-a-design-learning-theory-methodology-approach)
+    -   [Introduction](#introduction)
+    -   [Theoretical framework](#theoretical-framework)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [What is and Why choose Activity
-            Theory](#what-is-and-why-choose-activity-theory)
-            -   [Conceptualising AT via foundational theory - FOR CHAP 3
-                INTRO](#conceptualising-at-via-foundational-theory---for-chap-3-intro)
-    -   [Methodology of this study](#methodology-of-this-study)
-        -   [Briefly defining terms -
-            DBR](#briefly-defining-terms---dbr)
-        -   [Briefly defining terms - Formative
-            Intervention](#briefly-defining-terms---formative-intervention)
-        -   [the alignment of DBR and Formative
-            Intervention](#the-alignment-of-dbr-and-formative-intervention)
-        -   [The guiding principles of DBR, and expansive learning and
-            formative interventions within an AT
-            framework](#the-guiding-principles-of-dbr-and-expansive-learning-and-formative-interventions-within-an-at-framework)
-        -   [Guiding principles of this study's methdological
-            approach](#guiding-principles-of-this-studys-methdological-approach)
+            -   [Conceptualising AT via foundational theory - IN INTRO
+                OR LIT
+                REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
+            -   [Why not use constructivism /
+                constructionism](#why-not-use-constructivism-constructionism)
+    -   [The methodology of this study](#the-methodology-of-this-study)
+        -   [Exploring design-based research and formative
+            interventions](#exploring-design-based-research-and-formative-interventions)
+            -   [Design-based research](#design-based-research)
+            -   [Formative Intervention](#formative-intervention)
+        -   [Outling the guiding principles of DBR and formative
+            interventions](#outling-the-guiding-principles-of-dbr-and-formative-interventions)
             -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
@@ -50,13 +44,11 @@ title: 3. Methodology
             -   [Principle: Analysis of activity system through
                 conflicts and contradictions between
                 elements](#principle-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
-    -   [Summary of Justification of
-        choice](#summary-of-justification-of-choice)
-        -   [Ongoing alignments between DBR and the CHAT community /
-            ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
-        -   [Summary statement](#summary-statement)
-        -   [Why not use constructivism /
-            constructionism](#why-not-use-constructivism-constructionism)
+        -   [Summary of Justification of
+            choice](#summary-of-justification-of-choice)
+            -   [Ongoing alignments between DBR and the CHAT community /
+                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
+            -   [Summary statement](#summary-statement)
     -   [Methods used in this study](#methods-used-in-this-study)
         -   [3 planes approach - noting tensions and
             behaviours](#planes-approach---noting-tensions-and-behaviours)
@@ -202,29 +194,23 @@ Emergent
   - the play around the playtesting -->
 
 
-## Introduction and summary of the methdology of this study
+## Introduction
 
-The last chapter introduced the theoretical framework of this study, namely activity theory.
+This chapter describes:
 
-This chapter describes
+- guiding theoretical framework
 - the methods that make up the methodology
-- data gathering and Processing
-- Data analysis explored in stages
-- comments on data validity etc.
-- an overview of the design stages of the
+- data gathering and processing
+- data analysis explored in stages
+- comments on data validity, replicability and ethical considerations
+- an overview of the design stages of the study
 
 
-## Theoretical Framework & other influential theoretical areas (like constructionism as a design / learning theory) (Methodology approach)?
+The methdology of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR)
 
-What to cover in this section.
+My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
 
-Theoretical framework. AT / CHAT
-I also then describe the broad methodical approach of DBR and formative interventions.
-
-I explore when constructivism/ constructionism is of interested but not the basis for this study.
-
-
-In the next chapter I will cover some of the specific methods and approaches
+## Theoretical framework
 
 
 <!-- The following terms and concepts have already been explored in the literature review.
@@ -250,17 +236,16 @@ This primacy of context described above underlies much of the social turn of edu
 
 As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
-There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .  
+<!-- There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .   -->
 <!-- [@laveSituatedLearningLegitimate1991]  -->
 
-### What is and Why choose Activity Theory
-I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research. I also  draw on the work of Rogoff  and the use of three planes of activity to analyse complex community actions.
+I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research.
 
 JUST A QUICK SUMMARY HERE -
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
-#### Conceptualising AT via foundational theory - FOR CHAP 3 INTRO
+#### Conceptualising AT via foundational theory - IN INTRO OR LIT REVIEW?
 
 Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
@@ -282,21 +267,38 @@ The vital role of cultural mediation in development [@cole_beyond_1996-1] which 
 
 This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
 
+#### Why not use constructivism / constructionism
+
+COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
 
 
-## Methodology of this study
+Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
 
 
-The methdology of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR)
+Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
+
+NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
 
 
-My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
+**Constructionism as applied learning and design  theory**
 
+Much of the foundational literature on game making names constructionism as a guiding theory  (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996).
 
+Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
 
-### Briefly defining terms - DBR
+Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
 
-Design based research is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
+
+Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
+
+## The methodology of this study
+
+### Exploring design-based research and formative interventions
+
+#### Design-based research
+
+Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
 Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
 
@@ -307,23 +309,21 @@ The definition of DBR is evolving. Sandoval notes critique from some of the dive
 There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
 
 
-### Briefly defining terms -  Formative Intervention
+#### Formative Intervention
 
+Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
 
+It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.  
 
 A key text here is Cole and Engestrom's early exploration of two models (CL and 5D) of formative interventions designed to align with principle of AT [@valsiner_cultural-historical_2007]
 
 
 
-### the alignment of DBR and Formative Intervention
+### Outling the guiding principles of DBR and formative interventions
 
-The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals.
+**This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
 
-In one such edition, Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
-
-I this study adopt this term to describe the methodology of this research. It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.  
-
-### The guiding principles of DBR, and expansive learning and formative interventions within an AT framework
+The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014]
 
 The process of researching a suitable methodology for this study surfaced of they key debates and issues of design based research and similar formative interventions in CHAT school. Namely:
 
@@ -332,14 +332,7 @@ The process of researching a suitable methodology for this study surfaced of the
 - the mutuality of the process: aligned with research ethic of participation rather than extraction
 - generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
 
-To help explore these principles, this section first presents brief definitions of term and then describes some of the fault-lines in the theoretical debates surrounding the methods of DBR, expansive learning / formative interventions. It then
-
-
-
-
-### Guiding principles of this study's methdological approach
-
-**This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
+To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions.
 
 #### Principle: Mutuality
 
@@ -362,7 +355,6 @@ EXPLAIN IN JUST ENOUGH DETAIL HERE.
 Following Rogoff [@ rogoff_observing_1995]
 
 And Engestrom on expansive learning / germ cell
-
 
 
 The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
@@ -490,7 +482,7 @@ In following chapters, following Kuuti [-@kuutti_activity_1995], I use the contr
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 
-## Summary of Justification of choice
+### Summary of Justification of choice
 
 **(esp compared to constructionism) - DROP - or ALIGN dbr WITH CONSTRUCTIONISM**
 
@@ -512,7 +504,7 @@ Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK
 
 
 
-### Summary statement
+#### Summary statement
 
 MOVE ?
 I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
@@ -521,30 +513,7 @@ MOVED FROM ANOTHER SECTION SEE IF IT FITS.
 AGAIN MOVED
 **Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent.
 
-### Why not use constructivism / constructionism
 
-COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
-
-
-Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
-
-
-Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
-
-NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
-
-
-**Constructionism as applied learning and design  theory**
-
-Much of the foundational literature on game making names constructionism as a guiding theory  (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996).
-
-Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
-
-Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
-
-It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
-
-Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
 
 <!-- NOTE Investigate more
 https://dspace.mit.edu/handle/1721.1/131022/discover?query=constructionism&submit=Go&filtertype_0=department&filter_relational_operator_0=authority&filter_0=845e039612ff85b8394b5ef42a7f3aa7 -->
