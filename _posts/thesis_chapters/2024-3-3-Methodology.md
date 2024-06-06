@@ -311,12 +311,34 @@ There are different strands of DBR some of which holder closer to the lab based 
 
 #### Formative Intervention
 
+**This section explains the CHAT method of formative interventions and proposes this study as an example of a formative intervention.**
+
 Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
 
 It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more pescritive methods.  
 
 A key text here is Cole and Engestrom's early exploration of two models (CL and 5D) of formative interventions designed to align with principle of AT [@valsiner_cultural-historical_2007]
 
+
+A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+
+EXPAND THIS WITH EXAMPLES? kindergarten one below?
+
+##### Formative intervention as stimulatus for expansive learning
+
+The role of the expanding learning can be applied to formative interventions.  [@sannino_formative_2016; @engestrom_methodological_2014]
+
+![](./Pictures/shared_object_engestrom.png){width=90%}
+
+Figure 3. x - Engestrom's concept of expansive learning via a shared object
+
+
+Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
+
+The concept of germ cell is explore later in this chapter.  
+
+From  [@engestrom_design_2011]
+The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
 
 
 ### Outling the guiding principles of DBR and formative interventions
@@ -354,13 +376,6 @@ EXPLAIN IN JUST ENOUGH DETAIL HERE.
 
 Following Rogoff [@ rogoff_observing_1995]
 
-And Engestrom on expansive learning / germ cell
-
-
-The role of the germ cell in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
-
-Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).
-From  [@engestrom_design_2011]
 
 This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity. (Rogoff) The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question.
 
@@ -687,7 +702,9 @@ The principle noted above of analysis of tensions and areas of conflict guides m
 
 Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
 
-One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007], which intervened in kindergarten process [@rajala_utopian_2023].
+One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+
+
 
 ##### TADS - On double stimulation and agency
 
@@ -776,7 +793,7 @@ While the next chapter outlines the evolution of the learning intervention as a 
 
 <!-- Table from
 
-https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit# 
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#
 
 -->
 

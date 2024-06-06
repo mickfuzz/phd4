@@ -47,8 +47,9 @@
             method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
         -   [On affordances](#on-affordances)
     -   [Data Collection](#data-collection)
-        -   [Summary Table of Data
-            Collection](#summary-table-of-data-collection)
+        -   [Phases and data Gathering](#phases-and-data-gathering)
+        -   [Table of methods of data
+            collection](#table-of-methods-of-data-collection)
         -   [Justification of data collection and
             selection](#justification-of-data-collection-and-selection)
             -   [Alignment with with socio cultural
@@ -106,6 +107,9 @@
             -   [Data Replicability](#data-replicability)
             -   [Generalisation of
                 Research](#generalisation-of-research-1)
+            -   [Ethical and Practica issues impacting the formative
+                intervention of this research - MOVED HERE
+                CHECK](#ethical-and-practica-issues-impacting-the-formative-intervention-of-this-research---moved-here-check)
     -   [Research Questions](#research-questions)
         -   [How Research Questions
             Evolved](#how-research-questions-evolved)
@@ -113,23 +117,9 @@
             and analysis - and described in what
             chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
     -   [Discussion on Methodology](#discussion-on-methodology)
-        -   [Discussion](#discussion)
+        -   [Discussion / Conclusion](#discussion-conclusion)
         -   [Authenticity - creating
             value](#authenticity---creating-value)
-    -   [Summary of design evolution](#summary-of-design-evolution)
-        -   [Describing the formative intervention of this
-            research](#describing-the-formative-intervention-of-this-research)
-        -   [On the details of the
-            design](#on-the-details-of-the-design)
-            -   [Phases and data Gathering](#phases-and-data-gathering)
-            -   [P1: Exploratory stage: Oct 2017 - Dec
-                2018](#p1-exploratory-stage-oct-2017---dec-2018)
-            -   [P3: Accelerated game making programme (5 weeks): Jan -
-                Feb
-                2019](#p3-accelerated-game-making-programme-5-weeks-jan---feb-2019)
-            -   [P4: Adding a process drama to the game making
-                programme: April - May
-                2019](#p4-adding-a-process-drama-to-the-game-making-programme-april---may-2019)
         -   [On the emergent and mutual nature of the design and
             research
             process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
