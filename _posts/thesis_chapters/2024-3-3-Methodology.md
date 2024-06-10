@@ -798,24 +798,18 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 -->
 
 
-
-
-
-
-
-
-| Name and Date                                  | Description                                                                                                                                                                                                                                             | Data Gathered                                                                                                                                                                                                                                            |
-| ---------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------|
-| Phase 1<br /><br />Oct 2017 - Mar 2018<br /><br /><br /> | Experimental Course: 13 participants started with a blank canvas and were asked to plan and make a game in two  groups of mixed ages. A minimal incomplete starting game code template was introduced to support students after the course has started. | Digital and paper journal notes<br />Learning resources created                                                                                                                                                                                            |
-| Phase 2<br /><br />Jan - Feb 2019;<br /><br /><br />     | Glitch Game Club:<br />20 participants attend for 6 weeks. A new template are resources were introduced.                                                                                                                                                  | Digital and paper journal notes<br />Learning resources created<br />360 Video recordings of all participants<br />Screen capture and audio recordings of each participant<br />Code and graphical assets created by participants as part of game making process |
-| Phase 3<br /><br />May 2019<br /><br />                | Glitch Game Club 2:<br />Second iteration of game making course of 4 weeks using Phaser.js and Glitch.com                                                                                                                                                 | Digital and paper journal notes<br />Learning resources created<br />360 Video recordings of all participants<br />Screen capture and audio recordings of each participant<br />Code and graphical assets created by participants as part of game making process |
-| Phase 4<br /><br />Jan 2020 - May 2020<br /><br /><br /> | Rebel Game Makers (Make Code Arcade)<br />Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages.<br /><br /><br />                           | Digital and paper journal notes<br />Learning resources created<br />360 Video recordings of all participants<br />Screen capture and audio recordings of each participant<br />Code and graphical assets created by participants as part of game making process |
+| Name and Date                                  | Description | Data Gathered |
+| ---------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------|
+| Phase 1<br><br>Oct 2017 - Mar 2018<br><br><br>        | Experimental Course: 13 participants started with a blank canvas and were asked to plan and make a game in two  groups of mixed ages. A minimal incomplete starting game code template was introduced to support students after the course has started. | Digital and paper journal notes: Learning resources created                                                                                                                                                                                            |
+| Phase 2<br><br>Jan - Feb 2019;<br><br><br>     | Glitch Game Club:<br>20 participants attend for 6 weeks. A new template are resources were introduced.                                                                                                                                                  | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
+| Phase 3<br><br>May 2019<br><br>                | Glitch Game Club 2:<br>Second iteration of game making course of 4 weeks using Phaser.js and Glitch.com                                                                                                                                                 | Digital and paper journal notes;Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
+| Phase 4<br><br>Jan 2020 - May 2020<br><br><br> | Rebel Game Makers (Make Code Arcade); Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages.                          | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
 
 ### Table of methods of data collection
 
-Online version here
+<!-- Online version here
 https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
-
+ -->
 
 | Name                        | Details                                                   | Description                                                                                                                                                                          | Processing before analysis                                                                                                            |
 | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -896,9 +890,7 @@ The process involves large video files that are easily corrupted in transfer. Wh
 <!-- Tech details are logged here - https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit# -->
 
 
-This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix.
-
-https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=114325803502752689876
+This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix. [A draft of which is here](https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=11432580350275268987)
 
 
 #### Screen Capture Processing
