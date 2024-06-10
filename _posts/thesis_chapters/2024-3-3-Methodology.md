@@ -208,7 +208,7 @@ This chapter describes:
 
 The methdology of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR)
 
-My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together.
+<!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
 ## Theoretical framework
 
@@ -225,25 +225,20 @@ My own research in game making is an experimental approach to create a new learn
 
 ### Socio cultural approaches and the primacy of context
 
-This focus on the environment and context is in line with social and cultural lines of research. Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
-    A central assumption underlying
-    this essay is that any abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or
-    the learners’ belief that they are likely to do something meaningful with that which they are learning.
+Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
 
 
-This primacy of context described above underlies much of the social turn of educational and psychological research.
+An assumption underlying the approach  is " abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or   the learners’ belief that they are likely to do something meaningful with that which they are learning."[@barnett_ecosystem_2019]
+REWRITE
 
-As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
+This primacy of context described above underlies much of the social turn of educational and psychological research. As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
 <!-- There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .   -->
 <!-- [@laveSituatedLearningLegitimate1991]  -->
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research.
-
-JUST A QUICK SUMMARY HERE -
-
-The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
 #### Conceptualising AT via foundational theory - IN INTRO OR LIT REVIEW?
 
@@ -267,30 +262,6 @@ The vital role of cultural mediation in development [@cole_beyond_1996-1] which 
 
 This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
 
-#### Why not use constructivism / constructionism
-
-COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
-
-
-Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
-
-
-Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
-
-NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
-
-
-**Constructionism as applied learning and design  theory**
-
-Much of the foundational literature on game making names constructionism as a guiding theory  (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996).
-
-Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
-
-Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
-
-It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
-
-Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
 
 ## The methodology of this study
 
@@ -1629,3 +1600,31 @@ Another guiding principle of design-based research - which is present in the tec
 
   6       Jan-March 2020             
   Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                               -->
+
+## Parked to replace or remove or rework
+
+
+#### Why not use constructivism / constructionism
+
+COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
+
+
+Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
+
+
+Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
+
+NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
+
+
+**Constructionism as applied learning and design  theory**
+
+Much of the foundational literature on game making names constructionism as a guiding theory  (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996).
+
+Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
+
+Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
+
+It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
+
+Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
