@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: Glossary & Appendices
+title: Draft  - Glossary & Appendices - Working space
 ---
 
 # Glossary & Appendices
@@ -310,7 +310,7 @@ The process of sketching, revising and re-sketching the elements led me to conne
 
 ### Appendix 6.R.x - Vignette on the process of side missions and reporting back and reflecting in role.
 
-Perhaps move here. 
+Perhaps move here.
 
 
 ## Extracts from evaluation and Journal Notes

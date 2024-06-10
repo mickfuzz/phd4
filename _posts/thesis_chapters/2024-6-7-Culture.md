@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 6. Discussion - Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
+title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
 
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
@@ -1059,7 +1059,7 @@ These metaphors invite a connection to play theories concept of as the magic cir
 
 ### Affordances and anchors
 
-NOTE - MOVED HERE from methodology 
+NOTE - MOVED HERE from methodology
 
 Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 

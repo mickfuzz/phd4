@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 7. Discursive Conclusion
+title: 8. Discursive Conclusion
 ---
 
 -   [Discursive Conclusion](#discursive-conclusion)
