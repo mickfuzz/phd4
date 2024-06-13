@@ -21,10 +21,6 @@
             activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
     -   [Context of teaching and learning coding via game
         making](#context-of-teaching-and-learning-coding-via-game-making)
         -   [Overview and motivations of game making (for

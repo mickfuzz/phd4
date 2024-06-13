@@ -8,6 +8,12 @@
             -   [Conceptualising AT via foundational theory - IN INTRO
                 OR LIT
                 REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
+        -   [Addressing and disambiguating definitions of agency in
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            -   [Instrumental and relational
+                agency](#instrumental-and-relational-agency)
+            -   [Authorial and transformative
+                agency](#authorial-and-transformative-agency)
     -   [The methodology of this study](#the-methodology-of-this-study)
         -   [Design-based research](#design-based-research)
         -   [Formative Intervention](#formative-intervention)
