@@ -38,8 +38,8 @@
         -   [Home digital making and
             culture](#home-digital-making-and-culture)
             -   [On Retro Gaming](#on-retro-gaming)
-            -   [Context of Home Education and family
-                learning](#context-of-home-education-and-family-learning)
+    -   [Context of Home Education and family
+        learning](#context-of-home-education-and-family-learning)
     -   [Context of research outlining game making strategies for
         novices](#context-of-research-outlining-game-making-strategies-for-novices)
         -   [The context of Project Based Learning

@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 1. Introduction - What kind of game maker are you?
 ---
+
 -   [Introduction - "What kind of Game Maker are
     you?"](#introduction---what-kind-of-game-maker-are-you)
     -   [A study of the cultural and interpersonal dimensions and
@@ -49,8 +50,8 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Home digital making and
             culture](#home-digital-making-and-culture)
             -   [On Retro Gaming](#on-retro-gaming)
-            -   [Context of Home Education and family
-                learning](#context-of-home-education-and-family-learning)
+    -   [Context of Home Education and family
+        learning](#context-of-home-education-and-family-learning)
     -   [Context of research outlining game making strategies for
         novices](#context-of-research-outlining-game-making-strategies-for-novices)
         -   [The context of Project Based Learning
