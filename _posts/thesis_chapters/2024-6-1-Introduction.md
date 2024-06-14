@@ -156,7 +156,7 @@ In 1995, the internet seemed to me almost free of corporate messages. It was a s
 
 There was a resonance between the non-hierarchical approach of activist spaces and the decentralised organising principles of the free software movement and the associated free culture approaches [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local networks and organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism. I set up and ran three media centres. The first at an activist social centre, another for Community Arts Northwest and the last for People's Voice Media in Salford.
 
-I documented processes in partnership with FLOSS Manuals, and co-wrote A Open Web. 
+I documented processes in partnership with FLOSS Manuals, and co-wrote A Open Web.
 
 <!-- In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project [^4].   -->
 
@@ -216,9 +216,23 @@ However, a new position as a project work for EdLab allowed me the ability to ex
 
 The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
 
-Conversely, changes happen within wider systems, which can push back to reverse the desired changes. My story acts as an example of a the kinds of 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. On a personal level, while my views on the possibilities of new technology are now tempered with guilt and regret associated with not being wary enough of runaway effects of activities, I want to transcend some of the cultural paralysis my experiences have caused.  
+RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
+
+#### Addressing and disambiguating definitions of agency in education
 
 
+RQ3 addresses the process of developing agency within a community.
+
+Conversely, changes happen within wider systems, which can push back to reverse the desired changes. My story acts as an example of a the kinds of 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200].
+
+On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
+
+The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value.
+
+Thus, a wider goal is the research is to reflect on experiences of developing agency.  Agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016].
+Summary of what is in Ch.3
+
+While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters. 
 
 
 ## Conceptual Context
@@ -236,11 +250,6 @@ In addition the wider framework of CHAT is optimistic but realistic in the focus
 
 This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
 
-### Addressing and disambiguating definitions of agency in education
-
-Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
-
-Summary of what is in Ch.3
 
 ## Context of teaching and learning coding via game making
 
