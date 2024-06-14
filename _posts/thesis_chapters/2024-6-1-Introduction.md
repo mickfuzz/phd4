@@ -218,21 +218,18 @@ The use of new technologies by communities to achieve new aims. New technology c
 
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
-#### Addressing and disambiguating definitions of agency in education
-
+#### The complex role of agency in this thesis
 
 RQ3 addresses the process of developing agency within a community.
 
-Conversely, changes happen within wider systems, which can push back to reverse the desired changes. My story acts as an example of a the kinds of 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200].
+My personal context is an example that changes happening within one system may cause a reaction from wider system elements and actors, which pushes back to reverse the initial changes. My story illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
 
-On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
+The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. Thus, a wider goal is the research is to reflect on experiences of developing agency. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely:
+instrumental agency, relational agency and authorial agency.  
 
-The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value.
+ <!-- To address this Summary of what is in Ch.3 -->
 
-Thus, a wider goal is the research is to reflect on experiences of developing agency.  Agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016].
-Summary of what is in Ch.3
-
-While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters. 
+While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters.
 
 
 ## Conceptual Context
