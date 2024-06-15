@@ -156,8 +156,7 @@ In 1995, the internet seemed to me almost free of corporate messages. It was a s
 
 There was a resonance between the non-hierarchical approach of activist spaces and the decentralised organising principles of the free software movement and the associated free culture approaches [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local networks and organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism. I set up and ran three media centres. The first at an activist social centre, another for Community Arts Northwest and the last for People's Voice Media in Salford.
 
-I documented processes in partnership with FLOSS Manuals, and co-wrote A Open Web.
-
+I documented and promoted low-cost media and web production processes in as a member of with FLOSS Manuals and Transmission international networks. As part of this process I co-wrote A Open Web which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes.
 <!-- In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project [^4].   -->
 
 <!-- The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark. -->
