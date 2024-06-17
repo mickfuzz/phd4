@@ -10,86 +10,81 @@ categories: chapter
 title: 1. Introduction - What kind of game maker are you?
 ---
 -   [Introduction - "What kind of Game Maker are
-    you?"](#introduction---what-kind-of-game-maker-are-you){#toc-introduction---what-kind-of-game-maker-are-you}
+    you?"](#introduction---what-kind-of-game-maker-are-you)
     -   [A study of the cultural and interpersonal dimensions and
         evolving tool use of an emerging community of families coding
         digital games
-        together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.){#toc-a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.}
-    -   [Abstract](#abstract){#toc-abstract}
-    -   [outline](#outline){#toc-outline}
+        together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
+    -   [Abstract](#abstract)
+    -   [outline](#outline)
     -   [Research Questions - March
-        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
-    -   [Introduction to broad
-        context](#introduction-to-broad-context){#toc-introduction-to-broad-context}
+        2024](#research-questions---march-2024)
+    -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
-        study](#personal-context-and-motivation-for-undertaking-this-study){#toc-personal-context-and-motivation-for-undertaking-this-study}
+        study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Revisiting my overall aim in relation to the process of
             this chapter and
-            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs){#toc-revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs}
+            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
             -   [The complex role of agency in this
-                thesis](#the-complex-role-of-agency-in-this-thesis){#toc-the-complex-role-of-agency-in-this-thesis}
-    -   [Conceptual
-        Context](#conceptual-context){#toc-conceptual-context}
+                thesis](#the-complex-role-of-agency-in-this-thesis)
+    -   [Conceptual Context](#conceptual-context)
         -   [The utility of understanding projects and socio cultural
             and activist concepts of
-            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity){#toc-the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity}
+            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
     -   [Context of teaching and learning coding via game
-        making](#context-of-teaching-and-learning-coding-via-game-making){#toc-context-of-teaching-and-learning-coding-via-game-making}
+        making](#context-of-teaching-and-learning-coding-via-game-making)
         -   [Overview and motivations of game making (for
-            learning)](#overview-and-motivations-of-game-making-for-learning){#toc-overview-and-motivations-of-game-making-for-learning}
-        -   [Context of game making for curricular
-            purposes](#context-of-game-making-for-curricular-purposes){#toc-context-of-game-making-for-curricular-purposes}
-            -   [Computing as a School Subject in the
-                UK](#computing-as-a-school-subject-in-the-uk){#toc-computing-as-a-school-subject-in-the-uk}
-        -   [Context of digital making and culture in informal
-            settings](#context-of-digital-making-and-culture-in-informal-settings){#toc-context-of-digital-making-and-culture-in-informal-settings}
-            -   [Context of authenticity of tools, practices and
-                relationship with agency and
-                empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment){#toc-context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment}
-            -   [Code
-                playgrounds](#code-playgrounds){#toc-code-playgrounds}
-        -   [Home digital making and
-            culture](#home-digital-making-and-culture){#toc-home-digital-making-and-culture}
-            -   [On Retro
-                Gaming](#on-retro-gaming){#toc-on-retro-gaming}
+            learning)](#overview-and-motivations-of-game-making-for-learning)
+    -   [Context of game making for curricular
+        purposes](#context-of-game-making-for-curricular-purposes)
+        -   [Computing as a School Subject in the
+            UK](#computing-as-a-school-subject-in-the-uk)
+    -   [Context of digital making and culture in informal
+        settings](#context-of-digital-making-and-culture-in-informal-settings)
+        -   [Context of authenticity of tools, practices and
+            relationship with agency and
+            empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)
+            -   [Code playgrounds](#code-playgrounds)
+    -   [Digital gaming and making
+        culture](#digital-gaming-and-making-culture)
+        -   [On Gaming (move to a gaming cultures section?
+            )](#on-gaming-move-to-a-gaming-cultures-section)
+        -   [Home making and consuming of
+            media](#home-making-and-consuming-of-media)
     -   [Context of Home Education and family
-        learning](#context-of-home-education-and-family-learning){#toc-context-of-home-education-and-family-learning}
+        learning](#context-of-home-education-and-family-learning)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
-        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature){#toc-review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature}
-    -   [Technical
-        Barriers](#technical-barriers){#toc-technical-barriers}
+        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+    -   [Technical Barriers](#technical-barriers)
         -   [Barrier: Difficulties in learning to
-            program](#barrier-difficulties-in-learning-to-program){#toc-barrier-difficulties-in-learning-to-program}
+            program](#barrier-difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in){#toc-cultural-identity-barriers-to-participation-in}
+            ...](#cultural-identity-barriers-to-participation-in)
             -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures){#toc-barrier---identity-and-computer-cultures}
+                cultures](#barrier---identity-and-computer-cultures)
         -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices){#toc-barrier---unfamiliarity-with-support-practices}
-    -   [Case Studies](#case-studies){#toc-case-studies}
-        -   [5th Dimension Case
-            Study](#th-dimension-case-study){#toc-th-dimension-case-study}
+            practices](#barrier---unfamiliarity-with-support-practices)
+    -   [Case Studies](#case-studies)
+        -   [5th Dimension Case Study](#th-dimension-case-study)
         -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque){#toc-creative-family-learning---roque}
+            Roque](#creative-family-learning---roque)
         -   [Digital Braves as a small MoE / 5D
-            project](#digital-braves-as-a-small-moe-5d-project){#toc-digital-braves-as-a-small-moe-5d-project}
+            project](#digital-braves-as-a-small-moe-5d-project)
     -   [Summary of the thesis motivation and
-        structure](#summary-of-the-thesis-motivation-and-structure){#toc-summary-of-the-thesis-motivation-and-structure}
-        -   [Recap of
-            motivation](#recap-of-motivation){#toc-recap-of-motivation}
+        structure](#summary-of-the-thesis-motivation-and-structure)
+        -   [Recap of motivation](#recap-of-motivation)
             -   [An area of tension to address - limited leaner choice
                 in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.){#toc-an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.}
+                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
         -   [Gaps in existing research / Contribution to knowledge of
             this
-            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis){#toc-gaps-in-existing-research-contribution-to-knowledge-of-this-thesis}
-        -   [Research
-            Questions](#research-questions){#toc-research-questions}
-        -   [Chapter outline](#chapter-outline){#toc-chapter-outline}
-        -   [Link to next
-            chapter](#link-to-next-chapter){#toc-link-to-next-chapter}
-    -   [Links](#links){#toc-links}
+            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
+        -   [Research Questions](#research-questions)
+        -   [Chapter outline](#chapter-outline)
+        -   [Link to next chapter](#link-to-next-chapter)
+    -   [Links](#links)
+
 
 # Introduction - “What kind of Game Maker are you?”
 
@@ -440,9 +435,9 @@ This section then which summarises existing research in this area needs a clear 
 
 
 
-## Technical Barriers
+##  Barriers
 
-### Barrier: Difficulties in learning to program
+### Technical Barriers -  Difficulties in learning to program
 
 Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
 
@@ -533,9 +528,9 @@ While home education support practices of families are expressed in this setting
 
 
 
-  ### Studies informing cultural barriers / aspects of game making
+### Studies informing cultural barriers / aspects of game making
 
-  Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
 
 
   **Studies exploring identity and barriers to participation**
@@ -592,8 +587,18 @@ While home education support practices of families are expressed in this setting
   Shift to other tactics like Family Connected Learning Roque.
 
 
+### Financial Barriers - Funding sustainable programmes
 
+#### School context
+Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
+But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
 
+#### University context
+
+University partnership context.
+Service learnings
+
+The next case study addresses this
 
 ## Case Studies
 ### 5th Dimension Case Study
