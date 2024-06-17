@@ -9,90 +9,87 @@ layout: post
 categories: chapter
 title: 1. Introduction - What kind of game maker are you?
 ---
-
 -   [Introduction - "What kind of Game Maker are
-    you?"](#introduction---what-kind-of-game-maker-are-you)
+    you?"](#introduction---what-kind-of-game-maker-are-you){#toc-introduction---what-kind-of-game-maker-are-you}
     -   [A study of the cultural and interpersonal dimensions and
         evolving tool use of an emerging community of families coding
         digital games
-        together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
-    -   [Abstract](#abstract)
+        together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.){#toc-a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.}
+    -   [Abstract](#abstract){#toc-abstract}
+    -   [outline](#outline){#toc-outline}
     -   [Research Questions - March
-        2024](#research-questions---march-2024)
-    -   [Introduction to broad context](#introduction-to-broad-context)
+        2024](#research-questions---march-2024){#toc-research-questions---march-2024}
+    -   [Introduction to broad
+        context](#introduction-to-broad-context){#toc-introduction-to-broad-context}
     -   [Personal context and motivation for undertaking this
-        study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Contextual details aligning with personal
-            motivations](#contextual-details-aligning-with-personal-motivations)
+        study](#personal-context-and-motivation-for-undertaking-this-study){#toc-personal-context-and-motivation-for-undertaking-this-study}
         -   [Revisiting my overall aim in relation to the process of
             this chapter and
-            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
-    -   [Conceptual Context](#conceptual-context)
+            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs){#toc-revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs}
+            -   [The complex role of agency in this
+                thesis](#the-complex-role-of-agency-in-this-thesis){#toc-the-complex-role-of-agency-in-this-thesis}
+    -   [Conceptual
+        Context](#conceptual-context){#toc-conceptual-context}
         -   [The utility of understanding projects and socio cultural
             and activist concepts of
-            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity){#toc-the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity}
     -   [Context of teaching and learning coding via game
-        making](#context-of-teaching-and-learning-coding-via-game-making)
+        making](#context-of-teaching-and-learning-coding-via-game-making){#toc-context-of-teaching-and-learning-coding-via-game-making}
         -   [Overview and motivations of game making (for
-            learning)](#overview-and-motivations-of-game-making-for-learning)
+            learning)](#overview-and-motivations-of-game-making-for-learning){#toc-overview-and-motivations-of-game-making-for-learning}
         -   [Context of game making for curricular
-            purposes](#context-of-game-making-for-curricular-purposes)
+            purposes](#context-of-game-making-for-curricular-purposes){#toc-context-of-game-making-for-curricular-purposes}
             -   [Computing as a School Subject in the
-                UK](#computing-as-a-school-subject-in-the-uk)
+                UK](#computing-as-a-school-subject-in-the-uk){#toc-computing-as-a-school-subject-in-the-uk}
         -   [Context of digital making and culture in informal
-            settings](#context-of-digital-making-and-culture-in-informal-settings)
+            settings](#context-of-digital-making-and-culture-in-informal-settings){#toc-context-of-digital-making-and-culture-in-informal-settings}
             -   [Context of authenticity of tools, practices and
                 relationship with agency and
-                empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)
-            -   [Code playgrounds](#code-playgrounds)
+                empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment){#toc-context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment}
+            -   [Code
+                playgrounds](#code-playgrounds){#toc-code-playgrounds}
         -   [Home digital making and
-            culture](#home-digital-making-and-culture)
-            -   [On Retro Gaming](#on-retro-gaming)
+            culture](#home-digital-making-and-culture){#toc-home-digital-making-and-culture}
+            -   [On Retro
+                Gaming](#on-retro-gaming){#toc-on-retro-gaming}
     -   [Context of Home Education and family
-        learning](#context-of-home-education-and-family-learning)
-    -   [Context of research outlining game making strategies for
-        novices](#context-of-research-outlining-game-making-strategies-for-novices)
-        -   [The context of Project Based Learning
-            (PBL)](#the-context-of-project-based-learning-pbl)
-            -   [Defining PBL for this
-                studying](#defining-pbl-for-this-studying)
-            -   [Project Based Learning as an inclusive
-                pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
-            -   [Complications with Project Based
-                Learning](#complications-with-project-based-learning)
-        -   [Studies informing cultural aspects of game
-            making](#studies-informing-cultural-aspects-of-game-making)
-        -   [5th Dimension Case Study](#th-dimension-case-study)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
-        -   [Digital Braves as a small MoE / 5D
-            project](#digital-braves-as-a-small-moe-5d-project)
+        learning](#context-of-home-education-and-family-learning){#toc-context-of-home-education-and-family-learning}
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
-        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature){#toc-review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature}
+    -   [Technical
+        Barriers](#technical-barriers){#toc-technical-barriers}
         -   [Barrier: Difficulties in learning to
-            program](#barrier-difficulties-in-learning-to-program)
+            program](#barrier-difficulties-in-learning-to-program){#toc-barrier-difficulties-in-learning-to-program}
         -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in)
+            ...](#cultural-identity-barriers-to-participation-in){#toc-cultural-identity-barriers-to-participation-in}
             -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
+                cultures](#barrier---identity-and-computer-cultures){#toc-barrier---identity-and-computer-cultures}
         -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
+            practices](#barrier---unfamiliarity-with-support-practices){#toc-barrier---unfamiliarity-with-support-practices}
+    -   [Case Studies](#case-studies){#toc-case-studies}
+        -   [5th Dimension Case
+            Study](#th-dimension-case-study){#toc-th-dimension-case-study}
+        -   [Creative Family Learning -
+            Roque](#creative-family-learning---roque){#toc-creative-family-learning---roque}
+        -   [Digital Braves as a small MoE / 5D
+            project](#digital-braves-as-a-small-moe-5d-project){#toc-digital-braves-as-a-small-moe-5d-project}
     -   [Summary of the thesis motivation and
-        structure](#summary-of-the-thesis-motivation-and-structure)
-        -   [Recap of motivation](#recap-of-motivation)
+        structure](#summary-of-the-thesis-motivation-and-structure){#toc-summary-of-the-thesis-motivation-and-structure}
+        -   [Recap of
+            motivation](#recap-of-motivation){#toc-recap-of-motivation}
             -   [An area of tension to address - limited leaner choice
                 in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
+                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.){#toc-an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.}
         -   [Gaps in existing research / Contribution to knowledge of
             this
-            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
-        -   [Research Questions](#research-questions)
-        -   [Chapter outline](#chapter-outline)
-        -   [Link to next chapter](#link-to-next-chapter)
-    -   [Links](#links)
+            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis){#toc-gaps-in-existing-research-contribution-to-knowledge-of-this-thesis}
+        -   [Research
+            Questions](#research-questions){#toc-research-questions}
+        -   [Chapter outline](#chapter-outline){#toc-chapter-outline}
+        -   [Link to next
+            chapter](#link-to-next-chapter){#toc-link-to-next-chapter}
+    -   [Links](#links){#toc-links}
 
 # Introduction - “What kind of Game Maker are you?”
 
@@ -103,6 +100,18 @@ Author Mick Chesterman
 ## Abstract
 
 to come - for now see outline of thesis at the end of chapter
+
+## outline
+
+* personal context
+* conceptual context - at etc
+* context of teaching and learning coding - motivations
+  - SCHOOLS
+  - Informal , professional & enthusiast
+* home education context
+* barriers - start otu outline types , technical and cultural
+* case studies
+
 
 ## Research Questions - March 2024
 
@@ -157,6 +166,7 @@ In 1995, the internet seemed to me almost free of corporate messages. It was a s
 There was a resonance between the non-hierarchical approach of activist spaces and the decentralised organising principles of the free software movement and the associated free culture approaches [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local networks and organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism. I set up and ran three media centres. The first at an activist social centre, another for Community Arts Northwest and the last for People's Voice Media in Salford.
 
 I documented and promoted low-cost media and web production processes in as a member of with FLOSS Manuals and Transmission international networks. As part of this process I co-wrote A Open Web which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes.
+
 <!-- In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project [^4].   -->
 
 <!-- The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark. -->
@@ -271,12 +281,14 @@ also
 
 While this book is rightly regarded a  keystone work in this area the coverage of the cultural elements of game making is not as strong as other aspects focusing mainly on studies of diverse participants rather than sharing culturally focused pedagogies.
 
+DUPLICATION WITH BELOW
 
-### Context of game making for curricular purposes
+
+## Context of game making for curricular purposes
 
 The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
 
-#### Computing as a School Subject in the UK
+### Computing as a School Subject in the UK
 
 The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
@@ -293,14 +305,14 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 -->
 
 
-### Context of digital making and culture in informal settings
+## Context of digital making and culture in informal settings
 
 The context of these communities is important to situate the relevance of this study. These contexts are explored in summary.
 
-While key pedagogies used in this area are explored in more depth in chapter two, at times context and pedagogy are not neatly separated. Thus in this section strategies associated with contextual elements are sometimes included.
+While key pedagogies used in this area are explored in chapter two, at times context and pedagogy are not neatly separated. Thus in this section brief summaries of strategies are sometimes included to be explored in more depth in Chapter 2.
 
 
-#### Context of authenticity of tools, practices and relationship with agency and empowerment
+### Context of authenticity of tools, practices and relationship with agency and empowerment
 
 Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016]. In this introduction I refer making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
 
@@ -320,11 +332,11 @@ In the early selection of tools the use of a framework based on javascript and w
 
 **Mozilla - Teach the Web as context and community**
 
-I was attracted and received positive feedback from the process of lifting the lid on the specifics of authentic tools computing. The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology.
-My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
-
-
 A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
+
+The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology. My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
+
+
 
  <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
 - web literacy - narrower
@@ -361,19 +373,17 @@ Javascript as coding language, Phaser as a game making framework and Glitch as a
 
 
 
-### Home digital making and culture
+## Digital gaming and making culture
+
 
 Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
+
+### On  Gaming (move to a gaming cultures section? )
 
 The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
 
 Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
 
-Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
-
-In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
-
-#### On Retro Gaming
 
 One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
 
@@ -381,6 +391,16 @@ What era and technologies constitute retro games can be disputed, however for th
 
 Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
 due to the limited capabilities of the hardware and storage space involved.
+
+
+
+### Home making and consuming of media
+
+
+Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
+
+In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
+
 
 ## Context of Home Education and family learning
 
@@ -400,148 +420,6 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
 
 
-## Context of research outlining game making strategies for novices
-
-Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
-
-In the following sections, I outline PBL as a key strategy, share general findings of studies related to race, gender and other cultural factors, and then address game making strategies in context using two key case studies, a process which is followed up in chapter two.
-
-### The context of Project Based Learning (PBL)
-
-The educational strategy of learning how to code games lends itself to a project based learning (PBL) approach. The following section explores common elements of PBL and summarises links with game making approaches and the legacy of game making studies.
-
-#### Defining PBL for this studying
-
-In broad terms, PBL is an educational strategy which x,y and z
-
-For game making the following aspects are particularly relevant: authenticity of audience, student choice and voice, etc
-
-It is also of value to explore PBL as an inclusive pedagogy - WHY?
-
-#### Project Based Learning as an inclusive pedagogy
-
-The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of race, culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017].  Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
-
-One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
-
-
-#### Complications with Project Based Learning
-
-PBL should reconcile some of the tension and challenges outlined above in learning coding in formal settings.
-
-Resnick, advocate for Scratch software, in particular is vocal in promotion of PBL approaches in his projects, play and passion - lifelong kindergarten pedagogy.
-
-However there are addition al challenges of delivering PBL
-
-Lack of frameworks, expertise, confidence etc.
-
-These challenges are often compounded by contextual factors of formal education which challenge creative approaches in general. These include challeges of exam pressure, time factors.
-
-Specific techniques of PBL and digital making are explored in more depth in chapter two and example of practice are also present in the following case studies.
-
-
-
-
-
-<!-- The next section deals with inclusive
-Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
- pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
-
-<!-- Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report lacking the knowledge to effectively teach children with SEND issues.  -->
-
-
-
-
-
-### Studies informing cultural aspects of game making
-
-**Studies exploring identity and barriers to participation**
-
-Game making is thus a suitable mediumn to support existing collaborative practices and home interests to overcome difficulties in computer coding.
-
-Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
-REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   
-
-**Gender related identities**
-
-The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008).
-
-<!-- Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
-
-
-- girl's low self-confidence in the area of computing compared to their ability [@beyer_gender_2003; @margolis_unlocking_2002]
-
-**Research**
-Extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests [@robertson_making_2012; @robertson_influence_2013].  
-
-The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future.
-
-The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies [@denner_girls_2007] . Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
-
-
-
-**Race related identities**
-
-In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-I adopt a similar approach but use the language of AT contradictions, barriers and tensions.
-
-Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-
-
-**Other Non-dominant identities**
-
-Shift to other tactics like Family Connected Learning Roque.
-
-
-### 5th Dimension Case Study
-
-Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
-
-A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
-
-The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
-
-This technique emerged in this study as one of value and is explored in chapters x and y.
-
-### Creative Family Learning - Roque
-
-
-
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
-
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
-
-
-Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
-
-
-It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
-
-The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
-
-I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
-
-### Digital Braves as a small MoE / 5D project
-
-Insert a summary of Digital Braves - link to republication version.  
 
 
 ## Review of relevant barriers to participating in coding practices emerging in the literature
@@ -552,17 +430,19 @@ CHOOSE CAREFULLY WHERE TO PUT THE RESULTS. -->
 
 This section draws on concepts of the introductory section to review existing research on digital making to identify barriers to participation in digital making and in particular coding practices.
 
+
+Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
+
 <!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
 
 This section then which summarises existing research in this area needs a clear and different focus.
 -->
 
-The focus of this review is to identify broad streams and currents in research. The next section examines research on pedagogical responses.
-
-Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
 
 
-#### Barrier: Difficulties in learning to program
+## Technical Barriers
+
+### Barrier: Difficulties in learning to program
 
 Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
 
@@ -598,11 +478,14 @@ Scratch and GSM merit particular examination as mini-case studies. The
 - library of assets to speed up creation
 - In built asset authoring tools.
 
-Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interst to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
+Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interest to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
 
 NOTE - referenced in design chapter - the alignment with the use of code playground and template.
 
 
+Computing syntax
+Lack of knowledge of what to design..
+ which they call “sandbox games,” that integrates the worlds"
 
 
 
@@ -647,9 +530,110 @@ While home education support practices of families are expressed in this setting
  Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
 
 
- Computing syntax
- Lack of knowledge of what to design..
-  which they call “sandbox games,” that integrates the worlds"
+
+
+
+  ### Studies informing cultural barriers / aspects of game making
+
+  Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
+
+
+  **Studies exploring identity and barriers to participation**
+
+  Game making is thus a suitable mediumn to support existing collaborative practices and home interests to overcome difficulties in computer coding.
+
+  Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
+  REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   
+
+  **Gender related identities**
+
+  The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+  The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008).
+
+  <!-- Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+  Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+
+  - girl's low self-confidence in the area of computing compared to their ability [@beyer_gender_2003; @margolis_unlocking_2002]
+
+  **Research**
+  Extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests [@robertson_making_2012; @robertson_influence_2013].  
+
+  The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future.
+
+  The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies [@denner_girls_2007] . Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
+
+  - Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+  - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+  <!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+  Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
+
+
+
+  **Race related identities**
+
+  In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+      Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+  I adopt a similar approach but use the language of AT contradictions, barriers and tensions.
+
+  Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+
+
+  **Other Non-dominant identities**
+
+  Shift to other tactics like Family Connected Learning Roque.
+
+
+
+
+
+## Case Studies
+### 5th Dimension Case Study
+
+Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
+
+A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
+
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
+
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
+
+This technique emerged in this study as one of value and is explored in chapters x and y.
+
+### Creative Family Learning - Roque
+
+
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
+
+
+Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+
+
+It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
+
+The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
+
+I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
+
+### Digital Braves as a small MoE / 5D project
+
+Insert a summary of Digital Braves - link to republication version.  
+
+
+
+
+
 
 ## Summary of the thesis motivation and structure
 

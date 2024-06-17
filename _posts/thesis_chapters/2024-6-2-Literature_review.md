@@ -496,6 +496,56 @@ ITO and Gee
 
 
 
+### The context of Project Based Learning (PBL)
+
+The educational strategy of learning how to code games lends itself to a project based learning (PBL) approach. The following section explores common elements of PBL and summarises links with game making approaches and the legacy of game making studies.
+
+#### Defining PBL for this studying
+
+In broad terms, PBL is an educational strategy which x,y and z
+
+For game making the following aspects are particularly relevant: authenticity of audience, student choice and voice, etc
+
+It is also of value to explore PBL as an inclusive pedagogy - WHY?
+
+#### Project Based Learning as an inclusive pedagogy
+
+The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of race, culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017].  Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
+
+One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
+
+
+#### Complications with Project Based Learning
+
+PBL should reconcile some of the tension and challenges outlined above in learning coding in formal settings.
+
+Resnick, advocate for Scratch software, in particular is vocal in promotion of PBL approaches in his projects, play and passion - lifelong kindergarten pedagogy.
+
+However there are addition al challenges of delivering PBL
+
+Lack of frameworks, expertise, confidence etc.
+
+These challenges are often compounded by contextual factors of formal education which challenge creative approaches in general. These include challeges of exam pressure, time factors.
+
+Specific techniques of PBL and digital making are explored in more depth in chapter two and example of practice are also present in the following case studies.
+
+
+
+
+
+<!-- The next section deals with inclusive
+Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
+ pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
+
+<!-- Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report lacking the knowledge to effectively teach children with SEND issues.  -->
+
+
+
+
+
+
+
+
 ### Project based learning PBL
 
 NOTE - This spans k12 and more informal / community environments - thus I'm not sure where to place it at the moment - Lit review needs reworking.
