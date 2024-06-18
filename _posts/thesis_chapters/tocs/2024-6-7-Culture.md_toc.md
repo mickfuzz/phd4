@@ -6,31 +6,33 @@
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-        -   [Planned and emergent activity (in introduction to
-            discussion)](#planned-and-emergent-activity-in-introduction-to-discussion)
-    -   [Observations and Evidence on emerging cultural practices
-        (cultural
-        dimension)](#observations-and-evidence-on-emerging-cultural-practices-cultural-dimension)
-        -   [Introduction to this
-            section](#introduction-to-this-section)
+    -   [Observations on emergent elements of agency within cultural
+        activity](#observations-on-emergent-elements-of-agency-within-cultural-activity)
+        -   [Planned and emergent
+            activity](#planned-and-emergent-activity)
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs)
-        -   [Discussion on playtesting](#discussion-on-playtesting)
+        -   [Observations on the emerging role of
+            playtesting](#observations-on-the-emerging-role-of-playtesting)
             -   [Community concepts and norming behaviour emerging
                 during
                 playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
-    -   [Discussion on emergent elements of guided
-        participation](#discussion-on-emergent-elements-of-guided-participation)
-        -   [Encouraging peer learning and varied working
-            practices](#encouraging-peer-learning-and-varied-working-practices)
-        -   [Beyond design cycle stages](#beyond-design-cycle-stages)
-        -   [Supporting Digital/Game
-            Jamming](#supporting-digitalgame-jamming)
+        -   [Observations on emerging flexible design
+            practices](#observations-on-emerging-flexible-design-practices)
+            -   [Emergent peer learning and varied working
+                practices](#emergent-peer-learning-and-varied-working-practices)
+            -   [Observations on Digital/Game
+                Jamming](#observations-on-digitalgame-jamming)
             -   [The potential of emergent "non-productive"
                 activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Discussion section one - on the
+        above](#discussion-section-one---on-the-above)
+        -   [Discussion in relation to other research - beyond design
+            cycle
+            stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
         -   [The interaction of emergent / flexible deign practices and
             the collection of Game Design
             Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
@@ -57,9 +59,22 @@
                 activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
             -   [Concluding remarks on process
                 drama](#concluding-remarks-on-process-drama)
-    -   [Discussion on authenticity and agency in relation to (personal
-        appropriation?) of tool
-        use](#discussion-on-authenticity-and-agency-in-relation-to-personal-appropriation-of-tool-use)
+    -   [Discussions section two - on developing
+        agency](#discussions-section-two---on-developing-agency)
+        -   [Relevant existing models addressing emergent
+            agency](#relevant-existing-models-addressing-emergent-agency)
+            -   [Affordances and anchors](#affordances-and-anchors)
+            -   [Extending the metaphor - anchoring in sheltered
+                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+            -   [Summary on metaphors around creating
+                space](#summary-on-metaphors-around-creating-space)
+            -   [Nurturing agency by creating space for emergent
+                practices](#nurturing-agency-by-creating-space-for-emergent-practices)
+            -   [The freedoms and restrictions of
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+    -   [Discussion on agency in relation to authentic tool (and
+        process)
+        use](#discussion-on-agency-in-relation-to-authentic-tool-and-process-use)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
             -   [Increased scaffolding of tools can increase
@@ -75,24 +90,11 @@
                 stimuation)](#exploring-different-dimentions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation)
         -   [Agency in response to a series of second
             stimuli](#agency-in-response-to-a-series-of-second-stimuli)
+    -   [Implications for practice to encourage
+        agency](#implications-for-practice-to-encourage-agency)
         -   [Asking questions about the challenge of applying this model
             to classroom
             environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
-        -   [Conclusion to this section](#conclusion-to-this-section)
-    -   [Discussion on designing for learner
-        agency](#discussion-on-designing-for-learner-agency)
-        -   [Nurturing agency by creating space for emergent
-            practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-        -   [The freedoms and restrictions of
-            playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-        -   [Affordances and anchors](#affordances-and-anchors)
-        -   [Extending the metaphor - anchoring in sheltered
-            harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
-            -   [Summary on metaphors around creating
-                space](#summary-on-metaphors-around-creating-space)
-        -   [Synthesis on implications for project based practice to
-            encourage
-            agency](#synthesis-on-implications-for-project-based-practice-to-encourage-agency)
             -   [Divining authentic
                 frameworks](#divining-authentic-frameworks)
             -   [Keeping hard fun hard](#keeping-hard-fun-hard)

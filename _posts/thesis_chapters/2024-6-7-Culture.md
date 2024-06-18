@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
-
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -18,31 +17,33 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-        -   [Planned and emergent activity (in introduction to
-            discussion)](#planned-and-emergent-activity-in-introduction-to-discussion)
-    -   [Observations and Evidence on emerging cultural practices
-        (cultural
-        dimension)](#observations-and-evidence-on-emerging-cultural-practices-cultural-dimension)
-        -   [Introduction to this
-            section](#introduction-to-this-section)
+    -   [Observations on emergent elements of agency within cultural
+        activity](#observations-on-emergent-elements-of-agency-within-cultural-activity)
+        -   [Planned and emergent
+            activity](#planned-and-emergent-activity)
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs)
-        -   [Discussion on playtesting](#discussion-on-playtesting)
+        -   [Observations on the emerging role of
+            playtesting](#observations-on-the-emerging-role-of-playtesting)
             -   [Community concepts and norming behaviour emerging
                 during
                 playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
-    -   [Discussion on emergent elements of guided
-        participation](#discussion-on-emergent-elements-of-guided-participation)
-        -   [Encouraging peer learning and varied working
-            practices](#encouraging-peer-learning-and-varied-working-practices)
-        -   [Beyond design cycle stages](#beyond-design-cycle-stages)
-        -   [Supporting Digital/Game
-            Jamming](#supporting-digitalgame-jamming)
+        -   [Observations on emerging flexible design
+            practices](#observations-on-emerging-flexible-design-practices)
+            -   [Emergent peer learning and varied working
+                practices](#emergent-peer-learning-and-varied-working-practices)
+            -   [Observations on Digital/Game
+                Jamming](#observations-on-digitalgame-jamming)
             -   [The potential of emergent "non-productive"
                 activities](#the-potential-of-emergent-non-productive-activities)
+    -   [Discussion section one - on the
+        above](#discussion-section-one---on-the-above)
+        -   [Discussion in relation to other research - beyond design
+            cycle
+            stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
         -   [The interaction of emergent / flexible deign practices and
             the collection of Game Design
             Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
@@ -69,9 +70,22 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
             -   [Concluding remarks on process
                 drama](#concluding-remarks-on-process-drama)
-    -   [Discussion on authenticity and agency in relation to (personal
-        appropriation?) of tool
-        use](#discussion-on-authenticity-and-agency-in-relation-to-personal-appropriation-of-tool-use)
+    -   [Discussions section two - on developing
+        agency](#discussions-section-two---on-developing-agency)
+        -   [Relevant existing models addressing emergent
+            agency](#relevant-existing-models-addressing-emergent-agency)
+            -   [Affordances and anchors](#affordances-and-anchors)
+            -   [Extending the metaphor - anchoring in sheltered
+                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+            -   [Summary on metaphors around creating
+                space](#summary-on-metaphors-around-creating-space)
+            -   [Nurturing agency by creating space for emergent
+                practices](#nurturing-agency-by-creating-space-for-emergent-practices)
+            -   [The freedoms and restrictions of
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+    -   [Discussion on agency in relation to authentic tool (and
+        process)
+        use](#discussion-on-agency-in-relation-to-authentic-tool-and-process-use)
         -   [Discussion on authenticity and agency concerning tools and
             resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
             -   [Increased scaffolding of tools can increase
@@ -87,24 +101,11 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 stimuation)](#exploring-different-dimentions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation)
         -   [Agency in response to a series of second
             stimuli](#agency-in-response-to-a-series-of-second-stimuli)
+    -   [Implications for practice to encourage
+        agency](#implications-for-practice-to-encourage-agency)
         -   [Asking questions about the challenge of applying this model
             to classroom
             environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
-        -   [Conclusion to this section](#conclusion-to-this-section)
-    -   [Discussion on designing for learner
-        agency](#discussion-on-designing-for-learner-agency)
-        -   [Nurturing agency by creating space for emergent
-            practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-        -   [The freedoms and restrictions of
-            playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-        -   [Affordances and anchors](#affordances-and-anchors)
-        -   [Extending the metaphor - anchoring in sheltered
-            harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
-            -   [Summary on metaphors around creating
-                space](#summary-on-metaphors-around-creating-space)
-        -   [Synthesis on implications for project based practice to
-            encourage
-            agency](#synthesis-on-implications-for-project-based-practice-to-encourage-agency)
             -   [Divining authentic
                 frameworks](#divining-authentic-frameworks)
             -   [Keeping hard fun hard](#keeping-hard-fun-hard)
@@ -198,11 +199,6 @@ IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
 
-### Planned and emergent activity (in introduction to discussion)
-
-The previous chapters have described interventions in design that can be characterised on a spectrum between those planned and introduced by myself as a facilitator and those which were emergent, i.e. invented or adopted by participants as a response to the contradictions covered in chapter four.  
-
-In line with the concepts of formative interventsion and DBR elements of the introduced design changed responsive to learner need as the design evolved through iterations. Some introduced  processes outlined here were very minimal in embryonic form but extended significantly by participants.
 
 Some sections here including discussion on element of the introduced drama processe explore how facilitators can encourage emergent processes as part of an introduced design.  This discussion chapter uses this conceptual spectrum as a way to explore an analyis of different aspects of agency aand inclusive pedagogies.
 
@@ -214,21 +210,26 @@ Some sections here including discussion on element of the introduced drama proce
 
 
 
+## Observations on emergent elements of agency within cultural activity
 
-## Observations and Evidence on  emerging cultural practices (cultural dimension)
+This section describes and discusses some of the emergent, flexible and adaptive design practices that I observed in video data.
 
-CHECK TO SEE IF ANY SHOULD BE IN CHAPTER 4 - THAT IT IS DISCUSSION-Y ENOUGH
+I also discuss these findings in line with existing research in relevant areas.
 
-NOTE THIS NEEDS A QUICK INTRODUCTION TO MAKE A TRANSITION - LINK THIS PART AND RECONNECT IT WITH CHAPTER 4.
 
-### Introduction to this section  
+
+
+### Planned and emergent activity
+
+The previous chapters have described interventions in design that can be characterised on a spectrum between those planned and introduced by myself as a facilitator and those which were emergent, i.e. invented or adopted by participants as a response to the contradictions covered in chapter four.  
+
+In line with the concepts of formative interventsion and DBR elements of the introduced design changed responsive to learner need as the design evolved through iterations. Some introduced  processes outlined here were very minimal in embryonic form but extended significantly by participants.
 
 
 AT theory emphasises that the process of activity does not start in a vacuum. This helps justify the formative intervention process which is active in intervention and in the initial shaping of activity. In an educational context, this can involve introduction of tasks as starting activities to shape. This is justified conceptually from a view of not restricting participant agency in that some form of activity should be suggested in order for them to make a rational choice as to weather to participate. It follows that this activity should encourage the communication that participant choice is significant in the design.
 
 THIS IS ALSO INTRO - REMOVE? REDUCE?
 Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
-
 
 
 
@@ -308,7 +309,7 @@ Take the example above, through use of pixel art editor, and template with small
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
 
 
-### Discussion on playtesting
+### Observations on the emerging role of playtesting
 
  <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
 
@@ -509,13 +510,14 @@ Relevant theory / studies.
 This section uses AT's focus on rules / norms and interactions with other activity systems at home. -->
 
 
-## Discussion on emergent elements of guided participation
 
-This section describes and discusses some of the emergent, flexible and adaptive design practices that I observed in video data.
+### Observations on emerging flexible design practices
 
-I also outline the rationale behind my responses to them.
+To restructure. More evidence on emerging norms, DoL, and community behaviour.  
 
-### Encouraging peer learning and varied working practices
+Anchor terms here. Which from methodology are useful?
+
+#### Emergent  peer learning and varied working practices
 
 This section discusses some of the outcomes stemming from interventions and emergent participant responses in the area of peer and individual working practices.
 
@@ -547,14 +549,7 @@ This informal, unguided approach is also present in some Game Jams.
 In addition to ad-hoc partnership work and collaboration
 
 
-### Beyond design cycle stages
-
-As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
-
-In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
-
-
-### Supporting Digital/Game Jamming
+#### Observations on  Digital/Game Jamming
 
 While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
 
@@ -564,21 +559,7 @@ I propose that this process can have value in other areas of digital making.
 
 
 Flexible design practices are often present in recorded data. Younger participants in particular developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed rapid, responsive creativity. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about with the capability of the tools which spurs creativity. The joint jamming created two different soundtracks. This sparks a new proposal to incorporate different soundtracks for different levels. Pairs often adopted a similar spirit of improvisaion. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
-###
-These observations of the value of flexible design processes, invite discssion on how best to conceptualise and support these flexible approaches. Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014].
 
-Other relevant perspectives include rhizomatic design approaches  [@de_freitas_classroom_2012]. Research exists on the promise of rhizomatic approaches design thinking in creative educational programmes [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
-
-Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
-
-There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
-
-NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
-
-MOVE THIS CLAIM LATER.
-**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
-
-Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
 
 
 #### The potential of emergent "non-productive" activities
@@ -606,6 +587,32 @@ In addition, I observed that navigating these essential but non-creative tasks i
 In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants. This a concept is developed later in this discussion.
 
 
+
+## Discussion section one - on the above
+
+
+### Discussion in relation to other research - beyond design cycle stages
+
+As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
+
+In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
+
+
+
+These observations of the value of flexible design processes, invite discssion on how best to conceptualise and support these flexible approaches. Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014].
+
+Other relevant perspectives include rhizomatic design approaches  [@de_freitas_classroom_2012]. Research exists on the promise of rhizomatic approaches design thinking in creative educational programmes [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
+
+Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
+
+There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
+
+NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
+
+MOVE THIS CLAIM LATER.
+**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
+
+Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
 
 
 ### The interaction of emergent / flexible deign practices and the collection of Game Design Patterns
@@ -1047,13 +1054,129 @@ NOTE - EXPLORE THIS IN LR AND DISCUSSION IF KEEPING THIS.
 
 
 
+## Discussions section two - on developing agency
+
+I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.
+
+<!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
+
+<!-- This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process. -->
+
+
+<!-- I will extract observations from this research that extend beyond the process of coding into other domains.   -->
+
+<!-- In this section analysis uses the language and concepts introduces in literature on affordances and transformational agency which in turn draws on concepts of conflicts in activity in activity theory. To help this process a quick recap of relevant concepts in relation to the contents of this chapter follows. -->
+
+<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
+
+### Relevant existing models addressing emergent agency
+
+
+#### Affordances and anchors
+
+Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+
+    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
+
+In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
+Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
+
+Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
+
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
+
+
+
+#### Extending the metaphor - anchoring in sheltered harbours
+
+My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
+
+Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
+
+This chapter has discussed affordences of a bespoke and mutually designed learning exeriences and their impact on learner agency. At times, Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage in their process has been used. The metaphor is useful to explain the active process of participants seekig to resolve conflicts and problems in their creative processes. However, much research employing this metaphor is often used in less-structured workplace settings. As such, the designed nature of the environment is less relevant. This section proposes an expansion of the metaphor to encompass concerns of a more structured learning design.
+
+
+
+-----
+
+NOTE - THIS SECTION MOVED FROM METHODOLOGY
+
+Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+
+    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
+
+In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
+Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
+
+Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
+
+
+-----
+
+In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However, in this design, participants aim for affordances as visible anchor points. In the design above such anchor points include: regular play-testing; the use of documentation; and highlighed variables and level structure in the quick start stage.
+
+To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
+
+<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
+
+
+
+<!-- This my be done by
+- defining or reducing the use use of specialised terminology  or
+- hiding away un-needed complexity.
+- signposting issues like a lighthouse or similar big thing on a rock - don't go there  
+- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
+Many design decisions were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; skirting use of specialist terminology; hiding away un-needed complexity in the code template.
+
+While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
+
+
+#### Summary on metaphors around creating space
+
+KEEP METAPHORS TO THIS CHAPTER - BUT EXPLORATION OF THE IDEAS AS A SUMMARY FOR PRACTITIONERS IN NEXT CHAPTER?
+
+The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter.
+
+The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
+
+The process of Playtesting and working towards an external audience.
+
+Some of the processes for building community were more mutual - collecting requirements
+
+Creating documentation
+Other processess
+
+Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
 
 
 
 
+#### Nurturing agency by creating space for emergent practices
+
+<!--
+NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
 
 
-## Discussion on authenticity and agency in relation to (personal appropriation?) of tool use
+
+THIS SECTION IS STILL UNDER DEVELOPMENT
+
+This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
+
+Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
+
+Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
+
+
+#### The freedoms and restrictions of playgrounds
+
+In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
+
+These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
+
+
+
+
+## Discussion on agency in relation to authentic tool (and process) use
 
 ### Discussion on authenticity and agency concerning tools and resources  
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
@@ -1149,6 +1272,9 @@ KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED.
 
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
 
+## Implications for practice to encourage agency
+
+After exploring varied understandings of agency and manifestations in this context. What are resulting implication for practice in brief - COMPARE TO RELEVANT SECTION IN NEXT CHAPTER.
 
 ### Asking questions about the challenge of applying this model to classroom environments.
 
@@ -1160,139 +1286,6 @@ In a classroom setting the personal appropriation would have different expectati
 DISCUSS MORE.
 
 
-### Conclusion to this section
-
-There is alignment with other research in terms of how
-
-- authenticity of tools can be problematic and needs design adaptation, often black boxing
-- this process merits attention and alignment with overall project aims of the designer
-- Challenges encoutered by students in tool use can result in productive and creative responses in development of productin cultu4res (explored later)
-- ideally emergent and producing a culture series of
-
-
-## Discussion on designing for learner agency
-
-I propose that learner agency entails the practice of designing and facilitating effective and engaging creative and technical learning environments.
-
-<!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
-
-<!-- This section begins to explore observations in line with conceptions of authenticity and agency and other studies, identify processes to to aid researchers / practitioners replicate practice and understandings of the process. -->
-
-
-<!-- I will extract observations from this research that extend beyond the process of coding into other domains.   -->
-
-<!-- In this section analysis uses the language and concepts introduces in literature on affordances and transformational agency which in turn draws on concepts of conflicts in activity in activity theory. To help this process a quick recap of relevant concepts in relation to the contents of this chapter follows. -->
-
-<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
-
-### Nurturing agency by creating space for emergent practices
-
-<!--
-NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
-
-
-
-
-THIS SECTION IS STILL UNDER DEVELOPMENT
-
-This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
-
-Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
-
-Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
-
-
-
-
-### The freedoms and restrictions of playgrounds
-
-In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
-
-These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
-
-
-
-### Affordances and anchors
-
-NOTE - MOVED HERE from methodology
-
-Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
-
-    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
-
-In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
-Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
-
-Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
-
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-
-
-### Extending the metaphor - anchoring in sheltered harbours
-
-My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
-
-Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
-
-This chapter has discussed affordences of a bespoke and mutually designed learning exeriences and their impact on learner agency. At times, Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage in their process has been used. The metaphor is useful to explain the active process of participants seekig to resolve conflicts and problems in their creative processes. However, much research employing this metaphor is often used in less-structured workplace settings. As such, the designed nature of the environment is less relevant. This section proposes an expansion of the metaphor to encompass concerns of a more structured learning design.
-
-
-
------
-
-NOTE - THIS SECTION MOVED FROM METHODOLOGY
-
-Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
-
-    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
-
-In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
-Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
-
-Affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
-
-
------
-
-In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However, in this design, participants aim for affordances as visible anchor points. In the design above such anchor points include: regular play-testing; the use of documentation; and highlighed variables and level structure in the quick start stage.
-
-To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
-
-<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
-
-
-
-<!-- This my be done by
-- defining or reducing the use use of specialised terminology  or
-- hiding away un-needed complexity.
-- signposting issues like a lighthouse or similar big thing on a rock - don't go there  
-- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
-Many design decisions were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; skirting use of specialist terminology; hiding away un-needed complexity in the code template.
-
-While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
-
-
-#### Summary on metaphors around creating space
-
-KEEP METAPHORS TO THIS CHAPTER - BUT EXPLORATION OF THE IDEAS AS A SUMMARY FOR PRACTITIONERS IN NEXT CHAPTER?
-
-The title to this chapter was  _Seeding Game Making Communities to Facilitate Learner Agency_. This evolved to _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens explored in this chapter.
-
-The growing /agricultural metaphor can be compared with the metaphor for agency used in the discussion which is more nautical in flavour, led by Sannino's work on TADS and kedging anchor metaphor which is extended to incorporate a protected habour for novices in a creative environment. Similarly in the literature there is a thread around play-spaces and playgrounds. One common thread here is the importance of a sheltered learning environment and somewhat curated set of affordances.
-
-The process of Playtesting and working towards an external audience.
-
-Some of the processes for building community were more mutual - collecting requirements
-
-Creating documentation
-Other processess
-
-Of course this may make learners run into trouble if engaging outside of the harbour or in real situtations.
-
-### Synthesis on implications for project based practice to encourage agency
-
-Previous chapters explored varied understandings of agency.
 
 
 #### Divining authentic frameworks
@@ -1328,6 +1321,13 @@ This section contributes observations from this research process with the follow
  - to serve other researchers undertaking similar work using activity theory and design based approach
  - to help practitioners be research informed
 
+
+ There is alignment with other research in terms of how
+
+ - authenticity of tools can be problematic and needs design adaptation, often black boxing
+ - this process merits attention and alignment with overall project aims of the designer
+ - Challenges encoutered by students in tool use can result in productive and creative responses in development of productin cultu4res (explored later)
+ - ideally emergent and producing a culture series of
 
 
 <!-- Transistion - When designing with learner agency in mind. Some of the following may help -->
