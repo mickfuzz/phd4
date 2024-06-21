@@ -151,7 +151,10 @@ Thus mostly addressing RQ3. However to do this, the chapter builds on the work o
 For example, in the previous chapter explored the use of GDPs in varied ways which combined to provide a useful structure to orient project work. The community themes is developed in this chapter in the following ways:
 
 - emerging use of narratives and graphics which drawing on home funds of knowledge
-- playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting
+
+
+      <!-- - playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting -->
+
 - the emergence of flexible and complex design behaviours.
 
 This section includes evidence and discussion in  relation with other research on these aspects.
@@ -308,56 +311,6 @@ Take the example above, through use of pixel art editor, and template with small
 <!-- **Expectations- ALSO EXPLORED IN LAST CHAPTER**
 - incorporating familiar or personally meaningful elements can involve challenges including that of unrealistic expectations based on previous game playing experiences -->
 
-
-### Observations on the emerging role of playtesting
-
- <!-- NOTE - Include examples here which do not talk of GDP explicitly - but other cultural aspects. -->
-
-As explored in the literature review and previous chapter, playtesting is a rich and varied learning opportunities which encourages community-building behaviour.
-
-<!-- NOTE - CAN SOME OF THIS BE MOVED TO CHAPTER FOUR? -->
-
-
-
-#### Community concepts and norming behaviour emerging during playtesting
-
-<!-- THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE -->
-
-
-<!-- The elements of variables controlling player movement, the ability to place hazards in the layout of the platform game were initial changes that all participants made but the end results greatly varied in terms of the challenge of the games. Discussions on game challenge, specifically comments about how 'hard' participant games were the most common forms of interaction during playtesting.
-
-Through this informal feedback participants sought to influence peers to modify the playability and challenge games to increase the enjoyment of peer players. For example, parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. Just before this extract, as a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). -->
-
-<!-- PERHAPS TURN THIS INTO A TABLE WITH GESTURE?  -->
-
-<!-- Bertie: That looks nice (referring to the graphical look of the game)
-
-Molly invites Bertie: to play as she can't progress due to the difficult game controls.
-
-Bertie: It jumps super high but so slow.  
-Pause
-Molly: He has to go slow because he's an astronaut, you see.    
-Bertie: It's hard.
-(Bertie leaves.)
-Molly: (to peer parent with proud tone.) It's hard. Wow.
-
-(Ed comes to play the game)
-Ed: How much jump speed to you have?
-Ed: Your jump speed is massive.
-
-Molly initially misconstrues feedback from Bertie that her game is hard as a positive thing. A variety of comments nudge Molly to change her game to align with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach. Feedback from Bertie is direct about his player experience as a player.  -->
-
-NOTE THERE IS SOMETHING HERE ABOUT ME STEPPING BACK AND LETTING THE COMMUNITY EVOLVE.
-
-Ed gives a more technical explanation from  involving the naming of the variable _jump speed_.
-
-Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
-
-The indirect norming behaviours ... described in previous chapter ...  mirror observations seen in the work of Rogoff and colleagues[@rogoff_cultural_2003] on learning in  community settings. There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
-
-To better understand this process it is relevant to locate the source of these wider expectations and to evaluate their utility here. This is attempted in the discussion section of the chapter.
-
-What we can draw from the data at this stage is that playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs. IN addition, playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
 
 
 
