@@ -220,22 +220,22 @@ This section describes and discusses some of the emergent, flexible and adaptive
 I also discuss these findings in line with existing research in relevant areas.
 
 
-
-
-### Planned and emergent activity
+### Intro to this section (on planned and emergent activity)
 
 The previous chapters have described interventions in design that can be characterised on a spectrum between those planned and introduced by myself as a facilitator and those which were emergent, i.e. invented or adopted by participants as a response to the contradictions covered in chapter four.  
 
-In line with the concepts of formative interventsion and DBR elements of the introduced design changed responsive to learner need as the design evolved through iterations. Some introduced  processes outlined here were very minimal in embryonic form but extended significantly by participants.
+The distinction between planned and emergent activities became blurred as practices merged. In Chapter 6 outlines that while  I tool a lead to collate game design patterns into an organised collection with accompanying resources and a navigational menu, many of these patterns, were introduced  initially by participants who recognised them and wanted to add them to their own games.
+
+This aligns with a key characteristic of formative intervention and DBR. Namely that elements of the introduced design changed responsive to learner need as the design evolved through iterations. Some introduced  processes outlined in this chapter were very minimal in embryonic form but extended significantly by participants.
 
 
 AT theory emphasises that the process of activity does not start in a vacuum. This helps justify the formative intervention process which is active in intervention and in the initial shaping of activity. In an educational context, this can involve introduction of tasks as starting activities to shape. This is justified conceptually from a view of not restricting participant agency in that some form of activity should be suggested in order for them to make a rational choice as to weather to participate. It follows that this activity should encourage the communication that participant choice is significant in the design.
 
-THIS IS ALSO INTRO - REMOVE? REDUCE?
-Planned activities introduced by myself and those by participants. However the distinction is not so neat, as explored in the last chapter. In later stages, game design patterns were collated into an organised collection with accompanying resources and a navigational menu. However, many of these patterns however, we introduced  initially by participants who recognised them and wanted to add them to their own games.
+#### Recap of Emerging role of playtesting
 
+The emerging character of playtesting in this design (explored in Chapter 5) is another example of a process which began in as an introduced activity. Namely:
 
-
+-  
 
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
