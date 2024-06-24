@@ -460,20 +460,9 @@ This section uses AT's focus on rules / norms and interactions with other activi
 
 
 
-### Observations on emerging flexible design practices
+## Observations on emerging flexible design practices
 
 To restructure. More evidence on emerging norms, DoL, and community behaviour.  
-
-Anchor terms here. Which from methodology are useful?
-
-
-#### Observations on Game Making Types
-
-This section returns to game making types explored in Chapter 5. TO DEVELOP
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
-
-#### Emergent  peer learning and varied working practices
 
 This section discusses some of the outcomes stemming from interventions and emergent participant responses in the area of peer and individual working practices.
 
@@ -500,12 +489,18 @@ Chapter five outlined examples of GDPS being used as a lingua franca in playtest
 
 ARE THERE ARE OTHER STUDIES WHICH ENCOURAGE THIS?
 
-This informal, unguided approach is also present in some Game Jams.
 
-In addition to ad-hoc partnership work and collaboration
+**Describing Design Cycles as a design process for novices**
+
+As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
+
+In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. The following writing discusses the value of flexible approach to design processes observated in my research.
 
 
-#### Observations on  Digital/Game Jamming
+
+
+
+#### Observations on Flexible Design Practices
 
 While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
 
@@ -518,9 +513,17 @@ Flexible design practices are often present in recorded data. Younger participan
 
 
 
+#### Observations on Game Making Types
+
+This section returns to game making types explored in Chapter 5. TO DEVELOP
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
+
+
+
 #### The potential of emergent "non-productive" activities
 
-NOTE - Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices.
+
 
 Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
@@ -538,20 +541,18 @@ In addition, I observed that navigating these essential but non-creative tasks i
 |----------------|----------------|
 |   |  Nadine has just rapidly demonstrated how to bring a created graphical element into the game |
 |      **Molly:** How did you do that so quickly? I’ve got to like, carefully...  |  Molly makes hand gestures to show a sense of hesitant keyboard use)  |
-|  | A parent peer next to Molly laughs.      <br/>    Nadine, the child of Molly bounces up in place and smiles broadly.    |
+|  | A parent peer next toA Molly laughs.      <br/>    Nadine, the child of Molly bounces up in place and smiles broadly.    |
 
-In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants. This a concept is developed later in this discussion.
+In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants.
+
+The potential impact on agency is as follows; If these tasks can be seen as more than mere barriers to production, and therefore to be designed out to increase instrumental agency, then there is potential to increase relational agency through flexible divisions of labour that allow the incorporation of home roles in to this new learning space. Thus a potential affordance to find identify and specialism here.
+
+This a concept is developed later in this discussion.
 
 
-
-## Discussion section one - on the above
 
 
 ### Discussion in relation to other research - beyond design cycle stages
-
-As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
-
-In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. the following writing discusses the value of flexible approach to design processes observated in my research.
 
 
 
@@ -559,21 +560,40 @@ These observations of the value of flexible design processes, invite discssion o
 
 Other relevant perspectives include rhizomatic design approaches  [@de_freitas_classroom_2012]. Research exists on the promise of rhizomatic approaches design thinking in creative educational programmes [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
 
-Instead, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
+However, in this context the link is imiled or ther eare otehr problems with framing as rhizomatic metaphor in terms of communicating the essence of the flexible approach beyond academic audience.  
 
-There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
+### On Game Jamming
+
+So instead of rhizomatic design process, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
 
 NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
 
-MOVE THIS CLAIM LATER.
-**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
+There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
+
 
 Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
 
 
+Examples
+
+Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices. As per above and examples in Appedix ? Find.
+
+MOVE THIS CLAIM LATER.
+**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
+
+
+
+### Recommendations for practice based on developing agency of Participants - WRITE HERE AND MOVE IF NEEDED.
+
+Pull out some of the 3M aspects from Fok, Playtesting, Flexible practice.
+
+- keep it flexible,
+-  Jamming
+
+
 ### The interaction of emergent / flexible deign practices and the collection of Game Design Patterns
 
-THIS SECTION SHOULD BE DEVELOPED.
+THIS SECTION SHOULD BE DEVELOPED. BUT LATER?
 
 BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS.
 
@@ -841,6 +861,13 @@ As well as exploring documentation and accessing technical help within the drama
 
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
+The process is described in more detail in Appendix 7.x.
+MOVE THE FOLLOWING TO Appendix
+
+While accessible online, the use of the board was mainly active in the last session, where general oversight of the activities taking place in the same room as parents prevented any possible abusive or unsafe behaviour. There was however a fair amount of playful boundary pushing commentary.
+
+Examples include:
+- find cheeky examples.
 
 <!--
 To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
@@ -966,7 +993,6 @@ For example, Heathcote refers to curricula content as an example of object inter
 <!-- Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners. -->
 
 #### Reflection on reflecting in role
-
 
 
 **It doesn't look like we've got anywhere but we have!**
@@ -1131,12 +1157,12 @@ These metaphors invite a connection to play theories concept of as the magic cir
 
 
 
-## Discussion on agency in relation to authentic tool (and process) use
+## Discussion on agency in relation to authentic tool and process use
 
 ### Discussion on authenticity and agency concerning tools and resources  
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
 
-This chapter has exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format. This section begins to analyse these tensions in more depth, in particular the intersection of authenticity in tool use and participant agency.
+Chapter 4  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format. This section begins to analyse these tensions in more depth, in particular the intersection of authenticity in tool use and participant agency.
 
 
 <!-- While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity, supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency. -->
@@ -1188,11 +1214,24 @@ Lifting the lid on hidden technologies and concepts in hands-on, exploratory pro
 
 
 
-#### Exploring different dimentions of agency  in tool use  (using the concept fo dual stimuation)
+#### Exploring different dimensions of agency  in tool use  (using the concept fo dual stimuation)
 
 The distinction between instrumental forms of agency and more authorial/ transformative variants were explored from the perspective of AT in the methodology chapter.  
 
 Design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+
+<!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
+Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency)  agency.
+
+Examples from prevouis chapters on tool use and the transformative used of GDPs in the previous chapter.
+
+- authenticity of documentation: my choice of curated collection of docs prevented friction and potential confusion if using real developer documents, but this could be foregrounded if this was a practice chosen to be prioritised.
+- use of GDPs as a quite authentic project-based learning navigation tool
+- Authentic coding web development language and coding environment: summary of tension.
+
+The design decisions to foreground any particular element depend not only on the facilitator but also the response and interest of the participants.
+
+
 
 I now turn to explore tool use to engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
