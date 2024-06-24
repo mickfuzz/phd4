@@ -417,6 +417,8 @@ https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/
 Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one
 
 
+
+
 #### Partial transcription/description of data
 
 The partial transcription of video data formed a significant part of the data analysis. The large amount of video data recorded forced a prioritisation of data to be transcribed. It also forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
@@ -575,6 +577,58 @@ After drafts of the emerging themes were in place, these were sued to create a r
 
 **Integrate the thoughts here**
 https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
+
+
+#### Final coding schema for thematic analysis
+
+Non GDP
+  -   Design Behaviours and adaptations
+    - Drama related behaviours
+    - Reflection in Role
+    - side missions   
+  - Emergent aspects of idioculture
+    - authentic technologies as empowering
+    - self driven adaptations
+    - community playtesting
+    - self playtesting
+  - Secondary tools
+    - using online code snippets
+    - using online or printed code tutorials
+  - Primary tools
+    - Audio toolset
+    - Graphical tool use
+    - Template in Glitch
+
+
+
+- in personal appropriation of concepts
+- assisting project navigation
+- scaffolding ideation processes
+- aiding division of labour
+- GDPs in technical processes
+- facilitating designing for others
+- GDPs used as concepts in playtesting
+- playtesting used to propagate GDPs
+- facilitating use of home knowledge via GDPS
+
+<!-- Previous nested one
+
+Cultural
+    	◦ GDPs and the emergence of gameplay concepts and practices through Playtesting
+    	◦ GDPs propagation through peer activity leading from Playtesting
+    	◦ GDP used to allow exploration of home funds of knowledge
+    	◦ Use of Help and Documentation related to GDP
+• The use of GDPs examined from an interpersonal focus
+    	◦ GDPs used to facilitate prioritisation
+    	◦ GDPs aiding the process of division of labour
+    	◦ GDPs facilitating designing for others
+    	◦ GDP driving adoption of technical processes
+• The use of GDPs explored from a personal focus
+    	◦ GDPs used to support debugging and the product revision process
+    	◦ Use of GDP when demonstrating personal understandings in community activity
+    	◦ GDP as a way to surface Computational Thinking and Systems Concepts -->
+
+
 
 
 #### A revised processes of thematic analysis

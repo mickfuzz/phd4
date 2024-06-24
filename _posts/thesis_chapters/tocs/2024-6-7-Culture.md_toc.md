@@ -10,6 +10,8 @@
         activity](#observations-on-emergent-elements-of-agency-within-cultural-activity){#toc-observations-on-emergent-elements-of-agency-within-cultural-activity}
         -   [Intro to this section (on planned and emergent
             activity)](#intro-to-this-section-on-planned-and-emergent-activity){#toc-intro-to-this-section-on-planned-and-emergent-activity}
+            -   [Recap of Emerging role of
+                playtesting](#recap-of-emerging-role-of-playtesting){#toc-recap-of-emerging-role-of-playtesting}
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge){#toc-emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge}

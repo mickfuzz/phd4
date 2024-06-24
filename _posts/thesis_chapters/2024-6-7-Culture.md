@@ -9,109 +9,112 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
+
+
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
-    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency){#toc-seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency}
     -   [Research Questions - April
-        2024](#research-questions---april-2024)
-    -   [Introduction](#introduction)
+        2024](#research-questions---april-2024){#toc-research-questions---april-2024}
+    -   [Introduction](#introduction){#toc-introduction}
         -   [Notes on structure of the
-            chapter](#notes-on-structure-of-the-chapter)
+            chapter](#notes-on-structure-of-the-chapter){#toc-notes-on-structure-of-the-chapter}
     -   [Observations on emergent elements of agency within cultural
-        activity](#observations-on-emergent-elements-of-agency-within-cultural-activity)
-        -   [Planned and emergent
-            activity](#planned-and-emergent-activity)
+        activity](#observations-on-emergent-elements-of-agency-within-cultural-activity){#toc-observations-on-emergent-elements-of-agency-within-cultural-activity}
+        -   [Intro to this section (on planned and emergent
+            activity)](#intro-to-this-section-on-planned-and-emergent-activity){#toc-intro-to-this-section-on-planned-and-emergent-activity}
+            -   [Recap of Emerging role of
+                playtesting](#recap-of-emerging-role-of-playtesting){#toc-recap-of-emerging-role-of-playtesting}
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
-            knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
+            knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge){#toc-emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge}
             -   [Summary: Home Funds and
-                RQs](#summary-home-funds-and-rqs)
-        -   [Observations on the emerging role of
-            playtesting](#observations-on-the-emerging-role-of-playtesting)
-            -   [Community concepts and norming behaviour emerging
-                during
-                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
+                RQs](#summary-home-funds-and-rqs){#toc-summary-home-funds-and-rqs}
         -   [Observations on emerging flexible design
-            practices](#observations-on-emerging-flexible-design-practices)
+            practices](#observations-on-emerging-flexible-design-practices){#toc-observations-on-emerging-flexible-design-practices}
             -   [Emergent peer learning and varied working
-                practices](#emergent-peer-learning-and-varied-working-practices)
+                practices](#emergent-peer-learning-and-varied-working-practices){#toc-emergent-peer-learning-and-varied-working-practices}
             -   [Observations on Digital/Game
-                Jamming](#observations-on-digitalgame-jamming)
+                Jamming](#observations-on-digitalgame-jamming){#toc-observations-on-digitalgame-jamming}
             -   [The potential of emergent "non-productive"
-                activities](#the-potential-of-emergent-non-productive-activities)
+                activities](#the-potential-of-emergent-non-productive-activities){#toc-the-potential-of-emergent-non-productive-activities}
     -   [Discussion section one - on the
-        above](#discussion-section-one---on-the-above)
+        above](#discussion-section-one---on-the-above){#toc-discussion-section-one---on-the-above}
         -   [Discussion in relation to other research - beyond design
             cycle
-            stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
+            stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages){#toc-discussion-in-relation-to-other-research---beyond-design-cycle-stages}
         -   [The interaction of emergent / flexible deign practices and
             the collection of Game Design
-            Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
-    -   [On the Drama Process](#on-the-drama-process)
+            Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns){#toc-the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns}
+    -   [On the Drama
+        Process](#on-the-drama-process){#toc-on-the-drama-process}
         -   [Discussion on conflicts associated with authenticity of
-            audience](#discussion-on-conflicts-associated-with-authenticity-of-audience)
+            audience](#discussion-on-conflicts-associated-with-authenticity-of-audience){#toc-discussion-on-conflicts-associated-with-authenticity-of-audience}
         -   [Observations on use of side missions in drama
-            process](#observations-on-use-of-side-missions-in-drama-process)
+            process](#observations-on-use-of-side-missions-in-drama-process){#toc-observations-on-use-of-side-missions-in-drama-process}
             -   [Observations on written interactions with the alien in
                 the
-                drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
+                drama](#observations-on-written-interactions-with-the-alien-in-the-drama){#toc-observations-on-written-interactions-with-the-alien-in-the-drama}
         -   [Discussion on dimensions of authenticity and Process
-            Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
+            Drama](#discussion-on-dimensions-of-authenticity-and-process-drama){#toc-discussion-on-dimensions-of-authenticity-and-process-drama}
         -   [Discussion on making types and process drama / side
-            missions](#discussion-on-making-types-and-process-drama-side-missions)
+            missions](#discussion-on-making-types-and-process-drama-side-missions){#toc-discussion-on-making-types-and-process-drama-side-missions}
         -   [Discussion on Drama Process and
-            Agency](#discussion-on-drama-process-and-agency)
+            Agency](#discussion-on-drama-process-and-agency){#toc-discussion-on-drama-process-and-agency}
         -   [Positive affective space within a drama
-            process](#positive-affective-space-within-a-drama-process)
+            process](#positive-affective-space-within-a-drama-process){#toc-positive-affective-space-within-a-drama-process}
             -   [Reflection on reflecting in
-                role](#reflection-on-reflecting-in-role)
+                role](#reflection-on-reflecting-in-role){#toc-reflection-on-reflecting-in-role}
             -   [Discussion on mediated chat and potential for
                 addressing contradictions in
-                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
+                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity){#toc-discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity}
             -   [Concluding remarks on process
-                drama](#concluding-remarks-on-process-drama)
+                drama](#concluding-remarks-on-process-drama){#toc-concluding-remarks-on-process-drama}
     -   [Discussions section two - on developing
-        agency](#discussions-section-two---on-developing-agency)
+        agency](#discussions-section-two---on-developing-agency){#toc-discussions-section-two---on-developing-agency}
         -   [Relevant existing models addressing emergent
-            agency](#relevant-existing-models-addressing-emergent-agency)
-            -   [Affordances and anchors](#affordances-and-anchors)
+            agency](#relevant-existing-models-addressing-emergent-agency){#toc-relevant-existing-models-addressing-emergent-agency}
+            -   [Affordances and
+                anchors](#affordances-and-anchors){#toc-affordances-and-anchors}
             -   [Extending the metaphor - anchoring in sheltered
-                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours)
+                harbours](#extending-the-metaphor---anchoring-in-sheltered-harbours){#toc-extending-the-metaphor---anchoring-in-sheltered-harbours}
             -   [Summary on metaphors around creating
-                space](#summary-on-metaphors-around-creating-space)
+                space](#summary-on-metaphors-around-creating-space){#toc-summary-on-metaphors-around-creating-space}
             -   [Nurturing agency by creating space for emergent
-                practices](#nurturing-agency-by-creating-space-for-emergent-practices)
+                practices](#nurturing-agency-by-creating-space-for-emergent-practices){#toc-nurturing-agency-by-creating-space-for-emergent-practices}
             -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds){#toc-the-freedoms-and-restrictions-of-playgrounds}
     -   [Discussion on agency in relation to authentic tool (and
         process)
-        use](#discussion-on-agency-in-relation-to-authentic-tool-and-process-use)
+        use](#discussion-on-agency-in-relation-to-authentic-tool-and-process-use){#toc-discussion-on-agency-in-relation-to-authentic-tool-and-process-use}
         -   [Discussion on authenticity and agency concerning tools and
-            resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources)
+            resources](#discussion-on-authenticity-and-agency-concerning-tools-and-resources){#toc-discussion-on-authenticity-and-agency-concerning-tools-and-resources}
             -   [Increased scaffolding of tools can increase
                 instrumental agency but at what
-                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost)
+                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost){#toc-increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost}
             -   [Different black boxes for different
-                goals](#different-black-boxes-for-different-goals)
+                goals](#different-black-boxes-for-different-goals){#toc-different-black-boxes-for-different-goals}
             -   [The potentially awesome impact of lifting the lid on
                 authentic
-                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
+                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies){#toc-the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies}
             -   [Exploring different dimentions of agency in tool use
                 (using the concept fo dual
-                stimuation)](#exploring-different-dimentions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation)
+                stimuation)](#exploring-different-dimentions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation){#toc-exploring-different-dimentions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation}
         -   [Agency in response to a series of second
-            stimuli](#agency-in-response-to-a-series-of-second-stimuli)
+            stimuli](#agency-in-response-to-a-series-of-second-stimuli){#toc-agency-in-response-to-a-series-of-second-stimuli}
     -   [Implications for practice to encourage
-        agency](#implications-for-practice-to-encourage-agency)
+        agency](#implications-for-practice-to-encourage-agency){#toc-implications-for-practice-to-encourage-agency}
         -   [Asking questions about the challenge of applying this model
             to classroom
-            environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
+            environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.){#toc-asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.}
             -   [Divining authentic
-                frameworks](#divining-authentic-frameworks)
-            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
+                frameworks](#divining-authentic-frameworks){#toc-divining-authentic-frameworks}
+            -   [Keeping hard fun
+                hard](#keeping-hard-fun-hard){#toc-keeping-hard-fun-hard}
     -   [Implications in conceptualisations of forms of
-        agency](#implications-in-conceptualisations-of-forms-of-agency)
-    -   [Conclusion](#conclusion)
+        agency](#implications-in-conceptualisations-of-forms-of-agency){#toc-implications-in-conceptualisations-of-forms-of-agency}
+    -   [Conclusion](#conclusion){#toc-conclusion}
+
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 
@@ -338,16 +341,9 @@ PARK THIS FOR NOW IN DESIGN CHAPER
 
 COULD RETURN TO THIS IN A DISCUSSION CHAPTER - AS HAS IMPACT ON GDP TOO.
 
-My journal notes see an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types Hamari and Tuunanen, 2014). I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
 
 
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
 
 In phase three, to bring an awareness of these playing and making types into the program in a playful way I devised a game of the program which I have included in all subsequent phases. Collectively players took the Bartle test to find out what kind of game player they were.
 
@@ -469,6 +465,13 @@ This section uses AT's focus on rules / norms and interactions with other activi
 To restructure. More evidence on emerging norms, DoL, and community behaviour.  
 
 Anchor terms here. Which from methodology are useful?
+
+
+#### Observations on Game Making Types
+
+This section returns to game making types explored in Chapter 5. TO DEVELOP
+
+For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
 
 #### Emergent  peer learning and varied working practices
 
@@ -833,13 +836,12 @@ The positive reaction of young people to the drama process was also picked up in
 
 #### Observations on written interactions with the alien in the drama
 
-As previously explored, an emerging area of tensions that I noted in journal notes and in feedback from participants was the area of supporting documentation and resources. In addition to the careful technical and pedagogical creation and organisation of resources undertaken in P2, I sought a way for participants to be aware of and access relevant documentation without interrupting their creative flow or the fun of the experiences.  
-
-In P1 I created a mailing list for participants to ask technical and code questions of the wider group. My aim was to create a peer community helping each other rather than a helping relationship only between myself and individuals. However, this email list was hardly used for this purpose. Two parents shared that they were reluctant to bother other participants with their own issues. To address this in P3, as part of the drama process, I encouraged participants to write to the aliens to ask help. This is described and illustrated in appendix 4.x.
 
 As well as exploring documentation and accessing technical help within the drama frame, student also engaged in playful dialogue with the aliens unrelated to game making. The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants.
 
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
+
+
 <!--
 To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
 
