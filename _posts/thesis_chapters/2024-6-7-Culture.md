@@ -1259,21 +1259,26 @@ An illustrative design tension emerged surrounding which kind of documentation t
 The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice.
 
 <!-- PIVOT -->
-
+ a theme explored in more detail in chapter five
 Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
 
-This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. This curated replication of authentic process of finding and incorporating code snippets into the starting template was supported the development of skills used in professional coding communities. The careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above, a theme explored in more detail in chapter five.
-CHOICE - AUTHORIAL IN THE P1 AND P2 PROCESS OF CHOOSING DESIGN PATTERNS - BRIEF - BEYOND INSTRUCTIONAL APPROACHES AT LEAST
+This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection.
 
-THIS SHOULD SHIFT TO A CULTURAL SECTION?
+This curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in professional coding communities.
 
+The careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above as mismatch between primary and secondary stimuli.
 
+The process aligns with the concept of just-in-time instruction.
+
+While the genesis engendered authorial agency, if repeated this process of careful alignment would represent instrumental agency.
+
+Other affordances of the design would encourage greater authorial (and relational agency), for example those designed to build user's sense of belonging in the game making community.
 
 #### Agency in response to a series of second stimuli aimed at participant identity
 
 - game player types
 - side missions
--
+- ?
 
 Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
 
@@ -1281,7 +1286,9 @@ Learner agency in the form of choice over the  chosen activity is present not on
 
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
 
-## Implications for practice to encourage agency
+## Summary of implications for practice to encourage agency
+
+NOTE - HOW MUCH OF THIS IS ALREADY IN PREVIOUS SECTIONS?
 
 After exploring varied understandings of agency and manifestations in this context. What are resulting implication for practice in brief - COMPARE TO RELEVANT SECTION IN NEXT CHAPTER.
 
@@ -1293,9 +1300,6 @@ Is this a good section to begin to ask how appropriate is the 3M approach (summa
 
 In a classroom setting the personal appropriation would have different expectations. The recreation of concepts and knowledge for testing purposes or even more formative assessment is quite different from the more naturalistic approaches outlined here.
 DISCUSS MORE.
-
-
-
 
 #### Divining authentic frameworks
 
@@ -1324,6 +1328,9 @@ There is a potential tension between instrumental agency and transformative agen
 
 ## Implications in conceptualisations of forms of agency
 
+THIS SHOULD BE DROPPED OR INTEGRATED TO SOMEWHERE ELSE? CONCLUSION PERHAPS. 
+
+
 This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
 
 This section contributes observations from this research process with the following aims.
@@ -1335,7 +1342,7 @@ This section contributes observations from this research process with the follow
 
  - authenticity of tools can be problematic and needs design adaptation, often black boxing
  - this process merits attention and alignment with overall project aims of the designer
- - Challenges encoutered by students in tool use can result in productive and creative responses in development of productin cultu4res (explored later)
+ - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
  - ideally emergent and producing a culture series of
 
 
