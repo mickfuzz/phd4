@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
-
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -72,23 +71,19 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 drama](#concluding-remarks-on-process-drama)
     -   [Discussion section - Metaphors on developing
         agency](#discussion-section---metaphors-on-developing-agency)
-        -   [M1 - Affordances and
-            anchors](#m1---affordances-and-anchors)
-            -   [Dual stimulation and
-                affordances](#dual-stimulation-and-affordances)
+        -   [Dual stimulation and conceptions of
+            agency](#dual-stimulation-and-conceptions-of-agency)
+        -   [Metaphors](#metaphors)
             -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
             -   [Affordances as catching points
                 metaphor](#affordances-as-catching-points-metaphor)
-        -   [Holding Zone](#holding-zone)
         -   [Playgrounds and sheltered
             harbours](#playgrounds-and-sheltered-harbours)
             -   [Nurturing agency by creating space for emergent
                 practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-            -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
     -   [Exploring conceptions of agency via a synthesis of the findings
-        of this
-        study](#exploring-conceptions-of-agency-via-a-synthesis-of-the-findings-of-this-study)
+        of this study (using metaphors
+        above)](#exploring-conceptions-of-agency-via-a-synthesis-of-the-findings-of-this-study-using-metaphors-above)
         -   [Discussion on agency concerning tools and resources
             (authenticity in
             particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
@@ -100,13 +95,14 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [The potentially awesome impact of lifting the lid on
                 authentic
                 technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-            -   [Exploring different dimensions of agency in tool use
-                (using the concept fo dual
-                stimuation)](#exploring-different-dimensions-of-agency-in-tool-use-using-the-concept-fo-dual-stimuation)
-        -   [Agency in response to a series of second
-            stimuli](#agency-in-response-to-a-series-of-second-stimuli)
-    -   [Implications for practice to encourage
-        agency](#implications-for-practice-to-encourage-agency)
+            -   [Exploring characteristics of the learning design using
+                different dimensions of agency & previous
+                metaphors](#exploring-characteristics-of-the-learning-design-using-different-dimensions-of-agency-previous-metaphors)
+            -   [Agency in response to a series of second stimuli aimed
+                at participant
+                identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
+    -   [Summary of implications for practice to encourage
+        agency](#summary-of-implications-for-practice-to-encourage-agency)
         -   [Asking questions about the challenge of applying this model
             to classroom
             environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
@@ -1328,7 +1324,7 @@ There is a potential tension between instrumental agency and transformative agen
 
 ## Implications in conceptualisations of forms of agency
 
-THIS SHOULD BE DROPPED OR INTEGRATED TO SOMEWHERE ELSE? CONCLUSION PERHAPS. 
+THIS SHOULD BE DROPPED OR INTEGRATED TO SOMEWHERE ELSE? CONCLUSION PERHAPS.
 
 
 This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
