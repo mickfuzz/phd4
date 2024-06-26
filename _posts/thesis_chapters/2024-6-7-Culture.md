@@ -131,6 +131,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 ## Research Questions - April 2024
 
 ~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
+
 1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of coding practices with novices?
 3. How can learners build agency in an evolving community of game makers?
@@ -1038,7 +1039,14 @@ NOTE - EXPLORE THIS IN LR AND DISCUSSION IF KEEPING THIS.
 
 ## Discussion section - Metaphors on developing agency
 
-An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this a good working knowledge of types of developmental agency is useful. This section explores concepts using relatable metaphors from existing research.
+An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this a good working knowledge of types of developmental agency is useful.
+
+This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, to situate later  recommendations for researchers and educators working in this area.
+
+
+
+This section explores these academic conceptions in a playful way using relatable metaphors from related research.
+
 
 <!-- This chapter has explored the affordances and potential of selected tools and processes in the context of in-person, family-based, game coding. As explored previously the literature on design for face-to-face communities which encourages community members to develop their own practices is sparse. -->
 
@@ -1052,10 +1060,51 @@ An underlying proposal of this thesis is the development of  learner agency can 
 <!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
 
 
-### M1 - Affordances and anchors
+### Dual stimulation and conceptions of agency
 
+As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). This section explores these conceptions using the core AT concept of dual stimulation.
 
-#### Dual stimulation and affordances
+EXPLAIN WHY THIS IS IMPORTANT.
+
+The distinction between instrumental forms of agency and more authorial / transformative variants were explored from the perspective of AT in the methodology chapter.
+CHECK BACK AND WORK OUT WHAT SHOULD GO WHERE.  
+
+In addition, the table of tensions in Chapter 5 and  the transformative use of GDPs in the previous chapter help ground these concepts in the context of this study.
+Namely:  COMPRESS THE BELOW.
+
+- authenticity of documentation: my choice of curated collection of docs prevented friction and potential confusion if using real developer documents, but this could be foregrounded if this was a practice chosen to be prioritised.
+- use of GDPs as a quite authentic project-based learning navigation tool
+- Authentic coding web development language and coding environment: summary of tension.
+
+In summary,
+Design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+
+<!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
+Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency) agency.
+
+In many cases design decisions were driven by the response and interest of the participants.
+
+Research on  engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+LINK TO SECTION AFTER THE METAPHORS
+
+**How Dual Stimulation informs this**
+
+The concept of dual stimulation can help illuminate the design and pedagogical tensions related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency.
+
+In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments. While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
+
+<!-- WHERE BEST TO ADD THE SERIES PART - THE MANY - AND LINKING TO MAKING TYPES TOO -->
+
+For example in my design:
+Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process.
+
+More examples linking DS to practice follow after exploring agency using metaphors.
+
+### Metaphors
+
+How does this all fit together?
+
 
 #### Kedging anchor metaphor
 
@@ -1066,6 +1115,9 @@ Sannino augments the concept of transformative agency by double stimulation (TAD
 In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
 Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
 
+Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage is particularly useful to explain  processes where participants seek to resolve conflicts and problems in an existing setting. Indeed, much research employing TADS process and kedging metaphor is located in workplace settings. As such, the designed nature of the environment is less relevant and less explored than research on the co-creation of a new learning environment. By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques.
+
+The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
 
 #### Affordances as catching points metaphor
 
@@ -1090,14 +1142,7 @@ To shift the metaphor here, to incorporate the utility of  previously used affor
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
 
 
-### Holding Zone
 
-
-TO MOVE - OR TO MERGE
-
-This chapter has discussed affordences of a bespoke and mutually designed learning exeriences and their impact on learner agency. At times, Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage in their process has been used. The metaphor is useful to explain the active process of participants seekig to resolve conflicts and problems in their creative processes.
-
-However, much research employing this metaphor is often used in less-structured workplace settings. As such, the designed nature of the environment is less relevant. This section proposes an expansion of the metaphor to encompass concerns of a more structured learning design.
 
 
 
@@ -1118,6 +1163,14 @@ We can substitute the metaphor of playground/ harbour with that of a walled gard
 
 The title to this chapter is  _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens.
 
+**The freedoms and restrictions of playgrounds**
+
+In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
+
+These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
+
+
+
 
 #### Nurturing agency by creating space for emergent practices
 
@@ -1128,23 +1181,17 @@ NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGEN
 
 THIS SECTION IS STILL UNDER DEVELOPMENT
 
-This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, and starts to explore recommendations for researchers and educators working in this area. As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
+
+
+As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
 Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
 
 Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
 
 
-#### The freedoms and restrictions of playgrounds
 
-In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
-
-These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
-
-
-
-
-## Exploring conceptions of agency via a synthesis of the findings of this study  
+## Exploring conceptions of agency via a synthesis of the findings of this study (using metaphors above)
 
 ### Discussion on agency concerning tools and resources  (authenticity in particular)
 
@@ -1202,42 +1249,16 @@ Lifting the lid on hidden technologies and concepts in hands-on, exploratory pro
 
 
 
-#### Exploring different dimensions of agency  in tool use  (using the concept fo dual stimuation)
-
-The distinction between instrumental forms of agency and more authorial/ transformative variants were explored from the perspective of AT in the methodology chapter.  
-
-Design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-
-<!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
-Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency)  agency.
-
-Examples from prevouis chapters on tool use and the transformative used of GDPs in the previous chapter.
-
-- authenticity of documentation: my choice of curated collection of docs prevented friction and potential confusion if using real developer documents, but this could be foregrounded if this was a practice chosen to be prioritised.
-- use of GDPs as a quite authentic project-based learning navigation tool
-- Authentic coding web development language and coding environment: summary of tension.
-
-The design decisions to foreground any particular element depend not only on the facilitator but also the response and interest of the participants.
+#### Exploring characteristics of the learning design using different dimensions of agency & previous metaphors
 
 
-
-I now turn to explore tool use to engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
 An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
 
 The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice.
 
 <!-- PIVOT -->
-
-The concept of dual stimulation can help illuminate the design and pedagogical tensions related to authenticity of tool use to shed light on dimensions of participant agency.
-
-
-In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli.
-
-WHERE BEST TO ADD THE SERIES PART - THE MANY - AND LINKING TO MAKING TYPES TOO
-They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments. While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
-
-Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process.
 
 Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
 
@@ -1247,10 +1268,16 @@ CHOICE - AUTHORIAL IN THE P1 AND P2 PROCESS OF CHOOSING DESIGN PATTERNS - BRIEF 
 THIS SHOULD SHIFT TO A CULTURAL SECTION?
 
 
-### Agency in response to a series of second stimuli
 
-Learner agency in the form of choice over the the chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
-KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED.
+#### Agency in response to a series of second stimuli aimed at participant identity
+
+- game player types
+- side missions
+-
+
+Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
+
+<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
 
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
 
