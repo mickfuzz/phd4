@@ -162,9 +162,9 @@ In line educational research which highlights the important of learning contexts
 
 
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
-##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space as part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
+##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space asOn 5 July 2024, a draft resit timetable will be shared with Heads of Department and Department Education Leads for review, with any comments to be returned by end of 10 July 2024.  part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
 
-In 1995, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and more importantly activists. As someone involved with DIY music events and political activism, the growth of the internet offered huge potential. I got involved in activities of disparate political and cultural groups around environment activism and protests to counter international finance institution (IFIs). The need to network activities drove me to develop my internet publishing skills. To further this aim, I aligned myself with a broad network of media and internet activists centred around the Indymedia project [@pickard_united_2006].
+In 1995, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and activists. As someone involved with DIY music events and political activism, the growth of the internet offered huge potential. I got involved in activities of disparate political and cultural groups around environment activism and protests to counter international finance institution (IFIs). The need to network activities drove me to develop my internet publishing skills. To further this aim, I aligned myself with a broad network of media and internet activists centred around the Indymedia project [@pickard_united_2006].
 
 There was a broad alignment with the non-hierarchical approach of these activist networks and the decentralised organising principles of the free software and free culture movements [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local  organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism.
 
@@ -203,8 +203,9 @@ While I was drawn to the possibilities offered by a new technologies and the rea
 A role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue
 creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work.
 
+## Academic and Conceptual Contexts
 
-### Revisiting my context and aims in relation to process and aims of this research
+### Revisiting my experiences and aims in relation to my PhD process and the aims of this research
 
 My engage with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work. Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture.
 
@@ -216,26 +217,28 @@ RQ3 of this thesis addresses the process of developing agency within a community
 
 There was a messiness and a responsiveness that I wanted to capture and celebrate, and a dedication to real-life projects and working with the interests of participants. As such I began to search for a relevant theoretical framework and terminology to achieve this exploration in academic terms.
 
-The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  These are elements of pedagogy that are explored in Chapter 2. The focus on project work was of potential interest to me, but seemed lacking in theoretical underpinning.
+The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  These are elements of pedagogy that are explored in Chapter 2.
 
-Instead AT offered a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
 
-The
+Constructionism valuing of project work was of potential interest to me. In addition the school's work on Computational Fluency as a counterpoint to Computational Thinking allowed for concepts of identity exploration and self-expression [].
 
-This concern was timely, two years after starting my studies, a special issue of Mind and Culture journal explored young people, digital mediation, and transformative agency [@kajamaa_young_2019].
+However, constructionism seemed lacking in theoretical underpinning allowing a spanning of different domains.
 
-At the same time, I had a wariness to celebrate this uncritically given my recent experiences of unintended consequences of change. This applied even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work.
+Instead AT offers a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
 
-The concept of transformative agency is vital to this thesis as its location within a socio-cultural research context allows a full exploration of contextual factors at play. For while agency was important, understanding initial and emerging barriers to participation to undertaking project work were also important to understand a dynamic picture of context.
+It also provided a diversity of concept to explore a complex and dynamic picture of participant agency.
+
+This complexity  is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work.
+
+The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. Thus, a wider goal is the research is to reflect on experiences of developing agency. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely: instrumental agency, relational agency and authorial agency.
 
 My personal context is an example that changes happening within one system may cause a reaction from wider system elements and actors, which pushes back to reverse the initial changes. My story illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
 
-The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. Thus, a wider goal is the research is to reflect on experiences of developing agency. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely:
-instrumental agency, relational agency and authorial agency.  
+
 
  <!-- To address this Summary of what is in Ch.3 -->
 
-While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters.
+<!-- While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters. -->
 
 
 #### Sketchy pedagogies
@@ -246,27 +249,34 @@ The process of launching into the unknown with project involving a group of peop
 
 The process aligns with mutuality of design work and acknowledgement that while the process can seem a bit sketchy the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. It can also avoid unforeseen consequences by a more rapid adjustment in the course of a project.
 
-After much searching for a suitable methodology, I concluded that this can map to transformative agency.
+In addition to AT as a theoretical framework, recent work on transformative agency within the wider school of socio cultural approaches has particular promise to aid this study.
 
-The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+Two years after starting my studies, a special issue of Mind and Culture journal explored young people, digital mediation, and transformative agency [@kajamaa_young_2019].
+
+RECAP ON THE PROMISE HERE - AND SIGNPOST TO LATER CHATPERS.
+
+**Summary of Conceptual Context**
+
+New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
+
+Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
+
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+CHAT is optimistic but realistic in the focus on the possibility of change.
+
+However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+
+This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
 
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
 
-## Conceptual Context
+<!-- I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition. -->
 
 
-### The utility of understanding projects and socio cultural and activist concepts of activity
 
-In this section I briefly explain CHAT as a suitable choice to explore this research based around a shared project.
-
-I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
-
-In addition the wider framework of CHAT is optimistic but realistic in the focus on the possibility of change.
-
-This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+<!-- This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. -->
 
 
 ## Context of teaching and learning coding via game making
