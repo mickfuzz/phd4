@@ -157,7 +157,15 @@ The ethos (in particular free culture concepts [@lessig_free_2004]) and new uses
 
 <!-- The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark. -->
 
-In 2011, it was revealed that several activist groups I had been involved with were infiltrated by an undercover police officer (Mark Kennedy / Stone)[^1]. My role in outreach for this movement became very uncomfortable as it became clear to extent to which participation in this movement came with hidden risks. Our attempts to create systemic change were being countered with response from the state who were far better resourced than we were. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes.  
+I set up and ran three media centres from the period 2005 to 2009. The first at an Manchester city centre social centre and cafe, another for Community Arts Northwest and a third for People's Voice Media in Salford. I documented and promoted low-cost media and web production processes in as a member of with FLOSS Manuals and Transmission international networks. As part of this process I co-wrote A Open Web which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes.
+
+
+
+In 2011, it was revealed that several activist groups I had been involved with were infiltrated by an undercover police officer (Mark Kennedy / Stone)[^1]. While I had suspected undercover police interest in our work previously, the extent and proximity of this infiltration still had a significant impact on me. My role in outreach for this movement became very uncomfortable as it became clear to extent to which participation in this movement came with hidden risks. The ongoing news of further police infiltration of activist networks, and the use of undercover police staff developing personal relationships with activist to further spy on and disrupt to community [^2], took a heavy toll on my mental health and my world outlook.
+
+Our attempts to create systemic change were being countered with response from the state who were far better resourced than we were. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes. However, the growth of the open web as a means for more egalitarian and non-corporate means of publishing was also attacked. A process exemplified by the embrace, extend & extinguish [^3] tactic. Concurrently, the open posting Indymedia network suffered from extensive posting of misinformation and ad-hominem attacks from suspicious sources, an early example of state-sponsored troll farms targetting community activism on social media [jensen_russian_2018].   
+
+
 
 <!-- Jensen, Michael (September 24, 2018). "Russian Trolls and Fake News: Information or Identity Logics?". Journal of International Affairs. 71 (1.5): 115–124. -->
 
@@ -166,7 +174,20 @@ In 2011, it was revealed that several activist groups I had been involved with w
 
 <!-- There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question. -->
 
-In response to growing discomfort around involvement in political and environmental activism, I shifted focus towards less _frontline_ activities undertaking community development and working with FLOSS Manuals where I wrote and promoted documentation and online learning resources media creation and and collaborative processes using Free Software. I documented and promoted low-cost media and web production processes and co-wrote A Open Web a book which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes. This work gave me access to diverse international networks whose work was informed by participatory and egalitarian methods. A key network was the Mozilla community where I  created documentation, workshops guides and other learning resources with networks of informal educators. This avenue offered a reconnection to the discussing the politics of independent communications in line with an empowerment agenda.
+
+
+
+
+In response to growing discomfort around involvement in political and environmental activism, I shifted focus towards less _frontline_ activities.
+community work and training and documentation work with international networks and then eventually to informal learning of media creation with young people and families A key vehicle for this work was FLOSS Manuals where I wrote and promoted documentation and online learning resources media creation and and collaborative processes using Free Software. This work gave me access to diverse international networks whose work was informed by participatory and egalitarian methods. One partnership was Mozilla Webmaker education programme. Webmaker involved creating tools and workshops guides with networks of informal educators. The motivation was to involve teens in being web literate through making web products inspired in part by Douglas Rushkoff's call for everyone to know at least a little bit of coding [@rushkoff_program_2010].
+
+    And as we move into an increasingly digital reality, we must learn not just how to use programs but how to make them. In the emerging highly programmed landscape ahead, you will either create the software or you will be the software. It's really that simple: Program, or be programmed. [@rushkoff_program_2010].
+
+This avenue offered a positive way to discuss the politics of independent communications and an empowerment agenda. The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next]. This motivation as well as the reduction in funding for adult education austerity agenda, led me to retrain. I undertook a masters in Computing and then an PGCE in teaching Computing. During my PGCE year I found it challenging to bring in the kind of project based learning techniques to the classroom, a theme explored in this thesis.
+
+I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources. While the context of secondary schools within which I trained did not suit creative project based approaches, a new role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue this work. The turn to investigate game making as creative media production stemmed from a consultation with home educators to undertake joint-work with EdLab. Parents and children at the consultation asked if the University could lead activities which drew on interest in games like Minecraft to motivate computer coding.
+
+
 
 
 **Training to teach in formal education**
