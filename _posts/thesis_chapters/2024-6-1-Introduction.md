@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 1. Introduction - What kind of game maker are you?
 ---
+
 -   [Introduction - "What kind of Game Maker are
     you?"](#introduction---what-kind-of-game-maker-are-you)
     -   [A study of the cultural and interpersonal dimensions and
@@ -22,11 +23,12 @@ title: 1. Introduction - What kind of game maker are you?
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Revisiting my overall aim in relation to the process of
-            this chapter and
-            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
+        -   [Revisiting my context and aims in relation to the research
+            questions of this
+            thesis](#revisiting-my-context-and-aims-in-relation-to-the-research-questions-of-this-thesis)
             -   [The complex role of agency in this
                 thesis](#the-complex-role-of-agency-in-this-thesis)
+            -   [Sketchy pedagogies](#sketchy-pedagogies)
     -   [Conceptual Context](#conceptual-context)
         -   [The utility of understanding projects and socio cultural
             and activist concepts of
@@ -56,15 +58,21 @@ title: 1. Introduction - What kind of game maker are you?
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
-    -   [Technical Barriers](#technical-barriers)
-        -   [Barrier: Difficulties in learning to
-            program](#barrier-difficulties-in-learning-to-program)
+    -   [Barriers](#barriers)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
             ...](#cultural-identity-barriers-to-participation-in)
             -   [Barrier - Identity and computer
                 cultures](#barrier---identity-and-computer-cultures)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Studies informing cultural barriers / aspects of game
+            making](#studies-informing-cultural-barriers-aspects-of-game-making)
+        -   [Financial Barriers - Funding sustainable
+            programmes](#financial-barriers---funding-sustainable-programmes)
+            -   [School context](#school-context)
+            -   [University context](#university-context)
     -   [Case Studies](#case-studies)
         -   [5th Dimension Case Study](#th-dimension-case-study)
         -   [Creative Family Learning -
@@ -150,7 +158,7 @@ In line educational research which highlights the important of learning contexts
 
 
 ## Personal context and motivation for undertaking this study
-
+e
 <!-- In 1995, as anyed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
@@ -168,7 +176,7 @@ I documented and promoted low-cost media and web production processes in as a me
 
 In 2011, it was revealed that several activist groups I had been involved with were infiltrated by an undercover police officer (Mark Kennedy / Stone)[^1]. While I had suspected undercover police interest in our work previously, the extent and proximity of this infiltration still had a significant impact on me. My role in outreach for this movement became very uncomfortable as it became clear to extent to which participation in this movement came with hidden risks. The ongoing news of further police infiltration of activist networks, and the use of undercover police staff developing personal relationships with activist to further spy on and disrupt to community [^2], took a heavy toll on my mental health and my world outlook.
 
-Our attempts to create systemic change were being countered with response from the state who were far better resourced than we were. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes. There were responses from both governmental and corporate institutions using legislative, intimidatory and other tactics. For example, Mark Kennedy / Stone's moved from police to a private firm spying for corporate clients on similar networks. While an inquiry on undercover policing scandal dragged with little to show for it, policing legislation of protest movements continues apace. The growth of the open web as a means for more egalitarian and non-corporate means of publishing was also attacked. A process exemplified by the embrace, extend & extinguish [^3] tactic. The open posting Indymedia network became difficult to maintain in part due to extensive posting of misinformation and ad-hominem attacks from suspicious sources, an early example of state-sponsored troll farms targetting community activism on social media [Jensen].   
+Our attempts to create systemic change were being countered with response from the state who were far better resourced than we were. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes. There were responses from both governmental and corporate institutions using legislative, intimidatory and other tactics. For example, Mark Kennedy / Stone's moved from police to a private firm spying for corporate clients on similar networks. While an inquiry on undercover policing scandal dragged with little to show for it, policing legislation of protest movements continues apace. The growth of the open web as a means for more egalitarian and non-corporate means of publishing was also attacked. A process exemplified by the embrace, extend & extinguish [^3] tactic. At the same time, the open posting Indymedia network became difficult to maintain in part due to extensive posting of misinformation and ad-hominem attacks from suspicious sources, an early example of state-sponsored troll farms targetting community activism on social media [jensen_russian_2018].   
 
 <!-- Jensen, Michael (September 24, 2018). "Russian Trolls and Fake News: Information or Identity Logics?". Journal of International Affairs. 71 (1.5): 115–124. -->
 
@@ -184,47 +192,32 @@ community work and training and documentation work with international networks a
 
 This avenue offered a positive way to discuss the politics of independent communications and an empowerment agenda. The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next]. This motivation as well as the reduction in funding for adult education austerity agenda, led me to retrain. I undertook a masters in Computing and then an PGCE in teaching Computing. During my PGCE year I found it challenging to bring in the kind of project based learning techniques to the classroom, a theme explored in this thesis.
 
-I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources. While the context of secondary schools within which I trained did not suit creative project based approaches, a new role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue this work.
+I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources. While the context of secondary schools within which I trained did not suit creative project based approaches, a new role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue this work. The turn to investigate game making as creative media production stemmed from a consultation with home educators to undertake joint-work with EdLab. Parents and children at the consultation asked if the University could lead activities which drew on interest in games like Minecraft to motivate computer coding.
 
-SHIFT The turn to investigate game creation as a creative media project stemmed a consultation with home educators partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding.
+### Revisiting my context and aims in relation to the research questions of this thesis
 
-The shift from making web-based media to games made sense given the patch success I had had with web coding pages with school children. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience. Both were grounded in self-expression, participatory culture and I was to find out both could use similar technology.
+NOTE - PERHAPS THIS IS AT THE END OF THE INTRODUCTION  
 
-<!-- To inform this work I returned to Mozilla's web developer resources to discover two step-by-step tutorials outlining how to game making in the browser using a javascript library called Phaser.  -->
+As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work. Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture.
 
-<!-- I was able to combine my work using the code playground Thimble with the js library Phaser to create an potentially accessible toolset for young learners. -->
-
-
-**Contextual details aligning with personal motivations**
-
-Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society. This agenda has parallels with other domains of participatory culture involving music and protest culture that I have been involved in.
-
-<!-- - DIY music and protest event organisation
-- Participatory media making for social and environmental causes
-- Documentation writing using collaborative processes
-- Creative coding -->
-
-In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
-
-However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
-
-<!-- - Hive Manchester and Code Club
-- Coder Dojo
-- Creative coding at Manchester Libraries
-- Speciality training for PGCE and Primary Education programmes
-- Home education workshop in Manchester Met in partnership with students as part of Edlab and other PBL courses. -->
-
-
-### Revisiting my overall aim in relation to the process of this chapter and RQs
-
-
-The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
-
-RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
+At this point I applied to undertake a PhD with Education and Social Research Institute of Manchester Metropolitan University (ESRI) with game making with families as the topic for activity. I sniffed a chance to repeat the goals of previous projects in a new context and setting. However, while I had a sense of what success felt like but not a clear ability to communicate this clearly. It smelled like rebellious teen-spirit. However, how could this be best described with in an academic context? Thus, one of my objectives was to be able to better understand the driving forces of my involvement in education aspects of community in terms of the range of training and community projects that I had been involved with.
 
 #### The complex role of agency in this thesis
 
 RQ3 addresses the process of developing agency within a community.
+
+One of the key research questions which addresses this is RQ3 which addresses agency. Agency emerged as a key word of this research from conversations with colleagues and from interrogating the research in this area. There was a messiness and a responsiveness that I wanted to capture and celebrate, and a dedication to real-life projects and working with the interests of participants. This celebration  resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing.
+
+This concern was timely, two years after starting my studies, a special issue of Mind and Culture journal explored young people, digital mediation, and transformative agency [kajamaa_young_2019].
+
+At the same time, I had a wariness to celebrate this uncritically given my recent experiences of unintended consequences of change. This applied even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work.
+
+Thus the concept of transformative agency is vital to this thesis as its location within a socio-cultural research context allows a full exploration of
+
+Thus while agency was important, understanding barriers to participation to undertaking project work were also important to the overall thesis.
+
+
+
 
 My personal context is an example that changes happening within one system may cause a reaction from wider system elements and actors, which pushes back to reverse the initial changes. My story illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
 
@@ -234,6 +227,21 @@ instrumental agency, relational agency and authorial agency.
  <!-- To address this Summary of what is in Ch.3 -->
 
 While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters.
+
+
+#### Sketchy pedagogies
+
+The messiness and sketchiness of my preferred  learning experience were also somehow important for me to preserve and to investigate as part of this study. This is present in the mutually evolving nature of the methodology of the study, as represented in design based learning.  
+
+The process of launching into the unknown with project involving a group of people hoping to collectively make some kind of progress towards a sketchy goal was something familiar to me but under-explored.  Dave Gray's Gamestorming resource [gray_gamestorming_2010] (which became a guiding principle of EdLab project work) outlined a principle of fuzzy goals adapted from Blackwell's work [blackwell_radical_2009]
+
+The process aligns with mutuality of design work and acknowledgement that while the process can seem a bit sketchy the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. It can also avoid unforeseen consequences by a more rapid adjustment in the course of a project.
+
+After much searching for a suitable methodology, I concluded that this can map to transformative agency.
+
+The use of new technologies by communities to achieve new aims. New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency. Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice. This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+
+RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
 
 ## Conceptual Context

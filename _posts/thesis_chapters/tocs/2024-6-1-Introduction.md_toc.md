@@ -11,11 +11,12 @@
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Revisiting my overall aim in relation to the process of
-            this chapter and
-            RQs](#revisiting-my-overall-aim-in-relation-to-the-process-of-this-chapter-and-rqs)
+        -   [Revisiting my context and aims in relation to the research
+            questions of this
+            thesis](#revisiting-my-context-and-aims-in-relation-to-the-research-questions-of-this-thesis)
             -   [The complex role of agency in this
                 thesis](#the-complex-role-of-agency-in-this-thesis)
+            -   [Sketchy pedagogies](#sketchy-pedagogies)
     -   [Conceptual Context](#conceptual-context)
         -   [The utility of understanding projects and socio cultural
             and activist concepts of
