@@ -255,6 +255,8 @@ Two years after starting my studies, a special issue of Mind and Culture journal
 
 RECAP ON THE PROMISE HERE - AND SIGNPOST TO LATER CHATPERS.
 
+SUMMARY OF PROMISE OF DBR TO REFLECT SKETCHYNESS 
+
 **Summary of Conceptual Context**
 
 New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
