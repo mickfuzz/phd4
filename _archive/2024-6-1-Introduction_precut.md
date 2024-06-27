@@ -144,31 +144,20 @@ In this thesis, I explore digital game making as a vehicle for inclusive pedagog
 In line educational research which highlights the important of learning contexts, my own interest is on the process of the creation and evolution of game making cultures. The development of agency in the participation in game making communities is of particular interest to me. This interest stems in part from my desire to develop learner agency in my wider work on student project-based approaches in higher education and STEM education, and also in part from my past involvement in grass-roots music and campaigning projects. The next section is a summarise the root of this interest through an exploration of my personal context.
 
 
-<!-- New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.    -->
-
-
 
 
 ## Personal context and motivation for undertaking this study
 
-<!-- In 1995, as anyed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
-<!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
-##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space as part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
+In 1995, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and more importantly activists. As someone involved with counter culture and political activism, the growth of the internet offered huge potential. I was involved in the resultant linking of activities of disparate political and cultural groups around gatherings international finance institution (IFIs). I found the, so-called, party and protest movement an inspirational site of learning. My involvement with the movement led me to help develop my internet publishing skills aligning myself with a broad network of media and internet activists centred around the Indymedia project [@pickard_united_2006].
 
-In 1995, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and more importantly activists. As someone involved with counter culture and political activism, the growth of the internet offered huge potential. I was involved in the resultant linking of activities of disparate political and cultural groups around gatherings international finance institution (IFIs). I found the, so-called, party and protest movement an inspirational site of learning. My involvement with the movement led me to help develop my internet publishing skills aligning myself with a broad network of media and internet activists centred around the Indymedia project [@pickard_united_2006]. On a personal level, my development as a media activist including but not limited to: graphic design; web page creation; computer programming; video editing; audio-visual events tech; and server maintenance was driven with motivation and support provided by people involved in that scene. As time developed, my activist activities aligned with arts techniques, integrating performance art and activist outreach particularly at film screenings. I enjoyed being part of a wide network of activists embracing playful, performance based actions and activism [@klepto_making_2004; @routledge_sensuous_2012].
-
-There was a resonance between the non-hierarchical approach of activist spaces and the decentralised organising principles of the free software movement and the associated free culture approaches [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local networks and organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism. I set up and ran three media centres. The first at an activist social centre, another for Community Arts Northwest and the last for People's Voice Media in Salford.
-
-I documented and promoted low-cost media and web production processes in as a member of with FLOSS Manuals and Transmission international networks. As part of this process I co-wrote A Open Web which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes.
+The ethos (in particular free culture concepts [@lessig_free_2004]) and new uses of technology of media activist networks and was something that I wanted to share with local organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism.
 
 <!-- In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project [^4].   -->
 
 <!-- The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark. -->
 
-In 2011, it was revealed that several activist groups I had been involved with were infiltrated by an undercover police officer (Mark Kennedy / Stone)[^1]. While I had suspected undercover police interest in our work previously, the extent and proximity of this infiltration still had a significant impact on me. My role in outreach for this movement became very uncomfortable as it became clear to extent to which participation in this movement came with hidden risks. The ongoing news of further police infiltration of activist networks, and the use of undercover police staff developing personal relationships with activist to further spy on and disrupt to community [^2], took a heavy toll on my mental health and my world outlook.
-
-Our attempts to create systemic change were being countered with response from the state who were far better resourced than we were. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes. There were responses from both governmental and corporate institutions using legislative, intimidatory and other tactics. For example, Mark Kennedy / Stone's moved from police to a private firm spying for corporate clients on similar networks. While an inquiry on undercover policing scandal dragged with little to show for it, policing legislation of protest movements continues apace. The growth of the open web as a means for more egalitarian and non-corporate means of publishing was also attacked. A process exemplified by the embrace, extend & extinguish [^3] tactic. The open posting Indymedia network became difficult to maintain in part due to extensive posting of misinformation and ad-hominem attacks from suspicious sources, an early example of state-sponsored troll farms targetting community activism on social media [Jensen].   
+In 2011, it was revealed that several activist groups I had been involved with were infiltrated by an undercover police officer (Mark Kennedy / Stone)[^1]. My role in outreach for this movement became very uncomfortable as it became clear to extent to which participation in this movement came with hidden risks. Our attempts to create systemic change were being countered with response from the state who were far better resourced than we were. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes.  
 
 <!-- Jensen, Michael (September 24, 2018). "Russian Trolls and Fake News: Information or Identity Logics?". Journal of International Affairs. 71 (1.5): 115–124. -->
 
@@ -177,36 +166,44 @@ Our attempts to create systemic change were being countered with response from t
 
 <!-- There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question. -->
 
-In response to growing discomfort around involvement in political and environmental activism, I shifted focus towards less _frontline_ activities.
-community work and training and documentation work with international networks and then eventually to informal learning of media creation with young people and families A key vehicle for this work was FLOSS Manuals where I wrote and promoted documentation and online learning resources media creation and and collaborative processes using Free Software. This work gave me access to diverse international networks whose work was informed by participatory and egalitarian methods. One partnership was Mozilla Webmaker education programme. Webmaker involved creating tools and workshops guides with networks of informal educators. The motivation was to involve teens in being web literate through making web products inspired in part by Douglas Rushkoff's call for everyone to know at least a little bit of coding [@rushkoff_program_2010].
+In response to growing discomfort around involvement in political and environmental activism, I shifted focus towards less _frontline_ activities undertaking community development and working with FLOSS Manuals where I wrote and promoted documentation and online learning resources media creation and and collaborative processes using Free Software. I documented and promoted low-cost media and web production processes and co-wrote A Open Web a book which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes. This work gave me access to diverse international networks whose work was informed by participatory and egalitarian methods. A key network was the Mozilla community where I  created documentation, workshops guides and other learning resources with networks of informal educators. This avenue offered a reconnection to the discussing the politics of independent communications in line with an empowerment agenda.
 
-    And as we move into an increasingly digital reality, we must learn not just how to use programs but how to make them. In the emerging highly programmed landscape ahead, you will either create the software or you will be the software. It's really that simple: Program, or be programmed. [@rushkoff_program_2010].
 
-This avenue offered a positive way to discuss the politics of independent communications and an empowerment agenda. The rhetoric accompanying the launch of a new curriculum promised the ability to undertake game and media project production as a way to increase learners authentic real-world programming skills through creating authentic projects [@livingstone2010next]. This motivation as well as the reduction in funding for adult education austerity agenda, led me to retrain. I undertook a masters in Computing and then an PGCE in teaching Computing. During my PGCE year I found it challenging to bring in the kind of project based learning techniques to the classroom, a theme explored in this thesis.
+**Training to teach in formal education**
 
-I did however manage to create a pilot scheme to teach javascript in playful ways, using Mozilla's webmaker tools and ethos, which I trialled in the classroom and wrote up as a dissertation and published the results as an addition to the Mozilla's online teaching resources. While the context of secondary schools within which I trained did not suit creative project based approaches, a new role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue this work.
+I was attracted to the rhetoric leading up to the launch of a new UK computing curriculum in 2015 promised the ability to undertake computing and multi-media project production within the classroom and taught exam work [@livingstone2010next]. I undertook a masters in Computing and then an PGCE in teaching Computing.
 
-SHIFT The turn to investigate game creation as a creative media project stemmed a consultation with home educators partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding.
+As part of my PGCE dissertation I designed and delivered a pilot scheme to teach javascript in playful ways. I used Mozilla's webmaker tools and adapted soem of their open leadership processes. In addition to he dissertation findings [^2], the learning materials were made available as an OER as part of Mozilla's online teaching resources= Learn / Teach thew web.
 
-The shift from making web-based media to games made sense given the patch success I had had with web coding pages with school children. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience. Both were grounded in self-expression, participatory culture and I was to find out both could use similar technology.
+
+While I was drawn to the possibilities offered by a new technologies and the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me. Barriers to undertaking practical PBL projects are explored in the Literature Review in Chapter 2 of this thesis.
+
+A role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue
+creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work.
+
+**How work with home educating families started**
+
+The idea to engage with game creation via coding stemmed a consultation with home educators via partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding.
+
+Thus, rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience.
+
+<!-- Both were grounded in self-expression, participatory culture.  -->
+
+
+<!-- The shift from making web-based media to games made sense given the patch success I had had with web coding pages with school children. Rather than using media to mobilise and feed into social movements, games became a medium to explore and create as a playful educational experience. Both were grounded in self-expression, participatory culture and I was to find out both could use similar technology. -->
 
 <!-- To inform this work I returned to Mozilla's web developer resources to discover two step-by-step tutorials outlining how to game making in the browser using a javascript library called Phaser.  -->
 
 <!-- I was able to combine my work using the code playground Thimble with the js library Phaser to create an potentially accessible toolset for young learners. -->
 
 
-**Contextual details aligning with personal motivations**
 
-Fluency with the focus on personal expression aligns with motivation of empowerment and equality of access not only to future employment but a broader participation on a digital society. This agenda has parallels with other domains of participatory culture involving music and protest culture that I have been involved in.
 
 <!-- - DIY music and protest event organisation
 - Participatory media making for social and environmental causes
 - Documentation writing using collaborative processes
 - Creative coding -->
 
-In summary, as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy. In the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me.
-
-However, a new position as a project work for EdLab allowed me the ability to explore this outside of the classroom in more innovative programs and partnerships.
 
 <!-- - Hive Manchester and Code Club
 - Coder Dojo
@@ -222,7 +219,7 @@ The use of new technologies by communities to achieve new aims. New technology c
 
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
-#### The complex role of agency in this thesis
+#### The complex role of agency (and context) in this thesis
 
 RQ3 addresses the process of developing agency within a community.
 
