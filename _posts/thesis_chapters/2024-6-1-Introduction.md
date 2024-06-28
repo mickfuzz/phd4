@@ -356,14 +356,26 @@ Raspberry Pi foundation have incorporated previously independent organisations C
 Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
 But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
 
-#### University context
+#### Research / University context
 
 University partnership context.
+Service learnings
 
 Examples like Scratch with MiT
 Barefoot computing which was Kent?
 
 Service learning to support code clubs
+#### Civil society  context
+
+Charitable foundations funding provides a great deal of funding in this area.
+
+
+
+Scratch and MIT labs benefit from x.
+
+Mozilla as benefit for the teach the web.
+
+
 
 ## Context of game making for curricular purposes
 
