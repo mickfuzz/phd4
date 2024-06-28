@@ -290,9 +290,50 @@ RQ2 explores this with a focus on the use of game design patterns, a concept use
 ## Context of teaching and learning coding via game making
 
 
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
 
-### Follow the money
+MOVE TO GAME CULTURES?
+For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
+
+
+SIGNPOST HERE TO DIFFERENT SCHOOLS AND MODIVATIONS
+
+-
+
+
+
+### Overview and motivations of game making (for learning) - and who should read this thesis
+
+<!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
+
+Motivations for learning to code specifically via game making are diverse
+
+- STEM pipeline in more general terms
+- Getting more people to take Computing qualifications. NCCE
+- for intrinsic pleasure of making games or other products
+- for commercial purposes to join games industry
+- for empowerment of individual and health of society
+
+
+<!-- also
+
+    - From Kafai's review (not directly) draw on
+    - personal
+    - more general / social / 21st C, computational fluency
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
+
+**Who should read this thesis?**
+
+Given these motivations and the overall direction of this thesis. Who is the intended audience?
+
+- teachers
+- Researchers in computing education
+- informal educators
+
+Beyond in terms of the process, research and generative.  
+
+### What are the financial models which support activities in this area?
 
 **Exploring Financial models and sources of funding for game making programmes and tools**
 
@@ -302,17 +343,15 @@ This mirrors scepticism of the Maker movement and associated problems with the l
 
 [@vossoughi_making_2016] see critique of maker movement here
 
-#### Funding for promoting Computing in Schools
+#### Funding and financial models for promoting Computing in Schools
 
-Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches. 
+STEM Learning NCCE - teachcomputing.org - How did this develop?  
 
-
-STEM Learning NCCE coorinate CPD
+Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
 
 CAS are supported by BCS and direct help from gov? The grass roots resource creation .
 
 Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
-
 
 Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
 But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
@@ -324,29 +363,7 @@ University partnership context.
 Examples like Scratch with MiT
 Barefoot computing which was Kent?
 
-Service learning to support code clubs.
-
-### Overview and motivations of game making (for learning)
-
-The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making. In doing so the authours outline motivations for learning to code specifically via game making. Which are in summary:
-
-- for intrinsic pleasure of making games or other products
-- for commercial purposes to join games industry
-- STEM pipeline in more general terms
-- for empowerment of individual and health of society
-
-also
-
-    - From Kafai's review (not directly) draw on
-    - personal
-    - more general / social / 21st C, computational fluency
-    - more general / social / 21st C,
-    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017]
-
-While this book is rightly regarded a  keystone work in this area the coverage of the cultural elements of game making is not as strong as other aspects focusing mainly on studies of diverse participants rather than sharing culturally focused pedagogies.
-
-DUPLICATION WITH BELOW
-
+Service learning to support code clubs
 
 ## Context of game making for curricular purposes
 
