@@ -292,13 +292,7 @@ RQ2 explores this with a focus on the use of game design patterns, a concept use
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
 
-MOVE TO GAME CULTURES?
-For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
 
-
-SIGNPOST HERE TO DIFFERENT SCHOOLS AND MODIVATIONS
-
--
 
 
 
@@ -365,17 +359,16 @@ Examples like Scratch with MiT
 Barefoot computing which was Kent?
 
 Service learning to support code clubs
+
 #### Civil society  context
 
 Charitable foundations funding provides a great deal of funding in this area.
-
-
 
 Scratch and MIT labs benefit from x.
 
 Mozilla as benefit for the teach the web.
 
-
+Corporate funding code.org. (Google)
 
 ## Context of game making for curricular purposes
 
@@ -498,9 +491,15 @@ Javascript as coding language, Phaser as a game making framework and Glitch as a
 ## Digital gaming and making culture
 
 
+
+
+Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
+
+
+
 Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
 
-### On  Gaming (move to a gaming cultures section? )
+### On  Gaming
 
 The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
 
