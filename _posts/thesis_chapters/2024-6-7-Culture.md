@@ -758,6 +758,9 @@ But at the cost of maintaining a working game. -->
 
 Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
 
+    An authentic audience can create a motivating context to deepen and sustain participation
+    (Larson, 2007; Magnifico, 2010) [@roque_youth_2019-1]
+
 <!--
 MOVE To LATER DISCUSSION ON AUTHENTICITY IN LATER CHAPTERS?
 

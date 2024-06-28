@@ -127,26 +127,24 @@ The aims of this literature review:
 
 <!-- NOTE - Does this need to be explicitly via Sociocultural take -->
 
-To help answer RQ1 and 2, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning
+To help answer the research questions and to prepare the reader for the findings of this thesis, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning. The LR is themed broadly using Rogoff's three planes of analysis (personal knowledge, interpersonal activity and cultural factors) [@rogoff_observing_1995. This approach appears to have influenced the structure of Kafai and Burke's review of this area [@kafai_connected_2014-1; @kafai_constructionist_2015-1]. While Kafai and Burke's work as a convincing review of some of the diverse potential and efficacy  of game coding, this LR focuses in on the detail of the pedagogies of relevant studies.
 
-_Specifically in RQ1 terms  - what does authentic mean. A bit of what does agency mean which is followed in chapter three._
+However, as studies do not neatly fall in to each category they are not structured rigidly via section. Instead this chapter follows a general direction studies which outline pedagogies focusing on personal knowledge to those which draw on social coding practices and finally covers studies with a significant element of development of cultural practices of coding. While most pedagogies explored here are specific to approaches for game making or learning coding at times where needed to capture community focuses the net is cast  wider to highlight more general principles.
 
-Identify types of barriers / obstacles and address pedagogies which address then?
-Because of the community focus of the study, but the relevance of new curriculum the lit review spans different community perspectives / scopes.
+This chapter helps answer the research questions in the following ways. In coverage of relevant studies I focus in particular the to barriers to participation and pedagogical elements which address them as notes in RQ1. A section in the middle of the chapter addresses game design patterns in particular, as the focus of RQ2, and exposes gaps in the current research in the area of developing notice coding practices.
 
-- What is learner agency
-  - definitions of agency and education
-  - what is agency in this context?
+RQ3 addresses the development of agency, a deeper exploration of which is covered Chapter 3. For the purposes of the literature review, it is worth noting the following.
 
-- Coverage of wider pedagogical frameworks focused on participants to develop agency in an evolving community.
+  - pedagogical frameworks focused on participants to develop within a community focus
+  - the impact of formal and informal settings on conducive conditions for developing agency
+  - communities of practice - legitimate peripheral participation boundaries and Barriers
+  - community of learners and the methods to expose practice, Barron
 
-    - what is informal settings / learning?
-    - communities of practice - legitimate peripheral participation boundaries and Barriers
-    - community of learner and the methods to expose practice
 
-    <!-- - Note lack of specifics of community-building approaches for game making - so next section will cast net wider for general principles first -->
+NOTES ON WHAT SHOULD BE INCLUDED IN LIT REVIEW
 
 - Examples informal community creation in practice and research & pedogogies with young people
+
 
     - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
     - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
