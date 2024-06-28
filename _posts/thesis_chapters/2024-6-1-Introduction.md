@@ -302,14 +302,29 @@ This mirrors scepticism of the Maker movement and associated problems with the l
 
 [@vossoughi_making_2016] see critique of maker movement here
 
-#### School context
+#### Funding for promoting Computing in Schools
+
+Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches. 
+
+
+STEM Learning NCCE coorinate CPD
+
+CAS are supported by BCS and direct help from gov? The grass roots resource creation .
+
+Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
+
+
 Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
 But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
 
 #### University context
 
 University partnership context.
-Service learnings
+
+Examples like Scratch with MiT
+Barefoot computing which was Kent?
+
+Service learning to support code clubs.
 
 ### Overview and motivations of game making (for learning)
 
