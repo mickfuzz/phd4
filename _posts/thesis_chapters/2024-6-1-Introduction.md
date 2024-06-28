@@ -292,6 +292,23 @@ RQ2 explores this with a focus on the use of game design patterns, a concept use
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
 
+### Financial models and sources of funding for game making programmes and tools
+
+My focus here is to be skeptical of the positivist science agenda. Which follows from previous fingers burning experiences. 
+
+This mirrors skepticism of the Maker movement and associated problems with the link with industry
+
+[@vossoughi_making_2016] see critique of maker movement here
+
+#### School context
+Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
+But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
+
+#### University context
+
+University partnership context.
+Service learnings
+
 ### Overview and motivations of game making (for learning)
 
 The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making. In doing so the authours outline motivations for learning to code specifically via game making. Which are in summary:
@@ -592,7 +609,7 @@ While home education support practices of families are expressed in this setting
 
 
 
-### Studies informing cultural barriers / aspects of game making
+### Studies informing cultural barriers / aspects of game making - MOVE EVIDENCE - INCLUDE ONLY CONTEXT / BARRIERS
 
 Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
 
@@ -651,16 +668,7 @@ Illingworth critique's Kafai and Burke's book due to lack of specificity in the 
   Shift to other tactics like Family Connected Learning Roque.
 
 
-### Financial Barriers - Funding sustainable programmes
 
-#### School context
-Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
-But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
-
-#### University context
-
-University partnership context.
-Service learnings
 
 
 ## Funds of knowledge and third space
