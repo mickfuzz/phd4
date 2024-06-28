@@ -17,3 +17,18 @@ Mick Chesterman teaches at the Manchester Metropolitan on education project-base
 ## Abstract 100 Words
 
 This presentation addresses digital game making as an inclusive process to develop coding concepts and coding fluency. It outlines research which emerges from my work with young learners of ages 8-12 which leverages the motivational and navigational affordances of enthusiast game making communities and adapts them to more structured educational environments. I summarise the features of two game making tools used in my study. I give an overview of a novel game making pedagogy, named 3M, and share links to extensive resources for learners and teachers.
+
+## Blog post
+
+### 3M PEDAGOGY
+
+### Benefits - a Summary - in line with Resnick, Papert, and Roque etc.  
+
+### Barriers - school based barriers
+
+That's nice Mick.
+
+
+### Emergent elemnents of practice and Agency - the surprises -
+
+### The focus on missions 
