@@ -13,53 +13,55 @@ title: 2. Literature Review
     -   [Research Questions - April
         2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
-    -   [Literature Review
-        Introduction](#literature-review-introduction)
-        -   [Structuring the literature
-            review](#structuring-the-literature-review)
+    -   [Introduction & Structure of LR](#introduction-structure-of-lr)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
-    -   [Pedagogies from coding for learning community - K12
-        focused](#pedagogies-from-coding-for-learning-community---k12-focused)
-        -   [Also See this writing and
-            adapt](#also-see-this-writing-and-adapt)
-        -   [Definitions of Computational
-            Thinking](#definitions-of-computational-thinking)
-            -   [Can CT be used as an pedagogical
-                framework](#can-ct-be-used-as-an-pedagogical-framework)
-        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
-        -   [Exploring the territory between instruction-based tutorials
-            and unguided
-            approaches](#exploring-the-territory-between-instruction-based-tutorials-and-unguided-approaches)
-    -   [What pedagogies support learner
-        agency?](#what-pedagogies-support-learner-agency)
-        -   [Use Modify Create](#use-modify-create)
+    -   [Computation Thinking: curriculum concepts and/or and
+        pedagogical
+        framework](#computation-thinking-curriculum-concepts-andor-and-pedagogical-framework)
+        -   [Situating Computational thinking within curricular
+            concerns](#situating-computational-thinking-within-curricular-concerns)
+        -   [Studies exploring CT as an pedagogical framework to support
+            learning computer
+            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding)
+    -   [PRIMM, Semantic Waves and pushing the
+        abstract](#primm-semantic-waves-and-pushing-the-abstract)
         -   [PRIMM](#primm)
-            -   [Microworlds as an embodiment of UMC and other
-                constructionist design
-                principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
+        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
+        -   [Problematising distinctions between instruction-based
+            tutorials and unguided
+            approaches](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches)
+    -   [Studies on Pedagogies scaffolding practice based
+        exploration](#studies-on-pedagogies-scaffolding-practice-based-exploration)
+        -   [Use Modify Create](#use-modify-create)
+        -   [Microworlds as an embodiment of UMC and other
+            constructionist design
+            principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
+        -   [Constructionist design
+            principles](#constructionist-design-principles)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
-        -   [Funds of knowledge and third
-            space](#funds-of-knowledge-and-third-space)
-            -   [Studies using funds of knowledge within their
-                pedagogies](#studies-using-funds-of-knowledge-within-their-pedagogies)
-            -   [Third spaces and the context of this
-                study](#third-spaces-and-the-context-of-this-study)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
-            -   [Mantle of the Expert as a processes
-                drama](#mantle-of-the-expert-as-a-processes-drama)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
-        -   [Project based learning PBL](#project-based-learning-pbl)
+        -   [Project Based Learning (PBL)](#project-based-learning-pbl)
+            -   [Project Based Learning as an inclusive
+                pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
+            -   [Complications with Project Based
+                Learning](#complications-with-project-based-learning)
             -   [Game making and Project / Problem Based
                 Learning](#game-making-and-project-problem-based-learning)
             -   [PBL and Authenticity in the domain of teaching
                 programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
             -   [Issues of Inclusion and PBL addressed through UDL
                 principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
+    -   [Studies working to address barriers concerning
+        identity](#studies-working-to-address-barriers-concerning-identity)
+        -   [5th Dimension Case Study](#th-dimension-case-study)
+        -   [Creative Family Learning -
+            Roque](#creative-family-learning---roque)
+        -   [Mantle of the Expert - processes drama used in teaching
+            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
+        -   [Digital informal / participatory culture and
+            Learning](#digital-informal-participatory-culture-and-learning)
     -   [Pedagogical resources in the form of professional practices and
         frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via
@@ -95,7 +97,6 @@ title: 2. Literature Review
             DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
     -   [Conclusion link to the next
         chapters](#conclusion-link-to-the-next-chapters)
-
 
 # Literature Review
 
@@ -172,10 +173,6 @@ NOTES ON WHAT SHOULD BE INCLUDED IN LIT REVIEW
 
 One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1.
 
-mpuComputation Thinking ploring  Ast may be familiar from websites, p
- disituating Computational thinking ers and
-It within curricular concerns iscontext.
-
 In AT terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of mediational strategy.
 
 
@@ -186,7 +183,7 @@ In AT terms pedagogy can be reframed as pedagogical tools and processes and can 
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
-## Computation Thinking as an pedagogical framework
+## Computation Thinking: curriculum concepts and/or and pedagogical framework
 
 ### Situating Computational thinking within curricular concerns
 
@@ -238,7 +235,7 @@ We can turn to the UK curriculum perhaps for guidance.
 
 THIS COUDL BE PUT BEFORE CT - AND THEN CT IS EXPLPORED AS A FRAMEWORK OF CONCEPTS - THEN A PEDAGOGY
 
-DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE 
+DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE
 
 ### Semantic Profiles and Waves
 
@@ -257,7 +254,7 @@ Figure 3.1 A Semantic Profile with Semantic Waves
 
 Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
-### Exploring the territory between instruction-based tutorials and unguided approaches
+### Problematising distinctions between instruction-based tutorials and unguided approaches
 
 The process of learning technical skills through trial and error is something that many self-driven learners are familiar with. The desire to complete a particular project and self-motivated access to the resources to achieve it is the stuff of computing mythology, recalling the kind of garage innovation that created Apple computer and early hacker computing culture [@fuller_garage_2015]. However, this is not an ideal pedagogy. Even with access to resources and critiques of pure discovery learning are also valid [@mayer_should_2004].
 
@@ -271,12 +268,8 @@ Critique of instruction...
 
 In short there are concerns with reproduction of information as a goal for varied reason but authenticity of experience and resulting negative on effects on motivation and participant agency are of particular relevance to this study.  
 
-## What pedagogies support learner agency?
 
-This section covers pedagogies more aligned with developing agency.
-This needs clarification
-
-It was originally focused only informal settings, which offer advantages for developing agency in terms of having less restrictions.
+## Studies on Pedagogies scaffolding practice based exploration
 
 NOTES remaining. ADD IN  SECTIONS IF RELEVANT / AND OR TIME / SPACE
 
@@ -327,7 +320,7 @@ In a study where students use a block based language to develop simulations - th
 
 
 
-#### Microworlds as an embodiment of UMC and other constructionist design principles
+### Microworlds as an embodiment of UMC and other constructionist design principles
 <!-- (generated by chat gpt) -->
 
 LOGO and Scratch have had a huge influence as have the constructionist design principles
@@ -339,9 +332,7 @@ Constructionist design principles emerge in tandem with the frequent revision of
 
 
 
-
-
-##### Constructionist design principles
+### Constructionist design principles
 
 The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
 
@@ -381,81 +372,6 @@ Kynigos and Yiannoutsou identify a progression in the type of CT skills being us
 
 
 
-### Funds of knowledge and third space - OVERLAP WITH METHODOLOGY
-
-COPIED AND PASTED BUT USE AS BASE - IF NOT INCLUDED IN INTRO
-
-The concept of funds of knowledge (FoK) emerged from research within United States Latino communities.FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
-
-In the original study home visits were carried out to better inform design of after-school activities.
-
-However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
-
-The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
-
-#### Game making as a fund of knowledge
-
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
-
-Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-
-
-
-
-#### Third spaces and the context of this study
-
-PERHAPS THIS IS METHODOLOGY? MOVE?
-
-The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
-
-It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
-
-
-
-
-#### Play circles and MOE as a third space
-
-The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
-
-A foundation of link between between play theory, MOE and third space theory.
-
-A detailed analysis is beyond remit of this review but broad alignments include:
-- use of concept of a new creative space for all participants
-- use of mediated strategies to reduce learner stress
-- ability to bring self identify to share in a scaffolded and protected way
-
-
-
-#### Mantle of the Expert as a processes drama
-
-A way of leveraging some of the processes outline above in a schooling context.
-
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
-
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
-
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
-
-
 ### Pair programming & social/collaborative coding
 
 **Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
@@ -472,36 +388,27 @@ Bring in limits  and extension of research on pair programming to wider groups /
 
 
 
-
-### Digital informal / participatory culture and Learning
-
-
-
-
-Tinkering and Constructionism
-Livingstone
-Sefton green
-ITO and Gee
-
-
- community activities around the game Gee / Ito
-
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
-
-
-
-
-### The context of Project Based Learning (PBL)
+###  Project Based Learning (PBL)
 
 The educational strategy of learning how to code games lends itself to a project based learning (PBL) approach. The following section explores common elements of PBL and summarises links with game making approaches and the legacy of game making studies.
-
-#### Defining PBL for this studying
 
 In broad terms, PBL is an educational strategy which x,y and z
 
 For game making the following aspects are particularly relevant: authenticity of audience, student choice and voice, etc
 
+
+Project-approaches are widely advocated by Papert via constructionism school and taken up by MIT researchers and programmes, especially the outreach work of Mitchell Resnick surrounding Scratch and other creative computing project.
+
+PBL also aligns with a much broader progressive approach to education. The broad benefits can be summarised as such;
+
+- Student choice
+
+**Cautionary note**
+While the above claims are widely supported, the wide nature of the definition complicates any broad claims of replicability.
+
 It is also of value to explore PBL as an inclusive pedagogy - WHY?
+
+
 
 #### Project Based Learning as an inclusive pedagogy
 
@@ -527,7 +434,6 @@ Specific techniques of PBL and digital making are explored in more depth in chap
 
 
 
-
 <!-- The next section deals with inclusive
 Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
  pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
@@ -538,21 +444,6 @@ Web-based or software activities include game making, meme creation, hobby websi
 
 
 
-
-
-
-### Project based learning PBL
-
-NOTE - This spans k12 and more informal / community environments - thus I'm not sure where to place it at the moment - Lit review needs reworking.
-
-Project-approaches are widely advocated by Papert via constructionism school and taken up by MIT researchers and programmes, especially the outreach work of Mitchell Resnick surrounding Scratch and other creative computing project.
-
-PBL also aligns with a much broader progressive approach to education. The broad benefits can be summarised as such;
-
-- Student choice
-
-**Cautionary note**
-While the above claims are widely supported, the wide nature of the definition complicates any broad claims of replicability.
 
 
 #### Game making and Project / Problem Based Learning
@@ -601,8 +492,79 @@ When reading about different approaches to teaching computing the terms concrete
 
 
 
+## Studies working to address barriers concerning identity
+
+### 5th Dimension Case Study
+
+Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
+
+A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
+
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
+
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
+
+This technique emerged in this study as one of value and is explored in chapters x and y.
+
+### Creative Family Learning - Roque
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
 
 
+Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+
+
+It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
+
+The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
+
+I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
+
+
+
+### Mantle of the Expert - processes drama used in teaching technology
+
+A way of leveraging some of the processes outline above in a schooling context.
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+
+### Digital informal / participatory culture and Learning
+
+
+
+
+Tinkering and Constructionism
+Livingstone
+Sefton green
+ITO and Gee
+
+
+ community activities around the game Gee / Ito
+
+<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
 
 
 ## Pedagogical resources in the form of professional practices and frameworks

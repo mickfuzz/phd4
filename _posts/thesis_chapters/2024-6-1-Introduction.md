@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 1. Introduction - What kind of game maker are you?
 ---
-
 -   [Introduction - "What kind of Game Maker are
     you?"](#introduction---what-kind-of-game-maker-are-you)
     -   [A study of the cultural and interpersonal dimensions and
@@ -23,16 +22,14 @@ title: 1. Introduction - What kind of game maker are you?
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Revisiting my context and aims in relation to the research
-            questions of this
-            thesis](#revisiting-my-context-and-aims-in-relation-to-the-research-questions-of-this-thesis)
+    -   [Academic and Conceptual
+        Contexts](#academic-and-conceptual-contexts)
+        -   [Revisiting my experiences and aims in relation to my PhD
+            process and the aims of this
+            research](#revisiting-my-experiences-and-aims-in-relation-to-my-phd-process-and-the-aims-of-this-research)
             -   [The complex role of agency in this
                 thesis](#the-complex-role-of-agency-in-this-thesis)
             -   [Sketchy pedagogies](#sketchy-pedagogies)
-    -   [Conceptual Context](#conceptual-context)
-        -   [The utility of understanding projects and socio cultural
-            and activist concepts of
-            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
     -   [Context of teaching and learning coding via game
         making](#context-of-teaching-and-learning-coding-via-game-making)
         -   [Overview and motivations of game making (for
@@ -73,12 +70,16 @@ title: 1. Introduction - What kind of game maker are you?
             programmes](#financial-barriers---funding-sustainable-programmes)
             -   [School context](#school-context)
             -   [University context](#university-context)
-    -   [Case Studies](#case-studies)
-        -   [5th Dimension Case Study](#th-dimension-case-study)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
-        -   [Digital Braves as a small MoE / 5D
-            project](#digital-braves-as-a-small-moe-5d-project)
+    -   [Funds of knowledge and third
+        space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Game making as a fund of
+            knowledge](#game-making-as-a-fund-of-knowledge)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+    -   [Case Study as example: Digital Braves as a small MoE / 5D
+        project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
     -   [Summary of the thesis motivation and
         structure](#summary-of-the-thesis-motivation-and-structure)
         -   [Recap of motivation](#recap-of-motivation)
@@ -628,40 +629,51 @@ But the effectiveness of this  is limited in teh following ways. Time, enthusias
 University partnership context.
 Service learnings
 
-The next case study addresses this
 
-## Case Studies
-### 5th Dimension Case Study
-
-Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
-
-A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
-
-The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
-
-This technique emerged in this study as one of value and is explored in chapters x and y.
-
-### Creative Family Learning - Roque
+## Funds of knowledge and third space
 
 
+The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
 
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+In the original study home visits were carried out to better inform design of after-school activities.
 
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
+However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
+
+The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
+
+#### Third spaces and the context of this study
+
+PERHAPS THIS IS METHODOLOGY? MOVE?
+
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
+
+It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
+
+### Game making as a fund of knowledge
+
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
+
+Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
 
 
-Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+#### Play circles and MOE as a third space
+
+The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
+
+A foundation of link between between play theory, MOE and third space theory.
+
+A detailed analysis is beyond remit of this review but broad alignments include:
+- use of concept of a new creative space for all participants
+- use of mediated strategies to reduce learner stress
+- ability to bring self identify to share in a scaffolded and protected way
 
 
-It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
 
-The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
 
-I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
 
-### Digital Braves as a small MoE / 5D project
+## Case Study as example: Digital Braves as a small MoE / 5D project
 
 Insert a summary of Digital Braves - link to republication version.  
 

@@ -11,16 +11,14 @@
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Revisiting my context and aims in relation to the research
-            questions of this
-            thesis](#revisiting-my-context-and-aims-in-relation-to-the-research-questions-of-this-thesis)
+    -   [Academic and Conceptual
+        Contexts](#academic-and-conceptual-contexts)
+        -   [Revisiting my experiences and aims in relation to my PhD
+            process and the aims of this
+            research](#revisiting-my-experiences-and-aims-in-relation-to-my-phd-process-and-the-aims-of-this-research)
             -   [The complex role of agency in this
                 thesis](#the-complex-role-of-agency-in-this-thesis)
             -   [Sketchy pedagogies](#sketchy-pedagogies)
-    -   [Conceptual Context](#conceptual-context)
-        -   [The utility of understanding projects and socio cultural
-            and activist concepts of
-            activity](#the-utility-of-understanding-projects-and-socio-cultural-and-activist-concepts-of-activity)
     -   [Context of teaching and learning coding via game
         making](#context-of-teaching-and-learning-coding-via-game-making)
         -   [Overview and motivations of game making (for
@@ -61,12 +59,16 @@
             programmes](#financial-barriers---funding-sustainable-programmes)
             -   [School context](#school-context)
             -   [University context](#university-context)
-    -   [Case Studies](#case-studies)
-        -   [5th Dimension Case Study](#th-dimension-case-study)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
-        -   [Digital Braves as a small MoE / 5D
-            project](#digital-braves-as-a-small-moe-5d-project)
+    -   [Funds of knowledge and third
+        space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Game making as a fund of
+            knowledge](#game-making-as-a-fund-of-knowledge)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+    -   [Case Study as example: Digital Braves as a small MoE / 5D
+        project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
     -   [Summary of the thesis motivation and
         structure](#summary-of-the-thesis-motivation-and-structure)
         -   [Recap of motivation](#recap-of-motivation)
