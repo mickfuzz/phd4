@@ -40,6 +40,10 @@ title: 1. Introduction - What kind of game maker are you?
             UK](#computing-as-a-school-subject-in-the-uk)
     -   [Context of digital making and culture in informal
         settings](#context-of-digital-making-and-culture-in-informal-settings)
+        -   [Defining and conceptualising informal
+            education](#defining-and-conceptualising-informal-education)
+            -   [Informal, participatory, digital and gaming
+                communities](#informal-participatory-digital-and-gaming-communities)
         -   [Context of authenticity of tools, practices and
             relationship with agency and
             empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)

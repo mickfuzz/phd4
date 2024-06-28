@@ -42,15 +42,6 @@
                 programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
             -   [Issues of Inclusion and PBL addressed through UDL
                 principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
-    -   [Studies working to address barriers concerning
-        identity](#studies-working-to-address-barriers-concerning-identity)
-        -   [5th Dimension Case Study](#th-dimension-case-study)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
-        -   [Mantle of the Expert - processes drama used in teaching
-            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
     -   [Pedagogical resources in the form of professional practices and
         frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via
@@ -63,26 +54,32 @@
             competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
             context](#design-patterns-and-game-design-patterns-in-professional-context)
-    -   [Synthesis of chapter /
-        discussion](#synthesis-of-chapter-discussion)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
         -   [Using professional frameworks to help novice game
             makers](#using-professional-frameworks-to-help-novice-game-makers)
-            -   [Using concepts of design patterns and game design
-                patterns](#using-concepts-of-design-patterns-and-game-design-patterns)
             -   [Using pattern collections and code examples to help
-                students.](#using-pattern-collections-and-code-examples-to-help-students.)
-    -   [The problem statement of the
-        thesis](#the-problem-statement-of-the-thesis)
+                novice
+                students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
+    -   [Studies working to address barriers concerning
+        identity](#studies-working-to-address-barriers-concerning-identity)
+        -   [5th Dimension Case Study](#th-dimension-case-study)
+        -   [Creative Family Learning -
+            Roque](#creative-family-learning---roque)
+        -   [Mantle of the Expert - processes drama used in teaching
+            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
+        -   [Digital informal / participatory culture and
+            Learning](#digital-informal-participatory-culture-and-learning)
+    -   [Synthesis of chapter /
+        discussion](#synthesis-of-chapter-discussion)
         -   [Inequality of access to participatory culture communities
             (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
-        -   [Barrier - lack of knowledge of cultural
-            processes](#barrier---lack-of-knowledge-of-cultural-processes)
-        -   [Tensions surrounding authenticity of tool use- move to LIT
-            REVIEW / END
-            DISCUSSION?](#tensions-surrounding-authenticity-of-tool-use--move-to-lit-review-end-discussion)
-    -   [Conclusion link to the next
-        chapters](#conclusion-link-to-the-next-chapters)
+        -   [Deficit of cultural processes & appropriate frameworks to
+            support community-based coding for
+            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
+            -   [Supporting roles and social practices to support
+                learners](#supporting-roles-and-social-practices-to-support-learners)
+        -   [Tensions surrounding authenticity of tool
+            use](#tensions-surrounding-authenticity-of-tool-use)
+    -   [Conclusion](#conclusion)
+        -   [The problem statement of the
+            thesis](#the-problem-statement-of-the-thesis)
+    -   [Link to the next chapters](#link-to-the-next-chapters)
