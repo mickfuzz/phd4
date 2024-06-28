@@ -490,83 +490,6 @@ The researchers outline how the three stages of CRA (Concrete, Representational 
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
 
-
-
-## Studies working to address barriers concerning identity
-
-### 5th Dimension Case Study
-
-Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
-
-A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
-
-The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
-
-This technique emerged in this study as one of value and is explored in chapters x and y.
-
-### Creative Family Learning - Roque
-
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
-
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
-
-
-Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
-
-
-It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
-
-The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
-
-I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
-
-
-
-### Mantle of the Expert - processes drama used in teaching technology
-
-A way of leveraging some of the processes outline above in a schooling context.
-
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
-
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
-
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
-
-
-### Digital informal / participatory culture and Learning
-
-
-
-
-Tinkering and Constructionism
-Livingstone
-Sefton green
-ITO and Gee
-
-
- community activities around the game Gee / Ito
-
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
-
-
 ## Pedagogical resources in the form of professional practices and frameworks
 
 These professional practices and framework are both informed by research and in common use in professional communities.
@@ -682,8 +605,6 @@ Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation re
 Their research, which involved young people, builds on related research with adults with the explicit goal of learning game design. One product of this research is a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
 
 
-
-
 MOVED TO LIT REVIEW FROM CHAPTER 5
 
 In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game called Stringforce. It is useful to compare the supports and approach of Eriksson's Stringforce study with that of the 3M intervention of this study.
@@ -693,6 +614,40 @@ The Stringforce study involved learner analysis of games, the ability to change 
 
 One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options and the Stringforce study selected 14. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
 
+
+
+
+### Using professional frameworks to help novice game makers
+
+This section examines the use of potential use of these professional tools or processes in an educational context.
+
+#### Using pattern collections and code examples to help novice students.
+
+
+**There is evidence in literature that the use of a collection of design patterns, while primarily used in professional settings, can help barriers faced by novice coders.**
+
+Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
+The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
+
+
+To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
+Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
+
+Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other
+
+**GSM as example**
+
+GSM created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
+
+The normal practice is geared towards prompts within the software with specific missions.
+
+There is little research published on how the cards were used in practice. Limitations include ...
+
+<!-- NOTE - follow this up - can email - why was this not adopted?
+What could have been different?-->
+**GAP in the research:**
+
+No research for GDP pattern collection for to text code games with for CS or game studies in young people.
 
 
 
@@ -710,83 +665,86 @@ Could move some of this to the results discussion -
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
 
+
+## Studies working to address barriers concerning identity
+
+### 5th Dimension Case Study
+
+Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
+
+A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
+
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
+
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
+
+This technique emerged in this study as one of value and is explored in chapters x and y.
+
+### Creative Family Learning - Roque
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
+
+
+Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
+
+
+It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
+
+The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
+
+I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
+
+
+
+### Mantle of the Expert - processes drama used in teaching technology
+
+A way of leveraging some of the processes outline above in a schooling context.
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+
+### Digital informal / participatory culture and Learning
+
+
+
+
+Tinkering and Constructionism
+Livingstone
+Sefton green
+ITO and Gee
+
+
+ community activities around the game Gee / Ito
+
+<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
+
+
 ## Synthesis of chapter / discussion
 
 
-
-
-### Defining and conceptualising informal education
-
-**on Informal Education Pedagogies**
-
-To assess the wider use of professional frameworks of concepts, it is potential valuable to test them in the context of wider theories of community and informal  learning.
-
-Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
-
-**Defining Informal Education**
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
-
-Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
-
-Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
-
-#### Informal, participatory, digital and gaming communities
-
-Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
-
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
-
-
-### Using professional frameworks to help novice game makers
-
-This section examines the use of potential use of these professional tools or processes in an educational context.
-
-#### Using concepts of design patterns and game design patterns
-
-Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
-The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
-
-#### Using pattern collections and code examples to help students.
-
-THERE IS DUPLICATION AT END - IN TENSIONS
-
-To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
-Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
-Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other
-
-GSM created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
-
-The normal practice is geared towards prompts within the software with specific missions.
-
-There is little research published on how the cards were used in practice. Limitations include ...
-
-<!-- NOTE - follow this up - can email - why was this not adopted?
-What could have been different?-->
-**GAP in the resaseach:**
-
-No research for GDP pattern collection for to text code games with for CS or game studies in young people.
-
-**Link paragraph to game making pedagogies**
-
-
-
-
-
-
-## The problem statement of the thesis
-
-- An overall problem based on Lit review here.
-- Discussion of implications of synthesis of the Literature review
-- Description on  how the RQs frame the problem to help an investigation via the data gathered.
-
-
-#### Inequality of access to participatory culture communities (Barrier)
+### Inequality of access to participatory culture communities (Barrier)
 
 In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
 
@@ -799,9 +757,20 @@ On the other end of the spectrum is the desire to bring open-ended practices int
 One significant element of in this process is learner perception of their own limits.
 EXPLORE RESEARCH HERE.
 
-### Barrier - lack of knowledge of cultural processes
+### Deficit of cultural processes & appropriate frameworks to support community-based coding for beginners  
 
-**Roles and practices to support learners**
+There is a lack of knowledge of cultural processes & appropriate frameworks to structure a project / community based approach  
+
+There is no consensus of what abstract concepts support development of coding practices
+
+There is a also a need for concrete frameworks for novices in initial stages, that is understandable and relatable.
+
+Thus, not wanting to detract from abstract frameworks, or set up a false dichotomy between approaches, there is still a need for more concrete frameworks that work in tandem with PBL methods.
+
+These framweorks can be useful for diverse reasons: providing useful navigation in terms of pedagogy pedagogy, supporting positive affect in crucial early stages, building positive identity as a code creator, and aligning with UDL framework and recommendations for inclusive practice.
+
+
+#### Supporting roles and social practices to support learners
 
 The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input
 [@kirschner_why_2006; @kollar_collaboration_2006]
@@ -813,7 +782,9 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
 
 
-### Tensions surrounding authenticity of tool use- move to LIT REVIEW / END DISCUSSION?
+### Tensions surrounding authenticity of tool use
+
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
 
 Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter - e.g.  literacy, maths, science and history -  and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
 
@@ -822,7 +793,7 @@ This authenticity has several relevant dimensions in this study including: audie
 PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL  The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning [find support]. One advatange of working with digital tools is that if issues of complexity and cost can be addressed access to laptops and the internet allow learners to use very similar production tools to professionals.
 
 
-**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
+
 
 
 <!-- - audience
@@ -841,8 +812,16 @@ Research on project based learning using technology supports the motivational an
 <!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
 
 
-## Conclusion link to the next chapters
+## Conclusion
 
-More specific methods, then combined into a bespoke methodology for this study, framed as a formative intervention, using mixed methods, presented as a design narrative
 
-etc
+### The problem statement of the thesis
+
+This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
+
+- Discussion of implications of synthesis of the Literature review
+- Description on  how the RQs frame the problem to help an investigation via the data gathered.
+
+## Link to the next chapters
+
+Recap on chapter structure, but avoid overlap with Introduction which has a similar section.

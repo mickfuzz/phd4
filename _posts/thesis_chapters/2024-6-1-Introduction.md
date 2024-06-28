@@ -338,6 +338,35 @@ The context of these communities is important to situate the relevance of this s
 While key pedagogies used in this area are explored in chapter two, at times context and pedagogy are not neatly separated. Thus in this section brief summaries of strategies are sometimes included to be explored in more depth in Chapter 2.
 
 
+### Defining and conceptualising informal education
+
+**on Informal Education Pedagogies**
+
+To assess the wider use of professional frameworks of concepts, it is potential valuable to test them in the context of wider theories of community and informal  learning.
+
+Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
+
+**Defining Informal Education**
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
+
+Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
+
+Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
+#### Informal, participatory, digital and gaming communities
+
+Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
+
+The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
+
+However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016.
+
+
+
 ### Context of authenticity of tools, practices and relationship with agency and empowerment
 
 Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016]. In this introduction I refer making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
