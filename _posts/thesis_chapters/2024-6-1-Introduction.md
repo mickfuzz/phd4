@@ -213,12 +213,13 @@ At this point I applied to undertake a PhD with Education and Social Research In
 
 #### The complex role of agency in this thesis
 
-RQ3 of this thesis addresses the process of developing agency within a community. The emergence of agency as a key academic focus of this research was not straight-forward. The process of undertaking a PhD gave me a chance to investigate underlying goals of previous projects in a new context and setting. However, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. Thus, one of my objectives was to be able to better understand the driving forces of my involvement in education aspects of community in terms of the range of training and community projects that I had been involved with.
+My personal context illustrates several examples of the structure and agency debate [@bazerman_structure_2003]. A tangential but important motivation is to make sense of this experience in philosophical terms.
+
+Thus RQ3 of this thesis addresses the process of developing agency within a community. The process of undertaking a PhD gave me a chance to investigate my driving motivations previous projects in a new context and setting. However, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. Thus, one of my objectives was to be able to better understand the driving forces of my involvement in education aspects of community in terms of the range of training and community projects that I had been involved with.
 
 There was a messiness and a responsiveness that I wanted to capture and celebrate, and a dedication to real-life projects and working with the interests of participants. As such I began to search for a relevant theoretical framework and terminology to achieve this exploration in academic terms.
 
 The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  These are elements of pedagogy that are explored in Chapter 2.
-
 
 Constructionism valuing of project work was of potential interest to me. In addition the school's work on Computational Fluency as a counterpoint to Computational Thinking allowed for concepts of identity exploration and self-expression [].
 
@@ -255,7 +256,7 @@ Two years after starting my studies, a special issue of Mind and Culture journal
 
 RECAP ON THE PROMISE HERE - AND SIGNPOST TO LATER CHATPERS.
 
-SUMMARY OF PROMISE OF DBR TO REFLECT SKETCHYNESS 
+SUMMARY OF PROMISE OF DBR TO REFLECT SKETCHYNESS
 
 **Summary of Conceptual Context**
 

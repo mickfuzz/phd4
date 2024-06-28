@@ -112,18 +112,14 @@ title: 2. Literature Review
 - Hands on Education - what is it? Examples in STEM context[@holstermann_hands-activities_2010].
 
 
-## Literature Review Introduction
+## Introduction & Structure of LR
 
-The aims of this literature review:
+<!-- #### Also See this writing and adapt
 
-- Recap motivations for game making and terms needed to expore that later
-  - CT in relation to Design Patterns - abstract / concrete elements
-- outline existing game making pedagogies  & resources for learning coding
-- focus in on cultural / social elements of particular promising pedagogies.  
-- Theoretical Framework -  introduce concepts that may also inform conceptual framework
+chapters/planning/lit review/game making/overview of gamemaking studies part one/overview_of_gamemaking_studies_v6 (002) + CL.docx.md
 
-
-### Structuring the literature review
+planning lit rev/My thoughts on lit review_.docx.md
+-->
 
 <!-- NOTE - Does this need to be explicitly via Sociocultural take -->
 
@@ -131,71 +127,56 @@ To help answer the research questions and to prepare the reader for the findings
 
 However, as studies do not neatly fall in to each category they are not structured rigidly via section. Instead this chapter follows a general direction studies which outline pedagogies focusing on personal knowledge to those which draw on social coding practices and finally covers studies with a significant element of development of cultural practices of coding. While most pedagogies explored here are specific to approaches for game making or learning coding at times where needed to capture community focuses the net is cast  wider to highlight more general principles.
 
-This chapter helps answer the research questions in the following ways. In coverage of relevant studies I focus in particular the to barriers to participation and pedagogical elements which address them as notes in RQ1. A section in the middle of the chapter addresses game design patterns in particular, as the focus of RQ2, and exposes gaps in the current research in the area of developing notice coding practices.
 
-RQ3 addresses the development of agency, a deeper exploration of which is covered Chapter 3. For the purposes of the literature review, it is worth noting the following.
 
-  - pedagogical frameworks focused on participants to develop within a community focus
-  - the impact of formal and informal settings on conducive conditions for developing agency
-  - communities of practice - legitimate peripheral participation boundaries and Barriers
-  - community of learners and the methods to expose practice, Barron
+
+**LR and how it addresses RQs**
+
+This chapter helps answer the research questions in the following ways. In coverage of relevant studies I focus in particular the to barriers to participation and pedagogical elements which address them as notes in RQ1.
+
+A section in the middle of the chapter addresses game design patterns in particular, as the focus of RQ2, and exposes gaps in the current research in the area of developing notice coding practices.
+
+RQ3 addresses the development of agency, a deeper exploration of which is covered Chapter 3. In this literature review of pedagogies, it is worth noting the following elements in pedagogies which are relevant to later discussion.
+
+- the limits of contextual settings on the development of agency
+- pedagogical frameworks which help participants develop coding practices within a community focus
+- pedagogies which facilitate and highlight community membership: e.g. Barron's roles and legitimate peripheral participation
+
+**Specifics of structure**
+
+The chapter begins with pedagogies focused on personal knowedge within a K12 school education context
+
+This starts with a examination of computational thinking as a pedagogy.
+
+It also address some key barriers to coding practices presented by the constraints of curriculum and assessment.
 
 
 NOTES ON WHAT SHOULD BE INCLUDED IN LIT REVIEW
 
-- Examples informal community creation in practice and research & pedogogies with young people
 
+- Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
 
-    - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
-    - Parents as brokers in tech use / learning - Roque et al, Barron, Correa
-    - 5th dimension
-    - Mantle of the Expert (and drama processes games)
-
-
-- K12 context: types of barriers addressed focused around curriculum and assessment, end with analysis of what formal ed often fails to address
-    - computational thinking vs coding practices: explain why CT not the focus, abstract / concrete aspsect.
+- Parents as brokers in tech use / learning - Roque et al, Barron, Correa
 
 
 - professional and enthusiast game making communities and informal setttings: better to address coding practices not
-      -hci and affordance theory, technical barriers , solved by design
-      - MDA
-      - design patterns and gdp collections
-      - game jam, playful approaches, drama games  
 
-The study then seeks to reconsile some of the different elements above in the context of family / informal ed -
 
-- Theoretical Framework
+-hci and affordance theory, technical barriers , solved by design - link with contructionism
 
-<!-- NOTE - is it worth looking at types of collaboration - and specifically why I am interested in real life collaboration rather than online collabs  -->
+- MDA - as professional framework
 
-<!-- I've done previous planning here.
-chapters/planning/lit review/meta notes on planning lit rev/My thoughts on lit review_.docx.md
--->
-
-<!-- NOTE - More to include from here.
-/home/mickfuzz/Documents/a_phd/a_write/lit review/overview_of_gamemaking_studies_v6 (002) + CL.docx -->
 
 
 ### What is a pedagogy?
 
 One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1.
 
-It is therefore useful to disambiguate C in this context.
+mpuComputation Thinking ploring  Ast may be familiar from websites, p
+ disituating Computational thinking ers and
+It within curricular concerns iscontext.
 
 In AT terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of mediational strategy.
-
-
-## Pedagogies from coding for learning community - K12 focused
-
-There is a lot of similarity of game making pedagogies and that of digital making and broader study of media literacy. This section attempts to stay focused on game making where possible but widens domain if relevant to the questions of community approaches.
-
-- Broader definition of CT, computational fluency / computational participation.
-- UMC / Remixing  - Half-baked games
-
-
-
-#### Also See this writing and adapt
-chapters/planning/lit review/game making/overview of gamemaking studies part one/overview_of_gamemaking_studies_v6 (002) + CL.docx.md
 
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
@@ -205,26 +186,26 @@ chapters/planning/lit review/game making/overview of gamemaking studies part one
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
+## Computation Thinking as an pedagogical framework
 
-### Definitions of Computational Thinking
+### Situating Computational thinking within curricular concerns
 
-The promotion of Computational Thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking (CT). The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instances, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
+
+The promotion of Computational Thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking (CT). The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instan#ces, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
 
 Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
 
 - _Computational concepts_ include sequences,
-loops, parallelism, events, conditionals, operators, and data; thus representing the mechanics of coding structures.
+loops, parallelism, events, conditionaluma; thus representing the mechanics of coding structures.
 - _Computational practices_ include debugging, iteration, reuse and remixing, and abstracting and taking a modular approach.
 - _Computational perspectives_ such as expressing, questioning connecting were observed in the behaviour of learners completing their coding designs.
 
 This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
 
-This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum. As such, it may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
+This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curiculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
 
 
-#### Can CT be used as an pedagogical framework
-
-NOTE - PARTS OF THIS WILL LIVE IN LIT REVIEW.
+### Studies exploring CT as an pedagogical framework to support learning computer coding
 
 The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
@@ -232,7 +213,32 @@ Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narr
 
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
+## PRIMM, Semantic Waves and pushing the abstract
 
+### PRIMM
+
+FIND MATERIAL IN OTHER BOOK CHAPTERS
+
+PRIMM addresses the perceived need for  structured and explicit approach to teaching computing concepts and is particularly aimed at a school setting [@sentance_teaching_2019].
+
+
+**PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This model helps learners adopt coding practices and computational concepts through providing a concrete code example that they run after predicting what it does. Learners make changes to the existing code before finally creating code from scratch. PRIMM's starting point is students predicting existing code results. Asking students to identify target computing concepts in code examples allows teachers to guide students towards key computational thinking process or algorithmic details. Thus, PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class of learners to unpack and repack the same set of concepts in a restricted time scale. This process that supports formal problem solving, paper-based questions of the GCSE exams. The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. For a more detailed summary of the PRIMM approach the Quick Read pedagogy article.[^5]
+
+
+Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
+
+In proposing PRIMM Sentence et al  highlights a deficit of exploration based approaches of Papert and constructionism proposed by Grover
+[-@sentance_teaching_2019, p. 5]
+
+However, given the importance of explicit instruction of concepts, it seems lacking then that there is no guidance on what  concepts should be best explored via this pedagogy.
+
+A similar observation can be made of a linked pedagogy that of semantic waves which uses an example of algorithms in one research process but again does not link to an underlying framework of "complex" concepts to illustrate.
+
+We can turn to the UK curriculum perhaps for guidance.
+
+THIS COUDL BE PUT BEFORE CT - AND THEN CT IS EXPLPORED AS A FRAMEWORK OF CONCEPTS - THEN A PEDAGOGY
+
+DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE 
 
 ### Semantic Profiles and Waves
 
@@ -320,15 +326,6 @@ In a study where students use a block based language to develop simulations - th
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
 
-
-### PRIMM
-
-FIND MATERIAL IN OTHER BOOK CHAPTERS
-
-**PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This model helps learners adopt coding practices and computational concepts through providing a concrete code example that they run after predicting what it does. Learners make changes to the existing code before finally creating code from scratch. PRIMM's starting point is students predicting existing code results. Asking students to identify target computing concepts in code examples allows teachers to guide students towards key computational thinking process or algorithmic details. Thus, PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class of learners to unpack and repack the same set of concepts in a restricted time scale. This process that supports formal problem solving, paper-based questions of the GCSE exams. The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. For a more detailed summary of the PRIMM approach the Quick Read pedagogy article.[^5]
-
-
-Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
 
 #### Microworlds as an embodiment of UMC and other constructionist design principles
 <!-- (generated by chat gpt) -->
