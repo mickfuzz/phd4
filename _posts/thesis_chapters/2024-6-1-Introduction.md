@@ -208,13 +208,22 @@ While I was drawn to the possibilities offered by a new technologies and the rea
 A role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue
 creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work.
 
-## Academic and Conceptual Contexts
+### Transition
 
-### Revisiting my experiences and aims in relation to my PhD process and the aims of this research
+My engage with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work.
 
-My engage with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work. Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture.
+Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture.
 
 At this point I applied to undertake a PhD with Education and Social Research Institute of Manchester Metropolitan University (ESRI) with game making with families as the topic for activity.
+
+Key characteristics, involve the process of making games via coputer coding. together as a family. As well as the process of learning a useful technical skill, I was also interested the mutual process of designing an inclusive learning design that drew on participants interests. I wanted to use a project based approach which avoided instruction and allowed participants to follow diverse paths and be part of a slightly chaotic but productive learning community.
+
+Because previous experience had made me wary of previous experience of embracing technology opportunities and suffering from unintended consequences I was keen to choose an approach which allowed for a careful examination of context and motivations.  
+
+In this introductory chapter, I briefly outline the use of AT and agency and methodology approaches. I also outline contextual factors of some of the areas of activity where the learning approach studied may be relevant.
+
+
+## Academic and Conceptual Contexts
 
 #### The complex role of agency in this thesis
 
@@ -344,11 +353,9 @@ But the effectiveness of this  is limited in teh following ways. Time, enthusias
 
 #### Research / University context
 
-University partnership context.
-Service learnings
+University partnership context. Service learnings.
 
-Examples like Scratch with MiT
-Barefoot computing which was Kent?
+Examples like Scratch with MiT. Barefoot computing which was Kent?
 
 Service learning to support code clubs
 
