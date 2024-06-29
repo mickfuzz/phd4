@@ -289,10 +289,8 @@ RQ2 explores this with a focus on the use of game design patterns, a concept use
 
 ## Context of teaching and learning coding via game making
 
-
+GAP IN THE RESEARCH - MOVE?
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
-
-
 
 
 
@@ -300,44 +298,38 @@ While there has been a large body of research on the value and practice of game 
 
 <!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
 
-Motivations for learning to code specifically via game making are diverse
+**Who should read this thesis?**
 
-- STEM pipeline in more general terms
-- Getting more people to take Computing qualifications. NCCE
-- for intrinsic pleasure of making games or other products
-- for commercial purposes to join games industry
-- for empowerment of individual and health of society
+Given the overall direction of this thesis, who is the intended audience? While the participants are home educators, other areas of education may benefit from the answers to these questions.
 
+- parents and families
+- teachers
+- Researchers in computing education
+- informal educators
+- In addition my experience of the process, research and generative, action research   
+
+My experience of having the rug pulled out from underneath me after volunteering my time and energy in various projects motivates me to examine the characteristics streams of activity carefully. Thus the following analysis of the sites of interest cover not only educational programs but based on underlying funding and the motivations of funders.
+
+Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice.
+
+The following sections therefore explore diverse motivations for learning to code specifically via game making or an informal making culture.
+
+- Learning coding and related digital skills to progress to join the commercial games industry
+- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
+- Parents motivations to develop individual useful skills in young peoples.
+- Game making for intrinsic pleasure of making games or similar projects that are celebrated
+- for empowerment of individual and health of society as consumers of technology
 
 <!-- also
-
     - From Kafai's review (not directly) draw on
     - personal
     - more general / social / 21st C, computational fluency
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
-**Who should read this thesis?**
 
-Given these motivations and the overall direction of this thesis. Who is the intended audience?
 
-- teachers
-- Researchers in computing education
-- informal educators
-
-Beyond in terms of the process, research and generative.  
-
-### What are the financial models which support activities in this area?
-
-**Exploring Financial models and sources of funding for game making programmes and tools**
-
-My focus here is to be sceptical of the positivist science agenda. Which follows from previous fingers burning experiences.
-
-This mirrors scepticism of the Maker movement and associated problems with the link with industry
-
-[@vossoughi_making_2016] see critique of maker movement here
-
-#### Funding and financial models for promoting Computing in Schools
+#### Funding and financial models for promoting Computing in Schools - INTEGRATE INTO LATER SECTION
 
 STEM Learning NCCE - teachcomputing.org - How did this develop?  
 
@@ -393,12 +385,20 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 
 ## Context of digital making and culture in informal settings
 
-The context of these communities is important to situate the relevance of this study. These contexts are explored in summary.
+The context of informal communities is important to situate in summary.
 
-While key pedagogies used in this area are explored in chapter two, at times context and pedagogy are not neatly separated. Thus in this section brief summaries of strategies are sometimes included to be explored in more depth in Chapter 2.
+Making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
 
 
-### Defining and conceptualising informal education
+In this study the focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation, originated in non-school settings, is helpful.   
+
+<!-- However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016. -->
+
+
+### Defining and conceptualising informal education REDUCE A LOT
 
 **on Informal Education Pedagogies**
 
@@ -414,24 +414,73 @@ Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2
 
 Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
 
-#### Informal, participatory, digital and gaming communities
+
+
+### On Gaming as a home and informal culture
+
+The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
+
+Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
+
+One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
+
+What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
+
+Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
+due to the limited capabilities of the hardware and storage space involved.
+
+### Home making and consuming of media
+
+
+Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
+
+In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
+
+
+Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
+
+
+Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
+
+
+
+### Context of Home Education and family learning
+
+The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
+
+Many professional programmers began with support provided by family.
+
+Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality.
+
+However the practical and and cultural difficulties of undertaking a project-based approach withing the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
+
+In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
+
+**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics and motivations of the networks and families that I tapped into.
+
+- Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
+- Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
+
+
+
+
+### Work by third spaces to draw on home interests
+
+TRANSITION TO NEXT SECTION
 
 Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
 
-The focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation was originated in non-school settings and younger age ranges.  
-
-However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016.
+The work aligns with STEM work on tinkering which mobilises home interests in non-formal settings.
 
 
 
-### Context of authenticity of tools, practices and relationship with agency and empowerment
 
-Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016]. In this introduction I refer making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
+## Game making and authentic web coding to develop  empowerment
 
-In additions, the practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
+<!-- Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016].  -->
+
+
+The practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
 
 **Authentic web technology**
 
@@ -448,6 +497,11 @@ In the early selection of tools the use of a framework based on javascript and w
 **Mozilla - Teach the Web as context and community**
 
 A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
+
+In 2011 I co-wrote an open web.
+
+ A co writer  Michelle Thorne went on to work with Mozilla as part of their teach the web adn web literacy programme.
+https://michellethorne.cc/2015/03/clubs-web-literacy-basics-curriculum/
 
 The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology. My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
 
@@ -485,60 +539,6 @@ Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser i
 #### Summary of authenticity- COMMENT OR MOVE
 
 Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike. -->
-
-
-
-## Digital gaming and making culture
-
-
-
-
-Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
-
-
-
-Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
-
-### On  Gaming
-
-The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
-
-Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
-
-
-One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
-
-What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
-
-Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
-due to the limited capabilities of the hardware and storage space involved.
-
-
-
-### Home making and consuming of media
-
-
-Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
-
-In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
-
-
-## Context of Home Education and family learning
-
-The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
-
-Many professional programmers began with support provided by family.
-
-Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality.
-
-However the practical and and cultural difficulties of undertaking a project-based approach withing the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
-
-In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
-
-**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics and motivations of the networks and families that I tapped into.
-
-- Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
-- Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
 
 
 
