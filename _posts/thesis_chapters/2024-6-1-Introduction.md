@@ -338,18 +338,7 @@ The following sections therefore explore diverse motivations for learning to cod
 
 
 
-#### Funding and financial models for promoting Computing in Schools - INTEGRATE INTO LATER SECTION
-
-STEM Learning NCCE - teachcomputing.org - How did this develop?  
-
-Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
-
-CAS are supported by BCS and direct help from gov? The grass roots resource creation .
-
-Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
-
-Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
-But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
+#### Funding and financial
 
 #### Research / University context
 
@@ -369,43 +358,9 @@ Mozilla as benefit for the teach the web.
 
 Corporate funding code.org. (Google)
 
-## Context of game making for curricular purposes
-
-The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
-
-### Computing as a School Subject in the UK
-
-The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
 
-<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
-A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
-BUT NOT TOO MUCH
-While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
-<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
-https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
--->
-
-
-## Context of digital making and culture in informal settings
-
-The context of informal communities is important to situate in summary.
-
-Making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
-
-
-In this study the focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation, originated in non-school settings, is helpful.   
-
-<!-- However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016. -->
-
-
-### Defining and conceptualising informal education REDUCE A LOT
+## Defining and conceptualising - formal, home and third space contexts
 
 **on Informal Education Pedagogies**
 
@@ -420,6 +375,68 @@ Gerber define formal learning as that which happens in school and informal learn
 Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
 
 Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
+
+## Game making and coding and in schools and formal education
+
+The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
+
+### Coding and Computing as a School Subject in the UK
+
+The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
+
+- New curriculum
+- bursaries
+- CPD
+- CAS and community responses
+- tapping into the enthusiast maker culture
+
+**Finance models for promoting Computing in Schools**
+
+STEM Learning NCCE - teachcomputing.org - How did this develop?  
+
+Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
+
+CAS are supported by BCS and direct help from gov? The grass roots resource creation .
+
+Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
+
+Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
+But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
+
+**Games in Schools**
+
+The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+
+
+
+
+
+
+<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+BUT NOT TOO MUCH
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
+<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
+https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
+-->
+
+
+## Context of game making and wider digital making and culture home and informal settings
+
+The context of informal communities is important to situate in summary.
+
+Making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.  
+
+
+In this study the focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation, originated in non-school settings, is helpful.   
+
+<!-- However, the concept has been used to analyse participation in non-formal and formal settings.
+The following studies are relevant:
+
+- guided participation framed in media literacy @aarsand_appropriation_2016. -->
+
 
 
 
@@ -471,6 +488,14 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 
 
 
+
+## Game making and maker culture in third learning spaces
+
+Third space here is broadly interpreted as a non-formal context. 
+
+<!-- Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016].  -->
+
+
 ### Work by third spaces to draw on home interests
 
 TRANSITION TO NEXT SECTION
@@ -479,12 +504,6 @@ Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schw
 
 The work aligns with STEM work on tinkering which mobilises home interests in non-formal settings.
 
-
-
-
-## Game making and authentic web coding to develop  empowerment
-
-<!-- Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016].  -->
 
 
 The practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
