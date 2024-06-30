@@ -34,8 +34,10 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Defining and conceptualising - formal, home and third space
             contexts - SUMMARISE /
             COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
-            -   [Funding and financial dimesions of contexts - MERGE
-                DOWN?](#funding-and-financial-dimesions-of-contexts---merge-down)
+            -   [Funding and financial dimensions of contexts - MERGE
+                DOWN?](#funding-and-financial-dimensions-of-contexts---merge-down)
+        -   [Summary of Conceptual
+            Context](#summary-of-conceptual-context)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
@@ -83,9 +85,8 @@ title: 1. Introduction - What kind of game maker are you?
                 cultures](#barrier---identity-and-computer-cultures)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Studies informing cultural barriers / aspects of game
-            making - MOVE EVIDENCE - INCLUDE ONLY CONTEXT /
-            BARRIERS](#studies-informing-cultural-barriers-aspects-of-game-making---move-evidence---include-only-context-barriers)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
     -   [Case Study as example: Digital Braves as a small MoE / 5D
         project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
     -   [Summary of the thesis motivation and

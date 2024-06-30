@@ -61,6 +61,8 @@
                 students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
     -   [Studies working to address barriers concerning
         identity](#studies-working-to-address-barriers-concerning-identity)
+        -   [Game making studies addressing gender and
+            race](#game-making-studies-addressing-gender-and-race)
         -   [5th Dimension Case Study](#th-dimension-case-study)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
