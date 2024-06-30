@@ -22,40 +22,55 @@ title: 1. Introduction - What kind of game maker are you?
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
+        -   [Transition](#transition)
     -   [Academic and Conceptual
         Contexts](#academic-and-conceptual-contexts)
-        -   [Revisiting my experiences and aims in relation to my PhD
-            process and the aims of this
-            research](#revisiting-my-experiences-and-aims-in-relation-to-my-phd-process-and-the-aims-of-this-research)
-            -   [The complex role of agency in this
-                thesis](#the-complex-role-of-agency-in-this-thesis)
-            -   [Sketchy pedagogies](#sketchy-pedagogies)
-    -   [Context of teaching and learning coding via game
-        making](#context-of-teaching-and-learning-coding-via-game-making)
-        -   [Overview and motivations of game making (for
-            learning)](#overview-and-motivations-of-game-making-for-learning)
-    -   [Context of game making for curricular
-        purposes](#context-of-game-making-for-curricular-purposes)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
-    -   [Context of digital making and culture in informal
-        settings](#context-of-digital-making-and-culture-in-informal-settings)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
-        -   [Context of authenticity of tools, practices and
-            relationship with agency and
-            empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)
-            -   [Code playgrounds](#code-playgrounds)
-    -   [Digital gaming and making
-        culture](#digital-gaming-and-making-culture)
-        -   [On Gaming (move to a gaming cultures section?
-            )](#on-gaming-move-to-a-gaming-cultures-section)
+        -   [The complex role of agency in this
+            thesis](#the-complex-role-of-agency-in-this-thesis)
+        -   [Sketchy pedagogies](#sketchy-pedagogies)
+        -   [Overview and motivations of game making (for learning) -
+            and who should read this
+            thesis](#overview-and-motivations-of-game-making-for-learning---and-who-should-read-this-thesis)
+        -   [Defining and conceptualising - formal, home and third space
+            contexts - SUMMARISE /
+            COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
+            -   [Funding and financial dimesions of contexts - MERGE
+                DOWN?](#funding-and-financial-dimesions-of-contexts---merge-down)
+    -   [Game making and coding and in schools and formal
+        education](#game-making-and-coding-and-in-schools-and-formal-education)
+        -   [Coding and Computing as a School Subject in the
+            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+    -   [Context of game making and wider digital making and culture
+        home and informal
+        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
+        -   [On Gaming as a home and informal
+            culture](#on-gaming-as-a-home-and-informal-culture)
         -   [Home making and consuming of
             media](#home-making-and-consuming-of-media)
-    -   [Context of Home Education and family
-        learning](#context-of-home-education-and-family-learning)
+        -   [Context of Home Education and family
+            learning](#context-of-home-education-and-family-learning)
+    -   [Game making and maker culture in non-formal learning contexts
+        and third
+        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
+        -   [Physical spaces which suit non-formal
+            approaches](#physical-spaces-which-suit-non-formal-approaches)
+        -   [Funds of knowledge and third
+            space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Game making as a fund of
+            knowledge](#game-making-as-a-fund-of-knowledge)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+        -   [Work in non-formal settings drawing on home
+            interests](#work-in-non-formal-settings-drawing-on-home-interests)
+        -   [Mozilla - Teach the Web as context and
+            community](#mozilla---teach-the-web-as-context-and-community)
+        -   [Authentic web technology & Code
+            playgrounds](#authentic-web-technology-code-playgrounds)
+            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
+                MERGE
+                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -69,19 +84,8 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
         -   [Studies informing cultural barriers / aspects of game
-            making](#studies-informing-cultural-barriers-aspects-of-game-making)
-        -   [Financial Barriers - Funding sustainable
-            programmes](#financial-barriers---funding-sustainable-programmes)
-            -   [School context](#school-context)
-            -   [University context](#university-context)
-    -   [Funds of knowledge and third
-        space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
-        -   [Game making as a fund of
-            knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
+            making - MOVE EVIDENCE - INCLUDE ONLY CONTEXT /
+            BARRIERS](#studies-informing-cultural-barriers-aspects-of-game-making---move-evidence---include-only-context-barriers)
     -   [Case Study as example: Digital Braves as a small MoE / 5D
         project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
     -   [Summary of the thesis motivation and
@@ -97,7 +101,6 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Chapter outline](#chapter-outline)
         -   [Link to next chapter](#link-to-next-chapter)
     -   [Links](#links)
-
 
 # Introduction - “What kind of Game Maker are you?”
 
@@ -225,7 +228,7 @@ In this introductory chapter, I briefly outline the use of AT and agency and met
 
 ## Academic and Conceptual Contexts
 
-#### The complex role of agency in this thesis
+### The complex role of agency in this thesis
 
 My personal context illustrates several examples of the structure and agency debate [@bazerman_structure_2003]. A tangential but important motivation is to make sense of this experience in philosophical terms.
 
@@ -256,7 +259,7 @@ My personal context is an example that changes happening within one system may c
 <!-- While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters. -->
 
 
-#### Sketchy pedagogies
+### Sketchy pedagogies
 
 The messiness and sketchiness of my preferred  learning experience were also somehow important for me to preserve and to investigate as part of this study. This is present in the mutually evolving nature of the methodology of the study, as represented in design based learning.  
 
@@ -272,34 +275,15 @@ RECAP ON THE PROMISE HERE - AND SIGNPOST TO LATER CHATPERS.
 
 SUMMARY OF PROMISE OF DBR TO REFLECT SKETCHYNESS
 
-**Summary of Conceptual Context**
 
-New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
-
-Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
-
-CHAT is optimistic but realistic in the focus on the possibility of change.
-
-However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
-
-This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
-
-RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
 
 <!-- I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition. -->
 
-
-
 <!-- This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. -->
 
 
-## Context of teaching and learning coding via game making
 
-GAP IN THE RESEARCH - MOVE?
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
 
 
 
@@ -338,29 +322,11 @@ The following sections therefore explore diverse motivations for learning to cod
 
 
 
-#### Funding and financial
-
-#### Research / University context
-
-University partnership context. Service learnings.
-
-Examples like Scratch with MiT. Barefoot computing which was Kent?
-
-Service learning to support code clubs
-
-#### Civil society  context
-
-Charitable foundations funding provides a great deal of funding in this area.
-
-Scratch and MIT labs benefit from x.
-
-Mozilla as benefit for the teach the web.
-
-Corporate funding code.org. (Google)
 
 
 
-## Defining and conceptualising - formal, home and third space contexts
+
+### Defining and conceptualising - formal, home and third space contexts - SUMMARISE /  COMPRESS
 
 **on Informal Education Pedagogies**
 
@@ -376,6 +342,46 @@ Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2
 
 Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
 
+#### Funding and financial dimensions of contexts - MERGE DOWN?
+
+Each context
+
+**Research / University context**
+
+University partnership context. Service learnings.
+
+Examples like Scratch with MiT. Barefoot computing which was Kent?
+
+Service learning to support code clubs
+
+**Civil society  context**
+
+Charitable foundations funding provides a great deal of funding in this area.
+
+Scratch and MIT labs benefit from x.
+
+Mozilla as benefit for the teach the web.
+
+Corporate funding code.org. (Google)
+
+
+### Summary of Conceptual Context
+
+REVISE THIS A LOT - RETHINK
+
+New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
+
+Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
+
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+CHAT is optimistic but realistic in the focus on the possibility of change.
+
+However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+
+This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+
+RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
 ## Game making and coding and in schools and formal education
 
@@ -489,28 +495,89 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 
 
 
-## Game making and maker culture in third learning spaces
-
-Third space here is broadly interpreted as a non-formal context. 
-
-<!-- Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016].  -->
+## Game making and maker culture in non-formal learning contexts and third spaces
 
 
-### Work by third spaces to draw on home interests
+### Physical spaces which suit non-formal approaches
 
-TRANSITION TO NEXT SECTION
+Much research on game making focused on non-class room settings.
+
+For example Papert's work
 
 Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schwan_understanding_2014]
 
+
+
+### Funds of knowledge and third space
+
+
+The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
+
+In the original study home visits were carried out to better inform design of after-school activities.
+
+However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
+
+The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
+
+### Third spaces and the context of this study
+
+PERHAPS THIS IS METHODOLOGY? MOVE?
+
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
+
+It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
+
+### Game making as a fund of knowledge
+
+Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
+
+Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
+
+Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
+
+
+#### Play circles and MOE as a third space
+
+The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
+
+A foundation of link between between play theory, MOE and third space theory.
+
+A detailed analysis is beyond remit of this review but broad alignments include:
+- use of concept of a new creative space for all participants
+- use of mediated strategies to reduce learner stress
+- ability to bring self identify to share in a scaffolded and protected way
+
+
+
+### Work in non-formal settings drawing on home interests
+
 The work aligns with STEM work on tinkering which mobilises home interests in non-formal settings.
-
-
 
 The practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
 
-**Authentic web technology**
 
 
+### Mozilla - Teach the Web as context and community
+
+A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity.
+
+In 2011 I co-wrote an open web collaboratively with other authors as part of a collaborative writing process called Book Sprint (model on code sprints and other corroborative  processes). One of the co-writer Michelle Thorne went on to work with Mozilla as part of their teach the web and web literacy programme. One of her posts is a good illustration of the kinds of activities drawing on home interests to explore authentic web technologies, and some of the digital literacy elements needed to be an effective citizen of the web. https://michellethorne.cc/2015/03/clubs-web-literacy-basics-curriculum/
+
+The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled my own early experiences of self-expression through hacking a new technology.
+
+Like Michelle, my path had shifted towards a younger audience.  
+
+As part of my PGCE studies I developed some teaching materials for the Mozilla Foundation as part of the Teach the Web programme. I write a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].
+
+My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
+
+
+ <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
+- web literacy - narrower
+- webmaker - and more specific affordances of key web based coding and exploring tools -->
+
+
+### Authentic web technology & Code playgrounds
 <!-- Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework.  -->
 
 <!-- Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. -->
@@ -518,28 +585,11 @@ The practices of code patching and remixing are authentic skills used by profess
 
 <!-- Aligning with the activities of Nicola Whitton exploring the rules and components of games in a playful way. -->
 
+Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016].
+
 In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. The motivation was to align to authentic web technology due to my previous experience. The reason for working with code this authentic bears exploration. Characteristics of broader dimensions of authenticity of tools and processes in learning environments are explored in the literature review. A brief summary being: similarity to workplace settings; facilitating activity which serves a need of participants; an ability to showcased resulting work to an audience [@shaffer_thick_1999; @warr_bridging_2020]. While my choice of open source digital tools allowed for a high level of aligning with professional practices, it was also potentially complex in terms of use of tools. In part my motivation for choice of code language (Javascript, Phaser) was driven by desire to align with common workplace practices and to be potentially extensible for future student-led web projects.
 
-**Mozilla - Teach the Web as context and community**
-
-A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. My own work in this area has been informed by work developing teaching materials for the Mozilla Foundation as part of the Teach the Web programme.
-
-In 2011 I co-wrote an open web.
-
- A co writer  Michelle Thorne went on to work with Mozilla as part of their teach the web adn web literacy programme.
-https://michellethorne.cc/2015/03/clubs-web-literacy-basics-curriculum/
-
-The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled  my own early experiences of self-expression through hacking a new technology. My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
-
-
-
- <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
-- web literacy - narrower
-- webmaker - and more specific affordances of key web based coding and exploring tools -->
-
-I contributed to the Mozilla teach the web programme by writing a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].  
-
-#### Code playgrounds
+#### Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND MERGE UP
 
 Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
 
@@ -678,118 +728,40 @@ While home education support practices of families are expressed in this setting
 
 
 
-
-
-### Studies informing cultural barriers / aspects of game making - MOVE EVIDENCE - INCLUDE ONLY CONTEXT / BARRIERS
-
-Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. This observation may stem in part from a lack of concepts in constructionism to describe cultural elements of learning environments.
-
-
-  **Studies exploring identity and barriers to participation**
-
-  Game making is thus a suitable mediumn to support existing collaborative practices and home interests to overcome difficulties in computer coding.
-
-  Issues of identities and barriers have been explored in relation to gender in terms of game making in several studies.
-  REWRITE WITH CORRECT CITATIONS - ALSO INCLUDE THE GAME TESTERS OF BLACK STUDENTS.   
-
-  **Gender related identities**
-
-  The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies Denner, 2007). Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-  The issues of gender stereo-typing and identity in relation to computers were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008).
-
-  <!-- Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-  Kafai and Burke also address the issues of gender identities and game design 2014). They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
-
-
-  - girl's low self-confidence in the area of computing compared to their ability [@beyer_gender_2003; @margolis_unlocking_2002]
-
-  **Research**
-  Extensive research by Roberson on game making in schools measured gender differences in performance and attitudes to game making and computing in pre post tests [@robertson_making_2012; @robertson_influence_2013].  
-
-  The findings were mixed as while girls outperformed boys in use of computational structures, neither gender ended the programme with a greater desire to learn more about computers in the future.
-
-  The Girls Creating Games programme which asked similar questions concerning the impact of a Flash-based game programme on computer proficiency and desire to continue with computer studies [@denner_girls_2007] . Findings were again mixed but encouraging in some areas. While there was no increase in desire to persue computing, there were marked increases in computer related confidence, ability and a decrease in gender stereo typing around computer use.
-
-  - Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-  - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-  <!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-  Research on making computing inclusive highlights the value personal expression within the process as a motivational factor [@robertson_making_2012; @robertson_adventure_2007].  
+### Outlining  cultural barriers / aspects of game making
 
 
 
-  **Race related identities**
-
-  In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-      Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-  I adopt a similar approach but use the language of AT contradictions, barriers and tensions.
-
-  Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+The following studies are explored future in LR. Here I surface cultural barriers experienced by participants.
 
 
+**Gender  related identities**
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
 
-  **Other Non-dominant identities**
-
-  Shift to other tactics like Family Connected Learning Roque.
-
-
-
+<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
 
 
-## Funds of knowledge and third space
+**Race related identities**
 
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
 
-The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
 
-In the original study home visits were carried out to better inform design of after-school activities.
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
 
-However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
+**Outro**
 
-The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
-
-#### Third spaces and the context of this study
-
-PERHAPS THIS IS METHODOLOGY? MOVE?
-
-The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
-
-It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
-
-### Game making as a fund of knowledge
-
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
-
-Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-
-#### Play circles and MOE as a third space
-
-The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
-
-A foundation of link between between play theory, MOE and third space theory.
-
-A detailed analysis is beyond remit of this review but broad alignments include:
-- use of concept of a new creative space for all participants
-- use of mediated strategies to reduce learner stress
-- ability to bring self identify to share in a scaffolded and protected way
-
-
-
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE]. Other approaches exist - AT etc .
 
 
 ## Case Study as example: Digital Braves as a small MoE / 5D project
 
-Insert a summary of Digital Braves - link to republication version.  
+Digital Braves was a short project which culminated in a session
 
+A product of partnership work at university. Aligning the potential needs of home educated families with exploration of uncomfortable digital issues. It drew on the expertise of the drama department in Manchester Met school of eduction.
 
+It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology.
 
 
 
@@ -821,6 +793,9 @@ Quote from [@franklin_analysis_2020]
 
 
 ### Gaps in existing research / Contribution to knowledge of this thesis
+
+
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
 
 
 Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]

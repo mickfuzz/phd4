@@ -11,40 +11,55 @@
     -   [Introduction to broad context](#introduction-to-broad-context)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
+        -   [Transition](#transition)
     -   [Academic and Conceptual
         Contexts](#academic-and-conceptual-contexts)
-        -   [Revisiting my experiences and aims in relation to my PhD
-            process and the aims of this
-            research](#revisiting-my-experiences-and-aims-in-relation-to-my-phd-process-and-the-aims-of-this-research)
-            -   [The complex role of agency in this
-                thesis](#the-complex-role-of-agency-in-this-thesis)
-            -   [Sketchy pedagogies](#sketchy-pedagogies)
-    -   [Context of teaching and learning coding via game
-        making](#context-of-teaching-and-learning-coding-via-game-making)
-        -   [Overview and motivations of game making (for
-            learning)](#overview-and-motivations-of-game-making-for-learning)
-    -   [Context of game making for curricular
-        purposes](#context-of-game-making-for-curricular-purposes)
-        -   [Computing as a School Subject in the
-            UK](#computing-as-a-school-subject-in-the-uk)
-    -   [Context of digital making and culture in informal
-        settings](#context-of-digital-making-and-culture-in-informal-settings)
-        -   [Defining and conceptualising informal
-            education](#defining-and-conceptualising-informal-education)
-            -   [Informal, participatory, digital and gaming
-                communities](#informal-participatory-digital-and-gaming-communities)
-        -   [Context of authenticity of tools, practices and
-            relationship with agency and
-            empowerment](#context-of-authenticity-of-tools-practices-and-relationship-with-agency-and-empowerment)
-            -   [Code playgrounds](#code-playgrounds)
-    -   [Digital gaming and making
-        culture](#digital-gaming-and-making-culture)
-        -   [On Gaming (move to a gaming cultures section?
-            )](#on-gaming-move-to-a-gaming-cultures-section)
+        -   [The complex role of agency in this
+            thesis](#the-complex-role-of-agency-in-this-thesis)
+        -   [Sketchy pedagogies](#sketchy-pedagogies)
+        -   [Overview and motivations of game making (for learning) -
+            and who should read this
+            thesis](#overview-and-motivations-of-game-making-for-learning---and-who-should-read-this-thesis)
+        -   [Defining and conceptualising - formal, home and third space
+            contexts - SUMMARISE /
+            COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
+            -   [Funding and financial dimesions of contexts - MERGE
+                DOWN?](#funding-and-financial-dimesions-of-contexts---merge-down)
+    -   [Game making and coding and in schools and formal
+        education](#game-making-and-coding-and-in-schools-and-formal-education)
+        -   [Coding and Computing as a School Subject in the
+            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+    -   [Context of game making and wider digital making and culture
+        home and informal
+        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
+        -   [On Gaming as a home and informal
+            culture](#on-gaming-as-a-home-and-informal-culture)
         -   [Home making and consuming of
             media](#home-making-and-consuming-of-media)
-    -   [Context of Home Education and family
-        learning](#context-of-home-education-and-family-learning)
+        -   [Context of Home Education and family
+            learning](#context-of-home-education-and-family-learning)
+    -   [Game making and maker culture in non-formal learning contexts
+        and third
+        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
+        -   [Physical spaces which suit non-formal
+            approaches](#physical-spaces-which-suit-non-formal-approaches)
+        -   [Funds of knowledge and third
+            space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Game making as a fund of
+            knowledge](#game-making-as-a-fund-of-knowledge)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+        -   [Work in non-formal settings drawing on home
+            interests](#work-in-non-formal-settings-drawing-on-home-interests)
+        -   [Mozilla - Teach the Web as context and
+            community](#mozilla---teach-the-web-as-context-and-community)
+        -   [Authentic web technology & Code
+            playgrounds](#authentic-web-technology-code-playgrounds)
+            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
+                MERGE
+                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -58,19 +73,8 @@
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
         -   [Studies informing cultural barriers / aspects of game
-            making](#studies-informing-cultural-barriers-aspects-of-game-making)
-        -   [Financial Barriers - Funding sustainable
-            programmes](#financial-barriers---funding-sustainable-programmes)
-            -   [School context](#school-context)
-            -   [University context](#university-context)
-    -   [Funds of knowledge and third
-        space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
-        -   [Game making as a fund of
-            knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
+            making - MOVE EVIDENCE - INCLUDE ONLY CONTEXT /
+            BARRIERS](#studies-informing-cultural-barriers-aspects-of-game-making---move-evidence---include-only-context-barriers)
     -   [Case Study as example: Digital Braves as a small MoE / 5D
         project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
     -   [Summary of the thesis motivation and
