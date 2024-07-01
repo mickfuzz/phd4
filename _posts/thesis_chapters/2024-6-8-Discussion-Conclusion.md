@@ -142,17 +142,19 @@ The working draft of this chapter now merges a proposed discussion chapter with 
 
 ### Initial Discussion  Outline
 
-- Discussion around agency: Compare agency in design to different conception in research Tads sannino, relational etc
+
 - Analyse 3M design with this lens of agency
   - Game design to understanding games as a design artefact for empowerment purposes
   - Tension between walled garden and wider choice
-Compare key elements of 3M other studies in comping coding domain , primm, umc,
-  - shifts in levels of abstraction
+- sCompare key elements of 3M other studies in comping coding domain , primm, umc,
+
+      - shifts in levels of abstraction
  Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
 
 
-  - Start with motives? address transfer?
-- Synthesis of conceptions of designing for learner agency in an emerging community of coders
+  - address transfer?
+-
+   Synthesis of conceptions of designing for learner agency in an emerging community of coders
   - compare Resnick / Paperts features of 'designing for tinkerability', with TADS and creating hooking points for double stimulation (warping anchors)
   - note different emphasis on the agency of the learner to one focusing on curriculum knowledge and resulting reccommendations
   - also compare concept of computational fluency of Resnick.
@@ -164,18 +166,9 @@ Compare key elements of 3M other studies in comping coding domain , primm, umc,
   - Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
     - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
     - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
-  - Synthesis of 3M model
   - Recap analysis of framework to facilitate designing for an emerging community of coders
     - Explore possibility to extend this to other domains
-  - Final caveats / reflections on research
     - Advantages and limitations of Home Education context
-  - Recommendations arising from this research
-      - Recommendations for facilitators
-      - Recommendations for researchers
-  - Related next steps for research
-    - Directly relevant next steps for research to address limitations
-    - Tangential next steps for research  
-      - Use of physical computing elements and embodied approaches
 
 
 
