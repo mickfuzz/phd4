@@ -188,23 +188,7 @@ Firstly by examining the research outputs of the study and discussion how they e
 
 
 ### Revisiting potential audiences for the research outputs of this study and how contexual factors may impact relevancy
-### Initial Conclusion  Outline
 
-  - Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
-    - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
-    - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
-  - Synthesis of 3M model
-  - Recap analysis of framework to facilitate designing for an emerging community of coders
-    - Explore possibility to extend this to other domains
-  - Final caveats / reflections on research
-    - Advantages and limitations of Home Education context
-  - Recommendations arising from this research
-      - Recommendations for facilitators
-      - Recommendations for researchers
-  - Related next steps for research
-    - Directly relevant next steps for research to address limitations
-    - Tangential next steps for research  
-      - Use of physical computing elements and embodied approaches
 Here I return to the material of introduction and contextual factors which impact utility of this research.
 
 - school settings
