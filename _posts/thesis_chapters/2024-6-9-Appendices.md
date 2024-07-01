@@ -76,6 +76,12 @@ title: Appendices
 
 # Appendices
 
+**On Structure of Appendices**
+
+Appendices are organised mainly by chapter. Thus AP 5.1 is is first mentioned in Chapter 5. 
+
+There are some technical appendices as well.
+And some stand alone activities and resources which may link out to online resources when appropriate.
 
 ## Chapter Five
 
