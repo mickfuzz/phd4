@@ -125,9 +125,11 @@ to come - for now see outline of thesis at the end of chapter
 * case studies
 
 
-## Research Questions - March 2024
+## Research Questions - April 2024
 
-1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
+
+1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of coding practices with novices?
 3. How can learners build agency in an evolving community of game makers?
 
@@ -173,9 +175,9 @@ In line educational research which highlights the important of learning contexts
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
 ##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space asOn 5 July 2024, a draft resit timetable will be shared with Heads of Department and Department Education Leads for review, with any comments to be returned by end of 10 July 2024.  part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
 
-In the 1990's I used to help organise unlicensed music events and festivals. In the and 2000's I did outreach for protest movement via film nights and website creation. In in the mid-nineties, when I first started publishing websites, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and activists. As someone involved with DIY music events and political activism, the growth of the internet offered huge potential. I got involved in activities of disparate political and cultural groups around environment activism and protests to counter international finance institution (IFIs). The need to network activities drove me to develop my internet publishing skills. To further this aim, I aligned myself with a broad network of media and internet activists centred around the Indymedia project [@pickard_united_2006].
+In the 1990's I used to help organise and promote unlicensed music events and festivals. Email and websites became important tools in this process and I was an enthusiast early adopter. In in the mid-nineties, when I first started publishing websites, the internet seemed to me almost free of corporate messages. It was a space for oddballs, niche enthusiasts and activists. In the 2000's I was involved outreach for environment activism and left-libertarian protests around unaccountable global institutions (WTO, IMF, G8). I used used film screenings and music events for outreach and email lists, websites and wikis for organising. I worked with Undercurrents video activism magasine to digitise their VHS magasine and publish them on the web [@heritage2008video]. Undercurrents became aligned with a broad network of media and internet activists clustered around the Indymedia project [@pickard_united_2006].
 
-There was a broad alignment with the non-hierarchical approach of these activist networks and the decentralised organising principles of the free software and free culture movements [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local  organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism.
+There was a broad alignment with the non-hierarchical approach of these activist networks and the decentralised organising principles of the free software and free culture movements [@lessig_free_2004]. The ethos and new uses of technology of these networks and was something that I wanted to share with local organisations. I developed a specialism in internet and media creation training and community development as paid activity to support my environmental and migrant-rights activism.
 
 <!-- I set up and ran three media centres from the period 2005 to 2009. The first at an Manchester city centre social centre and cafe, another for Community Arts Northwest and a third for People's Voice Media in Salford. I documented and promoted low-cost media and web production processes in as a member of with FLOSS Manuals and Transmission international networks. As part of this process I co-wrote A Open Web which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes. -->
 
@@ -476,6 +478,10 @@ Building on the concept of participatory culture [@jenkins_confronting_2009], wh
 
 
 ### Context of Home Education and family learning
+
+NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit
+
+
 
 The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
 

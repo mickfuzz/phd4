@@ -15,14 +15,6 @@ title: Appendices
 ## Chapter Four
 
 
-### Summary of tool used
-
-- Piskel - a graphical editor used to create pixel art sprite characters;
-- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
-- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
-- Sonic Pi - an education music application allowing the creation of music using text coding;
-- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
-- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
 
 
 ### Summary of Game Template structure
@@ -38,8 +30,6 @@ Game states and functions to create the game loop (see glossary) are included na
 
 
 ### Summary of interactive Bartle test.
-
-
 
 As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
 
@@ -296,3 +286,19 @@ The process of asking the aliens for technical help within a code project sparke
 This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
+
+
+### Learning Dimensions Map
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+Table 1.1. Learning Dimensions of the 3M Game Making Model

@@ -450,10 +450,12 @@ Describing different grades and pass overs of the video data.
 - themes of interest identified - in relation to evolving RQs as per DBR
 - some sections transcribed in more details based in themes, more detail on gesture analysis also added
 
+NOTE - this document outlines thoughts on existing framworks which could inform coding process.
+https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
 
 
 
-#### What was excluded from initial coding and why
+#### What was  excluded from initial coding and why
 
 The following themes  emerge as potential learning outcomes in the learning model, and were observed in interactions in stage one
 
