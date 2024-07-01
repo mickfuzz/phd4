@@ -9,99 +9,88 @@ layout: post
 categories: chapter
 title: Appendices
 ---
+-   [Appendices](#appendices)
+    -   [Chapter Five](#chapter-five)
+        -   [5.X - Vignette illustrative of Toby's on screen game making
+            activity and social
+            interaction](#x---vignette-illustrative-of-tobys-on-screen-game-making-activity-and-social-interaction)
+        -   [Vignette 5.1.a - Transcription of the introducing a drama
+            process in
+            P3](#vignette-5.1.a---transcription-of-the-introducing-a-drama-process-in-p3)
+            -   [Vignette 5.1.b - Session reflections and secret
+                missions in
+                P3](#vignette-5.1.b---session-reflections-and-secret-missions-in-p3)
+        -   [Commentary on Vignette
+            5.1.b](#commentary-on-vignette-5.1.b)
+            -   [Commentary on side
+                missions](#commentary-on-side-missions)
+            -   [Exploring documentation and accessing technical help
+                within the drama
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+            -   [Playful dialogue with the aliens unrelated to game
+                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
+        -   [APP 5.x - Learning Dimensions
+            Map](#app-5.x---learning-dimensions-map)
+        -   [Appendix 5.x - Summary of the tools and processes used in
+            P1, P2 and
+            P3.](#appendix-5.x---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
+            -   [Description of tools used](#description-of-tools-used)
+        -   [Appendix 5.x - Feedback from P1 participants
+            (extracts)](#appendix-5.x---feedback-from-p1-participants-extracts)
+        -   [Appendix 5.x - Dialogue of use of physical maps at the
+            start of session
+            X](#appendix-5.x---dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
+        -   [Appendix 5.x - Introducing documentation in drama
+            frame](#appendix-5.x---introducing-documentation-in-drama-frame)
+        -   [Appendix 5.x - Specialism emerging in interaction between
+            Molly and
+            Nadine](#appendix-5.x---specialism-emerging-in-interaction-between-molly-and-nadine)
+        -   [Appendix 5.x - Extract of interaction between Molly and
+            Sonia - Home interests and
+            Identities](#appendix-5.x---extract-of-interaction-between-molly-and-sonia---home-interests-and-identities)
+        -   [Appendix 5.x - Interview extract - Mark and Ed working with
+            home
+            interests](#appendix-5.x---interview-extract---mark-and-ed-working-with-home-interests)
+        -   [Appendix 5.x - 2019-05-08-te-da pt 1 - Transcript of
+            interaction between Dan and
+            Toby](#appendix-5.x---2019-05-08-te-da-pt-1---transcript-of-interaction-between-dan-and-toby)
+        -   [Appendix 4.R.x - Framework to support game analysis via
+            game elements - IS THIS ALREADY
+            INCLUDED?](#appendix-4.r.x---framework-to-support-game-analysis-via-game-elements---is-this-already-included)
+        -   [Appendix 5.R.x - Sketching towards a map to help
+            navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
+        -   [Appendix 5.x - Community norming in playtesting - DROP THIS
+            ONE
+            PERHAPS](#appendix-5.x---community-norming-in-playtesting---drop-this-one-perhaps)
+    -   [Technical Appendices](#technical-appendices)
+        -   [AP-T.x - A technical outline of Game Template
+            structure](#ap-t.x---a-technical-outline-of-game-template-structure)
+    -   [Holding Zone](#holding-zone)
+        -   [Discussion on Player types - moved from chapter
+            6](#discussion-on-player-types---moved-from-chapter-6)
+        -   [?? Summary of interactive Bartle test - IS THIS
+            NEEDED?](#summary-of-interactive-bartle-test---is-this-needed)
+
+
+
 
 # Appendices
 
-## Chapter Four
+
+## Chapter Five
 
 
 
 
-### Summary of Game Template structure
 
-Creating the project from first principles is relatively complex both semantically and practically. In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
-
-Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
-
-![](./Pictures/overview_of_structure_cropped.png){width=55%}
-
-4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
-
-
-
-### Summary of interactive Bartle test.
-
-As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
-
-I introduce a warm-up activity trialled in P2 where participants took part in an interactive the Bartle test (what kind of game player are you).  
-
-
-A Bartle test is ...
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
-
-
-It took the form of an as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-The process was adapted so players moved
-to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-<!-- #### Building Identities as Game Makers (dropped) -->
-
-<!-- NOTE - MAY NEED TO REWRITE to clearly precursor next chapter -->
-
-<!--
-in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
- -->
-
-<!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
-
-
-### Discussion on Player types - moved from chapter 6
-
-DATA REQUIRED FROM VIDEO!?
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990].
-
-I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-
-Limits of discussion findings - what to put in
-
-
-### Vignette featuring Toby's activity
+### 5.X - Vignette illustrative of Toby's on screen game making activity and social interaction
 
 The vignette is included as a principle appendix.
 
 https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
-### Vignettes of drama process
 
-
-#### Vignette 4.1.a - Introducing a drama process
+### Vignette 5.1.a - Transcription of the introducing a drama process in P3
 
 The participants have entered the room and chosen a laptop to work on. Some of the children play web-based games or reviewing the games that they have made previously. The session progresses with a warm-up game which includes many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure. The transcript below picks up at this point.
 
@@ -132,7 +121,7 @@ The participants have entered the room and chosen a laptop to work on. Some of t
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
 
 
-#### Vignette 4.1.b - Session reflections and secret missions
+#### Vignette 5.1.b - Session reflections and secret missions in P3
 
 This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
 
@@ -230,7 +219,7 @@ organiser
 > Mick: So that’s interesting. some people notice some people didn’t.
 
 
-### Commentary on Vignette 4.1.b
+### Commentary on Vignette 5.1.b
 
 
 #### Commentary on side missions
@@ -248,11 +237,7 @@ Full table of side missions.
 | Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
 
 
-
-
 In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
-
-
 
 
 Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children.
@@ -288,7 +273,7 @@ This chat began to fulfil a function of building  insider rapport, creating a fu
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
 
-### Learning Dimensions Map
+### APP 5.x - Learning Dimensions Map
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
@@ -302,3 +287,330 @@ The process started with supportive and celebratory messages posted from the ali
 | Input Event |   | Reusing and Remixing      |
 
 Table 1.1. Learning Dimensions of the 3M Game Making Model
+
+
+
+### Appendix 5.x  - Summary of the tools and processes used in P1, P2 and P3.
+
+Table - or short entries with screenshots.
+
+Phaser 2.6.2 javascript library
+Glitch code playground
+Incomplete game template
+Print out of cards with simple coding missions
+Online graphics editor Piskel.
+Audio editors, audacity,
+Updated incomplete game template
+Piskel online graphics editor
+Step by step tutorials on FLOSS manuals
+Drama scenario
+Interactive chat page in glitch
+
+
+#### Description of tools used
+
+- Piskel - a graphical editor used to create pixel art sprite characters;
+- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
+- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
+- Sonic Pi - an education music application allowing the creation of music using text coding;
+- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
+- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
+
+
+### Appendix 5.x  - Feedback from P1 participants (extracts)
+
+This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
+
+
+**End of course evaluation at show case for  P 1.**
+
+Find extracts from here
+https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
+
+**Journal Notes from P1**
+
+Find extract from my journal notes for P1 period
+
+
+### Appendix 5.x  - Dialogue of use of physical maps at the start of session X
+
+MOVE TO APPENDIX  - PULL OUT TWO PERHAPS.
+
+| **Transcript**| **Description**|
+|----------------|------------------|
+|Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  | Mick cuts a out an image from [^4] representing a GDP of key and doors.   |
+|  Olivia(c): So I've gone really far away on the map. <br/>   |  Olivia(c) quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker.  |
+| Mick(f): Yeah.  |  Mick smiles too whilst walking to get and glue another cut out. |
+|  Olivia(c): Heh!  | Olivia walks back to her mother and stretches out her arms to her mother who picks her up. Olivia whispers in her mother's ear  |
+| Mick(f): There should be some blue tack if you are struggling to make your character stand up.   | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island.  Roxanne(p) notices Agnes's(c) falling character and passes the child blue tack to help.  |
+| Rozanne(p): Oh that's something you were wanting to do |  Roxanne points at a cut out that Mick has just stuck down |
+|  Richie(c): I like the idea of making the enemies move |  |
+|Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter? |   |   
+|  Richie(c): No. |   |
+|  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.  | Roxanne  waves sheet and smiles at Mick and laughs.   |
+|  Mick(f): Great that's good. We've got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move  when it moves around the screen.  | Mick moves hands when saying make your character move, indicating animation.   |
+|  Mick(f): Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that.  | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate "you guys".  
+|
+
+
+### Appendix 5.x - Introducing documentation in drama frame
+
+> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
+
+> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
+So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
+So that makes sense really so I’m going to to do that.
+
+> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+> Molly: So just insert it somewhere.
+
+> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
+
+> Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
+And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
+
+> So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
+What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
+
+
+
+
+### Appendix 5.x  - Specialism emerging in interaction  between Molly and Nadine
+
+Molly continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
+
+Molly:  Oh no it’s not done that has it?
+
+Molly calls the name of her child across room with theatrical gesture and loud whisper voice
+Molly: “Nadine!”
+Molly then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
+Nadine arrives to help.
+Molly: I’m trying to delete them but they turn light grey.
+Nadine: So you want to get rid of them?
+Molly: What are you doing? You have to tell me what you are doing so I can do it myself.
+Molly: laughs
+Nadine: laughs.
+Molly: I’ll just have to keep shouting at you if you don’t tell me.  
+Nadine uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
+Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
+Parent peer laughs
+Nadine bounces up in place and smiles broadly.
+Molly: Thanks
+Molly: So am I like back with the black now?  
+Nadine: Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
+Molly: Oh X. Alright Bubs. Thanks.
+
+
+### Appendix 5.x  - Extract of interaction between Molly and Sonia - Home interests and Identities
+
+Sonia:  That's Good!
+Molly: Oh do you like it?
+Sonia: Yeah
+Molly: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
+Sonia: Yeah
+Molly: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
+- Both laugh.
+Sonia: So are you going to do bits at home? When the kids are..
+Molly: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours .... (Laughs)
+
+Molly: Lost time. Never mind.  We live and we learn.   
+
+Molly: We’re finished. Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
+Sonia:– Have you saved it?
+Molly:– No I’ve not saved it.
+Sonia:– Save there. (points to relevant button on screen)
+
+
+### Appendix 5.x  - Interview extract -  Mark and Ed working with home interests
+
+Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
+Ma - Oh, definitely. Yeah.
+Mick: Let's ask Fi that as well.
+Mark: Yeah.
+Mick: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
+Ed: Yeah. The Fireman.
+Mark: Yeah, well, tell us about that game. Tell about your interests and stuff?
+Ed: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
+....
+Mark: What is your aspiration for your life?
+Ed: I wanna be a fireman (on a steam train).
+...
+Ed: I really like trains, since like I was very, very young.
+
+Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
+Mark: I think it excited you to have to build a fireman sprite? Is that right?
+Ed: Yeah.
+Mark: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
+Ed:  Yeah.
+Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
+
+
+
+### Appendix 5.x -  2019-05-08-te-da pt 1 - Transcript of interaction between Dan and Toby
+
+Dan: Have you thought about pushing it a bit further and have a different style of game?
+Toby: What do you mean?
+Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
+Te: Pause. I don’t know what to do thought.
+Da: Well quite but what other games are there?
+Te: I don’t know er.
+Da: Well I tell you what .. muffled.
+Te: Erm - (navigates to list of GDP for platform game)
+De: So. You played them before didn’t you (indicating grid of games )
+Te: What do you mean?
+Da: The flying game that’s a different kind of game
+Te: Oh like kind of like moving along kind of thing
+Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
+Te: nod
+Da: There are games where things drop down like Tetris
+Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
+Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
+Te: Hmm. How should I do this then?
+Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
+Te: Mick
+Mick: Hi ya.
+Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
+Da: If we had an on the top game rather than a platform game
+Mick: I think it could work. You could kind of adapt that game by kind of removing gravity.
+Da: and see what happens?
+Mick: and see what happens.
+Da: It’s not a bad starting idea is it?
+Te: I suppose make a new one (begins the process of remixing game from the template)
+
+
+### Appendix 4.R.x - Framework to support game analysis via game elements - IS THIS ALREADY INCLUDED?
+
+Include also the powerpoint sheet or link to it.
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+---
+
+As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
+
+**SPACE:** Where the game takes place.
+**GOAL:** What is the objective of the game? What are you trying to do?
+**COMPONENTS:** What are all the objects or actors in the game?
+**MECHANICS:** What actions take place in the game. What are the verbs involved?
+**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
+
+Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
+
+---
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+
+### Appendix 5.R.x - Sketching towards a map to help navigation.
+
+In trying to organise and represent code examples to participants in a logical way, I experimented with different categories and themes to contains the emerging game elements. I also explored the concept of mapping the different challenges by difficulty on a map via structuring via concentric rings. An example of the kind of grouping sketch used is included below as Figure 4.x.  
+
+![Scan of Journal Sketch of early attempt at dividing features by type and difficulty](./Pictures/pattern_types_sketch.png){width=85%}
+
+_Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type and difficulty - Dated 11.3.2019_
+
+The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
+
+
+
+
+
+
+
+### Appendix 5.x  - Community norming in playtesting - DROP THIS ONE PERHAPS
+
+Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+Mick: How are you getting on Mi? It's looking good.
+Mick: (Noting frustrated air of Mi) Have you made it too hard?
+Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+Mick: So it look like you bump your head and fall down.
+Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+Mi: Oh right yeah.direct
+Mick: Yeah.
+Mi: Yeah, actually that's a good idea.
+Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
+
+
+## Technical Appendices
+
+### AP-T.x - A technical outline of Game Template structure
+
+Creating the project from first principles is relatively complex both semantically and practically. In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
+
+Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+
+![](./Pictures/overview_of_structure_cropped.png){width=55%}
+
+4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
+
+## Holding Zone
+
+### Discussion on Player types - moved from chapter 6
+
+DATA REQUIRED FROM VIDEO!?
+
+The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+Below I outline how I designed to encourage this behaviour.
+
+My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990].
+
+I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
+
+Limits of discussion findings - what to put in
+
+
+### ?? Summary of interactive Bartle test - IS THIS NEEDED?
+
+As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
+
+I introduce a warm-up activity trialled in P2 where participants took part in an interactive the Bartle test (what kind of game player are you).  
+
+
+A Bartle test is ...
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
+
+
+It took the form of an as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+The process was adapted so players moved
+to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
+
+The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+Below I outline how I designed to encourage this behaviour.
+
+In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
+
+<!-- #### Building Identities as Game Makers (dropped) -->
+
+<!-- NOTE - MAY NEED TO REWRITE to clearly precursor next chapter -->
+
+<!--
+in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
+ -->
+
+<!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
