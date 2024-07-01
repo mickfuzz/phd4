@@ -16,36 +16,46 @@ title: 8. Discursive Conclusion
     -   [Outline notes](#outline-notes)
         -   [Initial Discussion Outline](#initial-discussion-outline)
         -   [Initial Conclusion Outline](#initial-conclusion-outline)
+    -   [Introduction](#introduction)
+        -   [Revisiting potential audiences for the research outputs of
+            this study and how contexual factors may impact
+            relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contexual-factors-may-impact-relevancy)
+        -   [Initial Conclusion Outline](#initial-conclusion-outline-1)
     -   [Research outputs & discussion on
         outputs](#research-outputs-discussion-on-outputs)
-    -   [Research output: 3M Game Making
-        Model](#research-output-3m-game-making-model)
-        -   [Missions](#missions)
-        -   [Maps -](#maps--)
-        -   [Methods](#methods)
-    -   [Research output - Learning dimensions
-        map](#research-output---learning-dimensions-map)
-        -   [Learning Dimensions Map](#learning-dimensions-map)
-        -   [The potential of learning and navigational
-            maps](#the-potential-of-learning-and-navigational-maps)
-        -   [Commentary / Discussion on Learning
-            Dimensions](#commentary-discussion-on-learning-dimensions)
-        -   [CT as a practical skill or a more abstract
-            concept.](#ct-as-a-practical-skill-or-a-more-abstract-concept.)
-        -   [It's fun but are they
-            learning](#its-fun-but-are-they-learning)
-        -   [Discussion on UMC and PRIMM in relation to use of 3M model
-            (Practitioner
-            focus)](#discussion-on-umc-and-primm-in-relation-to-use-of-3m-model-practitioner-focus)
-    -   [Synthesising the characteristics and potential of the 3M
-        pedagogy](#synthesising-the-characteristics-and-potential-of-the-3m-pedagogy)
-        -   [3M through the lens of
-            agency](#m-through-the-lens-of-agency)
+        -   [Research output: 3M game making (Meta) model of pedagogical
+            elements of the learning
+            design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
+        -   [Research Output - Learning dimensions
+            map](#research-output---learning-dimensions-map)
+            -   [Evolution of the Learning dimensions
+                map](#evolution-of-the-learning-dimensions-map)
+        -   [PRIMM and Semantic Waves in relation to use of Learning
+            Dimensions
+            map](#primm-and-semantic-waves-in-relation-to-use-of-learning-dimensions-map)
+            -   [Backgroud on learning Dimensions Map - background -
+                COMPRESS?](#backgroud-on-learning-dimensions-map---background---compress)
+            -   [The potential of learning and navigational
+                maps](#the-potential-of-learning-and-navigational-maps)
+            -   [Practical or Abstract Framework - CT as a practical
+                skill or a more abstract
+                concept.](#practical-or-abstract-framework---ct-as-a-practical-skill-or-a-more-abstract-concept.)
+        -   [Research Output - MoE
+            approach](#research-output---moe-approach)
+            -   [Side missions, Maker Types to address identity
+                issues.](#side-missions-maker-types-to-address-identity-issues.)
+        -   [Research Output - Toolsets of template and Code playground
+            (RQ1 and impact on
+            RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3)
+    -   [Answering RQ3 on agency - synthesis and limitations of this
+        research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research)
+        -   [Specific 3M - techniques through the lens of agency
+            (RQ3)](#specific-3m---techniques-through-the-lens-of-agency-rq3)
             -   [TADS - interventions and affordances as double
-                stimulation](#tads---interventions-and-affordances-as-double-stimulation)
-        -   [PROPOSAL Coding impact on design/ processes on learner
-            agency - boiled
-            down -](#proposal-coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+                stimulation -
+                DROP](#tads---interventions-and-affordances-as-double-stimulation---drop)
+        -   [Coding impact on design/ processes on learner agency - OF
+            WHAT?](#coding-impact-on-design-processes-on-learner-agency---of-what)
     -   [Implications and recommendations for
         practitioners](#implications-and-recommendations-for-practitioners)
         -   [The value and processes of creating space for emergent
@@ -53,12 +63,10 @@ title: 8. Discursive Conclusion
             -   [Supporting different game making approaches via
                 scaffolding within choice with
                 limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
-        -   [Recommendations / Commentary / Discussion on
-            toolsets](#recommendations-commentary-discussion-on-toolsets)
-        -   [Further recommendations regarding tools
-            sets](#further-recommendations-regarding-tools-sets)
         -   [Design patterns as a teaching
             aid](#design-patterns-as-a-teaching-aid)
+        -   [Exploring CT development via the use of
+            GDPs](#exploring-ct-development-via-the-use-of-gdps)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
             -   [GDP, CT & Transfer](#gdp-ct-transfer)
@@ -68,10 +76,33 @@ title: 8. Discursive Conclusion
                 terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
             -   [On CTs and CTs emerging in the
                 wild.](#on-cts-and-cts-emerging-in-the-wild.)
+            -   [Compare formal teaching of CT and CS with an approach
+                based on a freer choice of
+                patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
+            -   [abstact vs applied framworks - Comparing aims of coding
+                for empowerment/ learner agency with STEM pipeline
+                narrative](#abstact-vs-applied-framworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
     -   [Synthesis of reflections on designing for learner
         agency](#synthesis-of-reflections-on-designing-for-learner-agency)
-    -   [Thoughts Log - things that may end up
-        here.](#thoughts-log---things-that-may-end-up-here.)
+    -   [Limitations of this research](#limitations-of-this-research)
+        -   [Gender based issues of
+            inclusion](#gender-based-issues-of-inclusion)
+    -   [Potential areas for future
+        work](#potential-areas-for-future-work)
+        -   [Advantages and limitations of Home Education
+            context](#advantages-and-limitations-of-home-education-context)
+        -   [Using game design to explore games as a design artefact for
+            empowerment
+            purposes](#using-game-design-to-explore-games-as-a-design-artefact-for-empowerment-purposes)
+        -   [How can the use of design patterns map to other computing
+            educational
+            domains?](#how-can-the-use-of-design-patterns-map-to-other-computing-educational-domains)
+    -   [Final Conclusion](#final-conclusion)
+        -   [Synthesising the characteristics and potential of the 3M
+            pedagogy](#synthesising-the-characteristics-and-potential-of-the-3m-pedagogy)
+    -   [Holding Zone or DROP](#holding-zone-or-drop)
+        -   [Thoughts Log - things that may end up
+            here.](#thoughts-log---things-that-may-end-up-here.)
         -   [GDPs that are already in the
             template](#gdps-that-are-already-in-the-template)
         -   [Breaking out of the walled
@@ -81,26 +112,14 @@ title: 8. Discursive Conclusion
             designs](#synergies-of-use-of-gdp-by-practioners-and-learners-in-research-designs)
         -   [On transfer of gdps -
             debates](#on-transfer-of-gdps---debates)
-    -   [Follow up work / limitations](#follow-up-work-limitations)
-        -   [Gender based issues of
-            inclusion](#gender-based-issues-of-inclusion)
-        -   [Missing data on starting game / quick start
-            cards](#missing-data-on-starting-game-quick-start-cards)
-        -   [Advantages and limitations of Home Education
-            context](#advantages-and-limitations-of-home-education-context)
         -   [Physical Computing and Game
             Making:](#physical-computing-and-game-making)
-        -   [Exploring CT development via the use of
-            GDPs](#exploring-ct-development-via-the-use-of-gdps)
-        -   [Using game design to explore games as a design artefact for
-            empowerment
-            purposes](#using-game-design-to-explore-games-as-a-design-artefact-for-empowerment-purposes)
-        -   [How can the use of design patterns map to other computing
-            educational
-            domains?](#how-can-the-use-of-design-patterns-map-to-other-computing-educational-domains)
-    -   [Comparing aims of coding for empowerment/ learner agency with
-        STEM pipeline
-        narrative](#comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
+        -   [Missing data on starting game / quick start cards (Limit -
+            but drop
+            )](#missing-data-on-starting-game-quick-start-cards-limit---but-drop)
+        -   [How does this fit into other domain specific research -
+            Constructionism, Computer supported collaborative learning
+            CSCL](#how-does-this-fit-into-other-domain-specific-research---constructionism-computer-supported-collaborative-learning-cscl)
 
 <!--
 ## Starting thoughts on writing up results.
@@ -127,9 +146,11 @@ The working draft of this chapter now merges a proposed discussion chapter with 
 - Analyse 3M design with this lens of agency
   - Game design to understanding games as a design artefact for empowerment purposes
   - Tension between walled garden and wider choice
-<!-- - Compare key elements of 3M other studies in comping coding domain , primm, umc,
-  - shifts in levels of abstraction -->
-<!-- - Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners -->
+Compare key elements of 3M other studies in comping coding domain , primm, umc,
+  - shifts in levels of abstraction
+ Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
+
+
   - Start with motives? address transfer?
 - Synthesis of conceptions of designing for learner agency in an emerging community of coders
   - compare Resnick / Paperts features of 'designing for tinkerability', with TADS and creating hooking points for double stimulation (warping anchors)
@@ -158,19 +179,49 @@ The working draft of this chapter now merges a proposed discussion chapter with 
 
 
 
+## Introduction
 
-**Diagrams / Illustrations**
+This chapter synthesises answers to the RQs 1-3 in the following way.
 
-3 foci and 3M element compared - save for the conclusion/ discussion?
-  https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60  
+Firstly by examining the research outputs of the study and discussion how they embody answers to the RQs.
 
----
+
+
+### Revisiting potential audiences for the research outputs of this study and how contexual factors may impact relevancy
+### Initial Conclusion  Outline
+
+  - Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
+    - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
+    - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
+  - Synthesis of 3M model
+  - Recap analysis of framework to facilitate designing for an emerging community of coders
+    - Explore possibility to extend this to other domains
+  - Final caveats / reflections on research
+    - Advantages and limitations of Home Education context
+  - Recommendations arising from this research
+      - Recommendations for facilitators
+      - Recommendations for researchers
+  - Related next steps for research
+    - Directly relevant next steps for research to address limitations
+    - Tangential next steps for research  
+      - Use of physical computing elements and embodied approaches
+Here I return to the material of introduction and contextual factors which impact utility of this research.
+
+- school settings
+- home and hobby environments
+- non-formal and third spaces
 
 ## Research outputs & discussion on outputs
 
----
+<!-- **Diagrams / Illustrations**
 
-## Research output: 3M Game Making Model
+3 foci and 3M element compared - save for the conclusion/ discussion?
+  https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60   -->
+
+
+
+### Research output: 3M game making (Meta) model of pedagogical elements of the learning design
+
 
 In summer 2020 I began early dissemination of results and wanted to be able to present the essence of the learning resources and design to fellow practitioners and participants as well as researchers. To do this I created the frame of a 3M model, the aim being to simplify a complex set of resources and teaching processes. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted.
 
@@ -190,11 +241,11 @@ A recap of the key features of the model and the motivations behind them.
 Table 1.2.  Key Features of 3M Game Making Model
 
 
+Some of these element and their impact have been discussed in previous chapters. This conclusion synthesises these elements and brings additional analysis
 
 
 
-
-### Missions
+### Research Output - Learning dimensions map
 
 <!-- Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. -->
 
@@ -202,50 +253,35 @@ The main challenge of the 3M model is to create a playable game around a theme f
 
 In addition, side missions encourage social and playful coding approaches which help develop a community of coders. The purpose of mirroring the language of adventure game experience is to create a playful environment, a theme explored in the following chapter.
 
-<!-- This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts.  -->
 
-<!-- In addition, side missions encourage social and playful coding approaches which help develop a community of coders. -->
+#### Evolution of the Learning dimensions map
 
-<!-- Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps to covered in previous chapter -->
+**Conflicts stemming from tensions between privileging participant choices or underlying computing and systems concepts**
 
-<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
-
-<!-- In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature or pattern is described as a mission. -->
+In P4 I wanted to create resources and processes which are of potential value to practitioners in the UK classroom. At this stage I noted a contradiction between aligning activities to curriculum or following learner choice and expression [@hoyles_pedagogy_1992].
 
 
-<!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
+<!-- Chapter two explored ways in which digital game making is commonly aligned with curricular areas [@kafai_connected_2016]. It also surfaced tensions that emerge between the exploration of curricular concepts participants desire to follow activities following learner expression and choice [@hoyles_pedagogy_1992]. -->
+
+<!-- The second was a conflict which manifested via my hesitancy to introduce tools and activities designed to address
+ this tension. -->
 
 
-
-
-<!--
-
-NOTE - On supportAing resources - move to relevant section.
-
-In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge.
-
-Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding. -->
-
-### Maps -
-
-Learning Dimensions - in Phase 5
-Physical maps in Phase 3.   
+### PRIMM and Semantic Waves in relation to use of Learning Dimensions map
 
 
 
-### Methods
+<!-- not sure how much to put in about this in LIT REVIEW  -->
 
-varied inclusive methods.
+<!-- Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts. -->
 
+A limit of the The PRIMM and Semantic Waves pedagogies, suggested for classroom use, it that they do not come with a pre-set of concepts.
 
+Thus one adaptation was the Learning Dimensions map.
 
-## Research output  - Learning dimensions map
+<!-- However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms. -->
 
-**WAS Conflicts stemming from tensions between privileging participant choices or underlying computing and systems concepts**
-
-While the focus on this research is informal environment, I wanted to create resources and processes which are of potential value to practitioners in the UK classroom. Chapter two explored ways in which digital game making is commonly aligned with curricular areas [@kafai_connected_2016]. It also surfaced tensions that emerge between the exploration of curricular concepts participants desire to follow activities following learner expression and choice [@hoyles_pedagogy_1992].
-
-This section addresses my interventions to resolve this tension. From my own perspective as a research designer/facilitator, there are two dimensions of contradiction which are explored in the following section: one my perception of the contradiction between curriculum and learner choice; the second a conflict which manifested via my hesitancy to introduce tools and activities designed to address this tension.
+In a later section, we compare PRIMM once more with UMC. UMC here matches the more informal, iterative game making of this study.
 
 
 <!-- This conflict provoked me to create resources which could serve to pull participants towards more curricular goals. I adapted and extended resources to suit use in more formal learning environments, e.g. particularly a secondary computing classroom. -->
@@ -255,7 +291,7 @@ This section addresses my interventions to resolve this tension. From my own per
 As learners traced a trail between the different island/missions they had visited, the map prov new tools is also exploredoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments.
 -->
 
-#### Learning Dimensions Map
+#### Backgroud on learning Dimensions Map - background - COMPRESS?
 
 Research on _concept maps_ [@canas2003summary] as methods for teachers and researchers to identify key learning suited to particular computing projects has gained traction in the field of computing education [@keppens_concept_2008; @noauthor_quick_2020; @weinerth_concept_2014]. The value of facilitators presenting concepts  and asking students to create maps of concepts for formative assessment. In addition, there is value in mapping which are likely to occur in project work especially when such concepts are embedded in activity in a way which resists superficial analysis. Research on hands-on tinkering in science museums by Bevan and Petrich [-@petrich_it_2013] together with educators examined video footage of families interacting with exhibits to make a structured list of the learning they observed. Their resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
 
@@ -303,53 +339,77 @@ My progress in this study would have been more direct if I had not attempted to 
 <!-- Despite this, the niggling feeling, it looks like fun but are they learning, remained.  -->
 
 
-###  Commentary / Discussion on Learning Dimensions
 
-More discussion  on the practical value of CT concepts
 
-### CT as a practical skill or a more abstract concept.
+
+#### Practical or Abstract Framework  - CT as a practical skill or a more abstract concept.
 
 A general discussion of varied views and my own based on data of this study.
 
-### It's fun but are they learning
+
 Exploring the tactic of reflective practices to back up CTs being found in the wild. Both for practitioner and participants as per [@petrich_it_2013].
 
 
-### Discussion on UMC and PRIMM in relation to use of 3M model (Practitioner focus)
 
-- UMC - should also be covered in the Remix part of the design ?
+<!-- This approach steers students towards developing their use and understanding of coding structures, debugging practices and systems concepts.  -->
 
-<!-- not sure how much to put in about this in LIT REVIEW  -->
-Note on PRIMM and personal knowledge.
+<!-- In addition, side missions encourage social and playful coding approaches which help develop a community of coders. -->
 
-Recap on PRIMM ? - THIS WILL BE IN LIT REVIEW MOST PROBABLY
+<!-- Note: TO ADD -  The purpose of mirroring a game experience is to create a playful environment - perhaps to covered in previous chapter -->
 
-Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts.
+<!-- **Side Missions:** Bartle proposed that online gamers play games for different reasons and proposed a initial typology of gamers as socialiser, griefers, achievers and explorers [@hamari_player_2014]. You can find out what kind of game player you are with an online test.[^6] I propose there are also different styles of game makers. Some like to develop a full knowledge of the tools and what is possible before they build up their game step-by-step. Some are happy to borrow code, images and sound from anywhere for quick results. More social makers like to find out about the games of others or tell stories within games while others mess around with the code to break it interesting ways. To encourage these valuable social coding practices I created extra missions which are available online.[^7] I avoid any claims of fixed learner types here and offer these interpretations primarily as a way to encourage meta-cognitive reflections and choice of activity in line with UDL principles. -->
 
-This is an interaction which in some ways is comparable to the PRIMM model which is suggested for classroom use. However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms.
+<!-- In the 3M model rather than following a step-by-step tutorial learners start with an incomplete game template and add new features as they choose. Each feature or pattern is described as a mission. -->
 
-UMC on the other hand while being less described and open to interpretation seems to match the more informal, iterative game making of many participants.
 
+<!-- You may be able to create a menu of printed or online patterns or examples that students can draw on as needed. Perhaps particularly common examples can be modelled to the whole class when it is clear that many students will benefit from that approach. -->
 
 
 
 
-## Synthesising the characteristics and potential of the 3M pedagogy
+<!--
 
-BE CONVINCING HERE OF POTENTIAL OF THIS APPROACH.
+NOTE - On supportAing resources - move to relevant section.
 
-3m This is a domain specific framework for teaching , can it have wider applications?  
+In addition to outlines of game patterns, print-outs or on-line documents to support learners to implement the code needed are provided. While on-line documents allow learners to copy and paste code thus avoid many syntax errors, printed or incomplete code examples provide a greater level of challenge.
 
-If so how can characteristics be abstracted?
+Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding. -->
 
-And if so are they distinct from existing frameworks explored in literature review?   
 
-- Walled garden of limited design patterns
-- Playful methods of community creation
-- Drama narrative to create audience a la heathcote
-- Regular informal feedback and chances to discuss evolving designs
 
-### 3M through the lens of agency
+### Research Output - MoE approach
+
+While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
+
+#### Side missions, Maker Types to address identity issues.
+
+The interaction with barriers to participation in diverse settings is partciularly valid in the multitude of settings.
+
+
+### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
+
+Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
+
+- Code playgrounds are now common and suggested by CS
+
+However phaser while authentic has mismatches. Exposed by Belen, as I am using version 2 instead of 3.
+Thus the resources available are harder to navigate.
+
+Alternative exist using the same 3M approach.
+
+
+However, here are some more possible directions.
+
+Make-code arcade has been created and adopted by educators. I developed this over lock down and gathered data on use which is available for further study.
+
+P5.js perhaps provides a better base which is more aligned with learners needs.
+Recreating resources in P5.js is a strong possibility to mnake this approach more familiar and less porous / daunting.
+
+## Answering RQ3 on agency - synthesis and limitations of this research
+
+HOlding?
+
+### Specific 3M - techniques through the lens of agency (RQ3)
 
 In this section I summarises the potential for learners  the concepts and techniques of achieving agency in the 3M design.
 
@@ -357,7 +417,7 @@ In PBL, UDL and other models - learner choice and building agency is shown to be
 
 In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
 
-#### TADS - interventions and affordances as double stimulation
+#### TADS - interventions and affordances as double stimulation - DROP
 
 Revisiting terms; The term intervention and affordances do not nearly align with the broad conceptual framework of this study infering a duality between subject and object. FIND REFERENCE
 
@@ -371,7 +431,7 @@ Look at use of tools at the boundaries to construct new knowledge [cite - Buildi
 
 
 
-### PROPOSAL Coding impact on design/ processes on learner agency - boiled down -
+###  Coding impact on design/ processes on learner agency - OF WHAT?
 
 <!-- NOTE  I would say  too complex for coding -->
 
@@ -414,29 +474,6 @@ In chapter four and five we explored the value of a menu of tutorials and code s
 
 This can be framed as Just-in-time learning [@riel1998education] but with certain modifications which offer additional scaffolding to reduce learner confusion.
 
-
-
-### Recommendations / Commentary / Discussion on toolsets
-
-Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
-
-- Code playgrounds are now common and suggested by CS
-
-However phaser while authentic has mismatches. Exposed by Belen, as I am using version 2 instead of 3.
-Thus the resources available are harder to navigate.
-
-Alternative exist using the same 3M approach.
-
-###  Further recommendations regarding tools sets
-
-However, here are some more possible directions.
-
-Make-code arcade has been created and adopted by educators. I developed this over lock down and gathered data on use which is available for further study.
-
-P5.js perhaps provides a better base which is more aligned with learners needs.
-Recreating resources in P5.js is a strong possibility to mnake this approach more familiar and less porous / daunting.
-
-
 ### Design patterns as a teaching aid
 
 TO DEVELOP OR MOVE back TO GDP CHAPTER
@@ -452,6 +489,16 @@ Some of the following may be relevant;
 - How is this model different from Game Jams in particular.
 - Whereas Game Jams focus on x, 3m has a focus on y.
 - Exploring GDP and different kinds of types of coding errors?
+
+### Exploring CT development via the use of GDPs
+
+**Brief commentary on the enduring value of CT concepts and how they could be studied in relation to GDP pattern implementation.**
+
+Developing understanding of CT concepts in isolation is a potentially weak point of the 3M approach in comparison to from first principles approach. However the process of patching into different areas of the code and creating functions does address this. The following transcript of Sh's interaction with myself shows that the process of copying patterns in the template code and patching in new lines from the supporting documentation gives ample opportunity for sequencing mistakes to be made. The process of working with students on their existing code is valuable to explain why and how the order of lines of code and when functions are called.
+
+The comparison raises a potential discussion point on what the practical value of this CT concept is.
+
+
 
 ### Game Design Patterns vs CT and more established "knowledge"
 
@@ -509,7 +556,7 @@ However, while not explicitly taught, the CT concepts are contained within the l
 NOTE - A quick summary of examples?
 
 
-##### Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
+#### Compare formal teaching of CT and CS with an approach based on a freer choice of patterns.
 
 The design choice of leading with GDP was based on increasing the agency of participants over the pathway of their design activities.
 LINK TO LITERATURE ON CHOICE AND ENGAGEMENT.
@@ -527,6 +574,12 @@ Elements of contrast with 3M include;
 
 
 
+#### abstact vs applied framworks -  Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
+
+- Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
+  - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
+  - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
+- Recap limitations and contextual factors of computing in schools and diverse environments
 
 
 
@@ -557,45 +610,9 @@ Pulling all together with recommendations from research . add in from notes
 
 
 
-## Thoughts Log - things that may end up here.
-
-### GDPs that are already in the template
-
-Some GDPs were not made a part of the menu of options as they were already in the template.
-For example Reward.
-
-Is this a missed opportunity to surface and discuss those patterns? cf [@eriksson_using_2019]
-
-### Breaking out of the walled garden:
-
-Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
-A potential tension which was resolved quickly in some ways.
-But at the cost of maintaining a working game.
 
 
-### Synergies of use of GDP by practioners and learners in research designs
-
-The use of GDP by practitioners are compared to those of participants and synergies are explored.
-
-
-### On transfer of gdps - debates
-In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
-Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
-
-
-
-## Synthesis of this research in relation to other research
-
-### How does this fit into other domain specific research - Constructionism, Computer supported collaborative learning CSCL
-
-This section follows up on gaps in the reserach exposed in the introduction
-
-Attempt to show differences and possible lines of inquiry that have been neglected in other areas.
-
-
-
-
-## Limitations of this research and potential areas for future research
+## Limitations of this research
 
 
 ### Gender based issues of inclusion
@@ -605,11 +622,8 @@ This research did not address gender or racial issues directly. But further rese
 The possibilities align with similar research, home interests etc.
 How will this  impact pedagogies?
 
-### Missing data on starting game / quick start cards
+## Potential areas for future work
 
-Study on the use of templated starting cards was unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase.
-
-A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study.
 
 ### Advantages and limitations of Home Education context
 
@@ -620,23 +634,6 @@ Comments include:
 - However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.
 
 
-### Physical Computing and Game Making:
-
-- There is scant evidence for this in the video data.
-- I can make observations from journal notes and try to find mention of it in interviews.
-
-(Imported Writing)
-**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
-
-
-
-### Exploring CT development via the use of GDPs
-
-**Brief commentary on the enduring value of CT concepts and how they could be studied in relation to GDP pattern implementation.**
-
-Developing understanding of CT concepts in isolation is a potentially weak point of the 3M approach in comparison to from first principles approach. However the process of patching into different areas of the code and creating functions does address this. The following transcript of Sh's interaction with myself shows that the process of copying patterns in the template code and patching in new lines from the supporting documentation gives ample opportunity for sequencing mistakes to be made. The process of working with students on their existing code is valuable to explain why and how the order of lines of code and when functions are called.
-
-The comparison raises a potential discussion point on what the practical value of this CT concept is.
 
 ### Using game design to explore games as a design artefact for empowerment purposes
 
@@ -666,9 +663,77 @@ What about physical computing / electronics.
 Can the same process help unearth accessible design patterns.
 
 
-## Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
 
-- Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
-  - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
-  - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
-- Recap limitations and contextual factors of computing in schools and diverse environments
+
+## Final Conclusion
+
+
+###  Synthesising the characteristics and potential of the 3M pedagogy
+
+BE CONVINCING HERE OF POTENTIAL OF THIS APPROACH.
+
+3m This is a domain specific framework for teaching , can it have wider applications?  
+
+If so how can characteristics be abstracted?
+
+And if so are they distinct from existing frameworks explored in literature review?   
+
+- Walled garden of limited design patterns
+- Playful methods of community creation
+- Drama narrative to create audience a la heathcote
+- Regular informal feedback and chances to discuss evolving designs
+
+
+
+## Holding Zone or DROP
+
+
+### Thoughts Log - things that may end up here.
+
+### GDPs that are already in the template
+
+Some GDPs were not made a part of the menu of options as they were already in the template.
+For example Reward.
+
+Is this a missed opportunity to surface and discuss those patterns? cf [@eriksson_using_2019]
+
+### Breaking out of the walled garden:
+
+Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
+A potential tension which was resolved quickly in some ways.
+But at the cost of maintaining a working game.
+
+
+### Synergies of use of GDP by practioners and learners in research designs
+
+The use of GDP by practitioners are compared to those of participants and synergies are explored.
+
+
+### On transfer of gdps - debates
+In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
+Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
+
+
+
+
+### Physical Computing and Game Making:
+
+- There is scant evidence for this in the video data.
+- I can make observations from journal notes and try to find mention of it in interviews.
+
+(Imported Writing)
+**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
+
+
+
+### Missing data on starting game / quick start cards (Limit - but drop )
+
+Study on the use of templated starting cards was unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase.
+
+A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study.
+
+### How does this fit into other domain specific research - Constructionism, Computer supported collaborative learning CSCL
+
+This section follows up on gaps in the reserach exposed in the introduction
+
+Attempt to show differences and possible lines of inquiry that have been neglected in other areas.
