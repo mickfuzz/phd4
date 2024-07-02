@@ -29,6 +29,12 @@ This presentation addresses digital game making as an inclusive process to devel
 That's nice Mick.
 
 
-### Emergent elemnents of practice and Agency - the surprises -
+### Emergent elements of practice and Agency - the surprises -
 
-### The focus on missions 
+### The focus on missions
+
+
+
+### 3M as more than the sum of its parts
+
+Choice and impact in different dimensions. Relational and authorial agency. 

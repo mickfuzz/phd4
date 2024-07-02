@@ -188,6 +188,10 @@ Here I return to the material of introduction and contextual factors which impac
 - home and hobby environments
 - non-formal and third spaces
 
+### Perhaps a summary of 3M motivations here?
+
+MOVE MATERIAL ?
+
 ## Research outputs & discussion on outputs
 
 <!-- **Diagrams / Illustrations**
@@ -199,8 +203,14 @@ Here I return to the material of introduction and contextual factors which impac
 
 ### Research output: 3M game making (Meta) model of pedagogical elements of the learning design
 
+NOTE - KEEP THIS HERE OR MOVE AFTER THE OTHER ROS.?
 
-In summer 2020 I began early dissemination of results and wanted to be able to present the essence of the learning resources and design to fellow practitioners and participants as well as researchers. To do this I created the frame of a 3M model, the aim being to simplify a complex set of resources and teaching processes. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted.
+In summer 2020 I began early dissemination of results and wanted to be able to present the essence of the learning resources and design to fellow practitioners and participants as well as researchers. To do this I created the frame of a 3M model.
+
+3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game. In addition, side missions encourage social and playful coding approaches which help develop a community of coders. The mirroring of the language of adventure game experience created a playful environment.
+ANOTHER QUICK SUMMARY
+
+Thus one aim was to simplify a complex set of resources and teaching processes. The resources have been created under an open licence (CC-BY-SA) which allows them to be freely used and adapted.
 
 A recap of the key features of the model and the motivations behind them.
 
@@ -222,13 +232,11 @@ Some of these element and their impact have been discussed in previous chapters.
 
 
 
-### Research Output - Learning dimensions map
+### Research Output - Collection of GDPS with supporting resources (including  Learning dimensions map)
 
 <!-- Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. -->
 
-The main challenge of the 3M model is to create a playable game around a theme for a real or imagined audience with learners given the choice to add many optional features to the game.
 
-In addition, side missions encourage social and playful coding approaches which help develop a community of coders. The purpose of mirroring the language of adventure game experience is to create a playful environment, a theme explored in the following chapter.
 
 
 #### Evolution of the Learning dimensions map
@@ -244,29 +252,6 @@ In P4 I wanted to create resources and processes which are of potential value to
  this tension. -->
 
 
-### PRIMM and Semantic Waves in relation to use of Learning Dimensions map
-
-
-
-<!-- not sure how much to put in about this in LIT REVIEW  -->
-
-<!-- Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts. -->
-
-A limit of the The PRIMM and Semantic Waves pedagogies, suggested for classroom use, it that they do not come with a pre-set of concepts.
-
-Thus one adaptation was the Learning Dimensions map.
-
-<!-- However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms. -->
-
-In a later section, we compare PRIMM once more with UMC. UMC here matches the more informal, iterative game making of this study.
-
-
-<!-- This conflict provoked me to create resources which could serve to pull participants towards more curricular goals. I adapted and extended resources to suit use in more formal learning environments, e.g. particularly a secondary computing classroom. -->
-
-<!-- stylised in a way that mirrored a map used for navigation in a quest-themed computer game.
-
-As learners traced a trail between the different island/missions they had visited, the map prov new tools is also exploredoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments.
--->
 
 #### Backgroud on learning Dimensions Map - background - COMPRESS?
 
@@ -292,7 +277,6 @@ Similarly, one of the outcomes of my research was to extract from hours of recor
 | Change Listener |    | Debugging   |
 | Input Event |   | Reusing and Remixing      |
 
-
 To illustrate these concepts in more depth, I created concise descriptions of the concepts [^2], and cross referenced with examples of the concepts in practice in the application common game features[^3]. This process aimed to be an aid to my existing attempts to highlight relevant concepts in-situ.
 
 In journal notes I note my attempts to find learning relating to abstract concepts happening in-situ. A common example of use of loops or arrays or functions. I would highlight their use by participants and link to their activity. This mirrors the concept of the value of abstract in context for wider application is underlined in the work Davydov of rising to the concrete [@valsiner_cultural-historical_2007].
@@ -304,6 +288,30 @@ This process of mapping this framework is potentially of use for teachers and ot
 The process of adapting this learning design to the needs of more formal settings can be aligned to existing research on this area. For example the concept of semantic waves is relevant here as a way of visioning the alternation between concrete design experience and communicating the underlying abstract concepts [@curzon_using_2020; @maton_making_2013].   
 
 However, despite this alignment and potential utility in a school setting, I was reluctant to introduce these resources in this informal context, reflecting the lack of external motivation for participants to align with curricular demands driven by exam requirements. Introducing additional mediational tools with the aim of the communicating and reinforcing abstract computing or systems concepts risked effectively establishing a new competing activity system. This perspective validates my reluctance to introduce additional distracting stimulus, instead prioritising time spent in on-going hands on experimentation, peer learning and playful activities. Additionally, while this approach aligns with situated  understandings of knowledge which problematise the separation of the content to be learned from the embodied social activity itself [@rogoff_observing_1995; @leontev_problem_1974], this alignment did not halt my concern over remaining locked into concrete experience and not developing awareness of repeated abstract concepts which could be of future generalised utility [@maton_making_2013]. My ongoing discomfort surrounding the validity of the learning experience without direct alignment to abstract content, stem from wider concerns around avoiding danger of tacit learning by reinforcing learning and spur metacognition [@gherardi_toward_1998]. Even if generalisable concepts can be encountered in the context of an learner-driven activity, they may not be explored without guidance from others. Hoyles and Noss term this tension a 'play paradox' [@hoyles_pedagogy_1992, p.46]. This theme is explored in more detail in chapter six concentrating on social processes rather than external documentation.
+
+
+
+#### PRIMM and Semantic Waves in relation to use of Learning Dimensions map and GDP use
+
+<!-- not sure how much to put in about this in LIT REVIEW  -->
+
+<!-- Da and Te - In these interaction the parent seems keen for the child to be able to express and demonstrate their personal knowledge of coding, games and maths concepts. -->
+
+A limit of the The PRIMM and Semantic Waves pedagogies, suggested for classroom use, it that they do not come with a pre-set of concepts.
+
+Thus one adaptation was the Learning Dimensions map.
+
+<!-- However to do it in the way demonstrated by this pair would involve a level of coding familiarity, and ongoing familiarity with the structure and thinking of the participant which would be difficult to achieve in many classrooms. -->
+
+In a later section, we compare PRIMM once more with UMC. UMC here matches the more informal, iterative game making of this study.
+
+
+<!-- This conflict provoked me to create resources which could serve to pull participants towards more curricular goals. I adapted and extended resources to suit use in more formal learning environments, e.g. particularly a secondary computing classroom. -->
+
+<!-- stylised in a way that mirrored a map used for navigation in a quest-themed computer game.
+
+As learners traced a trail between the different island/missions they had visited, the map prov new tools is also exploredoked learners to reflect on their journey and progress. However, this approach may be too labour and time intensive for many class environments.
+-->
 
 
 <!-- Thus, while this aspect and merits further exploration to potential help classroom practice, this is be beyond the scope of this thesis. -->
