@@ -171,13 +171,11 @@ The working draft of this chapter now merges a proposed discussion chapter with 
     - Advantages and limitations of Home Education context
 
 
-
 ## Introduction
 
 This chapter synthesises answers to the RQs 1-3 in the following way.
 
 Firstly by examining the research outputs of the study and discussion how they embody answers to the RQs.
-
 
 
 ### Revisiting potential audiences for the research outputs of this study and how contexual factors may impact relevancy
@@ -194,8 +192,6 @@ Here I return to the material of introduction and contextual factors which impac
 
 3 foci and 3M element compared - save for the conclusion/ discussion?
   https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60   -->
-
-
 
 ### Research output: 3M game making (Meta) model of pedagogical elements of the learning design
 
@@ -218,8 +214,41 @@ A recap of the key features of the model and the motivations behind them.
 Table 1.2.  Key Features of 3M Game Making Model
 
 
-Some of these element and their impact have been discussed in previous chapters. This conclusion synthesises these elements and brings additional analysis
+Some of these element and their impact have been discussed in previous chapters. This conclusion synthesises reflections on these elements and brings additional analysis in relation to similar research. To do this in a way which highlights utility of the process, firstly  key research outputs are examined in turn.
 
+### Research Output - MoE approach
+
+NOTE THIS ASPECT HAS BEEN DISCUSSED IN THE LAST CHAPTER SO THERE IS LESS TO SYNTHESISE HERE.
+
+While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
+
+#### Side missions, Maker Types to address identity issues.
+
+The interaction with barriers to participation in diverse settings is partciularly valid in the multitude of settings.
+
+
+
+### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
+
+Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
+
+- Code playgrounds are now common and suggested by CS
+
+However phaser while authentic has mismatches. Exposed by Belen, as I am using version 2 instead of 3.
+
+Progression routes are a valid dimension to explore in this conclusion.
+First point to make is that progression is more flexible than Scratch.
+
+Thus authentic resources available are harder to navigate, and in addition the lack of a community.
+
+Alternative exist using the same 3M approach.
+
+However, here are some more possible directions.
+
+Make-code arcade has been created and adopted by educators. I developed this over lock down and gathered data on use which is available for further study.
+
+P5.js perhaps provides a better base which is more aligned with learners needs.
+Recreating resources in P5.js is a strong possibility to make this approach more familiar and less porous / daunting.
 
 
 ### Research Output - Learning dimensions map
@@ -353,34 +382,6 @@ In addition to outlines of game patterns, print-outs or on-line documents to sup
 Supporting resources help resolve tensions around learners getting stuck and needing a lot of facilitator help. These resources can help teachers deliver game making in a classroom context. Educators can alter resources to vary how much detail is provided in supporting documents to suit the challenge level for students. I work with young coders, thus I normally provide significant coding scaffolding. Once learners have built familiarity with code structures, processes and the coding environment, I provide less complete code examples and thus reduce the scaffolding. -->
 
 
-
-### Research Output - MoE approach
-
-While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
-
-#### Side missions, Maker Types to address identity issues.
-
-The interaction with barriers to participation in diverse settings is partciularly valid in the multitude of settings.
-
-
-### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
-
-Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
-
-- Code playgrounds are now common and suggested by CS
-
-However phaser while authentic has mismatches. Exposed by Belen, as I am using version 2 instead of 3.
-Thus the resources available are harder to navigate.
-
-Alternative exist using the same 3M approach.
-
-
-However, here are some more possible directions.
-
-Make-code arcade has been created and adopted by educators. I developed this over lock down and gathered data on use which is available for further study.
-
-P5.js perhaps provides a better base which is more aligned with learners needs.
-Recreating resources in P5.js is a strong possibility to mnake this approach more familiar and less porous / daunting.
 
 ## Answering RQ3 on agency - synthesis and limitations of this research
 
