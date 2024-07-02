@@ -362,14 +362,6 @@ Supporting resources help resolve tensions around learners getting stuck and nee
 
 
 
-### Research Output - MoE approach
-
-While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
-
-#### Side missions, Maker Types to address identity issues.
-
-The interaction with barriers to participation in diverse settings is partciularly valid in the multitude of settings.
-
 
 ### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
 
@@ -390,9 +382,25 @@ Make-code arcade has been created and adopted by educators. I developed this ove
 P5.js perhaps provides a better base which is more aligned with learners needs.
 Recreating resources in P5.js is a strong possibility to mnake this approach more familiar and less porous / daunting.
 
+
+
+### Research Output - MoE approach
+
+While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
+
+#### Side missions, Maker Types to address identity issues.
+
+The interaction with barriers to participation in diverse settings is partciularly valid in the multitude of settings.
+
 ## Answering RQ3 on agency - synthesis and limitations of this research
 
-HOlding?
+### Discussion on 3M's accumulative effect - more than a sum or parents
+
+A recall to what I was trying to achieve in the first place. A free for all, organised chaos, choice, agency, interactions, questioning.
+
+**Reclaiming choice as a concept**
+
+A proposal on how the different dimensions of choice in 3M impact on both relational and authorial agency. In a way which can be described as fluency.
 
 ### Specific 3M - techniques through the lens of agency (RQ3)
 
