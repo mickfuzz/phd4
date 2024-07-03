@@ -10,21 +10,11 @@
         activity](#observations-on-emergent-elements-of-agency-within-cultural-activity)
         -   [Intro to this section (on planned and emergent
             activity)](#intro-to-this-section-on-planned-and-emergent-activity)
-            -   [Recap of Emerging role of
-                playtesting](#recap-of-emerging-role-of-playtesting)
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
-            -   [Summary: Home Funds and
-                RQs](#summary-home-funds-and-rqs)
     -   [Observations on emerging flexible design
         practices](#observations-on-emerging-flexible-design-practices)
-        -   [Observations on Flexible Design
-            Practices](#observations-on-flexible-design-practices)
-        -   [Observations on Game Making
-            Types](#observations-on-game-making-types)
-        -   [The potential of emergent "non-productive"
-            activities](#the-potential-of-emergent-non-productive-activities)
         -   [Discussion in relation to other research - beyond design
             cycle
             stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
@@ -40,9 +30,6 @@
             audience](#discussion-on-conflicts-associated-with-authenticity-of-audience)
         -   [Observations on use of side missions in drama
             process](#observations-on-use-of-side-missions-in-drama-process)
-            -   [Observations on written interactions with the alien in
-                the
-                drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
         -   [Discussion on dimensions of authenticity and Process
             Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
         -   [Discussion on making types and process drama / side
@@ -51,53 +38,24 @@
             Agency](#discussion-on-drama-process-and-agency)
         -   [Positive affective space within a drama
             process](#positive-affective-space-within-a-drama-process)
-            -   [Reflection on reflecting in
-                role](#reflection-on-reflecting-in-role)
-            -   [Discussion on mediated chat and potential for
-                addressing contradictions in
-                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
-            -   [Concluding remarks on process
-                drama](#concluding-remarks-on-process-drama)
     -   [Discussion section - Metaphors on developing
         agency](#discussion-section---metaphors-on-developing-agency)
         -   [Dual stimulation and conceptions of
             agency](#dual-stimulation-and-conceptions-of-agency)
         -   [Metaphors](#metaphors)
-            -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
-            -   [Affordances as catching points
-                metaphor](#affordances-as-catching-points-metaphor)
         -   [Playgrounds and sheltered
             harbours](#playgrounds-and-sheltered-harbours)
-            -   [Nurturing agency by creating space for emergent
-                practices](#nurturing-agency-by-creating-space-for-emergent-practices)
     -   [Exploring conceptions of agency via a synthesis of the findings
         of this study (using metaphors
         above)](#exploring-conceptions-of-agency-via-a-synthesis-of-the-findings-of-this-study-using-metaphors-above)
         -   [Discussion on agency concerning tools and resources
             (authenticity in
             particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
-            -   [Increased scaffolding of tools can increase
-                instrumental agency but at what
-                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost)
-            -   [Different black boxes for different
-                goals](#different-black-boxes-for-different-goals)
-            -   [The potentially awesome impact of lifting the lid on
-                authentic
-                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-            -   [Exploring characteristics of the learning design using
-                different dimensions of agency & previous
-                metaphors](#exploring-characteristics-of-the-learning-design-using-different-dimensions-of-agency-previous-metaphors)
-            -   [Agency in response to a series of second stimuli aimed
-                at participant
-                identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
     -   [Summary of implications for practice to encourage
         agency](#summary-of-implications-for-practice-to-encourage-agency)
         -   [Asking questions about the challenge of applying this model
             to classroom
             environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
-            -   [Divining authentic
-                frameworks](#divining-authentic-frameworks)
-            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
     -   [Implications in conceptualisations of forms of
         agency](#implications-in-conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)

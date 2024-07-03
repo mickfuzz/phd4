@@ -32,22 +32,10 @@
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Project Based Learning (PBL)](#project-based-learning-pbl)
-            -   [Project Based Learning as an inclusive
-                pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
-            -   [Complications with Project Based
-                Learning](#complications-with-project-based-learning)
-            -   [Game making and Project / Problem Based
-                Learning](#game-making-and-project-problem-based-learning)
-            -   [PBL and Authenticity in the domain of teaching
-                programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
-            -   [Issues of Inclusion and PBL addressed through UDL
-                principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
     -   [Pedagogical resources in the form of professional practices and
         frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via
             stages](#design-steps-frameworks-via-stages)
-            -   [Broad design based
-                approaches](#broad-design-based-approaches)
         -   [MDA and conceptual game elements
             framework](#mda-and-conceptual-game-elements-framework)
         -   [Game jams & game
@@ -56,9 +44,6 @@
             context](#design-patterns-and-game-design-patterns-in-professional-context)
         -   [Using professional frameworks to help novice game
             makers](#using-professional-frameworks-to-help-novice-game-makers)
-            -   [Using pattern collections and code examples to help
-                novice
-                students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
     -   [Studies working to address barriers concerning
         identity](#studies-working-to-address-barriers-concerning-identity)
         -   [Game making studies addressing gender and
@@ -77,8 +62,6 @@
         -   [Deficit of cultural processes & appropriate frameworks to
             support community-based coding for
             beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
-            -   [Supporting roles and social practices to support
-                learners](#supporting-roles-and-social-practices-to-support-learners)
         -   [Tensions surrounding authenticity of tool
             use](#tensions-surrounding-authenticity-of-tool-use)
     -   [Conclusion](#conclusion)

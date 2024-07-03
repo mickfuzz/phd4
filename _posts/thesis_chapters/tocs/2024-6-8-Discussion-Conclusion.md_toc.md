@@ -17,8 +17,6 @@
             design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
         -   [Research Output - MoE
             approach](#research-output---moe-approach)
-            -   [Side missions, Maker Types to address identity
-                issues.](#side-missions-maker-types-to-address-identity-issues.)
         -   [Research Output - Toolsets of template and Code playground
             (RQ1 and impact on
             RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3)
@@ -27,32 +25,15 @@
             RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3-1)
         -   [Research Output - MoE approach & creating
             spaces](#research-output---moe-approach-creating-spaces)
-            -   [Side missions, Maker Types to address identity
-                issues.](#side-missions-maker-types-to-address-identity-issues.-1)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
         -   [Research Output - Collection of GDPS with supporting
             resources (including Learning dimensions
             map)](#research-output---collection-of-gdps-with-supporting-resources-including-learning-dimensions-map)
-            -   [Evolution of the Learning dimensions
-                map](#evolution-of-the-learning-dimensions-map)
-            -   [Backgroud on learning Dimensions Map - background -
-                COMPRESS?](#backgroud-on-learning-dimensions-map---background---compress)
-            -   [The potential of learning and navigational
-                maps](#the-potential-of-learning-and-navigational-maps)
-            -   [PRIMM and Semantic Waves in relation to use of Learning
-                Dimensions map and GDP
-                use](#primm-and-semantic-waves-in-relation-to-use-of-learning-dimensions-map-and-gdp-use)
-            -   [Practical or Abstract Framework - CT as a practical
-                skill or a more abstract
-                concept.](#practical-or-abstract-framework---ct-as-a-practical-skill-or-a-more-abstract-concept.)
     -   [Answering RQ3 on agency - synthesis and limitations of this
         research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research)
         -   [Specific 3M - techniques through the lens of agency
             (RQ3)](#specific-3m---techniques-through-the-lens-of-agency-rq3)
-            -   [TADS - interventions and affordances as double
-                stimulation -
-                DROP](#tads---interventions-and-affordances-as-double-stimulation---drop)
         -   [Coding impact on design/ processes on learner agency - OF
             WHAT?](#coding-impact-on-design-processes-on-learner-agency---of-what)
     -   [Answering RQ3 on agency - synthesis and limitations of this
@@ -70,28 +51,10 @@
         practitioners](#implications-and-recommendations-for-practitioners)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.-1)
-            -   [Supporting different game making approaches via
-                scaffolding within choice with
-                limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
-            -   [GDP, CT & Transfer](#gdp-ct-transfer)
-            -   [Technical of 3M concepts suiting
-                transfer](#technical-of-3m-concepts-suiting-transfer)
-            -   [Strengths and Weaknesses of the GDP construct /
-                terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
-            -   [On CTs and CTs emerging in the
-                wild.](#on-cts-and-cts-emerging-in-the-wild.)
-            -   [Compare formal teaching of CT and CS with an approach
-                based on a freer choice of
-                patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
-            -   [abstact vs applied framworks - Comparing aims of coding
-                for empowerment/ learner agency with STEM pipeline
-                narrative](#abstact-vs-applied-framworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
     -   [Future work and limitations of this
         research](#future-work-and-limitations-of-this-research)
-        -   [Design patterns as a teaching
-            aid](#design-patterns-as-a-teaching-aid)
         -   [Gender based issues of
             inclusion](#gender-based-issues-of-inclusion)
         -   [Advantages and limitations of Home Education

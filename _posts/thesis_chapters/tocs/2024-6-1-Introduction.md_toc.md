@@ -23,8 +23,6 @@
         -   [Defining and conceptualising - formal, home and third space
             contexts - SUMMARISE /
             COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
-            -   [Funding and financial dimensions of contexts - MERGE
-                DOWN?](#funding-and-financial-dimensions-of-contexts---merge-down)
         -   [Summary of Conceptual
             Context](#summary-of-conceptual-context)
     -   [Game making and coding and in schools and formal
@@ -51,17 +49,12 @@
             study](#third-spaces-and-the-context-of-this-study)
         -   [Game making as a fund of
             knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
         -   [Work in non-formal settings drawing on home
             interests](#work-in-non-formal-settings-drawing-on-home-interests)
         -   [Mozilla - Teach the Web as context and
             community](#mozilla---teach-the-web-as-context-and-community)
         -   [Authentic web technology & Code
             playgrounds](#authentic-web-technology-code-playgrounds)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -70,8 +63,6 @@
             program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
             ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
         -   [Outlining cultural barriers / aspects of game
@@ -81,9 +72,6 @@
     -   [Summary of the thesis motivation and
         structure](#summary-of-the-thesis-motivation-and-structure)
         -   [Recap of motivation](#recap-of-motivation)
-            -   [An area of tension to address - limited leaner choice
-                in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
