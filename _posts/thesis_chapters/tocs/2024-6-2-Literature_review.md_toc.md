@@ -1,95 +1,87 @@
--   [Literature Review](#literature-review){#toc-literature-review}
+-   [Literature Review](#literature-review)
     -   [Research Questions - April
-        2024](#research-questions---april-2024){#toc-research-questions---april-2024}
-    -   [To perhaps add to Lit
-        REVIEW](#to-perhaps-add-to-lit-review){#toc-to-perhaps-add-to-lit-review}
-    -   [Introduction & Structure of
-        LR](#introduction-structure-of-lr){#toc-introduction-structure-of-lr}
-        -   [What is a
-            pedagogy?](#what-is-a-pedagogy){#toc-what-is-a-pedagogy}
+        2024](#research-questions---april-2024)
+    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
+    -   [Introduction & Structure of LR](#introduction-structure-of-lr)
+        -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Computation Thinking: curriculum concepts and/or and
         pedagogical
-        framework](#computation-thinking-curriculum-concepts-andor-and-pedagogical-framework){#toc-computation-thinking-curriculum-concepts-andor-and-pedagogical-framework}
+        framework](#computation-thinking-curriculum-concepts-andor-and-pedagogical-framework)
         -   [Situating Computational thinking within curricular
-            concerns](#situating-computational-thinking-within-curricular-concerns){#toc-situating-computational-thinking-within-curricular-concerns}
+            concerns](#situating-computational-thinking-within-curricular-concerns)
         -   [Studies exploring CT as an pedagogical framework to support
             learning computer
-            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding){#toc-studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding}
+            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding)
     -   [PRIMM, Semantic Waves and pushing the
-        abstract](#primm-semantic-waves-and-pushing-the-abstract){#toc-primm-semantic-waves-and-pushing-the-abstract}
-        -   [PRIMM](#primm){#toc-primm}
-        -   [Semantic Profiles and
-            Waves](#semantic-profiles-and-waves){#toc-semantic-profiles-and-waves}
+        abstract](#primm-semantic-waves-and-pushing-the-abstract)
+        -   [PRIMM](#primm)
+        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
         -   [Problematising distinctions between instruction-based
             tutorials and unguided
-            approaches](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches){#toc-problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches}
+            approaches](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches)
     -   [Studies on Pedagogies scaffolding practice based
-        exploration](#studies-on-pedagogies-scaffolding-practice-based-exploration){#toc-studies-on-pedagogies-scaffolding-practice-based-exploration}
-        -   [Use Modify
-            Create](#use-modify-create){#toc-use-modify-create}
+        exploration](#studies-on-pedagogies-scaffolding-practice-based-exploration)
+        -   [Use Modify Create](#use-modify-create)
         -   [Microworlds as an embodiment of UMC and other
             constructionist design
-            principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles){#toc-microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles}
+            principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
         -   [Constructionist design
-            principles](#constructionist-design-principles){#toc-constructionist-design-principles}
+            principles](#constructionist-design-principles)
         -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds){#toc-half-baked-games-as-microworlds}
+            Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
-            coding](#pair-programming-socialcollaborative-coding){#toc-pair-programming-socialcollaborative-coding}
-        -   [Project Based Learning
-            (PBL)](#project-based-learning-pbl){#toc-project-based-learning-pbl}
+            coding](#pair-programming-socialcollaborative-coding)
+        -   [Project Based Learning (PBL)](#project-based-learning-pbl)
             -   [Project Based Learning as an inclusive
-                pedagogy](#project-based-learning-as-an-inclusive-pedagogy){#toc-project-based-learning-as-an-inclusive-pedagogy}
+                pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
             -   [Complications with Project Based
-                Learning](#complications-with-project-based-learning){#toc-complications-with-project-based-learning}
+                Learning](#complications-with-project-based-learning)
             -   [Game making and Project / Problem Based
-                Learning](#game-making-and-project-problem-based-learning){#toc-game-making-and-project-problem-based-learning}
+                Learning](#game-making-and-project-problem-based-learning)
             -   [PBL and Authenticity in the domain of teaching
-                programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming){#toc-pbl-and-authenticity-in-the-domain-of-teaching-programming}
+                programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
             -   [Issues of Inclusion and PBL addressed through UDL
-                principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles){#toc-issues-of-inclusion-and-pbl-addressed-through-udl-principles}
+                principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
     -   [Pedagogical resources in the form of professional practices and
-        frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks){#toc-pedagogical-resources-in-the-form-of-professional-practices-and-frameworks}
+        frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via
-            stages](#design-steps-frameworks-via-stages){#toc-design-steps-frameworks-via-stages}
+            stages](#design-steps-frameworks-via-stages)
             -   [Broad design based
-                approaches](#broad-design-based-approaches){#toc-broad-design-based-approaches}
+                approaches](#broad-design-based-approaches)
         -   [MDA and conceptual game elements
-            framework](#mda-and-conceptual-game-elements-framework){#toc-mda-and-conceptual-game-elements-framework}
+            framework](#mda-and-conceptual-game-elements-framework)
         -   [Game jams & game
-            competitions](#game-jams-game-competitions){#toc-game-jams-game-competitions}
+            competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
-            context](#design-patterns-and-game-design-patterns-in-professional-context){#toc-design-patterns-and-game-design-patterns-in-professional-context}
+            context](#design-patterns-and-game-design-patterns-in-professional-context)
         -   [Using professional frameworks to help novice game
-            makers](#using-professional-frameworks-to-help-novice-game-makers){#toc-using-professional-frameworks-to-help-novice-game-makers}
+            makers](#using-professional-frameworks-to-help-novice-game-makers)
             -   [Using pattern collections and code examples to help
                 novice
-                students.](#using-pattern-collections-and-code-examples-to-help-novice-students.){#toc-using-pattern-collections-and-code-examples-to-help-novice-students.}
+                students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
     -   [Studies working to address barriers concerning
-        identity](#studies-working-to-address-barriers-concerning-identity){#toc-studies-working-to-address-barriers-concerning-identity}
+        identity](#studies-working-to-address-barriers-concerning-identity)
         -   [Game making studies addressing gender and
-            race](#game-making-studies-addressing-gender-and-race){#toc-game-making-studies-addressing-gender-and-race}
-        -   [5th Dimension Case
-            Study](#th-dimension-case-study){#toc-th-dimension-case-study}
+            race](#game-making-studies-addressing-gender-and-race)
+        -   [5th Dimension Case Study](#th-dimension-case-study)
         -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque){#toc-creative-family-learning---roque}
+            Roque](#creative-family-learning---roque)
         -   [Mantle of the Expert - processes drama used in teaching
-            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology){#toc-mantle-of-the-expert---processes-drama-used-in-teaching-technology}
+            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
         -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning){#toc-digital-informal-participatory-culture-and-learning}
+            Learning](#digital-informal-participatory-culture-and-learning)
     -   [Synthesis of chapter /
-        discussion](#synthesis-of-chapter-discussion){#toc-synthesis-of-chapter-discussion}
+        discussion](#synthesis-of-chapter-discussion)
         -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier){#toc-inequality-of-access-to-participatory-culture-communities-barrier}
+            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
         -   [Deficit of cultural processes & appropriate frameworks to
             support community-based coding for
-            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners){#toc-deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners}
+            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
             -   [Supporting roles and social practices to support
-                learners](#supporting-roles-and-social-practices-to-support-learners){#toc-supporting-roles-and-social-practices-to-support-learners}
+                learners](#supporting-roles-and-social-practices-to-support-learners)
         -   [Tensions surrounding authenticity of tool
-            use](#tensions-surrounding-authenticity-of-tool-use){#toc-tensions-surrounding-authenticity-of-tool-use}
-    -   [Conclusion](#conclusion){#toc-conclusion}
+            use](#tensions-surrounding-authenticity-of-tool-use)
+    -   [Conclusion](#conclusion)
         -   [The problem statement of the
-            thesis](#the-problem-statement-of-the-thesis){#toc-the-problem-statement-of-the-thesis}
-    -   [Link to the next
-        chapters](#link-to-the-next-chapters){#toc-link-to-the-next-chapters}
+            thesis](#the-problem-statement-of-the-thesis)
+    -   [Link to the next chapters](#link-to-the-next-chapters)
