@@ -25,19 +25,10 @@
         -   [The interaction of emergent / flexible deign practices and
             the collection of Game Design
             Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
-    -   [On the Drama Process](#on-the-drama-process)
-        -   [Discussion on conflicts associated with authenticity of
-            audience](#discussion-on-conflicts-associated-with-authenticity-of-audience)
-        -   [Observations on use of side missions in drama
-            process](#observations-on-use-of-side-missions-in-drama-process)
-        -   [Discussion on dimensions of authenticity and Process
-            Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
-        -   [Discussion on making types and process drama / side
-            missions](#discussion-on-making-types-and-process-drama-side-missions)
-        -   [Discussion on Drama Process and
-            Agency](#discussion-on-drama-process-and-agency)
-        -   [Positive affective space within a drama
-            process](#positive-affective-space-within-a-drama-process)
+    -   [Authenticity in project approaches (was drama
+        process)](#authenticity-in-project-approaches-was-drama-process)
+    -   [Discussion on making types and side
+        missions](#discussion-on-making-types-and-side-missions)
     -   [Discussion section - Metaphors on developing
         agency](#discussion-section---metaphors-on-developing-agency)
         -   [Dual stimulation and conceptions of
