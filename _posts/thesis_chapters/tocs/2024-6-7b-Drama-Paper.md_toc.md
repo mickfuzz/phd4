@@ -4,6 +4,12 @@
         process.](#introduction-to-drama-process.)
     -   [Game Making Types](#game-making-types)
         -   [Game Making Types, roles](#game-making-types-roles)
+    -   [From Chapter 5](#from-chapter-5)
+        -   [What kind of Maker are you - Motivations behind social
+            processes](#what-kind-of-maker-are-you---motivations-behind-social-processes)
+        -   [Description drama process using extracts from vignettes and
+            concepts of
+            MoE](#description-drama-process-using-extracts-from-vignettes-and-concepts-of-moe)
         -   [Observations on Game Making
             Types](#observations-on-game-making-types)
     -   [On the Drama Process](#on-the-drama-process)

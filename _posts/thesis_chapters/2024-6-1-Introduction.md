@@ -51,7 +51,7 @@ title: 1. Introduction - What kind of game maker are you?
             media](#home-making-and-consuming-of-media)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Game making and maker culture in non-formal learning contexts
+    -   [Game making and maker culture in non-formal learning con described in previous chapter ...  mirror observations seen in the work of Rogoff and colleaguestexts
         and third
         spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
         -   [Physical spaces which suit non-formal
@@ -59,7 +59,7 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Funds of knowledge and third
             space](#funds-of-knowledge-and-third-space)
         -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
+            study](#third-spaces-and-the-context-of-this- described in previous chapter ...  mirror observations seen in the work of Rogoff and colleaguesstudy)
         -   [Game making as a fund of
             knowledge](#game-making-as-a-fund-of-knowledge)
             -   [Play circles and MOE as a third
@@ -125,12 +125,10 @@ to come - for now see outline of thesis at the end of chapter
 * case studies
 
 
-## Research Questions - April 2024
+## Research Questions - July 2024
 
-~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
-
-1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of coding practices with novices?
+1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
+2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
 
@@ -158,7 +156,16 @@ to come - for now see outline of thesis at the end of chapter
 
 ## Introduction to broad context
 
-In this thesis, I explore digital game making as a vehicle for inclusive pedagogy to coding fluency and participation in coding practices. The potential of digital game making is explored in depth in a review by Kafai and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. They are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010]. While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.
+In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices.
+
+
+_Motivations behind game making_: The learning potential of digital game making is explored in depth in a review by Kafai and Burke. This review focuses primarily on the development of game making to support subject knowledge and coding prowess [-@kafai_constructionist_2015].
+
+However, as shown by varied research, the motivations of digital game making and wider making are more diverses, encompassing, critical making and empowerment agendas.
+
+
+OTHER OBJECTIVES MOVED.
+
 
 In line educational research which highlights the important of learning contexts, my own interest is on the process of the creation and evolution of game making cultures. The development of agency in the participation in game making communities is of particular interest to me. This interest stems in part from my desire to develop learner agency in my wider work on student project-based approaches in higher education and STEM education, and also in part from my past involvement in grass-roots music and campaigning projects. The next section is a summarise the root of this interest through an exploration of my personal context.
 
@@ -310,6 +317,9 @@ Thus proposed motivations for supporting coding and game making are analysed alo
 
 The following sections therefore explore diverse motivations for learning to code specifically via game making or an informal making culture.
 
+
+
+
 - Learning coding and related digital skills to progress to join the commercial games industry
 - Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
 - Parents motivations to develop individual useful skills in young peoples.
@@ -388,7 +398,19 @@ RQ2 explores this with a focus on the use of game design patterns, a concept use
 
 ## Game making and coding and in schools and formal education
 
+
+
+The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society.
+
+They are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010].
+
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.
+
+
 The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
+
+
+
 
 ### Coding and Computing as a School Subject in the UK
 
@@ -416,10 +438,6 @@ But the effectiveness of this  is limited in teh following ways. Time, enthusias
 **Games in Schools**
 
 The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-
-
-
 
 
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.

@@ -7,8 +7,8 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 number-sections: true
-categories: chapter
-title: 5. Exploration of the Formative Learning Design Process
+categories: archive
+title: 5. Exploration of the Formative Learning Design Process - pre drama cut
 ---
 -   [Exploration of the Formative Learning Design
     Process](#exploration-of-the-formative-learning-design-process)
@@ -43,6 +43,9 @@ title: 5. Exploration of the Formative Learning Design Process
         -   [Social coding processes](#social-coding-processes)
         -   [Playtesting as a cultural
             process](#playtesting-as-a-cultural-process)
+        -   [Description drama process using extracts from vignettes and
+            concepts of
+            MoE](#description-drama-process-using-extracts-from-vignettes-and-concepts-of-moe)
         -   [Outroduction to this part of exploring Drama process and
             playtesting](#outroduction-to-this-part-of-exploring-drama-process-and-playtesting)
     -   [Chapter Discussion](#chapter-discussion)
@@ -879,7 +882,7 @@ The incident lead me to greater reflection on ongoing measures needed to prevent
 -   A concern for the fragility of learners positive affect towards the group game making process and thus the need for initial playful starting and closing activities to be continued beyond initial sessions.
 -   The value of a stronger buy-in by participants, ideally a greater commitment to the collective making process balanced with the need for low pressure (avoiding a negative sense of obligation).
 
-My journal notes detailed an evolution of attempts during P2 and P3 to try to build into the program, a variety of activities which help build the participants sense of their own identities of game makers or more generally digital designers. While chapter six examines these aspects in more depth, the evolution of key design features are summarised in this section, namely nurturing social coding processes and the particular role of playtesting.
+My journal notes detailed an evolution of attempts during P2 and P3 to try to build into the program, a variety of activities which help build the participants sense of their own identities of game makers or more generally digital designers. While chapter six examines these aspects in more depth, the evolution of key design features are summarised in this section, namely social coding processes,  playtesting and the use of a drama process.
 
 ### Social coding processes
 
@@ -1022,7 +1025,7 @@ Ed gives a more technical explanation from  involving the naming of the variable
 
 Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
 
-The indirect norming behaviours described in appendix 5.Norm.x mirror observations seen in the work of Rogoff and colleagues [@rogoff_cultural_2003] on learning in  community settings.
+The indirect norming behaviours ... described in previous chapter ...  mirror observations seen in the work of Rogoff and colleagues[@rogoff_cultural_2003] on learning in  community settings.
 
 There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
 
@@ -1056,7 +1059,9 @@ The success of activity spurred the creation of the creation of side-missions to
 AND - link more -->
 
 
-#### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
+
+
+#### Motivations and genesis of the drama process (what kind of Maker are you)
 
 By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
 
@@ -1076,6 +1081,119 @@ After the process of playing a game I shared my proposition that there different
 ![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
 
 I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
+
+<!-- #### A game encouraging maker / player types
+
+The drama process work in P3 to develop ways to encourage diverse and playful approaches to making had its roots in a game introduced in P2 where participants took part in an interactive the Bartle test. The Bartle test draws on work which ...
+
+The full process and rationale and initial reactions are detailed in appendix 4.x . In summary,
+
+The process was very engaging, parents responded that the process gave them new insight into the digital identities of their children. As part of the process I then proposed that there different game maker types and asked participants to evaluate and discuss with peers what kind of game maker they were. From the following list.
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+DATA REQUIRED FROM VIDEO!?
+
+This self evaluation helped confirm my own observations of different motivations driving different participation behaviours. Fuller discussion follows in chapter six.
+
+The success of activity spurred the creation of the creation of side-missions to be carried out in from of a dramatic process.
+
+AND - link more -->
+
+
+
+### Description drama process using extracts from vignettes and concepts of MoE
+
+The introduction of a drama process was introduced in response to a the barriers to participation caused by not identifying with the culture of coding or gaming.
+
+
+The drama process is an example of an introduced cultural tool. The process acts as wrapper to several supporting techniques. the side missions to and to sanction different approaches, the imagined audience encourages reflection and semi-authentic approaches. It is the most advanced tools of a range that was put into place to create a space suitable for creativity, collaboration and self expression.
+
+The following sections use concepts explored by Bolton and Heathcote from MoE processes to situate the drama process used the drama intervention used in the context of P3 [@aitken_dorothy_2013].
+
+
+<!-- q: How much to reference back to previous chapter? -->
+
+<!-- The drama game which is served to put participants at their ease, to make communication between peers easier after engaging in play, to decentre the learning environment by creating a circle with more equal participation. As explored in the literature review, the use of such games to help set up informal learning environments is COMPLETE  -->
+
+<!-- After the  excerpt which introduces a dramatic scenario involving a fictional audience I orientate learners in suggested use of support documentation. A full transcript is available in the appendix which outlines that process. -->
+
+
+
+**_Contracting into drama_**
+
+
+The drama process involved a fictional frame of aliens coming to judge the earth.  An extract of how I introduce the drama frame, the main and side missions is included as appendix 4.x. Below is a short extract of the overall mission.
+
+    We have some guidelines:
+
+      • Make a game about a big or small problem for your planet to solve. If you can let us play it each week as you go along.
+      • Give us an update each week by recording a group update.
+      • Show you can work on your own but also work as part of a team.
+      • We will also send you text messages with some mini-missions sometimes. Be sure to tell us how you do.
+
+    Please now get started and come up with a new game about solving a problem on Earth.
+
+_Extract from Appendix 4.x: Vignette of introduction of the drama process_
+
+The process of introducing a scenario for participant to respond to is common in project based learning in this vignette. Here it is extended using a dramatic element in line with Heathcote on Mantle of the Expert (MoE)
+
+
+As a facilitator, I indicate that we are entering a dramatic process and attempt to draw everyone into a commitment to the process. The collusion is noted by both parents and children in recorded exchanges. For example, after engaging with a code example provided by myself in the role of the aliens, one pair make the following comment.
+
+> Parent: Look, this is what Mick's showed, what Mick's has done.
+
+> Child: The Weean have done!
+
+> Parent: The Weean, sorry yes.
+
+<!-- NOTE - LIT summary? opening a space for agency / change of roles  -->
+
+_Facilitator activities in role_
+
+My role is a link between the participant and the fictional commissioners of the games. The transcript in appendix 4.1.a details an example of extended facilitator input as instruction. As a practitioner in this setting, I had tried to limit teacher instruction and to outline boundaries to prevent learner disengagement. However some input was needed to help address the previously explored tension choice with over-ambition, and signpost participants to needed documentation. The drama narrative helped resolve some of this personal tension by allowing me using the dramatic commission as a foil to help avoid the encounter feeling personally controlling [heathcote_drama_1985].
+CLARIFY - EXTERNALISING LIMITS TO ACTIVITY
+
+<!-- NOTE - support with lit? also is this one tension or two  -->
+
+_Learner activities in role_
+
+Beyond the wider fictional frame of the making activity, learners were also sometimes asked to undertake some activities in role, in particular reflection in role. This and other example are explored via vignette 4.1.b.
+
+<!-- There is more evidence of the impact of the drama process in the vignette above. In the end of session reflection, Richie occupies a peripheral position and continues to interact with his laptop. However, he reacts positively when Ed's questions to the Weean are read out. He later adds to the discussion when it turns to the sabotage based missions set in the drama process. It is probably that the ability to represent his irreverent approach helped his participation in the more formal, collaborative reflection and feedback activity in a way that had not happened in previous sessions.
+
+
+One key activity that was carried out in role in P3 was end of session reflection. -->
+
+<!-- IS MORE DESCRIPTION NEEDED HERE. ? -->
+
+Vignette 4.1.b  illustrates this  process. In the extract participants are invited to take turns showing their game, recapping their progress and outlining next steps to the alien observers. I play the role as a liaison facilitating the process for the fictional, remote audience. I also draw attention to the secret missions that had been distributed to participants, which along with social missions are explored in the following section.
+
+In addition to the careful technical and pedagogical creation and organisation of resources undertaken in P2, in P3 I sought a way for participants to be aware of and access relevant documentation without interrupting their creative flow or the fun of the experiences. To address this in P3, as part of the drama process, I encouraged participants to write to the aliens to ask help in a shared online document. The full process is described in appendix 4.x and participant reactions are explored in Chapter 7.
+
+
+<!-- In P1, with the aim of My aim was to create a peer community helping each other, I created a mailing list for participants to ask technical and code questions of the wider group.  However, this email list was hardly used for this purpose. Two parents shared that they were reluctant to bother other participants with their own issues. -->
+
+
+<!-- Choices
+- an overview of Mi's interactions on 2019-03-18 - home interests of art, community help, playtesting and being playtested, use of tools, Molly:as a social coder compared to others.
+- Or could look at the whole family unit mi, zi and ne - And their interactions with alien narrative. -->
+<!-- Something like the social activity of Vignette Sh and Th - perhaps even that one - as it goes on to
+describe the different kinds of interactions. But that is more interpersonal interactions for the most part.
+Here we are looking at something cultural?? -->
+
+<!-- WHERE AND HOW TO LINK DISCUSSION?
+- link to side missions of adventure games - zelda - perhaps find motivation there too. -->
+<!-- NOTE Examine MoE and this process drama in more general terms, then explore a -->
+<!-- (using AT theory and other relevant concepts - which are developed further in final discussion). -->
+<!-- It is of value to briefly discussion the value of the missions in relation to drama process theory and# play theory.  -->
+<!-- I first encountered these kinds of secret missions in a session which explored game design theory via creating a game collaboratively. [^1] -->
+<!-- The secret missions were part of this workshop
+https://playthinklearn.net/blog/ten-steps-to-game-design/ -->
 
 
 
