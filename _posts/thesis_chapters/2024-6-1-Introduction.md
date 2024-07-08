@@ -9,17 +9,17 @@ layout: post
 categories: chapter
 title: 1. Introduction - Games for a Read / Write world.
 ---
--   [Introduction - "What kind of Game Maker are
-    you?"](#introduction---what-kind-of-game-maker-are-you)
+-   [Introduction - "Games for a Read / Write
+    world."](#introduction---games-for-a-read-write-world.)
     -   [A study of the cultural and interpersonal dimensions and
         evolving tool use of an emerging community of families coding
         digital games
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [outline](#outline)
-    -   [Research Questions - March
-        2024](#research-questions---march-2024)
-    -   [Introduction to broad context](#introduction-to-broad-context)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
+    -   [Introduction to the thesis](#introduction-to-the-thesis)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Transition](#transition)
@@ -34,10 +34,11 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [Defining and conceptualising - formal, home and third space
             contexts - SUMMARISE /
             COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
-            -   [Funding and financial dimensions of contexts - MERGE
-                DOWN?](#funding-and-financial-dimensions-of-contexts---merge-down)
         -   [Summary of Conceptual
             Context](#summary-of-conceptual-context)
+        -   [Summary of the FOCUS of this thesis - adapting the
+            experience to an academic PhD
+            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
@@ -51,7 +52,7 @@ title: 1. Introduction - Games for a Read / Write world.
             media](#home-making-and-consuming-of-media)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
-    -   [Game making and maker culture in non-formal learning con described in previous chapter ...  mirror observations seen in the work of Rogoff and colleaguestexts
+    -   [Game making and maker culture in non-formal learning contexts
         and third
         spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
         -   [Physical spaces which suit non-formal
@@ -59,20 +60,15 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [Funds of knowledge and third
             space](#funds-of-knowledge-and-third-space)
         -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this- described in previous chapter ...  mirror observations seen in the work of Rogoff and colleaguesstudy)
+            study](#third-spaces-and-the-context-of-this-study)
         -   [Game making as a fund of
             knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
         -   [Work in non-formal settings drawing on home
             interests](#work-in-non-formal-settings-drawing-on-home-interests)
         -   [Mozilla - Teach the Web as context and
             community](#mozilla---teach-the-web-as-context-and-community)
         -   [Authentic web technology & Code
             playgrounds](#authentic-web-technology-code-playgrounds)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -81,8 +77,6 @@ title: 1. Introduction - Games for a Read / Write world.
             program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
             ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
         -   [Outlining cultural barriers / aspects of game
@@ -92,9 +86,6 @@ title: 1. Introduction - Games for a Read / Write world.
     -   [Summary of the thesis motivation and
         structure](#summary-of-the-thesis-motivation-and-structure)
         -   [Recap of motivation](#recap-of-motivation)
-            -   [An area of tension to address - limited leaner choice
-                in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
@@ -156,11 +147,19 @@ to come - for now see outline of thesis at the end of chapter
 
 ## Introduction to the thesis
 
+
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices.
 
-_Motivations behind game making_: The learning potential of digital game making is explored in depth in a review by Kafai and Burke. This review focuses primarily on the development of game making to support subject knowledge and coding prowess [-@kafai_constructionist_2015].
+We live in a society where technology is increasingly used in work and home-life in increasingly complex and prevalent ways.
 
-However, as shown by varied research, the motivations of digital game making and wider making are more diverse, encompassing critical making and empowerment agendas AND MORE. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To reflect this, the term computational fluency is used at times as an overall guiding motivation. The term encompasses
+Even in a simple domestic setting, technology can impact on significant issues such as media consumption and values associate with it, screen addition, and fears of jobs being replaced by automation, and AI driven by an increased digital economy.
+
+Several reviews of digital game making focuses primarily on the development of game making to support subject knowledge and coding prowess [@kafai_constructionist_2015].
+
+However, as shown by varied research, the motivations of digital game making and wider making are more diverse, encompassing critical making and empowerment agendas AND MORE.
+Other studies and work also highlight issues that need to be critically addressed, and caution against technical decision for our future society being made by a technological elites rather than a more broadly informed society.
+
+While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To reflect this, the term computational fluency is used at times as an overall guiding motivation. The term encompasses
 
     Computational fluency involves not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies.
 
@@ -170,7 +169,8 @@ However, as shown by varied research, the motivations of digital game making and
 
 Resnick's quote comes in a piece creative coding at a crossroads. A critique of formulaic and instruction based computing education.
 
-In line with this research, this thesis highlights the importance of learning contexts on the creative process in digital making.
+
+In line with x research, this thesis highlights the importance of learning contexts on the creative process in digital making.
 
 While the activities of this study take place outside of school, this study echoes this concern. Later in this introduction the mess that is the 2014 Computing curriculum and associated exams have caused with recent reports underlining already growing concerns.
 
@@ -407,15 +407,15 @@ RQ2 explores this with a focus on the use of game design patterns, a concept use
 
 ### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
 
-Creating a design experiment with several interations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
 
-Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here woudl be a form of deception by ommision. While the diverse experience may be  
+Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be  
 
-In addition,  as noted by academic research writing format often skirts detail in favour of analyis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
+In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
 
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging paticipant agency.
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
 
-Even this more limited focus, still contains a rich interplay of diverse tool use, varied  of and a study of different dimentions of agency shown by participants. While this may ask a lot of the reader to follow, it is justifyable due to the complex nature of the learning experiences involved.  dfs 
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
 
 
 ## Game making and coding and in schools and formal education

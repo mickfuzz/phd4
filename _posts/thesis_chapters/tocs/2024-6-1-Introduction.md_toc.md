@@ -1,14 +1,14 @@
--   [Introduction - "What kind of Game Maker are
-    you?"](#introduction---what-kind-of-game-maker-are-you)
+-   [Introduction - "Games for a Read / Write
+    world."](#introduction---games-for-a-read-write-world.)
     -   [A study of the cultural and interpersonal dimensions and
         evolving tool use of an emerging community of families coding
         digital games
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [outline](#outline)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
-    -   [Introduction to broad context](#introduction-to-broad-context)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
+    -   [Introduction to the thesis](#introduction-to-the-thesis)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Transition](#transition)
@@ -25,6 +25,9 @@
             COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
         -   [Summary of Conceptual
             Context](#summary-of-conceptual-context)
+        -   [Summary of the FOCUS of this thesis - adapting the
+            experience to an academic PhD
+            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
