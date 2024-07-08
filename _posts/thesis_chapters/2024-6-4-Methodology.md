@@ -852,8 +852,7 @@ This study faces an issue of being culturally embodies, thus think descriptions 
 
 The final chapter addresses the need to replicate this study in different contexts and the challenges involved in replicating the spontaneous emergent elements of specifics of this study.
 
-As such chapter four can be conceptualised as a design narrative (see [@hoadley_creating_2002]) to address the common deficit of detail of the designed product and process. "the usual study presents a technology fully
-formed as if it had risen from the oceans like Venus herself"
+As such chapter four can be conceptualised as a design narrative (see [@hoadley_creating_2002]) to address the common deficit of detail of the designed product and process. "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself"
 
 " Would that all interventional research included this kind of rich description of the “treatment” so that one might infer whether the results were applicable elsewhere."
 

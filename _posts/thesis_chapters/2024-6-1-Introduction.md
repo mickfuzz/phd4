@@ -170,13 +170,15 @@ However, as shown by varied research, the motivations of digital game making and
 
 Resnick's quote comes in a piece creative coding at a crossroads. A critique of formulaic and instruction based computing education.
 
+In line with this research, this thesis highlights the importance of learning contexts on the creative process in digital making.
+
 While the activities of this study take place outside of school, this study echoes this concern. Later in this introduction the mess that is the 2014 Computing curriculum and associated exams have caused with recent reports underlining already growing concerns.
 
 x, y and z from Peter Kemps report on SCARI
 
 Sadly, the concerns mostly echo previous concerns with the 'hardness' of computing education culture which were explored as computing education emerged [Papert].
 
-They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many]. In line with this research, this thesis highlights the importance of learning contexts on the creative process in digital making.
+They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
 
 <!-- New software tools to make games which offer new pedagogical possibilities emerge regularly.  -->
 
@@ -344,11 +346,6 @@ The following sections therefore explore diverse motivations for learning to cod
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
 
-
-
-
-
-
 ### Defining and conceptualising - formal, home and third space contexts - SUMMARISE /  COMPRESS
 
 **on Informal Education Pedagogies**
@@ -358,6 +355,7 @@ To assess the wider use of professional frameworks of concepts, it is potential 
 Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
 
 **Defining Informal Education**
+
 Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
 
 Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
@@ -406,9 +404,21 @@ This study, in part, explores ways in which how the motivational and navigationa
 
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
+
+### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
+
+Creating a design experiment with several interations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here woudl be a form of deception by ommision. While the diverse experience may be  
+
+In addition,  as noted by academic research writing format often skirts detail in favour of analyis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
+
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging paticipant agency.
+
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied  of and a study of different dimentions of agency shown by participants. While this may ask a lot of the reader to follow, it is justifyable due to the complex nature of the learning experiences involved.  dfs 
+
+
 ## Game making and coding and in schools and formal education
-
-
 
 The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society.
 
