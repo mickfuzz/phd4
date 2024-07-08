@@ -154,22 +154,17 @@ to come - for now see outline of thesis at the end of chapter
 -  Introduction to RQs, outline of thesis etc -->
 
 
-## Introduction to broad context
+## Introduction to the thesis
 
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices.
 
 _Motivations behind game making_: The learning potential of digital game making is explored in depth in a review by Kafai and Burke. This review focuses primarily on the development of game making to support subject knowledge and coding prowess [-@kafai_constructionist_2015].
 
-However, as shown by varied research, the motivations of digital game making and wider making are more diverse, encompassing critical making and empowerment agendas AND MORE.
-
-While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media.
-
-To reflect this, the term computational fluency is used at times as an overall guiding motivation. The term encompasses
+However, as shown by varied research, the motivations of digital game making and wider making are more diverse, encompassing critical making and empowerment agendas AND MORE. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To reflect this, the term computational fluency is used at times as an overall guiding motivation. The term encompasses
 
     Computational fluency involves not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies.
 
     Becoming fluent, whether with writing or coding, helps you to develop your thinking, develop your voice, and develop your identity.
-
 
     (Resnick, 2017 & 2018) - not sure which ones.
 
@@ -181,22 +176,17 @@ x, y and z from Peter Kemps report on SCARI
 
 Sadly, the concerns mostly echo previous concerns with the 'hardness' of computing education culture which were explored as computing education emerged [Papert].
 
-They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
+They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many]. In line with this research, this thesis highlights the importance of learning contexts on the creative process in digital making.
 
-In line with this research, this thesis highlights the importance of learning contexts on the creative process in digital making.
+<!-- New software tools to make games which offer new pedagogical possibilities emerge regularly.  -->
 
-The development of agency in the participation in game making communities is of particular interest to me. This interest stems in part from my desire to develop learner agency in my wider work on student project-based approaches in higher education and STEM education.
+Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
 
-There is also, when viewing agency from an empowerment perspective agency, a link to my past involvement in grass-roots music and campaigning projects. The next section this dimension through a brief exploration of my personal context.
-
-
-<!-- New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.    -->
-
-
-
+Thus the process of coding retro games lies at a confluence of diverse contexts, motivations and possibilities. For this thesis, it is the development of agency in the participation in game making communities is of particular interest to me. Viewing agency from an empowerment perspective  links to my involvement in project-based approaches in higher education, STEM education and grass-roots community contexts. The next section this dimension through a brief exploration of my personal context.
 
 ## Personal context and motivation for undertaking this study
-<!-- In 1995, as anyed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
+
+<!-- In 1995, as  recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
 
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
