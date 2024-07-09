@@ -7,19 +7,19 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 1. Introduction - What kind of game maker are you?
+title: 1. Introduction - Games for a Read / Write world.
 ---
--   [Introduction - "What kind of Game Maker are
-    you?"](#introduction---what-kind-of-game-maker-are-you)
+-   [Introduction - "Games for a Read / Write
+    world."](#introduction---games-for-a-read-write-world.)
     -   [A study of the cultural and interpersonal dimensions and
         evolving tool use of an emerging community of families coding
         digital games
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [outline](#outline)
-    -   [Research Questions - March
-        2024](#research-questions---march-2024)
-    -   [Introduction to broad context](#introduction-to-broad-context)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
+    -   [Introduction to the thesis](#introduction-to-the-thesis)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Transition](#transition)
@@ -34,10 +34,11 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Defining and conceptualising - formal, home and third space
             contexts - SUMMARISE /
             COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
-            -   [Funding and financial dimensions of contexts - MERGE
-                DOWN?](#funding-and-financial-dimensions-of-contexts---merge-down)
         -   [Summary of Conceptual
             Context](#summary-of-conceptual-context)
+        -   [Summary of the FOCUS of this thesis - adapting the
+            experience to an academic PhD
+            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
@@ -62,17 +63,12 @@ title: 1. Introduction - What kind of game maker are you?
             study](#third-spaces-and-the-context-of-this-study)
         -   [Game making as a fund of
             knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
         -   [Work in non-formal settings drawing on home
             interests](#work-in-non-formal-settings-drawing-on-home-interests)
         -   [Mozilla - Teach the Web as context and
             community](#mozilla---teach-the-web-as-context-and-community)
         -   [Authentic web technology & Code
             playgrounds](#authentic-web-technology-code-playgrounds)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Review of relevant barriers to participating in coding
         practices emerging in the
         literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
@@ -81,8 +77,6 @@ title: 1. Introduction - What kind of game maker are you?
             program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
             ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
         -   [Barrier - unfamiliarity with support
             practices](#barrier---unfamiliarity-with-support-practices)
         -   [Outlining cultural barriers / aspects of game
@@ -92,9 +86,6 @@ title: 1. Introduction - What kind of game maker are you?
     -   [Summary of the thesis motivation and
         structure](#summary-of-the-thesis-motivation-and-structure)
         -   [Recap of motivation](#recap-of-motivation)
-            -   [An area of tension to address - limited leaner choice
-                in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
@@ -103,7 +94,7 @@ title: 1. Introduction - What kind of game maker are you?
         -   [Link to next chapter](#link-to-next-chapter)
     -   [Links](#links)
 
-# Introduction - “What kind of Game Maker are you?”
+# Introduction - “Games for a Read / Write world.”
 
 ### A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.
 
@@ -125,12 +116,10 @@ to come - for now see outline of thesis at the end of chapter
 * case studies
 
 
-## Research Questions - April 2024
+## Research Questions - July 2024
 
-~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
-
-1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of coding practices with novices?
+1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
+2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
 
@@ -156,20 +145,50 @@ to come - for now see outline of thesis at the end of chapter
 -  Introduction to RQs, outline of thesis etc -->
 
 
-## Introduction to broad context
-
-In this thesis, I explore digital game making as a vehicle for inclusive pedagogy to coding fluency and participation in coding practices. The potential of digital game making is explored in depth in a review by Kafai and Burke [-@kafai_constructionist_2015]. The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. They are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010]. While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.
-
-In line educational research which highlights the important of learning contexts, my own interest is on the process of the creation and evolution of game making cultures. The development of agency in the participation in game making communities is of particular interest to me. This interest stems in part from my desire to develop learner agency in my wider work on student project-based approaches in higher education and STEM education, and also in part from my past involvement in grass-roots music and campaigning projects. The next section is a summarise the root of this interest through an exploration of my personal context.
+## Introduction to the thesis
 
 
-<!-- New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.    -->
+In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices.
+
+We live in a society where technology is increasingly used in work and home-life in increasingly complex and prevalent ways.
+
+Even in a simple domestic setting, technology can impact on significant issues such as media consumption and values associate with it, screen addition, and fears of jobs being replaced by automation, and AI driven by an increased digital economy.
+
+Several reviews of digital game making focuses primarily on the development of game making to support subject knowledge and coding prowess [@kafai_constructionist_2015].
+
+However, as shown by varied research, the motivations of digital game making and wider making are more diverse, encompassing critical making and empowerment agendas AND MORE.
+Other studies and work also highlight issues that need to be critically addressed, and caution against technical decision for our future society being made by a technological elites rather than a more broadly informed society.
+
+While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To reflect this, the term computational fluency is used at times as an overall guiding motivation. The term encompasses
+
+    Computational fluency involves not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies.
+
+    Becoming fluent, whether with writing or coding, helps you to develop your thinking, develop your voice, and develop your identity.
+
+    (Resnick, 2017 & 2018) - not sure which ones.
+
+Resnick's quote comes in a piece creative coding at a crossroads. A critique of formulaic and instruction based computing education.
 
 
+In line with x research, this thesis highlights the importance of learning contexts on the creative process in digital making.
 
+While the activities of this study take place outside of school, this study echoes this concern. Later in this introduction the mess that is the 2014 Computing curriculum and associated exams have caused with recent reports underlining already growing concerns.
+
+x, y and z from Peter Kemps report on SCARI
+
+Sadly, the concerns mostly echo previous concerns with the 'hardness' of computing education culture which were explored as computing education emerged [Papert].
+
+They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
+
+<!-- New software tools to make games which offer new pedagogical possibilities emerge regularly.  -->
+
+Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
+
+Thus the process of coding retro games lies at a confluence of diverse contexts, motivations and possibilities. For this thesis, it is the development of agency in the participation in game making communities is of particular interest to me. Viewing agency from an empowerment perspective  links to my involvement in project-based approaches in higher education, STEM education and grass-roots community contexts. The next section this dimension through a brief exploration of my personal context.
 
 ## Personal context and motivation for undertaking this study
-<!-- In 1995, as anyed recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
+
+<!-- In 1995, as  recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
 
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
@@ -310,6 +329,9 @@ Thus proposed motivations for supporting coding and game making are analysed alo
 
 The following sections therefore explore diverse motivations for learning to code specifically via game making or an informal making culture.
 
+
+
+
 - Learning coding and related digital skills to progress to join the commercial games industry
 - Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
 - Parents motivations to develop individual useful skills in young peoples.
@@ -324,11 +346,6 @@ The following sections therefore explore diverse motivations for learning to cod
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
 
-
-
-
-
-
 ### Defining and conceptualising - formal, home and third space contexts - SUMMARISE /  COMPRESS
 
 **on Informal Education Pedagogies**
@@ -338,6 +355,7 @@ To assess the wider use of professional frameworks of concepts, it is potential 
 Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
 
 **Defining Informal Education**
+
 Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
 
 Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
@@ -386,9 +404,33 @@ This study, in part, explores ways in which how the motivational and navigationa
 
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
+
+### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
+
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be  
+
+In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
+
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
+
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+
+
 ## Game making and coding and in schools and formal education
 
+The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society.
+
+They are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010].
+
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.
+
+
 The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
+
+
+
 
 ### Coding and Computing as a School Subject in the UK
 
@@ -416,10 +458,6 @@ But the effectiveness of this  is limited in teh following ways. Time, enthusias
 **Games in Schools**
 
 The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-
-
-
 
 
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.

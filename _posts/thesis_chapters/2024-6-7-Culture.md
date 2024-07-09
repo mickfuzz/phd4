@@ -21,21 +21,11 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         activity](#observations-on-emergent-elements-of-agency-within-cultural-activity)
         -   [Intro to this section (on planned and emergent
             activity)](#intro-to-this-section-on-planned-and-emergent-activity)
-            -   [Recap of Emerging role of
-                playtesting](#recap-of-emerging-role-of-playtesting)
         -   [Emerging use of narratives and graphics which drawing on
             home funds of
             knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
-            -   [Summary: Home Funds and
-                RQs](#summary-home-funds-and-rqs)
     -   [Observations on emerging flexible design
         practices](#observations-on-emerging-flexible-design-practices)
-        -   [Observations on Flexible Design
-            Practices](#observations-on-flexible-design-practices)
-        -   [Observations on Game Making
-            Types](#observations-on-game-making-types)
-        -   [The potential of emergent "non-productive"
-            activities](#the-potential-of-emergent-non-productive-activities)
         -   [Discussion in relation to other research - beyond design
             cycle
             stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
@@ -46,69 +36,28 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [The interaction of emergent / flexible deign practices and
             the collection of Game Design
             Patterns](#the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
-    -   [On the Drama Process](#on-the-drama-process)
-        -   [Discussion on conflicts associated with authenticity of
-            audience](#discussion-on-conflicts-associated-with-authenticity-of-audience)
-        -   [Observations on use of side missions in drama
-            process](#observations-on-use-of-side-missions-in-drama-process)
-            -   [Observations on written interactions with the alien in
-                the
-                drama](#observations-on-written-interactions-with-the-alien-in-the-drama)
-        -   [Discussion on dimensions of authenticity and Process
-            Drama](#discussion-on-dimensions-of-authenticity-and-process-drama)
-        -   [Discussion on making types and process drama / side
-            missions](#discussion-on-making-types-and-process-drama-side-missions)
-        -   [Discussion on Drama Process and
-            Agency](#discussion-on-drama-process-and-agency)
-        -   [Positive affective space within a drama
-            process](#positive-affective-space-within-a-drama-process)
-            -   [Reflection on reflecting in
-                role](#reflection-on-reflecting-in-role)
-            -   [Discussion on mediated chat and potential for
-                addressing contradictions in
-                activity](#discussion-on-mediated-chat-and-potential-for-addressing-contradictions-in-activity)
-            -   [Concluding remarks on process
-                drama](#concluding-remarks-on-process-drama)
+    -   [Authenticity in project approaches (was drama
+        process)](#authenticity-in-project-approaches-was-drama-process)
+    -   [Discussion on making types and side
+        missions](#discussion-on-making-types-and-side-missions)
     -   [Discussion section - Metaphors on developing
         agency](#discussion-section---metaphors-on-developing-agency)
         -   [Dual stimulation and conceptions of
             agency](#dual-stimulation-and-conceptions-of-agency)
         -   [Metaphors](#metaphors)
-            -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
-            -   [Affordances as catching points
-                metaphor](#affordances-as-catching-points-metaphor)
         -   [Playgrounds and sheltered
             harbours](#playgrounds-and-sheltered-harbours)
-            -   [Nurturing agency by creating space for emergent
-                practices](#nurturing-agency-by-creating-space-for-emergent-practices)
     -   [Exploring conceptions of agency via a synthesis of the findings
         of this study (using metaphors
         above)](#exploring-conceptions-of-agency-via-a-synthesis-of-the-findings-of-this-study-using-metaphors-above)
         -   [Discussion on agency concerning tools and resources
             (authenticity in
             particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
-            -   [Increased scaffolding of tools can increase
-                instrumental agency but at what
-                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost)
-            -   [Different black boxes for different
-                goals](#different-black-boxes-for-different-goals)
-            -   [The potentially awesome impact of lifting the lid on
-                authentic
-                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-            -   [Exploring characteristics of the learning design using
-                different dimensions of agency & previous
-                metaphors](#exploring-characteristics-of-the-learning-design-using-different-dimensions-of-agency-previous-metaphors)
-            -   [Agency in response to a series of second stimuli aimed
-                at participant
-                identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
     -   [Summary of implications for practice to encourage
         agency](#summary-of-implications-for-practice-to-encourage-agency)
         -   [Asking questions about the challenge of applying this model
             to classroom
             environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
-            -   [Divining authentic
-                frameworks](#divining-authentic-frameworks)
-            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
     -   [Implications in conceptualisations of forms of
         agency](#implications-in-conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
@@ -153,17 +102,11 @@ For example, in the previous chapter explored the use of GDPs in varied ways whi
 
 - emerging use of narratives and graphics which drawing on home funds of knowledge
 
-
-      <!-- - playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting -->
+- playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting
 
 - the emergence of flexible and complex design behaviours.
 
 This section includes evidence and discussion in  relation with other research on these aspects.
-
-The next section of the chapter addresses evidence of reactions and development of the drama process introduced in chapter five.
-THIS SECTION INVOLVES RESTRUCTURING LINK BETWEEN CH 5 AND THIS ONE. MOVE REACTION HERE.
-
-
 
 The chapter then begins a discussion on the overall design context, tensions and evolution of tool use. Particular attention is given to the implications of design decisions and scaffolding approaches to tool use.
 WHAT RQS DOES THIS ANSWER AND WHY? STEER TO RQ3 ON AGENCY
@@ -181,37 +124,12 @@ Chap 5 - zoom out in scale to main focus of the activity as communicated between
 Chap 6 - zoom out in scale to cultural tools and their impact and appropriation by participants. It -->
 
 
-
-
-
-
-
-<!-- Inspired by Heathcote, the importance and challenges of authenticity in tool use are examined, using activity theory concepts, in the context of seeding and nurturing learning community processes. The learner agency and the ability for learners to develop their identities as designers are of key interest.
-
-
-<!--
-REMOVE DUPLICATION
-The first section examines the impact of a process drama with an aim to establish and nurture community practice. It highlighted the value of introducing almost-real processes, near authentic tools and the possibility of learners developing learning identities within a drama frame. This section looks in greater depth at the impact on learners of the tools and suggested design patterns of the learning design explored in the previous chapter. -->
-
-<!-- For example, in the tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. -->
-
-<!-- NOTE - DROPPING THE FOCUS ON INCLUSION HERE FOR A MORE FOCUSED APPROACH. -->
-
 <!-- **Justifying selection of chapter contents**
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
-
-
-Some sections here including discussion on element of the introduced drama processe explore how facilitators can encourage emergent processes as part of an introduced design.  This discussion chapter uses this conceptual spectrum as a way to explore an analyis of different aspects of agency aand inclusive pedagogies.
-
-<!-- - tool support and design decisions allowing greater instrumental agency
-- we can see emergent use of GDPs as both practice and knowledge in the previous chapter
-- summary of cultural aspects -->
-
-
-
+Some sections here including discussion on element of the introduced side missions explore how facilitators can encourage emergent processes as part of an introduced design. This discussion chapter uses this conceptual spectrum as a way to explore an analysis of different aspects of agency aand inclusive pedagogies.
 
 
 ## Observations on emergent elements of agency within cultural activity
@@ -756,190 +674,7 @@ But at the cost of maintaining a working game. -->
 
 
 
-
-## On the Drama Process
-
-### Discussion on conflicts associated with authenticity of audience
-
-**Learners may not find coding a project a motivating project if it is only a private activity with no authentic audience**
-
-Making for peers has value but can be amplified and scoped using a fictional or controlled external audience often via scenarios.
-
-    An authentic audience can create a motivating context to deepen and sustain participation
-    (Larson, 2007; Magnifico, 2010) [@roque_youth_2019-1]
-
-<!--
-MOVE To LATER DISCUSSION ON AUTHENTICITY IN LATER CHAPTERS?
-
-In line existing PBL research [LIT NEEDED]  with previous iterations of this learning design the process of creating a game for a real audience of university students was motivating [DATA NEEDED].
-
-While the use of a fictional audience in the drama is clearly inauthentic, authenticity is "on a scale" [find support].
-
-In relation to existing literature this is well explored but the use of drama processes to add to this experience is potentially very fruitful to:  increase learner motivation; seed community practice; and  ADDITIONAL (something about learner identities)
--->
-
-Play Testing - each lesson can help with short term motivation of having a game product ready  for others to play.  Showcase events help longer-term motivation towards and aid prioritisation as learners near the end of their project.
-
-The process of starting with a broken but playable template game allowed learners to be able to share their game with others from the start of the coding process.
-
-As a designer I identified this tactic as a way to address learner disengagement if game coding is taught from scratch via a step by step instructions from first principles, especially in younger ages.
-
-Similarly, in my journal notes, I reflect on the difficulty of interrupting the flow of making activities once they are underway. I thus began avoiding stopping making to share points to the whole class and avoid demonstrating key concepts on the screen.
-
-
-
-<!-- There are examples of the authenticity of the audience being used by participants
-- Suzanna uses the imagined audience to norm behaviour.
-- Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions. -->
-
-
-<!-- TENSION OF TIME ALLOCATION OF DRAMA PROCESS.
-The tensions associated with the use of time and efforts spent by participants engaging with the drama processes.
-The process of bringing people into the culture merit allocating time to address inequalities.
-
-Here, in response to potential alienation from the culture of coding, I have prioritised the introduction of tools and processes which participants can draw on to build agency.  -->
-
-<!-- NOTE - BRING THE DISCUSSION BACK TO THE RQS - -->
-<!--
-Exploring classroom culture, Engeström [-@engestrom1998reorganizing] notes the challenges of nurturing the motivation of students and tensions which surround the objectives of children of "schoolgoing". (complete this) -->
-
-<!-- NOTE - Find complexity here?  -->
-
-
-
-### Observations on use of side missions in drama process
-These activities were undertaken by most of the participants. In analysis of one key sessions involving missions from which the transcript was taken. Out of 10 participants, 8 visibly engaged with the secret missions during the session.
-
-<!-- PROVISIONAL BRING accurate FIGURES TO THIS. -->
-
-The process was not without friction.  While the some of the secret missions encouraged forms of disruptive play, griefing of playing against the game [@bakioglu_spectacular_2008; @bartle_hearts_nodate]. While this increases engagement for some learners, the process also suffered the danger that participants transgress levels of cheekiness and play which explores boundaries, to more disruptive ones. In this context this involved frustration and wasted time for other users. After initially engaging with the process of secret games, Toby and Dave, who were later working on a tricky coding process, expressed frustration at interference.
-
-Thus, while promising, limits to this process should be evaluated to avoid overly disruptive behaviour which create barriers to progress. For example, time limits could be in place.  
-
-<!-- Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children.  -->
-
-
-
-<!-- Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
-Ed: Yes. (Ed starts to type very slowly)
-Mark: (after some time) While you do that I’m going to go do my mission.
-Ed: What's your mission?
-Mark: To find out about other people's favourite games.
-Ed: Alright. -->
-
-This chapter makes limited claims in terms of the effectiveness of this process due to limits in terms of data gathering. However, it can make a claim that this activity has significant potential.
-HOW EXACTLY?
-
-In summary, this activity helped addresses one of the key barriers to taking part in a coding community that of alienation from the culture of coding. The use of missions introduced by facilitator are taken up voluntarily by participants and aimed to address conflicts caused by identity clashes by recognising and encouraging diverse making approaches and styles of community participation.
-
-The positive reaction of young people to the drama process was also picked up in interview data.
-
-    Mark: Tell us about the Weean?
-    Ed: er.
-    Mark: What did you like about the Weean?
-    Ed: Just very silly and I don't know. They answered your questions.
-    Mark: Was it, because there was a sense of play, a bit of fun and a bit of anarchy.
-    Ed: Yeah.
-    Mark: What else can you tell us about the Weean?
-    Ed: er.
-    Mark: There was the little sabotage things you had to do as well.
-    Ed: Yeah
-    Mark: So you liked those games where you had to kind of hack somebody else?
-    Ed: Yeah
-    ...
-    Mark: The Weean thing was, I think, a massive hit for everybody because it just brought sense of play and fun. And it took attention away from it being overtly technical. Brought a personal element in and obviously that anarchy. Kids love the absurd.
-
-
-<!-- While not all participants engaged with written tutorials. The next chapter explores the process in more detail from the perspective of a participant wanting to implement a particular game design pattern. -->
-
-<!-- This observation is supported by research which encourages varied approaches in addition to instruction-based approaches [@dietz_design_2021; @resnick_coding_2020]. Other studies address barriers to literacy in technical project work  explore written instructions within the drama frame thus providing a greater incentive for participants to engage with the material [@blunden2014seeking]. [SEE LIT REVIEW FOR MORE EXPLORATION]. -->
-
-<!-- The exploration of documentation with the drama frame aimed to disrupt this pattern of identification giving participants a motivation to read in role.  -->
-<!-- Evidence for this means of communication is promising however because these processes were brought into the design at a relatively late stage, there is not enough data to make larger claims beyond surfacing this potential. -->
-
-<!-- NOTE - bRING IN A QUOTE FROM ATHENA TO SUPPORT?  -->
-
-<!-- and attempting to shift patterns of working from printed sheets to working online This was partly to be able to capture how participants interacted with documentation more easily as I would be able to review it on their screen in captured data.  -->
-
-
-#### Observations on written interactions with the alien in the drama
-
-
-As well as exploring documentation and accessing technical help within the drama frame, student also engaged in playful dialogue with the aliens unrelated to game making. The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens. This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants.
-
-The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
-
-The process is described in more detail in Appendix 7.x.
-MOVE THE FOLLOWING TO Appendix
-
-While accessible online, the use of the board was mainly active in the last session, where general oversight of the activities taking place in the same room as parents prevented any possible abusive or unsafe behaviour. There was however a fair amount of playful boundary pushing commentary.
-
-Examples include:
-- find cheeky examples.
-
-<!--
-To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
-
-Dan and Toby also received written help from the aliens to implement a pattern of creating random movement in their pac-man clone game. For this pair, the process of following a code suggestion from the aliens gives the parent opportunity to deconstruct the code in detail to explore coding concepts. In later discussion, Dan uses the fiction of the alien when asking a clarifying question.
-
-    "Mick, do you think the aliens would mind if we get rid of the switch statement and replace it with some if-thens? They're just showing off these aliens aren't they?"
-
-Here the text dialogue with the aliens is used as a mediating artefact first by the facilitator to share help in-role, and then by a parent to suggest a modification to the code syntax to create more readable code structure for novices.  
-
-While this aspect of the drama process was introduced by the facilitator, in alignment with the understanding of Sannino's concepts of transformative agency through double stimulation (TADS) participants transform the function of the alien conversation to their own purposes. This theme is developed in the next section. -->
-<!--
-_Playful dialogue with the aliens unrelated to game making_
-
-The process of asking the aliens for technical help within a code project sparked a playful process of informal chatting with the aliens.
-
-This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
-
-The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session. -->
-
-<!-- During in our end of session reflection above, I noted the following ad-hoc encounter that a child initiated on the interactive page while his father was taking a break from coding.
-
-    Ed: hi WEEAN what is it like up there :)
-    Weean: It is cold and very big but quite tranquil too.  all the same.
-    Ed: What is your name?
-    Weean: We are are the Weean we have no name, we are all the same.
-    Ed: That must be hard at xmas
-    Weean: It is. It sure is.
-
-
-![](./Pictures/2019-05-15-alien_feedback_2.png){width=90%}
-
-![alien feedback]({{ site.baseurl }}/thesis_chapters/Pictures/2019-05-15-alien_feedback_2.png) -->
-
-<!-- Inspired by the positive reaction of participants to this playful engagement with the fictional audience, I asked a student helper to participate remotely to play the part of the alien. The student then gave feedback via live text interaction to participants in the final session. The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session. -->
-
-
-<!--
-DEVELOP OR FINISH - note on Affordances
-
-To express this using affordance theory, the affordance offered by the medium of communication is repurposed and made more visible by Ed's use of it to ask playful questions.
- -->
-
-<!-- NOTES
-- identity of playfulness  
-  -->
-
-### Discussion on dimensions of authenticity and Process Drama
-
-<!-- #### Authenticity of Problem / Project
-Well established in PBL.
-Here the challenge is make a game to share, thus well aligned. -->
-
-Returning to the work of drama processes, Heathcote [@heathcote_drama_1994] warns against asking participants to genuinely make items in the processes explored. To do so, she argues, would expose their inexpertness in the cold light of day.
-
-> "if they are makers of things (for example, shoes, ballgowns, or aircraft) they _must never_ (within the fiction, that is) _be asked to create the actual objects_. If they had to do this their _in_ expertness would become immediately apparent."[@heathcote_drama_1994, p. 18]
-
-Authentic tools in settings where students may find their novice skills lacking can negatively impact on experiences of self-efficacy and thus agency. While this is clearly the case in factory-based drama process, the value of digital tools allows students to to work with more authentic practices.
-
-CALL BACK TO AUTHENTICITY OF LAST CHAPTER - LINK TO AGENCY
-
-In chapter four the use of coding tools and the impact on instrumental agency was explored.
-
-<!-- In the learning environment of this study there are broad similarities and some key differences in terms of supporting tools and processes. -->
+## Authenticity in project approaches (was drama process)
 
 Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
 
@@ -963,84 +698,11 @@ While this is broadly in line with PBL theories, and constructionism the use of 
 CROSSREFF -  list the benefits here.
 
 
-### Discussion on making  types and process drama / side missions
+## Discussion on making types and side missions
 
 The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
 As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-
-
-### Discussion on Drama Process and Agency
-
-Aitken's and Heathcote's terms follow in italics. Within a _fictional context_ a _responsible team_ is contracted into a _commission_ by a _client_. The facilitator _frames curriculum elements_ as productive tasks and plans for _tensions_ to arise involving: _authentic contexts_, _messiness of learning_, maintaining learner interest and _resilience_ to overcome the _grappling and struggling_ involved. The following sections explore some of these key concepts via the example in vignette.
-
-### Positive affective space within a drama process
-
-The work in this research around designing and coding _in role_ and creating a playful context and language mirrors work done in learning languages to reduce learner anxiety by leveraging the potential for drama processes to create positive "affective spaces" [@piazzoli_process_2011; @stinson_dol_2006]. The drama process can be viewed as magic circle [@stenros_defence_2012; @whitton_playful_2018]. A magic circle is a concept which transmits the idea that game players enter a loosely bounded play space where they accept arbitrary play rules and enter a social contact to adopt a playful attitude.
-
-<!-- EXPAND - Characteristics associated with the concept include: x; y; and z. -->
-
-
-
-<!-- Other processes beyond the social and secret missions discussed were completed in role namely; the wider mission of making a game; the end reflection sessions; and guiding participants in the use of supporting documentation.   -->
-
-<!-- This section aims to explore these observations paying particular attention to their value in the context of computer coding and using AT as a frame. -->
-
-The experience of myself and participants being more comfortable performing some of the activities in role is facilitated by contracted together into a playful agreement where risk of perceived failure is reduced. In my journal notes, I observed, that when listing boundaries to activities within role, it felt similar to outlining the rules of a game rather that constricting their behaviour. Thus, I felt more relaxed restricting choice in role via the proxy of a playful encounter compared to my previously I  concerns surrounding participants feeling overly controlled.  
-<!-- Thus less about  and more about contracting into a game-ful or playful experience.  -->
-
-
-In addition, I believe part of my hesitancy in shifting activity from participant-led game making to reflection, or accessing documentation, stemmed from worrying that the learners would also find this shift in objective, from the organically developing design and play testing activity system to an externally imposed system of reflecting on progress, would be jarring, potentially disorientating and reduce learner engagement and positive affect towards the overall process. In other words, provoking a feeling that the fun's over, it's back to school. I propose that the drama fiction eases friction between competing activity system objectives.
-
-<!--
-PARK THE FOLLOWING FOR NOW - RETURN OR MOVE IF MORE COMPLEXITY IS NEEDED.
-
-For example, Heathcote refers to curricula content as an example of object interests, e.g. exploring detail in history, geography and writing accurately or with expression.  -->
-
-<!-- Heathcote posits that learners especially those resistant to authoritarian teaching techniques, appreciate the effort of the facilitator in aligning "needs interests" to "object interests" [-@heathcote_dorothy_1984, p. 185], arguing that it can create a generosity of spirit on the part of learners. -->
-
-#### Reflection on reflecting in role
-
-
-**It doesn't look like we've got anywhere but we have!**
-
-<!-- **My reflections as a practorganiser itioner from my journal and those emerging from the process of transcribing and analysing the interactions.** -->
-
-While drama scenarios can aid reflection both in or out of drama, O'Neill and Lambert outline the value of in-drama reflection, noting it is "likely to be more powerful than end-of-session discussion, since it allows individual and group insight to be articulated as part of the context" [-@oneill_drama_1982, p. 144]. In line with this intervention, they propose one way of achieving in-role reflection is to introduce an additional character that acts as an external audience. In this intervention however, main activities happen only weakly in role, whereas the end reflection highlights the fictional frame of the making more strongly.
-
-<!-- MORE DETAILS ON DATA? A QUICK SUMMARY PERHAPS OF
-NOTE ON CODING - LIMITED -->
-
-Using the terms of student agency explored in the literature review, here we can see the use of the drama narrative used as a second stimulus both by facilitator to help convene learners and to help them participate in reflection, and project sharing [@sannino_principle_2015].  
-
-LINK TO EXISTING RESEARCH
-More links to the limits of reflection processes and the challenges of critical approaches in PBL.
-
-#### Discussion on mediated chat and potential for addressing contradictions in activity
-
-Writing in role.
-
-MOVED
-The start of playful chat with aliens process began when Ed in a moment of free time expanded the use of space initially imagined to address technical needs by initiation a playful interaction which, while in the motivation to support different learner identities, was a novel, volitional action in this context. It is helpful to expore this interaction using AT and TADS terminology. Ed is in conflict, not able or wanting to engage in his existing creative activities while his father has a social break. Using the secondary stimulus of a text chat with fictional aliens, he writes a playful personal question to the aliens as an expression of volitional action to play, casts out an experimental kedging anchor. By co-incidence, I was on a different computer, saw this question, and was able to respond in real time. Thus, by getting a response, Ed's kedging anchor caught onto an anchor point and Ed was able to resolve this conflict of inactivity and in doing so both amuse himself and other other with humorous self-expression, and open-up a novel, child-centred activity for the whole group which could also address potential issues of alienation from the culture of _serious coding_ expressed by other participants.  
-
-
-
-#### Concluding remarks on process drama
-
-
-While inspired by the work on Heathcote on Mantle of the Expert, not all element of the process align directly. For example, the drama does not try to position the participants as expert game makers in a professional context.
-
-
-This section has explored the use of the possibilities of a drama process to support both the leaner expression of agency and as a pedagogical process for facilitators to militate probable conflicts and obstacles for learners in the creative process. The mission-based interventions began as naturally occurring expression of learner agency which became incorporated into the drama process.
-
-<!-- The next section examines the affordances and impact of the coding environment and starting game template, which in a similar way, evolved in response to participant use of earlier iterations of the toolset. Conversely, examples of more unguided practices and use of tools which served to increase the scope of agency are explored in the final section of this chapter. -->
-
-The impact of time pressure to finish games also compounded tensions involving shifting away from game making to reflective activities. Even with the use of reflection in role, reflection activity was not prioritised in final sessions as time drew short.
-
-This aligns with existing research addressing the barriers to effective reflection and meta-cognition on PBL processes.
-NOTE - EXPLORE THIS IN LR AND DISCUSSION IF KEEPING THIS.
-
 
 
 ## Discussion section - Metaphors on developing agency
@@ -1048,8 +710,6 @@ NOTE - EXPLORE THIS IN LR AND DISCUSSION IF KEEPING THIS.
 An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this a good working knowledge of types of developmental agency is useful.
 
 This section continues to explore tensions surrounding support learner agency, useful conceptions of agency, to situate later  recommendations for researchers and educators working in this area.
-
-
 
 This section explores these academic conceptions in a playful way using relatable metaphors from related research.
 
@@ -1180,14 +840,12 @@ These metaphors invite a connection to play theories concept of as the magic cir
 
 #### Nurturing agency by creating space for emergent practices
 
+**What relevance does the previous poetic description of agency have on practitioners and reserachers in this area?**
+
 <!--
 NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
 
-
-
 THIS SECTION IS STILL UNDER DEVELOPMENT
-
-
 
 As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
