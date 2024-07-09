@@ -53,15 +53,17 @@
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.-1)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
-    -   [Future work and limitations of this
-        research](#future-work-and-limitations-of-this-research)
-        -   [Gender based issues of
-            inclusion](#gender-based-issues-of-inclusion)
-        -   [Advantages and limitations of Home Education
-            context](#advantages-and-limitations-of-home-education-context)
-        -   [Using game design to explore games as a design artefact for
-            empowerment
-            purposes](#using-game-design-to-explore-games-as-a-design-artefact-for-empowerment-purposes)
+    -   [Answering RQ3 on agency - synthesis and limitations of this
+        research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research-2)
+        -   [Discussion on 3M's accumulative effect - more than a sum or
+            parents](#discussion-on-3ms-accumulative-effect---more-than-a-sum-or-parents-1)
+        -   [Specific 3M - techniques through the lens of agency
+            (RQ3)](#specific-3m---techniques-through-the-lens-of-agency-rq3-2)
+    -   [Implications and recommendations for practitioners / Future
+        work and
+        limitations](#implications-and-recommendations-for-practitioners-future-work-and-limitations)
+        -   [Limitations of this research / Future
+            directions](#limitations-of-this-research-future-directions)
         -   [How can the use of design patterns map to other computing
             educational
             domains?](#how-can-the-use-of-design-patterns-map-to-other-computing-educational-domains)

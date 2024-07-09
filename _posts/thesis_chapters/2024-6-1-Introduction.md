@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 1. Introduction - Games for a Read / Write world.
 ---
+
 -   [Introduction - "Games for a Read / Write
     world."](#introduction---games-for-a-read-write-world.)
     -   [A study of the cultural and interpersonal dimensions and
@@ -17,28 +18,60 @@ title: 1. Introduction - Games for a Read / Write world.
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
     -   [outline](#outline)
-    -   [Research Questions - July
-        2024](#research-questions---july-2024)
-    -   [Introduction to the thesis](#introduction-to-the-thesis)
+    -   [Background to the thesis](#background-to-the-thesis)
     -   [Personal context and motivation for undertaking this
         study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Transition](#transition)
-    -   [Academic and Conceptual
-        Contexts](#academic-and-conceptual-contexts)
-        -   [The complex role of agency in this
-            thesis](#the-complex-role-of-agency-in-this-thesis)
-        -   [Sketchy pedagogies](#sketchy-pedagogies)
-        -   [Overview and motivations of game making (for learning) -
-            and who should read this
-            thesis](#overview-and-motivations-of-game-making-for-learning---and-who-should-read-this-thesis)
+        -   [Connection to Broader Research
+            Interests:](#connection-to-broader-research-interests)
+    -   [2. Context](#context)
         -   [Defining and conceptualising - formal, home and third space
             contexts - SUMMARISE /
             COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
-        -   [Summary of Conceptual
-            Context](#summary-of-conceptual-context)
+    -   [3. Introduction to Theoretical
+        Framework](#introduction-to-theoretical-framework)
         -   [Summary of the FOCUS of this thesis - adapting the
             experience to an academic PhD
             format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
+        -   [Barriers - Part of the problem statement? OR LIT review ?
+            OR
+            Context](#barriers---part-of-the-problem-statement-or-lit-review-or-context)
+        -   [Review of relevant barriers to participating in coding
+            practices emerging in the
+            literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
+        -   [Cultural / Identity barriers to participation in
+            ...](#cultural-identity-barriers-to-participation-in)
+        -   [Barrier - unfamiliarity with support
+            practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
+    -   [Case Study as example: Digital Braves as a small MoE / 5D
+        project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
+    -   [4. Research objectives and
+        questions](#research-objectives-and-questions)
+        -   [Research objectives](#research-objectives)
+        -   [Research Questions - July
+            2024](#research-questions---july-2024)
+        -   [Clarifications of terminology of
+            questions](#clarifications-of-terminology-of-questions)
+        -   [Agency](#agency)
+        -   [Wider implications of the
+            research](#wider-implications-of-the-research)
+    -   [Summary of the thesis
+        motivation](#summary-of-the-thesis-motivation)
+        -   [Recap of motivation](#recap-of-motivation)
+    -   [5. The significance of the thesis and its
+        limitations](#the-significance-of-the-thesis-and-its-limitations)
+        -   [Gaps in existing research / Contribution to knowledge of
+            this
+            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
+    -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
+        -   [7. Link to next chapter](#link-to-next-chapter)
+    -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
+        -   [The complex role of agency in this
+            thesis](#the-complex-role-of-agency-in-this-thesis)
+        -   [Sketchy pedagogies](#sketchy-pedagogies)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
@@ -69,29 +102,6 @@ title: 1. Introduction - Games for a Read / Write world.
             community](#mozilla---teach-the-web-as-context-and-community)
         -   [Authentic web technology & Code
             playgrounds](#authentic-web-technology-code-playgrounds)
-    -   [Review of relevant barriers to participating in coding
-        practices emerging in the
-        literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
-    -   [Barriers](#barriers)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
-        -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in)
-        -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Outlining cultural barriers / aspects of game
-            making](#outlining-cultural-barriers-aspects-of-game-making)
-    -   [Case Study as example: Digital Braves as a small MoE / 5D
-        project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
-    -   [Summary of the thesis motivation and
-        structure](#summary-of-the-thesis-motivation-and-structure)
-        -   [Recap of motivation](#recap-of-motivation)
-        -   [Gaps in existing research / Contribution to knowledge of
-            this
-            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
-        -   [Research Questions](#research-questions)
-        -   [Chapter outline](#chapter-outline)
-        -   [Link to next chapter](#link-to-next-chapter)
     -   [Links](#links)
 
 # Introduction - “Games for a Read / Write world.”
@@ -104,17 +114,7 @@ Author Mick Chesterman
 
 to come - for now see outline of thesis at the end of chapter
 
-## outline
 
-* intro
-* personal context
-* conceptual context - at etc
-* context of teaching and learning coding - motivations
-  - SCHOOLS
-  - Informal , professional & enthusiast
-* home education context
-* barriers - start otu outline types , technical and cultural
-* case studies
 
 
 
@@ -140,7 +140,7 @@ to come - for now see outline of thesis at the end of chapter
 -  Introduction to RQs, outline of thesis etc -->
 
 
-## Background to the thesis
+## 1. Background to the thesis
 
 
 We live in a society where digital technology is increasingly used in work and home-life in increasingly complex and prevalent ways. Sophisticated media production and delivery systems, often driven by algorithmically generated suggestions which may lead to a more passive consumption of media and reduced critical engagement with content. Convenience and automation of tasks in the form of commercial software services and AI can foster passivity can diminish critical thinking skills and make individuals overly reliant on technology. These concerns have led many to call for a  broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
@@ -166,7 +166,7 @@ Game playing practices and the opportunities provided by participation in wider 
 
 Thus the process of coding retro games lies at a confluence of diverse contexts, motivations and possibilities. For this thesis, it is the development of agency in the participation in game making communities is of particular interest to me. Viewing agency from an empowerment perspective  links to my involvement in project-based approaches in higher education, STEM education and grass-roots community contexts. The next section this dimension through a brief exploration of my personal context.
 
-## Personal context and motivation for undertaking this study
+### Personal context and motivation for undertaking this study
 
 <!-- In 1995, as  recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
@@ -268,40 +268,6 @@ Scratch and MIT labs benefit from x.
 Mozilla as benefit for the teach the web.
 
 Corporate funding code.org. (Google)
-
-
-## 3. Introduction to Theoretical Framework
-
-REVISE THIS A LOT - RETHINK
-
-New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
-
-Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
-
-CHAT is optimistic but realistic in the focus on the possibility of change.
-
-However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
-
-This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
-
-RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
-
-
-### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
-
-Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
-
-Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be  
-
-In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
-
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
-
-Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
-
-
 
 
 
@@ -448,6 +414,43 @@ Digital Braves was a short project which culminated in a session
 A product of partnership work at university. Aligning the potential needs of home educated families with exploration of uncomfortable digital issues. It drew on the expertise of the drama department in Manchester Met school of eduction.
 
 It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology.
+
+
+
+
+## 3. Introduction to Theoretical Framework
+
+REVISE THIS A LOT - RETHINK
+
+New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
+
+Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
+
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+CHAT is optimistic but realistic in the focus on the possibility of change.
+
+However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+
+This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+
+RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
+
+
+### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
+
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+<!-- Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be   -->
+
+In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
+
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
+
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+
+
+
 
 
 
