@@ -199,7 +199,9 @@ In response to growing discomfort around involvement in political and environmen
 
 <!-- There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question. -->
 
+### Connection to Broader Research Interests:
 
+**Discuss how these experiences connect to larger questions in the field of media and digital product creation, particularly within informal and temporary learning environments.**
 
 **Training to teach in formal education**
 
@@ -212,36 +214,391 @@ While I was drawn to the possibilities offered by a new technologies and the rea
 A role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue
 creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work.
 
-### Transition
 
-My engagement with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work.
+<!-- My engagement with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work. -->
 
 Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture.
 
-At this point I applied to undertake a PhD with Education and Social Research Institute of Manchester Metropolitan University (ESRI) with game making with families as the topic for activity.
+I applied to undertake a PhD with Education and Social Research Institute of Manchester Metropolitan University (ESRI) with game making with families in a non-formal setting as the topic.
 
-Key characteristics, involve the process of making games via coputer coding. together as a family. As well as the process of learning a useful technical skill, I was also interested the mutual process of designing an inclusive learning design that drew on participants interests. I wanted to use a project based approach which avoided instruction and allowed participants to follow diverse paths and be part of a slightly chaotic but productive learning community.
+
+As well as the process of learning a useful technical skill, I was also interested the mutual process of designing an inclusive learning design that drew on participants interests. I wanted to use a project based approach which avoided instruction and allowed participants to follow diverse paths and be part of a slightly chaotic but productive learning community.
 
 Because previous experience had made me wary of previous experience of embracing technology opportunities and suffering from unintended consequences I was keen to choose an approach which allowed for a careful examination of context and motivations.  
 
 In this introductory chapter, I briefly outline the use of AT and agency and methodology approaches. I also outline contextual factors of some of the areas of activity where the learning approach studied may be relevant.
 
+## 2. Context
 
-## Research objectives and questions
+### Defining and conceptualising - formal, home and third space contexts - SUMMARISE /  COMPRESS
+
+**on Informal Education Pedagogies**
+
+To assess the wider use of professional frameworks of concepts, it is potential valuable to test them in the context of wider theories of community and informal  learning.
+
+Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
+
+**Defining Informal Education**
+
+Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
+
+Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
+Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
+
+Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+
+#### Funding and financial dimensions of contexts - MERGE DOWN?
+
+Each context
+
+**Research / University context**
+
+University partnership context. Service learnings.
+
+Examples like Scratch with MiT. Barefoot computing which was Kent?
+
+Service learning to support code clubs
+
+**Civil society  context**
+
+Charitable foundations funding provides a great deal of funding in this area.
+
+Scratch and MIT labs benefit from x.
+
+Mozilla as benefit for the teach the web.
+
+Corporate funding code.org. (Google)
+
+
+## 3. Introduction to Theoretical Framework
+
+REVISE THIS A LOT - RETHINK
+
+New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
+
+Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
+
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+CHAT is optimistic but realistic in the focus on the possibility of change.
+
+However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+
+This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+
+RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
+
+
+### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
+
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be  
+
+In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
+
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
+
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
 
 
 
-## Research Questions - July 2024
+
+
+
+###  Barriers - Part of the problem statement? OR LIT review ? OR Context
+
+### Review of relevant barriers to participating in coding practices emerging in the literature
+
+<!-- NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
+CHOOSE CAREFULLY WHERE TO PUT THE RESULTS. -->
+
+
+This section draws on concepts of the introductory section to review existing research on digital making to identify barriers to participation in digital making and in particular coding practices.
+
+
+Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
+
+<!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
+
+This section then which summarises existing research in this area needs a clear and different focus.
+-->
+
+
+
+
+### Technical Barriers -  Difficulties in learning to program
+
+Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
+
+    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
+
+In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
+
+More literature which examines the complexity of language and development environments should be found here.
+
+Complexity of syntax and problem of leading with syntax [@gomes2007learning]
+
+Issues of needing levels of abstraction in learning programming [@gomes2007learning].
+
+
+*Specialist coding tools and computational kits*
+
+There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
+
+This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
+
+Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
+
+ - Block coding vs text coding, syntax
+ - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
+ - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
+
+
+Scratch and GSM merit particular examination as mini-case studies. The  
+
+- Scratch and community element.
+- Remix as a feature: [@amanullah_evaluating_2019]
+- Online log in
+- library of assets to speed up creation
+- In built asset authoring tools.
+
+Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interest to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
+
+NOTE - referenced in design chapter - the alignment with the use of code playground and template.
+
+
+Computing syntax
+Lack of knowledge of what to design..
+ which they call “sandbox games,” that integrates the worlds"
+
+
+
+
+### Cultural / Identity barriers to participation in ...
+
+**Barriers to participation**
+
+Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
+
+The focus of this review is to identify broad streams and currents in research.
+
+
+#### Barrier - Identity and computer cultures
+
+Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
+
+Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
+
+Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
+
+When faced with choice learners are sometimes unsure how to start creating.
+Design scaffolds have been created to support this. -->
+
+
+
+
+### Barrier - unfamiliarity with support practices
+
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
+
+
+
+
+ <!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
+ High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
+ Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
+ We added a fourth principle to emphasize the equally important social dimension of construction tools:11
+
+ Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
+
+
+
+### Outlining  cultural barriers / aspects of game making
+
+The following studies are explored future in LR. Here I surface cultural barriers experienced by participants.
+
+
+**Gender  related identities**
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+**Race related identities**
+
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+**Outro**
+
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE]. Other approaches exist - AT etc .
+
+
+## Case Study as example: Digital Braves as a small MoE / 5D project
+
+Digital Braves was a short project which culminated in a session
+
+A product of partnership work at university. Aligning the potential needs of home educated families with exploration of uncomfortable digital issues. It drew on the expertise of the drama department in Manchester Met school of eduction.
+
+It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology.
+
+
+
+## 4. Research objectives and questions
+
+### Research objectives
+
+The object
+
+### Research Questions - July 2024
 
 1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
 
+### Clarifications of terminology of questions
+
+### Agency
+
+A wider goal is the research is to reflect on experiences of developing agency within a non-formal community. To do this, this thesis engages with a complex and dynamic picture of participant agency. This complexity  is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely: instrumental agency, relational agency and authorial agency.  
+
+### Wider implications of the research
+
+To further understand research objectives it is important to situate the potential relevance of the outcomes of this research by exploring the context of of creating digital games in formal and non-formal  settings.  
+
+
+<!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
+
+**Who should read this thesis?**
+
+Given the overall direction of this thesis, who is the intended audience? While the participants are home educators, other areas of education may benefit from the answers to these questions.
+
+- parents and families
+- teachers
+- Researchers in computing education
+- informal educators
+- In addition my experience of the process, research and generative, action research   
+
+My experience of having the rug pulled out from underneath me after volunteering my time and energy in various projects motivates me to examine the characteristics streams of activity carefully. Thus the following analysis of the sites of interest cover not only educational programs but based on underlying funding and the motivations of funders.
+
+Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice.
+
+The following sections therefore explore diverse motivations for learning to code specifically via game making or an informal making culture.
+
+
+- Learning coding and related digital skills to progress to join the commercial games industry
+- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
+- Parents motivations to develop individual useful skills in young peoples.
+- Game making for intrinsic pleasure of making games or similar projects that are celebrated
+- for empowerment of individual and health of society as consumers of technology
+
+<!-- also
+    - From Kafai's review (not directly) draw on
+    - personal
+    - more general / social / 21st C, computational fluency
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
 
 
-## Academic and Conceptual Contexts - summary of theoretical concepts
+
+## Summary of the thesis motivation
+
+
+
+### Recap of motivation
+
+A motivation is to better understand my practice as an activist, community worker and educator.
+
+While I am wary of runaway objects, I am still active in a community and university setting.
+
+An understanding of this controlled experiment in creating culture can shed light on previous work.
+
+Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+
+Thus why would this study based on observations of one context be of use?
+Thoughts:  
+  - similar contexts exist
+  - underlying treads may emerge which may transcend context  
+
+## 5. The significance of the thesis and its limitations
+
+### Gaps in existing research / Contribution to knowledge of this thesis
+
+
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
+
+
+Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
+
+**Gaps in research**
+- Kafai's review on game making research is thin in cultural terms.
+- Not many addressing the explicit intention to create a community.  
+- Game design patterns emerged in this research as fruitful and is under researched
+
+
+**Other thoughts on thesis**
+
+This research is valid in the following ways:
+
+- generative nature of research. It has created teaching resources
+- the detail of game making pedagogy, suitable for other researcher and Teachers
+- tools are novel - media practices are situated, thus will differ with technology
+- application of guided participation as lens to this domain
+- something about methods using 360 and screen capture?
+
+
+
+
+## 6. Chapter outline of the study
+
+This introduction has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area. It has also outlined a motivation to better understand my own experience as a facilitator of learners creating media and digital products in relation to existing research.
+
+While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
+
+In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and a summary table is present as an introductory section to the literature review.
+
+The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include: authenticity in project based approaches; nature of informal settings in particular home education; barriers to participation in digital making; pedagogies to create inclusive learning environments and to help young people learn computer coding. To follow I outline the theoretical framework and the key methodologies of this study. I explain how the design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school and the leading approach of third generation activity theory (3GAT).
+
+<!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies whichIn summary, this introduction has established the core motivations for this study and outlined the key contextual factors that have shaped my inquiry into the facilitation of media and digital product creation. By exploring the nuances of informal coding environments and reflecting on my own experiences as a facilitator, the study seeks to address broader questions about nurturing creative and technical skills in novice learners. The introduction also highlighted the importance of making complex coding processes accessible to a non-expert audience and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. As we transition to the literature review, the next section will provide a detailed examination of relevant research and theoretical concepts that inform this study. This review will serve to clarify the foundational ideas and frameworks essential for understanding the study’s objectives and research questions, setting the stage for a deeper exploration of how design-based research and third-generation activity theory offer innovative approaches to the challenges identified in the introduction. suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
+
+Chapter 3 details the theoretical framework used. It starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency.
+
+Chapter 4 describes the methodology of the study.  I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
+
+
+
+Chapter 5 outlines the learning design that emerged from the research process. To explore emerging tensions in design in a way which communicates relevant context, I outline four conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). This chapter discussion begins with an exploration of the tools used through the lens of authenticity. It continues by covering the mutual nature of the evolution of the design, and ends with a synthesis to initial barriers to engaging in game making practices and initial interventions to address them.
+
+Chapter 6 focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _how can game design patterns support the development of coding practices by novices_?
+This chapter begins by re-examining of game design patterns and game play design patterns in the context of a community of novice coders. Following this a vignette of parent child interaction in game making process introduces an overview of interactions of that pair to help contextualise findings. The chapter then undertakes a systematic analysis of the use of game design patterns by participants drawing on detailed observations of practice. A discussion section explores implications and observations from these findings in relation to existing research and concepts.
+
+Chapter 7 discusses the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
+
+Chapter 8 concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
+
+### 7. Link to next chapter
+
+This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The study seeks to address questions about effective teaching the creative and technical skills needed by novices to create digital games. The introduction also highlighted the complexities of  and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarify key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepare the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
+
+
+## Holding Zone - Drop or Move
+
+#### An area of tension to address - limited leaner choice in process if driven by curriculum.
+
+Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
+
+    "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
+    Quote from [@franklin_analysis_2020]
+
 
 ### The complex role of agency in this thesis
 
@@ -298,116 +655,6 @@ SUMMARY OF PROMISE OF DBR TO REFLECT SKETCHYNESS
 
 
 
-
-
-
-### Overview and motivations of game making (for learning) - and who should read this thesis
-
-<!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
-
-**Who should read this thesis?**
-
-Given the overall direction of this thesis, who is the intended audience? While the participants are home educators, other areas of education may benefit from the answers to these questions.
-
-- parents and families
-- teachers
-- Researchers in computing education
-- informal educators
-- In addition my experience of the process, research and generative, action research   
-
-My experience of having the rug pulled out from underneath me after volunteering my time and energy in various projects motivates me to examine the characteristics streams of activity carefully. Thus the following analysis of the sites of interest cover not only educational programs but based on underlying funding and the motivations of funders.
-
-Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice.
-
-The following sections therefore explore diverse motivations for learning to code specifically via game making or an informal making culture.
-
-
-
-
-- Learning coding and related digital skills to progress to join the commercial games industry
-- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
-- Parents motivations to develop individual useful skills in young peoples.
-- Game making for intrinsic pleasure of making games or similar projects that are celebrated
-- for empowerment of individual and health of society as consumers of technology
-
-<!-- also
-    - From Kafai's review (not directly) draw on
-    - personal
-    - more general / social / 21st C, computational fluency
-    - more general / social / 21st C,
-    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
-
-
-### Defining and conceptualising - formal, home and third space contexts - SUMMARISE /  COMPRESS
-
-**on Informal Education Pedagogies**
-
-To assess the wider use of professional frameworks of concepts, it is potential valuable to test them in the context of wider theories of community and informal  learning.
-
-Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
-
-**Defining Informal Education**
-
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
-
-Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
-
-Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
-
-#### Funding and financial dimensions of contexts - MERGE DOWN?
-
-Each context
-
-**Research / University context**
-
-University partnership context. Service learnings.
-
-Examples like Scratch with MiT. Barefoot computing which was Kent?
-
-Service learning to support code clubs
-
-**Civil society  context**
-
-Charitable foundations funding provides a great deal of funding in this area.
-
-Scratch and MIT labs benefit from x.
-
-Mozilla as benefit for the teach the web.
-
-Corporate funding code.org. (Google)
-
-
-### Summary of Conceptual Context
-
-REVISE THIS A LOT - RETHINK
-
-New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
-
-Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
-
-CHAT is optimistic but realistic in the focus on the possibility of change.
-
-However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
-
-This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
-
-RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
-
-
-### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
-
-Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
-
-Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be  
-
-In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
-
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
-
-Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
 
 
 ## Game making and coding and in schools and formal education
@@ -527,7 +774,6 @@ In this research I made the decisions not to focus on the adaptation  of a  info
 
 - Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
-
 
 
 
@@ -655,243 +901,6 @@ Javascript as coding language, Phaser as a game making framework and Glitch as a
 
 
 
-
-## Review of relevant barriers to participating in coding practices emerging in the literature
-
-<!-- NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
-CHOOSE CAREFULLY WHERE TO PUT THE RESULTS. -->
-
-
-This section draws on concepts of the introductory section to review existing research on digital making to identify barriers to participation in digital making and in particular coding practices.
-
-
-Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
-
-<!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
-
-This section then which summarises existing research in this area needs a clear and different focus.
--->
-
-
-
-##  Barriers
-
-### Technical Barriers -  Difficulties in learning to program
-
-Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
-
-    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
-
-In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
-
-More literature which examines the complexity of language and development environments should be found here.
-
-Complexity of syntax and problem of leading with syntax [@gomes2007learning]
-
-Issues of needing levels of abstraction in learning programming [@gomes2007learning].
-
-
-*Specialist coding tools and computational kits*
-
-There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
-
-This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
-
-Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
-
- - Block coding vs text coding, syntax
- - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
- - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
-
-
-Scratch and GSM merit particular examination as mini-case studies. The  
-
-- Scratch and community element.
-- Remix as a feature: [@amanullah_evaluating_2019]
-- Online log in
-- library of assets to speed up creation
-- In built asset authoring tools.
-
-Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interest to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
-
-NOTE - referenced in design chapter - the alignment with the use of code playground and template.
-
-
-Computing syntax
-Lack of knowledge of what to design..
- which they call “sandbox games,” that integrates the worlds"
-
-
-
-
-### Cultural / Identity barriers to participation in ...
-
-**Barriers to participation**
-
-Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
-
-The focus of this review is to identify broad streams and currents in research.
-
-
-#### Barrier - Identity and computer cultures
-
-Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
-
-Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
-
-Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
-
-<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
-
-When faced with choice learners are sometimes unsure how to start creating.
-Design scaffolds have been created to support this. -->
-
-
-
-
-### Barrier - unfamiliarity with support practices
-
-While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
-
-
-
-
- <!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
- High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
- Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
- We added a fourth principle to emphasize the equally important social dimension of construction tools:11
-
- Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
-
-
-
-### Outlining  cultural barriers / aspects of game making
-
-
-
-The following studies are explored future in LR. Here I surface cultural barriers experienced by participants.
-
-
-**Gender  related identities**
-- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-**Race related identities**
-
-In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-**Outro**
-
-Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE]. Other approaches exist - AT etc .
-
-
-## Case Study as example: Digital Braves as a small MoE / 5D project
-
-Digital Braves was a short project which culminated in a session
-
-A product of partnership work at university. Aligning the potential needs of home educated families with exploration of uncomfortable digital issues. It drew on the expertise of the drama department in Manchester Met school of eduction.
-
-It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology.
-
-
-
-
-## Summary of the thesis motivation
-
-
-
-### Recap of motivation
-
-A motivation is to better understand my practice as an activist, community worker and educator.
-
-While I am wary of runaway objects, I am still active in a community and university setting.
-
-An understanding of this controlled experiment in creating culture can shed light on previous work.
-
-Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
-
-Thus why would this study based on observations of one context be of use?
-Thoughts:  
-  - similar contexts exist
-  - underlying treads may emerge which may transcend context  
-
-## The significance of the thesis and its limitations
-
-
-### Gaps in existing research / Contribution to knowledge of this thesis
-
-
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
-
-
-Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
-
-**Gaps in research**
-- Kafai's review on game making research is thin in cultural terms.
-- Not many addressing the explicit intention to create a community.  
-- Game design patterns emerged in this research as fruitful and is under researched
-
-
-**Other thoughts on thesis**
-
-This research is valid in the following ways:
-
-- generative nature of research. It has created teaching resources
-- the detail of game making pedagogy, suitable for other researcher and Teachers
-- tools are novel - media practices are situated, thus will differ with technology
-- application of guided participation as lens to this domain
-- something about methods using 360 and screen capture?
-
-
-
-
-## Chapter outline of the study
-
-This introduction has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area. It has also outlined a motivation to better understand my own experience as a facilitator of learners creating media and digital products in relation to existing research.
-
-While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
-
-In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and a summary table is present as an introductory section to the literature review.
-
-The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include: authenticity in project based approaches; nature of informal settings in particular home education; barriers to participation in digital making; pedagogies to create inclusive learning environments and to help young people learn computer coding. To follow I outline the theoretical framework and the key methodologies of this study. I explain how the design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school and the leading approach of third generation activity theory (3GAT).
-
-<!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies whichIn summary, this introduction has established the core motivations for this study and outlined the key contextual factors that have shaped my inquiry into the facilitation of media and digital product creation. By exploring the nuances of informal coding environments and reflecting on my own experiences as a facilitator, the study seeks to address broader questions about nurturing creative and technical skills in novice learners. The introduction also highlighted the importance of making complex coding processes accessible to a non-expert audience and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. As we transition to the literature review, the next section will provide a detailed examination of relevant research and theoretical concepts that inform this study. This review will serve to clarify the foundational ideas and frameworks essential for understanding the study’s objectives and research questions, setting the stage for a deeper exploration of how design-based research and third-generation activity theory offer innovative approaches to the challenges identified in the introduction. suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
-
-Chapter 3 details the theoretical framework used. It starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency.
-
-Chapter 4 describes the methodology of the study.  I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
-
-
-
-Chapter 5 outlines the learning design that emerged from the research process. To explore emerging tensions in design in a way which communicates relevant context, I outline four conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). This chapter discussion begins with an exploration of the tools used through the lens of authenticity. It continues by covering the mutual nature of the evolution of the design, and ends with a synthesis to initial barriers to engaging in game making practices and initial interventions to address them.
-
-Chapter 6 focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _how can game design patterns support the development of coding practices by novices_?
-This chapter begins by re-examining of game design patterns and game play design patterns in the context of a community of novice coders. Following this a vignette of parent child interaction in game making process introduces an overview of interactions of that pair to help contextualise findings. The chapter then undertakes a systematic analysis of the use of game design patterns by participants drawing on detailed observations of practice. A discussion section explores implications and observations from these findings in relation to existing research and concepts.
-
-Chapter 7 discusses the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
-
-Chapter 8 concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
-
-### Link to next chapter
-
-This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The study seeks to address questions about effective teaching the creative and technical skills needed by novices to create digital games. The introduction also highlighted the complexities of  and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarify key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepare the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
-
-
-## Holding Zone - Drop or Move
-
-#### An area of tension to address - limited leaner choice in process if driven by curriculum.
-
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
-
-    "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
-    Quote from [@franklin_analysis_2020]
 
 
 ## Links
