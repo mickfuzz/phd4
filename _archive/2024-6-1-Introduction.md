@@ -761,8 +761,6 @@ Building on the concept of participatory culture [@jenkins_confronting_2009], wh
 
 NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit
 
-
-
 The move to family learning as a context suited the trajectory of my interests and the opportunities available as part of University context.
 
 Many professional programmers began with support provided by family.
@@ -771,10 +769,13 @@ Barron and Livingstone have outlined the advantages and processes involved in fa
 
 However the practical and and cultural difficulties of undertaking a project-based approach withing the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
 
-In this research I made the decisions not to focus on the adaptation  of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ. While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
+In this research I made the decisions not to focus on the adaptation of a  informal club approach to the restrictions of in-school classes but rather instead to embrace key elements of it and to explore processes in situ
+My involvement with home ed networks stemmed from University outreach work.  
 
-**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both. My involvement with home ed networks stemmed from University outreach work. In the following section I draw on relevant research to identify characteristics and motivations of the networks and families that I tapped into.
+While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
 
+
+**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both.
 - Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
 - Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
 
