@@ -117,12 +117,6 @@ to come - for now see outline of thesis at the end of chapter
 * case studies
 
 
-## Research Questions - July 2024
-
-1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of computational fluency in novices?
-3. How can learners build agency in an evolving community of game makers?
-
 
 
 <!-- ## Research Questions - Early 2023
@@ -146,22 +140,14 @@ to come - for now see outline of thesis at the end of chapter
 -  Introduction to RQs, outline of thesis etc -->
 
 
-## Introduction to the thesis
+## Background to the thesis
 
 
 We live in a society where digital technology is increasingly used in work and home-life in increasingly complex and prevalent ways. Sophisticated media production and delivery systems, often driven by algorithmically generated suggestions which may lead to a more passive consumption of media and reduced critical engagement with content. Convenience and automation of tasks in the form of commercial software services and AI can foster passivity can diminish critical thinking skills and make individuals overly reliant on technology. These concerns have led many to call for a  broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
 
 While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment. This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society.
 
-In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To serve this exploration the concept of computational fluency, is used as a guiding principle throughout the thesis. The term encompasses
-
-    Computational fluency involves not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies.
-
-    Becoming fluent, whether with writing or coding, helps you to develop your thinking, develop your voice, and develop your identity.
-
-    (Resnick, 2017 & 2018) - not sure which ones.
-
-Resnick's quote comes in a piece creative coding at a crossroads. A critique of formulaic and instruction based computing education.
+In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To serve this exploration the concept of computational fluency, is used as a guiding principle throughout the thesis. The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick fluently, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction based computing education [@resnick_coding_2020].
 
 While the activities of this study take place outside of school, this study echoes this concern. Later in this introduction the mess that is the 2014 Computing curriculum and associated exams have caused with recent reports underlining already growing concerns.
 
@@ -239,6 +225,17 @@ Key characteristics, involve the process of making games via coputer coding. tog
 Because previous experience had made me wary of previous experience of embracing technology opportunities and suffering from unintended consequences I was keen to choose an approach which allowed for a careful examination of context and motivations.  
 
 In this introductory chapter, I briefly outline the use of AT and agency and methodology approaches. I also outline contextual factors of some of the areas of activity where the learning approach studied may be relevant.
+
+
+
+## Research Questions - July 2024
+
+1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
+2. How can game design patterns support the development of computational fluency in novices?
+3. How can learners build agency in an evolving community of game makers?
+
+
+
 
 
 ## Academic and Conceptual Contexts
@@ -803,7 +800,9 @@ It is worth noting that some families who were not attracted to gaming explicitl
 
 
 
-## Summary of the thesis motivation and structure
+## Summary of the thesis motivation
+
+
 
 ### Recap of motivation
 
@@ -820,13 +819,10 @@ Thoughts:
   - similar contexts exist
   - underlying treads may emerge which may transcend context  
 
-#### An area of tension to address - limited leaner choice in process if driven by curriculum.
+## The significance of the thesis and its limitations
 
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
 
-    "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
 
-Quote from [@franklin_analysis_2020]
 
 
 ### Gaps in existing research / Contribution to knowledge of this thesis
@@ -855,17 +851,14 @@ This research is valid in the following ways:
 
 
 
-### Research Questions
 
-- What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-<!-- - What pedagogical factors are significant to support novices learning coding, particularly in game making contexts? -->
-- How can participants build agency in an evolving community of game makers?
-- How can game design patterns support the development of coding practices with novices?
+## Chapter outline of the study
 
+This introduction has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area.
 
-### Chapter outline
+It has also outlined a motivation to better understand my own experience as a facilitator of learners creating media and digital products in relation with existing research.
 
-As has been outlined in this introduction the a leading thread of the thesis is my desire to better understand my own experience as a facilitator of learners creating media and digital products in relation with existing research. This chapter has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area. While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
+While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
 
 In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and a summary table is present as an introductory section to the literature review.
 
@@ -873,23 +866,35 @@ The literature review begins the exploration of the key themes and threads that 
 
 <!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
 
-Chapter three starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency. In the second part of the chapter, I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
+Chapter 3 details the theoretical framework used. It starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency.
 
- <!-- which had been inspired by partnership work between EdLab and the Biosocial Lab -->
+Chapter 4 describes the methodology of the study.  I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
 
-Chapter four outlines the learning design that emerged from the research process. To explore emerging tensions in design in a way which communicates relevant context, I outline four conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). This chapter discussion begins with an exploration of the tools used through the lens of authenticity. It continues by covering the mutual nature of the evolution of the design, and ends with a synthesis to initial barriers to engaging in game making practices and initial interventions to address them.
 
-Chapter five focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _how can game design patterns support the development of coding practices by novices_?
+
+Chapter 5 outlines the learning design that emerged from the research process. To explore emerging tensions in design in a way which communicates relevant context, I outline four conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). This chapter discussion begins with an exploration of the tools used through the lens of authenticity. It continues by covering the mutual nature of the evolution of the design, and ends with a synthesis to initial barriers to engaging in game making practices and initial interventions to address them.
+
+Chapter 6 focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _how can game design patterns support the development of coding practices by novices_?
 This chapter begins by re-examining of game design patterns and game play design patterns in the context of a community of novice coders. Following this a vignette of parent child interaction in game making process introduces an overview of interactions of that pair to help contextualise findings. The chapter then undertakes a systematic analysis of the use of game design patterns by participants drawing on detailed observations of practice. A discussion section explores implications and observations from these findings in relation to existing research and concepts.
 
-Chapter six outline the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
+Chapter 7 discusses the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
 
-Chapter seven concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
+Chapter 8 concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
 
 ### Link to next chapter
 
 It is worth noting at this stage that the process of being guided by personal interests, those of participants and creating and designing
 This chapter has explored the context of HE, informal science learning and specifically computer coding and game making. The pedagogies of those areas are explored in the next chapter.  
+
+
+## Holding Zone - Drop or Move
+
+#### An area of tension to address - limited leaner choice in process if driven by curriculum.
+
+Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
+
+    "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
+    Quote from [@franklin_analysis_2020]
 
 
 ## Links
