@@ -262,7 +262,7 @@ Recreating resources in P5.js is a strong possibility to mnake this approach mor
 
 
 
-### Research Output - MoE approach & creating spaces 
+### Research Output - MoE approach & creating spaces
 
 While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
 
@@ -528,9 +528,41 @@ Elements of contrast with 3M include;
 
 ## Answering RQ3 on agency - synthesis and limitations of this research
 
+
+
 ### Discussion on 3M's accumulative effect - more than a sum or parents
 
+
+**Synthesis of reflections on designing for learner agency**
+
+Pulling all together with recommendations from research . add in from notes
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community Playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especialy docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
+
 A recall to what I was trying to achieve in the first place. A free for all, organised chaos, choice, agency, interactions, questioning.
+
+THE FOLLOWING WAS MOVED HERE ITS ABOUT CODING
+
+Answering RQ - on pedagogical resources / agency / use of GDPs
+
+THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community playtesting
+- developing agency through celebration of different game maker styles
+- relational agency or authorial agency in particular in elements of peer learning and especially peer teaching which reinforces learning. 
+- authenticity of tool use, especially docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
+
+This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
+
+
 
 **Reclaiming choice as a concept**
 
@@ -550,24 +582,6 @@ Look at use of tools at the boundaries to construct new knowledge [cite - Buildi
 
 
 
-###  Coding impact on design/ processes on learner agency - OF WHAT? SHOULD THIS BE IN CHAPTER 7?
-
-<!-- NOTE  I would say  too complex for coding -->
-
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
-
-
 
 ## Implications and recommendations for practitioners / Future work and limitations
 
@@ -585,35 +599,23 @@ A further direction would be to extend the idea of DPs for HCI areas, websites, 
 TO DEVELOP
 
 
-## Synthesis of reflections on designing for learner agency
-
-Pulling all together with recommendations from research . add in from notes
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community Playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especialy docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
 
 
+### Limitations of this research / Future directions
 
 
-
-## Limitations of this research
-
-
-### Gender based issues of inclusion
+#### Gender based issues of inclusion
 
 This research did not address gender or racial issues directly. But further research would suit that.
 
 The possibilities align with similar research, home interests etc.
 How will this  impact pedagogies?
 
-## Potential areas for future work
+Future work could involved
 
 
-### Advantages and limitations of Home Education context
+
+#### Advantages and limitations of Home Education context
 
 Comments include:
 
@@ -622,8 +624,11 @@ Comments include:
 - However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.
 
 
+#### A larger focus on empowerment impact on participants
 
-### Using game design to explore games as a design artefact for empowerment purposes
+SO IS THIS NOT EXPLORED? HOW IS IT MORE SPECI
+
+While this research addresses empowerment through fostering agency, it is limited in the extent that it engages with the subjective experiences of participants.
 
 Bruno advocates process that expose that are surrounded by designed objects. This process of making lifts the lid on that process.
 
