@@ -227,6 +227,9 @@ Because previous experience had made me wary of previous experience of embracing
 In this introductory chapter, I briefly outline the use of AT and agency and methodology approaches. I also outline contextual factors of some of the areas of activity where the learning approach studied may be relevant.
 
 
+## Research objectives and questions
+
+
 
 ## Research Questions - July 2024
 
@@ -238,7 +241,7 @@ In this introductory chapter, I briefly outline the use of AT and agency and met
 
 
 
-## Academic and Conceptual Contexts
+## Academic and Conceptual Contexts - summary of theoretical concepts
 
 ### The complex role of agency in this thesis
 
@@ -820,9 +823,6 @@ Thoughts:
   - underlying treads may emerge which may transcend context  
 
 ## The significance of the thesis and its limitations
-
-
-
 
 
 ### Gaps in existing research / Contribution to knowledge of this thesis
