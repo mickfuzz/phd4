@@ -165,13 +165,16 @@ Resnick's quote comes in a piece creative coding at a crossroads. A critique of 
 
 While the activities of this study take place outside of school, this study echoes this concern. Later in this introduction the mess that is the 2014 Computing curriculum and associated exams have caused with recent reports underlining already growing concerns.
 
-x, y and z from Peter Kemps report on SCARI
+The refocusing of the curriculum and supporting exams towards a more abstract approach to computer science concepts over a skills based production
 
-Sadly, the concerns mostly echo previous concerns with the 'hardness' of computing education culture which were explored as computing education emerged [Papert].
+The effects, particularly on the take up of computing by girls and those in lower socio-economic area, which were already concerning at the start of my work on this in 2018 [John's report; after the reboot], are now alarming.      
+x, y and z from Peter Kemp's report on SCARI.
+
+Sadly, the concerns mostly echo previous concerns with the alienating, abstract nature of computing culture which were explored and address as computing education emerged [Papert].
 
 They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
 
-<!-- New software tools to make games which offer new pedagogical possibilities emerge regularly.  -->
+New software and contexts to make and play games offer new pedagogical possibilities emerge regularly.
 
 Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
 

@@ -154,7 +154,10 @@ AT theory emphasises that the process of activity does not start in a vacuum. Th
 
 The emerging character of playtesting in this design (explored in Chapter 5) is another example of a process which began in as an introduced activity. Namely:
 
--  
+
+
+
+
 
 ### Emerging use of narratives and graphics which drawing on home funds of knowledge
 
@@ -435,7 +438,11 @@ This section returns to game making types explored in Chapter 5. TO DEVELOP
 
 For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
 
+#### A focus on the value of changing roles - especially peer teaching as reinforcing learning
 
+A role or style that is not fully captured is that of peer learning, although it is implied within the socialisers and magpie makers.
+
+CAN THIS BE ADDED INTO THE CODING SCHEMA 
 
 #### The potential of emergent "non-productive" activities
 
