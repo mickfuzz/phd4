@@ -854,9 +854,7 @@ This research is valid in the following ways:
 
 ## Chapter outline of the study
 
-This introduction has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area.
-
-It has also outlined a motivation to better understand my own experience as a facilitator of learners creating media and digital products in relation with existing research.
+This introduction has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area. It has also outlined a motivation to better understand my own experience as a facilitator of learners creating media and digital products in relation to existing research.
 
 While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
 
@@ -864,7 +862,7 @@ In line with a situated view of learning the details of process of coding are im
 
 The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include: authenticity in project based approaches; nature of informal settings in particular home education; barriers to participation in digital making; pedagogies to create inclusive learning environments and to help young people learn computer coding. To follow I outline the theoretical framework and the key methodologies of this study. I explain how the design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school and the leading approach of third generation activity theory (3GAT).
 
-<!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies which suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
+<!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies whichIn summary, this introduction has established the core motivations for this study and outlined the key contextual factors that have shaped my inquiry into the facilitation of media and digital product creation. By exploring the nuances of informal coding environments and reflecting on my own experiences as a facilitator, the study seeks to address broader questions about nurturing creative and technical skills in novice learners. The introduction also highlighted the importance of making complex coding processes accessible to a non-expert audience and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. As we transition to the literature review, the next section will provide a detailed examination of relevant research and theoretical concepts that inform this study. This review will serve to clarify the foundational ideas and frameworks essential for understanding the study’s objectives and research questions, setting the stage for a deeper exploration of how design-based research and third-generation activity theory offer innovative approaches to the challenges identified in the introduction. suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
 
 Chapter 3 details the theoretical framework used. It starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency.
 
@@ -883,8 +881,7 @@ Chapter 8 concludes the thesis with a final discussion on the significance of my
 
 ### Link to next chapter
 
-It is worth noting at this stage that the process of being guided by personal interests, those of participants and creating and designing
-This chapter has explored the context of HE, informal science learning and specifically computer coding and game making. The pedagogies of those areas are explored in the next chapter.  
+This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The study seeks to address questions about effective teaching the creative and technical skills needed by novices to create digital games. The introduction also highlighted the complexities of  and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarify key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepare the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
 
 
 ## Holding Zone - Drop or Move
