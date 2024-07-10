@@ -377,10 +377,15 @@ Corporate funding code.org. (Google) -->
 
 One motivation is to better understand my practice as an activist, community worker and educator. As a digital media workshop facilitator, what is happening in moments of controlled chaos that I seek to foster?
 
-As an activist looking for wider empowerment in communities how can I better understand the process of understanding and working with limits to agency.
-
 New software and contexts to make and play games offer new pedagogical possibilities emerge regularly. They should be investigated.
 
+**Agency**
+
+As an activist looking for wider empowerment in communities how can I better understand the process of understanding and working with limits to agency.
+
+Thus RQ3 of this thesis addresses the process of developing agency within a community.
+
+As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. Thus, one of my objectives was to be able to better understand the driving forces of my involvement in education aspects of community in terms of the range of training and community projects that I had been involved with.
 
 
 ### Research Questions - July 2024
@@ -437,9 +442,8 @@ The following sections therefore explore diverse motivations for learning to cod
 
 ## 4. Introduction to Theoretical Framework
 
-REVISE THIS A LOT - RETHINK
 
-### What are the needs of this study?
+### What are the needs of this study that need to be met by a theoretical framwork
 
 In brief:
 
@@ -447,26 +451,25 @@ In brief:
 - Research processes should happen in situ for relevant results
 - Community based approaches to research allow for mutual input to the process
 
+Choosing a theoretical framework which aligns with the goals of the research questions is an important choice in undertaking a PhD study. My roles as joint practitioner / researcher called for a careful choice to avoid potential complications of the process.  
 
-This is particularly true in the field of digital making and game making. New software and coding environments to make and play games offer new pedagogical possibilities are emerging regularly.
+It also required an ability to describe and analyse the following:  growth of participant agency, able to deal with authentic learning contexts, able to clearly conceptualise barriers to participation, and a mutual process involving the community in design evolution.
 
-<!-- Examples include MakeCode Arcade [@vostinar_makecode_2024],    -->
-
-These new technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
-
-A research process which involves participants and can be responsive and incorporate new ways in which
-
-
-Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+I chose activity theory and supplemented it with specific techniques of design based research. 
 
 ### Activity Theory
 
 - explores tensions
 - is optimistic but realistic about change
 - aligns with dbr
-- rich concepts for agency 
+- rich concepts for agency
+
+
+In the interests of evaluation the pedagogical possibilities of new software, hardware and coding environments, researchers frequently adopt a position as a practitioner or co-facilitator of a novel learning design a researcher of the process. Thus a concept of learning or processes that is dynamic and open to change is needed.
+
+This chapter has already addressed the overall ethos of conducting educational research in situ, namely, in an authentic educational context. The chosen context here is in a new learning community which draws from informal learning networks of home educating parents. A
+
+A research process which involves participants and can be responsive and incorporate new ways of understanding learning. In addition, working with participants can allow contributions of novel ideas. Therefore
 
 CHAT is optimistic but realistic in the focus on the possibility of change.
 
@@ -476,9 +479,32 @@ This study, in part, explores ways in which how the motivational and navigationa
 
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
+**Agency:**
+As these new technologies can provide communities with tools to leverage new opportunities in a way which gives participants greater agency, a research framework which contains a toolset of concepts to describe and analyse varied dimensions of agency is beneficial.
+
+### The complex role of agency in this thesis
+
+<!-- My personal context illustrates several examples of the structure and agency debate [@bazerman_structure_2003]. A tangential but important motivation is to make sense of this experience in philosophical terms. -->
 
 
 
+There was a messiness and a responsiveness that I wanted to capture and celebrate, and a dedication to real-life projects and working with the interests of participants. As such I began to search for a relevant theoretical framework and terminology to achieve this exploration in academic terms.
+
+The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  These are elements of pedagogy that are explored in Chapter 2.
+
+Constructionism valuing of project work was of potential interest to me. In addition the school's work on Computational Fluency as a counterpoint to Computational Thinking allowed for concepts of identity exploration and self-expression [].
+
+However, constructionism seemed lacking in theoretical underpinning allowing a spanning of different domains.
+
+Instead AT offers a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
+
+It also provided a diversity of concept to explore a complex and dynamic picture of participant agency.
+
+This complexity  is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work.
+
+The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. Thus, a wider goal is the research is to reflect on experiences of developing agency. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely: instrumental agency, relational agency and authorial agency.
+
+My personal context is an example that changes happening within one system may cause a reaction from wider system elements and actors, which pushes back to reverse the initial changes. My story illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
 
 
 
@@ -632,29 +658,6 @@ Authors note that UMC and the value of project based exploration can clash with 
     Quote from [@franklin_analysis_2020]
 
 
-### The complex role of agency in this thesis
-
-My personal context illustrates several examples of the structure and agency debate [@bazerman_structure_2003]. A tangential but important motivation is to make sense of this experience in philosophical terms.
-
-Thus RQ3 of this thesis addresses the process of developing agency within a community. The process of undertaking a PhD gave me a chance to investigate my driving motivations previous projects in a new context and setting. However, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. Thus, one of my objectives was to be able to better understand the driving forces of my involvement in education aspects of community in terms of the range of training and community projects that I had been involved with.
-
-There was a messiness and a responsiveness that I wanted to capture and celebrate, and a dedication to real-life projects and working with the interests of participants. As such I began to search for a relevant theoretical framework and terminology to achieve this exploration in academic terms.
-
-The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  These are elements of pedagogy that are explored in Chapter 2.
-
-Constructionism valuing of project work was of potential interest to me. In addition the school's work on Computational Fluency as a counterpoint to Computational Thinking allowed for concepts of identity exploration and self-expression [].
-
-However, constructionism seemed lacking in theoretical underpinning allowing a spanning of different domains.
-
-Instead AT offers a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
-
-It also provided a diversity of concept to explore a complex and dynamic picture of participant agency.
-
-This complexity  is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work.
-
-The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. Thus, a wider goal is the research is to reflect on experiences of developing agency. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely: instrumental agency, relational agency and authorial agency.
-
-My personal context is an example that changes happening within one system may cause a reaction from wider system elements and actors, which pushes back to reverse the initial changes. My story illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
 
 
 
