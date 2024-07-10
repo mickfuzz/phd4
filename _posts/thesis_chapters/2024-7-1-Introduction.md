@@ -200,36 +200,25 @@ In response to growing discomfort around involvement in political and environmen
 
 <!-- There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question. -->
 
-### Connection to Broader Research Interests:
 
-**Discuss how these experiences connect to larger questions in the field of media and digital product creation, particularly within informal and temporary learning environments.**
-
-**Training to teach in formal education**
-
-I was attracted to the rhetoric leading up to the launch of a new UK computing curriculum in 2015 promised the ability to undertake computing and multi-media project production within the classroom and taught exam work [@livingstone2010next]. I undertook a masters in Computing and then an PGCE in teaching Computing.
-
-As part of my PGCE dissertation I designed and delivered a pilot scheme to teach javascript in playful ways. I used Mozilla's webmaker tools and adapted soem of their open leadership processes. In addition to he dissertation findings [^2], the learning materials were made available as an OER as part of Mozilla's online teaching resources= Learn / Teach thew web.
-
-While I was drawn to the possibilities offered by a new technologies and the reality of schools that I taught in working within the constraints of the curriculum, exams and competing pressures for time worked together to prevent the kind of authentic activities that first attracted me. Barriers to undertaking practical PBL projects are explored in the Literature Review in Chapter 2 of this thesis.
-
-A role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue
-creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work.
+Discussion around the launch of a new UK computing curriculum in 2014 championed the possibilities of creative digital production within the classroom [@livingstone2010next]. I undertook a masters in Computing and then an PGCE in teaching Computing. As part of my PGCE dissertation I designed and delivered a pilot scheme to teach javascript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^2]. However the constraints of the school context hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. At the end of the PGCE year study I gained a role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work. Building on the success of this work, I applied to undertake this PhD study with Education and Social Research Institute of Manchester Metropolitan University (ESRI).
 
 
-**Case Study as example: Digital Braves as a small MoE / 5D project**
+<!-- **Case Study as example: Digital Braves as a small MoE / 5D project**
 
 Digital Braves was a short project which culminated in a session
 
 A product of partnership work at university. Aligning the potential needs of home educated families with exploration of uncomfortable digital issues. It drew on the expertise of the drama department in Manchester Met school of eduction.
 
-It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology.
+It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology. -->
 
 
 <!-- My engagement with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work. -->
 <!--
 Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture. -->
 
-I applied to undertake a PhD with Education and Social Research Institute of Manchester Metropolitan University (ESRI) with game making with families in a non-formal setting as the topic.
+
+
 
 
 <!-- As well as the process of learning a useful technical skill, I was also interested the mutual process of designing an inclusive learning design that drew on participants interests. I wanted to use a project based approach which avoided instruction and allowed participants to follow diverse paths and be part of a slightly chaotic but productive learning community. -->
@@ -237,6 +226,26 @@ I applied to undertake a PhD with Education and Social Research Institute of Man
 <!-- Because previous experience had made me wary of previous experience of embracing technology opportunities and suffering from unintended consequences I was keen to choose an approach which allowed for a careful examination of context and motivations.  
 
 In this introductory chapter, I briefly outline the use of AT and agency and methodology approaches. I also outline contextual factors of some of the areas of activity where the learning approach studied may be relevant. -->
+
+### Connecting my experience to broader research themes
+
+In this section I outline how these experiences connect to broader research issues on PBL,  media and game creation within informal learning environments.
+
+The barriers to undertaking practical PBL projects, particularly in a UK computing context are explored in a following section and and in the Literature Review in Chapter 2 of this thesis.
+
+The value of drawing of working with learners interests and creating authentic products is well explored via foundational PBL tactics and is explored in game making context in convincing research. My motivation of empowerment and freedom of expression in my involvement with DIY music events and protest culture aligns with broader movements who advocate equality of access to digital participatory culture through building fluency of media production.
+
+The process of affecting short term systemic change only to suffer later backlash has provoked in me a desire to help others explore a more critical exploration of their place within wider systems. While this desire may seems tangential to the activities of participants in this study, they can be argued to be of fundamental importance to any act of community participation. Recent work on transformative agency within socio-cultural frameworks offers promising theoretical support.
+A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency.
+
+Finally, a certain improvisational approach or messiness is present in previous work. While the process can seem a bit chaotic the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. In the context of a communal approach to transformative agency, these sketchy approaches, can also mitigate the effects unintended and unwelcome consequences through rapid, responsive adjustment in the course of a project. These factors are  present in the mutually evolving nature of the methodology of the study, a process explored in later chapters in reflections on design based research.  
+
+<!-- Rogoff reflection on the seemingly chaotic processes happening in a community of learners [].   -->
+
+<!-- The process of launching into the unknown with project involving a group of people hoping to collectively make some kind of progress towards a sketchy goal was something familiar to me but under-explored.  Dave Gray's Gamestorming resource [gray_gamestorming_2010] (which became a guiding principle of EdLab project work) outlined a principle of fuzzy goals adapted from Blackwell's work [blackwell_radical_2009]
+
+The process aligns with mutuality of design work and acknowledgement that while the process can seem a bit sketchy the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. It can also avoid unforeseen consequences by a more rapid adjustment in the course of a project. -->
+
 
 ## 2. Context
 
@@ -312,8 +321,8 @@ The After the Reboot report [@waite_pedagogy_2017], returned to the subject of g
 Following Papert and Turkle's work on a diversity of appoaches to couter the 'hardness' of computing, Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
 
-- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+<!-- - Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
 
 
 **Race related identities**
@@ -323,10 +332,6 @@ In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is
     Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
 
 Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-
-
-
 
 
 
@@ -419,12 +424,7 @@ Mozilla as benefit for the teach the web.
 Corporate funding code.org. (Google) -->
 
 
-
-
 ###  Barriers -
-
-
-
 
 
 #### Technical Barriers -  Difficulties in learning to program
@@ -513,11 +513,6 @@ While home education support practices of families are expressed in this setting
  We added a fourth principle to emphasize the equally important social dimension of construction tools:11
 
  Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
-
-
-
-
-
 
 
 
@@ -642,20 +637,25 @@ Even this more limited focus, still contains a rich interplay of diverse tool us
 ### Gaps in existing research / Contribution to knowledge of this thesis
 
 
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.  New software tools to make games which offer new pedagogical possibilities emerge regularly, and thus the opportunities merit attention. This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices to develop computational fluency via game making. My research also addresses issues of more dated research that may use or use non-free, or no longer available tools.
 
-Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. While some of the studies linked to do contain pedagogies used, others suffer from less detail, may be out of date, or use non-free tools.
+Kafai and Burke’s influential book on game making for learning research contains a chapter which addresses cultural dimensions of game making [-@kafai_connected_2016]. However, while it covers barriers to participation, the review lacks specific details of the pedagogical approaches involved [@illingworth_review_2017]. Indeed, this is not a fault ony of the review, as many of studies mentioned also omit descriptions of pedagogies used, and but also factors that emerge during the programmes.
+
+LINK BACK TO DESIGN NARRATIVE
+
+
+MOVE THIS TO LIT REVIEW - PICK UP THERE  
+In recent years researchers from constructionist school have started to describe the importance cultural elements of learning environments within a situated and critical framings of computing skills [@kafai_revaluation_2022].
+
+However, constructionism lacks some of the tools provided by CHAT, and its research outputs still retain a primary focus on its historical concerns on a more personal understandings of knowledge.  This shows a legacy of Papert's work on maths concepts explored in computing microworlds.   
+
+Instead, this thesis is inspired to a larger extent by the work of CHAT researcher to examine community participation within an evolving culture that involves digital creation and coding. For an example of this genre of research we can examing the work of  Cole and colleagues on the 5D project...
+
 
 This study addresses this in part with a detailed exploration on the learning design in Chapter 5 a design narrative and  Chapter 7 which explores cultural elements of game making research. It also includes as a research output tools in the form of free-software and educational materials created under an open-licence.
 
-In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE].
-
-However, while some research is drawing on sociocultural approaches, constructionism lacks some of the tools provided by 3GAT.
-
 Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
 
-**Gaps in research**
-- Kafai's review on game making research is thin in cultural terms.
 - Not many addressing the explicit intention to create a community.  
 - Game design patterns emerged in this research as fruitful and is under researched
 
@@ -715,6 +715,38 @@ Chapter 8 concludes the thesis with a final discussion on the significance of my
 ### 7. Link to next chapter
 
 This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The study seeks to address questions about effective teaching the creative and technical skills needed by novices to create digital games. The introduction also highlighted the complexities of  and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarify key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepare the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Holding Zone - Drop or Move
@@ -853,23 +885,16 @@ The following studies are relevant:
 
 
 
-### On Gaming as a home and informal culture
+### On games as a home and informal culture
 
-The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
+The work of Livingstone is foundational in the area of home learning of digital technologies [@livingstone_digital_2018] uncovering a rich repertoire concepts and practices that families may bring into a non-formal game making process.
 
-Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
+Retro gaming has a place in our society's public memory [@heineman2014public]. For this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles before the advent of 3D graphics. Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are due to the limited capabilities of the hardware and storage space involved.
 
-One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
-
-What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
-
-Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
-due to the limited capabilities of the hardware and storage space involved.
-
-### Home making and consuming of media
+<!-- One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant. -->
 
 
-Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
+Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities.
 
 In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
 
@@ -923,7 +948,6 @@ Digital learning in IILP (GLAM settings) is fertile [@degner_digital_2022; @schw
 
 ### Funds of knowledge and third space
 
-
 The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
 
 In the original study home visits were carried out to better inform design of after-school activities.
@@ -933,8 +957,6 @@ However there limits to this approach, including only some families were visited
 The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
 
 ### Third spaces and the context of this study
-
-PERHAPS THIS IS METHODOLOGY? MOVE?
 
 The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
 

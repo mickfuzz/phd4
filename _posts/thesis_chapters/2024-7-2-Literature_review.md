@@ -1,4 +1,3 @@
-
 ---
 # all the regular stuff you have here
 zotero:
@@ -10,11 +9,39 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
+
 -   [Literature Review](#literature-review)
     -   [Research Questions - April
         2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
+    -   [Barriers to participation in game
+        making](#barriers-to-participation-in-game-making)
+        -   [Barriers - Part of the problem statement? OR LIT review ?
+            OR
+            Context](#barriers---part-of-the-problem-statement-or-lit-review-or-context)
+        -   [Review of relevant barriers to participating in coding
+            practices emerging in the
+            literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
+        -   [Cultural / Identity barriers to participation in
+            ...](#cultural-identity-barriers-to-participation-in)
+            -   [Barrier - Identity and computer
+                cultures](#barrier---identity-and-computer-cultures)
+        -   [Barrier - unfamiliarity with support
+            practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
+    -   [Case Study as example: Digital Braves as a small MoE / 5D
+        project](#case-study-as-example-digital-braves-as-a-small-moe-5d-project)
+    -   [3. Introduction to Theoretical
+        Framework](#introduction-to-theoretical-framework)
+        -   [Summary of the FOCUS of this thesis - adapting the
+            experience to an academic PhD
+            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
+    -   [Pedagogies addressing
+        barriers](#pedagogies-addressing-barriers)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Computation Thinking: curriculum concepts and/or and
         pedagogical
@@ -98,7 +125,6 @@ title: 2. Literature Review
             thesis](#the-problem-statement-of-the-thesis)
     -   [Link to the next chapters](#link-to-the-next-chapters)
 
-
 # Literature Review
 
 ## Research Questions - April 2024
@@ -153,21 +179,140 @@ This starts with a examination of computational thinking as a pedagogy.
 It also address some key barriers to coding practices presented by the constraints of curriculum and assessment.
 
 
-NOTES ON WHAT SHOULD BE INCLUDED IN LIT REVIEW
 
 
 - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
 
-- Parents as brokers in tech use / learning - Roque et al, Barron, Correa
-
-
-- professional and enthusiast game making communities and informal setttings: better to address coding practices not
-
 
 -hci and affordance theory, technical barriers , solved by design - link with contructionism
 
-- MDA - as professional framework
+## Barriers to participation in game making practices (explored in contextual settings)
 
+This section review existing research on digital making to identify barriers to participation in digital making and in particular coding practices in key contexts.
+
+While the primary focus of this thesis is on an emerging coding community in a non-formal learning environment, the wider implications and learners should be applicable in school settings. There are however existing institutional barriers to this happening in traditional school classrooms. To address this,  the next section explores these barriers in a UK context of computing and digital skills school-based education.
+
+### Institutional Barriers - related to UK School context
+
+
+- Change of exam in to computing in 2014
+
+A change driven by 
+
+
+A section on the promise of the curriculum, and the hobby based activities created by individuals and non-profits to support project based work. However, in 201X, the coursework element of GSCE exam, which allowed students to engage with hands on coding, was rapidly removed due to student accessing 'worked examples' of code solutions online and incorporating them into their.
+
+As students are able to write in psuedo code this means
+
+
+### Technical Barriers -  Difficulties in learning to program
+
+Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
+
+    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
+
+In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
+
+More literature which examines the complexity of language and development environments should be found here.
+
+Complexity of syntax and problem of leading with syntax [@gomes2007learning]
+
+Issues of needing levels of abstraction in learning programming [@gomes2007learning].
+
+
+*Specialist coding tools and computational kits*
+
+There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
+
+This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
+
+Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
+
+ - Block coding vs text coding, syntax
+ - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
+ - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
+
+
+Scratch and GSM merit particular examination as mini-case studies. The  
+
+- Scratch and community element.
+- Remix as a feature: [@amanullah_evaluating_2019]
+- Online log in
+- library of assets to speed up creation
+- In built asset authoring tools.
+
+Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interest to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
+
+NOTE - referenced in design chapter - the alignment with the use of code playground and template.
+
+
+Computing syntax
+Lack of knowledge of what to design..
+ which they call “sandbox games,” that integrates the worlds"
+
+
+
+
+### Cultural / Identity barriers to participation in ...
+
+**Barriers to participation**
+
+Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
+
+The focus of this review is to identify broad streams and currents in research.
+
+
+#### Barrier - Identity and computer cultures
+
+Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
+
+Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
+
+Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
+
+When faced with choice learners are sometimes unsure how to start creating.
+Design scaffolds have been created to support this. -->
+
+
+
+
+### Barrier - unfamiliarity with support practices
+
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
+
+
+
+
+
+### Outlining  cultural barriers / aspects of game making
+
+The following studies are explored future in LR. Here I surface cultural barriers experienced by participants.
+
+
+**Gender  related identities**
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+**Race related identities**
+
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+**Outro**
+
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE]. Other approaches exist - AT etc .
+
+
+
+## Pedagogies addressing barriers
 
 
 ### What is a pedagogy?

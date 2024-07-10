@@ -17,20 +17,18 @@
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
             UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+        -   [More general barriers to game making which apply to formal
+            and non-formal
+            environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
+            -   [Identity](#identity)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
-            -   [Defining and conceptualising - formal, home and third
-                space contexts - SUMMARISE /
-                COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
             -   [On Gaming as a home and informal
                 culture](#on-gaming-as-a-home-and-informal-culture)
             -   [Home making and consuming of
                 media](#home-making-and-consuming-of-media)
         -   [Barriers -](#barriers--)
-            -   [Review of relevant barriers to participating in coding
-                practices emerging in the
-                literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
             -   [Technical Barriers - Difficulties in learning to
                 program](#technical-barriers---difficulties-in-learning-to-program)
             -   [Cultural / Identity barriers to participation in
@@ -39,16 +37,10 @@
                 cultures](#barrier---identity-and-computer-cultures)
             -   [Barrier - unfamiliarity with support
                 practices](#barrier---unfamiliarity-with-support-practices)
-            -   [Outlining cultural barriers / aspects of game
-                making](#outlining-cultural-barriers-aspects-of-game-making)
-    -   [3. Introduction to Theoretical
-        Framework](#introduction-to-theoretical-framework)
-        -   [Summary of the FOCUS of this thesis - adapting the
-            experience to an academic PhD
-            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [4. Research objectives and
         questions](#research-objectives-and-questions)
-        -   [Research objectives](#research-objectives)
+        -   [Research objectives & Recap of
+            motivation](#research-objectives-recap-of-motivation)
         -   [Research Questions - July
             2024](#research-questions---july-2024)
         -   [Clarifications of terminology of
@@ -56,12 +48,20 @@
         -   [Agency](#agency)
         -   [Wider implications of the
             research](#wider-implications-of-the-research)
-        -   [Recap of motivation](#recap-of-motivation)
+    -   [4. Introduction to Theoretical
+        Framework](#introduction-to-theoretical-framework)
+        -   [What are the needs of this
+            study?](#what-are-the-needs-of-this-study)
+        -   [Summary of the FOCUS of this thesis - adapting the
+            experience to an academic PhD
+            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
+        -   [Scope and limitations of this
+            thesis](#scope-and-limitations-of-this-thesis)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)

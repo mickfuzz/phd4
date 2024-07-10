@@ -3,6 +3,26 @@
         2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
+    -   [Barriers to participation in game
+        making](#barriers-to-participation-in-game-making)
+        -   [Barriers - Part of the problem statement? OR LIT review ?
+            OR
+            Context](#barriers---part-of-the-problem-statement-or-lit-review-or-context)
+        -   [Review of relevant barriers to participating in coding
+            practices emerging in the
+            literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
+        -   [Cultural / Identity barriers to participation in
+            ...](#cultural-identity-barriers-to-participation-in)
+            -   [Barrier - Identity and computer
+                cultures](#barrier---identity-and-computer-cultures)
+        -   [Barrier - unfamiliarity with support
+            practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
+    -   [Pedagogies addressing
+        barriers](#pedagogies-addressing-barriers)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Computation Thinking: curriculum concepts and/or and
         pedagogical
