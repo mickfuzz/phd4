@@ -168,12 +168,14 @@ While the activities of this study take place outside of school, this study echo
 
 The refocusing of the curriculum and supporting exams towards a more abstract approach to computer science concepts over a skills based production
 
-The effects, particularly on the take up of computing by girls and those in lower socio-economic area, which were already concerning at the start of my work on this in 2018 [John's report; after the reboot], are now alarming.      
-x, y and z from Peter Kemp's report on SCARI.
 
-Sadly, the concerns mostly echo previous concerns with the alienating, abstract nature of computing culture which were explored and address as computing education emerged [Papert].
+Kemp and colleagues recent report on the future of computing eduaction   [@kemp_future_2024] note the low  take up of computing by girls and those in lower socio-economic area, and X
+One of the recommendations of this report is to offer move informal digital making and project work involving coding as an inclusive practice.
 
-They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
+
+MOVE - Sadly, the concerns mostly echo previous concerns with the alienating, abstract nature of computing culture which were explored and address as computing education emerged [Papert].
+
+MOVE - They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
 
 New software and contexts to make and play games offer new pedagogical possibilities emerge regularly.
 
@@ -301,9 +303,29 @@ Raspberry Pi foundation have incorporated previously independent organisations C
 Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
 But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
 
+
+**Contextual Challenges**
+
+
+The "After the Reboot" report [@waite_pedagogy_2017] also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level.
+
+As mentioned above a more recent report shows a furter decline in girls uptake and cites cultural issues, a well as the issue of relative hardness of the subject.
+
+Sadly, the concerns mostly echo previous concerns with the alienating, abstract nature of computing culture which were explored and address as computing education emerged [Papert].
+
+They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
+
+
+
+
 **Games in Schools**
 
-The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding. The "After the Reboot" report also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.  Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+
+
+
+
+
 
 
 <!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
@@ -569,47 +591,15 @@ Illingworth critique's Kafai and Burke's book due to lack of specificity in the 
 
 
 
-## 3. Introduction to Theoretical Framework
-
-REVISE THIS A LOT - RETHINK
-
-New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
-
-Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
-
-While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
-
-CHAT is optimistic but realistic in the focus on the possibility of change.
-
-However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
-
-This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
-
-RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
-
-
-### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
-
-Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
-
-<!-- Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be   -->
-
-In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
-
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
-
-Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
-
-
-
-
-
 
 ## 4. Research objectives and questions
 
-### Research objectives
+### Research objectives & Recap of motivation
 
-The object
+One motivation is to better understand my practice as an activist, community worker and educator. As a digital media workshop facilitator, what is happening in moments of controlled chaos that I seek to foster?
+
+As an activist looking for wider empowerment in communities how can I better understand the process of understanding and working with limits to agency.
+
 
 ### Research Questions - July 2024
 
@@ -664,20 +654,42 @@ The following sections therefore explore diverse motivations for learning to cod
 
 
 
-### Recap of motivation
 
-A motivation is to better understand my practice as an activist, community worker and educator.
+## 4. Introduction to Theoretical Framework
 
-While I am wary of runaway objects, I am still active in a community and university setting.
+REVISE THIS A LOT - RETHINK
 
-An understanding of this controlled experiment in creating culture can shed light on previous work.
+New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
 
-Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
 
-Thus why would this study based on observations of one context be of use?
-Thoughts:  
-  - similar contexts exist
-  - underlying treads may emerge which may transcend context  
+While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
+
+CHAT is optimistic but realistic in the focus on the possibility of change.
+
+However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
+
+This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+
+RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
+
+
+### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
+
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+<!-- Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be   -->
+
+In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
+
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
+
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+
+
+
+
+
 
 ## 5. The significance of the thesis and its limitations
 
@@ -705,7 +717,19 @@ This research is valid in the following ways:
 - application of guided participation as lens to this domain
 - something about methods using 360 and screen capture?
 
+### Scope and limitations of this thesis
 
+I am cautions of making claims about transfer of knowledge of skills to other areas.
+
+Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+
+The promise of computational thinking was in part based on such claims of transfer.
+But Guzdial shifted their views on this subject. 
+
+Thus why would this study based on observations of one context be of use?
+Thoughts:  
+- similar contexts exist
+- underlying treads may emerge which may transcend context  
 
 
 ## 6. Chapter outline of the study
