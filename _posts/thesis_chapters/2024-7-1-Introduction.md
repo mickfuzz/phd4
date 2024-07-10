@@ -442,20 +442,9 @@ The following sections therefore explore diverse motivations for learning to cod
 
 ## 4. Introduction to Theoretical Framework
 
+Choosing a theoretical framework which aligns with the goals of the research questions is an important choice in undertaking a PhD study. My roles as joint practitioner / researcher called for a careful choice to avoid potential complications of the process.  It also required an ability to describe and analyse the following:  growth of participant agency, able to deal with authentic learning contexts, able to clearly conceptualise barriers to participation, and a mutual process involving the community in design evolution.
 
-### What are the needs of this study that need to be met by a theoretical framwork
-
-In brief:
-
-- Novel tools, provide new opportunities and need evaluation
-- Research processes should happen in situ for relevant results
-- Community based approaches to research allow for mutual input to the process
-
-Choosing a theoretical framework which aligns with the goals of the research questions is an important choice in undertaking a PhD study. My roles as joint practitioner / researcher called for a careful choice to avoid potential complications of the process.  
-
-It also required an ability to describe and analyse the following:  growth of participant agency, able to deal with authentic learning contexts, able to clearly conceptualise barriers to participation, and a mutual process involving the community in design evolution.
-
-I chose activity theory and supplemented it with specific techniques of design based research. 
+To address these needs I have chosen activity theory and supplemented it with specific techniques of design based research. The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
 ### Activity Theory
 
