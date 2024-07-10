@@ -197,12 +197,37 @@ While the primary focus of this thesis is on an emerging coding community in a n
 
 - Change of exam in to computing in 2014
 
-A change driven by 
+A change driven by x
 
 
 A section on the promise of the curriculum, and the hobby based activities created by individuals and non-profits to support project based work. However, in 201X, the coursework element of GSCE exam, which allowed students to engage with hands on coding, was rapidly removed due to student accessing 'worked examples' of code solutions online and incorporating them into their.
 
 As students are able to write in psuedo code this means
+
+
+
+
+- New curriculum
+- bursaries
+- CPD
+- CAS and community responses
+- tapping into the enthusiast maker culture
+
+#### Responses - MOVE LATER?
+
+**Finance models for promoting Computing in Schools**
+
+STEM Learning NCCE - teachcomputing.org - How did this develop?  
+
+Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
+
+CAS are supported by BCS and direct help from gov? The grass roots resource creation .
+
+Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
+
+Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
+But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
+
 
 
 ### Technical Barriers -  Difficulties in learning to program

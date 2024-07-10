@@ -3,14 +3,12 @@
         2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
-    -   [Barriers to participation in game
-        making](#barriers-to-participation-in-game-making)
-        -   [Barriers - Part of the problem statement? OR LIT review ?
-            OR
-            Context](#barriers---part-of-the-problem-statement-or-lit-review-or-context)
-        -   [Review of relevant barriers to participating in coding
-            practices emerging in the
-            literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
+    -   [Barriers to participation in game making practices (explored in
+        contextual
+        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
+        -   [Institutional Barriers - related to UK School
+            context](#institutional-barriers---related-to-uk-school-context)
+            -   [Responses - MOVE LATER?](#responses---move-later)
         -   [Technical Barriers - Difficulties in learning to
             program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in

@@ -19,47 +19,26 @@ title: 1. Introduction - Games for a Read / Write world.
     -   [1. Background to the thesis](#background-to-the-thesis)
         -   [Personal context and motivation for undertaking this
             study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Connection to Broader Research
-            Interests:](#connection-to-broader-research-interests)
+        -   [Connecting my experience to broader research
+            themes](#connecting-my-experience-to-broader-research-themes)
     -   [2. Context](#context)
-        -   [Context of School based computing
-            education](#context-of-school-based-computing-education)
-    -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education)
-        -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+        -   [Context of School based computing education and game
+            making](#context-of-school-based-computing-education-and-game-making)
+        -   [More general barriers to game making which apply to formal
+            and non-formal
+            environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
+            -   [Identity](#identity)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
-            -   [Defining and conceptualising - formal, home and third
-                space contexts - SUMMARISE /
-                COMPRESS](#defining-and-conceptualising---formal-home-and-third-space-contexts---summarise-compress)
             -   [On Gaming as a home and informal
                 culture](#on-gaming-as-a-home-and-informal-culture)
             -   [Home making and consuming of
                 media](#home-making-and-consuming-of-media)
-        -   [Barriers -](#barriers--)
-            -   [Review of relevant barriers to participating in coding
-                practices emerging in the
-                literature](#review-of-relevant-barriers-to-participating-in-coding-practices-emerging-in-the-literature)
-            -   [Technical Barriers - Difficulties in learning to
-                program](#technical-barriers---difficulties-in-learning-to-program)
-            -   [Cultural / Identity barriers to participation in
-                ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-            -   [Barrier - unfamiliarity with support
-                practices](#barrier---unfamiliarity-with-support-practices)
-            -   [Outlining cultural barriers / aspects of game
-                making](#outlining-cultural-barriers-aspects-of-game-making)
-    -   [3. Introduction to Theoretical
-        Framework](#introduction-to-theoretical-framework)
-        -   [Summary of the FOCUS of this thesis - adapting the
-            experience to an academic PhD
-            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [4. Research objectives and
         questions](#research-objectives-and-questions)
-        -   [Research objectives](#research-objectives)
+        -   [Research objectives & Recap of
+            motivation](#research-objectives-recap-of-motivation)
         -   [Research Questions - July
             2024](#research-questions---july-2024)
         -   [Clarifications of terminology of
@@ -67,12 +46,20 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [Agency](#agency)
         -   [Wider implications of the
             research](#wider-implications-of-the-research)
-        -   [Recap of motivation](#recap-of-motivation)
+    -   [4. Introduction to Theoretical
+        Framework](#introduction-to-theoretical-framework)
+        -   [What are the needs of this
+            study?](#what-are-the-needs-of-this-study)
+        -   [Summary of the FOCUS of this thesis - adapting the
+            experience to an academic PhD
+            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
+        -   [Scope and limitations of this
+            thesis](#scope-and-limitations-of-this-thesis)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
@@ -83,16 +70,14 @@ title: 1. Introduction - Games for a Read / Write world.
             thesis](#the-complex-role-of-agency-in-this-thesis)
         -   [Sketchy pedagogies](#sketchy-pedagogies)
     -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education-1)
+        education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk-1)
+            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
     -   [Context of game making and wider digital making and culture
         home and informal
         settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings-1)
-        -   [On Gaming as a home and informal
-            culture](#on-gaming-as-a-home-and-informal-culture-1)
-        -   [Home making and consuming of
-            media](#home-making-and-consuming-of-media-1)
+        -   [On games as a home and informal
+            culture](#on-games-as-a-home-and-informal-culture)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
     -   [Game making and maker culture in non-formal learning contexts
@@ -201,7 +186,7 @@ In response to growing discomfort around involvement in political and environmen
 <!-- There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question. -->
 
 
-Discussion around the launch of a new UK computing curriculum in 2014 championed the possibilities of creative digital production within the classroom [@livingstone2010next]. I undertook a masters in Computing and then an PGCE in teaching Computing. As part of my PGCE dissertation I designed and delivered a pilot scheme to teach javascript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^2]. However the constraints of the school context hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. At the end of the PGCE year study I gained a role Manchester Met University role doing community partnerships as part of their EdLab project [^4] did provide opportunities to pursue creative project based approaches to education and incorporate teaching technology to a suitable age range as part of the projects outreach work. Building on the success of this work, I applied to undertake this PhD study with Education and Social Research Institute of Manchester Metropolitan University (ESRI).
+Discussion around the launch of a new UK computing curriculum in 2014 championed the possibilities of creative digital production within the classroom [@livingstone2010next]. I undertook a masters in Computing and then an PGCE in teaching Computing. As part of my PGCE dissertation I designed and delivered a pilot scheme to teach javascript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^2]. However the constraints of the school context hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. Instead, after completing my PGCE, I joined Manchester Metropolitan University in a role focusing community education partnerships as part of the EdLab project [^4]. This work provided opportunities to pursue creative project based approaches to teaching technology to young people and families. Building on the success of this work, I applied to undertake this PhD study with Education and Social Research Institute of Manchester Metropolitan University (ESRI).
 
 
 <!-- **Case Study as example: Digital Braves as a small MoE / 5D project**
@@ -231,14 +216,11 @@ In this introductory chapter, I briefly outline the use of AT and agency and met
 
 In this section I outline how these experiences connect to broader research issues on PBL,  media and game creation within informal learning environments.
 
-The barriers to undertaking practical PBL projects, particularly in a UK computing context are explored in a following section and and in the Literature Review in Chapter 2 of this thesis.
+Drawing on learner's interests and creating authentic products is a foundational approach of PBL and is explored in game making context in convincing research. My past aims surrounding empowerment and freedom of expression through DIY music events and protest culture aligns with broader movements who advocate equality of access to digital participatory culture. However, my experiences highlight the barriers to undertaking practical project-based learning (PBL) projects, particularly in a UK computing context, a theme which is explored further in the literature review.
 
-The value of drawing of working with learners interests and creating authentic products is well explored via foundational PBL tactics and is explored in game making context in convincing research. My motivation of empowerment and freedom of expression in my involvement with DIY music events and protest culture aligns with broader movements who advocate equality of access to digital participatory culture through building fluency of media production.
+The process of being involved in short term systemic change only to suffer later backlash has guided me to help others explore a more critical exploration of their own place within wider systems. This may seem tangential to the activities of participants studies in this research, however such processes of building agency in a fledgling community can be seen as important acts of community participation. A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency. This theme is explored by RQ.3 and becomes the guiding principle of Chapter 7.
 
-The process of affecting short term systemic change only to suffer later backlash has provoked in me a desire to help others explore a more critical exploration of their place within wider systems. While this desire may seems tangential to the activities of participants in this study, they can be argued to be of fundamental importance to any act of community participation. Recent work on transformative agency within socio-cultural frameworks offers promising theoretical support.
-A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency.
-
-Finally, a certain improvisational approach or messiness is present in previous work. While the process can seem a bit chaotic the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. In the context of a communal approach to transformative agency, these sketchy approaches, can also mitigate the effects unintended and unwelcome consequences through rapid, responsive adjustment in the course of a project. These factors are  present in the mutually evolving nature of the methodology of the study, a process explored in later chapters in reflections on design based research.  
+Improvisational approaches present or messiness in my previous work may seem chaotic, the process builds a collective understanding of the problem area among participants. This communal experience of transformative agency also has the potential to  mitigate the effects unintended and unwelcome consequences through rapid, responsive adjustment in the course of a project. In addition, I find useful Rogoff's reflection that initial first impressions of a 'chaotic' environment of learning in a community of learners are false impressions that stem from a lack of understanding of the underlying structure of activity [-@rogoff_developing_nodate, p. 219]. These aspects are explored in later chapters in reflections on design based research.  
 
 <!-- Rogoff reflection on the seemingly chaotic processes happening in a community of learners [].   -->
 
@@ -249,52 +231,17 @@ The process aligns with mutuality of design work and acknowledgement that while 
 
 ## 2. Context
 
-Contextual factors are extremely diverse.
+This introduction restricts exploration to two key themes, contextual settings and barriers to participation. Key themes continue to be explored in the literature reviews in Chapter 2.
 
-This introduction restricts exploration to two key themes, contextual settings and barriers to participation.
+### Context of School based computing education and game making
 
+<!-- The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. There are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010]. -->
 
-
-### Context of School based computing education
-
-
-
-## Game making and coding and in schools and formal education
-
-The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society.
-
-They are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010].
-
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.
+<!-- While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. -->
 
 
-The context of many studies of game making to learning either computer science or other subject knowledge in curricular for the most part happens in a school or after school environment.
-
-
-
-
-### Coding and Computing as a School Subject in the UK
 
 The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-- New curriculum
-- bursaries
-- CPD
-- CAS and community responses
-- tapping into the enthusiast maker culture
-
-**Finance models for promoting Computing in Schools**
-
-STEM Learning NCCE - teachcomputing.org - How did this develop?  
-
-Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
-
-CAS are supported by BCS and direct help from gov? The grass roots resource creation .
-
-Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
-
-Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
-But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
 
 
 **Contextual Challenges**
@@ -424,99 +371,7 @@ Mozilla as benefit for the teach the web.
 Corporate funding code.org. (Google) -->
 
 
-###  Barriers -
-
-
-#### Technical Barriers -  Difficulties in learning to program
-
-Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
-
-    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
-
-In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
-
-More literature which examines the complexity of language and development environments should be found here.
-
-Complexity of syntax and problem of leading with syntax [@gomes2007learning]
-
-Issues of needing levels of abstraction in learning programming [@gomes2007learning].
-
-
-*Specialist coding tools and computational kits*
-
-There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
-
-This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
-
-Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
-
- - Block coding vs text coding, syntax
- - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
- - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
-
-
-Scratch and GSM merit particular examination as mini-case studies. The  
-
-- Scratch and community element.
-- Remix as a feature: [@amanullah_evaluating_2019]
-- Online log in
-- library of assets to speed up creation
-- In built asset authoring tools.
-
-Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interest to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
-
-NOTE - referenced in design chapter - the alignment with the use of code playground and template.
-
-
-Computing syntax
-Lack of knowledge of what to design..
- which they call “sandbox games,” that integrates the worlds"
-
-
-
-
-#### Cultural / Identity barriers to participation in ...
-
-**Barriers to participation**
-
-Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
-
-The focus of this review is to identify broad streams and currents in research.
-
-
-#### Barrier - Identity and computer cultures
-
-Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
-
-Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
-
-
-
-<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
-
-When faced with choice learners are sometimes unsure how to start creating.
-Design scaffolds have been created to support this. -->
-
-
-
-
-#### Barrier - unfamiliarity with support practices
-
-While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
-
-
-
-
- <!-- Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
- High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
- Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
- We added a fourth principle to emphasize the equally important social dimension of construction tools:11
-
- Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
-
-
-
-## 4. Research objectives and questions
+## 3. Research objectives and questions
 
 ### Research objectives & Recap of motivation
 

@@ -8,15 +8,11 @@
     -   [1. Background to the thesis](#background-to-the-thesis)
         -   [Personal context and motivation for undertaking this
             study](#personal-context-and-motivation-for-undertaking-this-study)
-        -   [Connection to Broader Research
-            Interests:](#connection-to-broader-research-interests)
+        -   [Connecting my experience to broader research
+            themes](#connecting-my-experience-to-broader-research-themes)
     -   [2. Context](#context)
-        -   [Context of School based computing
-            education](#context-of-school-based-computing-education)
-    -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education)
-        -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+        -   [Context of School based computing education and game
+            making](#context-of-school-based-computing-education-and-game-making)
         -   [More general barriers to game making which apply to formal
             and non-formal
             environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
@@ -28,15 +24,6 @@
                 culture](#on-gaming-as-a-home-and-informal-culture)
             -   [Home making and consuming of
                 media](#home-making-and-consuming-of-media)
-        -   [Barriers -](#barriers--)
-            -   [Technical Barriers - Difficulties in learning to
-                program](#technical-barriers---difficulties-in-learning-to-program)
-            -   [Cultural / Identity barriers to participation in
-                ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-            -   [Barrier - unfamiliarity with support
-                practices](#barrier---unfamiliarity-with-support-practices)
     -   [4. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
@@ -72,16 +59,14 @@
             thesis](#the-complex-role-of-agency-in-this-thesis)
         -   [Sketchy pedagogies](#sketchy-pedagogies)
     -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education-1)
+        education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk-1)
+            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
     -   [Context of game making and wider digital making and culture
         home and informal
         settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings-1)
-        -   [On Gaming as a home and informal
-            culture](#on-gaming-as-a-home-and-informal-culture-1)
-        -   [Home making and consuming of
-            media](#home-making-and-consuming-of-media-1)
+        -   [On games as a home and informal
+            culture](#on-games-as-a-home-and-informal-culture)
         -   [Context of Home Education and family
             learning](#context-of-home-education-and-family-learning)
     -   [Game making and maker culture in non-formal learning contexts
