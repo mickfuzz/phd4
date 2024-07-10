@@ -24,7 +24,7 @@
                 culture](#on-gaming-as-a-home-and-informal-culture)
             -   [Home making and consuming of
                 media](#home-making-and-consuming-of-media)
-    -   [4. Research objectives and
+    -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
             motivation](#research-objectives-recap-of-motivation)
@@ -39,11 +39,11 @@
         Framework](#introduction-to-theoretical-framework)
         -   [What are the needs of this
             study?](#what-are-the-needs-of-this-study)
-        -   [Summary of the FOCUS of this thesis - adapting the
-            experience to an academic PhD
-            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
+        -   [On design-based research](#on-design-based-research)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
+        -   [The challenge of maintaining focus in this PhD
+            process](#the-challenge-of-maintaining-focus-in-this-phd-process)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)

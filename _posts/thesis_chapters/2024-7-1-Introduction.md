@@ -35,7 +35,7 @@ title: 1. Introduction - Games for a Read / Write world.
                 culture](#on-gaming-as-a-home-and-informal-culture)
             -   [Home making and consuming of
                 media](#home-making-and-consuming-of-media)
-    -   [4. Research objectives and
+    -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
             motivation](#research-objectives-recap-of-motivation)
@@ -50,11 +50,11 @@ title: 1. Introduction - Games for a Read / Write world.
         Framework](#introduction-to-theoretical-framework)
         -   [What are the needs of this
             study?](#what-are-the-needs-of-this-study)
-        -   [Summary of the FOCUS of this thesis - adapting the
-            experience to an academic PhD
-            format](#summary-of-the-focus-of-this-thesis---adapting-the-experience-to-an-academic-phd-format)
+        -   [On design-based research](#on-design-based-research)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
+        -   [The challenge of maintaining focus in this PhD
+            process](#the-challenge-of-maintaining-focus-in-this-phd-process)
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
@@ -461,6 +461,13 @@ Community-based approaches to learning can facilitate this process. The process 
 
 While the kind of learning explored in this study may not traditionally be thought of as an activist project, I find synergies between activist conceptions of education and learning and my wider concerns in a modest but achievable way. Specifically as a desire to move beyond curricular and technical concepts of computational thinking to wider concerns based on empowerment [@lee_none_2016].   
 
+### Activity Theory
+
+- explores tensions
+- is optimistic but realistic about change
+- aligns with dbr
+- rich concepts for agency 
+
 CHAT is optimistic but realistic in the focus on the possibility of change.
 
 However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
@@ -470,17 +477,18 @@ This study, in part, explores ways in which how the motivational and navigationa
 RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
 
-### Summary of the FOCUS of this thesis - adapting the experience to an academic PhD format
 
-Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+
+
+
+### On design-based research
+
+
 
 <!-- Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be   -->
 
-In addition,  as noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
-
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
-
-Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+As noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
 
 
 
@@ -488,6 +496,16 @@ Even this more limited focus, still contains a rich interplay of diverse tool us
 
 
 ## 5. The significance of the thesis and its limitations
+
+
+### The challenge of maintaining focus in this PhD process
+
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
+
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+
 
 ### Gaps in existing research / Contribution to knowledge of this thesis
 
