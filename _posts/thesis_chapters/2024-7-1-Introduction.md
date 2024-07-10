@@ -130,10 +130,6 @@ Author Mick Chesterman
 to come - for now see outline of thesis at the end of chapter
 
 
-
-
-
-
 <!-- ## Research Questions - Early 2023
 
 - What game making pedagogies exist? (with a focus on community-approaches)
@@ -157,31 +153,19 @@ to come - for now see outline of thesis at the end of chapter
 
 ## 1. Background to the thesis
 
-
 We live in a society where digital technology is increasingly used in work and home-life in increasingly complex and prevalent ways. Sophisticated media production and delivery systems, often driven by algorithmically generated suggestions which may lead to a more passive consumption of media and reduced critical engagement with content. Convenience and automation of tasks in the form of commercial software services and AI can foster passivity can diminish critical thinking skills and make individuals overly reliant on technology. These concerns have led many to call for a  broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
 
 While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment. This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society.
 
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To serve this exploration the concept of computational fluency, is used as a guiding principle throughout the thesis. The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick fluently, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction based computing education [@resnick_coding_2020].
 
-While the activities of this study take place outside of school, this study echoes this concern. Later in this introduction the mess that is the 2014 Computing curriculum and associated exams have caused with recent reports underlining already growing concerns.
-
-The refocusing of the curriculum and supporting exams towards a more abstract approach to computer science concepts over a skills based production
+The refocusing of the UK curriculum and supporting exams in the area of digital education towards a more abstract approach to computer science concepts over a skills based production have caused concerns. Kemp and colleagues'[@kemp_future_2024] recent report on the future of computing education note the decreasing take up of computing by girls and those in lower socio-economic areas and an increasingly unequal offer of digital based exams to students. One of the recommendations of this report is to offer move informal digital making and project work involving coding as an inclusive practice.
 
 
-Kemp and colleagues recent report on the future of computing eduaction   [@kemp_future_2024] note the low  take up of computing by girls and those in lower socio-economic area, and X
-One of the recommendations of this report is to offer move informal digital making and project work involving coding as an inclusive practice.
 
+Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].    
 
-MOVE - Sadly, the concerns mostly echo previous concerns with the alienating, abstract nature of computing culture which were explored and address as computing education emerged [Papert].
-
-MOVE - They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
-
-New software and contexts to make and play games offer new pedagogical possibilities emerge regularly.
-
-Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.   
-
-Thus the process of coding retro games lies at a confluence of diverse contexts, motivations and possibilities. For this thesis, it is the development of agency in the participation in game making communities is of particular interest to me. Viewing agency from an empowerment perspective  links to my involvement in project-based approaches in higher education, STEM education and grass-roots community contexts. The next section this dimension through a brief exploration of my personal context.
+Thus the process of coding retro games lies at a confluence of diverse contexts, motivations and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments. To answer this question theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value. The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts.
 
 ### Personal context and motivation for undertaking this study
 
@@ -306,21 +290,39 @@ But the effectiveness of this  is limited in teh following ways. Time, enthusias
 
 **Contextual Challenges**
 
+The "After the Reboot" report [@waite_pedagogy_2017] also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. As mentioned above a more recent report shows a further decline in girls uptake and cites cultural issues, a well as the issue of relative hardness of the subject.
 
-The "After the Reboot" report [@waite_pedagogy_2017] also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level.
+Sadly, these reports contain reflections and concerns with student perceptions of computing culture as rigid and alienating that have been present in from some of the earliest computing and coding education research [@papert_epistemological_1990].
 
-As mentioned above a more recent report shows a furter decline in girls uptake and cites cultural issues, a well as the issue of relative hardness of the subject.
-
-Sadly, the concerns mostly echo previous concerns with the alienating, abstract nature of computing culture which were explored and address as computing education emerged [Papert].
-
-They are also addressed by other work on inclusion from researchers explored in this and the next chapter which highlights the value of authentic projects which appeal to [Many], end products which incorporate personal creativity [many], and processes which incorporate a building of sense of community participation [many].
-
-
+Research on inclusive approaches to digital media production  explored, outlined in Chapter 2, highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
 
 
 **Games in Schools**
 
 The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.  Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+
+
+
+### More general barriers to game making which apply to formal and non-formal environments
+
+#### Identity
+
+**Gender related identities**
+
+Following Papert and Turkle's work on a diversity of appoaches to couter the 'hardness' of computing, Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+
+**Race related identities**
+
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
 
 
 
@@ -338,44 +340,13 @@ https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam
 -->
 
 
-
-
-
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
 
 
 
 ### Context of game making and wider digital making and culture home and informal settings
 
-<!-- The context of informal communities is important to situate in summary. -->
-
-<!-- Making games that will be played by audience of friends and family and using tools used beyond the scope of education, professional communities.   -->
-
-
-<!-- In this study the focus on historical and cultural artefacts and practices brought by Rogoff, and in particular the concept of guided participation, originated in non-school settings, is helpful.    -->
-
-<!-- However, the concept has been used to analyse participation in non-formal and formal settings.
-The following studies are relevant:
-
-- guided participation framed in media literacy @aarsand_appropriation_2016. -->
-
-
-#### Defining and conceptualising - formal, home and third space contexts - SUMMARISE /  COMPRESS
-
-**on Informal Education Pedagogies**
-
-To assess the wider use of professional frameworks of concepts, it is potential valuable to test them in the context of wider theories of community and informal  learning.
-
-Informal education has the potential to offer less barriers to authorial agency which are engendered by factors such as curricular constraints, practical classroom factors and school behaviour norms.
-
-**Defining Informal Education**
-
-Definitions of informal education are complex and beyond the remit of this literature review. Informal here is not just about a school or non-school environment [@erstad_identity_2012].
-
-Gerber define formal learning as that which happens in school and informal learning as that outside of school [@gerber_development_2001],
-Sefton-Green [@sefton-green_literature_2004] complicates this view, noting that2 informal learning can take place in formal settings and vice-versa.
-
-Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009]  describe learning happens outside of formal institution and where there is little instruction but the learner experience is carefully planned using the term 'non-formal' in contrast to both formal and unstructured/informal learning.
+Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.     
 
 #### On Gaming as a home and informal culture
 
@@ -452,23 +423,6 @@ Corporate funding code.org. (Google) -->
 
 ###  Barriers -
 
-<!-- NOTE  - Part of the problem statement? OR LIT review ? OR Context -->
-
-#### Review of relevant barriers to participating in coding practices emerging in the literature
-
-<!-- NOTE - THIS IS ALSO IN THE DESIGN CHAPTER
-CHOOSE CAREFULLY WHERE TO PUT THE RESULTS. -->
-
-
-This section draws on concepts of the introductory section to review existing research on digital making to identify barriers to participation in digital making and in particular coding practices.
-
-
-Here, the term barrier is used in a general way. In the next chapter it will be examined with greater criticality.
-
-<!-- NOTE: there is overlap here with contextual factors in the introduction and with the new direction of chapter 4 - probably move a lot of this.  
-
-This section then which summarises existing research in this area needs a clear and different focus.
--->
 
 
 
@@ -536,7 +490,7 @@ Early work from Papert and Turkle addresses cultural barriers to computing cultu
 
 Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
 
-Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
 
 <!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
 
@@ -562,31 +516,6 @@ While home education support practices of families are expressed in this setting
 
 
 
-#### Outlining  cultural barriers / aspects of game making
-
-The following studies are explored future in LR. Here I surface cultural barriers experienced by participants.
-
-
-**Gender  related identities**
-- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-**Race related identities**
-
-In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-**Outro**
-
-Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE]. Other approaches exist - AT etc .
-
-
 
 
 
@@ -599,6 +528,9 @@ Illingworth critique's Kafai and Burke's book due to lack of specificity in the 
 One motivation is to better understand my practice as an activist, community worker and educator. As a digital media workshop facilitator, what is happening in moments of controlled chaos that I seek to foster?
 
 As an activist looking for wider empowerment in communities how can I better understand the process of understanding and working with limits to agency.
+
+New software and contexts to make and play games offer new pedagogical possibilities emerge regularly. They should be investigated.
+
 
 
 ### Research Questions - July 2024
@@ -653,13 +585,27 @@ The following sections therefore explore diverse motivations for learning to cod
 
 
 
-
-
 ## 4. Introduction to Theoretical Framework
 
 REVISE THIS A LOT - RETHINK
 
-New technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
+### What are the needs of this study?
+
+In brief:
+
+- Novel tools, provide new opportunities and need evaluation
+- Research processes should happen in situ for relevant results
+- Community based approaches to research allow for mutual input to the process
+
+
+This is particularly true in the field of digital making and game making. New software and coding environments to make and play games offer new pedagogical possibilities are emerging regularly.
+
+<!-- Examples include MakeCode Arcade [@vostinar_makecode_2024],    -->
+
+These new technology can provide communities with tools to leverage new opportunities in a way which gives participants greater agency.
+
+A research process which involves participants and can be responsive and incorporate new ways in which
+
 
 Community-based approaches to learning can facilitate this process. The process of learn through undertaking creative media projects is explored in existing PBL literature but more work is needed which share effective practice.
 
@@ -698,6 +644,13 @@ Even this more limited focus, still contains a rich interplay of diverse tool us
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. New software tools to make games which offer new pedagogical possibilities emerge regularly. Game playing practices and the opportunities provided by participation in wider communities also continue to evolve.
 
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. While some of the studies linked to do contain pedagogies used, others suffer from less detail, may be out of date, or use non-free tools.
+
+This study addresses this in part with a detailed exploration on the learning design in Chapter 5 a design narrative and  Chapter 7 which explores cultural elements of game making research. It also includes as a research output tools in the form of free-software and educational materials created under an open-licence.
+
+In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE].
+
+However, while some research is drawing on sociocultural approaches, constructionism lacks some of the tools provided by 3GAT.
 
 Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
 
@@ -724,7 +677,7 @@ I am cautions of making claims about transfer of knowledge of skills to other ar
 Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
 
 The promise of computational thinking was in part based on such claims of transfer.
-But Guzdial shifted their views on this subject. 
+But Guzdial shifted their views on this subject.
 
 Thus why would this study based on observations of one context be of use?
 Thoughts:  
