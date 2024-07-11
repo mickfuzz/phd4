@@ -188,17 +188,20 @@ This introduction restricts exploration to two key themes, contextual settings a
 
 <!-- While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. -->
 
-There are two key moments that can be usefully highlighted which had significant influence over the changing shape of provision on UK digital-focused education in schools.
+There are several developments which had significant influence over the changing shape of provision on UK digital-focused education in schools. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]. This lecture crique the current provision, . It advocated for changes including ....
 
-The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]
+The second was a report "Shut Down or Restart?" by the Royal Society (RSA)  [the_royal_society_shut_2012] released in early 2012. The report recommended steering the ICT curriculum towards computer science and programming, proding funding professional development and a greater inclusivity in computing education, and increased partnership work with computing professionals. In the same week Michael Gove an announced the scrapping the ICT curriclum [gove_michael_2012].
+
+Finally, the new, _computing_ curriculum was released in 2013 to a mixed response [@dfe2013national]. While changes had clearly been needed to the GCSE digital landscape, embodied in particular by the _Thomas Telford_ strategy for ontaining 4 GSCEs for learning how to use Microsoft Office products. However, while community responses were collected via a consultation, a clear consensus to avoid removal of too much digital literacy and creative project work was ignored in the final curriculum [@twining_we_2013]. Preston [@preston_re-engineering_2013] echos Twining's concern that Gove echoing of Schmidt's critique was misjudged
+Gove, based on a bredth and depth of good practice in the sector FLESH OUT.
+
+
+#### Practical responses to contextual challenges- MOVE
 
 
 The RSA report build on a previous report focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011].
 
 The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-
-**Contextual Challenges**
 
 The "After the Reboot" report [@waite_pedagogy_2017] also contained concerning observations. The report found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level. As mentioned above a more recent report shows a further decline in girls uptake and cites cultural issues, a well as the issue of relative hardness of the subject.
 
