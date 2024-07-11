@@ -10,12 +10,14 @@ categories: chapter
 title: 1. Introduction - Games for a Read / Write world.
 ---
 -   [Introduction - "Games for a Read / Write
-    world."](#introduction---games-for-a-read-write-world.)
+    World."](#introduction---games-for-a-read-write-world.)
     -   [A study of the cultural and interpersonal dimensions and
         evolving tool use of an emerging community of families coding
         digital games
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
     -   [Abstract](#abstract)
+        -   [Research Questions - July
+            2024](#research-questions---july-2024)
     -   [1. Background to the thesis](#background-to-the-thesis)
         -   [Personal context and motivation for undertaking this
             study](#personal-context-and-motivation-for-undertaking-this-study)
@@ -33,14 +35,13 @@ title: 1. Introduction - Games for a Read / Write world.
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
             -   [On Gaming as a home and informal
                 culture](#on-gaming-as-a-home-and-informal-culture)
-            -   [Home making and consuming of
-                media](#home-making-and-consuming-of-media)
+            -   [Home Ed](#home-ed)
     -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
             motivation](#research-objectives-recap-of-motivation)
         -   [Research Questions - July
-            2024](#research-questions---july-2024)
+            2024](#research-questions---july-2024-1)
         -   [Clarifications of terminology of
             questions](#clarifications-of-terminology-of-questions)
         -   [Agency](#agency)
@@ -48,8 +49,9 @@ title: 1. Introduction - Games for a Read / Write world.
             research](#wider-implications-of-the-research)
     -   [4. Introduction to Theoretical
         Framework](#introduction-to-theoretical-framework)
-        -   [What are the needs of this
-            study?](#what-are-the-needs-of-this-study)
+        -   [Activity Theory](#activity-theory)
+        -   [The complex role of agency in this
+            thesis](#the-complex-role-of-agency-in-this-thesis)
         -   [On design-based research](#on-design-based-research)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
@@ -63,45 +65,6 @@ title: 1. Introduction - Games for a Read / Write world.
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
-        -   [An area of tension to address - limited leaner choice in
-            process if driven by
-            curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
-        -   [The complex role of agency in this
-            thesis](#the-complex-role-of-agency-in-this-thesis)
-        -   [Sketchy pedagogies](#sketchy-pedagogies)
-    -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education)
-        -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
-    -   [Context of game making and wider digital making and culture
-        home and informal
-        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings-1)
-        -   [On games as a home and informal
-            culture](#on-games-as-a-home-and-informal-culture)
-        -   [Context of Home Education and family
-            learning](#context-of-home-education-and-family-learning)
-    -   [Game making and maker culture in non-formal learning contexts
-        and third
-        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
-        -   [Physical spaces which suit non-formal
-            approaches](#physical-spaces-which-suit-non-formal-approaches)
-        -   [Funds of knowledge and third
-            space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
-        -   [Game making as a fund of
-            knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
-        -   [Work in non-formal settings drawing on home
-            interests](#work-in-non-formal-settings-drawing-on-home-interests)
-        -   [Mozilla - Teach the Web as context and
-            community](#mozilla---teach-the-web-as-context-and-community)
-        -   [Authentic web technology & Code
-            playgrounds](#authentic-web-technology-code-playgrounds)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Links](#links)
 
 # Introduction - “Games for a Read / Write World.”
@@ -225,9 +188,14 @@ This introduction restricts exploration to two key themes, contextual settings a
 
 <!-- While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. -->
 
+There are two key moments that can be usefully highlighted which had significant influence over the changing shape of provision on UK digital-focused education in schools.
+
+The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]
 
 
-The influential report "Next Gen: Transforming the UK into the world’s leading talent hub for the video games and visual effects industries" was focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011]. The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
+The RSA report build on a previous report focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011].
+
+The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
 
 
 **Contextual Challenges**
@@ -244,117 +212,42 @@ Research on inclusive approaches to digital media production  explored, outlined
 The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.  Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
 
+### Context of game making and wider digital making and culture home and informal settings
+
+Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.     
+
+
+
+#### Home education settings as a site of research
+
+While home education is not a core focus of this research it is a significant contextual factor in the reseach process. As such, I address core contextal factors that impact this study here. Research in schools settings is sometimes hampered by practical aspects of access involving issues including: timetable considerations, lack of time for external projects. Adding undergraduate students to the the process adds further timetabling complexities. These factors are gladly lacking in working with home educating families.
+
+As well as greater access, an alignment with the needs of participants was also a strong motivating factor in working with home educators. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. This began my process of playing and making digital games as an educational experience.
+
+**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both.
+- Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
+- Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
+
+Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2.
+
 
 ### More general barriers to game making which apply to formal and non-formal environments
 
-#### Identity
+While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers to undertaking game making in the contexts identified. While a broader picture of relevant barriers are addressed in more detail in Chapter 2, the following section gives an overview of key issues related to gender and race in this area.
 
-**Gender related identities**
-
-Following Papert and Turkle's work on a diversity of appoaches to couter the 'hardness' of computing, Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture underlied by reseach which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008].  Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
 
 
-<!-- - Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+<!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
 
 
-**Race related identities**
-
-In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-
-
-<!-- The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
-A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
-BUT NOT TOO MUCH
-While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools. -->
-<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
-https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
--->
+**Race related identities:** Research Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In the Glitch game testers programme, DiSalvo and colleagues investigated a link between such barriers to accessing computing and interest in computer games.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. In this study they highlight not only the importance of the enjoyableness of the leading activity but also the underlying values attached to it by the young, African American male they were working with. Similarly, in a wider critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of color into the making process. They also stress a greater focus on pedagogy of making can address a over reliance on technologies and tools as a guiding principle, a theme which is explored in more depth in Chapters 2 and 7 of this thesis.  
 
 
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
 
 
 
-### Context of game making and wider digital making and culture home and informal settings
-
-Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.     
-
-#### On Gaming as a home and informal culture
-
-The work of Livingstone is foundational in the area of home learning of digital technologies[@livingstone_digital_2018].
-
-Research exploring home game playing and digital activity uncovers material that families may bring into a non-formal game making process.
-
-One of the reasons that I was interested to shift to game making was the potential that seemed to be present for intergenerational work based around retro gaming based on its place in public memory [@heineman_public_nodate]. The place in public memory of retro games is complex but for older participants, the effect of nostalgia is significant.
-
-What era and technologies constitute retro games can be disputed, however for this study I use a definition of early arcade games from the 1970s and early 1980s and early generation of home consoles Atari 2600, Nes, Snes and Megadrive before the advent of 3D graphics.
-
-Retro games have a particular aesthetic driven by graphical limitations and the simplified game mechanics which are
-due to the limited capabilities of the hardware and storage space involved.
-
-#### Home making and consuming of media
-
-
-Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
-
-In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
-
-
-Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
-
-
-Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
-
-
-
-
-<!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
-
-<!-- There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality. -->
-
-<!-- However the practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. -->
-
-
-
-While the context of home education is not a core to the goals of this research it is important to situate this study accurately.
-
-
-**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both.
-- Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
-- Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
-
-
-
-
-
-<!-- #### Funding and financial dimensions of contexts - MERGE DOWN?
-
-Each context
-
-**Research / University context**
-
-University partnership context. Service learnings.
-
-Examples like Scratch with MiT. Barefoot computing which was Kent?
-
-Service learning to support code clubs
-
-**Civil society  context**
-
-Charitable foundations funding provides a great deal of funding in this area.
-
-Scratch and MIT labs benefit from x.
-
-Mozilla as benefit for the teach the web.
-
-Corporate funding code.org. (Google) -->
 
 
 ## 3. Research objectives and questions

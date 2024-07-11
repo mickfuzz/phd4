@@ -10,15 +10,23 @@ categories: chapter
 title: 2. Literature Review
 ---
 -   [Literature Review](#literature-review)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
-    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
-    -   [Contextual factors of Schools and Home
-        Education](#contextual-factors-of-schools-and-home-education)
-        -   [In Schools](#in-schools)
-        -   [At home / in informal
-            settings](#at-home-in-informal-settings)
+    -   [Context of game making and digital projects in
+        schools](#context-of-game-making-and-digital-projects-in-schools)
+    -   [Context of game making and digital projects at home and other
+        informal
+        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
+        -   [Examples of research on
+            practice](#examples-of-research-on-practice)
+            -   [Ito / Gee - hanging out](#ito-gee---hanging-out)
+            -   [Home making and consuming of
+                media](#home-making-and-consuming-of-media)
+            -   [Mozilla, authentic-link
+                toolsets](#mozilla-authentic-link-toolsets)
+        -   [Inequality of access to participatory culture communities
+            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -68,8 +76,6 @@ title: 2. Literature Review
                 approaches](#broad-design-based-approaches)
         -   [MDA and conceptual game elements
             framework](#mda-and-conceptual-game-elements-framework)
-        -   [Game jams & game
-            competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
             context](#design-patterns-and-game-design-patterns-in-professional-context)
         -   [Using professional frameworks to help novice game
@@ -77,21 +83,20 @@ title: 2. Literature Review
             -   [Using pattern collections and code examples to help
                 novice
                 students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
-    -   [Studies working to address barriers concerning
-        identity](#studies-working-to-address-barriers-concerning-identity)
-        -   [Game making studies addressing gender and
-            race](#game-making-studies-addressing-gender-and-race)
+    -   [Responses to Challenges](#responses-to-challenges)
+        -   [Resource provision and CPD](#resource-provision-and-cpd)
+        -   [Programmes working to address barriers - concerning
+            identity, and
+            structure](#programmes-working-to-address-barriers---concerning-identity-and-structure)
+            -   [Educational Game Jams & game
+                competitions](#educational-game-jams-game-competitions)
+            -   [Game making studies addressing gender and
+                race](#game-making-studies-addressing-gender-and-race)
         -   [5th Dimension Case Study](#th-dimension-case-study)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
-        -   [Mantle of the Expert - processes drama used in teaching
-            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
     -   [Synthesis of chapter /
         discussion](#synthesis-of-chapter-discussion)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
         -   [Deficit of cultural processes & appropriate frameworks to
             support community-based coding for
             beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
@@ -100,6 +105,9 @@ title: 2. Literature Review
         -   [Tensions surrounding authenticity of tool
             use](#tensions-surrounding-authenticity-of-tool-use)
     -   [Conclusion](#conclusion)
+        -   [Discussion / Sythetis of current Responses to challenges
+            presented - MOVE
+            LATER?](#discussion-sythetis-of-current-responses-to-challenges-presented---move-later)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
     -   [Link to the next chapters](#link-to-the-next-chapters)
@@ -109,7 +117,6 @@ title: 2. Literature Review
         settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
         -   [Institutional Barriers - related to UK School
             context](#institutional-barriers---related-to-uk-school-context)
-            -   [Responses - MOVE LATER?](#responses---move-later)
         -   [Technical Barriers - Difficulties in learning to
             program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
@@ -157,20 +164,18 @@ title: 2. Literature Review
             -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
                 MERGE
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
+        -   [Mantle of the Expert - processes drama used in teaching
+            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
+    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
 
 # Literature Review
 
-## Research Questions - April 2024
+### Research Questions - July 2024
 
-~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
-
-1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of coding practices with novices?
+1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
+2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
-## To perhaps add to Lit REVIEW
-
-- Hands on Education - what is it? Examples in STEM context[@holstermann_hands-activities_2010].
 
 
 ## Introduction & Structure of LR
@@ -220,20 +225,65 @@ It also address some key barriers to coding practices presented by the constrain
 -hci and affordance theory, technical barriers ,
 solved by design - link with contructionism
 
-## Contextual factors of Schools and Home Education
+## Context of game making and digital projects in schools
 
-### In Schools
-
-- curriculum
+- Curriculum
 - Exams
 - Barriers
-- support programs & limitations
+- Support programs & limitations
 
-### At home / in informal settings
+## Context of game making and digital projects at home and other informal settings
 
-- Ito, gee
-- Examples
-- Inequality of access
+- Benefits
+- Examples of research
+  - Ito, gee
+  - Mozilla (my previous work)
+- Barriers
+  - Inequality of access
+  - technical knowledge & equipment
+
+### Examples of research on practice
+
+#### Ito / Gee - hanging out
+#### Home making and consuming of media
+
+
+Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
+
+In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
+
+
+Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
+
+
+Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
+
+
+
+
+<!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
+
+<!-- There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality. -->
+
+<!-- However the practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. -->
+
+
+
+
+
+#### Mozilla, authentic-link toolsets
+
+A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
+
+In 2015 I contributed a short line course called Quacking Javascript to this webmaker curriclum. In my report on the underlying pedagogical approaches [@chesterman_webmaking_2015],  I outlines the following possibilities to increase participant engagement; playful approaches, use of games, and the ability for particpiants to incorporate popular culture and home interests into their work.
+
+<!-- My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch. -->
+
+### Inequality of access to participatory culture communities (Barrier)
+
+In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
+
+On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
 
 
 ## Pedagogies for project-based game making via coding
@@ -608,46 +658,6 @@ The common element is the utility of the concepts to designers. Although the pro
 The levels of abstraction of
 
 
-### Game jams & game competitions
-
-Some of the tools that emerge allow participants to rapidly explore game concepts -
-See exercises on -  space, mechanics, rules,
-
-<!-- FROM Here
-_posts/thesis_chapters/planning/lit review/game making/game making environments v5.odt.md -->
-
-Hackathons, Game Jams and accelerated production methods
-
-Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains  [@johnson_civic_2014; @kienzler_learning_2017]
-
-
-The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
-
-Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
-
-Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam [@eberhardt_no_2016].
-
-Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience [@eberhardt_no_2016, p. 3].
-
-Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
-
-Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017]. Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
-
-<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
-<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
-
-The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
-
-Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
-
-GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
-
-Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
-
-The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
-
-The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
-
 
 ### Design Patterns and Game Design Patterns in professional context
 
@@ -734,11 +744,67 @@ Could move some of this to the results discussion -
 <!--
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
+## Responses to Challenges
 
 
-## Studies working to address barriers concerning identity
+### Resource provision and CPD
 
-### Game making studies addressing gender and race
+The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
+BUT NOT TOO MUCH
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools.
+
+
+<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
+https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
+-->
+
+### Programmes  working to address barriers - concerning identity, and structure
+
+#### Educational Game Jams & game competitions
+
+Some of the tools that emerge allow participants to rapidly explore game concepts -
+See exercises on -  space, mechanics, rules,
+
+<!-- FROM Here
+_posts/thesis_chapters/planning/lit review/game making/game making environments v5.odt.md -->
+
+Hackathons, Game Jams and accelerated production methods
+
+Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains  [@johnson_civic_2014; @kienzler_learning_2017]
+
+
+The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
+
+Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
+
+Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam [@eberhardt_no_2016].
+
+Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience [@eberhardt_no_2016, p. 3].
+
+Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
+
+Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017]. Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
+
+<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
+<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
+
+The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
+
+Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
+
+GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
+
+Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
+
+The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
+
+The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
+
+
+
+#### Game making studies addressing gender and race
 
 The introduction gave a summary of some of the barriers associated with culture and identity. This section addresses those studies in more detail, extracting some of the pedagogical approaches.
 
@@ -820,59 +886,13 @@ The work of Roque to operationalise Barron's work on parental roles in a making 
 
 I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
 
-
-
-### Mantle of the Expert - processes drama used in teaching technology
-
-A way of leveraging some of the processes outline above in a schooling context.
-
-The salient features of MoE.
-    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
-
-Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
-The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
-In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
-
-Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
-
-Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
-
-
-**Other forms of process dramas and STEM education**
-
-MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
-
-Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
-
-Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
-
-My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
-
-
-### Digital informal / participatory culture and Learning
-
-
-
-
-Tinkering and Constructionism
-Livingstone
-Sefton green
-ITO and Gee
-
-
- community activities around the game Gee / Ito
-
-<!-- NOTE - THIS INFORMS METHODS CHAPTER - HOW TO KICK START COMMUNITY ACTIVITY.  -->
+START COMMUNITY ACTIVITY.  -->
 
 
 ## Synthesis of chapter / discussion
 
 
-### Inequality of access to participatory culture communities (Barrier)
 
-In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
-
-On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
 
 
 
@@ -939,6 +959,52 @@ Research on project based learning using technology supports the motivational an
 ## Conclusion
 
 
+### Discussion / Sythetis of current Responses to challenges presented - MOVE LATER?
+
+- New curriculum
+- bursaries
+- CPD
+- CAS and community responses
+- tapping into the enthusiast maker culture
+
+**Finance models for promoting Computing in Schools**
+
+STEM Learning NCCE - teachcomputing.org - How did this develop?  
+
+Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
+
+CAS are supported by BCS and direct help from gov? The grass roots resource creation .
+
+Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
+
+Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
+But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
+
+
+
+
+Each context
+
+**Research / University context**
+
+University partnership context. Service learnings.
+
+Examples like Scratch with MiT. Barefoot computing which was Kent?
+
+Service learning to support code clubs
+
+**Civil society  context**
+
+Charitable foundations funding provides a great deal of funding in this area.
+
+Scratch and MIT labs benefit from x.
+
+Mozilla as benefit for the teach the web.
+
+Corporate funding code.org. (Google)
+
+
+
 ### The problem statement of the thesis
 
 This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
@@ -965,6 +1031,7 @@ While the primary focus of this thesis is on an emerging coding community in a n
 
 - Change of exam in to computing in 2014
 
+
 A change driven by x
 
 
@@ -972,29 +1039,6 @@ A section on the promise of the curriculum, and the hobby based activities creat
 
 As students are able to write in psuedo code this means
 
-
-
-
-- New curriculum
-- bursaries
-- CPD
-- CAS and community responses
-- tapping into the enthusiast maker culture
-
-#### Responses - MOVE LATER?
-
-**Finance models for promoting Computing in Schools**
-
-STEM Learning NCCE - teachcomputing.org - How did this develop?  
-
-Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
-
-CAS are supported by BCS and direct help from gov? The grass roots resource creation .
-
-Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
-
-Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
-But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
 
 
 
@@ -1384,3 +1428,40 @@ Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser i
 #### Summary of authenticity- COMMENT OR MOVE
 
 Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike. -->
+
+
+
+
+### Mantle of the Expert - processes drama used in teaching technology
+
+A way of leveraging some of the processes outline above in a schooling context.
+
+The salient features of MoE.
+    Broadly speaking, Mantle of the Expert draws on three teaching modalities: inquiry learning; drama for learning (closely related to dramain-education, or, as it is sometimes called, process drama); and what we might call “expert framing” [@aitken_dorothy_2013].
+
+Heathcote discusses authenticity in detail in her writings [@heathcote_dorothy_1984].
+The focus on authenticity,  to align  needs interest and object interests - see notes - and the creative work of the facilitator to align them
+In an illustrative case study on computing the needs interests are to respond to the percieved authentic need of a scenario, and the object interest was the subject matter of learning to the computer system to carry out a task.
+
+Writing in role or writing in action is a technique used in MoE [@hinton_workplace-focused_nodate]
+
+Rainer and Bolton explore some of the rigidity of the MoE approach in terms of time allocated and other factors. Rainer outlines a wider scope of a process drama [-@rainer_drama_2012].
+
+
+**Other forms of process dramas and STEM education**
+
+MoE is one form of  other process drama. Others exist. They share similar aims. MoE can be seen as formulaic [@rainer_drama_2012], or prohibitively time consuming [@heathcote_drama_1994].
+
+Rainer chapter [@rainer_drama_2012] also highlights authenticity in different phases, both in activity and in assessment to aid metacognition.
+
+Existing research shows value in STEM education to address barriers associated with identity issues [@fields_picking_2013; @gill_process_2012].
+
+My own work with Manchester Met University drama education department explored the value of coding in role.  [@caldwell_drama_2019]
+
+
+
+
+
+## To perhaps add to Lit REVIEW
+
+- Hands on Education - what is it? Examples in STEM context[@holstermann_hands-activities_2010].

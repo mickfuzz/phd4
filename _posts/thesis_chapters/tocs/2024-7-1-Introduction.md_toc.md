@@ -24,8 +24,7 @@
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
             -   [On Gaming as a home and informal
                 culture](#on-gaming-as-a-home-and-informal-culture)
-            -   [Home making and consuming of
-                media](#home-making-and-consuming-of-media)
+            -   [Home Ed](#home-ed)
     -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
@@ -55,25 +54,4 @@
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
-        -   [An area of tension to address - limited leaner choice in
-            process if driven by
-            curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
-        -   [Sketchy pedagogies](#sketchy-pedagogies)
-        -   [Funds of knowledge and third
-            space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
-        -   [Game making as a fund of
-            knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
-        -   [Work in non-formal settings drawing on home
-            interests](#work-in-non-formal-settings-drawing-on-home-interests)
-        -   [Mozilla - Teach the Web as context and
-            community](#mozilla---teach-the-web-as-context-and-community)
-        -   [Authentic web technology & Code
-            playgrounds](#authentic-web-technology-code-playgrounds)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Links](#links)

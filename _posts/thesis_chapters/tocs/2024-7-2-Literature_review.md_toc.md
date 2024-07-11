@@ -1,13 +1,21 @@
 -   [Literature Review](#literature-review)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
-    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
-    -   [Contextual factors of Schools and Home
-        Education](#contextual-factors-of-schools-and-home-education)
-        -   [In Schools](#in-schools)
-        -   [At home / in informal
-            settings](#at-home-in-informal-settings)
+    -   [Context of game making and digital projects in
+        schools](#context-of-game-making-and-digital-projects-in-schools)
+    -   [Context of game making and digital projects at home and other
+        informal
+        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
+        -   [Examples of research on
+            practice](#examples-of-research-on-practice)
+            -   [Ito / Gee - hanging out](#ito-gee---hanging-out)
+            -   [Home making and consuming of
+                media](#home-making-and-consuming-of-media)
+            -   [Mozilla, authentic-link
+                toolsets](#mozilla-authentic-link-toolsets)
+        -   [Inequality of access to participatory culture communities
+            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -57,8 +65,6 @@
                 approaches](#broad-design-based-approaches)
         -   [MDA and conceptual game elements
             framework](#mda-and-conceptual-game-elements-framework)
-        -   [Game jams & game
-            competitions](#game-jams-game-competitions)
         -   [Design Patterns and Game Design Patterns in professional
             context](#design-patterns-and-game-design-patterns-in-professional-context)
         -   [Using professional frameworks to help novice game
@@ -66,21 +72,20 @@
             -   [Using pattern collections and code examples to help
                 novice
                 students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
-    -   [Studies working to address barriers concerning
-        identity](#studies-working-to-address-barriers-concerning-identity)
-        -   [Game making studies addressing gender and
-            race](#game-making-studies-addressing-gender-and-race)
+    -   [Responses to Challenges](#responses-to-challenges)
+        -   [Resource provision and CPD](#resource-provision-and-cpd)
+        -   [Programmes working to address barriers - concerning
+            identity, and
+            structure](#programmes-working-to-address-barriers---concerning-identity-and-structure)
+            -   [Educational Game Jams & game
+                competitions](#educational-game-jams-game-competitions)
+            -   [Game making studies addressing gender and
+                race](#game-making-studies-addressing-gender-and-race)
         -   [5th Dimension Case Study](#th-dimension-case-study)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
-        -   [Mantle of the Expert - processes drama used in teaching
-            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-        -   [Digital informal / participatory culture and
-            Learning](#digital-informal-participatory-culture-and-learning)
     -   [Synthesis of chapter /
         discussion](#synthesis-of-chapter-discussion)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
         -   [Deficit of cultural processes & appropriate frameworks to
             support community-based coding for
             beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
@@ -89,6 +94,9 @@
         -   [Tensions surrounding authenticity of tool
             use](#tensions-surrounding-authenticity-of-tool-use)
     -   [Conclusion](#conclusion)
+        -   [Discussion / Sythetis of current Responses to challenges
+            presented - MOVE
+            LATER?](#discussion-sythetis-of-current-responses-to-challenges-presented---move-later)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
     -   [Link to the next chapters](#link-to-the-next-chapters)
@@ -98,7 +106,6 @@
         settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
         -   [Institutional Barriers - related to UK School
             context](#institutional-barriers---related-to-uk-school-context)
-            -   [Responses - MOVE LATER?](#responses---move-later)
         -   [Technical Barriers - Difficulties in learning to
             program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation in
@@ -146,3 +153,6 @@
             -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
                 MERGE
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
+        -   [Mantle of the Expert - processes drama used in teaching
+            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
+    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
