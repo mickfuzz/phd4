@@ -15,16 +15,16 @@
     -   [2. Context](#context)
         -   [Context of School based computing education and game
             making](#context-of-school-based-computing-education-and-game-making)
-        -   [More general barriers to game making which apply to formal
-            and non-formal
-            environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
-            -   [Identity](#identity)
+            -   [Practical responses to contextual challenges-
+                MOVE](#practical-responses-to-contextual-challenges--move)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
-            -   [On Gaming as a home and informal
-                culture](#on-gaming-as-a-home-and-informal-culture)
-            -   [Home Ed](#home-ed)
+            -   [Home education settings as a site of
+                research](#home-education-settings-as-a-site-of-research)
+        -   [More general barriers to game making which apply to formal
+            and non-formal
+            environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
     -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
