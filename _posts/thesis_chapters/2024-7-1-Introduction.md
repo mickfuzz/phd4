@@ -234,7 +234,7 @@ Other contextual factors regarding home and informal learning environments and d
 
 While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers to undertaking game making in the contexts identified. While a broader picture of relevant barriers are addressed in more detail in Chapter 2, the following section gives an overview of key issues related to gender and race in this area.
 
-**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture underlied by reseach which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008].  Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
+**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008].  Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
 
 
 <!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. --> [@preston_re-engineering_2013]
@@ -245,25 +245,39 @@ While the previous sections have addressed some of the opportunities and benefit
 
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
 
-
-
-
-
 ## 3. Research objectives and questions
 
 ### Research objectives & Recap of motivation
 
 One motivation is to better understand my practice as an activist, community worker and educator. As a digital media workshop facilitator, what is happening in moments of controlled chaos that I seek to foster?
 
-New software and contexts to make and play games offer new pedagogical possibilities emerge regularly. They should be investigated.
 
-**Agency**
 
-As an activist looking for wider empowerment in communities how can I better understand the process of understanding and working with limits to agency.
 
-Thus RQ3 of this thesis addresses the process of developing agency within a community.
 
-As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. Thus, one of my objectives was to be able to better understand the driving forces of my involvement in education aspects of community in terms of the range of training and community projects that I had been involved with.
+A large number of papers which papers and publications were published especially in the 2010's on the benefits of game making for learning. Many fewer paper detained any methodology on the specifics of how to get learners starting coding their own games, although some are detailed in Chapter 2. Additionally, many of the technologies used in past studies are not longer practical to use. While less academic research is currently being published in this area, new software and contexts to make and play games offer new pedagogical possibilities emerge regularly and merit investigation.
+
+
+<!-- Thus proposed motivations for supporting coding and game making should be analysed alongside the financial models which support activities.  -->
+
+DOES THIS LIVE HERE? MOTIVATIONS FOR LEARNING GAME MAKING  / CODING
+
+  - Learning coding and related digital skills to progress to join the commercial games industry
+- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
+- Parents motivations to develop individual useful skills in young peoples.
+- Game making for intrinsic pleasure of making games or similar projects that are celebrated
+- for empowerment of individual and health of society as consumers of technology
+
+
+<!-- Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. -->
+
+
+
+A wider goal is the research is to reflect on experiences of developing agency within a non-formal community. As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. At that time, In my involvement in a range of training and community projects, I used terms like empowerment and promoting learners  choice.
+
+As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
+
+Who benefits from supporting the Game Making Movement? The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.  There are diverse motivations to encourage in game making for learning. Some of those actors motivations may negatively impact the inclusivity of the learning environments in which game making happens. See Vossoughi and colleagues  [@vossoughi_making_2016] critique of maker movement and the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice.
 
 
 ### Research Questions - July 2024
@@ -273,41 +287,18 @@ As a practitioner, while I had a sense of what success felt like in creative med
 3. How can learners build agency in an evolving community of game makers?
 
 
-### Clarifications of terminology of questions
 
-### Agency
-
-A wider goal is the research is to reflect on experiences of developing agency within a non-formal community. To do this, this thesis engages with a complex and dynamic picture of participant agency. This complexity  is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely: instrumental agency, relational agency and authorial agency.  
 
 ### Wider implications of the research
 
 To further understand research objectives it is important to situate the potential relevance of the outcomes of this research by exploring the context of of creating digital games in formal and non-formal  settings.  
 
-
 <!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
 
-**Who should read this thesis?**
+### Potential audience this thesis is relevant to
 
-Given the overall direction of this thesis, who is the intended audience? While the participants are home educators, other areas of education may benefit from the answers to these questions.
+Given the overall direction of this thesis, there are several possible audiences to which this is relevant. These include home educating families, teachers and facilitators, researchers in computing, and media production areas. To address this potential a concrete and detailed approach to describing the research is taken to allow for the communication of specifics of workshop practices and pedagogical approaches. Practitioners may find the narrative description of the design in Chapter 4 an accessible starting point for this work.  
 
-- parents and families
-- teachers
-- Researchers in computing education
-- informal educators
-- In addition my experience of the process, research and generative, action research   
-
-My experience of having the rug pulled out from underneath me after volunteering my time and energy in various projects motivates me to examine the characteristics streams of activity carefully. Thus the following analysis of the sites of interest cover not only educational programs but based on underlying funding and the motivations of funders.
-
-Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice.
-
-The following sections therefore explore diverse motivations for learning to code specifically via game making or an informal making culture.
-
-
-- Learning coding and related digital skills to progress to join the commercial games industry
-- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
-- Parents motivations to develop individual useful skills in young peoples.
-- Game making for intrinsic pleasure of making games or similar projects that are celebrated
-- for empowerment of individual and health of society as consumers of technology
 
 <!-- also
     - From Kafai's review (not directly) draw on
