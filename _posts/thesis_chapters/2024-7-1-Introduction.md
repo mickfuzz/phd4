@@ -190,26 +190,36 @@ This introduction restricts exploration to two key themes, contextual settings a
 
 <!-- While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. -->
 
-There are several developments which had significant influence over the changing shape of provision on UK digital-focused education in schools. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]. This lecture crique the current provision, . It advocated for changes including ....
+There are several developments which had significant influence over the changing shape of provision on UK digital-focused education in schools. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]. This lecture critique the current provision, . It advocated for changes including ....
 
 The second was a report "Shut Down or Restart?" by the Royal Society (RSA)  [the_royal_society_shut_2012] released in early 2012. The report recommended steering the ICT curriculum towards computer science and programming, proding funding professional development and a greater inclusivity in computing education, and increased partnership work with computing professionals. In the same week Michael Gove an announced the scrapping the ICT curriclum [gove_michael_2012].
 
 Finally, the new, _computing_ curriculum was released in 2013 to a mixed response [@dfe2013national]. While changes had clearly been needed to the GCSE digital landscape, embodied in particular by the _Thomas Telford_ strategy for ontaining 4 GSCEs for learning how to use Microsoft Office products. However, while community responses were collected via a consultation, a clear consensus to avoid removal of too much digital literacy and creative project work was ignored in the final curriculum [@twining_we_2013]. Preston [@preston_re-engineering_2013] echos Twining's concern that Gove echoing of Schmidt's critique was misjudged
-Gove, based on a bredth and depth of good practice in the sector FLESH OUT.
+Gove, based on a breadth and depth of good practice in the sector FLESH OUT.
 
 Kemp and colleagues [-@kemp_considerations_2024] recent report, the future of computing education, confirms some of the initial concerns  of those active in the sector about the new curriculum and related exams. The report outlines the disparity and dropping numbers of update of digital related qualifications. A previous report, "After the Reboot"  [@waite_pedagogy_2017], also contained had already found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at GCSE level citing cultural issues, a well as the issue of relative hardness of the subject. The report [@waite_pedagogy_2017] explored game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns, and the involvement of girls in coding and social and cultural aspects of coding. Game making aligns well with the principles of inclusive practices and project-based learning (PBL) through providing learner choice, authentic and shareable project outcomes, and iterative projects work supporting student mastery. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain. Other practical responses to contextual challenges are explored in Chapter 2.
 
-
-
 ### Context of game making and wider digital making and culture home and informal settings
 
-Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.     
+The complications of the scenario described, belie some of the positivity associated with computing education around the same time.
 
+- Scratch new version really accessible and large uptake in broad age range.
+- Launch of Raspberry Pi , building on the sucess of Arduino and extending it
 
+- Makey Makey as a tool with Scratch as a very accessible physical computing too.
+- Code Bug, later Microbit
+- Other online tools for learning programming like Code Academy, interactive, and effective. Including the use of Code playgrounds, simplifying
+- Minecraft, a sandbox game, educational potential, and an online community
+
+In addition these tools were often free both in terms of cost and released under open licences.
+
+The enthusiast audience of these tools was significant and created a ground swell of community activity. Extensive sharing of videos and blog posts.
+
+The fact that participation in digital qualifications reduced in the years after the 2013 changes can be viewed as a testament to the mismatch of the curriculum to the possibilities offered by the tools and communities described above.
 
 #### Home education settings as a site of research
 
-While home education is not a core focus of this research it is a significant contextual factor in the reseach process. As such, I address core contextal factors that impact this study here. Research in schools settings is sometimes hampered by practical aspects of access involving issues including: timetable considerations, lack of time for external projects. Adding undergraduate students to the the process adds further timetabling complexities. These factors are gladly lacking in working with home educating families.
+While home education is not a core focus of this research it is a significant contextual factor in the research process. As such, I address core contextual factors that impact this study here. Research in schools settings is sometimes hampered by practical aspects of access involving issues including: timetable considerations, lack of time for external projects. Adding undergraduate students to the the process adds further timetabling complexities. These factors are gladly lacking in working with home educating families.
 
 As well as greater access, an alignment with the needs of participants was also a strong motivating factor in working with home educators. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. This began my process of playing and making digital games as an educational experience.
 

@@ -242,6 +242,10 @@ solved by design - link with contructionism
   - Inequality of access
   - technical knowledge & equipment
 
+### Defining informal and non-formal 
+
+Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.  
+
 ### Examples of research on practice
 
 #### Ito / Gee - hanging out
@@ -746,23 +750,20 @@ In my own game making model students picked missions from a choice of printed re
 
 ## Responses to Challenges
 
+### Suggestions from UK reports
 
+As outline in the introduction varied reports have suggested similar recommendation for school practice.
 
-### Suggetions from UK reports
-
-
-The RSA report build on a previous report focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011].
+The RSA report [] built on a previous report focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011].
 
 The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-
 
 Research on inclusive approaches to digital media production  explored, outlined in Chapter 2, highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
 
 
 **Games in Schools**
 
-THIS IS INTRO - SO DEVELOP OR DROP IT 
+THIS IS INTRO - SO DEVELOP OR DROP IT
 The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.  Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
 
