@@ -231,6 +231,12 @@ solved by design - link with contructionism -->
 
 ### MOTIVATIONS FOR LEARNING GAME MAKING  / CODING
 
+<!-- also
+    - From Kafai's review (not directly) draw on
+    - personal
+    - more general / social / 21st C,
+    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
+
   - Learning coding and related digital skills to progress to join the commercial games industry
 - Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
 - Parents motivations to develop individual useful skills in young peoples.

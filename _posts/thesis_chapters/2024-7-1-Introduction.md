@@ -260,13 +260,7 @@ A large number of papers which papers and publications were published especially
 
 <!-- Thus proposed motivations for supporting coding and game making should be analysed alongside the financial models which support activities.  -->
 
-DOES THIS LIVE HERE? MOTIVATIONS FOR LEARNING GAME MAKING  / CODING
 
-  - Learning coding and related digital skills to progress to join the commercial games industry
-- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
-- Parents motivations to develop individual useful skills in young peoples.
-- Game making for intrinsic pleasure of making games or similar projects that are celebrated
-- for empowerment of individual and health of society as consumers of technology
 
 
 <!-- Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. -->
@@ -302,10 +296,19 @@ Given the overall direction of this thesis, there are several possible audiences
 
 Who benefits from supporting the Game Making Movement? The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.  There are diverse motivations to encourage in game making for learning. Examples are explore in more depth in  Chapter 2, but include: supporting a stem-pipeline into industry, aims to develop digital literacy, to learning other school subjects or exploring ethical issues. When commercially or institutionally sponsored, some of the sponsor's expectations may negatively impact the inclusivity of the learning environments in which game making happens. For examples, see Vossoughi and colleagues  [@vossoughi_making_2016] critique of maker movement and the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. This study aims to lean in the other direction and prioritise learner agency. However, the developing of computational fluency in learners is of broad utility to varied streams and motivations. As such, the pedagogy and toolset to facilitate game making should be used broadly.  
 
+
+<!-- DOES THIS LIVE HERE? MOTIVATIONS FOR LEARNING GAME MAKING  / CODING
+
+  - Learning coding and related digital skills to progress to join the commercial games industry
+- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
+- Parents motivations to develop individual useful skills in young peoples.
+- Game making for intrinsic pleasure of making games or similar projects that are celebrated
+- for empowerment of individual and health of society as consumers of technology -->
+
+
 <!-- also
     - From Kafai's review (not directly) draw on
     - personal
-    - more general / social / 21st C, computational fluency
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
