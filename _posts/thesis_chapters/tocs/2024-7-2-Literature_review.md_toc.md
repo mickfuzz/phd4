@@ -3,24 +3,13 @@
         2024](#research-questions---april-2024)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
-    -   [Barriers to participation in game making practices (explored in
-        contextual
-        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context)
-            -   [Responses - MOVE LATER?](#responses---move-later)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
-        -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-        -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Outlining cultural barriers / aspects of game
-            making](#outlining-cultural-barriers-aspects-of-game-making)
-    -   [Pedagogies addressing
-        barriers](#pedagogies-addressing-barriers)
+    -   [Contextual factors of Schools and Home
+        Education](#contextual-factors-of-schools-and-home-education)
+        -   [In Schools](#in-schools)
+        -   [At home / in informal
+            settings](#at-home-in-informal-settings)
+    -   [Pedagogies for project-based game making via
+        coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
     -   [Computation Thinking: curriculum concepts and/or and
         pedagogical
@@ -103,3 +92,57 @@
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
     -   [Link to the next chapters](#link-to-the-next-chapters)
+    -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
+    -   [Barriers to participation in game making practices (explored in
+        contextual
+        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
+        -   [Institutional Barriers - related to UK School
+            context](#institutional-barriers---related-to-uk-school-context)
+            -   [Responses - MOVE LATER?](#responses---move-later)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
+        -   [Cultural / Identity barriers to participation in
+            ...](#cultural-identity-barriers-to-participation-in)
+            -   [Barrier - Identity and computer
+                cultures](#barrier---identity-and-computer-cultures)
+        -   [Barrier - unfamiliarity with support
+            practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
+    -   [Game making and coding and in schools and formal
+        education](#game-making-and-coding-and-in-schools-and-formal-education)
+        -   [Coding and Computing as a School Subject in the
+            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+    -   [Context of game making and wider digital making and culture
+        home and informal
+        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
+        -   [On games as a home and informal
+            culture](#on-games-as-a-home-and-informal-culture)
+        -   [Context of Home Education and family
+            learning](#context-of-home-education-and-family-learning)
+    -   [Game making and maker culture in non-formal learning contexts
+        and third
+        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
+        -   [Physical spaces which suit non-formal
+            approaches](#physical-spaces-which-suit-non-formal-approaches)
+            -   [An area of tension to address - limited leaner choice
+                in process if driven by
+                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
+        -   [Sketchy pedagogies](#sketchy-pedagogies)
+        -   [Funds of knowledge and third
+            space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Game making as a fund of
+            knowledge](#game-making-as-a-fund-of-knowledge)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+        -   [Work in non-formal settings drawing on home
+            interests](#work-in-non-formal-settings-drawing-on-home-interests)
+        -   [Mozilla - Teach the Web as context and
+            community](#mozilla---teach-the-web-as-context-and-community)
+        -   [Authentic web technology & Code
+            playgrounds](#authentic-web-technology-code-playgrounds)
+            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
+                MERGE
+                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)

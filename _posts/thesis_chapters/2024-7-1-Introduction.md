@@ -104,7 +104,7 @@ title: 1. Introduction - Games for a Read / Write world.
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
     -   [Links](#links)
 
-# Introduction - “Games for a Read / Write world.”
+# Introduction - “Games for a Read / Write World.”
 
 ### A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.
 
@@ -115,25 +115,11 @@ Author Mick Chesterman
 to come - for now see outline of thesis at the end of chapter
 
 
-<!-- ## Research Questions - Early 2023
+### Research Questions - July 2024
 
-- What game making pedagogies exist? (with a focus on community-approaches)
-- OR What methods exist to scaffold the creation of digital-making communities of learners?
-- How can game design patterns support the development of coding practices with novices?
-- How can/do learners build agency in an evolving community of game makers?
-- How can the experience of fostering community focused digital game making practices inform wider practice in this area? -->
-
-<!-- ## Starting thoughts for contents of introduction
-
-- intro to the intro.
-- Personal introduction, DiY media and music,
-- Coding, digital making, game making, media literacy -  Exploring motivations in each domain.
-- (move mostly to lit review) PBL,
-- Context, and motivations of Home Ed / Family Learning
-- Formal, Informal and non-formal spaces
-  - increasing role in professional spaces to keep abreast of new changes in practices, sectors and technology (cf conferences / hackathons)
-
--  Introduction to RQs, outline of thesis etc -->
+1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
+2. How can game design patterns support the development of computational fluency in novices?
+3. How can learners build agency in an evolving community of game makers?
 
 
 ## 1. Background to the thesis
@@ -638,158 +624,6 @@ This introduction has outlined the core motivations for this study and summarise
 
 
 ## Holding Zone - Drop or Move
-
-#### An area of tension to address - limited leaner choice in process if driven by curriculum.
-
-Authors note that UMC and the value of project based exploration can clash with classroom culture driven by curriculum goals.
-
-    "Constructionist learning experiences are often designed to give the learner agency in the activity, encouraging exploration throughout the process of constructing public and shareable artifacts [16, 26]. The open-endedness can be difficult to adhere to when used in a context where there are specific learning objectives or when trying to introduce new conceptual material or practices. Noss & Hoyles [24] call this the Play Paradox, an inherent tension between supporting a freedom of exploration while constraining the activity to ensure specific concepts or practices are encountered."
-    Quote from [@franklin_analysis_2020]
-
-
-
-
-
- <!-- To address this Summary of what is in Ch.3 -->
-
-<!-- While RQ3 is necessarily limited in the extent it directly addresses forms of agency. The surfacing of my conflicted understandings of the experimental change need to acknowledged here for context as they do emerge in the way I locate the findings in relation to other research in later chapters. -->
-
-
-### Sketchy pedagogies
-
-The messiness and sketchiness of my preferred  learning experience were also somehow important for me to preserve and to investigate as part of this study. This is present in the mutually evolving nature of the methodology of the study, as represented in design based learning.  
-
-The process of launching into the unknown with project involving a group of people hoping to collectively make some kind of progress towards a sketchy goal was something familiar to me but under-explored.  Dave Gray's Gamestorming resource [gray_gamestorming_2010] (which became a guiding principle of EdLab project work) outlined a principle of fuzzy goals adapted from Blackwell's work [blackwell_radical_2009]
-
-The process aligns with mutuality of design work and acknowledgement that while the process can seem a bit sketchy the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. It can also avoid unforeseen consequences by a more rapid adjustment in the course of a project.
-
-In addition, recent work on transformative agency within socio-cultural frameworks offers promising theoretical support.
-A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency.
-
-RECAP ON THE PROMISE HERE - AND SIGNPOST TO LATER CHATPERS.
-
-SUMMARY OF PROMISE OF DBR TO REFLECT SKETCHYNESS
-
-
-
-
-<!-- I also problematise educational projects beyond the sometimes superficial take on educational project in schools with wider concepts derived from the socio cultural tradition. -->
-
-<!-- This process links back to my own feelings of entrapment, powerlessness and guilt after being involved with wider activist movements and projects. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. -->
-
-
-
-
-
-
-
-
-### Funds of knowledge and third space
-
-The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
-
-In the original study home visits were carried out to better inform design of after-school activities.
-
-However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
-
-The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
-
-### Third spaces and the context of this study
-
-The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
-
-It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
-
-### Game making as a fund of knowledge
-
-Research by the UK National Literacy Trust [-@picton_video_2020] of 11-16 year olds found that 96% percent of boys and 65.2% of girls play video games. This study shows that while there remains a disparity between genders, game playing is still very widespread and young people are unlikely to be part of a household where no games are played.
-
-Game making allows children to draw on funds of knowledge in various ways, perhaps in the choice of the kind of game that is to be made, in the setting or subject matter or the style and aesthetics of audio and visual elements of the game.
-
-Teachers can also draw out attitudes and knowledge of game cultures and bring them into the learning environment in an inclusive way. In addition, knowledge of game design conventions can be used by teachers to exemplify coding concepts. For example, consider conditional coding constructs. If Pac-Man touches a ghost, then a player life is lost. Such structures are described as a game design patterns. Werner and colleagues [-@denner_using_2014] found that the use of design patterns and game mechanics when teaching novice coders can increase accessibility for learners due the concrete and relatable approach.
-
-
-#### Play circles and MOE as a third space
-
-The concept arose in research of this PhD, however it resonated with my past work on forum theatre, art activism and performant art.
-
-A foundation of link between between play theory, MOE and third space theory.
-
-A detailed analysis is beyond remit of this review but broad alignments include:
-- use of concept of a new creative space for all participants
-- use of mediated strategies to reduce learner stress
-- ability to bring self identify to share in a scaffolded and protected way
-
-
-
-### Work in non-formal settings drawing on home interests
-
-The work aligns with STEM work on tinkering which mobilises home interests in non-formal settings.
-
-The practices of code patching and remixing are authentic skills used by professional coders who find and combine existing code libraries rather than coding everything from scratch.
-
-
-
-### Mozilla - Teach the Web as context and community
-
-A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity.
-
-In 2011 I co-wrote an open web collaboratively with other authors as part of a collaborative writing process called Book Sprint (model on code sprints and other corroborative  processes). One of the co-writer Michelle Thorne went on to work with Mozilla as part of their teach the web and web literacy programme. One of her posts is a good illustration of the kinds of activities drawing on home interests to explore authentic web technologies, and some of the digital literacy elements needed to be an effective citizen of the web. https://michellethorne.cc/2015/03/clubs-web-literacy-basics-curriculum/
-
-The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled my own early experiences of self-expression through hacking a new technology.
-
-Like Michelle, my path had shifted towards a younger audience.  
-
-As part of my PGCE studies I developed some teaching materials for the Mozilla Foundation as part of the Teach the Web programme. I write a course called Quacking Javascript. My report on the underlying pedagogical approach outlines the following possibilities; playful approach, use of online games, use of popular culture references to increase engagement [@chesterman_webmaking_2015].
-
-My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch.
-
-
- <!-- This programme introduced a broad set of competencies name Web Literacies including; digital literacy
-- web literacy - narrower
-- webmaker - and more specific affordances of key web based coding and exploring tools -->
-
-
-### Authentic web technology & Code playgrounds
-<!-- Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework.  -->
-
-<!-- Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. -->
-
-
-<!-- Aligning with the activities of Nicola Whitton exploring the rules and components of games in a playful way. -->
-
-Later in this thesis I problematise the use of the work authentic in learning [@lee_none_2016].
-
-In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity. The motivation was to align to authentic web technology due to my previous experience. The reason for working with code this authentic bears exploration. Characteristics of broader dimensions of authenticity of tools and processes in learning environments are explored in the literature review. A brief summary being: similarity to workplace settings; facilitating activity which serves a need of participants; an ability to showcased resulting work to an audience [@shaffer_thick_1999; @warr_bridging_2020]. While my choice of open source digital tools allowed for a high level of aligning with professional practices, it was also potentially complex in terms of use of tools. In part my motivation for choice of code language (Javascript, Phaser) was driven by desire to align with common workplace practices and to be potentially extensible for future student-led web projects.
-
-#### Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND MERGE UP
-
-Glitch is a code playground which while used for learning and which was chosen by Mozilla as a replacement tool for the education focused Thimble, is also used by professionals. In the early selection of tools the use of a framework based on javascript and web technology is driven by authenticity and thus an ability . My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics.
-
-MOVE TO LR.
-The process of running web code can be complicated by setting up a server environment locally to test and then finding a live webserver and the complexity of transferring files to the server via FTP/SSH processes. . Code playground allow users to circumvent such problems. While originally designed more for problem solving, a service more recent code playgrounds provide is to act as a more permanent host for web projects.  
-
-In their brand style and selected  picks of projects, many code playgrounds celebrate and encourage a playful spirit of creativity and sharing.
-
-<!-- NOTE  - I loved FTP and feel nostalgic? perhaps rfer back to that in conclusion? -->
-
-<!-- DROPPED -  There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter. -->
-
-<!-- #### Other online asset creation tools
-
-There are other ways to create assets online. Piskel is a pixel graphics editor, audio creation of assets. These tools are provided by a mix of enthusiast coders and communities of game makers. ### Mozilla, Webmaking and code playgrounds
-
-#### Phaser.js
-
-While the Webmaker program was discontinued and the end of a funding cycle, ongoing core work of Mozilla to provide resources for webdevelopers. One strand of this is game development using javascript  https://developer.mozilla.org/en-US/docs/Games
-
-Mozilla chose phaser as a javascript library/ framework (see Glossary). Phaser is a javascript framework embedded in html page. Unlike many game making tools this tools set can be extended to other kinds of projects and is a professional and foundational toolset used to build the majority of websites and many phone applications.
-
-#### Summary of authenticity- COMMENT OR MOVE
-
-Javascript as coding language, Phaser as a game making framework and Glitch as a code environment, are highly authentic and used by both professional coders and enthusiasts alike. -->
-
-
 
 
 
