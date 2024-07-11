@@ -277,7 +277,6 @@ A wider goal is the research is to reflect on experiences of developing agency w
 
 As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
 
-Who benefits from supporting the Game Making Movement? The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.  There are diverse motivations to encourage in game making for learning. Some of those actors motivations may negatively impact the inclusivity of the learning environments in which game making happens. See Vossoughi and colleagues  [@vossoughi_making_2016] critique of maker movement and the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice.
 
 
 ### Research Questions - July 2024
@@ -293,12 +292,15 @@ Who benefits from supporting the Game Making Movement? The term Game Making Move
 
 To further understand research objectives it is important to situate the potential relevance of the outcomes of this research by exploring the context of of creating digital games in formal and non-formal  settings.  
 
+
 <!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
 
 ### Potential audience this thesis is relevant to
 
 Given the overall direction of this thesis, there are several possible audiences to which this is relevant. These include home educating families, teachers and facilitators, researchers in computing, and media production areas. To address this potential a concrete and detailed approach to describing the research is taken to allow for the communication of specifics of workshop practices and pedagogical approaches. Practitioners may find the narrative description of the design in Chapter 4 an accessible starting point for this work.  
 
+
+Who benefits from supporting the Game Making Movement? The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.  There are diverse motivations to encourage in game making for learning. Examples are explore in more depth in  Chapter 2, but include: supporting a stem-pipeline into industry, aims to develop digital literacy, to learning other school subjects or exploring ethical issues. When commercially or institutionally sponsored, some of the sponsor's expectations may negatively impact the inclusivity of the learning environments in which game making happens. For examples, see Vossoughi and colleagues  [@vossoughi_making_2016] critique of maker movement and the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. This study aims to lean in the other direction and prioritise learner agency. However, the developing of computational fluency in learners is of broad utility to varied streams and motivations. As such, the pedagogy and toolset to facilitate game making should be used broadly.  
 
 <!-- also
     - From Kafai's review (not directly) draw on

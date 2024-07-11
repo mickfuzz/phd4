@@ -216,14 +216,10 @@ This starts with a examination of computational thinking as a pedagogy.
 
 It also address some key barriers to coding practices presented by the constraints of curriculum and assessment.
 
-
-
-
-- Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
-
+<!-- - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
 
 -hci and affordance theory, technical barriers ,
-solved by design - link with contructionism
+solved by design - link with contructionism -->
 
 ## Context of game making and digital projects in schools
 
@@ -231,6 +227,16 @@ solved by design - link with contructionism
 - Exams
 - Barriers
 - Support programs & limitations
+
+
+### MOTIVATIONS FOR LEARNING GAME MAKING  / CODING
+
+  - Learning coding and related digital skills to progress to join the commercial games industry
+- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
+- Parents motivations to develop individual useful skills in young peoples.
+- Game making for intrinsic pleasure of making games or similar projects that are celebrated
+- for empowerment of individual and health of society as consumers of technology
+-
 
 ## Context of game making and digital projects at home and other informal settings
 
@@ -242,7 +248,7 @@ solved by design - link with contructionism
   - Inequality of access
   - technical knowledge & equipment
 
-### Defining informal and non-formal 
+### Defining informal and non-formal
 
 Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.  
 
