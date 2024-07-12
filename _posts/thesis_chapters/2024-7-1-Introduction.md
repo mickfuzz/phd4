@@ -236,6 +236,7 @@ While the previous sections have addressed some of the opportunities and benefit
 
 ### Research objectives & Recap of motivation
 
+DUP-A
 Despite the many studies published on the benefits of game making for learning, particularly in the years 2013 to 2020, few contain detailed specifics of pedagogies or tool use when supporting learners in initial stages of game design. Additionally, many of the technologies used in past studies are not longer practical to use. A notable case being Game Star Mechanic which uses the now retired Flash web-browser plug-in. This study aims to evaluate and build on relevant research, detailed in Chapter 2, and to update practices to use open-source, industry standard, web-technologies (HTML and JavaScript) with an aim add longevity, authenticity extensibility to the game making toolset. In addition this research proposes a clear but flexible pedagogy based around this use of gameplay design patterns, that has emerged from a responsive design process. These themes are continued in the design narrative of Chapter 4.  
 
 A personal motivation driving this research is to better understand my practice as an activist, community worker and practice-focused educator.  As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. This motivation has guided me towards existing research reflect on experiences of developing agency within a non-formal communities.  In my past community training practice, I used terms like _empowerment_ and promoting learners _choice_. As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
@@ -287,7 +288,7 @@ This study, in part, explores ways in which how the motivational and navigationa
 
 #### Why activity theory and not constructionism
 
-Constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" in many contexts [kynigos_constructionism:_2015], in particular, game making related studies []. 
+Constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" in varied contexts [kynigos_constructionism:_2015], in particular, game making related studies [].
 
 There was a messiness and explorative freedom to the emerging research process and a dedication to projects that worked with the interests of participants.
 
@@ -332,7 +333,7 @@ Design based research is not a uniform practice with set methodology but there i
 
 Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to disentangle the interplay of contributing elements to choose a focus suitable for a targeted PhD dissertation.
 
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I have also put to onine side a line of inquiry exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency. Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I have also put to one side a line of inquiry exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency. Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
 
 
 ### Gaps in existing research / Contribution to knowledge of this thesis
@@ -341,20 +342,13 @@ Beyond this chapter however I do prioritise key elements of the experience and d
 
 While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.  
 
-New software tools to make games which offer new pedagogical possibilities emerge regularly, and thus the opportunities merit attention. This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices to develop computational fluency via game making. My research also addresses issues of more dated research that may use or use non-free, or no longer available tools.
+This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices .
+
+The process of sharing details of pedagogical practice for and audience of researchers and practitioners is complicated. As previously described, many game making studies mentioned also omit descriptions of pedagogies used. Illingworth's review [@illingworth_review_2017] of Kafai and Burke’s influential book on game making for learning [-@kafai_connected_2016], notes the lacks of specific details of the pedagogical approaches involved.
+
+Even when processes are described, results are often too abstract to be useful or easily understood by practitioners or too bound up with contextual factors to be replicable [@hoadley_creating_2002 CHECK]. This is a grand problem in education which this work cannot resolve, but can only seek to mitigate against. To this end, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practitioners. An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios. As a result, my research proposes as a design heuristic, the use of a collection of game design patterns. While some existing research on this approach exists [@holopainen2007teaching], this work contributes significantly to this area in the following ways: specifically by researching the use of a GDP collection by novice coders to make games using code, and through the an analysis of emerging  pedagogical uses of gameplay design patterns which are explored in detail in chapter 5.
 
 The research process has created numerous practical outputs for practitioners in the form of free-software and educational materials created under an open-licence.
-
-#### New research for new tools and approaches
-
-
-Kafai and Burke’s influential book on game making for learning research contains a chapter which addresses cultural dimensions of game making [-@kafai_connected_2016]. However, while it covers barriers to participation, the review lacks specific details of the pedagogical approaches involved [@illingworth_review_2017]. Indeed, this is not a fault ony of the review, as many of studies mentioned also omit descriptions of pedagogies used, and but also factors that emerge during the programmes.
-
-Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.
-
-To address this difficulty, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practioners. An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios.  
-
-My research contributes concrete uses of game design patterns as and while some work in this domain exists, this work contributes significantly in use for novice coders to make games, and in its novel pedagogical uses of gameplay design patterns.
 
 #### Focus on community building
 
