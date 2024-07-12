@@ -232,7 +232,7 @@ Other contextual factors regarding home and informal learning environments and d
 
 ### More general barriers to game making which apply to formal and non-formal environments
 
-While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers to undertaking game making in the contexts identified. While a broader picture of relevant barriers are addressed in more detail in Chapter 2, the following section gives an overview of key issues related to gender and race in this area.
+While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers to undertaking game making in the contexts identified. While a broader picture of relevant barriers are addressed in more detail in Chapter 2, the following section gives an overview of key issues related to gender and race in this area as exemplars.
 
 **Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008].  Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
 
@@ -252,17 +252,10 @@ While the previous sections have addressed some of the opportunities and benefit
 One motivation is to better understand my practice as an activist, community worker and educator. As a digital media workshop facilitator, what is happening in moments of controlled chaos that I seek to foster?
 
 
-
-
-
 A large number of papers which papers and publications were published especially in the 2010's on the benefits of game making for learning. Many fewer paper detained any methodology on the specifics of how to get learners starting coding their own games, although some are detailed in Chapter 2. Additionally, many of the technologies used in past studies are not longer practical to use. While less academic research is currently being published in this area, new software and contexts to make and play games offer new pedagogical possibilities emerge regularly and merit investigation.
 
 
 <!-- Thus proposed motivations for supporting coding and game making should be analysed alongside the financial models which support activities.  -->
-
-
-
-
 <!-- Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. -->
 
 
@@ -330,9 +323,9 @@ To address these needs I have chosen activity theory and supplemented it with sp
 
 In the interests of evaluation the pedagogical possibilities of new software, hardware and coding environments, researchers frequently adopt a position as a practitioner or co-facilitator of a novel learning design a researcher of the process. Thus a concept of learning or processes that is dynamic and open to change is needed.
 
-This chapter has already addressed the overall ethos of conducting educational research in situ, namely, in an authentic educational context. The chosen context here is in a new learning community which draws from informal learning networks of home educating parents. A
+The focus of barriers to participation and strategies to address them is covered by RQ1 using the phrase 'what contradictions arose in participation..'. The term contradiction is a significant in school of research known as cultural historical activity theory (CHAT). 
 
-A research process which involves participants and can be responsive and incorporate new ways of understanding learning. In addition, working with participants can allow contributions of novel ideas. Therefore
+This chapter has already addressed the overall ethos of conducting educational research in situ, namely, in an authentic educational context. The chosen context here is in a new learning community which draws from informal learning networks of home educating parents.  A research process which involves participants and can be responsive and incorporate new ways of understanding learning. In addition, working with participants can allow contributions of novel ideas. Therefore
 
 CHAT is optimistic but realistic in the focus on the possibility of change.
 
