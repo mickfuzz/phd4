@@ -262,13 +262,11 @@ Educational researchers may find the exploration of agency in this study of part
 To return to the pedagogical outputs, to find out who may benefit from the proposed inclusive game making pedagogy it is of use to ask _who benefits from the success of the Game Making Movement?_ The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.  There are diverse motivations to encourage in game making for learning. Examples are explore in more depth in  Chapter 2, but include: supporting a stem-pipeline into industry, aims to develop digital literacy, to learning other school subjects or exploring ethical issues. When commercially or institutionally sponsored, some of the sponsor's expectations may negatively impact the inclusivity of the learning environments in which game making happens. For examples, see Vossoughi and colleagues  [@vossoughi_making_2016] critique of maker movement and the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. This study aims to lean in the other direction and prioritise learner agency. However, the developing of computational fluency in learners is of broad utility to varied streams and motivations. As such, the pedagogy and toolset to facilitate game making should be used broadly.  
 
 
-## 4. Introduction to Theoretical Framework
+## 4. Introduction to theoretical framework
 
-Choosing a theoretical framework which aligns with the goals of the research questions is an important choice in undertaking a PhD study. My roles as joint practitioner / researcher called for a careful choice to avoid potential complications of the process.  It also required an ability to describe and analyse the following:  growth of participant agency, able to deal with authentic learning contexts, able to clearly conceptualise barriers to participation, and a mutual process involving the community in design evolution.
+Choosing a theoretical framework which aligns with the goals of the research questions is an important decision in undertaking a PhD study. In my role as both a practitioner and a researcher, it was vital to select a framework that could incorporate potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
-To address these needs I have chosen activity theory and supplemented it with specific techniques of design based research. The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
-
-### Activity Theory
+### Cultural historical activity theory
 
 <!-- - explores tensions
 - is optimistic but realistic about change
@@ -287,7 +285,9 @@ This study, in part, explores ways in which how the motivational and navigationa
 
 
 
-### Why not constructionism
+#### Why activity theory and not constructionism
+
+Constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" in many contexts [kynigos_constructionism:_2015], in particular, game making related studies []. 
 
 There was a messiness and explorative freedom to the emerging research process and a dedication to projects that worked with the interests of participants.
 
