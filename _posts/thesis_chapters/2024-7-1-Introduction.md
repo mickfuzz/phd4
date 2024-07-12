@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 1. Introduction - Games for a Read / Write world.
 ---
-
 -   [Introduction - "Games for a Read / Write
     World."](#introduction---games-for-a-read-write-world.)
     -   [A study of the cultural and interpersonal dimensions and
@@ -20,6 +19,8 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [Research Questions - July
             2024](#research-questions---july-2024)
     -   [1. Background to the thesis](#background-to-the-thesis)
+        -   [An introduction to research on digital game
+            making](#an-introduction-to-research-on-digital-game-making)
         -   [Personal context and motivation for undertaking this
             study](#personal-context-and-motivation-for-undertaking-this-study)
         -   [Connecting my experience to broader research
@@ -41,16 +42,17 @@ title: 1. Introduction - Games for a Read / Write world.
             motivation](#research-objectives-recap-of-motivation)
         -   [Research Questions - July
             2024](#research-questions---july-2024-1)
-        -   [Wider implications of the
-            research](#wider-implications-of-the-research)
-            -   [Potential audience of this
-                thesis](#potential-audience-of-this-thesis)
-    -   [4. Introduction to Theoretical
-        Framework](#introduction-to-theoretical-framework)
-        -   [Activity Theory](#activity-theory)
-        -   [The complex role of agency in this
-            thesis](#the-complex-role-of-agency-in-this-thesis)
-        -   [On design-based research](#on-design-based-research)
+        -   [Wider implications and applications of the
+            research](#wider-implications-and-applications-of-the-research)
+    -   [4. Introduction to theoretical
+        framework](#introduction-to-theoretical-framework)
+        -   [Cultural historical activity
+            theory](#cultural-historical-activity-theory)
+            -   [Why activity theory and not
+                constructionism](#why-activity-theory-and-not-constructionism)
+        -   [On Agency](#on-agency)
+        -   [On Design-based research
+            (DBR)](#on-design-based-research-dbr)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
         -   [The challenge of maintaining focus in this PhD
@@ -60,8 +62,6 @@ title: 1. Introduction - Games for a Read / Write world.
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
             -   [New research for new tools and
                 approaches](#new-research-for-new-tools-and-approaches)
-            -   [New research for new tools and
-                approaches](#new-research-for-new-tools-and-approaches-1)
             -   [Focus on community
                 building](#focus-on-community-building)
             -   [Cultural methodology using CHAT & 360 -
@@ -73,6 +73,7 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
     -   [Links](#links)
+
 
 # Introduction - “Games for a Read / Write World.”
 
