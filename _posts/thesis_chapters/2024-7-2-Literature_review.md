@@ -244,6 +244,25 @@ solved by design - link with contructionism -->
 - for empowerment of individual and health of society as consumers of technology
 -
 
+
+## Barriers (contextual?) to participation
+
+These barriers are relevant to both formal and informal contexts.
+
+
+**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
+Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
+
+
+
+<!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+**Race related identities:** Research Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In the Glitch game testers programme, DiSalvo and colleagues investigated a link between such barriers to accessing computing and interest in computer games.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. In this study they highlight not only the importance of the enjoyableness of the leading activity but also the underlying values attached to it by the young, African American male they were working with. Similarly, in a wider critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process. They also stress a greater focus on pedagogy of making can address a over reliance on technologies and tools as a guiding principle, a theme which is explored in more depth in Chapters 2 and 7 of this thesis.  
+
+
+
+
 ## Context of game making and digital projects at home and other informal settings
 
 - Benefits
@@ -257,6 +276,13 @@ solved by design - link with contructionism -->
 ### Defining informal and non-formal
 
 Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.  
+
+### Home eduction contextual factors relevant to this study
+
+The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Two broad streams are sometimes framed as pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003]. In terms of pedagogy, popular concepts in home ed circles include unschooling and deschooling. Holt's concept of unschooling [@gray_challenges_2013], highlights the value facilitating learning around of the process of drawing out interests of children in everyday activities.
+Illich's work around deschooling promotes an idea of webs of learning. Instead of one educational site as the font of all knowledge, learners  access learning experiences in varied contexts based on their interests and needs [illich_deschooling_1971].
+Many home educating families are active in identifying networks to tap into [@doroudi_relevance_2023] using friendship and social networking groups and email to share opportunities and collaborate on learning activities.
+
 
 ### Examples of research on practice
 

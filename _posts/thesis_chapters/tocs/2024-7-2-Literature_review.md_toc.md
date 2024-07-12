@@ -4,9 +4,17 @@
     -   [Introduction & Structure of LR](#introduction-structure-of-lr)
     -   [Context of game making and digital projects in
         schools](#context-of-game-making-and-digital-projects-in-schools)
+        -   [MOTIVATIONS FOR LEARNING GAME MAKING /
+            CODING](#motivations-for-learning-game-making-coding)
+    -   [Barriers (contextual?) to
+        participation](#barriers-contextual-to-participation)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
+        -   [Defining informal and
+            non-formal](#defining-informal-and-non-formal)
+        -   [Home eduction contextual factors relevant to this
+            study](#home-eduction-contextual-factors-relevant-to-this-study)
         -   [Examples of research on
             practice](#examples-of-research-on-practice)
             -   [Ito / Gee - hanging out](#ito-gee---hanging-out)
@@ -73,6 +81,7 @@
                 novice
                 students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
     -   [Responses to Challenges](#responses-to-challenges)
+        -   [Suggestions from UK reports](#suggestions-from-uk-reports)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
         -   [Programmes working to address barriers - concerning
             identity, and

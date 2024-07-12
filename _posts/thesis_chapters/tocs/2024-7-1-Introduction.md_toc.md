@@ -15,27 +15,24 @@
     -   [2. Context](#context)
         -   [Context of School based computing education and game
             making](#context-of-school-based-computing-education-and-game-making)
-            -   [Practical responses to contextual challenges-
-                MOVE](#practical-responses-to-contextual-challenges--move)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
             -   [Home education settings as a site of
                 research](#home-education-settings-as-a-site-of-research)
-        -   [More general barriers to game making which apply to formal
-            and non-formal
-            environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
+        -   [Overview of barriers to game making which apply to both
+            formal and non-formal
+            environments](#overview-of-barriers-to-game-making-which-apply-to-both-formal-and-non-formal-environments)
     -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
             motivation](#research-objectives-recap-of-motivation)
         -   [Research Questions - July
             2024](#research-questions---july-2024-1)
-        -   [Clarifications of terminology of
-            questions](#clarifications-of-terminology-of-questions)
-        -   [Agency](#agency)
         -   [Wider implications of the
             research](#wider-implications-of-the-research)
+            -   [Potential audience of this
+                thesis](#potential-audience-of-this-thesis)
     -   [4. Introduction to Theoretical
         Framework](#introduction-to-theoretical-framework)
         -   [Activity Theory](#activity-theory)
@@ -49,8 +46,17 @@
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
-        -   [Scope and limitations of this
-            thesis](#scope-and-limitations-of-this-thesis)
+            -   [New research for new tools and
+                approaches](#new-research-for-new-tools-and-approaches)
+            -   [New research for new tools and
+                approaches](#new-research-for-new-tools-and-approaches-1)
+            -   [Focus on community
+                building](#focus-on-community-building)
+            -   [Cultural methodology using CHAT & 360 -
+                really?](#cultural-methodology-using-chat-360---really)
+        -   [Limitations of this thesis](#limitations-of-this-thesis)
+            -   [Application of resulting pedagogy to other
+                domains](#application-of-resulting-pedagogy-to-other-domains)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)

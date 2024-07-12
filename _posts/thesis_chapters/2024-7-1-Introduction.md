@@ -27,27 +27,24 @@ title: 1. Introduction - Games for a Read / Write world.
     -   [2. Context](#context)
         -   [Context of School based computing education and game
             making](#context-of-school-based-computing-education-and-game-making)
-            -   [Practical responses to contextual challenges-
-                MOVE](#practical-responses-to-contextual-challenges--move)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
             -   [Home education settings as a site of
                 research](#home-education-settings-as-a-site-of-research)
-        -   [More general barriers to game making which apply to formal
-            and non-formal
-            environments](#more-general-barriers-to-game-making-which-apply-to-formal-and-non-formal-environments)
+        -   [Overview of barriers to game making which apply to both
+            formal and non-formal
+            environments](#overview-of-barriers-to-game-making-which-apply-to-both-formal-and-non-formal-environments)
     -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
             motivation](#research-objectives-recap-of-motivation)
         -   [Research Questions - July
             2024](#research-questions---july-2024-1)
-        -   [Clarifications of terminology of
-            questions](#clarifications-of-terminology-of-questions)
-        -   [Agency](#agency)
         -   [Wider implications of the
             research](#wider-implications-of-the-research)
+            -   [Potential audience of this
+                thesis](#potential-audience-of-this-thesis)
     -   [4. Introduction to Theoretical
         Framework](#introduction-to-theoretical-framework)
         -   [Activity Theory](#activity-theory)
@@ -61,13 +58,21 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [Gaps in existing research / Contribution to knowledge of
             this
             thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
-        -   [Scope and limitations of this
-            thesis](#scope-and-limitations-of-this-thesis)
+            -   [New research for new tools and
+                approaches](#new-research-for-new-tools-and-approaches)
+            -   [New research for new tools and
+                approaches](#new-research-for-new-tools-and-approaches-1)
+            -   [Focus on community
+                building](#focus-on-community-building)
+            -   [Cultural methodology using CHAT & 360 -
+                really?](#cultural-methodology-using-chat-360---really)
+        -   [Limitations of this thesis](#limitations-of-this-thesis)
+            -   [Application of resulting pedagogy to other
+                domains](#application-of-resulting-pedagogy-to-other-domains)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
     -   [Links](#links)
-
 
 # Introduction - “Games for a Read / Write World.”
 
@@ -77,8 +82,7 @@ Author Mick Chesterman
 
 ## Abstract
 
-to come - for now see outline of thesis at the end of chapter
-
+To come - for now see outline of thesis at the end of chapter
 
 ### Research Questions - July 2024
 
@@ -96,8 +100,6 @@ While much research on digital game making focuses on its educational benefits f
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To serve this exploration the concept of computational fluency, is used as a guiding principle throughout the thesis. The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick fluently, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction based computing education [@resnick_coding_2020].
 
 The refocusing of the UK curriculum and supporting exams in the area of digital education towards a more abstract approach to computer science concepts over a skills based production have caused concerns. Kemp and colleagues'[@kemp_future_2024] recent report on the future of computing education note the decreasing take up of computing by girls and those in lower socio-economic areas and an increasingly unequal offer of digital based exams to students. One of the recommendations of this report is to offer move informal digital making and project work involving coding as an inclusive practice.
-
-
 
 Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].    
 
@@ -165,9 +167,7 @@ In this introductory chapter, I briefly outline the use of AT and agency and met
 
 ### Connecting my experience to broader research themes
 
-In this section I outline how these experiences connect to broader research issues on PBL,  media and game creation within informal learning environments.
-
-Drawing on learner's interests and creating authentic products is a foundational approach of PBL and is explored in game making context in convincing research. My past aims surrounding empowerment and freedom of expression through DIY music events and protest culture aligns with broader movements who advocate equality of access to digital participatory culture. However, my experiences highlight the barriers to undertaking practical project-based learning (PBL) projects, particularly in a UK computing context, a theme which is explored further in the literature review.
+In this section I outline how these experiences connect to broader research issues on PBL, media and game creation within informal learning environments. Drawing on learner's interests and creating authentic products is a foundational approach of PBL and is explored in game making context in convincing research. My past aims surrounding empowerment and freedom of expression through DIY music events and protest culture aligns with broader movements who advocate equality of access to digital participatory culture. However, my experiences highlight the barriers to undertaking practical project-based learning (PBL) projects, particularly in a UK computing context, a theme which is explored further in the literature review.
 
 The process of being involved in short term systemic change only to suffer later backlash has guided me to help others explore a more critical exploration of their own place within wider systems. This may seem tangential to the activities of participants studies in this research, however such processes of building agency in a fledgling community can be seen as important acts of community participation. A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency. This theme is explored by RQ.3 and becomes the guiding principle of Chapter 7.
 
@@ -190,7 +190,7 @@ This introduction restricts exploration to two key themes, contextual settings a
 
 <!-- While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. -->
 
-There are several developments which had significant influence over the changing shape of provision on UK digital-focused education in schools. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]. This lecture critique the current provision, . It advocated for changes including ....
+There are several developments which had significant influence over the My engagement with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experiencechanging shape of provision on UK digital-focused education in schools. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011 to [@robinson_eric_2011]. This lecture critique the current provision, . It advocated for changes including ....
 
 The second was a report "Shut Down or Restart?" by the Royal Society (RSA)  [the_royal_society_shut_2012] released in early 2012. The report recommended steering the ICT curriculum towards computer science and programming, proding funding professional development and a greater inclusivity in computing education, and increased partnership work with computing professionals. In the same week Michael Gove an announced the scrapping the ICT curriclum [gove_michael_2012].
 
@@ -201,46 +201,32 @@ Kemp and colleagues [-@kemp_considerations_2024] recent report, the future of co
 
 ### Context of game making and wider digital making and culture home and informal settings
 
-The complications of the scenario described, belie some of the positivity associated with computing education around the same time.
+The complications of the UK computing in schools scenario, belie some of the concurrent positivity associated with digital making, specifically in the form on new software and hardware available. The reduction in participation in digital qualifications after the curriculum changes can be viewed as a testament to the mismatch of the curriculum to the possibilities offered by following opportunities. The compact, cheap, and hackable Raspberry Pi computer opened new avenues for physical computing using the accessible Python language. MIT release a Scratch 2.0, an block-coding creative programming tool for novices, in early 2013. The new version featured an online editor and features to greatly enhance online community interaction, including remixing existing projects. Creative 'sandbox' games like Minecraft were adapted by educators, building on their educational potential to develop design skills in a playful environment. Other accessible hardware merged the potential of web-based block coding and simple physical computing (for examples in context see Makey Makey and Microbit). For more advanced learners, free to access web-based courses on authentic, text-based programming languages like Python and JavaScript  added interactive elements to scaffold and motivate the acquisition of coding concepts and practical coding skills. A key example is Code Academy.
 
-- Scratch new version really accessible and large uptake in broad age range.
+These tools and practices  _free_ both in terms of cost and their use of open copyright licences, a characteristic which aided the success of their proliferation. The engagement of many teachers and enthusiast volunteers in these is documented the proliferation of videos, blog posts, and other resources sharing novel practice. The ground swell of community activity contributed to an already active Maker Movement in a way which well illustrated by events like Liverpool MakeFest which and Raspberry Jam events. These grassroots events brought together teachers, professionals, young people and their families to engage with diverse new technology in playful, empowering and technically challenging ways.
+
+The value of these informal spaces and approaches
+
+
+
+<!-- - Scratch new version really accessible and large uptake in broad age range.
 - Launch of Raspberry Pi , building on the sucess of Arduino and extending it
 
 - Makey Makey as a tool with Scratch as a very accessible physical computing too.
 - Code Bug, later Microbit
 - Other online tools for learning programming like Code Academy, interactive, and effective. Including the use of Code playgrounds, simplifying
-- Minecraft, a sandbox game, educational potential, and an online community
-
-In addition these tools were often free both in terms of cost and released under open licences.
-
-The enthusiast audience of these tools was significant and created a ground swell of community activity. Extensive sharing of videos and blog posts.
-
-The fact that participation in digital qualifications reduced in the years after the 2013 changes can be viewed as a testament to the mismatch of the curriculum to the possibilities offered by the tools and communities described above.
+- Minecraft, a sandbox game, educational potential, and an online community -->
 
 #### Home education settings as a site of research
 
-While home education is not a core focus of this research it is a significant contextual factor in the research process. As such, I address core contextual factors that impact this study here. Research in schools settings is sometimes hampered by practical aspects of access involving issues including: timetable considerations, lack of time for external projects. Adding undergraduate students to the the process adds further timetabling complexities. These factors are gladly lacking in working with home educating families.
+While home education is not a core focus of this research it is a significant contextual factor in the research process. As such, I address core contextual factors that impact this study here. Research in schools settings is sometimes hampered by practical aspects of access involving issues including: timetable considerations, lack of time for external projects. Adding undergraduate students to the the process adds further timetabling complexities. These factors are gladly lacking in working with home educating families. As well as greater access, an alignment with the needs of participants was also a strong motivating factor in working with home educators. While, home educators motivations are explored more broadly in Chapter 2 [@fensham-smith_invisible_2021], my engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest their children's interest in digital games, Minecraft being a name example, to promote computer coding.
 
-As well as greater access, an alignment with the needs of participants was also a strong motivating factor in working with home educators. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. This began my process of playing and making digital games as an educational experience.
-
-**Outline of the home eduction context of this study:** The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Classic ideas of reasons for HE include pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003], and often both.
-- Unschooling, Holt, drawing out interests of children in everyday activities and facilitating learning around that [@gray_challenges_2013]
-- Webs of learning Illich - home ed families active in identifying networks to tap into [@doroudi_relevance_2023] has a relevance with social networking groups and email lists used by home educators to share and align activities.
-
-Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2.
+<!-- Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2. -->
 
 
-### More general barriers to game making which apply to formal and non-formal environments
+### Overview of barriers to game making which apply to both formal and non-formal environments
 
-While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers to undertaking game making in the contexts identified. While a broader picture of relevant barriers are addressed in more detail in Chapter 2, the following section gives an overview of key issues related to gender and race in this area as exemplars.
-
-**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008].  Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
-
-
-<!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. --> [@preston_re-engineering_2013]
-
-
-**Race related identities:** Research Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In the Glitch game testers programme, DiSalvo and colleagues investigated a link between such barriers to accessing computing and interest in computer games.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. In this study they highlight not only the importance of the enjoyableness of the leading activity but also the underlying values attached to it by the young, African American male they were working with. Similarly, in a wider critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of color into the making process. They also stress a greater focus on pedagogy of making can address a over reliance on technologies and tools as a guiding principle, a theme which is explored in more depth in Chapters 2 and 7 of this thesis.  
+While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers to undertaking game making in both formal and informal contexts to varied extents. The following section gives an overview of key issues related to the context of this study. Technical barriers are present in coding games to do with issues of difficulty associated with computer coding.  In addition economic barriers can prevent access to the software, hardware or social environments needed to develop as a game maker. Barriers associated with identity is a prevalent stream in research in this area and is explored in greater detail in Chatper 2.
 
 
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
@@ -250,7 +236,6 @@ While the previous sections have addressed some of the opportunities and benefit
 ### Research objectives & Recap of motivation
 
 One motivation is to better understand my practice as an activist, community worker and educator. As a digital media workshop facilitator, what is happening in moments of controlled chaos that I seek to foster?
-
 
 A large number of papers which papers and publications were published especially in the 2010's on the benefits of game making for learning. Many fewer paper detained any methodology on the specifics of how to get learners starting coding their own games, although some are detailed in Chapter 2. Additionally, many of the technologies used in past studies are not longer practical to use. While less academic research is currently being published in this area, new software and contexts to make and play games offer new pedagogical possibilities emerge regularly and merit investigation.
 
@@ -264,15 +249,11 @@ A wider goal is the research is to reflect on experiences of developing agency w
 
 As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
 
-
-
 ### Research Questions - July 2024
 
 1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
-
-
 
 
 ### Wider implications of the research
@@ -282,7 +263,7 @@ To further understand research objectives it is important to situate the potenti
 
 <!-- The title of Kafai and Burke's book "Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy" [@kafai_connected_2016]  indicates their desire to mirror Gee's work around the importance of context and community the process of game making. The structure of the book revolves around studying personal, social and cultural element of game making.  -->
 
-### Potential audience this thesis is relevant to
+#### Potential audience of this thesis
 
 Given the overall direction of this thesis, there are several possible audiences to which this is relevant. These include home educating families, teachers and facilitators, researchers in computing, and media production areas. To address this potential a concrete and detailed approach to describing the research is taken to allow for the communication of specifics of workshop practices and pedagogical approaches. Practitioners may find the narrative description of the design in Chapter 4 an accessible starting point for this work.  
 
@@ -315,123 +296,132 @@ To address these needs I have chosen activity theory and supplemented it with sp
 
 ### Activity Theory
 
-- explores tensions
+<!-- - explores tensions
 - is optimistic but realistic about change
-- aligns with dbr
 - rich concepts for agency
-
+- aligns with dbr -->
 
 In the interests of evaluation the pedagogical possibilities of new software, hardware and coding environments, researchers frequently adopt a position as a practitioner or co-facilitator of a novel learning design a researcher of the process. Thus a concept of learning or processes that is dynamic and open to change is needed.
 
-The focus of barriers to participation and strategies to address them is covered by RQ1 using the phrase 'what contradictions arose in participation..'. The term contradiction is a significant in school of research known as cultural historical activity theory (CHAT). 
+The focus of barriers to participation and strategies to address them is covered by RQ1 using the phrase '_what contradictions arose in participation_'. The term contradiction is a significant in the school of research known as cultural historical activity theory (CHAT),  encompassing a variety of concepts including barriers, contextual drivers and drags, interventions for change, and tensions which emerge between different elements of the activity in question. CHAT is optimistic but realistic in its focus on change. It approaches activity in a systemic way and contains tools to address and discuss issues of unintended consequences and push back against interventions.  
 
-This chapter has already addressed the overall ethos of conducting educational research in situ, namely, in an authentic educational context. The chosen context here is in a new learning community which draws from informal learning networks of home educating parents.  A research process which involves participants and can be responsive and incorporate new ways of understanding learning. In addition, working with participants can allow contributions of novel ideas. Therefore
 
-CHAT is optimistic but realistic in the focus on the possibility of change.
 
-However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic.
 
 This study, in part, explores ways in which how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
 
-RQ2 explores this with a focus on the use of game design patterns, a concept used in both professional and enthusiast settings.
 
-**Agency:**
-As these new technologies can provide communities with tools to leverage new opportunities in a way which gives participants greater agency, a research framework which contains a toolset of concepts to describe and analyse varied dimensions of agency is beneficial.
 
-### The complex role of agency in this thesis
-
-<!-- My personal context illustrates several examples of the structure and agency debate [@bazerman_structure_2003]. A tangential but important motivation is to make sense of this experience in philosophical terms. -->
+<!-- However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. -->
 
 
 
-There was a messiness and a responsiveness that I wanted to capture and celebrate, and a dedication to real-life projects and working with the interests of participants. As such I began to search for a relevant theoretical framework and terminology to achieve this exploration in academic terms.
+### Why not constructionism
 
-The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  These are elements of pedagogy that are explored in Chapter 2.
+There was a messiness and explorative freedom to the emerging research process and a dedication to projects that worked with the interests of participants.
 
-Constructionism valuing of project work was of potential interest to me. In addition the school's work on Computational Fluency as a counterpoint to Computational Thinking allowed for concepts of identity exploration and self-expression [].
+The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  
 
-However, constructionism seemed lacking in theoretical underpinning allowing a spanning of different domains.
+These are elements of constructionist pedagogy that are explored in Chapter 2.
+
+This chapter has already addressed the overall ethos of conducting educational research in situ, i.e. in an authentic educational context. The context of this research being  a new learning community in a University setting involving of home educating parents, myself as a researcher / facilitator, and volunteer student helpers.
+
+In recent years researchers from constructionist school have started to describe the importance a situated approach to studying and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020].
+
+
+However, constructionism lacks some of the tools provided by CHAT, and its research outputs still retain a primary focus on its historical concerns on a more personal understandings of knowledge. For a sociocultural critique of constructionism see Vossoughi et al [-@vossoughi_making_2016].
+
+In addition CHAT augments this situated perspective on learning with tools to study the impact of past cultural activity of participants on present activity.
 
 Instead AT offers a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
 
 It also provided a diversity of concept to explore a complex and dynamic picture of participant agency.
 
-This complexity  is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work.
+###  On Agency
+
+**Agency:**
+As these new technologies can provide communities with tools to leverage new opportunities in a way which gives participants greater agency, a research framework which contains a toolset of concepts to describe and analyse varied dimensions of agency is beneficial.
 
 The link with this thesis here is that the process of community change can be rapid and transformational and that greater understanding of the processes involved are of value. Thus, a wider goal is the research is to reflect on experiences of developing agency. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. This study uses the following terms which can help locate RQ3 more precisely: instrumental agency, relational agency and authorial agency.
 
-My personal context is an example that changes happening within one system may cause a reaction from wider system elements and actors, which pushes back to reverse the initial changes. My story illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I want to transcend feelings of regret associated with not being wary enough of unintended effects of embracing possibilities for social change offered new technologies.
+My personal context illustrates the 'risky' process of collective agency working on objectives that may run away to involve unforeseen outcomes [@edwards2009systemic, p. 200]. On a personal level, I take a more balanced approach to be wary unintended effects of embracing possibilities for social change offered new technologies.
 
+A research process which involves participants and can be responsive and incorporate new ways of understanding learning. In addition, working with participants can allow contributions of novel ideas. Therefore - LINK TO DBR
 
 
 ### On design-based research
-
-
 
 <!-- Decisions to privilege certain aspects were also complicated by a desire to represent a broad picture of the participants experience in the evolving learning design. Editing here would be a form of deception by omission. While the diverse experience may be   -->
 
 As noted by academic research writing format often skirts detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. I address tension using the process of creating a chapter which acts as a design narrative, a process which I explain and justify in Chapters 3 and 4.
 
-
-
-
-
+MOVE SOME HERE FROM ELSEWHERE.
 
 ## 5. The significance of the thesis and its limitations
 
 
 ### The challenge of maintaining focus in this PhD process
 
-Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to focus the broad experience down into a format suitable for PhD dissertation.
+Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to disentangle the interplay of contributing elements to choose a focus suitable for a targeted PhD dissertation.
 
-Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I also dropped a chapter exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
-
-Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
+Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I have also put to onine side a line of inquiry exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency. Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
 
 
 ### Gaps in existing research / Contribution to knowledge of this thesis
-
-
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.  New software tools to make games which offer new pedagogical possibilities emerge regularly, and thus the opportunities merit attention. This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices to develop computational fluency via game making. My research also addresses issues of more dated research that may use or use non-free, or no longer available tools.
-
-Kafai and Burke’s influential book on game making for learning research contains a chapter which addresses cultural dimensions of game making [-@kafai_connected_2016]. However, while it covers barriers to participation, the review lacks specific details of the pedagogical approaches involved [@illingworth_review_2017]. Indeed, this is not a fault ony of the review, as many of studies mentioned also omit descriptions of pedagogies used, and but also factors that emerge during the programmes.
-
-LINK BACK TO DESIGN NARRATIVE
-
-
-MOVE THIS TO LIT REVIEW - PICK UP THERE  
-In recent years researchers from constructionist school have started to describe the importance cultural elements of learning environments within a situated and critical framings of computing skills [@kafai_revaluation_2022].
-
-However, constructionism lacks some of the tools provided by CHAT, and its research outputs still retain a primary focus on its historical concerns on a more personal understandings of knowledge.  This shows a legacy of Papert's work on maths concepts explored in computing microworlds.   
-
-Instead, this thesis is inspired to a larger extent by the work of CHAT researcher to examine community participation within an evolving culture that involves digital creation and coding. For an example of this genre of research we can examing the work of  Cole and colleagues on the 5D project...
-
-
-This study addresses this in part with a detailed exploration on the learning design in Chapter 5 a design narrative and  Chapter 7 which explores cultural elements of game making research. It also includes as a research output tools in the form of free-software and educational materials created under an open-licence.
-
-Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate. Notable exceptions include design pattern collections and design heuristics like that of Brennan and Silverman [@resnick_reflections_2005]
-
-- Not many addressing the explicit intention to create a community.  
-- Game design patterns emerged in this research as fruitful and is under researched
 
 
 **Other thoughts on thesis**
 
 This research is valid in the following ways:
 
-- generative nature of research. It has created teaching resources
-- the detail of game making pedagogy, suitable for other researcher and Teachers
-- tools are novel - media practices are situated, thus will differ with technology
-- application of guided participation as lens to this domain
-- something about methods using 360 and screen capture?
+#### New research for new tools and approaches
 
-### Scope and limitations of this thesis
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.  New software tools to make games which offer new pedagogical possibilities emerge regularly, and thus the opportunities merit attention. This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices to develop computational fluency via game making. My research also addresses issues of more dated research that may use or use non-free, or no longer available tools.
 
-I am cautions of making claims about transfer of knowledge of skills to other areas.
+The research process has created numerous practical outputs for practitioners in the form of free-software and educational materials created under an open-licence.
 
-Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+#### New research for new tools and approaches
 
-The promise of computational thinking was in part based on such claims of transfer.
+
+Kafai and Burke’s influential book on game making for learning research contains a chapter which addresses cultural dimensions of game making [-@kafai_connected_2016]. However, while it covers barriers to participation, the review lacks specific details of the pedagogical approaches involved [@illingworth_review_2017]. Indeed, this is not a fault ony of the review, as many of studies mentioned also omit descriptions of pedagogies used, and but also factors that emerge during the programmes.
+
+Sharing practice for researchers and practitioners is complicated. The results are often too abstract to be useful or easily understood by practitioners or too concrete to replicate.
+
+To address this difficulty, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practioners. An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios.  
+
+My research contributes concrete uses of game design patterns as and while some work in this domain exists, this work contributes significantly in use for novice coders to make games, and in its novel pedagogical uses of gameplay design patterns.
+
+#### Focus on community building
+
+While the theme of collaborative pedagogies and social practices are well explore in literature on game making, the process of creating a game making community are under-represented. Few addressing an explicit intention to nurture a community of game makers or details how the process of community formation occurred. While this wider community formation is not the main focus of this study, it is a thread which is explored here through the lens of collective agency.
+
+#### Cultural methodology using CHAT & 360 - really?
+
+In order to capture and analyse this development I have used methods of data collection and analyse which I feel may be useful to share as a contribution to the field.
+
+Chapter 4 details the methodology of recording a dynamic picture of social and cultural interactions. Of particular novel interest may be the use of concurrent, side-by-side analysis of capture of what was happening on participants computer screens and 360 video recordings of the room interactions.
+
+
+
+<!-- This shows a legacy of Papert's work on maths concepts explored in computing microworlds.    -->
+
+Instead, this thesis is inspired to a larger extent by the work of CHAT researcher to examine community participation within an evolving culture that involves digital creation and coding. For an example of this genre of research we can examine the work of  Cole and colleagues on the 5D project...
+
+
+This study addresses this in part with a detailed exploration on the learning design in Chapter 5 a design narrative and  Chapter 7 which explores cultural elements of game making research.
+
+
+### Limitations of this thesis
+
+#### Application of resulting pedagogy to other domains
+
+Th
+
+I am cautions of making claims about transfer of knowledge of skills to other areas. Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
+
+To illustrate this The promise of computational thinking was in part based on such claims of transfer.
+
+
 But Guzdial shifted their views on this subject.
 
 Thus why would this study based on observations of one context be of use?
