@@ -186,7 +186,14 @@ The process aligns with mutuality of design work and acknowledgement that while 
 
 ## 2. Context
 
-This introduction restricts exploration to two key themes, contextual settings and barriers to participation. Key themes continue to be explored in the literature reviews in Chapter 2.
+This introduction begins an exploration of key contextual factors.. Key themes continue to be explored in the literature reviews in Chapter 2.
+
+The immediate context of this research being a new learning community in a University setting involving of home educating parents, myself as a researcher / facilitator, and volunteer student helpers.
+
+The background context is more complex still.
+
+Computing education at primary settings.
+
 
 ### Context of School based computing education and game making
 
@@ -199,7 +206,11 @@ Gove, based on a breadth and depth of good practice in the sector.
 
 A recent report by Kemp and colleagues [-@kemp_considerations_2024] on the future of computing education confirms some of the initial concerns  about the new curriculum and related exams among hose active in the sector . The report outlines the disparity and dropping numbers in the uptake of digital-related qualifications. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding.
 
-Game making aligns well with the principles of inclusive practices and project-based learning (PBL) by providing learner choice, authentic and shareable project outcomes, and iterative project work supporting student mastery. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain. These limitations and responses to these and other contextual challenges of game making in schools are explored in Chapter 2.
+Game making aligns well with the principles of inclusive practices and project-based learning (PBL) by providing learner choice, authentic and shareable project outcomes, and iterative project work supporting student mastery. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain.
+
+This introduction has focused in broad context of UK computing, and other contextual features of game making in schools, including primary school practice, are explored in Chapter 2.
+
+
 
 ### Context of game making and wider digital making and culture home and informal settings
 
@@ -297,7 +308,7 @@ The messiness of approach resonated with Papert and Turkle's celebration of bric
 
 These are elements of constructionist pedagogy that are explored in Chapter 2.
 
-This chapter has already addressed the overall ethos of conducting educational research in situ, i.e. in an authentic educational context. The context of this research being  a new learning community in a University setting involving of home educating parents, myself as a researcher / facilitator, and volunteer student helpers.
+This chapter has already addressed the overall ethos of conducting educational research in situ, i.e. in an authentic educational context.
 
 In recent years researchers from constructionist school have started to describe the importance a situated approach to studying and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020].
 
