@@ -35,10 +35,10 @@
             research](#wider-implications-and-applications-of-the-research)
     -   [4. Introduction to theoretical
         framework](#introduction-to-theoretical-framework)
+        -   [Why not use constructionism? (Everyone else
+            does!)](#why-not-use-constructionism-everyone-else-does)
         -   [Cultural historical activity
             theory](#cultural-historical-activity-theory)
-            -   [Why activity theory and not
-                constructionism](#why-activity-theory-and-not-constructionism)
         -   [On Agency](#on-agency)
         -   [On Design-based research
             (DBR)](#on-design-based-research-dbr)
@@ -46,19 +46,7 @@
         limitations](#the-significance-of-the-thesis-and-its-limitations)
         -   [The challenge of maintaining focus in this PhD
             process](#the-challenge-of-maintaining-focus-in-this-phd-process)
-        -   [Gaps in existing research / Contribution to knowledge of
-            this
-            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
-            -   [New research for new tools and
-                approaches](#new-research-for-new-tools-and-approaches)
-            -   [Focus on community
-                building](#focus-on-community-building)
-            -   [Cultural methodology using CHAT & 360 -
-                really?](#cultural-methodology-using-chat-360---really)
-        -   [Limitations of this thesis](#limitations-of-this-thesis)
-            -   [Application of resulting pedagogy to other
-                domains](#application-of-resulting-pedagogy-to-other-domains)
+        -   [Contribution to knowledge of this
+            thesis](#contribution-to-knowledge-of-this-thesis)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
-    -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
-    -   [Links](#links)

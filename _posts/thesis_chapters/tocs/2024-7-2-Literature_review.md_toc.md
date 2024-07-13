@@ -1,13 +1,12 @@
 -   [Literature Review](#literature-review)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
-    -   [Introduction & Structure of LR](#introduction-structure-of-lr)
+    -   [Introduction](#introduction)
+    -   [Why Make Games?](#why-make-games)
+        -   [Motivations and models for leading game making
+            activities](#motivations-and-models-for-leading-game-making-activities)
     -   [Context of game making and digital projects in
         schools](#context-of-game-making-and-digital-projects-in-schools)
-        -   [MOTIVATIONS FOR LEARNING GAME MAKING /
-            CODING](#motivations-for-learning-game-making-coding)
-    -   [Barriers (contextual?) to
-        participation](#barriers-contextual-to-participation)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -17,13 +16,17 @@
             study](#home-eduction-contextual-factors-relevant-to-this-study)
         -   [Examples of research on
             practice](#examples-of-research-on-practice)
-            -   [Ito / Gee - hanging out](#ito-gee---hanging-out)
-            -   [Home making and consuming of
-                media](#home-making-and-consuming-of-media)
-            -   [Mozilla, authentic-link
-                toolsets](#mozilla-authentic-link-toolsets)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
+            -   [Ito / Gee - hanging out, Home making and consuming of
+                media](#ito-gee---hanging-out-home-making-and-consuming-of-media)
+            -   [Mozilla, authentic-link toolsets- DROP - OR DEVELOP
+                CASE
+                STUDY](#mozilla-authentic-link-toolsets--drop---or-develop-case-study)
+    -   [Barriers - pt 1.](#barriers---pt-1.)
+    -   [Barriers (contextual?) to
+        participation](#barriers-contextual-to-participation)
+        -   [Synthesis of barriers...?](#synthesis-of-barriers)
+        -   [Lack of specific pedagogies for informal
+            spaces](#lack-of-specific-pedagogies-for-informal-spaces)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -48,8 +51,9 @@
         -   [Microworlds as an embodiment of UMC and other
             constructionist design
             principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
-        -   [Constructionist design
-            principles](#constructionist-design-principles)
+        -   [Constructionist design principles explored in the context
+            of
+            Microworlds](#constructionist-design-principles-explored-in-the-context-of-microworlds)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative

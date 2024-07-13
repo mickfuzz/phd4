@@ -12,21 +12,32 @@ title: 2. Literature Review
 -   [Literature Review](#literature-review)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
-    -   [Introduction & Structure of LR](#introduction-structure-of-lr)
+    -   [Introduction](#introduction)
+    -   [Why Make Games?](#why-make-games)
+        -   [Motivations and models for leading game making
+            activities](#motivations-and-models-for-leading-game-making-activities)
     -   [Context of game making and digital projects in
         schools](#context-of-game-making-and-digital-projects-in-schools)
     -   [Context of game making and digital projects at home and other
         informal
-        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settingsGaps in existing research / )
+        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
+        -   [Defining informal and
+            non-formal](#defining-informal-and-non-formal)
+        -   [Home eduction contextual factors relevant to this
+            study](#home-eduction-contextual-factors-relevant-to-this-study)
         -   [Examples of research on
             practice](#examples-of-research-on-practice)
-            -   [Ito / Gee - hanging out](#ito-gee---hanging-out)
-            -   [Home making and consuming of
-                media](#home-making-and-consuming-of-media)
-            -   [Mozilla, authentic-link
-                toolsets](#mozilla-authentic-link-toolsets)
-        -   [Inequality of access to participatory culture communities
-            (Barrier)](#inequality-of-access-to-participatory-culture-communities-barrier)
+            -   [Ito / Gee - hanging out, Home making and consuming of
+                media](#ito-gee---hanging-out-home-making-and-consuming-of-media)
+            -   [Mozilla, authentic-link toolsets- DROP - OR DEVELOP
+                CASE
+                STUDY](#mozilla-authentic-link-toolsets--drop---or-develop-case-study)
+    -   [Barriers - pt 1.](#barriers---pt-1.)
+    -   [Barriers (contextual?) to
+        participation](#barriers-contextual-to-participation)
+        -   [Synthesis of barriers...?](#synthesis-of-barriers)
+        -   [Lack of specific pedagogies for informal
+            spaces](#lack-of-specific-pedagogies-for-informal-spaces)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -51,8 +62,9 @@ title: 2. Literature Review
         -   [Microworlds as an embodiment of UMC and other
             constructionist design
             principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
-        -   [Constructionist design
-            principles](#constructionist-design-principles)
+        -   [Constructionist design principles explored in the context
+            of
+            Microworlds](#constructionist-design-principles-explored-in-the-context-of-microworlds)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
@@ -84,6 +96,7 @@ title: 2. Literature Review
                 novice
                 students.](#using-pattern-collections-and-code-examples-to-help-novice-students.)
     -   [Responses to Challenges](#responses-to-challenges)
+        -   [Suggestions from UK reports](#suggestions-from-uk-reports)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
         -   [Programmes working to address barriers - concerning
             identity, and
@@ -211,15 +224,10 @@ RQ3 addresses the development of agency, a deeper exploration of which is covere
 -hci and affordance theory, technical barriers ,
 solved by design - link with contructionism -->
 
-## Context of game making and digital projects in schools
 
-- Curriculum
-- Exams
-- Barriers
-- Support programs & limitations
+## Why Make Games?
 
-
-### MOTIVATIONS FOR LEARNING GAME MAKING  / CODING
+### Motivations and models for leading game making activities
 
 <!-- also
     - From Kafai's review (not directly) draw on
@@ -232,24 +240,6 @@ solved by design - link with contructionism -->
 - Parents motivations to develop individual useful skills in young peoples.
 - Game making for intrinsic pleasure of making games or similar projects that are celebrated
 - for empowerment of individual and health of society as consumers of technology
--
-
-
-## Barriers (contextual?) to participation
-
-These barriers are relevant to both formal and informal contexts.
-
-
-**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
-Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
-
-
-
-<!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-**Race related identities:** Research Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In the Glitch game testers programme, DiSalvo and colleagues investigated a link between such barriers to accessing computing and interest in computer games.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. In this study they highlight not only the importance of the enjoyableness of the leading activity but also the underlying values attached to it by the young, African American male they were working with. Similarly, in a wider critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process. They also stress a greater focus on pedagogy of making can address a over reliance on technologies and tools as a guiding principle, a theme which is explored in more depth in Chapters 2 and 7 of this thesis.  
-
 
 
 
@@ -262,6 +252,8 @@ Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we int
 - Barriers
   - Inequality of access
   - technical knowledge & equipment
+
+Due to the focus of this study on an informal setting, this section leaves to one side school-related contextual factors which are however explored in the introduction, and in the conclusion.
 
 ### Defining informal and non-formal
 
@@ -276,21 +268,14 @@ Many home educating families are active in identifying networks to tap into [@do
 
 ### Examples of research on practice
 
-#### Ito / Gee - hanging out
-#### Home making and consuming of media
+#### Ito / Gee - hanging out, Home making and consuming of media
 
 
 Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
 
-In addition, maker culture more generally is relevant due to the alignment with tinkering as educational practice in stem education, supported by family involvement and brokering of experiences. The details of tinkering as a pedagogical practice are explored in more detail in the literature review of this thesis.
 
 
-Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].
-
-
-Building on the concept of participatory culture [@jenkins_confronting_2009], where x and y, there are several streams of activity that are important to reference as foundational context for this study.
-
-
+<!-- Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. -->
 
 
 <!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
@@ -301,9 +286,7 @@ Building on the concept of participatory culture [@jenkins_confronting_2009], wh
 
 
 
-
-
-#### Mozilla, authentic-link toolsets
+#### Mozilla, authentic-link toolsets- DROP - OR DEVELOP CASE STUDY
 
 A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
 
@@ -311,17 +294,47 @@ In 2015 I contributed a short line course called Quacking Javascript to this web
 
 <!-- My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch. -->
 
-### Inequality of access to participatory culture communities (Barrier)
+## Barriers - pt 1. -  (contextual?) to participation
 
-In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
+These barriers are relevant to both formal and informal contexts.
 
-On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
 
-## Synthesis of barriers...?
+
+
+### Identity barriers
+
+**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
+Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
+
+<!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+**Race related identities:** Research Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In the Glitch game testers programme, DiSalvo and colleagues investigated a link between such barriers to accessing computing and interest in computer games.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. In this study they highlight not only the importance of the enjoyableness of the leading activity but also the underlying values attached to it by the young, African American male they were working with. Similarly, in a wider critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process. They also stress a greater focus on pedagogy of making can address a over reliance on technologies and tools as a guiding principle, a theme which is explored in more depth in Chapters 2 and 7 of this thesis.  
+
+
+### Technical  barriers
+
+Techie stuff
+
+
+### Lack of specific pedagogies for informal spaces
+
+The lack of pedagogies for informal spaces should be addressed.
+
+While the very open ended approach of build a space and response to the interests of people that come is attractive [see Denner], it presents challenges.
+
+These are explored in the next section of the LR
+
+### Synthesis of barriers...?
 
 This section pulls together some of the barriers form previous sections on context to clarify some of the challenges before describing pedagogies that may address them.
 
-It takes a good faith approach, and puts to one side some of the 
+
+**_Inequality of access to participatory culture communities (Barrier)_**
+
+In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
+
+To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016].
 
 ## Pedagogies for project-based game making via coding
 
@@ -489,17 +502,20 @@ Constructionist design principles emerge in tandem with the frequent revision of
 
 
 
-### Constructionist design principles
+### Constructionist design principles explored in the context of Microworlds
+
+
+
+
 
 The development of Logo as a programming language moved towards the use of block coding under the stewardship of MIT labs.
-
-Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
-
-
 Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
 
 Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. Instead here CT concepts are heuristics developed from concrete experience.  
 This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT.
+
+
+Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
 
 MOVE TO LR
 There is  research on computing projects in the work of Papert [-@papert_mindstorms_1980] on Mircoworlds and subsequent research on programming tools in the constructionist tradition  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
