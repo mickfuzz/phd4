@@ -94,20 +94,20 @@ To come - for now see outline of thesis at the end of chapter
 
 ## 1. Background to the thesis
 
-We live in a society where digital technology is increasingly used in work and home-life in increasingly complex and prevalent ways. Sophisticated media production and delivery systems, often driven by algorithmically generated suggestions which may lead to a more passive consumption of media and reduced critical engagement with content. Convenience and automation of tasks in the form of commercial software services and AI can foster passivity can diminish critical thinking skills and make individuals overly reliant on technology. These concerns have led many to call for a  broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
+We live in a society where digital technology is increasingly used in work and home-life, providing diverse opportunities. However these opportunities come with costs. Convenience and automation of tasks in the form of commercial software services and AI can diminish critical thinking skills and make individuals overly reliant on technology. In particular, sophisticated media production and delivery systems, often driven by algorithmically generated suggestions can foster a passive consumption of media. These concerns have led many to call for a  broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
 
 
 ### An introduction to research on digital game making
 
 While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment. This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society.
 
-In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To serve this exploration the concept of computational fluency, is used as a guiding principle throughout the thesis. The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick fluently, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction based computing education [@resnick_coding_2020].
+In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers practical process of learning to code, it also addresses aspects of game making more to do with the overall expressive value of digital media. To serve this exploration the concept of computational fluency, is used as a guiding principle throughout the thesis. The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick fluently, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction based computing education [@resnick_coding_2020].
 
 The refocusing of the UK curriculum and supporting exams in the area of digital education towards a more abstract approach to computer science concepts over a skills based production have caused concerns. Kemp and colleagues'[@kemp_future_2024] recent report on the future of computing education note the decreasing take up of computing by girls and those in lower socio-economic areas and an increasingly unequal offer of digital based exams to students. One of the recommendations of this report is to offer move informal digital making and project work involving coding as an inclusive practice.
 
 Game playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014].    
 
-Thus the process of coding retro games lies at a confluence of diverse contexts, motivations and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments. To answer this question theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value. The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts.
+Thus the process of making retro games with families lies at a confluence of diverse contexts, motivations and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments. To answer this question theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value. The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts.
 
 ### Personal context and motivation for undertaking this study
 
@@ -117,57 +117,15 @@ Thus the process of coding retro games lies at a confluence of diverse contexts,
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
 ##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space asOn 5 July 2024, a draft resit timetable will be shared with Heads of Department and Department Education Leads for review, with any comments to be returned by end of 10 July 2024.  part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
 
-My journey into the world of technology and education began in the 1990s, when I was actively involved in organizing and promoting unlicensed music events and festivals. Email and websites became important tools in this process, and I was an enthusiast early adopter of these technologies. In in the mid-nineties, when I first started publishing websites, the internet appeared almost free of corporate messages. It was a space for oddballs, niche enthusiasts and activists. In the 2000s, my focus shifted towards environmental activism, migrant rights and left-libertarian protests against unaccountable global institutions like the WTO, IMF, and G8.  I used film screenings and music events for outreach and email lists, websites and wikis as organising tools. My work with Undercurrents, a video activism magasine, involved digitising their VHS content for online distribution [@heritage2008video]. Through Undercurrents, I connected with a broader network of media and internet activists associated with the Indymedia project  [@pickard_united_2006].
-
-These experiences exposed me to non-hierarchical organising approaches and the decentralised organising principles, which are also an important guidelines for the free software and free culture movements [@lessig_free_2004] (INCLUDE OPEN WEB). Inspired by these potential of the tools and organising processes, I began to share relevant approaches with local organisations by specialising in internet and media creation training and community development.
-
-<!-- I set up and ran three media centres from the period 2005 to 2009. The first at an Manchester city centre social centre and cafe, another for Community Arts Northwest and a third for People's Voice Media in Salford. I documented and promoted low-cost media and web production processes in as a member of with FLOSS Manuals and Transmission international networks. As part of this process I co-wrote A Open Web which celebrated the opportunities of the decentralised, even playing field provided by open source web technology and processes. -->
+My journey into the world of technology and education began in the 1990s, when I was actively involved in organizing and promoting unlicensed music events and festivals. Email and websites became important tools in this process, and I was an enthusiast early adopter of these technologies. In in the mid-nineties, when I first started publishing websites, the internet appeared almost free of corporate messages. It was a space for oddballs, niche enthusiasts and activists. In the 2000s, my focus shifted towards environmental activism, migrant rights and left-libertarian protests against unaccountable global institutions like the WTO, IMF, and G8.  I used film screenings and music events for outreach and email lists, websites and wikis as organising tools. My work with Undercurrents, a video activism magasine, involved digitising their VHS content for online distribution [@heritage2008video]. Through Undercurrents, I connected with a broader network of media and internet activists associated with the Indymedia project [@pickard_united_2006]. These experiences exposed me to non-hierarchical organising approaches and the decentralised organising principles, which are also an important guidelines for the free software and free culture movements [@lessig_free_2004] (INCLUDE OPEN WEB). Inspired by these potential of the tools and organising processes, I began to share relevant approaches with local organisations by specialising in internet and media creation training and community development.
 
 
-
-<!-- In 2001 later after working as a teacher, and being immersed in the party and protest scene I returned to Manchester and found a home in the Redbricks estate. Since 1999 local residents had rented a pre broadband T2 internet collection and used linux servers and snaking, self-made  network cables across roads, through roof spaces, to share this connection for affordable prices. Pete helped set up our connection for a home office for a new internet project called Beyond TV which was a pre-YouTube internet sharing site off shoot of the Undercurrent VHS magasine video activist project [^4].   -->
-
-<!-- The reality that the police and wider authorities had just been letting direct actions happen and even instigating some of them was stark. -->
-
-In 2011, it was revealed that an undercover police officer named Mark Kennedy, operating under the alias Mark Stone [^1], had infiltrated several activist groups I had been part of. My role in outreach for this movement became very uncomfortable, as it became clear to extent to which our participation in this movement came with hidden risks. Our attempts to create systemic change were being countered with response from the state who were far better resourced than our grassroots movement. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes. However, the open web’s potential for egalitarian and non-corporate publishing was undermined through the “embrace, extend, and extinguish” tactic[^3]. Concurrently, the open posting Indymedia network suffered from extensive posting of misinformation and ad-hominem attacks from suspicious sources targetting community activism on social media.   
+In 2011, it was revealed that an undercover police officer named Mark Kennedy, operating under the alias Mark Stone, had infiltrated several activist groups I had been part of [@lewis_undercover_2013]. My role in outreach for this movement became very uncomfortable, as it became clear to extent to which our participation in this movement came with hidden risks. Our attempts to create systemic change were being countered with response from the state who were far better resourced than our grassroots movement. The momentum of this movement had been in part by driven by new uses of technology and grass-roots organising processes. However, the open web’s potential for egalitarian and non-corporate publishing was undermined through the “embrace, extend, and extinguish” tactic [@jason_strategic_2011]. Concurrently, the open posting Indymedia network suffered from extensive posting of misinformation and ad-hominem attacks from suspicious sources targetting community activism on social media.   
 
 In response to growing discomfort around involvement in political and environmental activism and the need to support myself financially, I shifted my focus increasingly towards community development. I concentrated on my work with FLOSS Manuals, writing and promoting documentation and online learning resources for media creation and collaborative processes using Free Software. This work allowed me to  document and advocate for low-cost media and web production methods and co-author _A Open Web_ [^5] a book which celebrated the opportunities provided by open source and decentralised web technology to create a more equalitarian environment of digital participation. The FLOSS Manuals project also connected me to diverse international networks whose work was informed by participatory production and decision making methods. A key network was the Mozilla community where I created documentation, workshops guides and other learning resources with networks of informal educators. This avenue offered a reconnection to the discussing the politics of independent communications in line with an empowerment agenda.
 
+Discussion around the launch of a new UK computing curriculum in 2013 championed the possibilities of creative digital production within the classroom [@livingstone2010next]. In that year I undertook a masters in Computing and in the following year a PGCE in Computing. As part of my PGCE dissertation I designed and delivered a pilot scheme to teach JavaScript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^1]. Unfortunately, the constraints of the school context and the new curriculum hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. Instead, after completing my PGCE, I joined Manchester Metropolitan University in a role focusing community education partnerships as part of the EdLab project [^2]. This work provided opportunities to pursue creative project based approaches to teaching technology to young people and families. Building on the success of this work, I applied to undertake this PhD study with Education and Social Research Institute of Manchester Metropolitan University (ESRI).
 
-
-<!-- Jensen, Michael (September 24, 2018). "Russian Trolls and Fake News: Information or Identity Logics?". Journal of International Affairs. 71 (1.5): 115–124. -->
-
-<!-- Project-based community and communications felt rewarding but the legs of community-based adult education were being cut off by the coalition government. -->
-<!-- My response was to shift focus towards community work and training and documentation work with international networks and then eventually to informal learning of media creation with young people and families. While this move was a retreat from other domains in part driven by painful experiences outlined above, my shift of interest towards young people and family was a positive and strategic shift to align with my new role as a university tutor in education and as a new parent. -->
-
-<!-- There are positive elements to this otherwise sad story. My experiences have helped focus my interests on how change can happen and happen quickly when new opportunities become available to a community eager to use them. They also caution against unrealistic expectations of systemic change when faced with opponents with deep pockets and extensive resources. I would like to communicate a pragmatic approach of finding the limits of your agency, strategically pushing against them, and cautiously observing what happens. An informed activism built on a critical view of the nature of the system in question. -->
-
-
-Discussion around the launch of a new UK computing curriculum in 2014 championed the possibilities of creative digital production within the classroom [@livingstone2010next]. I undertook a masters in Computing and then an PGCE in teaching Computing. As part of my PGCE dissertation I designed and delivered a pilot scheme to teach javascript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^2]. However the constraints of the school context hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. Instead, after completing my PGCE, I joined Manchester Metropolitan University in a role focusing community education partnerships as part of the EdLab project [^4]. This work provided opportunities to pursue creative project based approaches to teaching technology to young people and families. Building on the success of this work, I applied to undertake this PhD study with Education and Social Research Institute of Manchester Metropolitan University (ESRI).
-
-
-<!-- **Case Study as example: Digital Braves as a small MoE / 5D project**
-
-Digital Braves was a short project which culminated in a session
-
-A product of partnership work at university. Aligning the potential needs of home educated families with exploration of uncomfortable digital issues. It drew on the expertise of the drama department in Manchester Met school of eduction.
-
-It is worth noting that some families who were not attracted to gaming explicitly took part in the research process. Perhaps because of the ethos of the Digital Braves program mitigated fears of working with technology. -->
-
-
-<!-- My engagement with game creation via coding stemmed a consultation with home educators via EdLab partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest in games like Minecraft to start to do computer coding. As I began to investigate games as a medium to explore and create as a playful educational experience, I saw possible parallels to previous work. -->
-<!--
-Building fluency of media production and personal expression aligns with motivation of empowerment and equality of access to digital participatory culture mirroring my experience with DIY music events and protest culture. -->
-
-
-
-
-
-<!-- As well as the process of learning a useful technical skill, I was also interested the mutual process of designing an inclusive learning design that drew on participants interests. I wanted to use a project based approach which avoided instruction and allowed participants to follow diverse paths and be part of a slightly chaotic but productive learning community. -->
-
-<!-- Because previous experience had made me wary of previous experience of embracing technology opportunities and suffering from unintended consequences I was keen to choose an approach which allowed for a careful examination of context and motivations.  
-
-In this introductory chapter, I briefly outline the use of AT and agency and methodology approaches. I also outline contextual factors of some of the areas of activity where the learning approach studied may be relevant. -->
 
 ### Connecting my experience to broader research themes
 
@@ -190,10 +148,6 @@ This introduction begins an exploration of key contextual factors.. Key themes c
 
 The immediate context of this research being a new learning community in a University setting involving of home educating parents, myself as a researcher / facilitator, and volunteer student helpers.
 
-The background context is more complex still.
-
-Computing education at primary settings.
-
 
 ### Context of School based computing education and game making
 
@@ -201,16 +155,14 @@ Computing education at primary settings.
 
 <!-- While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. -->
 
-The changing shape of provision on UK digital-focused education in schools can be profitably examined through several key developments. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011,  critiquing current computing provision, "Your IT curriculum focuses on teaching how to use software, but gives no insight into how it’s made" [@schmidt_eric_2011, p.8]. The second was a report "Shut Down or Restart?" by the Royal Society (RSA) [the_royal_society_shut_2012] released in early 2012. The report recommended steering the ICT curriculum towards computer science and programming, providing funding professional development and a greater inclusivity in computing education, and increased partnership work with computing professionals. In the same week Michael Gove an announced the scrapping the ICT curriclum [gove_michael_2012]. Finally, the new, _computing_ curriculum was released in 2013 to a mixed response [@dfe2013national]. However, while community responses were collected via a consultation, a clear consensus to avoid removal of too much digital literacy and creative project work was ignored in the final curriculum [@twining_we_2013]. Preston [@preston_re-engineering_2013] echoes Twining's concern that Gove echoing of Schmidt's critique was misjudged
+The changing shape of provision on UK digital-focused education in schools can be profitably examined through several key developments. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011,  critiquing current computing provision, "Your IT curriculum focuses on teaching how to use software, but gives no insight into how it’s made" [@schmidt_eric_2011, p.8]. The second was a report "Shut Down or Restart?" by the Royal Society (RSA) [the_royal_society_shut_2012] released in early 2012. The report recommended steering the ICT curriculum towards computer science and programming, providing funding professional development and a greater inclusivity in computing education, and increased partnership work with computing professionals. In the same week Michael Gove [@-gove_michael_2012] announced the scrapping the ICT curriclum. Finally, the new _computing_ curriculum was released in 2013 to a mixed response [@dfe2013national]. However, while community responses were collected via a consultation, a clear consensus to avoid removal of too much digital literacy and creative project work was ignored in the final curriculum [@twining_we_2013]. Preston [@preston_re-engineering_2013] echoes Twining's concern that Gove echoing of Schmidt's critique was misjudged
 Gove, based on a breadth and depth of good practice in the sector.
 
-A recent report by Kemp and colleagues [-@kemp_considerations_2024] on the future of computing education confirms some of the initial concerns  about the new curriculum and related exams among hose active in the sector . The report outlines the disparity and dropping numbers in the uptake of digital-related qualifications. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding.
+A recent report by Kemp and colleagues [@kemp_considerations_2024] on the future of computing education confirms some of the initial concerns  about the new curriculum and related exams among hose active in the sector . The report outlines the disparity and dropping numbers in the uptake of digital-related qualifications. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding.
 
 Game making aligns well with the principles of inclusive practices and project-based learning (PBL) by providing learner choice, authentic and shareable project outcomes, and iterative project work supporting student mastery. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain.
 
 This introduction has focused in broad context of UK computing, and other contextual features of game making in schools, including primary school practice, are explored in Chapter 2.
-
-
 
 ### Context of game making and wider digital making and culture home and informal settings
 
@@ -278,7 +230,7 @@ To return to the pedagogical outputs, to find out who may benefit from the propo
 
 Choosing a theoretical framework which aligns with the goals of the research questions is an important decision in undertaking a PhD study. In my role as both a practitioner and a researcher, it was vital to select a framework that could incorporate potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
-#### Why constructionism
+#### Why not use constructionism? (Everyone else does!)
 
 Despite the popularity of constructionism as a guiding theory in game making studies, in particular work by Kafai and Burke outlining the value of making constructionist games [Kafai], I have chosen activity theory as a better fit for the aims of this thesis.  
 
@@ -336,57 +288,23 @@ Creating a design experiment with several iterations created not only large amou
 Beyond this chapter however I do prioritise key elements of the experience and disregard large amounts of the data gathered. I focus on two main sessions out of twelve recorded, putting to one side completely comparative data using a different coding tool. I have also put to one side a line of inquiry exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency. Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.  
 
 
-### Gaps in existing research / Contribution to knowledge of this thesis
+### Contribution to knowledge of this thesis
 
-#### New research for new tools and approaches
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices.
 
-While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research.  
+While the theme of collaborative pedagogies and social practices are well explore in literature on game making, the process of creating a game making community are under-represented. Few addressing an explicit intention to nurture a community of game makers or details how the process of community formation occurred. While this wider community formation is not the main focus of this study, it is a thread which is explored here through the lens of collective agency. In order to capture and analyse the process of social and cultural development happening in the fledgling community I have used methods of data collection and analysis which I feel may be useful to share as a contribution to the field. Chapter 4 details the methodology of recording a dynamic picture of  cultural interactions. Of particular novel interest may be the use of concurrent, side-by-side analysis of capture of what was happening on participants computer screens and 360 video recordings of the room interactions.
 
-This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices .
+Turning to the issue of dissemination, the process of sharing details of pedagogical practice for and audience of researchers and practitioners is complicated. As previously described, many game making studies mentioned also omit descriptions of pedagogies used. Illingworth's review [@illingworth_review_2017] of Kafai and Burke’s influential book on game making for learning [-@kafai_connected_2016], notes the lacks of specific details of the pedagogical approaches involved. Even when processes are described, results are often too abstract to be useful or easily understood by practitioners or too bound up with contextual factors to be replicable [@hoadley_creating_2002 CHECK]. This is a grand problem in education which this work cannot resolve, but can only seek to mitigate against. To this end, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practitioners. An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios. As a result, my research proposes as a design heuristic, the use of a collection of game design patterns. While some existing research on this approach exists [@holopainen2007teaching], this work contributes significantly to this area in the following ways: specifically by researching the use of a GDP collection by novice coders to make games using code, and through the an analysis of emerging  pedagogical uses of gameplay design patterns which are explored in detail in chapter 5. The research process has created numerous practical outputs for practitioners in the form of free-software and educational materials created under an open-licence.
 
-The process of sharing details of pedagogical practice for and audience of researchers and practitioners is complicated. As previously described, many game making studies mentioned also omit descriptions of pedagogies used. Illingworth's review [@illingworth_review_2017] of Kafai and Burke’s influential book on game making for learning [-@kafai_connected_2016], notes the lacks of specific details of the pedagogical approaches involved.
-
-Even when processes are described, results are often too abstract to be useful or easily understood by practitioners or too bound up with contextual factors to be replicable [@hoadley_creating_2002 CHECK]. This is a grand problem in education which this work cannot resolve, but can only seek to mitigate against. To this end, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practitioners. An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios. As a result, my research proposes as a design heuristic, the use of a collection of game design patterns. While some existing research on this approach exists [@holopainen2007teaching], this work contributes significantly to this area in the following ways: specifically by researching the use of a GDP collection by novice coders to make games using code, and through the an analysis of emerging  pedagogical uses of gameplay design patterns which are explored in detail in chapter 5.
-
-The research process has created numerous practical outputs for practitioners in the form of free-software and educational materials created under an open-licence.
-
-#### Focus on community building
-
-While the theme of collaborative pedagogies and social practices are well explore in literature on game making, the process of creating a game making community are under-represented. Few addressing an explicit intention to nurture a community of game makers or details how the process of community formation occurred. While this wider community formation is not the main focus of this study, it is a thread which is explored here through the lens of collective agency.
-
-#### Cultural methodology using CHAT & 360 - really?
-
-In order to capture and analyse this development I have used methods of data collection and analyse which I feel may be useful to share as a contribution to the field.
-
-Chapter 4 details the methodology of recording a dynamic picture of social and cultural interactions. Of particular novel interest may be the use of concurrent, side-by-side analysis of capture of what was happening on participants computer screens and 360 video recordings of the room interactions.
-
-
+How much of this research is applicable beyond the domain of game making for educational purposes? The promise of computational thinking was in part based on such claims that it was a powerful way of thinking that could be transfered from the domain of computing to other subjects [@wing_computational_2006-1; @the_royal_society_shut_2012]. Sociocultural and situated understandings of learning view such transmission of knowledge as problematic, a view indeed shared by many advocates of computational thinking [@tedre_long_2016; @guzdial_learner-centered_2015-1]. Thus, I am cautions of making claims about transfer of the value of developing computational fluency of participants to other areas. In addition, the specific pedagogy which emerged centred around participants flexible use of game design patterns. On the other hand, the  process which surfaced guiding design heuristics has greater potential for more diverse application. This theme is explored, along with other avenues of future potential in the concluding chapter.
 
 <!-- This shows a legacy of Papert's work on maths concepts explored in computing microworlds.    -->
 
-Instead, this thesis is inspired to a larger extent by the work of CHAT researcher to examine community participation within an evolving culture that involves digital creation and coding. For an example of this genre of research we can examine the work of  Cole and colleagues on the 5D project...
+<!-- Instead, this thesis is inspired to a larger extent by the work of CHAT researcher to examine community participation within an evolving culture that involves digital creation and coding. For an example of this genre of research we can examine the work of  Cole and colleagues on the 5D project...
 
 
-This study addresses this in part with a detailed exploration on the learning design in Chapter 5 a design narrative and  Chapter 7 which explores cultural elements of game making research.
+This study addresses this in part with a detailed exploration on the learning design in Chapter 5 a design narrative and  Chapter 7 which explores cultural elements of game making research. -->
 
-
-### Limitations of this thesis
-
-#### Application of resulting pedagogy to other domains
-
-Th
-
-I am cautions of making claims about transfer of knowledge of skills to other areas. Theories of situated learning view transmission of educational practice as a thorny problem as the process of learning is dependant on many contextual factors.
-
-To illustrate this The promise of computational thinking was in part based on such claims of transfer.
-
-
-But Guzdial shifted their views on this subject.
-
-Thus why would this study based on observations of one context be of use?
-Thoughts:  
-- similar contexts exist
-- underlying treads may emerge which may transcend context  
 
 
 ## 6. Chapter outline of the study
@@ -406,7 +324,6 @@ Chapter 3 details the theoretical framework used. It starts with a summary of ke
 Chapter 4 describes the methodology of the study.  I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
 
 
-
 Chapter 5 outlines the learning design that emerged from the research process. To explore emerging tensions in design in a way which communicates relevant context, I outline four conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). This chapter discussion begins with an exploration of the tools used through the lens of authenticity. It continues by covering the mutual nature of the evolution of the design, and ends with a synthesis to initial barriers to engaging in game making practices and initial interventions to address them.
 
 Chapter 6 focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _how can game design patterns support the development of coding practices by novices_?
@@ -420,44 +337,6 @@ Chapter 8 concludes the thesis with a final discussion on the significance of my
 
 This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The study seeks to address questions about effective teaching the creative and technical skills needed by novices to create digital games. The introduction also highlighted the complexities of  and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarify key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepare the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Holding Zone - Drop or Move
-
-
-
-## Links
 
 [^1]: https://en.wikipedia.org/wiki/Undercover_Policing_Inquiry
 [^2]: https://en.wikipedia.org/wiki/UK_undercover_policing_relationships_scandal
