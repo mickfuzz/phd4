@@ -279,6 +279,27 @@ To return to the pedagogical outputs, to find out who may benefit from the propo
 
 Choosing a theoretical framework which aligns with the goals of the research questions is an important decision in undertaking a PhD study. In my role as both a practitioner and a researcher, it was vital to select a framework that could incorporate potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
+#### Why activity theory and not constructionism
+
+
+Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing resonates with my motivations to explore complex learner driven pedagogies. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs. Constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" in varied contexts [kynigos_constructionism:_2015].
+
+Constructionism and the process of making constructionist games is a leading school in game making studies as demonstrated by work led by Resnick and Kafai. Constructionist pedagogy that are explored in Chapter 2.
+
+
+This chapter has already addressed the overall ethos of conducting educational research in situ, i.e. in an authentic educational context. In recent years researchers from constructionist school have started to describe the importance a situated approach to studying and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020].
+
+However, constructionism lacks some of the tools provided by CHAT, and its research outputs still retain a primary focus on its historical concerns on a more personal understandings of knowledge. For a sociocultural critique of constructionism see Vossoughi et al [-@vossoughi_making_2016].
+
+In addition CHAT augments this situated perspective on learning with tools to study the impact of past cultural activity of participants on present activity.
+
+Instead AT offers a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
+
+It also provided a diversity of concept to explore a complex and dynamic picture of participant agency.
+
+
+
+
 ### Cultural historical activity theory
 
 <!-- - explores tensions
@@ -297,29 +318,6 @@ This study, in part, explores ways in which how the motivational and navigationa
 <!-- However, I am wary to celebrate this uncritically given my recent experiences of unintended consequences of change. This applies even in a computing teaching context.  For while as a Computer teacher candidate I was drawn to the possibilities offered by a new technologies and the shifts in computer pedagogy, school settings faced constraints of the curriculum, exams and time related pressures which threaten to prevent the kind of authentic project based work. I want to be able to give detailed tools of critically analysis that do not paralyse but also do not unthinkingly evangelise social change in ways which may be unsafe or unrealistic. -->
 
 
-
-#### Why activity theory and not constructionism
-
-Constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" in varied contexts [kynigos_constructionism:_2015], in particular, game making related studies [].
-
-There was a messiness and explorative freedom to the emerging research process and a dedication to projects that worked with the interests of participants.
-
-The messiness of approach resonated with Papert and Turkle's celebration of bricolage approaches and corresponding rejection of the primacy of abstract approaches to learning computing. This ethos had been developed into a school of pedagogy named Constructionism which continues to be popular in computing education in particular through the work or MIT labs.  
-
-These are elements of constructionist pedagogy that are explored in Chapter 2.
-
-This chapter has already addressed the overall ethos of conducting educational research in situ, i.e. in an authentic educational context.
-
-In recent years researchers from constructionist school have started to describe the importance a situated approach to studying and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020].
-
-
-However, constructionism lacks some of the tools provided by CHAT, and its research outputs still retain a primary focus on its historical concerns on a more personal understandings of knowledge. For a sociocultural critique of constructionism see Vossoughi et al [-@vossoughi_making_2016].
-
-In addition CHAT augments this situated perspective on learning with tools to study the impact of past cultural activity of participants on present activity.
-
-Instead AT offers a rich language to explore the kind of empowerment and limits to it in a wider contextual sense.
-
-It also provided a diversity of concept to explore a complex and dynamic picture of participant agency.
 
 ###  On Agency
 
