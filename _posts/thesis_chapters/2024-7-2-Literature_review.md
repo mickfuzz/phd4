@@ -17,7 +17,7 @@ title: 2. Literature Review
         schools](#context-of-game-making-and-digital-projects-in-schools)
     -   [Context of game making and digital projects at home and other
         informal
-        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
+        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settingsGaps in existing research / )
         -   [Examples of research on
             practice](#examples-of-research-on-practice)
             -   [Ito / Gee - hanging out](#ito-gee---hanging-out)
@@ -177,22 +177,18 @@ title: 2. Literature Review
 3. How can learners build agency in an evolving community of game makers?
 
 
+## Introduction
 
-## Introduction & Structure of LR
 
-<!-- #### Also See this writing and adapt
+**Specifics of structure**
 
-chapters/planning/lit review/game making/overview of gamemaking studies part one/overview_of_gamemaking_studies_v6 (002) + CL.docx.md
+- Context
+  - formal
+  - informal
+- Pedagogies & Relevant Game Making Studies
 
-planning lit rev/My thoughts on lit review_.docx.md
--->
 
-<!-- NOTE - Does this need to be explicitly via Sociocultural take -->
-
-To help answer the research questions and to prepare the reader for the findings of this thesis, this literature review explores pedagogies and resources used by practitioners and learners to support the process of learning. The LR is themed broadly using Rogoff's three planes of analysis (personal knowledge, interpersonal activity and cultural factors) [@rogoff_observing_1995. This approach appears to have influenced the structure of Kafai and Burke's review of this area [@kafai_connected_2014-1; @kafai_constructionist_2015-1]. While Kafai and Burke's work as a convincing review of some of the diverse potential and efficacy  of game coding, this LR focuses in on the detail of the pedagogies of relevant studies.
-
-However, as studies do not neatly fall in to each category they are not structured rigidly via section. Instead this chapter follows a general direction studies which outline pedagogies focusing on personal knowledge to those which draw on social coding practices and finally covers studies with a significant element of development of cultural practices of coding. While most pedagogies explored here are specific to approaches for game making or learning coding at times where needed to capture community focuses the net is cast  wider to highlight more general principles.
-
+This literature review then explores pedagogies of game making of similar digital making.
 
 
 
@@ -208,13 +204,7 @@ RQ3 addresses the development of agency, a deeper exploration of which is covere
 - pedagogical frameworks which help participants develop coding practices within a community focus
 - pedagogies which facilitate and highlight community membership: e.g. Barron's roles and legitimate peripheral participation
 
-**Specifics of structure**
 
-The chapter begins with pedagogies focused on personal knowedge within a K12 school education context
-
-This starts with a examination of computational thinking as a pedagogy.
-
-It also address some key barriers to coding practices presented by the constraints of curriculum and assessment.
 
 <!-- - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
 
@@ -327,6 +317,11 @@ In these more naturalistic settings, Ito and colleagues note that generative act
 
 On the other end of the spectrum is the desire to bring open-ended practices into the school setting. We see that a similar pattern in different communities -- ABOVE IN MAKING - SCRATCH IN SCHOOLS While the focus of my study will be on family learning, due to the need for strategies to bring game making into schools settings, which I will address this issue. Kafai's study detailing an emergent peer pedagogy, accepts some of the limits of the school setting but identifies peer practices that show great promise.
 
+## Synthesis of barriers...?
+
+This section pulls together some of the barriers form previous sections on context to clarify some of the challenges before describing pedagogies that may address them.
+
+It takes a good faith approach, and puts to one side some of the 
 
 ## Pedagogies for project-based game making via coding
 
