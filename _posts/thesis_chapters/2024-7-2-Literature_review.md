@@ -227,7 +227,7 @@ solved by design - link with contructionism -->
 
 ## Why Make Games?
 
-### Motivations and models for leading game making activities
+### Motivations for game making activities from reviews
 
 <!-- also
     - From Kafai's review (not directly) draw on
@@ -235,11 +235,57 @@ solved by design - link with contructionism -->
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
+**Summary of motivations from reviews**
+
   - Learning coding and related digital skills to progress to join the commercial games industry
 - Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
 - Parents motivations to develop individual useful skills in young peoples.
 - Game making for intrinsic pleasure of making games or similar projects that are celebrated
 - for empowerment of individual and health of society as consumers of technology
+
+#### Summary of motivations from reviews
+
+There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013].
+
+In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
+
+
+**Returning to developing Computational Fluency**
+
+To refocus this review, let's return to focus of computational fluency.
+.
+
+
+### Alignment with PBL benefits - but how are games different
+
+There is broad alignment with game making as an educational activity and the general approach of project-based learning.
+
+The following studies indicate a broad alignment with some of the techniques of PBL and well represented in the following review of relevant studies represening the following concepts.
+
+- Pair Programming
+- authentic audience & supportive peer environment
+- mobilising motivation and sustaining interest by tapping into interests of participants.
+
+Thus:
+- Denner, girls making games, pair programming
+- Roberston, social coding
+- Kafai & Roque, (& 5d) home interests,
+
+
+While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
+
+It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in simiar research
+ - Passions as - Fok in 5d, and similar
+ - Pair programming as guided participation  - in Rogoff and ...?
+ -
+
+There are exceptions
+
+These exceptions address particular aspects of the affordences and other opportunities that games re
+
+ - GSM to explore systems thinking in particular
+ - Pair programming,
+
 
 
 
@@ -297,8 +343,6 @@ In 2015 I contributed a short line course called Quacking Javascript to this web
 ## Barriers - pt 1. -  (contextual?) to participation
 
 These barriers are relevant to both formal and informal contexts.
-
-
 
 
 ### Identity barriers
