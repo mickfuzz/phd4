@@ -7,13 +7,15 @@
             reviews](#motivations-for-game-making-activities-from-reviews)
             -   [Summary of motivations from
                 reviews](#summary-of-motivations-from-reviews)
-        -   [Alignment with PBL benefits - but how are games
-            different](#alignment-with-pbl-benefits---but-how-are-games-different)
+        -   [Alignment with PBL benefits & 21st
+            C](#alignment-with-pbl-benefits-21st-c)
+            -   [but how are games
+                different](#but-how-are-games-different)
+        -   [Limits of constructionist game
+            making](#limits-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
-        -   [Defining informal and
-            non-formal](#defining-informal-and-non-formal)
         -   [Home eduction contextual factors relevant to this
             study](#home-eduction-contextual-factors-relevant-to-this-study)
         -   [Examples of research on

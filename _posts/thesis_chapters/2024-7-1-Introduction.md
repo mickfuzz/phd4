@@ -15,9 +15,8 @@ title: 1. Introduction - Games for a Read / Write world.
         evolving tool use of an emerging community of families coding
         digital games
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
-    -   [Abstract](#abstract)
-        -   [Research Questions - July
-            2024](#research-questions---july-2024)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
     -   [1. Background to the thesis](#background-to-the-thesis)
         -   [An introduction to research on digital game
             making](#an-introduction-to-research-on-digital-game-making)
@@ -26,8 +25,8 @@ title: 1. Introduction - Games for a Read / Write world.
         -   [Connecting my experience to broader research
             themes](#connecting-my-experience-to-broader-research-themes)
     -   [2. Context](#context)
-        -   [Context of School based computing education and game
-            making](#context-of-school-based-computing-education-and-game-making)
+        -   [Context of game making within school-based computing
+            education](#context-of-game-making-within-school-based-computing-education)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
@@ -46,44 +45,30 @@ title: 1. Introduction - Games for a Read / Write world.
             research](#wider-implications-and-applications-of-the-research)
     -   [4. Introduction to theoretical
         framework](#introduction-to-theoretical-framework)
-        -   [Cultural historical activity
-            theory](#cultural-historical-activity-theory)
-            -   [Why activity theory and not
-                constructionism](#why-activity-theory-and-not-constructionism)
-        -   [On Agency](#on-agency)
-        -   [On Design-based research
-            (DBR)](#on-design-based-research-dbr)
+        -   [(Why not use
+            constructionism)](#why-not-use-constructionism)
+        -   [(Cultural historical activity
+            theory)](#cultural-historical-activity-theory)
+        -   [(On Design-based research
+            (DBR))](#on-design-based-research-dbr)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
         -   [The challenge of maintaining focus in this PhD
             process](#the-challenge-of-maintaining-focus-in-this-phd-process)
-        -   [Gaps in existing research / Contribution to knowledge of
-            this
-            thesis](#gaps-in-existing-research-contribution-to-knowledge-of-this-thesis)
-            -   [New research for new tools and
-                approaches](#new-research-for-new-tools-and-approaches)
-            -   [Focus on community
-                building](#focus-on-community-building)
-            -   [Cultural methodology using CHAT & 360 -
-                really?](#cultural-methodology-using-chat-360---really)
-        -   [Limitations of this thesis](#limitations-of-this-thesis)
-            -   [Application of resulting pedagogy to other
-                domains](#application-of-resulting-pedagogy-to-other-domains)
+        -   [Contribution to knowledge of this
+            thesis](#contribution-to-knowledge-of-this-thesis)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
-    -   [Holding Zone - Drop or Move](#holding-zone---drop-or-move)
-    -   [Links](#links)
-
 
 # Introduction - “Games for a Read / Write World.”
 
 ### A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.
 
-Author Mick Chesterman
+<!-- Author Mick Chesterman
 
 ## Abstract
 
-To come - for now see outline of thesis at the end of chapter
+To come - for now see outline of thesis at the end of chapter -->
 
 ### Research Questions - July 2024
 
@@ -144,12 +129,9 @@ The process aligns with mutuality of design work and acknowledgement that while 
 
 ## 2. Context
 
-This introduction begins an exploration of key contextual factors.. Key themes continue to be explored in the literature reviews in Chapter 2.
+This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home educating families attending a series of game making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section begins to situate this research within key contextual themes. More detailed exploration continues in the literature review of Chapter 2.
 
-The immediate context of this research being a new learning community in a University setting involving of home educating parents, myself as a researcher / facilitator, and volunteer student helpers.
-
-
-### Context of School based computing education and game making
+### Context of game making within school-based computing education
 
 <!-- The most prominent learning objective of making games in educational setting is to develop _coding and computing skills_. There are extensive studies on _game making to learn other subjects_ including maths, biology and chemistry but diverse examples exist. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. There are also a powerful vehicle for exploring issues involving race, sex, social issues [@tekinbas_quest_2010]. -->
 
@@ -157,11 +139,7 @@ The immediate context of this research being a new learning community in a Unive
 
 The changing shape of provision on UK digital-focused education in schools can be profitably examined through several key developments. The first is Google leader Eric Schmidt's speech as a MacTaggart lecture in Edinburgh in 2011,  critiquing current computing provision, "Your IT curriculum focuses on teaching how to use software, but gives no insight into how it’s made" [@schmidt_eric_2011, p.8]. The second was a report "Shut Down or Restart?" by the Royal Society (RSA) [the_royal_society_shut_2012] released in early 2012. The report recommended steering the ICT curriculum towards computer science and programming, providing funding professional development and a greater inclusivity in computing education, and increased partnership work with computing professionals. In the same week Michael Gove [@-gove_michael_2012] announced the scrapping the ICT curriclum. Finally, the new _computing_ curriculum was released in 2013 to a mixed response [@dfe2013national]. However, while community responses were collected via a consultation, a clear consensus to avoid removal of too much digital literacy and creative project work was ignored in the final curriculum [@twining_we_2013]. Preston [@preston_re-engineering_2013] shares Twining's perspective that Gove and Schmidt's critique of previous ICT provision was misjudged, sharing a perspective that the ICT had been given a good kicking in part as a political football.
 
-A recent report by Kemp and colleagues [@kemp_considerations_2024] on the future of computing education confirms some of these initial concerns about the 2013 computing curriculum and related exams. The report outlines the disparity and dropping numbers in the uptake of digital-related qualifications. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding.
-
-ADD SOMETHING - Game making aligns well with the principles of inclusive practices and project-based learning (PBL) by providing learner choice, authentic and shareable project outcomes, and iterative project work supporting student mastery. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain.
-
-This introduction has focused in broad context of UK computing, and other contextual features of game making in schools, including primary school practice, are explored in Chapter 2.
+A recent report by Kemp and colleagues [@kemp_considerations_2024] on the future of computing education confirms some of these initial concerns about the 2013 computing curriculum and related exams. The report outlines the disparity and dropping numbers in the uptake of digital-related qualifications. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain. These factors have led may practitioners and researchers to investigate game making in more informal settings.
 
 ### Context of game making and wider digital making and culture home and informal settings
 
@@ -190,7 +168,7 @@ While home education is not a core focus of this thesis, it is a significant con
 
 ### Overview of barriers to game making which apply to both formal and non-formal environments
 
-While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race and class have been shown to negatively impact participation in digital making and more specifically game making. This research addresses each of these concerns at different stages of this thesis.
+While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware, or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race, and class have been shown to negatively impact participation in digital making and more specifically game making. This research addresses each of these concerns at different stages of this thesis.
 
 
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
@@ -199,7 +177,7 @@ While the previous sections have addressed some of the opportunities and benefit
 
 ### Research objectives & Recap of motivation
 
-Despite the many studies published on the benefits of game making for learning, particularly in the years 2013 to 2020, few contain detailed specifics of pedagogies or tool use when supporting learners in initial stages of game design. Additionally, many of the technologies used in past studies are not longer practical to use. A notable case being Game Star Mechanic which uses the now retired Flash web-browser plug-in. This study aims to evaluate and build on relevant research, detailed in Chapter 2, and to update practices to use open-source, industry standard, web-technologies (HTML and JavaScript) with an aim add longevity, authenticity extensibility to the game making toolset. In addition this research proposes a clear but flexible pedagogy based around this use of gameplay design patterns, that has emerged from a responsive design process. These themes are continued in the design narrative of Chapter 4.  
+Despite the many studies published on the benefits of game making for learning, particularly in the years 2013 to 2020, few contain detailed specifics of pedagogies or tool use when supporting learners in initial stages of game design. Additionally, many of the technologies used in past studies are no longer practical to use. This study aims to evaluate and build on relevant research, detailed in Chapter 2, and to update practices to use open-source, industry standard, web-technologies (HTML and JavaScript) with an aim to add longevity, authenticity, and extensibility to the game making toolset. In addition, this research proposes a clear but flexible pedagogy based around the use of gameplay design patterns, that has emerged from a responsive design process. These themes are continued in the design narrative of Chapter 4.  
 
 A personal motivation driving this research is to better understand my practice as an activist, community worker and practice-focused educator.  As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. This motivation has guided me towards existing research reflect on experiences of developing agency within a non-formal communities.  In my past community training practice, I used terms like _empowerment_ and promoting learners _choice_. As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
 
@@ -297,33 +275,26 @@ This study addresses this in part with a detailed exploration on the learning de
 
 ## 6. Chapter outline of the study
 
-This introduction has been structured around key contextual factors that have spurred this inquiry and which have emerged from observational research and integrating existing theoretical understandings in this area. It has also outlined a motivation to better understand my own experience as a facilitator of learners creating media and digital products in relation to existing research.
-
-While the immediate goal of understanding learning happening in temporary informal environments of learning coding, the findings have implications that of interest to a broader audience of researchers and practitioners who are looking to nurture creative and/or technical design practices in novice learners.  
-
-In line with a situated view of learning the details of process of coding are important. Thus one of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and a summary table is present as an introductory section to the literature review.
-
-The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. These include: authenticity in project based approaches; nature of informal settings in particular home education; barriers to participation in digital making; pedagogies to create inclusive learning environments and to help young people learn computer coding. To follow I outline the theoretical framework and the key methodologies of this study. I explain how the design based research (DBR) aligns well with the aims of the research questions and the use of concepts from the socio cultural school and the leading approach of third generation activity theory (3GAT).
+This introduction has covered key contextual, motivational and theoretical considerations relevant to this study. This section now outlines the structure and indicative content of the chapters of this thesis. The literature review begins the exploration of the key themes and threads that are integral to the findings of this study. One of the challenges of this work is to explore the details to a non-expert audience. While the literature review will begin to disambiguate some of the terms used in the thesis there is in addition a glossary which outlines short definitions of technical terms used. The glossary is included as an appendix to this study and as summary table is in the literature review. Key strand of the literature review include: a review of existing studies on game making; a comparative analysis of the claims of these studies with project-based learning approaches; a summary of the context of informal settings; and a detail exploration of varied game making pedagogies relevant to developing computational fluency. The chapter end by revisiting the problem statement of this thesis in line with gaps in existing research.
 
 <!-- In doing so I explore the direction of travel of 3GAT and increasing synergies with DBR as methodologies whichIn summary, this introduction has established the core motivations for this study and outlined the key contextual factors that have shaped my inquiry into the facilitation of media and digital product creation. By exploring the nuances of informal coding environments and reflecting on my own experiences as a facilitator, the study seeks to address broader questions about nurturing creative and technical skills in novice learners. The introduction also highlighted the importance of making complex coding processes accessible to a non-expert audience and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. As we transition to the literature review, the next section will provide a detailed examination of relevant research and theoretical concepts that inform this study. This review will serve to clarify the foundational ideas and frameworks essential for understanding the study’s objectives and research questions, setting the stage for a deeper exploration of how design-based research and third-generation activity theory offer innovative approaches to the challenges identified in the introduction. suit both intervention by researchers into the learning environment being studies and corresponding input by research participants in the resulting design. -->
 
-Chapter 3 details the theoretical framework used. It starts with a summary of key concepts aligned with the theoretical framework to aid the analysis of data gathered. This include: the iterative and mutually created and emergent nature of the resources and processes that were created and adopted; identifying a unit of analysis; and transformative conceptions of agency.
+Chapter 3 details the theoretical framework used for this study, taking as its base the use of activity theory. I also explain how the design based research (DBR) aligns well with the aims of the research questions and the use of concepts  and the leading approach of third generation activity theory (3GAT). This separate chapter allows for discussion of concepts aligned with the theoretical framework including: the iterative, mutual, and emergent nature of the resources and processes; the process of identifying units of analysis; and transformative conceptions of agency.
 
-Chapter 4 describes the methodology of the study.  I outline the process of how data was gathered, processed and collected using screen capture and 360 cameras. I explore the challenge of gathering large amounts of research data and resulting prioritisation that resulted.   
+Chapter 4 describes the methodology of the study. I describe and justify the process of data gathering using computer screen capture and 360 cameras and other varied means. I explore the challenge of processing and analysing large amounts of research data and justify the resulting prioritisation of data. I also begin to describe the phases of learning delivery.   
 
 
-Chapter 5 outlines the learning design that emerged from the research process. To explore emerging tensions in design in a way which communicates relevant context, I outline four conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). This chapter discussion begins with an exploration of the tools used through the lens of authenticity. It continues by covering the mutual nature of the evolution of the design, and ends with a synthesis to initial barriers to engaging in game making practices and initial interventions to address them.
+Chapter 5 takes the form of a process from design-based research, a design narrative, to provide a detailed description of the tools and pedagogies that that emerged from development  process. To explore emerging tensions in design in a way which communicates relevant context, I outline key conflicts in interrelated activity systems using the terminology of third generation activity theory (3GAT). The chapter discussion begins explores themes of authenticity of tool use, the mutual nature of the evolution of the design, and initial barriers and corresponding interventions.
 
-Chapter 6 focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _how can game design patterns support the development of coding practices by novices_?
-This chapter begins by re-examining of game design patterns and game play design patterns in the context of a community of novice coders. Following this a vignette of parent child interaction in game making process introduces an overview of interactions of that pair to help contextualise findings. The chapter then undertakes a systematic analysis of the use of game design patterns by participants drawing on detailed observations of practice. A discussion section explores implications and observations from these findings in relation to existing research and concepts.
+Chapter 6 focuses on the implementation of individual game design patterns (GDPs) and in doing so addresses how data gathered informs thinking on the research question - _How can game design patterns support the development of computational fluency in novices?_? This chapter begins by re-examining of game design patterns and game play design patterns in the context of a community of novice coders. Following this a vignette of parent child interaction in game making process introduces an overview of interactions of that pair to help contextualise findings. The chapter then undertakes a systematic analysis of the use of game design patterns by participants drawing on detailed observations of practice. A discussion section explores implications and observations from these findings in relation to existing research and concepts.
 
-Chapter 7 discusses the use of inclusive pedagogical methods that helped participants become part of an emerging community of game makers. It explores the role of the design of games and the surrounding communities that build up around games to support an nurture the development of player identities. The process is shown to have beneficial effects in supporting the creative process. I explore the use of a process drama to draw on their existing knowledge and encourages them to put this into practice via a playful fictional scenario.
+Chapter 7 discusses the characteristics of an inclusive pedagogical environment that helped participants become part of an emerging community of game makers. Its focus on emerging agency of participants to answer the third research question: _How can learners build agency in an evolving community of game makers?_ To do this, it explores in particular the role of design interventions to support and nurture the expression learner identities, particular the role of playtesting.  
 
 Chapter 8 concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
 
 ### 7. Link to next chapter
 
-This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The study seeks to address questions about effective teaching the creative and technical skills needed by novices to create digital games. The introduction also highlighted the complexities of  and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarify key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepare the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
+This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The introduction also highlighted the complexities of and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarifies key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepares the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
 
 
 

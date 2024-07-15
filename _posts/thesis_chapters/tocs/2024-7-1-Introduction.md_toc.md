@@ -4,9 +4,8 @@
         evolving tool use of an emerging community of families coding
         digital games
         together.](#a-study-of-the-cultural-and-interpersonal-dimensions-and-evolving-tool-use-of-an-emerging-community-of-families-coding-digital-games-together.)
-    -   [Abstract](#abstract)
-        -   [Research Questions - July
-            2024](#research-questions---july-2024)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
     -   [1. Background to the thesis](#background-to-the-thesis)
         -   [An introduction to research on digital game
             making](#an-introduction-to-research-on-digital-game-making)
@@ -15,8 +14,8 @@
         -   [Connecting my experience to broader research
             themes](#connecting-my-experience-to-broader-research-themes)
     -   [2. Context](#context)
-        -   [Context of School based computing education and game
-            making](#context-of-school-based-computing-education-and-game-making)
+        -   [Context of game making within school-based computing
+            education](#context-of-game-making-within-school-based-computing-education)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
@@ -35,13 +34,12 @@
             research](#wider-implications-and-applications-of-the-research)
     -   [4. Introduction to theoretical
         framework](#introduction-to-theoretical-framework)
-        -   [Why not use constructionism? (Everyone else
-            does!)](#why-not-use-constructionism-everyone-else-does)
-        -   [Cultural historical activity
-            theory](#cultural-historical-activity-theory)
-        -   [On Agency](#on-agency)
-        -   [On Design-based research
-            (DBR)](#on-design-based-research-dbr)
+        -   [(Why not use
+            constructionism)](#why-not-use-constructionism)
+        -   [(Cultural historical activity
+            theory)](#cultural-historical-activity-theory)
+        -   [(On Design-based research
+            (DBR))](#on-design-based-research-dbr)
     -   [5. The significance of the thesis and its
         limitations](#the-significance-of-the-thesis-and-its-limitations)
         -   [The challenge of maintaining focus in this PhD
