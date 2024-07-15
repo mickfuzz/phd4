@@ -229,7 +229,7 @@ To return to the pedagogical outputs, to find out who may benefit from the propo
 
 Choosing a theoretical framework which aligns with the goals of the research questions is an important decision in undertaking a PhD study. In my role as both a practitioner and a researcher, it was vital to select a framework that could incorporate potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
-<!-- #### Why not use constructionism? (Everyone else does!) -->
+#### (Why not use constructionism)
 
 Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways. While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.  Constructionist-focused research has historically focused on the affordances of researcher-created toolkits to develop a personal understandings of knowledge [-@vossoughi_making_2016].  While, in recent years researchers from constructionist school have addressed some of underlying issues by noting importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], activity theory as a theoretical framework augments this a situated perspective on learning with tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency. Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [kaptelinin_affordances_2012].
 
@@ -237,7 +237,7 @@ Constructionism is a popular guiding theory in game making studies, illustrated 
 <!-- For a sociocultural critique of constructionism see Vossoughi et al [-@vossoughi_making_2016]. -->
 
 
-<!-- ### Cultural historical activity theory -->
+### (Cultural historical activity theory)
 
 <!-- - explores tensions
 - is optimistic but realistic about change
@@ -261,7 +261,7 @@ SAVE FOR CONCLUSION?
 
 
 
-<!-- ### On Design-based research (DBR) -->
+### (On Design-based research (DBR))
 
 Design based research is not a uniform practice with set methodology but there is a general consensus in guiding principles. For Sandoval [-@sandoval_conjecture_2014], these involve joint work on a project and theoretical refinement, iterative design process involving phases of planning delivery, evaluation working towards outcomes of interest. While DBR is explored in a more nuanced way in Chapter 3, it is worth noting at this stage that it provides practical tools which are complementary with CHAT, to undertake and to represent complex learning designs taking place in authentic learning environments. In particular, DBR provides means to fulfil a key motivation of this research, to guide and to represent the evolution of a useful game making pedagogy. As remarked earlier, the format of academic research papers, even those focused on practice, often eschews methodological detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. To address this issue Chapter 4 of this thesis incorporates a design narrative, a process adopted from DBR, which I explain and justify in Chapters 3.
 
