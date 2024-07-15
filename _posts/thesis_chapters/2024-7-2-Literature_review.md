@@ -14,10 +14,12 @@ title: 2. Literature Review
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
     -   [Why Make Games?](#why-make-games)
-        -   [Motivations and models for leading game making
-            activities](#motivations-and-models-for-leading-game-making-activities)
-    -   [Context of game making and digital projects in
-        schools](#context-of-game-making-and-digital-projects-in-schools)
+        -   [Motivations for game making activities from
+            reviews](#motivations-for-game-making-activities-from-reviews)
+            -   [Summary of motivations from
+                reviews](#summary-of-motivations-from-reviews)
+        -   [Alignment with PBL benefits - but how are games
+            different](#alignment-with-pbl-benefits---but-how-are-games-different)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -32,12 +34,13 @@ title: 2. Literature Review
             -   [Mozilla, authentic-link toolsets- DROP - OR DEVELOP
                 CASE
                 STUDY](#mozilla-authentic-link-toolsets--drop---or-develop-case-study)
-    -   [Barriers - pt 1.](#barriers---pt-1.)
-    -   [Barriers (contextual?) to
-        participation](#barriers-contextual-to-participation)
-        -   [Synthesis of barriers...?](#synthesis-of-barriers)
+    -   [Barriers - pt 1. - (contextual?) to
+        participation](#barriers---pt-1.---contextual-to-participation)
+        -   [Identity barriers](#identity-barriers)
+        -   [Technical barriers](#technical-barriers)
         -   [Lack of specific pedagogies for informal
             spaces](#lack-of-specific-pedagogies-for-informal-spaces)
+        -   [Synthesis of barriers...?](#synthesis-of-barriers)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -192,7 +195,6 @@ title: 2. Literature Review
 
 ## Introduction
 
-
 **Specifics of structure**
 
 - Context
@@ -200,10 +202,7 @@ title: 2. Literature Review
   - informal
 - Pedagogies & Relevant Game Making Studies
 
-
 This literature review then explores pedagogies of game making of similar digital making.
-
-
 
 **LR and how it addresses RQs**
 
@@ -235,7 +234,14 @@ solved by design - link with contructionism -->
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
-**Summary of motivations from reviews**
+
+
+#### Summary of motivations from reviews
+
+There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013].
+
+
+**Summary of motivations and results from reviews**
 
   - Learning coding and related digital skills to progress to join the commercial games industry
 - Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
@@ -243,20 +249,9 @@ solved by design - link with contructionism -->
 - Game making for intrinsic pleasure of making games or similar projects that are celebrated
 - for empowerment of individual and health of society as consumers of technology
 
-#### Summary of motivations from reviews
-
-There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013].
-
-In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
 
-**Returning to developing Computational Fluency**
-
-To refocus this review, let's return to focus of computational fluency.
-.
-
-
-### Alignment with PBL benefits - but how are games different
+### Alignment with PBL benefits & 21st C
 
 There is broad alignment with game making as an educational activity and the general approach of project-based learning.
 
@@ -272,12 +267,13 @@ Thus:
 - Kafai & Roque, (& 5d) home interests,
 
 
+####  but how are games different
+
 While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
 
 It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in simiar research
  - Passions as - Fok in 5d, and similar
  - Pair programming as guided participation  - in Rogoff and ...?
- -
 
 There are exceptions
 
@@ -286,24 +282,28 @@ These exceptions address particular aspects of the affordences and other opportu
  - GSM to explore systems thinking in particular
  - Pair programming,
 
+### Limits of constructionist game making
 
+In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
+
+**Returning to developing Computational Fluency**
+PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
+To refocus this review, let's return to focus of computational fluency.
 
 
 ## Context of game making and digital projects at home and other informal settings
 
+<!-- STRUCTURE
 - Benefits
 - Examples of research
   - Ito, gee
   - Mozilla (my previous work)
 - Barriers
   - Inequality of access
-  - technical knowledge & equipment
+  - technical knowledge & equipment -->
 
-Due to the focus of this study on an informal setting, this section leaves to one side school-related contextual factors which are however explored in the introduction, and in the conclusion.
+Thus while the last section focused on constructionist game making, noting its limits in terms of agency, while more specific pedagogies are explored in later sections of the chapter, this section begins to  focus on contexts and broad approaches which do allow greater agency, to do this I use the broad term informal approaches a term I now explore. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.
 
-### Defining informal and non-formal
-
-Definitions of informal education are complex. Informal education generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.  
 
 ### Home eduction contextual factors relevant to this study
 

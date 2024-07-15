@@ -3,10 +3,12 @@
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
     -   [Why Make Games?](#why-make-games)
-        -   [Motivations and models for leading game making
-            activities](#motivations-and-models-for-leading-game-making-activities)
-    -   [Context of game making and digital projects in
-        schools](#context-of-game-making-and-digital-projects-in-schools)
+        -   [Motivations for game making activities from
+            reviews](#motivations-for-game-making-activities-from-reviews)
+            -   [Summary of motivations from
+                reviews](#summary-of-motivations-from-reviews)
+        -   [Alignment with PBL benefits - but how are games
+            different](#alignment-with-pbl-benefits---but-how-are-games-different)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -21,12 +23,13 @@
             -   [Mozilla, authentic-link toolsets- DROP - OR DEVELOP
                 CASE
                 STUDY](#mozilla-authentic-link-toolsets--drop---or-develop-case-study)
-    -   [Barriers - pt 1.](#barriers---pt-1.)
-    -   [Barriers (contextual?) to
-        participation](#barriers-contextual-to-participation)
-        -   [Synthesis of barriers...?](#synthesis-of-barriers)
+    -   [Barriers - pt 1. - (contextual?) to
+        participation](#barriers---pt-1.---contextual-to-participation)
+        -   [Identity barriers](#identity-barriers)
+        -   [Technical barriers](#technical-barriers)
         -   [Lack of specific pedagogies for informal
             spaces](#lack-of-specific-pedagogies-for-informal-spaces)
+        -   [Synthesis of barriers...?](#synthesis-of-barriers)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
