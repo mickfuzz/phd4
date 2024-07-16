@@ -3,35 +3,39 @@
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
     -   [Why Make Games?](#why-make-games)
-        -   [Motivations for game making activities from
-            reviews](#motivations-for-game-making-activities-from-reviews)
-            -   [Summary of motivations from
-                reviews](#summary-of-motivations-from-reviews)
-        -   [Alignment with PBL benefits & 21st
-            C](#alignment-with-pbl-benefits-21st-c)
-            -   [but how are games
-                different](#but-how-are-games-different)
-        -   [Limits of constructionist game
-            making](#limits-of-constructionist-game-making)
+        -   [Summary of motivations and benefits of (constructionist)
+            game making from
+            reviews](#summary-of-motivations-and-benefits-of-constructionist-game-making-from-reviews)
+        -   [Alignment of constructionist gaming with PBL benefits &
+            21st C & How are games
+            different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
+        -   [Limits and critiques of constructionist game
+            making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
         -   [Home eduction contextual factors relevant to this
             study](#home-eduction-contextual-factors-relevant-to-this-study)
-        -   [Examples of research on
-            practice](#examples-of-research-on-practice)
-            -   [Ito / Gee - hanging out, Home making and consuming of
-                media](#ito-gee---hanging-out-home-making-and-consuming-of-media)
-            -   [Mozilla, authentic-link toolsets- DROP - OR DEVELOP
-                CASE
-                STUDY](#mozilla-authentic-link-toolsets--drop---or-develop-case-study)
-    -   [Barriers - pt 1. - (contextual?) to
-        participation](#barriers---pt-1.---contextual-to-participation)
-        -   [Identity barriers](#identity-barriers)
-        -   [Technical barriers](#technical-barriers)
-        -   [Lack of specific pedagogies for informal
-            spaces](#lack-of-specific-pedagogies-for-informal-spaces)
-        -   [Synthesis of barriers...?](#synthesis-of-barriers)
+        -   [Defining informal](#defining-informal)
+        -   [Game and media making in informal
+            communities](#game-and-media-making-in-informal-communities)
+    -   [Barriers to and motivations for participation in game
+        making](#barriers-to-and-motivations-for-participation-in-game-making)
+        -   [Technical barriers - via a case
+            study?](#technical-barriers---via-a-case-study)
+            -   [Use of non-coding tools to make
+                games](#use-of-non-coding-tools-to-make-games)
+            -   [Non coding technical barriers to making
+                games](#non-coding-technical-barriers-to-making-games)
+    -   [Programmes working to address
+        challenge](#programmes-working-to-address-challenge)
+        -   [Game competitions and game
+            jams](#game-competitions-and-game-jams)
+        -   [Coding club(houses)](#coding-clubhouses)
+        -   [Creative Family Learning -
+            Roque](#creative-family-learning---roque)
+        -   [Link to next section - pedagogies exist but more are
+            needed](#link-to-next-section---pedagogies-exist-but-more-are-needed)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -66,11 +70,14 @@
     -   [Responses to Challenges](#responses-to-challenges)
         -   [Suggestions from UK reports](#suggestions-from-uk-reports)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
-    -   [Programmes working to address
-        challenge](#programmes-working-to-address-challenge)
-        -   [Coding club(houses)](#coding-clubhouses)
-        -   [Game competitions](#game-competitions)
-        -   [Educational Game Jams](#educational-game-jams)
+        -   [Open source and community based responses to the
+            challenge](#open-source-and-community-based-responses-to-the-challenge)
+            -   [Mozilla, an open source
+                toolset](#mozilla-an-open-source-toolset)
+            -   [Coder Dojo and Raspberry Jam - a community responses to
+                the needs of
+                informal](#coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
+            -   [Computing at schools](#computing-at-schools)
     -   [Synthesis of chapter /
         discussion](#synthesis-of-chapter-discussion)
         -   [Problematising distinctions between instruction-based
@@ -159,8 +166,6 @@
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
         -   [Game making studies addressing gender and
             race](#game-making-studies-addressing-gender-and-race)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
     -   [Project Based Learning (PBL)](#project-based-learning-pbl)
         -   [Project Based Learning as an inclusive
             pedagogy](#project-based-learning-as-an-inclusive-pedagogy)

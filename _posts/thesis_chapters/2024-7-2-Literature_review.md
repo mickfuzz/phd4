@@ -14,35 +14,39 @@ title: 2. Literature Review
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
     -   [Why Make Games?](#why-make-games)
-        -   [Motivations for game making activities from
-            reviews](#motivations-for-game-making-activities-from-reviews)
-            -   [Summary of motivations from
-                reviews](#summary-of-motivations-from-reviews)
-        -   [Alignment with PBL benefits & 21st
-            C](#alignment-with-pbl-benefits-21st-c)
-            -   [but how are games
-                different](#but-how-are-games-different)
-        -   [Limits of constructionist game
-            making](#limits-of-constructionist-game-making)
+        -   [Summary of motivations and benefits of (constructionist)
+            game making from
+            reviews](#summary-of-motivations-and-benefits-of-constructionist-game-making-from-reviews)
+        -   [Alignment of constructionist gaming with PBL benefits &
+            21st C & How are games
+            different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
+        -   [Limits and critiques of constructionist game
+            making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
         -   [Home eduction contextual factors relevant to this
             study](#home-eduction-contextual-factors-relevant-to-this-study)
-        -   [Examples of research on
-            practice](#examples-of-research-on-practice)
-            -   [Ito / Gee - hanging out, Home making and consuming of
-                media](#ito-gee---hanging-out-home-making-and-consuming-of-media)
-            -   [Mozilla, authentic-link toolsets- DROP - OR DEVELOP
-                CASE
-                STUDY](#mozilla-authentic-link-toolsets--drop---or-develop-case-study)
-    -   [Barriers - pt 1. - (contextual?) to
-        participation](#barriers---pt-1.---contextual-to-participation)
-        -   [Identity barriers](#identity-barriers)
-        -   [Technical barriers](#technical-barriers)
-        -   [Lack of specific pedagogies for informal
-            spaces](#lack-of-specific-pedagogies-for-informal-spaces)
-        -   [Synthesis of barriers...?](#synthesis-of-barriers)
+        -   [Defining informal](#defining-informal)
+        -   [Game and media making in informal
+            communities](#game-and-media-making-in-informal-communities)
+    -   [Barriers to and motivations for participation in game
+        making](#barriers-to-and-motivations-for-participation-in-game-making)
+        -   [Technical barriers - via a case
+            study?](#technical-barriers---via-a-case-study)
+            -   [Use of non-coding tools to make
+                games](#use-of-non-coding-tools-to-make-games)
+            -   [Non coding technical barriers to making
+                games](#non-coding-technical-barriers-to-making-games)
+    -   [Programmes working to address
+        challenge](#programmes-working-to-address-challenge)
+        -   [Game competitions and game
+            jams](#game-competitions-and-game-jams)
+        -   [Coding club(houses)](#coding-clubhouses)
+        -   [Creative Family Learning -
+            Roque](#creative-family-learning---roque)
+        -   [Link to next section - pedagogies exist but more are
+            needed](#link-to-next-section---pedagogies-exist-but-more-are-needed)
     -   [Pedagogies for project-based game making via
         coding](#pedagogies-for-project-based-game-making-via-coding)
         -   [What is a pedagogy?](#what-is-a-pedagogy)
@@ -77,11 +81,14 @@ title: 2. Literature Review
     -   [Responses to Challenges](#responses-to-challenges)
         -   [Suggestions from UK reports](#suggestions-from-uk-reports)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
-    -   [Programmes working to address
-        challenge](#programmes-working-to-address-challenge)
-        -   [Coding club(houses)](#coding-clubhouses)
-        -   [Game competitions](#game-competitions)
-        -   [Educational Game Jams](#educational-game-jams)
+        -   [Open source and community based responses to the
+            challenge](#open-source-and-community-based-responses-to-the-challenge)
+            -   [Mozilla, an open source
+                toolset](#mozilla-an-open-source-toolset)
+            -   [Coder Dojo and Raspberry Jam - a community responses to
+                the needs of
+                informal](#coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
+            -   [Computing at schools](#computing-at-schools)
     -   [Synthesis of chapter /
         discussion](#synthesis-of-chapter-discussion)
         -   [Problematising distinctions between instruction-based
@@ -170,8 +177,6 @@ title: 2. Literature Review
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
         -   [Game making studies addressing gender and
             race](#game-making-studies-addressing-gender-and-race)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
     -   [Project Based Learning (PBL)](#project-based-learning-pbl)
         -   [Project Based Learning as an inclusive
             pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
@@ -197,18 +202,32 @@ title: 2. Literature Review
 
 **Specifics of structure**
 
-- Context
-  - formal
-  - informal
+- context
+  - Why make games for education?
+    - a review of the literature
+    - motivation for making games
+  - informal (vs formal) context of game making
+    - barriers in general - and especially to informal
+  - Programs working to address challenges - and house informal pedagogies (move up?)
 - Pedagogies & Relevant Game Making Studies
+
+  - Design (thinking) stages
+  - Semantic waves and Primm
+  - umc
+  - Microworlds / Half baked games as constructionist Environments
+  - Pair programming
+  - Game Design patterns
+-
+
+
+
+**LR structure and how it addresses RQs**
+
+This chapter helps answer (does it need to do this?) the research questions in the following ways. In coverage of relevant studies I focus in particular the to barriers to participation and pedagogical elements which address them as notes in RQ1.
 
 This literature review then explores pedagogies of game making of similar digital making.
 
-**LR and how it addresses RQs**
-
-This chapter helps answer the research questions in the following ways. In coverage of relevant studies I focus in particular the to barriers to participation and pedagogical elements which address them as notes in RQ1.
-
-A section in the middle of the chapter addresses game design patterns in particular, as the focus of RQ2, and exposes gaps in the current research in the area of developing notice coding practices.
+A section addresses game design patterns in particular, as the focus of RQ2, and exposes gaps in the current research in the area of developing notice coding practices.
 
 RQ3 addresses the development of agency, a deeper exploration of which is covered Chapter 3. In this literature review of pedagogies, it is worth noting the following elements in pedagogies which are relevant to later discussion.
 
@@ -226,36 +245,28 @@ solved by design - link with contructionism -->
 
 ## Why Make Games?
 
-### Motivations for game making activities from reviews
-
 <!-- also
     - From Kafai's review (not directly) draw on
     - personal
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
+### Summary of motivations and benefits of (constructionist) game making from reviews
+
+There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013]. It is of value to explore the motivations of gaming making from the constructionist field as a dominant voice in this field before later exploring the limitations of this perspective.
+
+**Summary of motivations and benefits of construstionist game making**
+
+The benefits presented in Kafai and Burke's influential review areas of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues.
 
 
-#### Summary of motivations from reviews
+### Alignment of constructionist gaming with PBL benefits & 21st C & How are games different
 
-There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013].
-
-
-**Summary of motivations and results from reviews**
-
-  - Learning coding and related digital skills to progress to join the commercial games industry
-- Getting more people to take Computing qualifications, a motivation which aligns with the concept of feeding the STEM pipeline in to science industries
-- Parents motivations to develop individual useful skills in young peoples.
-- Game making for intrinsic pleasure of making games or similar projects that are celebrated
-- for empowerment of individual and health of society as consumers of technology
-
-
-
-### Alignment with PBL benefits & 21st C
+NOTE TRY TO LINK THE TWO ELEMENTS OF THE TITLE
 
 There is broad alignment with game making as an educational activity and the general approach of project-based learning.
 
-The following studies indicate a broad alignment with some of the techniques of PBL and well represented in the following review of relevant studies represening the following concepts.
+The following studies indicate a broad alignment with some of the techniques of PBL and well represented in the following review of relevant studies representing the following concepts.
 
 - Pair Programming
 - authentic audience & supportive peer environment
@@ -267,24 +278,34 @@ Thus:
 - Kafai & Roque, (& 5d) home interests,
 
 
-####  but how are games different
+**How games are special**
+
+- some thing about rules and Piaget [@kafai_constructionist_2015-1]
 
 While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
 
-It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in simiar research
+It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in similar research
  - Passions as - Fok in 5d, and similar
  - Pair programming as guided participation  - in Rogoff and ...?
 
-There are exceptions
+There are particular benefits of the use of games as a target media artefact to create.
+
+A strength of the use of games in leaning aligns with a playful approach which can have significant benefits for nurturing a positive attitude of participants [@klopfer_moving_2009]
 
 These exceptions address particular aspects of the affordences and other opportunities that games re
 
  - GSM to explore systems thinking in particular
  - Pair programming,
 
-### Limits of constructionist game making
+
+### Limits and critiques of constructionist game making
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
+
+It behoves us to revisit the purpose of game making. Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and “design thinking” are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
+
+It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
+
 
 **Returning to developing Computational Fluency**
 PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
@@ -293,101 +314,140 @@ To refocus this review, let's return to focus of computational fluency.
 
 ## Context of game making and digital projects at home and other informal settings
 
-<!-- STRUCTURE
-- Benefits
-- Examples of research
-  - Ito, gee
-  - Mozilla (my previous work)
-- Barriers
-  - Inequality of access
-  - technical knowledge & equipment -->
-
-Thus while the last section focused on constructionist game making, noting its limits in terms of agency, while more specific pedagogies are explored in later sections of the chapter, this section begins to  focus on contexts and broad approaches which do allow greater agency, to do this I use the broad term informal approaches a term I now explore. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.
 
 
 ### Home eduction contextual factors relevant to this study
 
 The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Two broad streams are sometimes framed as pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003]. In terms of pedagogy, popular concepts in home ed circles include unschooling and deschooling. Holt's concept of unschooling [@gray_challenges_2013], highlights the value facilitating learning around of the process of drawing out interests of children in everyday activities.
-Illich's work around deschooling promotes an idea of webs of learning. Instead of one educational site as the font of all knowledge, learners  access learning experiences in varied contexts based on their interests and needs [illich_deschooling_1971].
+Illich's work around deschooling promotes an idea of webs of learning. Instead of one educational site as the font of all knowledge, learners  access learning experiences in varied contexts based on their interests and needs [@illich_deschooling_1971].
 Many home educating families are active in identifying networks to tap into [@doroudi_relevance_2023] using friendship and social networking groups and email to share opportunities and collaborate on learning activities.
 
+### Defining informal
 
-### Examples of research on practice
+While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.
 
-#### Ito / Gee - hanging out, Home making and consuming of media
+### Game and media making in informal communities
 
+Researcher Ito's ethnographic approach to studies of digital use and creativity in the home  [@ito_connected_2013-1; @ito_hanging_2010; @ito_living_2009], surfaced the value of informal playing around with games. Gee frames the informal, often online communities as affinity spaces [@gee_what_2004] and the activities and culture created around games as metagaming, examining how shared discourses and emerging identities develop within these spaces. The work of the these scholars is well represented in a broad pedagogical approach described as Connected Learning [@ito2013connected]. This book connects the ethos of varied case studies and design approaches, to the sociocultural approach of viewing learning as embedded within social and cultural contexts.  
 
-Messing around and affinity groups. Ito's work on  and naturalistic studies of digital use and creativity in the home including the value of informal playing around [@ito_connected_2013-1; @ito_hanging_2010], and Gee and the process of tapping into affinity groups and affinity spaces [@gee_what_2004].  Gee's (2004b) work on games and associated culture as learning experiences is founded on his understanding of how the engender a shared discourse and emerging identities .
-
-
-
-<!-- Casual and retro games played by both adults and children are increasingly available via smart phones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness creates a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks provides an entry point for game players into game making cultures which is reflected in the success of amateur games publishing websites like itch.io [@garda_nostalgia_2014]. -->
-
-
+<!-- Gee also investigate a learning experiences is founded on his understanding of  -->
 <!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
-
-<!-- There is clearly an inequality of access to these well paid profession that the development of the computing curriculum and the skills based and creative process focus that was part of the initial narrative is laudable the aims of equality. -->
-
 <!-- However the practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. -->
 
 
+## Barriers to and motivations for participation in game making
 
-#### Mozilla, authentic-link toolsets- DROP - OR DEVELOP CASE STUDY
+A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that  lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
 
-A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
+Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males.
 
-In 2015 I contributed a short line course called Quacking Javascript to this webmaker curriclum. In my report on the underlying pedagogical approaches [@chesterman_webmaking_2015],  I outlines the following possibilities to increase participant engagement; playful approaches, use of games, and the ability for particpiants to incorporate popular culture and home interests into their work.
-
-<!-- My work on teach the web for Mozilla was motivated in part in the extensibility of this choice of language which can be compared to block based environments or game specific making tools like game-star mechanics and Scratch. -->
-
-## Barriers - pt 1. -  (contextual?) to participation
-
-These barriers are relevant to both formal and informal contexts.
-
-
-### Identity barriers
 
 **Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
 Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
-
-<!-- - - study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
-
-
-**Race related identities:** Research Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In the Glitch game testers programme, DiSalvo and colleagues investigated a link between such barriers to accessing computing and interest in computer games.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. In this study they highlight not only the importance of the enjoyableness of the leading activity but also the underlying values attached to it by the young, African American male they were working with. Similarly, in a wider critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process. They also stress a greater focus on pedagogy of making can address a over reliance on technologies and tools as a guiding principle, a theme which is explored in more depth in Chapters 2 and 7 of this thesis.  
-
-
-### Technical  barriers
-
-Techie stuff
-
-
-### Lack of specific pedagogies for informal spaces
-
-The lack of pedagogies for informal spaces should be addressed.
-
-While the very open ended approach of build a space and response to the interests of people that come is attractive [see Denner], it presents challenges.
-
-These are explored in the next section of the LR
-
-### Synthesis of barriers...?
-
-This section pulls together some of the barriers form previous sections on context to clarify some of the challenges before describing pedagogies that may address them.
-
 
 **_Inequality of access to participatory culture communities (Barrier)_**
 
 In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
 
-To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016].
-
-## Pedagogies for project-based game making via coding
+To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents.
 
 
-### What is a pedagogy?
 
-One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1.
+### Technical  barriers - via a case study?
 
-Following activity theory terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of mediational strategy.
+Techie stuff - perhaps in intro? Or signpost to start of Chapter 4.
+
+#### Use of non-coding tools to make games
+
+#### Non coding technical barriers to making games
+
+Technical barriers are not limited to the use of computer coding .
+
+- Lack of what is needed to make a good game.
+-
+
+## Programmes working to address challenge
+
+Specifically barriers - concerning identity, and including a structure of pedagogy
+
+
+### Game competitions
+
+Competitions or challenges can be used to bridge to worlds of work and expertise outside of the classroom or beyond the bounds of the informal space.
+
+This is present in a UK context in computing domain via Coolest project.  
+
+It is also available in specialist coding websites and communities like Scratch, although not on an on going basis.
+- Research on competitions in Scratch community, [@kafai_motivating_2014; @kafai2011collaboration]
+- Games for change https://gamesforchange.org/studentchallenge/
+
+
+And themed games for change competitions.
+And via
+
+Critique of competitions [@thumlert2018learning] is that the values of the competitions are largely embraced uncritically rather than developing and transforming practices of the learning site itself. Also there is a danger of inequality of access explored above.
+
+
+### Educational Game Jams
+
+Educational Game Jams share share similar motivations to game competitions. Game Jams are an accelerated production methods, like code sprint or Hackathons, they characterise by a time constrained, accelerated production ethos. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype]. participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Eberhardt [-@eberhardt_no_2016, p. 3], identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience . Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001].
+
+The Moveable Game Jam [@games_for_change_get_2017], a process created a collective of New York educators, can be situated on the playful side of the spectrum. To address some of the inclusivity concerns with the format adaptations have been made. MGJ can be applied in a shorter time-frame, emphasises low-cost and both digital and analogue offline game production. It uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals.  The motivation is to communicate fundamentals concepts of game design process to participants, in particular, the following interrelated game elements; space, goal, components, mechanics and rules.  [LOCATE THIS SOURCE],  To achieve this there is periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
+
+<!-- Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
+ -->
+
+
+<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
+<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
+
+
+
+<!-- Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach. -->
+
+
+<!-- Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. -->
+
+<!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
+
+
+### Coding club(houses)
+
+Work in informal settings has been an important strand of constructionist research based at MIT [@resnick_computer_1996; @peppler_computer_2009].
+
+The work of Roque is also of note in the way that family members are brought directly into the making process.
+
+
+### Creative Family Learning - Roque
+
+<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+
+There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalise Barron's work on parental roles in a making. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home. We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments as explored by Ito above.
+
+
+It did
+Both invite a question, how best to structure activities.  
+
+### Link to next section - pedagogies exist but more are needed
+
+**Lack of specific pedagogies (for informal spaces) - via a case study / research ?**
+
+The lack of pedagogies for informal spaces should be addressed.
+
+While the very open ended approach of build a space and response to the interests of people that come is attractive [see Denner], it presents challenges.
+
+Similarly vehicle like competitions come with some support but also with issues []
+
+These are explored in the next section of the LR
+
+
+## Pedagogies to support game making via coding
+
+
+**Defining pedagogy in this study:**
+One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of meditational strategy.
 
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
@@ -397,14 +457,32 @@ Following activity theory terms pedagogy can be reframed as pedagogical tools an
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
-### Curriculum / abstract concepts, Semantic Waves and PRIMM
+### Curricular concepts, semantic waves and PRIMM
+
+A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.  
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
 
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
+#### Semantic Profiles and Waves
 
-### PRIMM
+CT instruction can be aided with a focus of teachers on semantic profiles and waves.
+
+Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
+
+Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
+
+<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
+
+![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+
+
+Figure 3.1 A Semantic Profile with Semantic Waves
+
+Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
+
+#### PRIMM
 
 FIND MATERIAL IN OTHER BOOK CHAPTERS
 
@@ -428,24 +506,6 @@ We can turn to the UK curriculum perhaps for guidance.
 THIS COUDL BE PUT BEFORE CT - AND THEN CT IS EXPLPORED AS A FRAMEWORK OF CONCEPTS - THEN A PEDAGOGY
 
 DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE
-
-### Semantic Profiles and Waves
-
-CT instruction can be aided with a focus of teachers on semantic profiles and waves.
-
-Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
-
-Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
-
-<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
-
-![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
-
-
-Figure 3.1 A Semantic Profile with Semantic Waves
-
-Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
-
 
 
 
@@ -724,66 +784,42 @@ BUT NOT TOO MUCH
 While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools.
 
 
+### Open source and community based responses to the challenge
+
+
+#### Mozilla, an open source toolset
+
+One of the challenges of a foundation-based approach is the sustainability of the programs involved. One counter to this is using open source toolsets and a community based, and decentralised approach to creating resources.  
+
+Mozilla, acted as a broker between the open source community, and community educators who all chipped in to create teach the web.
+
+A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
+
+In 2015 I contributed a short line course called Quacking Javascript to this webmaker curriclum. In my report on the underlying pedagogical approaches [@chesterman_webmaking_2015],  I outlined the following possibilities to increase participant engagement; playful approaches, use of games, and the ability for participants to incorporate popular culture and home interests into their work.
+
+There were limits to the take up of the curriclum but the Thimble community was active while it lasted and created some good resources.
+
+#### Coder Dojo and Raspberry Jam - a community responses to the needs of informal
+
+A grass roots approach drawing on enthusiasts.
+
+A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
+
+Both projects were subsumed into the RPI foundation and never seen again.
+
+
+#### Computing at schools
+
+While based on formal education. It is worth returning to this community and the challenge of computing in schools.
+
+Coding, new for many teachers, a great response from those involved.
+
+
+
+
 <!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
 https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
 -->
-
-## Programmes working to address challenge
-
-Specifically barriers - concerning identity, and including a structure of pedagogy
-
-<!-- NOTE May need to reduce down a lot.  -->
-
-### Coding club(houses)
-
-Kafai etc.
-
-
-### Game competitions
-
-Examples
-
-Critque of competitions [@thumlert2018learning]
-
-### Educational Game Jams
-
-Some of the tools that emerge allow participants to rapidly explore game concepts -
-See exercises on -  space, mechanics, rules,
-
-<!-- FROM Here
-_posts/thesis_chapters/planning/lit review/game making/game making environments v5.odt.md -->
-
-Hackathons, Game Jams and accelerated production methods
-
-Hackathon events are characterise by a time constrained and thus accelerated production ethos. They have widened beyond code   to embrace other creative and educational domains  [@johnson_civic_2014; @kienzler_learning_2017]
-
-
-The value of rapid prototyping has been popularised by Agile design techniques as a way to avoid wasted planning time. The theory being to create a minimal proof of concept and test with users.
-
-Accelerated production methods are being applied to a wide variety of domains. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype].
-
-Game Jams are an a type of hackathon where participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Within Game Jams a breadth of materials are used including video games, interactive fiction, and even a Cardboard Jam [@eberhardt_no_2016].
-
-Eberhardt also identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience [@eberhardt_no_2016, p. 3].
-
-Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
-
-Beyond the scope of more competitive Game Jams a collective of New York educators have collaborated to create a process aimed at young people that can be applied in a shorter time-frame [@games_for_change_get_2017]. Their process, the Moveable Game Jam, emphasises low-cost and both digital and analogue offline game production. The motivation is to communicate fundamentals concepts of game design process to participants.
-
-<!-- These are broken down into; space, goal,components, mechanics and rules.  -->
-<!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
-
-The Moveable Game Jam can be situated on the playful side of the spectrum in that it uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals, periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
-
-Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach.
-
-GAME JAMS FOR NOVICE CODERS - SEE RECENT WORK
-
-Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
-
-The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
-
-The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment.
 
 
 
@@ -1463,22 +1499,6 @@ The intervention introduced a fictional narrative to create a shared 'project' f
 In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
 
 This technique emerged in this study as one of value and is explored in chapters x and y.
-
-### Creative Family Learning - Roque
-
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
-
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.  
-
-
-Roque's work is founded on sociocultural / situated understandings of learning and brings it into a non-formal learning environment. A key question she asks is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018].
-
-
-It is of value to explore the community aspect of providing support to parents, and support and structure to staff members supporting parents.
-
-The work of Roque to operationalise Barron's work on parental roles in a making context is of particular interest to this study.
-
-I extend this in this study, how can the learning design contribute to aid this process and empower young people as well.
 
 
 ##  Project Based Learning (PBL)
