@@ -2,15 +2,15 @@
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [Why Make Games?](#why-make-games)
-        -   [Summary of motivations and benefits of (constructionist)
-            game making from
-            reviews](#summary-of-motivations-and-benefits-of-constructionist-game-making-from-reviews)
+    -   [A summary research claims surrounding contructionist
+        gaming](#a-summary-research-claims-surrounding-contructionist-gaming)
+        -   [Motivations and benefits of (constructionist) game
+            making](#motivations-and-benefits-of-constructionist-game-making)
         -   [Alignment of constructionist gaming with PBL benefits &
             21st C & How are games
             different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
         -   [Limits and critiques of constructionist game
-            making](#limits-and-critiques-of-constructionist-game-making)a
+            making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -19,14 +19,15 @@
         -   [Defining informal](#defining-informal)
         -   [Game and media making in informal
             communities](#game-and-media-making-in-informal-communities)
-    -   [Barriers to and motivations for participation in game
-        making](#barriers-to-and-motivations-for-participation-in-game-making)
-        -   [Technical barriers - via a case
-            study?](#technical-barriers---via-a-case-study)
-            -   [Use of non-coding tools to make
-                games](#use-of-non-coding-tools-to-make-games)
-            -   [Non coding technical barriers to making
-                games](#non-coding-technical-barriers-to-making-games)
+    -   [Barriers to participation in game
+        making](#barriers-to-participation-in-game-making)
+        -   [Barriers linked to identity and
+            values](#barriers-linked-to-identity-and-values)
+        -   [Technical barriers -](#technical-barriers--)
+            -   [Difficulty of computer programming via
+                coding](#difficulty-of-computer-programming-via-coding)
+        -   [Other barriers to making
+            games](#other-barriers-to-making-games)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Game competitions](#game-competitions)
@@ -44,64 +45,39 @@
                 Waves](#semantic-profiles-and-waves)
             -   [PRIMM](#primm)
         -   [Use Modify Create](#use-modify-create)
-        -   [Microworlds as an embodiment of UMC and other
-            constructionist design
-            principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
-        -   [Constructionist design principles explored in the context
-            of
-            Microworlds](#constructionist-design-principles-explored-in-the-context-of-microworlds)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
+        -   [Microworlds](#microworlds)
+            -   [Microworlds as an embodiment of UMC and other
+                constructionist design
+                principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
+            -   [Half-baked games as
+                Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Professional frameworks: MDA, Design Patterns and Gameplay
-            Design
-            Patterns](#professional-frameworks-mda-design-patterns-and-gameplay-design-patterns)
-            -   [MDA and conceptual game elements
-                framework](#mda-and-conceptual-game-elements-framework)
-            -   [Design patterns](#design-patterns)
-            -   [Game(play) design patterns](#gameplay-design-patterns)
-            -   [Using Game Design pattern collections and code examples
-                to help novice
-                students.](#using-game-design-pattern-collections-and-code-examples-to-help-novice-students.)
         -   [Design steps frameworks via
             stages](#design-steps-frameworks-via-stages)
-    -   [Responses to Challenges](#responses-to-challenges)
-        -   [Suggestions from UK reports](#suggestions-from-uk-reports)
+        -   [Design patterns](#design-patterns)
+            -   [Game(play) design patterns](#gameplay-design-patterns)
+    -   [Existing responses to
+        challenges](#existing-responses-to-challenges)
+        -   [Digital projects as an inclusive
+            pedaogogy](#digital-projects-as-an-inclusive-pedaogogy)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
-        -   [Open source and community based responses to the
-            challenge](#open-source-and-community-based-responses-to-the-challenge)
+            -   [Computing at schools](#computing-at-schools)
+        -   [Open source, online responses to the
+            challenge](#open-source-online-responses-to-the-challenge)
             -   [Mozilla, an open source
                 toolset](#mozilla-an-open-source-toolset)
-            -   [Coder Dojo and Raspberry Jam - a community responses to
-                the needs of
-                informal](#coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
-            -   [Computing at schools](#computing-at-schools)
-    -   [Synthesis of chapter /
-        discussion](#synthesis-of-chapter-discussion)
-        -   [Problematising distinctions between instruction-based
-            tutorials and unguided approaches - towards guided
-            participation - FOR
-            DISCUSSION](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches---towards-guided-participation---for-discussion)
-        -   [Deficit of cultural processes & appropriate frameworks to
-            support community-based coding for
-            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
-            -   [Supporting roles and social practices to support
-                learners](#supporting-roles-and-social-practices-to-support-learners)
-        -   [Tensions surrounding authenticity of tool
-            use](#tensions-surrounding-authenticity-of-tool-use)
-        -   [Sythetis of current Responses to challenges presented -
-            MOVE
-            LATER?](#sythetis-of-current-responses-to-challenges-presented---move-later)
-        -   [Models of responses to address the
-            problem](#models-of-responses-to-address-the-problem)
-            -   [Finacial challenges](#finacial-challenges)
+        -   [Grass Roots community
+            responses](#grass-roots-community-responses)
+            -   [Code Club, Coder Dojo and Raspberry Jam - a community
+                responses to the needs of
+                informal](#code-club-coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
+    -   [Conclusion](#conclusion)
+        -   [Synthesis of chapter /
+            discussion](#synthesis-of-chapter-discussion)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
-    -   [Conclusion](#conclusion)
-        -   [Recap of what has been
-            covered](#recap-of-what-has-been-covered)
-        -   [Link to the next chapters](#link-to-the-next-chapters)
+        -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
     -   [Barriers to participation in game making practices (explored in
         contextual
@@ -176,3 +152,25 @@
             programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
         -   [Issues of Inclusion and PBL addressed through UDL
             principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
+        -   [MDA and conceptual game elements
+            framework](#mda-and-conceptual-game-elements-framework)
+    -   [Synthesis of chapter / discussion - PREVIOUS
+        VERSION](#synthesis-of-chapter-discussion---previous-version)
+        -   [Problematising distinctions between instruction-based
+            tutorials and unguided approaches - towards guided
+            participation - FOR
+            DISCUSSION](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches---towards-guided-participation---for-discussion)
+        -   [Deficit of cultural processes & appropriate frameworks to
+            support community-based coding for
+            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
+            -   [Supporting roles and social practices to support
+                learners](#supporting-roles-and-social-practices-to-support-learners)
+        -   [Tensions surrounding authenticity of tool
+            use](#tensions-surrounding-authenticity-of-tool-use)
+        -   [Sythetis of current Responses to challenges presented -
+            MOVE
+            LATER?](#sythetis-of-current-responses-to-challenges-presented---move-later)
+        -   [Synthesis and analysis of models of responses to address
+            the
+            problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
+            -   [Financial challenges](#financial-challenges)

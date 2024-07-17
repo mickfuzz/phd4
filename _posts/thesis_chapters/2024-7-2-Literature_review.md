@@ -9,19 +9,20 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
+
 -   [Literature Review](#literature-review)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [Why Make Games?](#why-make-games)
-        -   [Summary of motivations and benefits of (constructionist)
-            game making from
-            reviews](#summary-of-motivations-and-benefits-of-constructionist-game-making-from-reviews)
+    -   [A summary research claims surrounding contructionist
+        gaming](#a-summary-research-claims-surrounding-contructionist-gaming)
+        -   [Motivations and benefits of (constructionist) game
+            making](#motivations-and-benefits-of-constructionist-game-making)
         -   [Alignment of constructionist gaming with PBL benefits &
             21st C & How are games
             different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
         -   [Limits and critiques of constructionist game
-            making](#limits-and-critiques-of-constructionist-game-making)a
+            making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -30,14 +31,15 @@ title: 2. Literature Review
         -   [Defining informal](#defining-informal)
         -   [Game and media making in informal
             communities](#game-and-media-making-in-informal-communities)
-    -   [Barriers to and motivations for participation in game
-        making](#barriers-to-and-motivations-for-participation-in-game-making)
-        -   [Technical barriers - via a case
-            study?](#technical-barriers---via-a-case-study)
-            -   [Use of non-coding tools to make
-                games](#use-of-non-coding-tools-to-make-games)
-            -   [Non coding technical barriers to making
-                games](#non-coding-technical-barriers-to-making-games)
+    -   [Barriers to participation in game
+        making](#barriers-to-participation-in-game-making)
+        -   [Barriers linked to identity and
+            values](#barriers-linked-to-identity-and-values)
+        -   [Technical barriers -](#technical-barriers--)
+            -   [Difficulty of computer programming via
+                coding](#difficulty-of-computer-programming-via-coding)
+        -   [Other barriers to making
+            games](#other-barriers-to-making-games)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Game competitions](#game-competitions)
@@ -55,138 +57,40 @@ title: 2. Literature Review
                 Waves](#semantic-profiles-and-waves)
             -   [PRIMM](#primm)
         -   [Use Modify Create](#use-modify-create)
-        -   [Microworlds as an embodiment of UMC and other
-            constructionist design
-            principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
-        -   [Constructionist design principles explored in the context
-            of
-            Microworlds](#constructionist-design-principles-explored-in-the-context-of-microworlds)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
+        -   [Microworlds](#microworlds)
+            -   [Microworlds as an embodiment of UMC and other
+                constructionist design
+                principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
+            -   [Half-baked games as
+                Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Professional frameworks: MDA, Design Patterns and Gameplay
-            Design
-            Patterns](#professional-frameworks-mda-design-patterns-and-gameplay-design-patterns)
-            -   [MDA and conceptual game elements
-                framework](#mda-and-conceptual-game-elements-framework)
-            -   [Design patterns](#design-patterns)
-            -   [Game(play) design patterns](#gameplay-design-patterns)
-            -   [Using Game Design pattern collections and code examples
-                to help novice
-                students.](#using-game-design-pattern-collections-and-code-examples-to-help-novice-students.)
         -   [Design steps frameworks via
             stages](#design-steps-frameworks-via-stages)
-    -   [Responses to Challenges](#responses-to-challenges)
-        -   [Suggestions from UK reports](#suggestions-from-uk-reports)
+        -   [Design patterns](#design-patterns)
+            -   [Game(play) design patterns](#gameplay-design-patterns)
+    -   [Existing responses to
+        challenges](#existing-responses-to-challenges)
+        -   [Digital projects as an inclusive
+            pedaogogy](#digital-projects-as-an-inclusive-pedaogogy)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
-        -   [Open source and community based responses to the
-            challenge](#open-source-and-community-based-responses-to-the-challenge)
+            -   [Computing at schools](#computing-at-schools)
+        -   [Open source, online responses to the
+            challenge](#open-source-online-responses-to-the-challenge)
             -   [Mozilla, an open source
                 toolset](#mozilla-an-open-source-toolset)
-            -   [Coder Dojo and Raspberry Jam - a community responses to
-                the needs of
-                informal](#coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
-            -   [Computing at schools](#computing-at-schools)
-    -   [Synthesis of chapter /
-        discussion](#synthesis-of-chapter-discussion)
-        -   [Problematising distinctions between instruction-based
-            tutorials and unguided approaches - towards guided
-            participation - FOR
-            DISCUSSION](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches---towards-guided-participation---for-discussion)
-        -   [Deficit of cultural processes & appropriate frameworks to
-            support community-based coding for
-            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
-            -   [Supporting roles and social practices to support
-                learners](#supporting-roles-and-social-practices-to-support-learners)
-        -   [Tensions surrounding authenticity of tool
-            use](#tensions-surrounding-authenticity-of-tool-use)
-        -   [Sythetis of current Responses to challenges presented -
-            MOVE
-            LATER?](#sythetis-of-current-responses-to-challenges-presented---move-later)
-        -   [Models of responses to address the
-            problem](#models-of-responses-to-address-the-problem)
-            -   [Finacial challenges](#finacial-challenges)
+        -   [Grass Roots community
+            responses](#grass-roots-community-responses)
+            -   [Code Club, Coder Dojo and Raspberry Jam - a community
+                responses to the needs of
+                informal](#code-club-coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
+    -   [Conclusion](#conclusion)
+        -   [Synthesis of chapter /
+            discussion](#synthesis-of-chapter-discussion)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
-    -   [Conclusion](#conclusion)
-        -   [Recap of what has been
-            covered](#recap-of-what-has-been-covered)
-        -   [Link to the next chapters](#link-to-the-next-chapters)
-    -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
-    -   [Barriers to participation in game making practices (explored in
-        contextual
-        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
-        -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-        -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Outlining cultural barriers / aspects of game
-            making](#outlining-cultural-barriers-aspects-of-game-making)
-    -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education)
-        -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
-    -   [Context of game making and wider digital making and culture
-        home and informal
-        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
-        -   [On games as a home and informal
-            culture](#on-games-as-a-home-and-informal-culture)
-        -   [Context of Home Education and family
-            learning](#context-of-home-education-and-family-learning)
-    -   [Game making and maker culture in non-formal learning contexts
-        and third
-        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
-        -   [Physical spaces which suit non-formal
-            approaches](#physical-spaces-which-suit-non-formal-approaches)
-            -   [An area of tension to address - limited leaner choice
-                in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
-        -   [Sketchy pedagogies](#sketchy-pedagogies)
-        -   [Funds of knowledge and third
-            space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
-        -   [Game making as a fund of
-            knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
-        -   [Work in non-formal settings drawing on home
-            interests](#work-in-non-formal-settings-drawing-on-home-interests)
-        -   [Mozilla - Teach the Web as context and
-            community](#mozilla---teach-the-web-as-context-and-community)
-        -   [Authentic web technology & Code
-            playgrounds](#authentic-web-technology-code-playgrounds)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
-        -   [Mantle of the Expert - processes drama used in teaching
-            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-        -   [Situating Computational thinking within curricular
-            concerns](#situating-computational-thinking-within-curricular-concerns)
-        -   [Studies exploring CT as an pedagogical framework to support
-            learning computer
-            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding)
-    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
-        -   [Game making studies addressing gender and
-            race](#game-making-studies-addressing-gender-and-race)
-    -   [Project Based Learning (PBL)](#project-based-learning-pbl)
-        -   [Project Based Learning as an inclusive
-            pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
-        -   [Complications with Project Based
-            Learning](#complications-with-project-based-learning)
-        -   [Game making and Project / Problem Based
-            Learning](#game-making-and-project-problem-based-learning)
-        -   [PBL and Authenticity in the domain of teaching
-            programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
-        -   [Issues of Inclusion and PBL addressed through UDL
-            principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
+        -   [Link to the next chapter](#link-to-the-next-chapter)
+
 
 # Literature Review
 
@@ -242,7 +146,7 @@ RQ3 addresses the development of agency, a deeper exploration of which is covere
 solved by design - link with contructionism -->
 
 
-## Why Make Games?
+## A summary research claims surrounding contructionist gaming
 
 <!-- also
     - From Kafai's review (not directly) draw on
@@ -250,11 +154,11 @@ solved by design - link with contructionism -->
     - more general / social / 21st C,
     - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
 
-### Summary of motivations and benefits of (constructionist) game making from reviews
-
 There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013]. It is of value to explore the motivations of gaming making from the constructionist field as a dominant voice in this field before later exploring the limitations of this perspective.
 
-**Summary of motivations and benefits of construstionist game making**
+
+### Motivations and benefits of (constructionist) game making
+
 
 The benefits presented in Kafai and Burke's influential review areas of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues.
 
@@ -327,8 +231,6 @@ To refocus this review, let's return to focus of computational fluency.
 
 ## Context of game making and digital projects at home and other informal settings
 
-
-
 ### Home eduction contextual factors relevant to this study
 
 The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Two broad streams are sometimes framed as pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003]. In terms of pedagogy, popular concepts in home ed circles include unschooling and deschooling. Holt's concept of unschooling [@gray_challenges_2013], highlights the value facilitating learning around of the process of drawing out interests of children in everyday activities.
@@ -348,15 +250,57 @@ Researcher Ito's ethnographic approach to studies of digital use and creativity 
 <!-- However the practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. -->
 
 
-## Barriers to and motivations for participation in game making
+## Barriers to participation in game making
 
-A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that  lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
+### Barriers linked to identity and values
 
-Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education.  [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males.
+A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
 
+Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males.
 
-**Gender related identities:** Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlight the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
+Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlighted the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
 Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
+
+### Technical  barriers -
+
+<!-- via a case study? -->
+
+Techie stuff - perhaps in intro? Or signpost to start of Chapter 4.
+
+#### Difficulty of computer programming via coding
+
+Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
+
+    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
+
+In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
+
+More literature which examines the complexity of language and development environments should be found here.
+
+Complexity of syntax and problem of leading with syntax [@gomes2007learning]
+
+Issues of needing levels of abstraction in learning programming [@gomes2007learning].
+
+Addressing technical barriers
+*Specialist coding tools and computational kits*
+
+There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
+
+**The use of non-coding tools to make games**
+
+To address
+
+GSM
+Unity
+Game Maker  
+
+
+### Other barriers to making games
+
+Other barriers are not limited to the use of computer coding, or identity.
+
+- Lack of what is needed to make a good game.
+
 
 **_Inequality of access to participatory culture communities (Barrier)_**
 
@@ -364,20 +308,6 @@ In these more naturalistic settings, Ito and colleagues note that generative act
 
 To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents.
 
-
-
-### Technical  barriers - via a case study?
-
-Techie stuff - perhaps in intro? Or signpost to start of Chapter 4.
-
-#### Use of non-coding tools to make games
-
-#### Non coding technical barriers to making games
-
-Technical barriers are not limited to the use of computer coding .
-
-- Lack of what is needed to make a good game.
--
 
 ## Programmes working to address challenge
 
@@ -547,8 +477,8 @@ In a study where students use a block based language to develop simulations - th
 - Make things Complex, not Complicated
 - Draw from Student Desires - students will engage more with the material, feeling like the creations are their own.
 
-
-
+**LINK**
+The main concept of UMC is remixing a game to build. Scratch has been instrumental in bringing this methodology into clubs and classrooms as an explicit feature of its online community. FIND SOURCE
 
 <!--
   - Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice ala a Par-son’s Problem greatly reduces cognitive load, especially in activitieswhere lots of choices means lots of blocks. Similarly, giving teachers a “Cheat Sheet" of answers for each choice, scaffolds their abilityto act as a facilitator and debugger.
@@ -563,46 +493,34 @@ In a study where students use a block based language to develop simulations - th
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
 
+### Microworlds
 
-### Microworlds as an embodiment of UMC and other constructionist design principles
-<!-- (generated by chat gpt) -->
+#### Microworlds as an embodiment of UMC and other constructionist design principles
 
-LOGO and Scratch have had a huge influence as have the constructionist design principles
-
-The main concept of UMC is remixing a game to build . Scratch has been instrumental in bringing this methodology into clubs and classrooms as an explicit feature of its online community.
-
-
-Constructionist design principles emerge in tandem with the frequent revision of the tools in question in response to the direction and interest of the community. This form of praxis is illustrated in a good level of detail in Papert's extensive pedagogical writings and the community of researchers and educators clustered around development of scratch and associated pedagogies.
-
-### Constructionist design principles explored in the context of Microworlds
-
+<!-- Constructionist design principles emerge in tandem with the frequent revision of the tools in question in response to the direction and interest of the community. This form of praxis is illustrated in a good level of detail in Papert's extensive pedagogical writings and the community of researchers and educators clustered around development of scratch and associated pedagogies. -->
 
 Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
 
-Mircoworlds embody the constructionist tradition  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
+Mircoworlds can be seen as the germ from which constructionist principles came in to focus  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
 
 <!-- Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. -->
 
 <!-- Instead here CT concepts are heuristics developed from concrete experience.  This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT. -->
 
 
-Papert argued that microworlds could help students develop computational thinking skills by providing them with opportunities to experiment with computational processes and to reflect on their own thinking.
+Papert argued that microworlds could help students develop computational thinking skills by providing them with concrete objects and opportunities to experiment with computational processes and to reflect on their own thinking. Via microworlds, students  engage in hands-on learning, to develop a deeper and more meaningful understanding of the concepts they were studying.
 
 <!-- In addition to the software based tool of the microworld, the social context is key to the whole process. -->
 
-Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
-
 While, examples of a Microworlds are diverse [@rieber_microworlds_2004], a Turtle drawing world using  LOGO can be used here as an example. In the Mathland of the turtle which speaks only LOGO, children are drawn to speak LOGO to progress. The affordances of the physical turtle provide visible motivation.
-
-
-He argued that by working with microworlds, students could engage in hands-on and minds-on learning, which would help them to develop a deeper and more meaningful understanding of the concepts they were studying.
 
 The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1].
 
 Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
 
+Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
 
-### Half-baked games as Microworlds
+#### Half-baked games as Microworlds
 
 The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
 
@@ -629,59 +547,35 @@ Bring in limits  and extension of research on pair programming to wider groups /
 
 
 
-### Professional frameworks: MDA, Design Patterns and Gameplay Design Patterns  
-
-
-#### Design steps frameworks via stages
+### Design steps frameworks via stages
 
 Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@mouza_imagining_2013; @resnick_all_2007; @winarno_steps_2020-1].
 
 A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
-Ask: Identify the Need & Constraints;
-Research the Problem;
-Imagine: Develop Possible Solutions;
-Plan: Select a Promising Solution;
-Create: Build a Prototype;
-Test and Evaluate Prototype; and Improve: Redesign as Needed
 
-This has been adapted by computing educators elements of are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015].
+    Ask: Identify the Need & Constraints;
+    Research the Problem;
+    Imagine: Develop Possible Solutions;
+    Plan: Select a Promising Solution;
+    Create: Build a Prototype;
+    Test and Evaluate Prototype; and Improve: Redesign as Needed
 
+While the value of design thinking stages for educators planning sessions seems clear, there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products.  
 
-There is less clarity about if and how the stages could be used by learners to scaffold their design process.   
-(critique of this in terms of writing structures stages at primary )
+Elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015]. However little guidance is provide and not stream really followed up unlike the focus on computational thinking [@sentance_teachers_2015]
 
+Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communties to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective.
 
+One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
 
+A wider review of design framework in STEM settings details discussion of varied definitions of stages themselves but less relating to the impact of the pedagogical use of design stages on learners [@winarno_steps_2020-1].
 
-
-
-#### MDA and conceptual game elements framework
-
-The MDA framework has been created from games research with an aim to help define
-
-The Mechanics element of the framework has much in common with GDPs. The different is explored by researchers [@olsson2014conceptual].
-
-The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
-The levels of abstraction of
+The authours, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
+ADD TO THE PROBLEMS STATEMENT.
 
 
 
-#### Design patterns
-
-<!-- NOTE - I think there is material to copy and paste here. -->
-
-
-#### MDA and conceptual game elements framework
-
-The MDA framework has been created from games research with an aim to help define
-
-The Mechanics element of the framework has much in common with GDPs. The different is explored by researchers [@olsson2014conceptual].
-
-The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
-The levels of abstraction of
-
-
-#### Design patterns
+### Design patterns
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
 
@@ -707,20 +601,17 @@ Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation re
 Their research, which involved young people, builds on related research with adults with the explicit goal of learning game design. One product of this research is a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
 
 
-MOVED TO LIT REVIEW FROM CHAPTER 5
+In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game
+The principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019]
+The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
 
-In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game called Stringforce. It is useful to compare the supports and approach of Eriksson's Stringforce study with that of the 3M intervention of this study.
-
-The overall goal of the analysis of GDPs also differ, in the 3M study the principle goal is analysis of the use of GDPs by learners to aid their goals in creating their own games. In Eriksson's study the principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019]
-The Stringforce study involved learner analysis of games, the ability to change level design via graphical editor and co-design of proposed conceptual changes to existing games. Unlike 3M it did not involved the learners then adding new patterns to games using code.
-
-One similarity is the number of patterns presented to learners. In this iteration of the study 3M presented 20 patterns in the menu of options and the Stringforce study selected 14. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
+The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
 
 
-#### Using Game Design pattern collections and code examples to help novice students.
+**Using Game Design pattern collections and code examples to help novice students.**
 
 
-**There is evidence in literature that the use of a collection of design patterns, while primarily used in professional settings, can help barriers faced by novice coders.**
+The use of a collection of design patterns, while primarily used in professional settings, can help barriers faced by novice coders.
 
 Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
 The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
@@ -761,31 +652,22 @@ Could move some of this to the results discussion -
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
 
+## Existing responses to challenges
 
+The scope of this section needs clarifying. While this study takes place in a non-formal setting, the overall scope of the research questions address, in particular the development of computational fluency, is also relevant to formal settings. Thus, some of the following sections do then address formal provision.
 
+Several reports have produced recommendation for school practice. Some of which are particularly relevant to this study's focus on supporting a project-based approach to making a digital game. These recommendations and evaluation of their uptake is integrated in the following sections.
 
+### Digital projects as an inclusive pedaogogy
 
+Livingstone's [@livingstone_next_2011] report focused on providing the UK games and animation industry with new talent, recommended that to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to take digital-related subjects.
 
+The After the Reboot report [@waite_pedagogy_2017], suggested game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.
 
-## Responses to Challenges
+WHERE FOR THIS??
+Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
-### Suggestions from UK reports
-
-As outline in the introduction varied reports have suggested similar recommendation for school practice.
-
-The RSA report [] built on a previous report focused on providing the UK games and animation industry with the talent needed to succeed [@livingstone_next_2011].
-
-The top recommendations were to include computer science in core curriculum, introduce a new Computing GCSE (a general exam for 16 year olds before they progress to more specialised study) exam, offer bursaries for computing teachers and to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to the subject.
-
-Research on inclusive approaches to digital media production  explored, outlined in Chapter 2, highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
-
-
-**Games in Schools**
-
-THIS IS INTRO - SO DEVELOP OR DROP IT
-The After the Reboot report [@waite_pedagogy_2017], returned to the subject of game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.  Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-
+Research on inclusive approaches to digital media production explored,  highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
 
 
 
@@ -793,13 +675,25 @@ The After the Reboot report [@waite_pedagogy_2017], returned to the subject of g
 
 The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
 A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES.
-BUT NOT TOO MUCH
+
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES. BUT NOT TOO MUCH
+
 While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools.
 
 
-### Open source and community based responses to the challenge
+#### Computing at schools
 
+While based on formal education. It is worth returning to this community and the challenge of computing in schools.
+
+Coding, new for many teachers, a great response from those involved.
+
+
+
+### Open source, online responses to the challenge
+
+The promise of Connected Learning -
+
+this was part of the narrative
 
 #### Mozilla, an open source toolset
 
@@ -813,148 +707,37 @@ In 2015 I contributed a short line course called Quacking Javascript to this web
 
 There were limits to the take up of the curriclum but the Thimble community was active while it lasted and created some good resources.
 
-#### Coder Dojo and Raspberry Jam - a community responses to the needs of informal
+
+### Grass Roots community responses
+
+FCL worked to expose limits to the online resources and communities.
+
+#### Code Club, Coder Dojo and Raspberry Jam - a community responses to the needs of informal
 
 A grass roots approach drawing on enthusiasts.
 
 A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
 
-Both projects were subsumed into the RPI foundation and never seen again.
+In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches, the resources provided to support clubs,  are nearly exclusively instructional in design.
 
+Although research shows that only a small number of code club respondents used such resources [@aivaloglou_how_2019], preferring an less-structured approach, which is therefore not supported.
 
-#### Computing at schools
 
-While based on formal education. It is worth returning to this community and the challenge of computing in schools.
+All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
 
-Coding, new for many teachers, a great response from those involved.
+## Conclusion
 
 
+### Synthesis of chapter / discussion
 
+A shorter summary leading up to the detailed problem statement of the thesis.  
 
-<!-- One of the recommended strategies is a Game Jam which focuses on real life issues.
-https://www.gamesforchange.org/blog/2017/08/02/get-your-copy-of-the-the-game-jam-guide/
--->
+Including some of the following elements
 
-
-
-## Synthesis of chapter / discussion
-
-**Building learner identities to address Inequalities**
-
-One significant element of in this process is learner perception of their own limits.
-EXPLORE RESEARCH HERE.
-
-### Problematising distinctions between instruction-based tutorials and unguided approaches - towards guided participation - FOR DISCUSSION
-
-ROGOFF AND THIRD WAY - EXISTING ACTIVITY
-
-Even with access to resources and critiques of pure discovery learning are  valid [@mayer_should_2004].
-
-On the other end of the spectrum, tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
-
-Code snippets are often interwoven with text explaining the function of the code constructions.
-
-The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
-
-Critique of instruction...
-
-In short there are concerns with reproduction of information as a goal for varied reason but authenticity of experience and resulting negative on effects on motivation and participant agency are of particular relevance to this study.  
-
-
-### Deficit of cultural processes & appropriate frameworks to support community-based coding for beginners  
-
-There is a lack of knowledge of cultural processes & appropriate frameworks to structure a project / community based approach  
-
-There is no consensus of what abstract concepts support development of coding practices
-
-There is a also a need for concrete frameworks for novices in initial stages, that is understandable and relatable.
-
-Thus, not wanting to detract from abstract frameworks, or set up a false dichotomy between approaches, there is still a need for more concrete frameworks that work in tandem with PBL methods.
-
-These framweorks can be useful for diverse reasons: providing useful navigation in terms of pedagogy pedagogy, supporting positive affect in crucial early stages, building positive identity as a code creator, and aligning with UDL framework and recommendations for inclusive practice.
-
-
-#### Supporting roles and social practices to support learners
-
-The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input
-[@kirschner_why_2006; @kollar_collaboration_2006]
-
-I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling
-
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home.
-
-We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
-
-
-### Tensions surrounding authenticity of tool use
-
-**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
-
-Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter - e.g.  literacy, maths, science and history -  and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
-
-This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
-
-PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL  The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning [find support]. One advatange of working with digital tools is that if issues of complexity and cost can be addressed access to laptops and the internet allow learners to use very similar production tools to professionals.
-
-
-
-
-
-<!-- - audience
-- tools
-- processes (professional and peers ?)
-- shared concepts - link to GDPs as a big one -->
-  <!-- An unusual approach so why?
-  - involvement with mozilla / teach the web
-  - authenticity - link between developer community and education, global in scope
-  - can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
-  other unexpected Benefits
-  - could bring in other web creation resource, piskel, -->
-
-Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
-
-<!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
-
-
-### Sythetis of current Responses to challenges presented - MOVE LATER?
-
-- New curriculum
-- bursaries
-- CPD
-- CAS and community responses
-- tapping into the enthusiast maker culture
-
-### Models of responses to address the problem
-
-STEM Learning NCCE - teachcomputing.org - How did this develop?  
-
-Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
-
-CAS are supported by BCS and direct help from gov? The grass roots resource creation .
-
-Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
-
-Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
-But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
-
-#### Finacial challenges
-
-**Research / University context**
-
-- University partnership context. Service learnings.
-- Examples like Scratch with MiT. Barefoot computing which was Kent?
-- Service learning to support code clubs
-
-**Civil society  context**
-
-Charitable foundations funding provides a great deal of funding in this area.
-
-Scratch and MIT labs benefit from x.
-
-Mozilla as benefit for the teach the web.
-
-Corporate funding code.org. (Google)
-
+- **Guided participation: **There is a stream in the research which critiques not-only instruction-based approaches but also child-led discovery within magically designed  tools and communities. Rogoff's take on guided participation as between these poles informs this study.
+- **Tensions surrounding authenticity of tool use:** my desire to link with developer communities and the world of open sources introduces tensions.
+- **Lack of specific pedagogies in this zone not exclusive to this domain:** given Rogoff's perspective, and research on PBL approaches , (flexible - explain) frameworks are useful. While this review has identifies some, more are useful.
+- **Structural challenges continue but the stuggle continues:** schools, curriculum etc, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
 
 ### The problem statement of the thesis
@@ -964,15 +747,51 @@ This section gives a further overall synthesis of the problems of the area based
 - Discussion of implications of synthesis of the Literature review
 - Description on  how the RQs frame the problem to help an investigation via the data gathered.
 
-## Conclusion
 
-### Recap of what has been covered
 
-x, y z
+### Link to the next chapter
 
-### Link to the next chapters
+Having explored the remit of the problem statement, and the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, pedagogy and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
 
-Recap on chapter structure, but avoid overlap with Introduction which has a similar section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1568,11 +1387,6 @@ Web-based or software activities include game making, meme creation, hobby websi
 <!-- Researchers Black-Hawkins and Florian [-@black-hawkins_classroom_2012] note that many teachers report lacking the knowledge to effectively teach children with SEND issues.  -->
 
 
-
-
-
-
-
 #### Game making and Project / Problem Based Learning
 
 Game making can be seen as an example of the kind of wicked problem favoured in project-oriented problem based learning (referred to from now on as PBL) (Mateas and Stern, 2005). PBL has a variety of forms, an exploration of which is beyond the scope of this study (Aditomo et al., 2013). The most pertinent areas of PBL of to this study are the over-arching focus on authentic learning environments and the process of building learner autonomy within a structured and supportive approach [@hernandez_aalborg_2015]
@@ -1616,3 +1430,137 @@ One area of UDL that teachers can implement straightforwardly is to represent co
 The researchers outline how the three stages of CRA (Concrete, Representational and Abstract) align with key UDL principles, most specifically multiple ways to represent knowledge to aid learner perception and comprehension. In short, first teachers introduce a physical, concrete model of the concept, then progress to iconic forms, for example graphics or pictures; finally learners work with more abstract models of the concept. The CRA framework is an example of concept popular in Mathematics research and practice called Concreteness Fading where concepts are introduced in concrete examples and then learners are supported to understand and represent them in more abstract ways.
 
 When reading about different approaches to teaching computing the terms concrete and abstract are used commonly. For example the concrete practice of coding is a good way for learners to work with more abstract computing concepts. The following section explores the utility of these terms to explore inclusive approaches to teaching especially in relation to an understanding of Computational Thinking.
+
+
+
+#### MDA and conceptual game elements framework
+
+The MDA framework has been created from games research with an aim to help define
+
+The Mechanics element of the framework has much in common with GDPs. The different is explored by researchers [@olsson2014conceptual].
+
+The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
+The levels of abstraction of
+
+
+
+
+## Synthesis of chapter / discussion - PREVIOUS VERSION
+
+**Building learner identities to address Inequalities**
+
+One significant element of in this process is learner perception of their own limits.
+EXPLORE RESEARCH HERE.
+
+### Problematising distinctions between instruction-based tutorials and unguided approaches - towards guided participation - FOR DISCUSSION
+
+ROGOFF AND THIRD WAY - EXISTING ACTIVITY
+
+Even with access to resources and critiques of pure discovery learning are  valid [@mayer_should_2004].
+
+On the other end of the spectrum, tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
+
+Code snippets are often interwoven with text explaining the function of the code constructions.
+
+The variety of audience and motivations of writer can account for the variation in form. Researcher also point out the limits of online coding tutorials namely that: "few explain when and why a particular concept is useful in programming; and few provide guidance for common errors" [@kim_pedagogical_2017, p. 325].
+
+Critique of instruction...
+
+In short there are concerns with reproduction of information as a goal for varied reason but authenticity of experience and resulting negative on effects on motivation and participant agency are of particular relevance to this study.  
+
+
+### Deficit of cultural processes & appropriate frameworks to support community-based coding for beginners  
+
+There is a lack of knowledge of cultural processes & appropriate frameworks to structure a project / community based approach  
+
+There is no consensus of what abstract concepts support development of coding practices
+
+There is a also a need for concrete frameworks for novices in initial stages, that is understandable and relatable.
+
+Thus, not wanting to detract from abstract frameworks, or set up a false dichotomy between approaches, there is still a need for more concrete frameworks that work in tandem with PBL methods.
+
+These framweorks can be useful for diverse reasons: providing useful navigation in terms of pedagogy pedagogy, supporting positive affect in crucial early stages, building positive identity as a code creator, and aligning with UDL framework and recommendations for inclusive practice.
+
+
+#### Supporting roles and social practices to support learners
+
+The tension between autonomous participation in a naturalistic on structured facilitated support is one that is also explored in the extensive literature exploring project based approaches. Here advocates of this approach promote the value of open-ended, authentic projects while critics highlight that without support that collaboration is difficult between learners and thus needs to be scaffolded with structured activities and taught input
+[@kirschner_why_2006; @kollar_collaboration_2006]
+
+<!-- I mention this as the literature surrounding the mature field of Project Based Learning may be a good source of inspiration for tactics to address issues of scaling -->
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home.
+
+We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments. It can be tempting to see the process of hanging out line in the frame of Ito's online and social participation in informal communities as infinitely replicable. Such online communities are out there. It is up to learner to navigate and extract learning and skills as they see fit.
+
+
+### Tensions surrounding authenticity of tool use
+
+**Key message: authentic tools and processes can increase agency but facilitators should use them with careful curation - as there are negative effects too**
+
+Rainer, Bolton and other practitioner-researchers agree on the potential and value of exploring other subject matter - e.g.  literacy, maths, science and history -  and undertaking authentic project work within a drama frame [-@rainer_drama_2012].
+
+This authenticity has several relevant dimensions in this study including: audience; toolset; and supportive processes / documentation. This section explores the these dimensions of authenticity and the resulting relationships with agency of the learners.
+
+PBL is adapted to schools in many settings thus, authenticity is "on a scale" in PBL  The concept of an authentic-as-possible project is a key tool for educators to support game making via project based learning [find support]. One advantage of working with digital tools is that if issues of complexity and cost can be addressed access to laptops and the internet allow learners to use very similar production tools to professionals.
+
+
+<!-- - audience
+- tools
+- processes (professional and peers ?)
+- shared concepts - link to GDPs as a big one -->
+  <!-- An unusual approach so why?
+  - involvement with mozilla / teach the web
+  - authenticity - link between developer community and education, global in scope
+  - can use a cut and paste, remix, irreverant approach - link to media activist / hacktivist pirate cultures.
+  other unexpected Benefits
+  - could bring in other web creation resource, piskel, -->
+
+Research on project based learning using technology supports the motivational and inspirational factors of authentic tools in the fields of STEM computing [@garneli_computing_2015-1; @humble_use_nodate], media making and STEM in general. [IF SO FIND THIS ]
+
+<!-- The inspirational factor of _lifting the lid_ was reflected in a conversation among participants communicating a sense of awe of how much code must be involved in a professional game based on the relative complexity of the code of their simple game. -->
+
+
+### Sythetis of current Responses to challenges presented - MOVE LATER?
+
+- New curriculum
+- bursaries
+- CPD
+- CAS and community responses
+- tapping into the enthusiast maker culture
+
+### Synthesis and analysis of models of responses to address the problem
+
+
+- Foundations support innovation and therefore are difficult to maintain
+- Enthusiast responses are hard to maintain in face of conflicting Factors
+- CPD, and supporting in this case has been offered but focus is on the curriculum, little resources support
+
+STEM Learning NCCE - teachcomputing.org - How did this develop?  
+
+Reduction in grass roots responses. And less of a focus on directly teaching pedagogy. More meta in approaches.
+
+CAS are supported by BCS and direct help from gov? The grass roots resource creation .
+
+Raspberry Pi foundation have incorporated previously independent organisations Code Club and Coder Dojo and Raspberry Jam which mobilised volunteers to devliver a grass-roots enthusiast events.
+
+Financial elements in general, lack of specialist funding addressed by training CPD funding for schools.
+But the effectiveness of this  is limited in teh following ways. Time, enthusiasm,  
+
+#### Financial challenges
+
+**Research / University context**
+
+- University partnership context. Service learnings.
+- Examples like Scratch with MiT. Barefoot computing which was Kent?
+- Service learning to support code clubs
+
+**Civil society  context**
+
+Charitable foundations funding provides a great deal of funding in this area.
+
+Scratch and MIT labs benefit from x.
+
+Mozilla as benefit for the teach the web.
+
+Corporate funding code.org. (Google)
