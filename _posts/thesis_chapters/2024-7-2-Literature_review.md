@@ -21,7 +21,7 @@ title: 2. Literature Review
             21st C & How are games
             different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
         -   [Limits and critiques of constructionist game
-            making](#limits-and-critiques-of-constructionist-game-making)
+            making](#limits-and-critiques-of-constructionist-game-making)a
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -40,20 +40,20 @@ title: 2. Literature Review
                 games](#non-coding-technical-barriers-to-making-games)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
-        -   [Game competitions and game
-            jams](#game-competitions-and-game-jams)
+        -   [Game competitions](#game-competitions)
+        -   [Educational Game Jams](#educational-game-jams)
         -   [Coding club(houses)](#coding-clubhouses)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
         -   [Link to next section - pedagogies exist but more are
             needed](#link-to-next-section---pedagogies-exist-but-more-are-needed)
-    -   [Pedagogies for project-based game making via
-        coding](#pedagogies-for-project-based-game-making-via-coding)
-        -   [What is a pedagogy?](#what-is-a-pedagogy)
-        -   [Curriculum / abstract concepts, Semantic Waves and
-            PRIMM](#curriculum-abstract-concepts-semantic-waves-and-primm)
-        -   [PRIMM](#primm)
-        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
+    -   [Pedagogies to support game making via
+        coding](#pedagogies-to-support-game-making-via-coding)
+        -   [Curricular concepts, semantic waves and
+            PRIMM](#curricular-concepts-semantic-waves-and-primm)
+            -   [Semantic Profiles and
+                Waves](#semantic-profiles-and-waves)
+            -   [PRIMM](#primm)
         -   [Use Modify Create](#use-modify-create)
         -   [Microworlds as an embodiment of UMC and other
             constructionist design
@@ -65,19 +65,18 @@ title: 2. Literature Review
             Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Design Patterns and Game Design Patterns in professional
-            context](#design-patterns-and-game-design-patterns-in-professional-context)
+        -   [Professional frameworks: MDA, Design Patterns and Gameplay
+            Design
+            Patterns](#professional-frameworks-mda-design-patterns-and-gameplay-design-patterns)
+            -   [MDA and conceptual game elements
+                framework](#mda-and-conceptual-game-elements-framework)
+            -   [Design patterns](#design-patterns)
+            -   [Game(play) design patterns](#gameplay-design-patterns)
             -   [Using Game Design pattern collections and code examples
                 to help novice
                 students.](#using-game-design-pattern-collections-and-code-examples-to-help-novice-students.)
-    -   [Pedagogical resources in the form of professional practices and
-        frameworks](#pedagogical-resources-in-the-form-of-professional-practices-and-frameworks)
         -   [Design steps frameworks via
             stages](#design-steps-frameworks-via-stages)
-            -   [Broad design based
-                approaches](#broad-design-based-approaches)
-        -   [MDA and conceptual game elements
-            framework](#mda-and-conceptual-game-elements-framework)
     -   [Responses to Challenges](#responses-to-challenges)
         -   [Suggestions from UK reports](#suggestions-from-uk-reports)
         -   [Resource provision and CPD](#resource-provision-and-cpd)
