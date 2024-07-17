@@ -258,6 +258,20 @@ There are several notable reviews of spanning broad motivations and impact of ma
 
 The benefits presented in Kafai and Burke's influential review areas of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues.
 
+**Underlying pedagogy**
+
+An open ended, child-led exploration
+
+It does take some from from wider design frameworks.
+
+Michel Resnick, a researcher involved in the Scratch project at MIT illustrates an approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity.
+
+<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine   -->
+
+
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
+
 
 ### Alignment of constructionist gaming with PBL benefits & 21st C & How are games different
 
@@ -617,7 +631,44 @@ Bring in limits  and extension of research on pair programming to wider groups /
 
 ### Professional frameworks: MDA, Design Patterns and Gameplay Design Patterns  
 
-NOTE - I think there is material to copy and paste here.
+
+#### Design steps frameworks via stages
+
+Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@mouza_imagining_2013; @resnick_all_2007; @winarno_steps_2020-1].
+
+A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
+Ask: Identify the Need & Constraints;
+Research the Problem;
+Imagine: Develop Possible Solutions;
+Plan: Select a Promising Solution;
+Create: Build a Prototype;
+Test and Evaluate Prototype; and Improve: Redesign as Needed
+
+This has been adapted by computing educators elements of are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015].
+
+
+There is less clarity about if and how the stages could be used by learners to scaffold their design process.   
+(critique of this in terms of writing structures stages at primary )
+
+
+
+
+
+
+#### MDA and conceptual game elements framework
+
+The MDA framework has been created from games research with an aim to help define
+
+The Mechanics element of the framework has much in common with GDPs. The different is explored by researchers [@olsson2014conceptual].
+
+The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
+The levels of abstraction of
+
+
+
+#### Design patterns
+
+<!-- NOTE - I think there is material to copy and paste here. -->
 
 
 #### MDA and conceptual game elements framework
@@ -710,33 +761,6 @@ Could move some of this to the results discussion -
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
 
-
-### Design steps frameworks via stages
-
-Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@mouza_imagining_2013; @resnick_all_2007; @winarno_steps_2020-1].
-
-A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
-Ask: Identify the Need & Constraints;
-Research the Problem;
-Imagine: Develop Possible Solutions;
-Plan: Select a Promising Solution;
-Create: Build a Prototype;
-Test and Evaluate Prototype; and Improve: Redesign as Needed
-
-This has been adapted by computing educators elements of are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015].
-
-Michel Resnick, a researcher involved in the Scratch project at MIT illustrates an approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity.
-
-![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
-
-
-Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
-
-
-There is less clarity about if and how the stages could be used by learners to scaffold their design process.   
-(critique of this in terms of writing structures stages at primary )
-
-Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
 
 
