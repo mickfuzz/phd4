@@ -1272,11 +1272,10 @@ Other relevant objectives of re include: a desire to create a useful learning ex
 
 ![Illustration 4.x - Broad Environmental Activity Systems  ](./Pictures/At_dia_3_v2.png){width=95%}
 
-The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay takes a similar approach [@lecusay_telementoring_2015] when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system. The concept of idioculture is used in this study  to deepen the description of the community dimension of 3GAT.
+The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay takes a similar approach [@lecusay_telementoring_2015] when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system. The concept of idioculture is used in this study to deepen the description of the community dimension of 3GAT.
 
 
 <!-- NOTE - WHY IS THE CONCEPT OF IDEOCULTURE USEFUL HERE? -->
-
 
 <!-- NOTE - CAN ADD THE OBJECTIVES / LEADING ACTIVITIES INTO THE ARROWS ON THE DIAGRAM -->
 <!-- While the limited example above of Toby's activity illustrates fun, additional data from interviews with this child and family back the broad goals above. [develop - perhaps an appendix or quotes] -->
@@ -1459,7 +1458,8 @@ NOTE - Explore how performed in line with other research - e.g. DBR (Barab) and 
 
 #### Applying activity theory to surface contradictions and design tensions experienced by participants and facilitator/s
 
-The followings sections use a process of analysis of contradictions between system elements of the activity systems outlined above. The processes is a formative intervention (explored in chapter three) in that the surfacing of tensions due to changes in the learning design over time are examined. As noted in the introduction, this chapter explores the following areas of contradictions: contradictions in the technical tool use of design, contradictions shaping the development of supporting documentation, contradictions to do with issues of identity and the cultural dimension of participation.
+The followings sections use a process of analysis of contradictions between system elements of the activity systems outlined above. The processes is a formative intervention (explored in chapter three) in that the surfacing of tensions due to changes in the learning design over time are examined. As noted in the introduction, this chapter explores t.
+he following areas of contradictions: contradictions in the technical tool use of design, contradictions shaping the development of supporting documentation, contradictions to do with issues of identity and the cultural dimension of participation.
 
 <!-- I chart the detail of the evolution of resources and other responses used helps illuminate broader, systemic issues concerns in the overall activity [@barab_using_2002]. -->
 
@@ -1467,7 +1467,7 @@ The followings sections use a process of analysis of contradictions between syst
 
 ## Parked to replace or remove or rework
 
-
+<!--
 #### Why not use constructivism / constructionism
 
 COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
@@ -1491,4 +1491,4 @@ Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
 
 It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
 
-Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
+Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology. -->

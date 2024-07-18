@@ -72,23 +72,17 @@ title: 3. Theoretical Framework
 chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 
 
-## Research Questions - April 2024
+### Research Questions - July 2024
 
-~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
-
-1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of coding practices with novices?
+1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
+2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
 <!-- ### Coding based on chapter 4 -->
 
 <!-- NOTE  I would say no - too complex -->
 
-<!-- Drama
-- 4.a.1 Drama process and reflection (all did part of it but code references also to mentions of it)
-- 4.a.2 Engagement with secret and public missions within drama
-- 4.a.3 Engagement with live chat - for social activity, and to ask questions out of class
-- 4.a.4 Documentation / support within role - via email -
+<!--
 
 By Design
 - 4.b.1 Half baked template & code playgrouds and phaser - (hard to code for as quite constant) cf rapid prototyping
@@ -114,9 +108,7 @@ Emergent
 This chapter describes:
 
 - guiding theoretical framework
-- the methods that make up the methodology
-
-
+- key methods approaches that contribute the methodology
 
 The methdology of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR)
 
@@ -125,7 +117,6 @@ The methdology of this chapter is closely aligned with the activity theory conce
 ## Socio-cultural approach and Cultural historical activity theory (CHAT)
 
 AT sits within a sociocultural approach to educational theory.
-
 
 <!-- The following terms and concepts have already been explored in the literature review.
 - Activity - as unit of analysis  Vygotsky
@@ -143,7 +134,6 @@ The focus of this study is on the construction of shared meaning and practices a
 
 Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
 
-
 An assumption underlying the approach  is " abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or   the learners’ belief that they are likely to do something meaningful with that which they are learning."[@barnett_ecosystem_2019]
 REWRITE
 
@@ -154,35 +144,86 @@ This primacy of context described above underlies much of the social turn of edu
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research.
 
+### Conceptualising AT via foundational theory
+
+Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context. Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive]. The conception of the relation between subject, object and mediating tools was formuated into a trianglar representation.
+
+![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
+
+The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools. The process is also seen as mutual.  Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
 
 
-### Conceptualising AT via foundational theory - IN INTRO OR LIT REVIEW?
+**Evolution of AT**
 
-Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
 
-<!-- NOTE  - is it a good ideat to be using domain specific literature to support? -->
+The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. Of particular importance are the role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
-- Vygotsky (and friends) - foundational ideas - activity as unit of analysis - mediation via objects and ideas [@luriia1976cognitive]
+<!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
 
-- Wertsch and Cole - community and context as vital in studies, role of cultural mediation in development, role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
+**Selecting activity systems as units of analysis**
 
-<!-- - Rogoff - community of learners and 3 foci as a way to frame this in education -->
+The process of finding a germ cell/ unit of analysis is seen as a productive technique of explorative activity theory research (with what aim?). The work of Blunden [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014] provides as comprehensive justification the utility of the process. He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
-<!--
-// don't focus in on DBR save that... -->
-<!-- NOTE - MOVE TO METHODOLOGY
-### Activity as Unit of Analysis
-Quickly rephrase from a Rogoff chapter. Keep it snappy. -->
+<!-- Mid-level construct of design / patterns heuristics [] -->
 
-The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy.
+    ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
 
-This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation.
+In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth. RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Chapter 4 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
+
+Turning to the developmental aspect, a granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002].
 
 
+<!-- #### TO MERGE UP - Principle: Finding suitable dimensions and units of analysis by focusing on objects of activity
+
+**Scopes of analysis, three planes approaches and other learning community methods** -->
+
+<!-- EXPLAIN IN JUST ENOUGH DETAIL HERE.
+IS THIS NOT COVERED IN CHAPTER 5 - SIGNPOST?
+-->
+
+<!-- This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity [@ rogoff_observing_1995]. -->
+
+<!-- The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question. -->
+
+<!-- When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty. -->
+
+While units of analysis are often chosen on an broad scope to allow for sociological concepts to emerge, Blunden makes a pragmatic proposal to use projects as they key unit of analysis [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014] . His rationale is INCLUDE SUMMARY OF RATIONALE HERE
+
+
+**Activity, Actions and Operations:** To describe these wider activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which consitue the broader units of actity. Kutti [@kuutti_activity_1995]. describes actions in the following way.  
+
+  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent."
+
+The concept of fluency is key to this study, as such it is important to be able to locate and describe these chains of operations and actions in detail. While game making as a community learning project  is clearly as an important activity system in this study, to answer alll the research questions of this thesis, it is important to also examine interpersonal activity in more detail. In order to do this an activity system of even smaller scope is examined in greater detail in Chapter 6 on the use of game design patterns by participants.
+
+<!-- In the case of this study, activity can be seen as different planes; wider educational context and the culture of the whole program; guided activity; specific actions and operations carried out on a personal level. -->
+
+
+
+<!-- Here the term project here communicates a concrete implementation of a planned goal and also a sense that all elements of key activity are present at this level e.g. all stages of the design cycle (and another example?).  This sentiment is echoed by a parent when noticing that the documentation on one GDPs involved several distinct stages - "It’s like a project in itself really!" -->
+
+<!-- At this scope, for participants implementing . -->
+
+
+
+### Third generation activity theory
+
+An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
+
+![](./Pictures/At_dia_5_basic_v1.png){width=90%}
+
+As an example based on the overall study we can include the following diagram and description.
+
+![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+
+There is some complexity and variance in the terminology used when decribing the object of activity of the activity system. Some theorists take a material view to describe the object as the physical of conceputal object that is being worked on and transformed by the activity. Other work, to reflect a sometimes complex environment when more than one physical or conceptual object is at play, takes as the object, an objective of an activity. In other words using the purpose or driving goal of the activity as synonym for object. Because of the complexity of objects being acted on in this study, I favour the second interpretation by default in this writing.  
 
 ## Design-based research
 
 Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+
+Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
 
 Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
 
@@ -248,37 +289,6 @@ One of Engestrom's critiques of DBR [@engestrom_learning_2009] is that it lacks 
 For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
 
 
-#### Principle: Finding suitable dimensions and units of analysis by focusing on objects of activity
-
-**Scopes of analysis, three planes approaches and other learning community methods**
-
-<!-- EXPLAIN IN JUST ENOUGH DETAIL HERE.
-IS THIS NOT COVERED IN CHAPTER 5 - SIGNPOST?
--->
-
-This concept of shifting focus from individual activity to that of an expanded and shared object has parallels with more observational research on collective activity [@ rogoff_observing_1995].
-
-<!-- The key difference is the intervention of the researcher to create space, time and circumstances to facilitate the shift and production of new understandings of the activity in question. -->
-
-<!-- When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty. -->
-
-In the case of this study, activity can be seen as different planes; wider educational context and the culture of the whole program; guided activity; specific actions and operations carried out on a personal level.
-
-To answer this study's RQs, all three aspects and their interactions need to be investigated.  
-
-Blunden makes a pragmatic proposal to use the project as they key unit of activity [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014]  
-
-While game making as a community process is clearly as an important activity system to study, chapters four and five explores the value of interpersonal activity around the goal of implementing discrete game design patterns.
-
-**Activity, Actions and Operations**
-
-<!-- EXPLAIN IN JUST ENOUGH DETAIL HERE. -->
-
-Following the terms and concepts used by Leontiev [-@leontiev_activity_2009],
-
-Move summary of Activity, actions, operation (as per Barab here), link to GDP as a project / unity of activity.
-
-The concept of activity as a primary unit for analysis to research community activity was outlined.
 
 
 <!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
@@ -484,15 +494,11 @@ For the purposes of this study, I agree with the view that the nature of agency 
 
 ## SUMMARY OF  - Specific methods used in this study
 
-NOTE - MAKE THIS SECTION MUCH SNAPPER - PERHAPS EXPLAIN HOW THEY CONTRIBUTE TO THE THESIS.
-
 This section examines the use of methods aligned with activity theory and DBR to help conceptualise and analyise the learning environment and processes.
 
-The methods outlined in this section combine to create a methodology aligned with formative intervention and DBR principles.
-
-
+<!--
 MAKE MORE SPECIFIC TO THIS INTERVENTION AND RESERACH QUESTIONS.
-FIND MORE DIRECT PARALLELS IN RESEARCH CASE STUDIES? 5D FOR EXAMPLE
+FIND MORE DIRECT PARALLELS IN RESEARCH CASE STUDIES? 5D FOR EXAMPLE -->
 
 
 As the game making activity for participants is novel there are few if any established community or working processes.
@@ -652,22 +658,6 @@ Cole's recent work address the use of FoK to form ideocultures in educational in
 The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
 
 
-##### Situating this study using third space and FoK terminology and processes
-
-In the context of this study we can conceptualise the learning context as a third space mixing home learning and culture and the context of university research and outreach work.  
-
-It draws on cultural processes of cultures of  family learning, coding cultures and informal science clubs. Of particular relevance is retro Gaming framed as a fund of identity. A process that emerged from early consultation with home educating families.
-
-![](./Pictures/mine_craft_img.png){width=90%}
-
-Retro gaming cultures emcompass broad media and practices beyond the games themselves. The image above shows now only a sketch of the Minecraft game, but also the names of YouTubers making videos about games.
-
-<!-- Retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects. -->
-
-This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
-
-This study contributes to work which explores the potential does that give to developing game coding practices as per RQ3.
-
 #### On affordances
 
 <!-- [@ba_erentsen_activity_2002] -->
@@ -700,30 +690,25 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 
+
+
 ## Parked to replace or remove or rework
 
 
-<!-- #### Why not use constructivism / constructionism
-
-COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
 
 
-Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
+##### Situating this study using third space and FoK terminology and processes
 
+In the context of this study we can conceptualise the learning context as a third space mixing home learning and culture and the context of university research and outreach work.  
 
-Cobb [-@cobb_where_1994] identifies two broad schools of constructivism, one focusing more on individual cognitive processes which follows the work of Piaget and the other drawing on the academic lineage of Vygotsky which locates knowledge formation as a cultural activity.
+It draws on cultural processes of cultures of  family learning, coding cultures and informal science clubs. Of particular relevance is retro Gaming framed as a fund of identity. A process that emerged from early consultation with home educating families.
 
-NOTE - THERE IS IMPORTANT WORK HERE ON AUTENTICITY- and the potential tensions with agency - ie if authenticity is working a the elbows of professionals, students have less ownership over the process.  [@hay_constructivism_2001, p. 34]
+![](./Pictures/mine_craft_img.png){width=90%}
 
+Retro gaming cultures emcompass broad media and practices beyond the games themselves. The image above shows now only a sketch of the Minecraft game, but also the names of YouTubers making videos about games.
 
-**Constructionism as applied learning and design  theory**
+<!-- Retro gaming and associated nostalgia can provoke a positive reaction from both parents and children. This can be used to leverage interest in creative projects. -->
 
-Much of the foundational literature on game making names constructionism as a guiding theory  (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996).
+This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
 
-Constructionism as a movement has done important work in creating design guidelines but much weaker as either an underlying theoretical or analytical framework.
-
-Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
-
-It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
-
-Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology. -->
+This study contributes to work which explores the potential does that give to developing game coding practices as per RQ3.
