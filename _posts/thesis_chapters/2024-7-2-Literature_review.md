@@ -103,7 +103,7 @@ title: 2. Literature Review
 
 ## Introduction
 
-**Specifics of structure**
+<!-- **Specifics of structure**
 
 - context
   - Why make games for education?
@@ -128,32 +128,14 @@ title: 2. Literature Review
 - Conclusion
     - Summary
     - Problem statement  
-    -
+    - Link  -->
 
+This chapter undertakes a review of the literature around key areas relevant to situating and providing contextual information to answer the research questions of this study. To do this it explores several broad themes on inquiry. Firstly, as its dominance in this domain, I examine the findings of research and reviews in the areas of constructionist approach to game making. Following this, I focus in particular characteristics of relevant settings for game making, focusing in particular on the  barriers to participation to game making. This literature review then explores key pedagogies of game making, and   digital making where relevant. One key pedagogy addressed is the use of game design patterns. Here I assess the current potential explored in studies and highlight existing gaps in the current research, particularly in the area of developing notice coding practices. This aspect of the review supports the proposed problem statement of this thesis that game making processes in both formal and informal settings can benefit from more research involving novel pedagogies.  
 
-**LR structure and how it addresses RQs**
+My final research questions involves the development of agency. This focus guides both the way in which I review current research on game making pedagogies, and how I describe current responses to current limits to the potential of game making in the final part of the chapter. I conclude by noting that the exploration of agency continues as part of Chapter 3 which outlines the the theoretical framework of the study.
 
-This chapter helps answer (does it need to do this?) the research questions in the following ways. In coverage of relevant studies I focus in particular the to barriers to participation and pedagogical elements which address them as notes in RQ1.
+## A summary of research and reviews of game making from a constructionist framework
 
-This literature review then explores pedagogies of game making of similar digital making.
-
-A section addresses game design patterns in particular, as the focus of RQ2, and exposes gaps in the current research in the area of developing notice coding practices.
-
-RQ3 addresses the development of agency, a deeper exploration of which is covered Chapter 3. In this literature review of pedagogies, it is worth noting the following elements in pedagogies which are relevant to later discussion.
-
-- the limits of contextual settings on the development of agency
-- pedagogical frameworks which help participants develop coding practices within a community focus
-- pedagogies which facilitate and highlight community membership: e.g. Barron's roles and legitimate peripheral participation
-
-
-
-<!-- - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
-
--hci and affordance theory, technical barriers ,
-solved by design - link with contructionism -->
-
-
-## A summary research claims surrounding contructionist gaming
 
 <!-- also
     - From Kafai's review (not directly) draw on
@@ -163,43 +145,46 @@ solved by design - link with contructionism -->
 
 There are several notable reviews of spanning broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Another focuses on 21st Century skills [@bermingham_approaches_2013]. It is of value to explore the motivations of gaming making from the constructionist field as a dominant voice in this field before later exploring the limitations of this perspective.
 
-
 ### Motivations and benefits of (constructionist) game making
 
+The benefits presented in Kafai and Burke's influential review paper and linked book [@kafai_constructionist_2015-1]. The authors synthesise  4* relevant papers, drawing on a wealth of experience in this area. Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society: a collection commonly known as 21st Century Skills.
 
-The benefits presented in Kafai and Burke's influential review areas of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. Game making can also develop social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues.
-
-**Underlying pedagogy**
-
-An open ended, child-led exploration
-
-It does take some from from wider design frameworks.
-
-Michel Resnick, a researcher involved in the Scratch project at MIT illustrates an approach to design-based education through a creative cycle. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity.
-
-<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
-Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine   -->
-
-
-Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
-
-
-### Alignment of constructionist gaming with PBL benefits & 21st C & How are games different
-
-NOTE TRY TO LINK THE TWO ELEMENTS OF THE TITLE
-
-There is broad alignment with game making as an educational activity and the general approach of project-based learning.
-
-The following studies indicate a broad alignment with some of the techniques of PBL and well represented in the following review of relevant studies representing the following concepts.
-
-- Pair Programming
-- authentic audience & supportive peer environment
-- mobilising motivation and sustaining interest by tapping into interests of participants.
+Convincing and interesting highlights of this review are:
+studies on scratch community, especially in after school settings [], Robertson's work on storytelling games, to access particpant knowledge in accessible ways, and  Denner and pair programming []
 
 Thus:
 - Denner, girls making games, pair programming
 - Roberston, social coding
 - Kafai & Roque, (& 5d) home interests,
+
+<!-- What is missing?
+
+Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
+
+As outlined earlier, the review is relatively weak when addressing and assessing pedagogies used. This is, in partly, likely emblematic of a comparatively weakness of concepts of pedagogy within the wider constructionist movement.
+
+Writing on constructionism as an educational approach often focuses on designing software tools and communites which promote an open ended, child-led approach to designing engaging and relatable objects of interest. Within this perspective, a design is advocated in general terms.  
+
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
+
+To illustrates an approach Resnick advocates a creative cycle model. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity.
+
+While the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for or how it can be activated in the process of facilitating a group of learners to make games together.
+
+<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine   -->
+
+#### Alignment of constructionist gaming with PBL benefits & 21st C & How are games different
+
+There is broad alignment with game making as an educational activity and the general approach of project-based learning and its agenda to develop 21C skills.
+
+The key studies mentioned above show that games as a form of sharable digital project, in a format which allows participants choice over the subject and contents of the game aligns with the following principles of PBL.
+
+- authentic audience & supportive peer environment
+- mobilising motivation and sustaining interest by tapping into interests of participants.
+-  public product
+
+This begs the question, is there anything particularly special about the use of games as a project?
 
 
 **How games are special**
@@ -223,6 +208,13 @@ These exceptions address particular aspects of the affordences and other opportu
 
 
 ### Limits and critiques of constructionist game making
+
+This alignment of approach also extends to some of teh limits of PBL approach.
+
+The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place.
+However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult.
+FIND RELEVANT RESEARCH HERE ON PBL AND SCAFFOLDING.
+
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
@@ -1571,3 +1563,9 @@ Scratch and MIT labs benefit from x.
 Mozilla as benefit for the teach the web.
 
 Corporate funding code.org. (Google)
+
+### Removed
+
+- Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
+-hci and affordance theory, technical barriers ,
+solved by design - link with contructionism
