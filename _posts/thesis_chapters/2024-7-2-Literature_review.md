@@ -165,31 +165,44 @@ As outlined earlier, the review is relatively weak when addressing and assessing
 
 Writing on constructionism as an educational approach often focuses on designing software tools and communites which promote an open ended, child-led approach to designing engaging and relatable objects of interest. Within this perspective, a design is advocated in general terms.  
 
-Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process. To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.
 
-To illustrates an approach Resnick advocates a creative cycle model. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. The model encourages both parents and teachers to create a supportive environment for creativity.
+![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
+Diagram [@resnick_lifelong_2017]
 
-While the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for or how it can be activated in the process of facilitating a group of learners to make games together.
+Resnick's writing around this model encourages teachers to create a supportive environment for creativity. Contructionism's long-standing focus on interest-driven projects creating shareable outcomes is an early example of a progressive, hands-on, active learning approach.
 
-<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
-Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine   -->
+However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  In addition, a focus on these elements of pedagogy are  not limited to the school of constructionism. The same principles are are articulated clearly in extensive research on project-based learning processes. Given this wide uptake it is important to draw on the use of pedagogy within PBL to further explore the topic of RQ1 addressing what different pedagogies are available to overcome barriers to STEM project work.
 
 #### Alignment of constructionist gaming with PBL benefits & 21st C & How are games different
 
-There is broad alignment with game making as an educational activity and the general approach of project-based learning and its agenda to develop 21C skills.
+WHAT CAN PBL ADD TO THE MIX - AND WHAT ARE THE DEFICITS? WHAT ELSE NEEDS TO BE ADDED TO PBL TO MAKE IT WORK ON A LOCAL CONTEXT?
 
-The key studies mentioned above show that games as a form of sharable digital project, in a format which allows participants choice over the subject and contents of the game aligns with the following principles of PBL.
+There is broad alignment with game making as an educational activity and the general approach of project-based learning and its agenda to develop 21C skills.
+<!--
+The key studies mentioned above show that games as a form of shareable digital project, in a format which allows participants choice over the subject and contents of the game aligns with the following principles of PBL. -->
 
 - authentic audience & supportive peer environment
 - mobilising motivation and sustaining interest by tapping into interests of participants.
+
+    Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9]
+
 -  public product
 
-This begs the question, is there anything particularly special about the use of games as a project?
+In addition, studies on PBL provides useful evidence for its effectiveness in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8],   
+
+The authours of the reviews above describe the constructivist base for PBL, framing it as a descendent of IBL. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014].  
+
+
+Research in the area of digital media production using a PBL methodology exists ADD DETAILS HERE.
+
+Given then broad benefits of PBL to make media, and returning to the claims around Kafai on constructionist games, it invites the question, is there anything particularly special about the use of games as a project?
 
 
 **How games are special**
 
-- some thing about rules and Piaget [@kafai_constructionist_2015-1]
+<!-- - some thing about rules and Piaget [@kafai_constructionist_2015-1] -->
 
 While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
 
@@ -205,7 +218,6 @@ These exceptions address particular aspects of the affordences and other opportu
 
  - GSM to explore systems thinking in particular
  - Pair programming,
-
 
 ### Limits and critiques of constructionist game making
 
@@ -352,13 +364,11 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
-
 ### Coding club(houses)
 
 Work in informal settings has been an important strand of constructionist research based at MIT [@resnick_computer_1996; @peppler_computer_2009].
 
 The work of Roque is also of note in the way that family members are brought directly into the making process.
-
 
 ### Creative Family Learning - Roque
 
