@@ -13,21 +13,15 @@ title: 3. Theoretical Framework
     -   [Research Questions - April
         2024](#research-questions---april-2024)
     -   [Introduction](#introduction)
-    -   [Theoretical framework](#theoretical-framework-1)
+    -   [Socio-cultural approach and Cultural historical activity theory
+        (CHAT)](#socio-cultural-approach-and-cultural-historical-activity-theory-chat)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-            -   [Conceptualising AT via foundational theory - IN INTRO
-                OR LIT
-                REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
-    -   [The methodology of this study](#the-methodology-of-this-study)
-        -   [Design-based research](#design-based-research)
-        -   [Formative Intervention](#formative-intervention)
+        -   [Conceptualising AT via foundational theory - IN INTRO OR
+            LIT
+            REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
+    -   [Design-based research](#design-based-research)
+        -   [Formative Interventions](#formative-interventions)
             -   [Formative intervention as stimulus for expansive
                 learning](#formative-intervention-as-stimulus-for-expansive-learning)
         -   [Outline of the guiding principles of DBR and formative
@@ -50,7 +44,16 @@ title: 3. Theoretical Framework
             choice](#summary-of-justification-of-choice)
             -   [Ongoing alignments between DBR and the CHAT community /
                 ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
-    -   [Methods used in this study](#methods-used-in-this-study)
+    -   [Concepts of agency within
+        CHAT](#concepts-of-agency-within-chat)
+        -   [Addressing and disambiguating definitions of agency in
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            -   [Instrumental and relational
+                agency](#instrumental-and-relational-agency)
+            -   [Authorial and transformative
+                agency](#authorial-and-transformative-agency)
+    -   [SUMMARY OF - Specific methods used in this
+        study](#summary-of---specific-methods-used-in-this-study)
         -   [3 planes approach - noting tensions and
             behaviours](#planes-approach---noting-tensions-and-behaviours)
         -   [Surfacing areas of contradiction in joint activity through
@@ -62,9 +65,6 @@ title: 3. Theoretical Framework
         -   [On affordances](#on-affordances)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
-        -   [Why not use constructivism /
-            constructionism](#why-not-use-constructivism-constructionism)
-
 
 # Theoretical Framework
 
@@ -122,7 +122,9 @@ The methdology of this chapter is closely aligned with the activity theory conce
 
 <!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
-## Theoretical framework
+## Socio-cultural approach and Cultural historical activity theory (CHAT)
+
+AT sits within a sociocultural approach to educational theory.
 
 
 <!-- The following terms and concepts have already been explored in the literature review.
@@ -152,7 +154,9 @@ This primacy of context described above underlies much of the social turn of edu
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research.
 
-#### Conceptualising AT via foundational theory - IN INTRO OR LIT REVIEW?
+
+
+### Conceptualising AT via foundational theory - IN INTRO OR LIT REVIEW?
 
 Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
@@ -176,66 +180,7 @@ This clearly aligns with community-based digital making and the use of objects a
 
 
 
-### Addressing and disambiguating definitions of agency in education
-
-To effectively answer RQ2 the concept of agency needs disambiguating.  
-
-Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
-
-See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
-
-Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
-
-Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
-
-Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
-
-Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
-
-The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
-
-#### Instrumental and relational agency
-
-Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-
-In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
-
-
-#### Authorial and transformative agency
-
-Other takes of socio cultural school of research focus less on the individual and more on broader conceptions of activity. Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016].
-
-
-Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
-
-DEFINE
-
-As well as the work on Lave and Wegner on community based conceptions of agency,
-Matusov bases much of the definition of authorial agency on existing work on transformational agency.
-
-Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
-
-Specifically, TAS, TADS
-
-TAS from Stetsenko addresses grand ideas of agency directly.
-However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
-
-
-Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
-
-In exploring their differences Hopwood x and y.
-
-Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
-
-For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
-
-
-
-## The methodology of this study
-
-
-### Design-based research
+## Design-based research
 
 Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
@@ -248,7 +193,7 @@ As explored in the introduction the definition of DBR is evolving. Sandoval note
 There are different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
 
 
-### Formative Intervention
+### Formative Interventions
 
 **This section explains the CHAT method of formative interventions and proposes this study as an example of a formative intervention.**
 
@@ -479,7 +424,67 @@ NOTE - Thus in the next chapter particular attention is paid to the development 
 <!--
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
 
-## Methods used in this study
+## Concepts of agency within CHAT
+
+### Addressing and disambiguating definitions of agency in education
+
+To effectively answer RQ2 the concept of agency needs disambiguating.  
+
+Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
+
+See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
+
+Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
+
+Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
+
+Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
+
+Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
+
+The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
+
+#### Instrumental and relational agency
+
+Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+
+In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
+
+
+#### Authorial and transformative agency
+
+Other takes of socio cultural school of research focus less on the individual and more on broader conceptions of activity. Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016].
+
+
+Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
+
+DEFINE
+
+As well as the work on Lave and Wegner on community based conceptions of agency,
+Matusov bases much of the definition of authorial agency on existing work on transformational agency.
+
+Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
+
+Specifically, TAS, TADS
+
+TAS from Stetsenko addresses grand ideas of agency directly.
+However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
+
+
+Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
+
+In exploring their differences Hopwood x and y.
+
+Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
+
+
+
+## SUMMARY OF  - Specific methods used in this study
+
+NOTE - MAKE THIS SECTION MUCH SNAPPER - PERHAPS EXPLAIN HOW THEY CONTRIBUTE TO THE THESIS.
 
 This section examines the use of methods aligned with activity theory and DBR to help conceptualise and analyise the learning environment and processes.
 
@@ -487,7 +492,7 @@ The methods outlined in this section combine to create a methodology aligned wit
 
 
 MAKE MORE SPECIFIC TO THIS INTERVENTION AND RESERACH QUESTIONS.
-FIND MORE DIRECT PARALLELS? 5D FOR EXAMPLE
+FIND MORE DIRECT PARALLELS IN RESEARCH CASE STUDIES? 5D FOR EXAMPLE
 
 
 As the game making activity for participants is novel there are few if any established community or working processes.
@@ -516,10 +521,6 @@ NOTE - Are these methods, are they useful theories that need to be framed in a d
 Cultural mediation via artefacts [cole], as a base.
 
 Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
-
-
-
-
 
 
 <!--
@@ -702,7 +703,7 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 ## Parked to replace or remove or rework
 
 
-#### Why not use constructivism / constructionism
+<!-- #### Why not use constructivism / constructionism
 
 COMPRESS THIS - ALMOST DROP TOTALLY - NOTE THE GENERAL ALIGNMENT OF CONSTRUCTIONISM WITH DBR METHODS
 
@@ -725,4 +726,4 @@ Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
 
 It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
 
-Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology.
+Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology. -->

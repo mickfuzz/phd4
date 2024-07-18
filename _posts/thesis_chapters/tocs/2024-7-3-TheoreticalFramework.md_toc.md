@@ -2,21 +2,15 @@
     -   [Research Questions - April
         2024](#research-questions---april-2024)
     -   [Introduction](#introduction)
-    -   [Theoretical framework](#theoretical-framework-1)
+    -   [Socio-cultural approach and Cultural historical activity theory
+        (CHAT)](#socio-cultural-approach-and-cultural-historical-activity-theory-chat)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-            -   [Conceptualising AT via foundational theory - IN INTRO
-                OR LIT
-                REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
-    -   [The methodology of this study](#the-methodology-of-this-study)
-        -   [Design-based research](#design-based-research)
-        -   [Formative Intervention](#formative-intervention)
+        -   [Conceptualising AT via foundational theory - IN INTRO OR
+            LIT
+            REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
+    -   [Design-based research](#design-based-research)
+        -   [Formative Interventions](#formative-interventions)
             -   [Formative intervention as stimulus for expansive
                 learning](#formative-intervention-as-stimulus-for-expansive-learning)
         -   [Outline of the guiding principles of DBR and formative
@@ -39,7 +33,16 @@
             choice](#summary-of-justification-of-choice)
             -   [Ongoing alignments between DBR and the CHAT community /
                 ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
-    -   [Methods used in this study](#methods-used-in-this-study)
+    -   [Concepts of agency within
+        CHAT](#concepts-of-agency-within-chat)
+        -   [Addressing and disambiguating definitions of agency in
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            -   [Instrumental and relational
+                agency](#instrumental-and-relational-agency)
+            -   [Authorial and transformative
+                agency](#authorial-and-transformative-agency)
+    -   [SUMMARY OF - Specific methods used in this
+        study](#summary-of---specific-methods-used-in-this-study)
         -   [3 planes approach - noting tensions and
             behaviours](#planes-approach---noting-tensions-and-behaviours)
         -   [Surfacing areas of contradiction in joint activity through
@@ -51,5 +54,3 @@
         -   [On affordances](#on-affordances)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
-        -   [Why not use constructivism /
-            constructionism](#why-not-use-constructivism-constructionism)
