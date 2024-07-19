@@ -180,8 +180,6 @@ However, while the ethos and benefits of this approach is communicated in a conv
 WHAT CAN PBL ADD TO THE MIX - AND WHAT ARE THE DEFICITS? WHAT ELSE NEEDS TO BE ADDED TO PBL TO MAKE IT WORK ON A LOCAL CONTEXT?
 
 There is broad alignment with game making as an educational activity and the general approach of project-based learning and its agenda to develop 21C skills.
-<!--
-The key studies mentioned above show that games as a form of shareable digital project, in a format which allows participants choice over the subject and contents of the game aligns with the following principles of PBL. -->
 
 - authentic audience & supportive peer environment
 - mobilising motivation and sustaining interest by tapping into interests of participants.
@@ -194,6 +192,7 @@ In addition, studies on PBL provides useful evidence for its effectiveness in di
 
 The authours of the reviews above describe the constructivist base for PBL, framing it as a descendent of IBL. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014].  
 
+Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014]. 
 
 Research in the area of digital media production using a PBL methodology exists ADD DETAILS HERE.
 
