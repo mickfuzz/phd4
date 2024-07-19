@@ -1,14 +1,15 @@
 -   [Theoretical Framework](#theoretical-framework)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
     -   [Socio-cultural approach and Cultural historical activity theory
         (CHAT)](#socio-cultural-approach-and-cultural-historical-activity-theory-chat)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [Conceptualising AT via foundational theory - IN INTRO OR
-            LIT
-            REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
+        -   [Conceptualising AT via foundational
+            theory](#conceptualising-at-via-foundational-theory)
+        -   [Third generation activity
+            theory](#third-generation-activity-theory)
     -   [Design-based research](#design-based-research)
         -   [Formative Interventions](#formative-interventions)
             -   [Formative intervention as stimulus for expansive
@@ -18,9 +19,6 @@
             -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
-            -   [Principle: Finding suitable dimensions and units of
-                analysis by focusing on objects of
-                activity](#principle-finding-suitable-dimensions-and-units-of-analysis-by-focusing-on-objects-of-activity)
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)

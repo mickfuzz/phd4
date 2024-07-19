@@ -126,5 +126,3 @@
                 facilitator/s](#applying-activity-theory-to-surface-contradictions-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
-        -   [Why not use constructivism /
-            constructionism](#why-not-use-constructivism-constructionism)

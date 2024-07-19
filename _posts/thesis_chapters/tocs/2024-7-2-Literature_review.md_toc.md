@@ -2,13 +2,14 @@
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [A summary research claims surrounding contructionist
-        gaming](#a-summary-research-claims-surrounding-contructionist-gaming)
+    -   [A summary of research and reviews of game making from a
+        constructionist
+        framework](#a-summary-of-research-and-reviews-of-game-making-from-a-constructionist-framework)
         -   [Motivations and benefits of (constructionist) game
             making](#motivations-and-benefits-of-constructionist-game-making)
-        -   [Alignment of constructionist gaming with PBL benefits &
-            21st C & How are games
-            different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
+            -   [Alignment of constructionist gaming with
+                PBL](#alignment-of-constructionist-gaming-with-pbl)
+            -   [How games are special](#how-games-are-special)
         -   [Limits and critiques of constructionist game
             making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
@@ -174,3 +175,4 @@
             the
             problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
             -   [Financial challenges](#financial-challenges)
+        -   [Removed](#removed)

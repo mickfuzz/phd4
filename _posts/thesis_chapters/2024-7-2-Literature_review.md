@@ -9,18 +9,18 @@ layout: post
 categories: chapter
 title: 2. Literature Review
 ---
-
 -   [Literature Review](#literature-review)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [A summary research claims surrounding contructionist
-        gaming](#a-summary-research-claims-surrounding-contructionist-gaming)
+    -   [A summary of research and reviews of game making from a
+        constructionist
+        framework](#a-summary-of-research-and-reviews-of-game-making-from-a-constructionist-framework)
         -   [Motivations and benefits of (constructionist) game
             making](#motivations-and-benefits-of-constructionist-game-making)
-        -   [Alignment of constructionist gaming with PBL benefits &
-            21st C & How are games
-            different](#alignment-of-constructionist-gaming-with-pbl-benefits-21st-c-how-are-games-different)
+            -   [Alignment of constructionist gaming with
+                PBL](#alignment-of-constructionist-gaming-with-pbl)
+            -   [How games are special](#how-games-are-special)
         -   [Limits and critiques of constructionist game
             making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
@@ -90,7 +90,103 @@ title: 2. Literature Review
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
         -   [Link to the next chapter](#link-to-the-next-chapter)
-
+    -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
+    -   [Barriers to participation in game making practices (explored in
+        contextual
+        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
+        -   [Institutional Barriers - related to UK School
+            context](#institutional-barriers---related-to-uk-school-context)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
+        -   [Cultural / Identity barriers to participation in
+            ...](#cultural-identity-barriers-to-participation-in)
+            -   [Barrier - Identity and computer
+                cultures](#barrier---identity-and-computer-cultures)
+        -   [Barrier - unfamiliarity with support
+            practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
+    -   [Game making and coding and in schools and formal
+        education](#game-making-and-coding-and-in-schools-and-formal-education)
+        -   [Coding and Computing as a School Subject in the
+            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+    -   [Context of game making and wider digital making and culture
+        home and informal
+        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
+        -   [On games as a home and informal
+            culture](#on-games-as-a-home-and-informal-culture)
+        -   [Context of Home Education and family
+            learning](#context-of-home-education-and-family-learning)
+    -   [Game making and maker culture in non-formal learning contexts
+        and third
+        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
+        -   [Physical spaces which suit non-formal
+            approaches](#physical-spaces-which-suit-non-formal-approaches)
+            -   [An area of tension to address - limited leaner choice
+                in process if driven by
+                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
+        -   [Sketchy pedagogies](#sketchy-pedagogies)
+        -   [Funds of knowledge and third
+            space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
+        -   [Game making as a fund of
+            knowledge](#game-making-as-a-fund-of-knowledge)
+            -   [Play circles and MOE as a third
+                space](#play-circles-and-moe-as-a-third-space)
+        -   [Work in non-formal settings drawing on home
+            interests](#work-in-non-formal-settings-drawing-on-home-interests)
+        -   [Mozilla - Teach the Web as context and
+            community](#mozilla---teach-the-web-as-context-and-community)
+        -   [Authentic web technology & Code
+            playgrounds](#authentic-web-technology-code-playgrounds)
+            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
+                MERGE
+                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
+        -   [Mantle of the Expert - processes drama used in teaching
+            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
+        -   [Situating Computational thinking within curricular
+            concerns](#situating-computational-thinking-within-curricular-concerns)
+        -   [Studies exploring CT as an pedagogical framework to support
+            learning computer
+            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding)
+    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
+        -   [Game making studies addressing gender and
+            race](#game-making-studies-addressing-gender-and-race)
+    -   [Project Based Learning (PBL)](#project-based-learning-pbl)
+        -   [Project Based Learning as an inclusive
+            pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
+        -   [Complications with Project Based
+            Learning](#complications-with-project-based-learning)
+        -   [Game making and Project / Problem Based
+            Learning](#game-making-and-project-problem-based-learning)
+        -   [PBL and Authenticity in the domain of teaching
+            programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
+        -   [Issues of Inclusion and PBL addressed through UDL
+            principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
+        -   [MDA and conceptual game elements
+            framework](#mda-and-conceptual-game-elements-framework)
+    -   [Synthesis of chapter / discussion - PREVIOUS
+        VERSION](#synthesis-of-chapter-discussion---previous-version)
+        -   [Problematising distinctions between instruction-based
+            tutorials and unguided approaches - towards guided
+            participation - FOR
+            DISCUSSION](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches---towards-guided-participation---for-discussion)
+        -   [Deficit of cultural processes & appropriate frameworks to
+            support community-based coding for
+            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
+            -   [Supporting roles and social practices to support
+                learners](#supporting-roles-and-social-practices-to-support-learners)
+        -   [Tensions surrounding authenticity of tool
+            use](#tensions-surrounding-authenticity-of-tool-use)
+        -   [Sythetis of current Responses to challenges presented -
+            MOVE
+            LATER?](#sythetis-of-current-responses-to-challenges-presented---move-later)
+        -   [Synthesis and analysis of models of responses to address
+            the
+            problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
+            -   [Financial challenges](#financial-challenges)
+        -   [Removed](#removed)
 
 # Literature Review
 
@@ -175,38 +271,35 @@ Resnick's writing around this model encourages teachers to create a supportive e
 
 However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  In addition, a focus on these elements of pedagogy are  not limited to the school of constructionism. The same principles are are articulated clearly in extensive research on project-based learning processes. Given this wide uptake it is important to draw on the use of pedagogy within PBL to further explore the topic of RQ1 addressing what different pedagogies are available to overcome barriers to STEM project work.
 
-#### Alignment of constructionist gaming with PBL benefits & 21st C & How are games different
+#### Alignment of constructionist gaming with PBL
 
-WHAT CAN PBL ADD TO THE MIX - AND WHAT ARE THE DEFICITS? WHAT ELSE NEEDS TO BE ADDED TO PBL TO MAKE IT WORK ON A LOCAL CONTEXT?
+There is a clear alignment between game making as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills). This is particularly apparent when comparing the techniques espoused to develop skills these skills which include:  mobilising motivation by tapping into interests of participants, striving for authenticity in terms of project audience, encouraging
+COMPLETE
 
-There is broad alignment with game making as an educational activity and the general approach of project-based learning and its agenda to develop 21C skills.
+    <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
 
-- authentic audience & supportive peer environment
-- mobilising motivation and sustaining interest by tapping into interests of participants.
-
-    Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9]
-
--  public product
 
 In addition, studies on PBL provides useful evidence for its effectiveness in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8],   
 
-The authours of the reviews above describe the constructivist base for PBL, framing it as a descendent of IBL. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014].  
+The authours of the reviews above describe the constructivist base for PBL, highlighting the need of a learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014; @hung_activity_2000].  
 
-Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014]. 
+To align with the areas of this study, it is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning.
+
+Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014].
 
 Research in the area of digital media production using a PBL methodology exists ADD DETAILS HERE.
 
 Given then broad benefits of PBL to make media, and returning to the claims around Kafai on constructionist games, it invites the question, is there anything particularly special about the use of games as a project?
 
 
-**How games are special**
+#### How games are special
 
 <!-- - some thing about rules and Piaget [@kafai_constructionist_2015-1] -->
 
 While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
 
 It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in similar research
- - Passions as - Fok in 5d, and similar
+
  - Pair programming as guided participation  - in Rogoff and ...?
 
 There are particular benefits of the use of games as a target media artefact to create.
@@ -220,23 +313,24 @@ These exceptions address particular aspects of the affordences and other opportu
 
 ### Limits and critiques of constructionist game making
 
-This alignment of approach also extends to some of teh limits of PBL approach.
+This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult.
 
-The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place.
-However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult.
+While some of the studies outlined above do mention scaffolding in place, many do not.
 FIND RELEVANT RESEARCH HERE ON PBL AND SCAFFOLDING.
 
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
-It behoves us to revisit the purpose of game making. Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and “design thinking” are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
+It behoves us to revisit the purpose of game making. Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
 
 It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
 
-
 **Returning to developing Computational Fluency**
 PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
-To refocus this review, let's return to focus of computational fluency.
+
+To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills?
+
+In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1]
 
 
 ## Context of game making and digital projects at home and other informal settings
