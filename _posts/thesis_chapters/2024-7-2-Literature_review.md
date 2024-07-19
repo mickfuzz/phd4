@@ -273,15 +273,14 @@ However, while the ethos and benefits of this approach is communicated in a conv
 
 #### Alignment of constructionist gaming with PBL
 
-There is a clear alignment between game making as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills). This is particularly apparent when comparing the techniques espoused to develop skills these skills which include:  mobilising motivation by tapping into interests of participants, striving for authenticity in terms of project audience, encouraging
-COMPLETE
+There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills). Games making as a project can provide: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
 
     <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
 
 
 In addition, studies on PBL provides useful evidence for its effectiveness in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8],   
 
-The authours of the reviews above describe the constructivist base for PBL, highlighting the need of a learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014; @hung_activity_2000].  
+The authors of the reviews above describe the constructivist base for PBL, highlighting the need of a learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014; @hung_activity_2000].  
 
 To align with the areas of this study, it is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning.
 
@@ -312,6 +311,8 @@ These exceptions address particular aspects of the affordences and other opportu
  - Pair programming,
 
 ### Limits and critiques of constructionist game making
+
+HOW DOES THIS BUILD ON THE INTRODUCTION'S CRITIQUE OF CONSTRUCTIONISM MORE BROADLY?
 
 This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult.
 
@@ -457,11 +458,28 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
-### Coding club(houses)
+### Coding club(houses) & Grass Roots community responses
 
 Work in informal settings has been an important strand of constructionist research based at MIT [@resnick_computer_1996; @peppler_computer_2009].
 
 The work of Roque is also of note in the way that family members are brought directly into the making process.
+
+
+<!-- FCL worked to expose limits to the online resources and communities. -->
+
+#### Code Club, Coder Dojo and Raspberry Jam - a community responses to the needs of informal
+
+A grass roots approach drawing on enthusiasts.
+
+A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
+
+In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches, the resources provided to support clubs,  are nearly exclusively instructional in design.
+
+Although research shows that only a small number of code club respondents used such resources [@aivaloglou_how_2019], preferring an less-structured approach, which is therefore not supported.
+
+
+All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
+
 
 ### Creative Family Learning - Roque
 
@@ -754,78 +772,9 @@ Could move some of this to the results discussion -
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
 
-## Existing responses to challenges
-
-The scope of this section needs clarifying. While this study takes place in a non-formal setting, the overall scope of the research questions address, in particular the development of computational fluency, is also relevant to formal settings. Thus, some of the following sections do then address formal provision.
-
-Several reports have produced recommendation for school practice. Some of which are particularly relevant to this study's focus on supporting a project-based approach to making a digital game. These recommendations and evaluation of their uptake is integrated in the following sections.
-
-### Digital projects as an inclusive pedaogogy
-
-Livingstone's [@livingstone_next_2011] report focused on providing the UK games and animation industry with new talent, recommended that to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to take digital-related subjects.
-
-The After the Reboot report [@waite_pedagogy_2017], suggested game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.
-
-WHERE FOR THIS??
-Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-Research on inclusive approaches to digital media production explored,  highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
 
 
 
-### Resource provision and CPD
-
-The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
-A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
-
-MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES. BUT NOT TOO MUCH
-
-While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools.
-
-
-#### Computing at schools
-
-While based on formal education. It is worth returning to this community and the challenge of computing in schools.
-
-Coding, new for many teachers, a great response from those involved.
-
-
-
-### Open source, online responses to the challenge
-
-The promise of Connected Learning -
-
-this was part of the narrative
-
-#### Mozilla, an open source toolset
-
-One of the challenges of a foundation-based approach is the sustainability of the programs involved. One counter to this is using open source toolsets and a community based, and decentralised approach to creating resources.  
-
-Mozilla, acted as a broker between the open source community, and community educators who all chipped in to create teach the web.
-
-A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
-
-In 2015 I contributed a short line course called Quacking Javascript to this webmaker curriclum. In my report on the underlying pedagogical approaches [@chesterman_webmaking_2015],  I outlined the following possibilities to increase participant engagement; playful approaches, use of games, and the ability for participants to incorporate popular culture and home interests into their work.
-
-There were limits to the take up of the curriclum but the Thimble community was active while it lasted and created some good resources.
-
-
-### Grass Roots community responses
-
-FCL worked to expose limits to the online resources and communities.
-
-#### Code Club, Coder Dojo and Raspberry Jam - a community responses to the needs of informal
-
-A grass roots approach drawing on enthusiasts.
-
-A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
-
-In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches, the resources provided to support clubs,  are nearly exclusively instructional in design.
-
-Although research shows that only a small number of code club respondents used such resources [@aivaloglou_how_2019], preferring an less-structured approach, which is therefore not supported.
-
-
-All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
 
 ## Conclusion
 

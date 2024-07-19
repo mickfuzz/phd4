@@ -171,6 +171,66 @@ While home education is not a core focus of this thesis, it is a significant con
 While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware, or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race, and class have been shown to negatively impact participation in digital making and more specifically game making. This research addresses each of these concerns at different stages of this thesis.
 
 
+
+
+
+
+## Existing responses to challenges
+
+<!-- The scope of this section needs clarifying. While this study takes place in a non-formal setting, the overall scope of the research questions address, in particular the development of computational fluency, is also relevant to formal settings. Thus, some of the following sections do then address formal provision. -->
+
+Several reports have produced recommendation for school practice. Some of which are particularly relevant to this study's focus on supporting a project-based approach to making a digital game. These recommendations and evaluation of their uptake is integrated in the following sections.
+
+### Digital projects as an inclusive pedaogogy - MOVE TO INTRODUCTION
+
+Livingstone's [@livingstone_next_2011] report focused on providing the UK games and animation industry with new talent, recommended that to implement well-supported use of games and visual animation in the school curriculum as a way to attract more young people to take digital-related subjects.
+
+The After the Reboot report [@waite_pedagogy_2017], suggested game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.
+
+WHERE FOR THIS??
+Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+
+Research on inclusive approaches to digital media production explored,  highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
+
+
+
+### Resource provision and CPD - MOVE TO INTRODUCTION
+
+The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
+A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
+
+MORE ON THIS - OTHER TIPS FROM NCCE AND LINKS TO RESOURCES. BUT NOT TOO MUCH
+
+While projects are mentioned as a principle that allows learners to deepen their understanding on computing concepts by putting them into practice. There is less on specifics of how teachers can support project work or indeed how to best develop resources to support project work in schools.
+
+
+#### Computing at schools
+
+While based on formal education. It is worth returning to this community and the challenge of computing in schools.
+
+Coding, new for many teachers, a great response from those involved.
+
+
+
+### Open source, online responses to the challenge
+
+The promise of Connected Learning -
+
+this was part of the narrative
+
+#### Mozilla, an open source toolset
+
+One of the challenges of a foundation-based approach is the sustainability of the programs involved. One counter to this is using open source toolsets and a community based, and decentralised approach to creating resources.  
+
+Mozilla, acted as a broker between the open source community, and community educators who all chipped in to create teach the web.
+
+A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
+
+In 2015 I contributed a short line course called Quacking Javascript to this webmaker curriclum. In my report on the underlying pedagogical approaches [@chesterman_webmaking_2015],  I outlined the following possibilities to increase participant engagement; playful approaches, use of games, and the ability for participants to incorporate popular culture and home interests into their work.
+
+There were limits to the take up of the curriclum but the Thimble community was active while it lasted and created some good resources.
+
+
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
 
 ## 3. Research objectives and questions
