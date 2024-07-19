@@ -187,14 +187,14 @@ Livingstone's [@livingstone_next_2011] report focused on providing the UK games 
 
 The After the Reboot report [@waite_pedagogy_2017], suggested game making as a way of increasing engagement in the process of coding. The review highlighted several areas of promise which needed more research: using games for engagement, use of design patterns - a term explored later in this chapter - and the involvement of girls in coding and social and cultural aspects of coding.
 
-WHERE FOR THIS??
-Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
+<!-- WHERE FOR THIS??
+Game making aligns well with the principles of inclusive practices and project-based learning (PBL). It provides: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners. -->
 
 Research on inclusive approaches to digital media production explored,  highlights the value of authentic projects, end products which incorporate personal creativity, and processes which incorporate a building of sense of community participation. While there is a broad consensus on how to address these issue of exclusion from computing cultures which align with the techniques of project-based learning (PBL) project work, there are contextual challenges to applying these in schools contexts.  Resnick and Rusk outline key significant challenges [-@resnick_coding_2020] including the lack of meaningful contexts, lack of time allocated preventing project approaches, and an over-reliance on rote instruction. ADD ANOTHER SOURCE HERE.
 
 
 
-### Resource provision and CPD - MOVE TO INTRODUCTION
+### Resource provision and CPD
 
 The benefits of game making aligns with those of wider creative computing projects. There has been extensive publication on computing education and techniques aimed to support teachers often new to the subject. These include a new website with materials, including quick guides and writing around a set of 12 computing principles.
 A lot of this literature is aimed at helping teachers in a classroom context and with a focus of explaining and exploring computing context.
@@ -215,8 +215,9 @@ Coding, new for many teachers, a great response from those involved.
 ### Open source, online responses to the challenge
 
 The promise of Connected Learning -
+See work of Ito and partners.
 
-this was part of the narrative
+This was part of the narrative of Gove in 2014, it's all online, and while he was right in part, access to these resources addresses few of the key barriers to participation.
 
 #### Mozilla, an open source toolset
 
@@ -304,7 +305,7 @@ SAVE FOR CONCLUSION?
 Design based research is not a uniform practice with set methodology but there is a general consensus in guiding principles. For Sandoval [-@sandoval_conjecture_2014], these involve joint work on a project and theoretical refinement, iterative design process involving phases of planning delivery, evaluation working towards outcomes of interest. While DBR is explored in a more nuanced way in Chapter 3, it is worth noting at this stage that it provides practical tools which are complementary with CHAT, to undertake and to represent complex learning designs taking place in authentic learning environments. In particular, DBR provides means to fulfil a key motivation of this research, to guide and to represent the evolution of a useful game making pedagogy. As remarked earlier, the format of academic research papers, even those focused on practice, often eschews methodological detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. To address this issue Chapter 4 of this thesis incorporates a design narrative, a process adopted from DBR, which I explain and justify in Chapters 3.
 
 
-## 5. The significance of the thesis and its limitations
+## 5. The scope of the thesis and what it does not try to address
 
 
 ### The challenge of maintaining focus in this PhD process
