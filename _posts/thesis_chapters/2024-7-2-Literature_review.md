@@ -259,7 +259,7 @@ Other studies show games as a potential vehicle for exploring issues involving r
 
 As outlined earlier, the review is relatively weak when addressing and assessing pedagogies used. This is, in partly, likely emblematic of a comparatively weakness of concepts of pedagogy within the wider constructionist movement.
 
-Writing on constructionism as an educational approach often focuses on designing software tools and communites which promote an open ended, child-led approach to designing engaging and relatable objects of interest. Within this perspective, a design is advocated in general terms.  
+Writing on constructionism as an educational approach often focuses on designing software tools and communities which promote an open ended, child-led approach to designing engaging and relatable objects of interest. Within this perspective, a design approach is advocated in general terms.  
 
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process. To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.
 
@@ -350,9 +350,17 @@ While definitions of informal education are complex, the term generally refers t
 
 Researcher Ito's ethnographic approach to studies of digital use and creativity in the home  [@ito_connected_2013-1; @ito_hanging_2010; @ito_living_2009], surfaced the value of informal playing around with games. Gee frames the informal, often online communities as affinity spaces [@gee_what_2004] and the activities and culture created around games as metagaming, examining how shared discourses and emerging identities develop within these spaces. The work of the these scholars is well represented in a broad pedagogical approach described as Connected Learning [@ito2013connected]. This book connects the ethos of varied case studies and design approaches, to the sociocultural approach of viewing learning as embedded within social and cultural contexts.  
 
+Sefton Green [@sefton-green_mapping_2013; @erstad_identity_2012] explores the wider context of digital making including the anxiety around the use of digital technology by young people and, it's alignment with valued digital skills required by the workforce.
+The author also notes the potential of, but also a lack of research on, transfer of learning opportunities between informal experiences and more formal learning opportunities.  
+
+
+<!-- SF mentions Mozilla webmaker tools, computer club house, physical computing, hacking a pedagogy - in chap3 on informal approaches.   -->
+
+The practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN.
+
 <!-- Gee also investigate a learning experiences is founded on his understanding of  -->
 <!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
-<!-- However the practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. -->
+
 
 
 ## Barriers to participation in game making
