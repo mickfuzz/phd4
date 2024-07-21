@@ -351,9 +351,10 @@ While definitions of informal education are complex, the term generally refers t
 Researcher Ito's ethnographic approach to studies of digital use and creativity in the home  [@ito_connected_2013-1; @ito_hanging_2010; @ito_living_2009], surfaced the value of informal playing around with games. Gee frames the informal, often online communities as affinity spaces [@gee_what_2004] and the activities and culture created around games as metagaming, examining how shared discourses and emerging identities develop within these spaces. The work of the these scholars is well represented in a broad pedagogical approach described as Connected Learning [@ito2013connected]. This book connects the ethos of varied case studies and design approaches, to the sociocultural approach of viewing learning as embedded within social and cultural contexts.  
 
 Sefton Green [@sefton-green_mapping_2013; @erstad_identity_2012] explores the wider context of digital making including the anxiety around the use of digital technology by young people and, it's alignment with valued digital skills required by the workforce.
-The author also notes the potential of, but also a lack of research on, transfer of learning opportunities between informal experiences and more formal learning opportunities.  
+The author also notes the potential of, but also a lack of research on, transfer of learning opportunities, and learner trajectories between informal experiences, formal learning settings and professional destinations.  
 
-Sefton outlines the use of Mozilla  webmaker tools as a bridge between informal practices of web based making and professional tools. He contrasts these tools to Scratch and similar block based systems which obfuscate learners from authentic code languages.
+Sefton outlines the use of Mozilla webmaker tools as a bridge between informal practices of web based making and professional tools. He contrasts these tools to Scratch and similar block based systems which obfuscate learners from authentic code languages.
+
 <!-- SF mentions Mozilla webmaker tools, computer club house, physical computing, hacking a pedagogy - in chap3 on informal approaches.   -->
 
 The practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN.
