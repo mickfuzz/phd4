@@ -292,14 +292,14 @@ Given then broad benefits of PBL to make media, and returning to the claims arou
 <!-- - some thing about rules and Piaget [@kafai_constructionist_2015-1] -->
 
 While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
-
+IS THIS TRUE?
 <!-- Kafai and Burke note that while there are benefits to exploring games over other types of media projects, including their inherent rules based systems, which facilitate the exploration of systems thinking and design approaches, a potential problem with prioritising games is  -->
 
 Kafai and Burke note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008].
 
 Another strength of the use of games in leaning aligns with a playful approach which can have significant benefits for nurturing a positive attitude of participants [@klopfer_moving_2009]
 
-While gaming as culture has previously been the subject of concerns regarding inclusion, the broad uptake of casual and retro gaming, has helped adress this concern. Conversely, the success and widespread proliferation of retro games in particular into wider popular culture is a fund of knowledge which can be drawn upon in diverse ways.
+While gaming culture has previously raised concerns regarding inclusion, the broad uptake of casual and retro gaming has helped address this concern. Additionally, the widespread proliferation of retro games in particular into popular culture provides a rich fund of knowledge which can be drawn upon in diverse ways.
 FIND SUPPORT
 
 
