@@ -24,6 +24,16 @@
         -   [Overview of barriers to game making which apply to both
             formal and non-formal
             environments](#overview-of-barriers-to-game-making-which-apply-to-both-formal-and-non-formal-environments)
+    -   [Existing responses to
+        challenges](#existing-responses-to-challenges)
+        -   [Digital projects as an inclusive pedaogogy - MOVE TO
+            INTRODUCTION](#digital-projects-as-an-inclusive-pedaogogy---move-to-introduction)
+        -   [Resource provision and CPD](#resource-provision-and-cpd)
+            -   [Computing at schools](#computing-at-schools)
+        -   [Open source, online responses to the
+            challenge](#open-source-online-responses-to-the-challenge)
+            -   [Mozilla, an open source
+                toolset](#mozilla-an-open-source-toolset)
     -   [3. Research objectives and
         questions](#research-objectives-and-questions)
         -   [Research objectives & Recap of
@@ -40,8 +50,8 @@
             theory)](#cultural-historical-activity-theory)
         -   [(On Design-based research
             (DBR))](#on-design-based-research-dbr)
-    -   [5. The significance of the thesis and its
-        limitations](#the-significance-of-the-thesis-and-its-limitations)
+    -   [5. The scope of the thesis and what it does not try to
+        address](#the-scope-of-the-thesis-and-what-it-does-not-try-to-address)
         -   [The challenge of maintaining focus in this PhD
             process](#the-challenge-of-maintaining-focus-in-this-phd-process)
         -   [Contribution to knowledge of this

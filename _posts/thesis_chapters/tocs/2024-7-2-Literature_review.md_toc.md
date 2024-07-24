@@ -5,11 +5,9 @@
     -   [A summary of research and reviews of game making from a
         constructionist
         framework](#a-summary-of-research-and-reviews-of-game-making-from-a-constructionist-framework)
-        -   [Motivations and benefits of (constructionist) game
-            making](#motivations-and-benefits-of-constructionist-game-making)
-            -   [Alignment of constructionist gaming with
-                PBL](#alignment-of-constructionist-gaming-with-pbl)
-            -   [How games are special](#how-games-are-special)
+        -   [Alignment of constructionist gaming with
+            PBL](#alignment-of-constructionist-gaming-with-pbl)
+        -   [How games are special](#how-games-are-special)
         -   [Limits and critiques of constructionist game
             making](#limits-and-critiques-of-constructionist-game-making)
     -   [Context of game making and digital projects at home and other
@@ -33,7 +31,11 @@
         challenge](#programmes-working-to-address-challenge)
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
-        -   [Coding club(houses)](#coding-clubhouses)
+        -   [Coding club(houses) & Grass Roots community
+            responses](#coding-clubhouses-grass-roots-community-responses)
+            -   [Code Club, Coder Dojo and Raspberry Jam - a community
+                responses to the needs of
+                informal](#code-club-coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
         -   [Link to next section - pedagogies exist but more are
@@ -58,21 +60,6 @@
             stages](#design-steps-frameworks-via-stages)
         -   [Design patterns](#design-patterns)
             -   [Game(play) design patterns](#gameplay-design-patterns)
-    -   [Existing responses to
-        challenges](#existing-responses-to-challenges)
-        -   [Digital projects as an inclusive
-            pedaogogy](#digital-projects-as-an-inclusive-pedaogogy)
-        -   [Resource provision and CPD](#resource-provision-and-cpd)
-            -   [Computing at schools](#computing-at-schools)
-        -   [Open source, online responses to the
-            challenge](#open-source-online-responses-to-the-challenge)
-            -   [Mozilla, an open source
-                toolset](#mozilla-an-open-source-toolset)
-        -   [Grass Roots community
-            responses](#grass-roots-community-responses)
-            -   [Code Club, Coder Dojo and Raspberry Jam - a community
-                responses to the needs of
-                informal](#code-club-coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
     -   [Conclusion](#conclusion)
         -   [Synthesis of chapter /
             discussion](#synthesis-of-chapter-discussion)
