@@ -442,11 +442,14 @@ In these more naturalistic settings, Ito and colleagues note that generative act
 
 To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents.
 
-
-
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be reframed as pedagogical tools and processes and can be viewed as a kind of meditational strategy.
+One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be framed as pedagogical tools and processes and can be viewed as a kind of meditational strategy.
+
+The following have been selected as particularly aligned to the scope of the research, digital making in informal approaches (game making specifically when possible) and developing agency. It also focuses on real life rather than online pedagogies (justify this).
+
+The progression of pedagogies here develops from those on the more formal elements, teacher led, and develop to describe key features of coding clubs and informal programs.
+
 
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
@@ -468,11 +471,20 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 
 #### Semantic Profiles and Waves
 
+Introduction to semantic waves.  
+[@maton_making_2013]
+
+SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
+https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
+
+
 CT instruction can be aided with a focus of teachers on semantic profiles and waves.
 
 Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
 
 Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
+
+
 
 <!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
 
@@ -489,25 +501,32 @@ FIND MATERIAL IN OTHER BOOK CHAPTERS
 PRIMM addresses the perceived need for  structured and explicit approach to teaching computing concepts and is particularly aimed at a school setting [@sentance_teaching_2019].
 
 
-**PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This model helps learners adopt coding practices and computational concepts through providing a concrete code example that they run after predicting what it does. Learners make changes to the existing code before finally creating code from scratch. PRIMM's starting point is students predicting existing code results. Asking students to identify target computing concepts in code examples allows teachers to guide students towards key computational thinking process or algorithmic details. Thus, PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class of learners to unpack and repack the same set of concepts in a restricted time scale. This process that supports formal problem solving, paper-based questions of the GCSE exams. The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. For a more detailed summary of the PRIMM approach the Quick Read pedagogy article.[^5]
+In proposing PRIMM Sentence et al  highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance.
+
+To address this without fully embracing an instruction, expert-led approach, which in any case is not possible given limited experience of many teachers, the author propose Primm
 
 
-Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
+    **PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This model helps learners adopt coding practices and computational concepts through providing a concrete code example that they run after predicting what it does. Learners make changes to the existing code before finally creating code from scratch. PRIMM's starting point is students predicting existing code results. Asking students to identify target computing concepts in code examples allows teachers to guide students towards key computational thinking process or algorithmic details. Thus, PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class of learners to unpack and repack the same set of concepts in a restricted time scale. This process that supports formal problem solving, paper-based questions of the GCSE exams. The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. For a more detailed summary of the PRIMM approach the Quick Read pedagogy article.[^5]
 
-In proposing PRIMM Sentence et al  highlights a deficit of exploration based approaches of Papert and constructionism proposed by Grover
-[-@sentance_teaching_2019, p. 5]
+    Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
 
-However, given the importance of explicit instruction of concepts, it seems lacking then that there is no guidance on what  concepts should be best explored via this pedagogy.
+
+
+The authors note elements of align the approach with socio-cultural concepts, like mediation, use of language and ZPD.
+
+These principles are put into action through drawing on _carefully selected content_ from the social plane [-@sentance_teaching_2019, p. 2].
+
+HOW IS THIS LIMITED?
+
+While the importance of explicit instruction of concepts is outlined, there is no guidance on what concepts should be best explored via this pedagogy. Given the context of of computing, there may be an implicit assumption that teachers turn to the UK curriculum perhaps for guidance.
 
 A similar observation can be made of a linked pedagogy that of semantic waves which uses an example of algorithms in one research process but again does not link to an underlying framework of "complex" concepts to illustrate.
 
-We can turn to the UK curriculum perhaps for guidance.
+
 
 THIS COUDL BE PUT BEFORE CT - AND THEN CT IS EXPLPORED AS A FRAMEWORK OF CONCEPTS - THEN A PEDAGOGY
 
 DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE
-
-
 
 ### Use Modify Create
 
