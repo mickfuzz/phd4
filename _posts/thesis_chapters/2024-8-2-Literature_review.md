@@ -458,6 +458,8 @@ One of the main themes of this review is to address what pedagogies are availabl
 
 ### Curricular concepts, semantic waves and PRIMM
 
+**PRIMM uses concepts of semantic profile to try to align instruction based approaches with a sociocultural approach (or at least some hands-on approaches)**
+
 A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.  
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
