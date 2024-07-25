@@ -748,18 +748,26 @@ Bruckman and Zagal, also studying at MIT, take from this mention an opportunity 
 
 ####  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
 
-While there diverse forms of clubs exist 
+Three similar but distinct strands of volunteer based projects started around the hot zone of 2012-2014 explored in the introduction.  While, it is beyond the remit to explore all three similar models in detail, that would be interesting.
 
-A grass roots approach drawing on enthusiasts.
+They share: a grass roots approach drawing on enthusiasts.
 
-A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
-
-In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches, the resources provided to support clubs,  are nearly exclusively instructional in design.
-
-Although research shows that only a small number of code club respondents used such resources [@aivaloglou_how_2019], preferring an less-structured approach, which is therefore not supported.
-
-
+A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. But have struggled to maintain the skilled volunteer input imagined at the start of the program (SO what?)
 All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
+
+They were not extensively researched during the point of more grass roots
+
+
+
+
+Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally. 
+
+Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
+
+In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches,
+
+
+
 
 
 
