@@ -757,17 +757,10 @@ All three projects have been subsumed into the RPI foundation raising issues of 
 
 They were not extensively researched during the point of more grass roots
 
-
-
-
-Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally. 
+Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally.
 
 Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
-
-In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches,
-
-
-
+As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis.
 
 
 
