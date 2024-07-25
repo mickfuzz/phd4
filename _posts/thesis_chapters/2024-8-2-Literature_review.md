@@ -776,6 +776,11 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 
 ### Coding club(houses) & Grass Roots community responses
 
+It of interest to make a ink between early influnce of the constructionist school founded by Papert and this thesis.
+In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms but with little detail on how to replicate them.
+Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school
+[@zagal_samba_2005] and to compare it to a Computer clubhouse, an MIT initiative designed presumably as a step towards Papert's vision. 
+
 Work in informal settings has been an important strand of constructionist research based at MIT [@resnick_computer_1996; @peppler_computer_2009].
 
 The work of Roque is also of note in the way that family members are brought directly into the making process.
@@ -809,24 +814,16 @@ Roque makes a convincing case for the unpicking of the supportive and collaborat
 It did
 Both invite a question, how best to structure activities.  
 
-### Link to next section - pedagogies exist but more are needed
+### A final reflection
 
-**Lack of specific pedagogies (for informal spaces) - via a case study / research ?**
-
-The lack of pedagogies for informal spaces should be addressed.
-
-While the very open ended approach of build a space and response to the interests of people that come is attractive [see Denner], it presents challenges.
-
-Similarly vehicle like competitions come with some support but also with issues []
-
-These are explored in the next section of the LR
+In the following section, I summarise the chapters findings and clarify the problem statement of this thesis.
 
 
 
-## Conclusion
+<!-- In this book we have considered how mathematics might be learned in settings that resemble the Brazilian samba school, in settings that are real, socially cohesive, and where experts and novices are all learning. The samba school, although not ‘exportable’ to an alien culture, represents a set of attributes a learning environment should and could have. (Seymour Papert, Mindstorms, 1980)1 -->
 
 
-### Synthesis of chapter / discussion
+## Synthesis of chapter / discussion / problem statement
 
 A shorter summary leading up to the detailed problem statement of the thesis.  
 
@@ -838,12 +835,30 @@ Including some of the following elements
 - **Structural challenges continue but the stuggle continues:** schools, curriculum etc, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
 
+
+
+
 ### The problem statement of the thesis
 
 This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
 
 - Discussion of implications of synthesis of the Literature review
 - Description on  how the RQs frame the problem to help an investigation via the data gathered.
+
+
+####  pedagogies exist but more are needed
+
+**Lack of specific pedagogies (for informal spaces) - via a case study / research ?**
+
+The lack of pedagogies for informal spaces should be addressed.
+
+While the very open ended approach of build a space and response to the interests of people that come is attractive [see Denner], it presents challenges.
+
+Similarly vehicle like competitions come with some support but also with issues []
+
+These are explored in the next section of the LR
+
+There is a missing
 
 
 
