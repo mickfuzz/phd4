@@ -734,6 +734,34 @@ In my own game making model students picked missions from a choice of printed re
 
 Specifically barriers - concerning identity, and including a structure of pedagogy
 
+### Coding club(houses) & Grass Roots community responses
+
+It of interest to make a ink between early influnce of the constructionist school founded by Papert and this thesis.
+In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms, although with little detail on how to replicate them.
+
+Additionally, Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
+
+Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school [@zagal_samba_2005] and to compare it,  to a Computer clubhouse, an MIT initiative designed inspired in party by Papert's vision [@resnick_computer_1996; @peppler_computer_2009]. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice and other social practices including the importance of showcase events share created work and flexibility of ways of participating and a diversity of skill levels and backgrounds of participants.
+
+<!-- PERHAPS SAVE A SLICE OF BRUCKMAN TO END - AFTER THE  FORM OF CODE CLUBS. -->
+<!-- FCL worked to expose limits to the online resources and communities. -->
+
+####  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
+
+While there diverse forms of clubs exist 
+
+A grass roots approach drawing on enthusiasts.
+
+A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
+
+In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches, the resources provided to support clubs,  are nearly exclusively instructional in design.
+
+Although research shows that only a small number of code club respondents used such resources [@aivaloglou_how_2019], preferring an less-structured approach, which is therefore not supported.
+
+
+All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
+
+
 
 ### Game competitions
 
@@ -761,11 +789,8 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 <!-- Relevant design factors include; allowing teams to register before the event or enforcing a more playful team creation process, varied award categories which encourage diverse outcomes rather than technically structured awards and the culture of the Jam which may encourage risk taking and experimental process over commercially viable products.
  -->
 
-
 <!-- These are broken down into; space, goal,components, mechanics and rules.  -->
 <!-- The educational motivation is design and systems thinking for young people aligned with the Framework for 21st Century Learning (Gilbert,2016). -->
-
-
 
 <!-- Play testing is the process of involving other participants to try out a prototype of a game early the creation process [@eladhari_design_2012]. It has a particular value in forcing an iterative approach. -->
 
@@ -774,45 +799,17 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
-### Coding club(houses) & Grass Roots community responses
-
-It of interest to make a ink between early influnce of the constructionist school founded by Papert and this thesis.
-In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms but with little detail on how to replicate them.
-Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school
-[@zagal_samba_2005] and to compare it to a Computer clubhouse, an MIT initiative designed presumably as a step towards Papert's vision. 
-
-Work in informal settings has been an important strand of constructionist research based at MIT [@resnick_computer_1996; @peppler_computer_2009].
-
-The work of Roque is also of note in the way that family members are brought directly into the making process.
-
-
-<!-- FCL worked to expose limits to the online resources and communities. -->
-
-#### Code Club, Coder Dojo and Raspberry Jam - a community responses to the needs of informal
-
-A grass roots approach drawing on enthusiasts.
-
-A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events.  
-
-In terms of the aims of this literature review to identify pedagogical approaches, while the setting and espoused ethos of the club is towards informal approaches, the resources provided to support clubs,  are nearly exclusively instructional in design.
-
-Although research shows that only a small number of code club respondents used such resources [@aivaloglou_how_2019], preferring an less-structured approach, which is therefore not supported.
-
-
-All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
-
 
 ### Creative Family Learning - Roque
 
-<!-- As Amy Bruckman pointed out, "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52) -->
+<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
-There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman). However researchers [@roque_family_2016] highlighted the limitations of accessibility of online participatory culture. In response Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalise Barron's work on parental roles in a making. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
+The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
 
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and increase overall accessibility, it left questions about the effectiveness of the process to enable learning at home. We can compare the difficulties of scaling of this hybrid setting (FCL) with more structured, and more naturalistic learning environments as explored by Ito above.
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
 
+To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts.
 
-It did
-Both invite a question, how best to structure activities.  
 
 ### A final reflection
 
@@ -861,10 +858,12 @@ These are explored in the next section of the LR
 There is a missing
 
 
-
 ### Link to the next chapter
 
 Having explored the remit of the problem statement, and the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, pedagogy and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
+
+
+
 
 
 
@@ -1288,7 +1287,7 @@ My work on teach the web for Mozilla was motivated in part in the extensibility 
 - web literacy - narrower
 - webmaker - and more specific affordances of key web based coding and exploring tools -->
 
-
+DILUTED
 ### Authentic web technology & Code playgrounds
 <!-- Javascript is an authentic language, core the web. Phaser is a professional and enthusiast framework.  -->
 
