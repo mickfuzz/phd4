@@ -526,10 +526,10 @@ https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
 Data from research, response of teachers .
 
 PRIMM while suitable to schools, is not incompatable with informal environments, PRIMM process does not need to happen as whole group activity. For example teachers adapted the process, so quicker students did more than one.
-In addition, the authors use the metaphor of learning coding as a multi-layered and faceted process like a patch work quilt. As learners develop coding practices then built up patches, each one making the participants' knowledge less _holey_.  (Clear, 2012) in [@sentance_teaching_2019, p.5]
+In addition, the authors use the metaphor of learning coding as a multi-layered and faceted process like a patch work quilt. As learners develop coding practices then built up patches, each one making the participants' knowledge less _holey_.  (Clear, 2012) in [@sentance_teaching_2019, p.5].  The middle ground PRIMM aims for between instruction and free experimentation may align well with non-formal approaches in non-classroom settings.
 
 PERHAPS IN SYNTHESIS - MOVE?
- As a critique of PRIMM, while the authors do link to some sociocultural concepts, it is limited in the extent to which the learning environment is addressed, compared to some of the other approaches of this chapter. (5th D? / PBL )
+As a critique of PRIMM, while the authors do link to some sociocultural concepts, it is limited in the extent to which the learning environment is addressed, compared to some of the other approaches of this chapter, particularly  PBL which has a shared driving question on challenge that the learning community addresses together.
 
 
 
