@@ -19,18 +19,14 @@
         -   [Technical barriers](#technical-barriers)
         -   [Barriers linked to identity and
             values](#barriers-linked-to-identity-and-values)
-        -   [Deconstructing the concept of constructionist
-            gaming](#deconstructing-the-concept-of-constructionist-gaming)
+    -   [Deconstructing the concept of constructionist
+        gaming](#deconstructing-the-concept-of-constructionist-gaming)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Design steps frameworks via stages - COMPRESS AS A
             SUBSECTION OF
             PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
-        -   [Curricular concepts, semantic waves and
-            PRIMM](#curricular-concepts-semantic-waves-and-primm)
-            -   [Semantic Profiles and
-                Waves](#semantic-profiles-and-waves)
             -   [PRIMM](#primm)
         -   [Use Modify Create](#use-modify-create)
         -   [Microworlds](#microworlds)
@@ -156,3 +152,7 @@
             problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
             -   [Financial challenges](#financial-challenges)
         -   [Removed](#removed)
+        -   [Curricular concepts, semantic waves and
+            PRIMM](#curricular-concepts-semantic-waves-and-primm)
+            -   [Semantic Profiles and
+                Waves](#semantic-profiles-and-waves)
