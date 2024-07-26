@@ -60,22 +60,21 @@ title: 2. Literature Review
             -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
-        -   [Game competitions](#game-competitions)
-        -   [Educational Game Jams](#educational-game-jams)
         -   [Coding club(houses) & Grass Roots community
             responses](#coding-clubhouses-grass-roots-community-responses)
-            -   [Code Club, Coder Dojo and Raspberry Jam - a community
-                responses to the needs of
-                informal](#code-club-coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
+            -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
+                Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
+        -   [Game competitions](#game-competitions)
+        -   [Educational Game Jams](#educational-game-jams)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
-        -   [Link to next section - pedagogies exist but more are
-            needed](#link-to-next-section---pedagogies-exist-but-more-are-needed)
-    -   [Conclusion](#conclusion)
-        -   [Synthesis of chapter /
-            discussion](#synthesis-of-chapter-discussion)
+        -   [A final reflection](#a-final-reflection)
+    -   [Synthesis of chapter / discussion / problem
+        statement](#synthesis-of-chapter-discussion-problem-statement)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
+            -   [pedagogies exist but more are
+                needed](#pedagogies-exist-but-more-are-needed)
         -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
     -   [Barriers to participation in game making practices (explored in
@@ -125,8 +124,6 @@ title: 2. Literature Review
             interests](#work-in-non-formal-settings-drawing-on-home-interests)
         -   [Mozilla - Teach the Web as context and
             community](#mozilla---teach-the-web-as-context-and-community)
-        -   [Authentic web technology & Code
-            playgrounds](#authentic-web-technology-code-playgrounds)
             -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
                 MERGE
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
@@ -174,7 +171,6 @@ title: 2. Literature Review
             problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
             -   [Financial challenges](#financial-challenges)
         -   [Removed](#removed)
-
 
 # Literature Review
 
@@ -289,8 +285,13 @@ This deficit in addressing and assessing pedagogies used, is reflective of a com
 
 <!-- NOTE WHERE IS THIS FULLY EXPLORED?  -->
 
+**Is constructionist gaming valid as pedagogy?**
+
+We can ask, What is special about games, and game making pedagogy compared to other interactive projects
+
 Writing on constructionism as an educational approach often focuses on designing software tools and communities which promote an open ended, child-led approach to designing engaging and relatable objects of interest. Within this perspective, a design approach is advocated in general terms.  
 
+NOTE -
 IS THIS THE RIGHT PLACE FOR GENERAL DESIGN APPROACH OR SHOULD IT GO UNDER DESIGN IN PEDAGOGIES?
 
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process. To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.
@@ -301,9 +302,12 @@ Diagram [@resnick_lifelong_2017]
 
 Resnick's writing around this model encourages teachers to create a supportive environment for creativity. Contructionism's long-standing focus on interest-driven projects creating shareable outcomes is an early example of a progressive, hands-on, active learning approach.
 
-However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  In addition, a focus on these elements of pedagogy are  not limited to the school of constructionism. The same principles are are articulated clearly in extensive research on project-based learning processes. Given this wide uptake it is important to draw on the use of pedagogy within PBL to further explore the topic of RQ1 addressing what different pedagogies are available to overcome barriers to STEM project work.
+However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  
 
+LINK
+In addition, a focus on these elements of pedagogy are  not limited to the school of constructionism. The same principles are are articulated clearly in extensive research on project-based learning processes.
 
+Given this wide uptake it is important to draw on the use of pedagogy within PBL to further explore the topic of RQ1 addressing what different pedagogies are available to overcome barriers to STEM project work.
 
 ### Limits and critiques of constructionist game making
 
@@ -328,9 +332,12 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 <!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
 
-#### How games are special
+#### How games are special - IS THIS NEEDED?
 
 <!-- - some thing about rules and Piaget [@kafai_constructionist_2015-1] -->
+
+**Can the use of games themselves act as a way of removing some barriers?**
+
 
 While, the reviews of studies are convincing of the benefits of making games for diverse educational purposes, they are limited in the extent to which they explore how game making is special or different from digital making as a project-based approach.
 IS THIS TRUE?
@@ -344,56 +351,9 @@ While gaming culture has previously raised concerns regarding inclusion, the bro
 FIND SUPPORT
 
 
-#### Beyond constructionist gaming with PBL
-
-As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
-In addition, this section outlines the value of PBL as a more developed framework as well.
-
-**About PBL:**  There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills). Games making as a project can provide: learner choice in projects which increases motivation; authentic and shareable project outcomes to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners.
-
-    <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
+## Barriers (and tensions) related to participation in game making
 
 
-In addition, studies on PBL provides useful evidence for its effectiveness in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8],   
-
-The authors of the reviews above describe the constructivist base for PBL, highlighting the need of a learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction. So how does this compare to activity theory interpretation of PBL? Certainly there is a strong alignment with how change or learning happens in both approaches, and the use of artefacts use in a community is key to both [@gibbes_project-based_2014; @hung_activity_2000].  
-
-To align with the areas of this study, it is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning.
-
-Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014].
-
-Research in the area of digital media production using a PBL methodology exists ADD DETAILS HERE.
-
-Given then broad benefits of PBL to make media, and returning to the claims around Kafai on constructionist games, it invites the question, is there anything particularly special about the use of games as a project?
-
-
-<!-- **Returning to developing Computational Fluency**
-PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
-
-To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
-
-<!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
-
-
-<!-- Benefits which have been explored in research and toolsets privileging these aspects over coding or other skills. -->
-
-<!-- It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in similar research -->
-
- <!-- - Pair programming as guided participation  - in Rogoff and ...? -->
-
-
-
-
-## Barriers to participation in game making
-
-### Barriers linked to identity and values
-
-A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
-
-Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males.
-
-Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlighted the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
-Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
 
 ### Technical  barriers -
 
@@ -428,17 +388,26 @@ GSM
 Unity
 Game Maker  
 
-
-### Other barriers to making games
-
-Other barriers are not limited to the use of computer coding, or identity.
-
 - Lack of what is needed to make a good game.
 
 
+
+### Barriers linked to identity and values
+
+Studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
+
+A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
+
+Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males.
+
+Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlighted the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
+Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
+
 **_Inequality of access to participatory culture communities (Barrier)_**
 
-In these more naturalistic settings, Ito and colleagues note that generative activities are the exception rather than norm even in expressly creative communities [-@ito_hanging_2010]. Productive partnerships in communities like Scratch are extremely rare compared to false starts. Studies of the New Grounds site which has a similar aim of creating media collaborations, via collabs, showed a 80 percent failure rate of collaborative projects [@luther_why_2010].
+In online game making communities, Ito and colleagues [-@ito_hanging_2010] note that generative activities are the exception rather than norm even in expressly creative communities, with another study exposing a 80 percent failure rate of collaborative media projects in a [@luther_why_2010].
+
+More on access.
 
 To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents.
 
@@ -458,6 +427,53 @@ The progression of pedagogies here develops from those on the more formal elemen
 - Benefits of PBL, autonomy / agency /
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
+
+
+### Project-based learning (PBL)
+
+<!-- As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
+In addition, this section outlines the value of PBL as a more developed framework as well. -->
+
+**PBL provides a wide scope of research detailing pedagogical approaches aligned with the aims of this research.**
+
+<!-- There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills).  -->
+
+The educational strategy of learning how to code games in a informal setting lends itself to a project based learning (PBL) approach. The following section explores relevant elements of PBL pedagogies, where possible making alignments with existing game making studies. In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
+
+PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016]. PBL pedagogy aligns with AT concepts of learning in that change happens via the use of artefacts use in a community [@gibbes_project-based_2014; @hung_activity_2000].
+
+    <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
+
+
+
+Critics of PBL often wrongly conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings, other challenges still exist including, lack of frameworks, expertise, confidence in facilitation [@ertmer_essentials_2015-1].
+
+Studies and supporting resources advocating PBL articulate various procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
+
+PBL can be effective in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8], language learning [@gibbes_project-based_2014], and digital making [@weng_characterizing_2022].  However, due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
+
+<!-- It is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning. -->
+
+<!-- Research in the area of digital media production using a PBL methodology exists
+
+Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014]. -->
+
+
+<!-- Given then broad benefits of PBL to make media, and returning to the claims around Kafai on constructionist games, it invites the question, is there anything particularly special about the use of games as a project? -->
+<!-- **Returning to developing Computational Fluency**
+PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
+
+To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
+
+<!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
+
+
+<!-- Benefits which have been explored in research and toolsets privileging these aspects over coding or other skills. -->
+
+<!-- It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in similar research -->
+
+ <!-- - Pair programming as guided participation  - in Rogoff and ...? -->
+
 
 ### Curricular concepts, semantic waves and PRIMM
 
@@ -520,7 +536,7 @@ HOW IS THIS LIMITED?
 
 While the importance of explicit instruction of concepts is outlined, there is no guidance on what concepts should be best explored via this pedagogy. Given the context of of computing, there may be an implicit assumption that teachers turn to the UK curriculum perhaps for guidance.
 
-The model has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts. 
+The model has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts.
 https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
 
 A similar observation can be made of a linked pedagogy that of semantic waves which uses an example of algorithms in one research process but again does not link to an underlying framework of "complex" concepts to illustrate.
@@ -731,11 +747,15 @@ Could move some of this to the results discussion -
 In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
 
 
-
-
 ## Programmes working to address challenge
 
-Specifically barriers - concerning identity, and including a structure of pedagogy
+This section addresses programmes which address barriers  to participation in informal settings.
+
+As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers [Barefoot, NCCE, CAS].
+
+It particularly is concerned with identity, and including a structure of pedagogy
+
+
 
 ### Coding club(houses) & Grass Roots community responses
 
@@ -1474,7 +1494,9 @@ It is also of value to explore PBL as an inclusive pedagogy - WHY?
 
 #### Project Based Learning as an inclusive pedagogy
 
-The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of race, culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017].  Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
+The term inclusion in education no longer addresses solely children with special educational needs and disabilities (SEND) but also examines barriers of race, culture and other exclusionary elements of the school environment and discourse [@black-hawkins_achievement_2008]. The issue of alienation from the culture of computing in schools has been identified as an issue of concern especially for girls and some ethnic minorities [@the_royal_society_after_2017].  
+
+Recent studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
 
 One way to make those connections to home cultures is to allow for more choice of what can be incorporated into computing projects. The benefits of game making as a form of project-based learning (PBL) also align with a teaching framework focused on inclusion called Universal Design for Learning (UDL)[@basham_understanding_2013]. While an analysis of the synergies between PBL and UDL is beyond the remit of this chapter, key characteristics of game making as an educational activity align well with both UDL and project-based approaches. The following sections give three examples.
 
@@ -1494,8 +1516,6 @@ These challenges are often compounded by contextual factors of formal education 
 Specific techniques of PBL and digital making are explored in more depth in chapter two and example of practice are also present in the following case studies.
 
 
-
-
 <!-- The next section deals with inclusive
 Web-based or software activities include game making, meme creation, hobby website creation or making storytelling adventures. Incorporating materials from narrative forms like books, films, games and social media content into computing projects increases the ability for learners to bring their own interests into the mix. However, while the range of materials and possible creative projects is exciting and full for promise for computing teachers, it is not always clear how to best approach these opportunities from an educational point of view. This chapter will explore teaching and learning approaches to increase learner engagement with computing, firstly by defining and exploring concrete approaches, and then by sharing useful classroom tactics.
  pedagogy but Florian and BH make a distinction with other similar terms does this need to be explored?  -->
@@ -1507,9 +1527,15 @@ Web-based or software activities include game making, meme creation, hobby websi
 
 Game making can be seen as an example of the kind of wicked problem favoured in project-oriented problem based learning (referred to from now on as PBL) (Mateas and Stern, 2005). PBL has a variety of forms, an exploration of which is beyond the scope of this study (Aditomo et al., 2013). The most pertinent areas of PBL of to this study are the over-arching focus on authentic learning environments and the process of building learner autonomy within a structured and supportive approach [@hernandez_aalborg_2015]
 
-When learners undertake real life projects with relevance for, or with a direct link to, environments outside of the learning space, there are strong parallels to the models of peripheral participation in communities of practice (Wenger, 1998).  A PBL game making process would do well to foster participation by highlighting playful paths into community participation to maximise group identification and sustainability (Thorsted et al., 2015). Fictional tasks and roles can also impact learner engagement (Heathcote and Herbert, 1985).
+When learners undertake real life projects with relevance for, or with a direct link to, environments outside of the learning space, there are strong parallels to the models of peripheral participation in communities of practice (Wenger, 1998).
 
-The structuring of the learning involved in PBL is highlighted by those wishing to defend it from dismissal as unsupported, pure discovery learning (Hmelo-Silver et al., 2007; Kirschner et al., 2006). We can see parallels in PBL programme design to that tinkering tools and environments in that decisions are made to support specific areas of learner discovery deemed of particular value by carefully obscuring other potentially distracting aspects behind ‘black box’ processes (Resnick and Silverman, 2005).
+FOR THE CONCLUSION / Recommendations?
+
+A PBL game making process would do well to foster participation by highlighting playful paths into community participation to maximise group identification and sustainability (Thorsted et al., 2015). Fictional tasks and roles can also impact learner engagement (Heathcote and Herbert, 1985).
+
+The structuring of the learning involved in PBL is highlighted by those wishing to defend it from dismissal as unsupported, pure discovery learning (Hmelo-Silver et al., 2007; Kirschner et al., 2006).
+
+We can see parallels in PBL programme design to that tinkering tools and environments in that decisions are made to support specific areas of learner discovery deemed of particular value by carefully obscuring other potentially distracting aspects behind ‘black box’ processes (Resnick and Silverman, 2005).
 OTHER HEURISTICS OF CONSTRUCTIONISM
 
 I propose that there guidance and tactics in area of discovery based learning to help balance between learner choice and engaging, open experimentation verses steering towards useful shared concepts is often under explored in research leaving a documentation gap that .   

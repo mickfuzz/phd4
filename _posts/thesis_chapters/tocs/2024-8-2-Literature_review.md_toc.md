@@ -49,22 +49,21 @@
             -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
-        -   [Game competitions](#game-competitions)
-        -   [Educational Game Jams](#educational-game-jams)
         -   [Coding club(houses) & Grass Roots community
             responses](#coding-clubhouses-grass-roots-community-responses)
-            -   [Code Club, Coder Dojo and Raspberry Jam - a community
-                responses to the needs of
-                informal](#code-club-coder-dojo-and-raspberry-jam---a-community-responses-to-the-needs-of-informal)
+            -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
+                Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
+        -   [Game competitions](#game-competitions)
+        -   [Educational Game Jams](#educational-game-jams)
         -   [Creative Family Learning -
             Roque](#creative-family-learning---roque)
-        -   [Link to next section - pedagogies exist but more are
-            needed](#link-to-next-section---pedagogies-exist-but-more-are-needed)
-    -   [Conclusion](#conclusion)
-        -   [Synthesis of chapter /
-            discussion](#synthesis-of-chapter-discussion)
+        -   [A final reflection](#a-final-reflection)
+    -   [Synthesis of chapter / discussion / problem
+        statement](#synthesis-of-chapter-discussion-problem-statement)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
+            -   [pedagogies exist but more are
+                needed](#pedagogies-exist-but-more-are-needed)
         -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
     -   [Barriers to participation in game making practices (explored in
@@ -114,8 +113,6 @@
             interests](#work-in-non-formal-settings-drawing-on-home-interests)
         -   [Mozilla - Teach the Web as context and
             community](#mozilla---teach-the-web-as-context-and-community)
-        -   [Authentic web technology & Code
-            playgrounds](#authentic-web-technology-code-playgrounds)
             -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
                 MERGE
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
