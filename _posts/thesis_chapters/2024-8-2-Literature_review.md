@@ -323,29 +323,23 @@ Before turning to a more detailed exploration of distinct pedagogies used in or 
 
 While gaming culture has previously raised concerns regarding inclusion [], the broad uptake of casual and retro gaming, and its proliferation of retro games in particular into popular culture has helped address this concern and provides a rich fund of knowledge which can be drawn upon in diverse ways. Another strength of the use of games in leaning aligns with a playful approach which can have significant benefits for nurturing a positive attitude of participants [@klopfer_moving_2009]. However, while the inclusion games clearly favour these elements, the  use of home interests and the use of a playful approach are not unique to game making.
 
-Kafai and Burke also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexiy.
+Kafai and Burke also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity.
 
-Turning to a more general theory of learning, writing on constructionism as an educational approach often focuses on designing software tools and communities which promote an open ended, child-led approach to designing engaging and relatable objects of interest.
+MERGE WITH SECTION IN INTRODUCTION - OR MOVE SOME OF THIS TO CHAPTER 3. WHAT TO KEEP?
 
----
+Turning to theories of learning, constructionism promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has historically focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016]. While, Kafia, a leading constructionist researcher, notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], and some of the studies brought under the umbrella of _constructionist gaming_ do describe the pedagogical scaffolding and structure used to support these approaches, most do not. Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
 
-Within this perspective, a design and project based approach is advocated, details of which are explored in the pedagogy section of this chapter. e research on project-based learning processes.
+<!-- Within this perspective, a design and project based approach is advocated, details of which are explored in the pedagogy section of this chapter. e research on project-based learning processes. -->
+<!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
+<!-- However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult. -->
 
-
-This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place.
-
-However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult.
-
-While some of the studies outlined above do mention scaffolding in place, many do not.
-
----
 
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
 It behoves us to revisit the purpose of game making. Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
 
-It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
+It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on. 
 
 <!-- **Returning to developing Computational Fluency**
 PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
@@ -421,20 +415,24 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ### Design steps frameworks via stages - COMPRESS AS A SUBSECTION OF PBL?
 
-Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@mouza_imagining_2013; @resnick_all_2007; @winarno_steps_2020-1].
+Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1].
 
 
-Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners. One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process. To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.
+Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners.  To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. This model is a more adapted from many similar expressions of iterative design stages in the domain design thinking to focus on more individual ideas of creativity. See figure 2.x for one example from the Stanford dschool  [@dam_5_2024].
 
-![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+![Design thinking stages](./Pictures/designthinkingchart_orig.png)
+
+Figure 2.x. Design thinking via design stages.  
+
+<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
 Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
-Diagram [@resnick_lifelong_2017]
+Diagram [@resnick_lifelong_2017] -->
 
-Resnick's writing around this model encourages teachers to create a supportive environment for creativity. Contructionism's long-standing focus on interest-driven projects creating shareable outcomes is an early example of a progressive, hands-on, active learning approach.
+One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  
+<!-- However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.   -->
 
-
+<!--
 A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
 
     Ask: Identify the Need & Constraints;
@@ -442,20 +440,21 @@ A typical framework from teach engineering website [@noauthor_engineering_nodate
     Imagine: Develop Possible Solutions;
     Plan: Select a Promising Solution;
     Create: Build a Prototype;
-    Test and Evaluate Prototype; and Improve: Redesign as Needed
+    Test and Evaluate Prototype; and Improve: Redesign as Needed -->
 
-While the value of design thinking stages for educators planning sessions seems clear, there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products.  
-
-Elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015]. However little guidance is provide and not stream really followed up unlike the focus on computational thinking [@sentance_teachers_2015]
-
-Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communties to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective.
-
-One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
-
-A wider review of design framework in STEM settings details discussion of varied definitions of stages themselves but less relating to the impact of the pedagogical use of design stages on learners [@winarno_steps_2020-1].
-
+While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products. Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective. One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
 The authours, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
-ADD TO THE PROBLEMS STATEMENT.
+ADD TO THE PROBLEMS STATEMENT.  
+
+<!-- Elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015]. However little guidance is provide and not stream really followed up unlike the focus on computational thinking [@sentance_teachers_2015] -->
+
+
+
+
+
+<!-- A wider review of design framework in STEM settings details discussion of varied definitions of stages themselves but less relating to the impact of the pedagogical use of design stages on learners [@winarno_steps_2020-1]. -->
+
+
 
 ### Curricular concepts, semantic waves and PRIMM
 
