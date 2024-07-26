@@ -520,6 +520,9 @@ HOW IS THIS LIMITED?
 
 While the importance of explicit instruction of concepts is outlined, there is no guidance on what concepts should be best explored via this pedagogy. Given the context of of computing, there may be an implicit assumption that teachers turn to the UK curriculum perhaps for guidance.
 
+The model has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts. 
+https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
+
 A similar observation can be made of a linked pedagogy that of semantic waves which uses an example of algorithms in one research process but again does not link to an underlying framework of "complex" concepts to illustrate.
 
 
