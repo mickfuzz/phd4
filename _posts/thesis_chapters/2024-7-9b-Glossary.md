@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 9b. Glossary 
+title: 9b. Glossary
 ---
 
 # Glossary
@@ -39,6 +39,8 @@ Work in progress here -
 Killer / Griefer is a concept which is emotive as the process of playing against the rules may be entertaining for those that engage with it. In the context of a multi-player game with people investing time and energy.
 
 ### Context / Community
+
+**Digital making:** A broad field involving the maker community, physical computing and participation in on-line digital making communities. 
 
 **Coder Dojo:**
 

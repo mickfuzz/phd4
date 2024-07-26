@@ -8,27 +8,25 @@
         -   [Home eduction contextual factors relevant to this
             study](#home-eduction-contextual-factors-relevant-to-this-study)
         -   [Defining informal](#defining-informal)
-        -   [Game and media making in informal
-            communities](#game-and-media-making-in-informal-communities)
-    -   [A summary of research and reviews of game making from a
-        constructionist
-        framework](#a-summary-of-research-and-reviews-of-game-making-from-a-constructionist-framework)
-        -   [Limits and critiques of constructionist game
-            making](#limits-and-critiques-of-constructionist-game-making)
-            -   [How games are special](#how-games-are-special)
-            -   [Beyond constructionist gaming with
-                PBL](#beyond-constructionist-gaming-with-pbl)
-    -   [Barriers to participation in game
-        making](#barriers-to-participation-in-game-making)
+    -   [A review of research on the potential of computer game design
+        and programming (CGD&P) in informal
+        settings](#a-review-of-research-on-the-potential-of-computer-game-design-and-programming-cgdp-in-informal-settings)
+        -   [Digital media making in informal
+            communities](#digital-media-making-in-informal-communities)
+        -   [Game studies making](#game-studies-making)
+    -   [Barriers (and tensions) related to participation in game
+        making](#barriers-and-tensions-related-to-participation-in-game-making)
+        -   [Technical barriers](#technical-barriers)
         -   [Barriers linked to identity and
             values](#barriers-linked-to-identity-and-values)
-        -   [Technical barriers -](#technical-barriers--)
-            -   [Difficulty of computer programming via
-                coding](#difficulty-of-computer-programming-via-coding)
-        -   [Other barriers to making
-            games](#other-barriers-to-making-games)
+        -   [Deconstructing the concept of constructionist
+            gaming](#deconstructing-the-concept-of-constructionist-gaming)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
+        -   [Project-based learning (PBL)](#project-based-learning-pbl)
+        -   [Design steps frameworks via stages - COMPRESS AS A
+            SUBSECTION OF
+            PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
         -   [Curricular concepts, semantic waves and
             PRIMM](#curricular-concepts-semantic-waves-and-primm)
             -   [Semantic Profiles and
@@ -43,8 +41,6 @@
                 Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Design steps frameworks via
-            stages](#design-steps-frameworks-via-stages)
         -   [Design patterns](#design-patterns)
             -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
@@ -126,7 +122,7 @@
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
         -   [Game making studies addressing gender and
             race](#game-making-studies-addressing-gender-and-race)
-    -   [Project Based Learning (PBL)](#project-based-learning-pbl)
+    -   [Project Based Learning (PBL)](#project-based-learning-pbl-1)
         -   [Project Based Learning as an inclusive
             pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
         -   [Complications with Project Based
