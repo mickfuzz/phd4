@@ -339,7 +339,7 @@ In their review and a critique constructionist approaches to game making, Thumle
 
 It behoves us to revisit the purpose of game making. Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
 
-It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on. 
+It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
 
 <!-- **Returning to developing Computational Fluency**
 PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
@@ -381,8 +381,6 @@ The educational strategy of learning how to code games in a informal setting len
 PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016]. PBL pedagogy aligns with AT concepts of learning in that change happens via the use of artefacts use in a community [@gibbes_project-based_2014; @hung_activity_2000].
 
     <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
-
-
 
 Critics of PBL often wrongly conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings, other challenges still exist including, lack of frameworks, expertise, confidence in facilitation [@ertmer_essentials_2015-1].
 
@@ -449,47 +447,8 @@ ADD TO THE PROBLEMS STATEMENT.
 <!-- Elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015]. However little guidance is provide and not stream really followed up unlike the focus on computational thinking [@sentance_teachers_2015] -->
 
 
-
-
-
 <!-- A wider review of design framework in STEM settings details discussion of varied definitions of stages themselves but less relating to the impact of the pedagogical use of design stages on learners [@winarno_steps_2020-1]. -->
 
-
-
-### Curricular concepts, semantic waves and PRIMM
-
-**PRIMM uses concepts of semantic profile to try to align instruction based approaches with a sociocultural approach (or at least some hands-on approaches)**
-
-A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.  
-
-Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
-
-In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
-
-#### Semantic Profiles and Waves
-
-Introduction to semantic waves.  
-[@maton_making_2013]
-
-SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
-https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
-
-
-CT instruction can be aided with a focus of teachers on semantic profiles and waves.
-
-Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
-
-Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
-
-
-
-<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
-
-![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
-
-Figure 3.1 A Semantic Profile with Semantic Waves
-
-Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
 
 #### PRIMM
 
@@ -498,7 +457,7 @@ FIND MATERIAL IN OTHER BOOK CHAPTERS
 PRIMM addresses the perceived need for  structured and explicit approach to teaching computing concepts and is particularly aimed at a school setting [@sentance_teaching_2019].
 
 
-In proposing PRIMM Sentence et al  highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance.
+In proposing PRIMM Sentence et al highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance.
 
 To address this without fully embracing an instruction, expert-led approach, which in any case is not possible given limited experience of many teachers, the author propose Primm
 
@@ -522,9 +481,6 @@ https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
 
 A similar observation can be made of a linked pedagogy that of semantic waves which uses an example of algorithms in one research process but again does not link to an underlying framework of "complex" concepts to illustrate.
 
-
-
-THIS COUDL BE PUT BEFORE CT - AND THEN CT IS EXPLPORED AS A FRAMEWORK OF CONCEPTS - THEN A PEDAGOGY
 
 DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE
 
@@ -1666,3 +1622,38 @@ Corporate funding code.org. (Google)
 - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
 -hci and affordance theory, technical barriers ,
 solved by design - link with contructionism
+
+
+
+### Curricular concepts, semantic waves and PRIMM
+
+**PRIMM uses concepts of semantic profile to try to align instruction based approaches with a sociocultural approach (or at least some hands-on approaches)**
+
+A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.  
+
+Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
+
+In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
+
+#### Semantic Profiles and Waves
+
+Introduction to semantic waves.  
+[@maton_making_2013]
+
+SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
+https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
+
+
+CT instruction can be aided with a focus of teachers on semantic profiles and waves.
+
+Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
+
+Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
+
+<!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
+
+![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+
+Figure 3.1 A Semantic Profile with Semantic Waves
+
+Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
