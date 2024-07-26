@@ -449,39 +449,20 @@ ADD TO THE PROBLEMS STATEMENT.
 <!-- A wider review of design framework in STEM settings details discussion of varied definitions of stages themselves but less relating to the impact of the pedagogical use of design stages on learners [@winarno_steps_2020-1]. -->
 
 
-#### PRIMM
 
-FIND MATERIAL IN OTHER BOOK CHAPTERS
+### Pair programming & social/collaborative coding
 
-PRIMM addresses the perceived need for  structured and explicit approach to teaching computing concepts and is particularly aimed at a school setting [@sentance_teaching_2019].
-
-
-In proposing PRIMM Sentence et al highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance.
-
-To address this without fully embracing an instruction, expert-led approach, which in any case is not possible given limited experience of many teachers, the author propose Primm
+**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
 
 
-    **PRIMM:** PRIMM stands for Predict, Run, Investigate, Modify and Make. This model helps learners adopt coding practices and computational concepts through providing a concrete code example that they run after predicting what it does. Learners make changes to the existing code before finally creating code from scratch. PRIMM's starting point is students predicting existing code results. Asking students to identify target computing concepts in code examples allows teachers to guide students towards key computational thinking process or algorithmic details. Thus, PRIMM is well suited to the classroom as starting with prediction of a code allows a whole class of learners to unpack and repack the same set of concepts in a restricted time scale. This process that supports formal problem solving, paper-based questions of the GCSE exams. The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. For a more detailed summary of the PRIMM approach the Quick Read pedagogy article.[^5]
+See Robertson
 
-    Primm based on UMC but developed to highlight abstract concepts and processes via a predict stage.
+Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
 
+**Concepts** -  perhaps some of the underlying concepts like
+- joint problem spaces
+- resource interdependence from Preston
 
-
-The authors note elements of align the approach with socio-cultural concepts, like mediation, use of language and ZPD.
-
-These principles are put into action through drawing on _carefully selected content_ from the social plane [-@sentance_teaching_2019, p. 2].
-
-HOW IS THIS LIMITED?
-
-While the importance of explicit instruction of concepts is outlined, there is no guidance on what concepts should be best explored via this pedagogy. Given the context of of computing, there may be an implicit assumption that teachers turn to the UK curriculum perhaps for guidance.
-
-The model has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts.
-https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
-
-A similar observation can be made of a linked pedagogy that of semantic waves which uses an example of algorithms in one research process but again does not link to an underlying framework of "complex" concepts to illustrate.
-
-
-DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE
 
 ### Use Modify Create
 
@@ -524,60 +505,61 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
 
-### Microworlds
+### PRIMM
 
-#### Microworlds as an embodiment of UMC and other constructionist design principles
+In proposing PRIMM Sentence et al highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance. To address this without fully embracing an instruction, expert-led approach, the author propose PRIMM model, signifying Predict, Run, Investigate, Modify and Make.
+
+Thus, PRIMM extends the UMC model, Modify, adding three stages to the start. Learners are presented with a providing a concrete code example and predicting what it will do, checking the results against they running it. With guidance learners investigate possible changes that can be made to the code before modifying it. The final, Make stage (as with Create in UMC) suggests students creating programs or larger elements of code structures from scratch.
+
+Noting recent calls align computing education with sociocultural approaches [@tenenberg_out_2014], the authors draw on concepts, of mediation and ZPD.
+These principles are put into action, in part, through drawing on _carefully selected content_ from the social plane [-@sentance_teaching_2019, p. 2].
+
+PRIMM has been developed with the the computing classroom in mind, drawing on concepts such as
+differentiation to make concepts _accessible by all learners in a class_. Prediction of a code allows a whole class of learners to unpack and repack the  key computational concepts or process.
+
+<!-- in a restricted time scale. -->
+<!-- This process that supports formal problem solving, paper-based questions of the GCSE exams.  -->
+
+While the importance of explicit instruction of concepts is outlined, there is no guidance on what concepts should be best explored via this pedagogy. Given the context of of computing, there may be an implicit assumption that teachers turn to the UK curriculum perhaps for guidance. To illustrate this, PRIMM has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts.
+https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
+
+Data from research, response of teachers .
+
+PRIMM while suitable to schools, is not incompatable with informal environments, PRIMM process does not need to happen as whole group activity. Teachers adapted the process, so quicker students did more than one.
+
+
+
+<!-- The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. -->
+<!-- DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE -->
+
+
+### Half-baked games as Microworlds
+
+The concept of 'half-baked' games and microworlds, proposed by Kynigos and colleagues outlines which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve it. Half-baked games can be designed in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts.
+
+This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993]. While Kynigos' design promoted the acquisition of computational thinking, Microworlds can facilatate the exploration of diverse concepts [@rieber_microworlds_2004].
+
+Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
+
+Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
+
+
 
 <!-- Constructionist design principles emerge in tandem with the frequent revision of the tools in question in response to the direction and interest of the community. This form of praxis is illustrated in a good level of detail in Papert's extensive pedagogical writings and the community of researchers and educators clustered around development of scratch and associated pedagogies. -->
 
-Papert's concept of microworlds refers to simplified computer simulations or models that provide a controlled environment in which students can explore and experiment with maths or physics concepts in a concrete  way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].
-
-Mircoworlds can be seen as the germ from which constructionist principles came in to focus  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014].
+<!-- Mircoworlds can be seen as the germ from which constructionist principles came in to focus  [@kafai_constructionism_1996-1; @kafai_mindstorms_2014]. -->
 
 <!-- Papert believed that microworlds were an effective tool for promoting computational thinking. His take on CT however, should be contrasted to a abstracted later take from Wing [@lodi_computational_2021]. -->
 
 <!-- Instead here CT concepts are heuristics developed from concrete experience.  This concept of CT as a set of heuristics or design behaviours continues in practitioner-focused interpretations of CT. -->
 
 
-Papert argued that microworlds could help students develop computational thinking skills by providing them with concrete objects and opportunities to experiment with computational processes and to reflect on their own thinking. Via microworlds, students  engage in hands-on learning, to develop a deeper and more meaningful understanding of the concepts they were studying.
+<!-- Papert argued that microworlds could help students develop computational thinking skills by providing them with concrete objects and opportunities to experiment with computational processes and to reflect on their own thinking. Via microworlds, students  engage in hands-on learning, to develop a deeper and more meaningful understanding of the concepts they were studying. -->
 
 <!-- In addition to the software based tool of the microworld, the social context is key to the whole process. -->
-
-While, examples of a Microworlds are diverse [@rieber_microworlds_2004], a Turtle drawing world using  LOGO can be used here as an example. In the Mathland of the turtle which speaks only LOGO, children are drawn to speak LOGO to progress. The affordances of the physical turtle provide visible motivation.
-
-The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1].
-
-Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
-
-Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction.
-
-#### Half-baked games as Microworlds
-
-The concept of 'half-baked' games, which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve them offers a possible enchancement to the 'Use-Modify-Create' model []
-
-This concept of builds on Papert's concept of micro world used a framework for making and coding.
-
-The focus of half-baked games is to design them in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts, in this case computational thinking.
-
-Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
-
-
-
-### Pair programming & social/collaborative coding
-
-**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
-
-
-See Robertson
-
-Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
-
-**Concepts** -  perhaps some of the underlying concepts like
-- joint problem spaces
-- resource interdependence from Preston
-
-
-
+<!--
+The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1]. -->
+<!-- Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction. -->
 
 ### Design patterns
 
