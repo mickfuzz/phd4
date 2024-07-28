@@ -583,11 +583,19 @@ Kynigos and Yiannoutsou identify a progression in the type of CT skills being us
 <!--
 The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1]. -->
 <!-- Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction. -->
+onal Sophicistication - using game patterns as a higher leve.
 
+which learners construct from scratch.
+
+My resear
 ### Design patterns
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
+onal Sophicistication - using game patterns as a higher leve.
 
+which learners construct from scratch.
+
+My resear
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
 
 
@@ -624,6 +632,9 @@ The use of a collection of design patterns, while primarily used in professional
 
 Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
 The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
+
+
+
 
 
 To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
@@ -772,7 +783,7 @@ Including some of the following elements
 - **Structural challenges continue but the stuggle continues:** schools, curriculum etc, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
 
-
+Regarding game design patters, in the  work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  My research instead asks how the similar packaging up of components into GDPs can be used as a navigational and content delivery mechanism. 
 
 
 ### The problem statement of the thesis
