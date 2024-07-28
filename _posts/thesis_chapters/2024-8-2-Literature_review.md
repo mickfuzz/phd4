@@ -250,6 +250,9 @@ Turning more specifically studies on computer game design and programming (CGD&P
 Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant. Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017]. The narrative and celebratory nature of Kafai and Burke's review can be compared with that of Denner et al[@denner_does_2019;], who take a systematic approach in their review and make more modest claims regarding the effectiveness of CGD&P to develop computing science learning and motivation.
 However, their cautious finding are also broadly positive. They outline three strands of pedagogical interest, use of design cycles, stepwise approaches (WHICH IS WHAT), and social approaches. They conclude by noting the need for more research describing and evaluating pedagogy in more detail.
 
+THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!! 
+
+
 <!-- This deficit in addressing and assessing pedagogies used, is reflective of a comparatively weakness of concepts of pedagogy within the wider constructionist theory, a dimension which is explored after the next section barriers to participation. -->
 
 <!-- In related work, Robertson's drew on storytelling games, to access participant knowledge in accessible ways []] -->
@@ -301,7 +304,7 @@ Kafai and Burke also note the benefits to exploring games over other types of me
 
 MERGE WITH SECTION IN INTRODUCTION - OR MOVE SOME OF THIS TO CHAPTER 3. WHAT TO KEEP?
 
-Turning to theories of learning, constructionism promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has historically focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016]. While, Kafia, a leading constructionist researcher, notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], and some of the studies brought under the umbrella of _constructionist gaming_ do describe the pedagogical scaffolding and structure used to support these approaches, most do not. Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
+Turning to theories of learning, constructionism promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has historically focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016]. While, Kafaa, a leading constructionist researcher, notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], and some of the studies brought under the umbrella of _constructionist gaming_ do describe the pedagogical scaffolding and structure used to support these approaches, most do not. Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
 
 <!-- Within this perspective, a design and project based approach is advocated, details of which are explored in the pedagogy section of this chapter. e research on project-based learning processes. -->
 <!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
@@ -413,8 +416,12 @@ A typical framework from teach engineering website [@noauthor_engineering_nodate
     Test and Evaluate Prototype; and Improve: Redesign as Needed -->
 
 While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products. Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective. One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
-The authours, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
+The authors, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
 ADD TO THE PROBLEMS STATEMENT.  
+
+
+
+
 
 <!-- Elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015]. However little guidance is provide and not stream really followed up unlike the focus on computational thinking [@sentance_teachers_2015] -->
 
@@ -516,8 +523,6 @@ In addition, the authors use the metaphor of learning coding as a multi-layered 
 PERHAPS IN SYNTHESIS - MOVE?
 As a critique of PRIMM, while the authors do link to some sociocultural concepts, it is limited in the extent to which the learning environment is addressed, compared to some of the other approaches of this chapter, particularly  PBL which has a shared driving question on challenge that the learning community addresses together.
 
-
-
 <!-- The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. -->
 <!-- DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE -->
 
@@ -598,10 +603,6 @@ The use of a collection of design patterns, while primarily used in professional
 
 Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
 The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
-
-
-
-
 
 To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
 Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
