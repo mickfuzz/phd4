@@ -18,40 +18,33 @@ title: 2. Literature Review
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
         -   [Home eduction contextual factors relevant to this
             study](#home-eduction-contextual-factors-relevant-to-this-study)
-        -   [Defining informal](#defining-informal)
-    -   [A review of research on the potential of computer game design
-        and programming (CGD&P) in informal
-        settings](#a-review-of-research-on-the-potential-of-computer-game-design-and-programming-cgdp-in-informal-settings)
-        -   [Digital media making in informal
-            communities](#digital-media-making-in-informal-communities)
-        -   [Game studies making](#game-studies-making)
-    -   [Barriers (and tensions) related to participation in game
-        making](#barriers-and-tensions-related-to-participation-in-game-making)
+        -   [Defining informal education](#defining-informal-education)
+    -   [A review of relevant research informing computer game design
+        and programming
+        (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
+        -   [Barriers (and tensions) related to participation in game
+            making](#barriers-and-tensions-related-to-participation-in-game-making)
         -   [Technical barriers](#technical-barriers)
         -   [Barriers linked to identity and
             values](#barriers-linked-to-identity-and-values)
-    -   [Deconstructing the concept of constructionist
-        gaming](#deconstructing-the-concept-of-constructionist-gaming)
+    -   [Deconstructing the concept of constructionist gaming AND for
+        the aim of (HOW DOES THIS HELP THE PROBLEM
+        STATEMENT?)](#deconstructing-the-concept-of-constructionist-gaming-and-for-the-aim-of-how-does-this-help-the-problem-statement)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Design steps frameworks via stages - COMPRESS AS A
             SUBSECTION OF
             PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
-            -   [PRIMM](#primm)
-        -   [Use Modify Create](#use-modify-create)
-        -   [Microworlds](#microworlds)
-            -   [Microworlds as an embodiment of UMC and other
-                constructionist design
-                principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
-            -   [Half-baked games as
-                Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Design patterns](#design-patterns)
+        -   [Use Modify Create](#use-modify-create)
+        -   [PRIMM](#primm)
+        -   [Half-baked games as
+            Microworlds](#half-baked-games-as-microworlds)
             -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
-        challenge](#programmes-working-to-address-challenge)rs
+        challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community
             responses](#coding-clubhouses-grass-roots-community-responses)
             -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
@@ -226,7 +219,7 @@ In this section, the term informal is located briefly using two dimensions: one 
 
 Turning to the structural dimension of educations, here a lack of a clear division between formal and informal approaches is also present [@rogoff_organization_2016]. Rogoff outline a false dichotomy between _children-led_ (based on free exploration), and _adult-led_ (focused on direct instruction) approaches [@rogoff_observing_1995, p.211], proposing instead a more complex community understanding of learning that includes concepts of guided participation and apprenticeship [@rogoff_developing_1994]. While, these concepts are explored in more detail in the following chapter, at this point, it is sufficient for the discussion of this chapter, to introduce guided participation as a process of active involvement in cultural and social activities, under the guidance of more experienced individuals, as an alternative view a children-led / adult-led spectrum.  
 
-## A review of research on the potential of computer game design and programming (CGD&P) in informal settings
+## A review of relevant research informing computer game design and programming (CGD&P)
 
 Before addressing studies directly focused on computer game design and programming (CGD&P) it is relevant to examine an area that in part stimulated the interest and motivation to explore the area of game making as a potential vehicle for diverse learning outcomes, that of digital media and game making and meta-gaming in informal communities. The observations of young people's enthusiastic involvement in online communities discussion gaming culture and related creative activities sparked questions on how to best leverage this interest for other educational aims [@gee_what_2004; @papert_mindstorms_1980].  
 Gee frames the informal, often online communities as affinity spaces [@gee_what_2004] and the activities and culture created around games as meta-gaming, examining how shared discourses and emerging identities develop within these spaces.
@@ -245,9 +238,9 @@ SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN. -->
 <!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
 
 
-### A review of studies on computer game design and programming (CGD&P)
+<!-- ### A review of studies on computer game design and programming (CGD&P) -->
 
-Turning more specifically to CDG&P, there are several notable reviews exploring the broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Some reviews focus on key areas of CGD&P, for instance, Bermingham et al [@bermingham_approaches_2013] emphasise 21st Century skills, while Gee and Tran discuss the diverse tools available for game design [-@gee_video_2016]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review[-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions. These include studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. These competencies are commonly known as 21st Century Skills.
+Turning more specifically studies on computer game design and programming (CGD&P), there are several notable reviews exploring the broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Some reviews focus on key areas of CGD&P, for instance, Bermingham et al### A review of studies on computer game design and programming (CGD&P) [@bermingham_approaches_2013] emphasise 21st Century skills, while Gee and Tran discuss the diverse tools available for game design [-@gee_video_2016]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review[-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions. These include studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. These competencies are commonly known as 21st Century Skills.
 
 
 <!-- Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. -->
@@ -263,11 +256,11 @@ However, their cautious finding are also broadly positive. They outline three st
 <!-- What is missing?
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
 
-## Barriers (and tensions) related to participation in game making
+### Barriers (and tensions) related to participation in game making
+
 
 
 ### Technical barriers
-
 
 **Difficulty of computer programming**
 
@@ -295,12 +288,12 @@ More on access.
 
 To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents.
 
-## Deconstructing the concept of constructionist gaming
+## Deconstructing the concept of constructionist gaming AND for the aim of (HOW DOES THIS HELP THE PROBLEM STATEMENT?)
 
 Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P, this section explores the value and limits of the broad proposition of Kafai and Burke's framing of _constructionist gaming_, firstly by examining if games present particular opportunities compared to other digital products and then by articulating the limits of claims surrounding constructionism as a guiding pedagogy.
 
 
-<!-- Kafai and Burke note that while there are benefits to exploring games over other types of media projects, including their inherent rules based systems, which facilitate the exploration of systems thinking and design approaches, a potential problem with prioritising games is the gender elements associated with gameing - THIS IS CONFUSED IN THE ORIGINAL -->
+Kafai and Burke note that while there are benefits to exploring games over other types of media projects, including their inherent rules based systems, which facilitate the exploration of systems thinking and design approaches, a potential problem with prioritising games is the gender elements associated with gameing - THIS IS CONFUSED IN THE ORIGINAL
 
 While gaming culture has previously raised concerns regarding inclusion [], the broad uptake of casual and retro gaming, and its proliferation of retro games in particular into popular culture has helped address this concern and provides a rich fund of knowledge which can be drawn upon in diverse ways. Another strength of the use of games in leaning aligns with a playful approach which can have significant benefits for nurturing a positive attitude of participants [@klopfer_moving_2009]. However, while the inclusion games clearly favour these elements, the  use of home interests and the use of a playful approach are not unique to game making.
 
@@ -313,8 +306,6 @@ Turning to theories of learning, constructionism promote an open ended, child-le
 <!-- Within this perspective, a design and project based approach is advocated, details of which are explored in the pedagogy section of this chapter. e research on project-based learning processes. -->
 <!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
 <!-- However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult. -->
-
-
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
@@ -337,8 +328,6 @@ One of the main themes of this review is to address what pedagogies are availabl
 The following have been selected as particularly aligned to the scope of the research, digital making in informal approaches (game making specifically when possible) and developing agency. It also focuses on real life rather than online pedagogies (justify this).
 
 The progression of pedagogies here develops from those on the more formal elements, teacher led, and develop to describe key features of coding clubs and informal programs.
-
-
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
 
@@ -401,11 +390,11 @@ Many design frameworks exist in diverse areas of production with varied degrees 
 
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners.  To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. This model is a more adapted from many similar expressions of iterative design stages in the domain design thinking to focus on more individual ideas of creativity. See figure 2.x for one example from the Stanford dschool  [@dam_5_2024].
 
-![Design thinking stages](./Pictures/designthinkingchart_orig.png)
+![Design thinking stages](./Pictures/designthinkingchart_orig.png){width=90%}
 
-Figure 2.x. Design thinking via design stages.  
+Figure 2.x. Design thinking via design stages model from Stanford dschool
 
-<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg)
+<!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg){width=90%}
 Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
 Diagram [@resnick_lifelong_2017] -->
 
@@ -584,7 +573,7 @@ The concept of computational design patterns is well explored in the professiona
 
 Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
 
-#### Game(play) design patterns
+### Game(play) design patterns
 
 The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns. Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player.
 

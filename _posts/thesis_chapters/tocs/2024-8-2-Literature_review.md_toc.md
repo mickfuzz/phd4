@@ -7,37 +7,30 @@
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
         -   [Home eduction contextual factors relevant to this
             study](#home-eduction-contextual-factors-relevant-to-this-study)
-        -   [Defining informal](#defining-informal)
-    -   [A review of research on the potential of computer game design
-        and programming (CGD&P) in informal
-        settings](#a-review-of-research-on-the-potential-of-computer-game-design-and-programming-cgdp-in-informal-settings)
-        -   [Digital media making in informal
-            communities](#digital-media-making-in-informal-communities)
-        -   [Game studies making](#game-studies-making)
-    -   [Barriers (and tensions) related to participation in game
-        making](#barriers-and-tensions-related-to-participation-in-game-making)
+        -   [Defining informal education](#defining-informal-education)
+    -   [A review of relevant research informing computer game design
+        and programming
+        (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
+        -   [Barriers (and tensions) related to participation in game
+            making](#barriers-and-tensions-related-to-participation-in-game-making)
         -   [Technical barriers](#technical-barriers)
         -   [Barriers linked to identity and
             values](#barriers-linked-to-identity-and-values)
-    -   [Deconstructing the concept of constructionist
-        gaming](#deconstructing-the-concept-of-constructionist-gaming)
+    -   [Deconstructing the concept of constructionist gaming AND for
+        the aim of (HOW DOES THIS HELP THE PROBLEM
+        STATEMENT?)](#deconstructing-the-concept-of-constructionist-gaming-and-for-the-aim-of-how-does-this-help-the-problem-statement)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Design steps frameworks via stages - COMPRESS AS A
             SUBSECTION OF
             PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
-            -   [PRIMM](#primm)
-        -   [Use Modify Create](#use-modify-create)
-        -   [Microworlds](#microworlds)
-            -   [Microworlds as an embodiment of UMC and other
-                constructionist design
-                principles](#microworlds-as-an-embodiment-of-umc-and-other-constructionist-design-principles)
-            -   [Half-baked games as
-                Microworlds](#half-baked-games-as-microworlds)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
-        -   [Design patterns](#design-patterns)
+        -   [Use Modify Create](#use-modify-create)
+        -   [PRIMM](#primm)
+        -   [Half-baked games as
+            Microworlds](#half-baked-games-as-microworlds)
             -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
