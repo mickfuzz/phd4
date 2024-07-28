@@ -51,7 +51,7 @@ title: 2. Literature Review
         -   [Design patterns](#design-patterns)
             -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
-        challenge](#programmes-working-to-address-challenge)
+        challenge](#programmes-working-to-address-challenge)rs
         -   [Coding club(houses) & Grass Roots community
             responses](#coding-clubhouses-grass-roots-community-responses)
             -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
@@ -181,7 +181,7 @@ title: 2. Literature Review
 
 <!-- **Specifics of structure**
 
-- context
+- contextrs
   - Why make games for education?
     - a review of the literature
     - motivation for making games
@@ -220,65 +220,42 @@ The processes and motivations driving of home education are varied [@fensham-smi
 Illich's work around deschooling promotes an idea of webs of learning. Instead of one educational site as the font of all knowledge, learners  access learning experiences in varied contexts based on their interests and needs [@illich_deschooling_1971].
 Many home educating families are active in identifying networks to tap into [@doroudi_relevance_2023] using friendship and social networking groups and email to share opportunities and collaborate on learning activities.
 
-### Defining informal
+### Defining informal education
 
-**Via Setting:**
+In this section, the term informal is located briefly using two dimensions: one of setting and another of educational structure. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.
 
-While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2004] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term 'non-formal' describe learning that happens outside of formal institutions that may involve little instruction but still comprises a carefully planned learner experience, in contrast to both formal and unstructured (informal) learning. This study uses the term 'non-formal' in this way, and the term 'informal' is used more loosely to indicate learning activities happening outside of a classroom lesson.
-
-**Via structural approach:**
-
-The lack of a clear division between formal and informal approaches is also present in the degree to which that learning is structured.
-
-Rogoff, outlines a false dichotomy between child-led and teacher led approaches. Presenting guided participation as a middling concept.
-
-
+Turning to the structural dimension of educations, here a lack of a clear division between formal and informal approaches is also present [@rogoff_organization_2016]. Rogoff outline a false dichotomy between _children-led_ (based on free exploration), and _adult-led_ (focused on direct instruction) approaches [@rogoff_observing_1995, p.211], proposing instead a more complex community understanding of learning that includes concepts of guided participation and apprenticeship [@rogoff_developing_1994]. While, these concepts are explored in more detail in the following chapter, at this point, it is sufficient for the discussion of this chapter, to introduce guided participation as a process of active involvement in cultural and social activities, under the guidance of more experienced individuals, as an alternative view a children-led / adult-led spectrum.  
 
 ## A review of research on the potential of computer game design and programming (CGD&P) in informal settings
 
-
-<!-- also
-    - From Kafai's review (not directly) draw on
-    - personal
-    - more general / social / 21st C,
-    - Computational Fluency - expression [@bers_coding_2021; @resnick_closing_2001; @resnick_fulfilling_2017] -->
-
-
-### Digital media making in informal communities
-
-Researcher Ito's ethnographic approach to studies of informal digital consumption and making in the home  [@ito_connected_2013-1; @ito_hanging_2010; @ito_living_2009], deconstructs the progression of proficient young makers of digital products in online communities
-
-Gee frames the informal, often online communities as affinity spaces [@gee_what_2004] and the activities and culture created around games as metagaming, examining how shared discourses and emerging identities develop within these spaces. The work of the these scholars is well represented in a broad pedagogical approach described as Connected Learning [@ito2013connected]. This book connects the ethos of varied case studies and design approaches, to the sociocultural approach of viewing learning as embedded within social and cultural contexts.  
+Before addressing studies directly focused on computer game design and programming (CGD&P) it is relevant to examine an area that in part stimulated the interest and motivation to explore the area of game making as a potential vehicle for diverse learning outcomes, that of digital media and game making and meta-gaming in informal communities. The observations of young people's enthusiastic involvement in online communities discussion gaming culture and related creative activities sparked questions on how to best leverage this interest for other educational aims [@gee_what_2004; @papert_mindstorms_1980].  
+Gee frames the informal, often online communities as affinity spaces [@gee_what_2004] and the activities and culture created around games as meta-gaming, examining how shared discourses and emerging identities develop within these spaces.
+Researcher Ito's ethnographic approach to studies of informal digital consumption and making in the home  [@ito_connected_2013-1; @ito_hanging_2010; @ito_living_2009], charts a progression in proficiency of young makers of digital products in online communities.  This approach, connecting the affordances of new online tools with the sociocultural approach of viewing learning as embedded within social and cultural contexts, is well represented via case studies and is framed a pedagogical approach described as _Connected Learning_ in a book of the same name [@ito2013connected]. One of the authors Sefton Green [@sefton-green_mapping_2013] explores the wider context of digital making including the anxiety around the use of digital technology by young people and, it's alignment with valued digital skills required by the workforce. The author also notes the potential of, but also a lack of research on, transfer of learning opportunities, and learner trajectories between informal experiences, formal learning settings and professional destinations.  
 
 <!--
+@erstad_identity_2012
+
+
+The practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
+SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN. -->
+<!--
     David Buckingham’s (2003) review of media education described a long history of how making can support critical understanding, and how this can encourage a more critical and contextualised understanding of production and the making process. This additionally meshes with constructivist beliefs in how making is a better way of understanding than simple instruction (Papert, 1993), and lies at the heart of some of the new orthodoxies about critical participation (Jenkins et al, 2007) [@sefton-green_mapping_2013]-->
-
-Sefton Green [@sefton-green_mapping_2013; @erstad_identity_2012] explores the wider context of digital making including the anxiety around the use of digital technology by young people and, it's alignment with valued digital skills required by the workforce.
-The author also notes the potential of, but also a lack of research on, transfer of learning opportunities, and learner trajectories between informal experiences, formal learning settings and professional destinations.  
-
-
-The practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties. SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN.
-
-
 <!-- SF mentions Mozilla webmaker tools, computer club house, physical computing, hacking a pedagogy - in chap3 on informal approaches.   -->
 <!-- Gee also investigate a learning experiences is founded on his understanding of  -->
 <!-- Barron and Livingstone have outlined the advantages and processes involved in family involvement of technology use and learning in the home. -->
 
 
+### A review of studies on computer game design and programming (CGD&P)
 
-### Game studies making
-
-Turning more specifically to CDG&P, there are several notable reviews exploring the broad motivations and impact of making games for learning, a field termed computer game design and programming (CGD&P) by that Denner and colleagues [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Some reviews focus on key areas of CGD&P while others take a broader approach. For instance, Bermingham et al [@bermingham_approaches_2013] emphasise 21st Century skills, while Gee and Tran discuss the diverse tools available for game design [-@gee_video_2016]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review[-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions. These include studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. These competencies are commonly known as 21st Century Skills.
+Turning more specifically to CDG&P, there are several notable reviews exploring the broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Some reviews focus on key areas of CGD&P, for instance, Bermingham et al [@bermingham_approaches_2013] emphasise 21st Century skills, while Gee and Tran discuss the diverse tools available for game design [-@gee_video_2016]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review[-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions. These include studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. These competencies are commonly known as 21st Century Skills.
 
 
 <!-- Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. -->
 
 <!-- Of particular interest to this study are studies exploring the social and cultural dimensions of CGD&P. While studies on pair programming techniques in CGD&P [@denner_computer_2007; @werner_can_2009] yield positive results, including increased confidence in coding and articulation of problems arising,  -->
 
-Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant. Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017].
-
-The narrative and effusive nature of the review can be compared with that of Denner et al[@denner_does_2019;], who take a systematic approach in their review and more modest claims regarding the effectiveness of CGD&P to develop computing science learning and motivation.
-They are more cautious but the finding are also broadly positive. They outline three strands of pedagogical interest, use of design cycles, stepwise approaches (WHICH IS WHAT), and social approaches. They conclude by noting the need for more research describing and evaluating pedagogy in more detail.
+Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant. Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017]. The narrative and celebratory nature of Kafai and Burke's review can be compared with that of Denner et al[@denner_does_2019;], who take a systematic approach in their review and make more modest claims regarding the effectiveness of CGD&P to develop computing science learning and motivation.
+However, their cautious finding are also broadly positive. They outline three strands of pedagogical interest, use of design cycles, stepwise approaches (WHICH IS WHAT), and social approaches. They conclude by noting the need for more research describing and evaluating pedagogy in more detail.
 
 <!-- This deficit in addressing and assessing pedagogies used, is reflective of a comparatively weakness of concepts of pedagogy within the wider constructionist theory, a dimension which is explored after the next section barriers to participation. -->
 
@@ -294,7 +271,7 @@ Other studies show games as a potential vehicle for exploring issues involving r
 
 **Difficulty of computer programming**
 
-As CGD&G involves computer programming, it inherits some of the intrinsic difficulty of that process [@sentance_teaching_2019; @gomes2007learning; @joao_cross-analysis_2019]. These difficulties include but are not limited to: the complexity of syntax and problem of leading with syntax [@gomes2007learning], issues of needing levels of abstraction in learning programming [@gomes2007learning], difficulties in applying skills learned between contexts [@rahmat_major_2012]. The use of specialist coding tools, using techniques like block coding, aimed at novice coders and in particular younger audience and alleviate the complexity of coding syntax, environments, and project organisation [@yu_survey_2018]. However, the simplification involved creates a tension between the use of more authentic languages and specialised, scaffolded approaches [@joao_cross-analysis_2019]. This tension is explored within the context of digital making, by Sefton-Green in his description of the use of Mozilla webmaker tools [-@sefton-green_mapping_2013]. These tools using web languages of HTML, css and JavaScript act a bridge between informal practices of web based making and professional tools. He contrasts these tools to Scratch and similar block based systems which obfuscate learners from authentic code languages.
+As CGD&G involves computer programming, it inherits some of the intrinsic difficulty of that process [@sentance_teaching_2019; @gomes2007learning; @joao_cross-analysis_2019]. These difficulties include but are not limited to: the complexity of syntax and problem of leading with syntax [@gomes2007learning], issues of needing levels of abstraction in learning programming [@gomes2007learning], difficulties in applying skills learned between contexts [@rahmat_major_2012]. The use of specialist coding tools, using techniques like block coding, aimed at novice coders and in particular younger audience and alleviate the complexity of coding syntax, environments, and project organisation [@yu_survey_2018]. However, the simplification involved creates a tension between the use of more authentic languages and specialised, scaffolded approaches [@joao_cross-analysis_2019]. This tension is explored within the context of digital making, by Sefton-Green in his description of the use of Mozilla webmaker tools [-@sefton-green_mapping_2013]. These tools using web languages of HTML, CSS and JavaScript act a bridge between informal practices of web based making and professional tools. He contrasts these tools to Scratch and similar block based systems which obfuscate learners from authentic code languages.
 
     <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
 
@@ -676,16 +653,14 @@ In my own game making model students picked missions from a choice of printed re
 
 This section addresses programmes which address barriers  to participation in informal settings.
 
-As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers [Barefoot, NCCE, CAS].
+As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS].
 
 It particularly is concerned with identity, and including a structure of pedagogy
 
 
-
 ### Coding club(houses) & Grass Roots community responses
 
-It of interest to make a ink between early influnce of the constructionist school founded by Papert and this thesis.
-In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms, although with little detail on how to replicate them.
+It of interest to make a link between early influnce of the constructionist school founded by Papert and this thesis. In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms, although with little detail on how to replicate them.
 
 Additionally, Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
 
@@ -707,8 +682,8 @@ They were not extensively researched during the point of more grass roots
 
 Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally.
 
-Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
-As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis.
+<!-- Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
+As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis. -->
 
 
 
@@ -783,7 +758,7 @@ Including some of the following elements
 - **Structural challenges continue but the stuggle continues:** schools, curriculum etc, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
 
-Regarding game design patters, in the  work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  My research instead asks how the similar packaging up of components into GDPs can be used as a navigational and content delivery mechanism. 
+Regarding game design patters, in the  work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  My research instead asks how the similar packaging up of components into GDPs can be used as a navigational and content delivery mechanism.
 
 
 ### The problem statement of the thesis
