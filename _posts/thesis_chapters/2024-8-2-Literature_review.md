@@ -400,7 +400,9 @@ PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
 
 To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
 
-<!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
+<!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy
+
+ [@werner_middle_2005-1] -->
 
 
 <!-- Benefits which have been explored in research and toolsets privileging these aspects over coding or other skills. -->
@@ -469,8 +471,11 @@ Werner et al draw on existing research on collaborative   'social reality or joi
 
 
 Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
-
 - resource interdependence from Preston
+
+Links to other pedagogies in this work.
+UMC
+and Use of game design patterns [@werner_computational_2020]
 
 
 ### Use Modify Create
