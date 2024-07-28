@@ -273,13 +273,18 @@ Turning more specifically to CDG&P, there are several notable reviews exploring 
 
 <!-- Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. -->
 
-Of particular interest to this study are studies exploring the social and cultural dimensions of CGD&P. While studies on pair programming techniques in CGD&P [@denner_computer_2007; @werner_can_2009] yield positive results, including increased confidence in coding and articulation of problems arising, Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant. Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017]. This deficit in addressing and assessing pedagogies used, is reflective of a comparatively weakness of concepts of pedagogy within the wider constructionist theory, a dimension which is explored after the next section barriers to participation.
+<!-- Of particular interest to this study are studies exploring the social and cultural dimensions of CGD&P. While studies on pair programming techniques in CGD&P [@denner_computer_2007; @werner_can_2009] yield positive results, including increased confidence in coding and articulation of problems arising,  -->
+
+Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant. Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017].
+
+This narrative nature of the review can be compared with that of Denner et al[@denner_does_2019;], who take a systematic approach in their review to the effectiveness of CGD&P to develop computing skills.
+They are more cautious but the finding are also broadly positive. They outline three strands of pedagogical interest, use of design cycles, stepwise approaches (WHICH IS WHAT), and social approaches. They conclude by noting the need for more research describing and evaluating pedagogy in more detail.
+
+<!-- This deficit in addressing and assessing pedagogies used, is reflective of a comparatively weakness of concepts of pedagogy within the wider constructionist theory, a dimension which is explored after the next section barriers to participation. -->
 
 <!-- In related work, Robertson's drew on storytelling games, to access participant knowledge in accessible ways []] -->
 <!-- What is missing?
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
-
-
 
 ## Barriers (and tensions) related to participation in game making
 
